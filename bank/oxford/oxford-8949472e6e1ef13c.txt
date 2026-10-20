@@ -1,0 +1,1928 @@
+Chapter 25 	Basic genetics
+
+Multiple-choice questions
+
+[10262979]
+// Schematic diagram // Applying concepts //
+*	Huntington's disease (HD) is an autosomal dominant disease. Its occurrence is controlled by a pair of alleles. The pedigree below shows the inheritance of HD in a family. 
+	
+
+How many members of this family is/are homozygous dominant for the disease?
+A	0
+B	1
+C	2
+D	3
+
+A	
+---------------------------------------------------
+
+[10262989]
+// Comparison // Basic concepts //
+	An ovum is fertilized by a sperm, forming a male zygote. Which of the following correctly identifies the sex chromosome(s) carried in the ovum and the sperm?
+	Ovum	Sperm	
+A	X	X	
+B	X	Y	
+C	Y	X	
+D	XX	YY	
+
+B	
+---------------------------------------------------
+
+[10262991]
+// High order thinking // Applying concepts //
+*	A cattle breeder performed the following cross on two pure-bred shorthorn cattle, one with red coat and the other with white coat. All calves produced have a coat of red and white hairs. 
+	
+Which of the following is a probable explanation for the results?
+A	The allele for white coat is recessive.
+B	The alleles for red coat and white coat are co-dominant.
+C	Coat colour in shorthorn cattle is largely affected by the environment.
+D	Coat colour in shorthorn cattle is a sex-linked characteristic.
+B	
+---------------------------------------------------
+[10262993]
+// Graph interpretation // High order thinking // Applying concepts //
+**	Scientists studied the inheritance of four diseases (P, Q, R and S) in identical twins and fraternal twins. The graph below shows the results.
+	
+
+	Which disease is affected the most by genetic factors?
+A	P
+B	Q
+C	R
+D	S
+B	
+---------------------------------------------------
+
+
+[10263006]
+// Schematic diagram // Applying concepts //
+**	In chickens, sex is determined by a pair of sex chromosomes. Males have two
+Z chromosomes (ZZ) in their cells while females have one Z chromosome and one W chromosome (ZW). A gene on the Z chromosome controls the rate of feather growth. The allele for slow-feathering (F) is dominant to the allele for fast-feathering (f). The diagram below shows the feathers on the wings of a slow-feathering chick and a fast-feathering chick.
+
+	
+
+	A farmer chose two chickens with specific genotypes to breed, so that he can determine the sex of the chicks easily by looking at the feathers on their wings. Which of the following are probably the genotypes of the chickens?
+	Genotype of the male		Genotype of the female
+A	ZFZF						ZfW
+B	ZFZf						ZfW
+C	ZFZf						ZFW
+D	ZfZf						ZFW
+D	
+---------------------------------------------------
+
+[10263008]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of a genetic disease in a family. The disease is controlled by a pair of alleles.
+
+	
+
+Which of the following statements about the allele for this disease is correct?
+A	The allele for this disease is dominant because individual 6 has the same phenotype as her parents.
+B	The allele for this disease is dominant because the ratio of normal offspring to the affected offspring is 1:1 in the cross between individuals 1 and 2.
+C	The allele for this disease is recessive because individual 12 is affected while individual 8 is normal.
+D	The allele for this disease is recessive because individuals 1 and 2 are normal but some of their offspring are affected.
+D	
+---------------------------------------------------
+
+[10263014]
+// Applying concepts //
+*	The gene for making amylase can be found in
+(1)	cells of the salivary glands.
+(2)	white blood cells.
+(3)	red blood cells.
+A	(1) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10263016]
+// Applying concepts //
+*	One of the two strands of a DNA molecule is labelled with radioactive phosphates. The DNA molecule undergoes replication in the presence of non-radioactive nucleotides and two new DNA molecules, P and Q, are formed. DNA molecules P and Q contain
+	DNA molecule P			DNA molecule Q
+A	2 labelled strands			2 unlabelled strands
+B	2 labelled strands			1 labelled strand and
+							1 unlabelled strand
+C	1 labelled strand and		1 labelled strand and
+	1 unlabelled strand			1 unlabelled strand
+D	2 unlabelled strands 		1 labelled strand and
+1 unlabelled strand	
+D	
+---------------------------------------------------
+
+[10263021]
+// Calculation // Applying concepts //
+*	A double-stranded DNA molecule contains 28 000 bases and 8400 of which are adenine (A). What is the percentage of guanine (G) in the DNA molecule? 
+A	15%
+B	20%
+	C	30%
+	D	40%
+B	
+---------------------------------------------------
+
+[10263027]
+// Applying concepts //
+*	The length of hair in some cats is controlled by a pair of alleles. A cross between two long-haired cats produced 4 offspring, 3 of which had long hair and 1 had short hair. Which character is dominant and why?  
+	Dominant character	Reason	
+A	long hair	two long-haired parents produced short-haired offspring	
+B	long hair	the ratio of long hair to short hair is 3 : 1 in the offspring	
+C	short hair	two long-haired parents produced short-haired offspring	
+D	short hair	the ratio of long hair to short hair is 3 : 1 in the offspring	
+
+A	
+---------------------------------------------------
+
+[10263032]
+// Data handling // Experiment // Applying concepts //
+**	Chlorophyll production in maize plants is controlled by a pair of alleles. The dominant allele allows chlorophyll production and results in maize plants with green leaves. The recessive allele prevents chlorophyll production and results in maize plants with pale leaves. In an experiment, seeds from a cross between two green-leaved maize plants were divided into two groups and sown in trays placed in a bright room and a dark room respectively. The table below shows the number of green-leaved and pale-leaved offspring in each group.
+
+Sown in a bright room	Sown in a dark room	
+Green-leaved	Pale-leaved	Green-leaved	Pale-leaved	
+271	89	0	362	
+
+Which of the following can be deduced from the results? 
+(1)	Both of the green-leaved parent plants are heterozygous.
+(2)	All the pale-leaved offspring are homozygous. 
+(3)	Light affects chlorophyll production in maize plants.
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10263040]
+// Schematic diagram // Basic concepts //
+*	The pedigrees below show the inheritance of a disease in 3 families. Whether a person has this disease is controlled by a pair of alleles.
+	
+Which of the pedigrees allows you to determine whether the allele for the disease is dominant or recessive? 
+A	(1) only
+B	(2) only
+C	(3) only
+D	none of the above
+A	
+---------------------------------------------------
+
+
+[10263051]
+// Applying concepts //
+*	Derek and Patrick are a pair of twins. Which of the following information allows you to determine whether they are identical twins or fraternal twins?
+A	Both Derek and Patrick are of blood group AB. 
+B	Derek is 180 cm and Patrick is 160 cm in height.
+	C	Derek is better than Patrick in mathematics.
+	D	Derek has attached earlobes and Patrick has free earlobes.
+D	
+---------------------------------------------------
+
+[10263069]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the pedigree below, which shows the inheritance of a disease caused by a recessive allele.
+
+	Is the allele sex-linked and why?
+	Allele					Reason
+A	sex-linked				individual (4) is affected
+B	sex-linked				individual (8) is affected
+	C	not sex-linked				individual (3) is normal
+	D	not sex-linked				individual (7) is normal
+C	
+---------------------------------------------------
+
+
+[10263073]
+// Schematic diagram // Applying concepts //
+*	Which of the individuals must be heterozygous for this disease?
+A	individuals (5), (6) and (7) only
+B	individuals (1), (3), (5) and (6) only
+	C	individuals (1), (3), (6) and (7) only
+	D	individuals (1), (3), (5), (6) and (7) only
+B	
+---------------------------------------------------
+
+[10263077]
+// Applying concepts //
+*	The X chromosomes of the two sons of Mrs Chan have different genetic make-up. The difference is mostly due to
+A	environmental factors.
+B	mutation. 
+	C	independent assortment of chromosomes in gamete formation.
+	D	random fertilization of gametes.
+C	
+---------------------------------------------------
+
+
+[10263078]
+// Schematic diagram // Basic concepts //
+The diagram below shows the general structure of a part of a nucleic acid molecule.
+	
+	DNA and RNA differ in
+	A	the type of Q only.
+	B	the type of R only.
+	C	the types of P and R only.
+	D	the types of Q and R only.
+D	
+---------------------------------------------------
+
+[10263104]
+// Basic concepts //
+	Which of the following statements about genes is/are correct?
+	(1)	A gene is a segment of a DNA molecule on a chromosome.
+(2)	Genes control the types of carbohydrates a cell makes.
+(3)	All genes exist in two alternative forms.
+	A	(1) only					B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)	
+A	
+---------------------------------------------------
+[10263109]
+// Calculation // Applying concepts //
+*	In a DNA molecule of an organism, 20% of the nitrogenous base is thymine (T). What is the ratio of guanine (G) to thymine (A) in this DNA molecule?
+	A	1 : 3
+	B	2 : 1
+	C	2 : 3
+	D	3 : 2
+D	
+---------------------------------------------------
+
+[10263119]
+// Applying concepts //
+*	In mice, the coat colour is controlled by a pair of alleles. The allele for black coat is dominant while the allele for brown coat is recessive. A mouse with black coat and a mouse with brown coat are allowed to breed. Some of their offspring (F1) have black coat and some have brown coat. Based on this observation, which of the following statements is/are correct?
+(1)	The parent mouse with black coat is homozygous for black coat.
+(2)	All the F1 mice with black coat are heterozygous for black coat.
+	(3)	All the F1 mice with brown coat are homozygous for brown coat.
+	A	(1) only					B	(2) only
+	C	(1) and (2) only			D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10263122]
+// Applying concepts //
+*	A man of blood group O and his wife of blood group A are going to have baby. The baby may be of blood group
+A	A only.
+B	O only.
+C	AB only.
+	D	A or O.
+D	
+---------------------------------------------------
+
+
+[10263130]
+// Applying concepts //
+*	A man and his wife are of blood group AB. What is the chance of them giving birth to a child of blood group AB?
+	A	100%					B	75%
+	C	50%						D	25%
+C	
+---------------------------------------------------
+
+[10263131]
+// Applying concepts //
+*	Mary and Jane are a pair of identical twins. Which of the following characteristics must be the same among them?
+(1)	presence of dimples
+	(2)	intelligent quotient
+	(3)	hand span
+	A	(1) only					B	(3) only
+C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10263147]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the pedigree below, which shows the inheritance of red-green colour blindness in a family.
+	
+
+
+	From the above pedigree, we can deduce that
+(1)	red-green colour blindness is a dominant character.
+	(2)	individual 4 does not have the allele for red-green colour blindness.
+(3)	both individuals 1 and 3 are carriers of the allele for red-green colour blindness.
+	A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10263175]
+// Schematic diagram // Applying concepts //
+*	If individual 4 marries a woman who is a carrier of the allele for red-green colour blindness, what will be the chance of them having a baby with red-green colour blindness?
+	A	100%
+	B	75%
+	C	50%
+	D	25%
+D	
+---------------------------------------------------
+
+[10263188]
+// Basic concepts //
+	A gene can be best described as
+A	a pair of homologous chromosomes.
+B	a segment of a chromosome concerned with a specific function.
+C	the whole set of chromosomes.
+D	the basic unit of DNA.
+B	
+---------------------------------------------------
+
+
+[10263213]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a part of a DNA molecule.
+	
+	What are parts W, X, Y and Z?
+		Part W	Part X	Part Y	Part Z
+	A	phosphate	thymine	cytosine	deoxyribose
+	B	phosphate	cytosine	thymine	deoxyribose
+	C	cytosine	deoxyribose	phosphate	thymine
+	D	thymine	deoxyribose	phosphate	cytosine
+D	
+---------------------------------------------------
+
+[10263226]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of earlobes in a family. Free earlobes are the dominant character.
+	
+
+
+	The probability that individuals 3 and 4 will have a child with attached earlobes is
+	A	25%.
+B	50%.
+	C	75%.
+	D	100%.
+A	
+---------------------------------------------------
+
+[10263240]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of red-green colour blindness in a family.
+	
+	What are the genotypes of individuals 1 and 2?
+		Individual 1	Individual 2
+	A	XBY	XBXB
+	B	XBY	XBXb
+	C	XbY	XBXB
+	D	XbY	XBXb
+B	
+---------------------------------------------------
+
+
+[10263245]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of red-green colour blindness in a family.
+	
+	If individual 6 married a red-green colour-blind woman, what is the chance that their first child is red-green colour-blind?
+	A	25%			B	50%		
+	C	75%			D	100%
+B	
+---------------------------------------------------
+
+[10263249]
+// Data handling // Applying concepts //
+*	The presence of a tail in a certain variety of cat is controlled by a pair of alleles. The table below shows the results of three types of crosses between cats of this variety. 
+	Number of offspring	
+	With tail	Without tail	
+(1) without tail × without tail	40	72	
+(2) with tail × with tail	135	0	
+(3) without tail × with tail	73	63	
+The results of which type(s) of cross(es) can be used to deduce which allele for this characteristic is dominant?
+A	(1) only				B	(2) only
+C	(3) only				D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10263270]
+// Applying concepts //
+**	Which of the following statements about the inheritance of blood groups in families is/are correct?
+(1)	If the child is of blood group AB, the parents must be of blood groups A and B. 
+(2)	If both parents are of blood group O, the child must be of blood group O. 
+(3)	If the child is of blood group O, it is possible that both parents are of blood group A.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10263286]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of an X-linked genetic disease in a family. 
+	
+
+Which of the following individuals must be carriers?
+A	individuals 1 and 4 only
+B	individuals 1 and 6 only
+C	individuals 4 and 6 only
+D	individuals 1, 4 and 6
+D	
+---------------------------------------------------
+
+
+
+[10263289]
+// Applying concepts //
+**	Red-green colour blindness and cystic fibrosis are both genetic diseases. Red-green colour blindness is caused by a recessive allele on the X chromosome while cystic fibrosis is caused by a recessive allele on an autosome.
+Which of the following descriptions is/are correct for the inheritance of both diseases?
+(1)	A male having the disease can pass the disease allele on to his son. 
+(2)	A normal female can be homozygous or heterozygous. 
+(3)	If a heterozygous normal female and a male having the disease give birth to a child, the chance of the child having the disease is 50%.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10263293]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of blood groups in a family.
+	
+Let IA and IB represent the alleles for the production of antigens A and B respectively, and i represent the allele for no antigen production. Which of the following correctly shows the genotypes of individuals 2 and 4?
+Individual 2		Individual 4
+A	IAIB 			IAi 
+B	IBi 				IAIA 
+C	IBi 				IAi
+D	IBi 				ii
+C	
+---------------------------------------------------
+
+[10263296]
+// Schematic diagram // Basic concepts //
+	The diagram below shows some chromosomes in a cell of a person.
+	
+Which of the following statements about this person is correct?
+A	This person is a female. 
+B	All the gametes produced by this person contain a Y chromosome. 
+C	Each gamete produced by this person contains 22 pairs of autosomes.
+D	If a Y-bearing gamete of this person fuses with an X-bearing gamete produced by a person of opposite sex, the zygote will develop into a boy. 
+D	
+---------------------------------------------------
+
+[10263304]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows part of a DNA strand.
+	
+
+
+What do X, Y and Z represent?
+X					Y					Z
+A	deoxyribose			phosphate group		nitrogenous base 
+B	nitrogenous base		deoxyribose			phosphate group
+C	nitrogenous base		ribose				phosphate group
+D	phosphate group		deoxyribose			nitrogenous base
+B	
+---------------------------------------------------
+
+[10263311]
+// Schematic diagram // Basic concepts //
+	The part consisting of one molecule of X, one molecule of Y and one molecule of Z is called a
+A	gene.
+B	nucleotide.
+C	nucleic acid.
+D	polynucleotide.
+B	
+---------------------------------------------------
+
+[10263314]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the pedigree below, which shows the inheritance of free or attached earlobes in a family. This characteristic is controlled by a pair of alleles on autosomes. 
+	
+
+
+Let F represent the allele for free earlobes and f represent the allele for 
+attached earlobes. Which of the following is/are the possible genotype(s) 
+of individual 3?
+A	FF only
+B	Ff only
+C	ff only
+D	FF and Ff
+B	
+---------------------------------------------------
+
+[10263321]
+// Schematic diagram // Applying concepts //
+*	The exact genotypes of which individuals cannot be deduced from the pedigree?
+A	individuals 1 and 4 only
+B	individuals 6 and 7 only
+C	individuals 1, 6 and 7 only
+D	individuals 4, 6 and 7 only
+C	
+---------------------------------------------------
+
+[10263324]
+// Reading comprehension // Applying concepts //
+*	Directions: The following two questions refer to the paragraph below.
+	In humans, the shape of little fingers is controlled by a pair of alleles on autosomes. The allele for curved little fingers (F) is dominant while the allele for straight little fingers (f) is recessive. A father and a mother, both having curved little fingers, have three children: two of them have curved little fingers and one has straight little fingers.	
+
+What are the genotypes of the father and the mother?
+Father		Mother
+A	FF			FF
+B	FF			Ff
+C	Ff			FF
+D	Ff			Ff
+D	
+---------------------------------------------------
+
+[10263326]
+// Reading comprehension // Applying concepts //
+*	What is the chance of the next child of this couple having straight little fingers?
+A	0
+B	25%
+C	50%
+D	75%
+B	
+---------------------------------------------------
+
+[10263330]
+// Basic concepts //
+	Which of the following statements about chromosomes and genes is incorrect?
+A	Chromosomes are composed of DNA and proteins.
+B	Chromosomes are present only in cells that are about to divide.
+C	A gene is a small segment of DNA on a chromosome.
+D	The position of a gene on a chromosome is called a gene locus.
+B	
+---------------------------------------------------
+
+[10263346]
+// Applying concepts //
+*	Directions: The following two questions refer to a disease called muscular dystrophy, which is an X-linked genetic disease caused by a recessive allele. A carrier woman married a normal man, and they gave birth to a child.
+
+What is the chance of their child being a carrier?
+A	25%
+B	50%
+C	75%
+D	100%
+A	
+---------------------------------------------------
+
+
+[10263348]
+// Applying concepts //
+*	What will be the chance of their next child being a son with the disease?
+A	25%
+B	50%
+C	75%
+D	100%
+A	
+---------------------------------------------------
+
+[10263358]
+// Schematic diagram // Applying concepts //
+	The diagram below shows two pure-bred fruit flies. 
+	
+Three female flies with vestigial wings and three male flies with normal wings were put together for breeding. Two weeks later, the offspring produced were examined and all flies were found to have normal wings. A suitable term used to describe the offspring is
+A	homozygous dominant.
+B	homozygous recessive.
+C	heterozygous recessive.
+D	hybrid.
+D	
+---------------------------------------------------
+
+[10263373]
+// Schematic diagram // Applying concepts //
+**	Which of the following pedigrees does not show the inheritance of a disease caused by a recessive allele on the X chromosome?
+	
+
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10263386]
+// Applying concepts //
+*	A couple with normal vision gave birth to two boys. One of the boys suffers from red-green colour blindness while the other one does not. Let B represent the allele for normal vision and b represent the allele for red-green colour blindness, which of the following are the possible genotypes of the couple?
+A	XBXB and XBY 
+B	XBXb and XBY
+C	XBXb and XbY 
+D	XbXb and XbY
+B	
+---------------------------------------------------
+
+[10263398]
+// Applying concepts //
+*	Directions: The following two questions refer to the information below.
+In humans, the ability to produce a pigment in the skin is controlled by a pair of alleles on autosomes. A person without this pigment is called an albino. The table below shows some information of three families. 
+Family	Mother	Father	Offspring	
+I	Normal	Albino	Normal son	
+II	Normal	Normal	Albino daughter	
+III	Albino	Albino	Albino twins	
+
+The information from which family/families can be used to deduce which allele for this characteristic is dominant?
+A	family I only
+B	family II only
+C	family III only	
+D	families I and II only
+B	
+---------------------------------------------------
+
+[10263411]
+// Applying concepts //
+*	The son of family I married the daughter of family II. Which of the following correctly describes the expected phenotypes of their children?
+A	all normal				B	all albino
+C	1 normal : 1 albino			D	3 normal : 1 albino
+C	
+---------------------------------------------------
+
+[10263427]
+// Applying concepts //
+*	A DNA molecule is known to contain 20% adenine (A). What is the ratio of thymine (T) to cytosine (C) in this DNA molecule?
+A	1 : 1						B	1 : 2
+C	1 : 3						D	2 : 3
+D	
+---------------------------------------------------
+
+[10263435]
+// Schematic diagram // Applying concepts //
+*	Directions: The following four questions refer to the pedigree below, which shows the inheritance of a genetic disease in a family. Whether a person has this disease is controlled by a pair of alleles on autosomes.
+
+	
+
+Which of the following statements about the inheritance of this disease is/are correct?
+(1)	The allele for the disease is dominant.
+(2)	The allele for the disease is recessive.
+(3)	Parents with the disease will not give birth to a normal child.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10263447]
+// Schematic diagram // Applying concepts //
+*	Which of the family members must be heterozygous?
+A	individuals 1 and 2 only
+B	individuals 1, 2 and 4 only
+C	individuals 1, 2 and 8 only
+D	individuals 1, 4 and 8 only
+C	
+---------------------------------------------------
+
+[10263454]
+// Schematic diagram // Applying concepts //
+*	Which of the following correctly describes individual 5?
+A	He is homozygous dominant. 
+B	He is homozygous recessive.
+C	He is heterozygous dominant.
+D	His genotype cannot be determined.
+D	
+---------------------------------------------------
+
+[10263455]
+// Schematic diagram // Applying concepts //
+*	Which of the following correctly describes the genotype of individual 7?
+A	heterozygous dominant
+B	heterozygous recessive
+C	homozygous dominant
+D	homozygous recessive
+D	
+---------------------------------------------------
+
+[10263462]
+// Data handling // Applying concepts //
+*	In fruit flies, the body colour is controlled by a pair of alleles. The allele for grey body colour (G) is dominant to the allele for black body colour (g). The table below shows the results of several crosses.
+Cross	Results	
+strain 1 × gg	all grey	
+strain 2 × gg	grey : black = 1 : 1	
+strain 3 × Gg	all grey	
+strain 4 × Gg	grey : black = 3 : 1	
+
+Which strains have the genotype Gg?
+A	strains 1 and 2 only	
+B	strains 2 and 3 only
+C	strains 2 and 4 only
+D	strains 3 and 4 only
+C	
+---------------------------------------------------
+
+[10263487]
+// Applying concepts //
+	In lilies, the colour of flowers is controlled by a pair of alleles. The allele for white flower (F) is dominant to the allele for purple flower (f). Which of the following Punnett squares correctly shows the results of a cross between a lily heterozygous in the colour of flowers and a purple-flowered lily?
+A	
+
+F
+f
+
+F
+FF
+Ff
+
+f
+Ff
+ff
+
+	B	
+
+F
+F
+
+f
+Ff
+Ff
+
+f
+Ff
+Ff
+
+	
+C	
+
+F
+f
+
+f
+Ff
+ff
+
+f
+Ff
+ff
+
+	D	
+
+F
+F
+
+F
+FF
+FF
+
+f
+Ff
+Ff
+
+	
+
+C	
+---------------------------------------------------
+
+[10263497]
+// Basic concepts //
+	Which of the following statements about genes is incorrect?
+A	The DNA in a gene carries genetic information for making a polypeptide. 
+B	Genes determine the body characteristics by controlling the types of proteins a cell makes.
+C	One gene controls one characteristic.
+D	Each gene can exist as two or more alternative forms.
+C	
+---------------------------------------------------
+
+[10263500]
+// Applying concepts //
+	In potato plants, the height of plants is controlled by a pair of alleles. The allele for tallness is dominant to the allele for shortness.
+If a heterozygous potato plant is crossed with a short plant, the expected phenotypic ratio of the offspring would be
+A	1 tall : 1 short.				B	1 tall : 2 short.
+C	1 tall : 3 short.				D	3 tall : 1 short.
+A	
+---------------------------------------------------
+
+[10263505]
+// Schematic diagram // Applying concepts //
+*	Directions: The following three questions refer to the pedigree below, which shows the inheritance of curly and straight hair in a family. The allele for curly hair is dominant to the allele for straight hair.
+
+	
+
+If individual 1 is heterozygous, then which of the following statements about individuals 1 and 2 is correct?
+A	They have the same phenotypes and genotypes.
+B	They have the same phenotypes but different genotypes.
+C	They have different phenotypes but the same genotypes.
+D	They have different phenotypes and genotypes.
+A	
+---------------------------------------------------
+
+[10263509]
+// Schematic diagram // Applying concepts //
+*	Which of the following statements about individuals 4 and 5 is correct?
+A	They are both heterozygous.
+B	They are both homozygous dominant.
+C	They are both homozygous recessive.
+D	Their genotypes cannot be determined.
+A	
+---------------------------------------------------
+
+[10263510]
+// Schematic diagram // Applying concepts //
+*	What is the chance of the child of individuals 2 and 3 having straight hair?
+A	25%
+B	50%
+C	75%
+D	100%
+B	
+---------------------------------------------------
+
+[10263511]
+// Applying concepts //
+**	The colour and shape of the seeds of a plant are controlled by two pairs of alleles on different chromosomes. Let Y and y represent the alleles controlling the colour of the seeds, while R and r represent the alleles controlling the shape of the seeds. If the genotypes of the parent plants are YyRR and YyRr, which of the following is not a possible genotype of the individuals in the F1 generation?
+A	yyRR
+B	YyRr
+C	YyRR
+D	YYrr
+D	
+---------------------------------------------------
+
+[10263529]
+// Basic concepts //
+	Which of the following statements about variations are correct?
+(1)	The variations in phenotypes are caused by genetic factors and/or environmental factors.
+(2)	Variations among individuals of the same species can be classified into continuous variation and discontinuous variation.
+(3)	All variations can be inherited.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10263548]
+// Schematic diagram // Applying concepts //
+	Directions: The following three questions refer to the pedigree below, which shows the inheritance of curly and straight hair in a family. The characteristic is controlled by a pair of alleles on autosomes.
+
+	
+
+If all the people with curly hair in the above pedigree are heterozygous, what is the chance of P and Q having straight hair?
+P		Q
+A	25%		25%
+B	25%		75%
+C	50%		50%
+D	75% 	25%
+A	
+---------------------------------------------------
+
+[10263553]
+// Schematic diagram // Applying concepts //
+	If all the people with curly hair in the above pedigree are homozygous, what is the chance of P and Q having straight hair?
+P		Q
+A	0		0
+B	25% 	25%
+C	25%		75%
+D	50%		50%
+A	
+---------------------------------------------------
+
+
+[10263556]
+// Schematic diagram // Applying concepts //
+	What is the chance of P and Q being a female?
+P		Q
+A	25%		25%
+B	25%		75%
+C	50%		50%
+D	75%		25%
+C	
+---------------------------------------------------
+
+[10263568]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a human cell.
+	
+Which of the following statements about the chromosomes in this cell is correct?
+A	A Y chromosome is the only chromosome present in the nucleus.
+B	The X chromosome must be absent in the nucleus.
+C	The chromosomes are of different size.
+D	The chromosomes exist in pairs.
+C	
+---------------------------------------------------
+
+[10263590]
+// Applying concepts //
+	In tobacco plants, leaf colour is controlled by a pair of alleles, G and g. Let G represent the allele for green colour and g represent the allele for white colour. If a heterozygous tobacco plant is self-pollinated, which of the following is/are the possible genotype(s) of the offspring?
+A	Gg only
+B	Gg and gg only
+C	GG and gg only
+D	GG, Gg and gg
+D	
+---------------------------------------------------
+
+[10263612]
+// Schematic diagram // Applying concepts //
+*	Directions: The following four questions refer to the pedigree below, which shows the inheritance of curly and straight hair in a family. The allele for curly hair (H) is dominant to the allele for straight hair (h).
+
+	
+Which of the following is/are the possible genotype(s) of individual 3?
+A	HH only
+B	Hh only
+C	hh only
+D	HH and Hh
+B	
+---------------------------------------------------
+
+[10263616]
+// Schematic diagram // Applying concepts //
+*	What are the genotypes of individuals 6 and 7 respectively?
+Individual 6		Individual 7
+A	HH				HH
+B	HH				Hh
+C	Hh				HH
+D	Hh				Hh
+D	
+---------------------------------------------------
+
+[10263634]
+// Schematic diagram // Applying concepts //
+*	Which of the following individuals have an allele for straight hair passed on to individual 10?
+A	individuals 1 and 2
+B	individuals 1 and 4
+C	individuals 2 and 3
+D	individuals 1 or 2 and 4
+D	
+---------------------------------------------------
+
+[10263638]
+// Schematic diagram // Applying concepts //
+*	If individual 9 married a man with straight hair, what is the chance of their child having straight hair?
+A	0				B	25%
+C	50%				D	75%
+C	
+---------------------------------------------------
+
+[10263642]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an animal cell.
+	
+What is P?
+A	a pair of homologous chromosomes
+B	a chromatid
+C	a chromosome
+D	a gene
+C	
+---------------------------------------------------
+
+[10263647]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows the chromosomes in a cell of a normal person.
+	
+
+The chromosomes are taken from
+A	an ovum.	
+B	a sperm.
+C	a cheek cell.
+D	a mature red blood cell.
+C	
+---------------------------------------------------
+
+[10263652]
+// Basic concepts //
+	Which of the following statements about continuous variation is incorrect?
+A	Hand span is an example of continuous variation.
+B	The characteristics showing continuous variation may be affected by the environment.
+C	There is no intermediate phenotypes between the extremes of the characteristics showing continuous variation.
+D	The characteristics showing continuous variation are usually controlled by many genes.
+C	
+---------------------------------------------------
+
+[10263664]
+// Schematic diagram // Applying concepts //
+*	Glucose-6-phosphate dehydrogenase (G6PD) deficiency is a genetic disease caused by a recessive allele on an autosome. The pedigree below shows the inheritance of the disease in a family.
+
+	
+
+Let D represent the normal allele and d represent the allele causing this disease. What are the genotypes of individuals 2, 3 and 6?
+Individual 2		Individual 3		Individual 6
+A	DD				Dd				DD
+B	DD				dd				Dd
+C	Dd				dd				DD
+D	Dd				dd				Dd
+D	
+---------------------------------------------------
+
+[10263666]
+// Basic concepts //
+	Which of the following is/are the cause(s) of genetic variations?
+(1)	temperature
+(2)	mutation
+(3)	random fertilization of gametes
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+[10263677]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows a cell in humans.
+	
+Which of the following statements about this cell is correct?
+A	It is haploid.
+B	It is diploid.
+C	It carries two X chromosomes.
+D	It carries the maternal chromosomes only.
+A	
+---------------------------------------------------
+
+[10263685]
+// Schematic diagram // Basic concepts //
+	The cell fuses with another cell to form a zygote. The zygote
+A	has 23 chromosomes.
+B	has a pair of X chromosomes if it develops into a female.
+C	has a pair of Y chromosomes if it develops into a male.
+D	has one pair of homologous chromosomes only.
+B	
+---------------------------------------------------
+
+[10263693]
+// Basic concepts //
+	Which of the following are the components of DNA molecule?
+(1)	deoxyribose
+(2)	phosphate group
+(3)	adenine (A), thymine (T), cytosine (C) and guanine (G)
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10263708]
+// Basic concepts //
+	Which of the following characteristics in humans is most likely to be affected by the environment?
+A	eye colour			B	skin colour
+C	blood groups			D	shape of the thumbs
+B	
+---------------------------------------------------
+
+[10263710]
+// Basic concepts //
+	Which of the following is an example of discontinuous variation?
+A	intelligence quotient (IQ)
+B	heart rate
+C	length of the thumbs
+D	blood groups
+D	
+---------------------------------------------------
+
+[10263736]
+// Basic concepts //
+	Which of the following statements about DNA is incorrect?
+A	DNA carries genetic information.
+B	DNA is present in the nucleus of a cell.
+C	DNA determines the characteristics of organisms.
+D	DNA coils up many times by itself to form a chromosome.
+D	
+---------------------------------------------------
+
+[10263751]
+// Applying concepts //
+	The height of pea plants is controlled by a pair of alleles. The allele for tall plant is dominant to the allele for short plant. The offspring produced by crossing a pure-bred tall pea plant and a pure-bred short pea plant were
+A	all tall.
+B	all short.
+C	a mixture of tall and short plants.
+D	either all tall or a mixture of tall and short plants.
+A	
+---------------------------------------------------
+
+[10263753]
+// Basic concepts //
+	How many autosomes are present in a human body cell?
+A	1 pair
+B	2 pairs
+C	22 pairs
+D	23 pairs
+C	
+---------------------------------------------------
+
+[10263756]
+// Basic concepts //
+	In genetics, a plant with genotype 'Tt'
+(1)	is tall.
+(2)	is a heterozygote.
+(3)	is a hybrid.
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10263763]
+// Basic concepts //
+	Which of the following is an example of continuous variation?
+A	nose shape
+B	attached or free earlobe
+C	foot size
+D	the ability to roll the tongue
+C	
+---------------------------------------------------
+
+
+[10263764]
+// Basic concepts //
+	The base sequence of DNA determines
+A	the sequence of monosaccharides in polysaccharides.
+B	the sequence of amino acids in proteins.
+C	the sequence of fatty acids in lipids.
+D	the sequence of enzymes in metabolic pathways.
+B	
+---------------------------------------------------
+
+Short questions
+
+[10263894]
+// Graph interpretation // Communication // Applying concepts //
+*	Melanin is a dark pigment produced by a group of specialized cells in the innermost layer of human epidermis. The pigment absorbs ultraviolet light and prevents it from damaging the skin and its underlying tissues. The melanin content in skin varies greatly according to a person's genetic makeup and the amount of sunlight exposure. The production of melanin increases with increased exposure to sunlight. The graphs below show the variations in melanin content in skin in two populations (X and Y) of the same ethnic group.
+	
+a	Which type of variation, continuous or discontinuous, does the melanin content in skin within each population show? Support your answer with one piece of evidence from the graphs.						(2 marks)
+b	Populations X and Y are from two countries at different latitudes, one in the tropical zone (with a longer sunshine duration) and the other in the temperate zone (with a shorter sunshine duration). Determine which population is from the tropical zone and which one is from the temperate zone. Explain your answer.								(4 marks)
+-- answer --
+a	Continuous variation											1m
+	as the melanin content in skin within each population varies in a continuous manner.													1m
+b	Population X is from the temperate zone, where the sunshine duration is shorter.															1m
+	People have lower levels of sunlight exposure and thus their levels of melanin production are lower.											1m
+	Population Y is from the tropical zone, where the sunshine duration is longer.															1m
+	People have higher levels of sunlight exposure and thus their levels of melanin production are higher.										1m	
+---------------------------------------------------
+
+[10263897]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of blood group in a family.
+	
+
+a	Explain why individual 9 cannot receive blood transfusion from
+individual 10.											(3 marks)
+b	A boy claimed that he is the son of individual 8. The boy is of blood 
+group O. Explain whether this boy is possibly the son of individual 8. 
+(Let IA and IB represent the alleles for the production of antigens A and B respectively, and i represents the allele for no antigen production.)
+													(3 marks)
+
+
+
+
+
+-- answer --
+a	Anti-A antibodies are present in the blood of individual 9.				1m
+These antibodies will act against the antigen A on the red blood cells of
+individual 10 if individual 9 receives blood transfusion from individual 10.	1m
+The red blood cells in individual 9 will clump.						1m
+b	The genotype of individual 8 is IAIB and the genotype of the boy is ii.		1m
+The offspring of individual 8 must receive an allele IA or allele IB from her.	1m
+As the boy has none of these two alleles, he is not the son of individual 8.	1m	
+---------------------------------------------------
+
+[10263907]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a pair of homologous chromosomes in a cell undergoing meiotic cell division. The letters indicate the alleles of some genes on the chromosomes.
+	
+a	Based on the diagram, give one way in which the members of the pair of homologous chromosomes 
+	i	are similar in their genes.							(1 mark)
+	ii	are different in their genes.							(1 mark)
+b	Write the alleles present in the daughter cells resulted from the meiotic cell division of this cell if
+	i	crossing over occurs at the chiasma.					(1 mark)
+	ii	no crossing over occurs.								(1 mark)
+c	How does crossing over cause genetic variations among individuals?																(1 mark)
+
+
+
+
+
+-- answer --
+	a	i	They have the same sequence of genes. /
+			The alleles of genes are located at the same positions.			1m
+		ii	They have different combinations of alleles of the genes.			1m
+	b	i	GqR, Gqr, GQR, GQr										1m
+		ii	GqR, GQr												1m
+	c	Crossing over gives rise to new genetic combinations in gametes.		1m	
+---------------------------------------------------
+
+[10263908]
+// Drawing // Schematic diagram // Applying concepts //
+*	Red-green colour blindness is caused by a recessive allele (Xb) located on the X chromosome. The pedigree below shows the inheritance of red-green colour blindness in a family. 
+	
+a	Deduce the genotype of individual 3. (Marks will not be awarded for genetic diagrams.)										(4 marks)
+b	Draw a Punnet square to show the cross between individuals 1 and 2.															(3 marks)
+
+-- answer --
+	a	As individual 8 is a red-green colour-blind female, her genotype is Xb Xb.																	1m
+		One of the two Xb must be inherited from her mother (individual 3).	1m
+As individual 3 has normal colour vision, she must have at least one XB (the normal allele on her X chromosome).								1m
+		Therefore the genotype of individual 3 is XB Xb.					1m
+	b	
+Correct gametes of parents									1m
+Correct genotypes of offspring									1m
+Correct phenotypes of offspring									1m	
+---------------------------------------------------
+
+[10263909]
+// Communication // Applying concepts //
+*	Explain Mendel's first law and second law of inheritance with events occurring in meiotic cell division.										(5 marks)
+
+-- answer --
+Mendel's first law of inheritance:
+Alleles of each gene are located on a pair of homologous chromosomes and the 	two members of the homologous pair separate during anaphase I.				1m
+Each gamete receives one member of the homologous pair and hence its allele.																	1m
+Mendel's second law of inheritance:
+Homologous pairs line up randomly along the equator of the cell during metaphase I.																1m
+The members of each homologous pair then separate independently of the 	other pairs of chromosomes during anaphase I.									1m
+The separation of alleles for one gene on a pair of homologous chromosomes is therefore independent of the separation of alleles for other genes located on the other chromosomes.													1m	
+---------------------------------------------------
+
+
+[10263912]
+// Drawing // Applying concepts //
+*	In pea plants, the height of plant is controlled by a pair of alleles. The allele for tall plants (T) is dominant while the allele for short plants (t) is recessive. A student wanted to carry out a breeding experiment to determine the genotype of a tall pea plant.
+a	What is the genotype of the pea plant that the student should use to breed with the tall pea plant to determine the genotype of the tall pea plant?															(1 mark)
+b	If both tall and short plants appear in the F1 generation in the breeding experiment, is the tall pea plant being studied homozygous or heterozygous for tallness? Explain your answer with the aid of genetic diagrams.												(5 marks)
+c	If the tall plants in the F1 generation are allowed to self-pollinate, what will be the ratio of the phenotypes in the F2 generation?		(1 mark)
+
+
+-- answer --
+	a	tt													1m
+	b	
+Case 1:
+The genotype of the tall plant is TT.
+
+Case 2: 
+The genotype of the tall plant is Tt.
+
+
+		Correct genetic diagrams									2m × 2
+Since both tall and short plants appear in the F1 generation, the tall pea plant being studied is heterozygous for tallness.							1m
+	c	Tall : short = 3 : 1										1m	
+---------------------------------------------------
+
+
+[10263920]
+// Applying concepts //
+	In pea plants, the alleles for tall plants (T) and purple flowers (P) are dominant while the alleles for short plants (t) and white flowers (p) are recessive. A pure-bred tall pea plant with purple flowers is crossed with a pure-bred short plant with white flowers. The F1 generation is then allowed to self-pollinate. The diagrams below show the results of the crosses.
+	tall with purple flowers		short with white flowers 	
+Parents	TTPP	(	ttpp	
+				
+Gametes				
+
+F1	
+	
+TtPp		
+
+Gametes	
+			
+			
+		
+
+F2	TP	Tp	tP	tp	
+TP	TTPP	TTPp	TtPP	TtPp	
+Tp	TTPp	TTpp	TtPp	Ttpp	
+tP	TtPP	TtPp	ttPP	ttPp	
+tp	TtPp	Ttpp	ttPp	ttpp	
+a	In the F1 plants, what happens during gamete formation such that four types of gametes are produced? 							(2 marks)
+b	How many phenotypes appear in the F2 generation?			(1 mark)
+c	According to the results of the crosses, are the genes for plant height and flower colour located on the same or different chromosomes? 	(1 mark)
+
+-- answer --
+	a	The alleles for the gene that controls plant height and the alleles for the gene that 		controls flower colour 										1m
+		are assorted independently during gamete formation. 					1m
+	b	Four														1m
+	c	They are located on different chromosomes.						1m	
+---------------------------------------------------
+
+[10263923]
+// Overseas exam question // Schematic diagram // Applying concepts //
+*	Haemophiliacs possess a non-functional form of the gene responsible for the production of blood clotting factors.
+The pedigree diagram below shows the incidence of haemophilia in an affected family.
+	
+Individuals within the pedigree are numbered. Males are represented by squares and females by circles. Those who have haemophilia are represented by solid symbols.
+a	On the basis of the information provided, is the inheritance of haemophilia:
+i	autosomal or sex-linked? Justify your answer.			(1 mark)
+ii	dominant or recessive? Justify your answer.				(1 mark)
+b	Using the symbols h to represent the allele for haemophilia and H for the normal allele, state the genotype of each of the following:
+i	individual 2.										(1 mark)
+ii	individual 4.										(1 mark)
+c	There is no evidence of haemophilia in previous generations of this family. State the most likely reason for the condition appearing in the family pedigree shown.	(1 mark)
+					 CCEA GCE (A) Biology Module 2 May 2012 Q6a-b, d
+
+-- answer --
+a	i	Haemophilia is sex-linked because it mainly occurs in males.		1m
+ii	Haemophilia is recessive because the parents of individual 4 / 9 / 16 / 17 do not have haemophilia.									1m
+b	i	XHXh												1m
+ii	XhY													1m
+c	Mutation													1m 	
+---------------------------------------------------
+[10263924]
+// Graph interpretation // Applying concepts //
+*	The histogram below shows the numbers of pea pods of different lengths produced by a plant during a dry and a wet summer.
+
+	
+
+a	Deduce whether the length of pea pods is controlled by one single gene or many genes. Explain your answer.							(2 marks)
+b	'The length of pea pods shows a continuous variation.' State two evidences to support this statement.						(2 marks)
+
+-- answer --
+a	The length of pea pods is controlled by many genes					1m
+because it is not possible for a single gene to give so many varieties.		1m
+b	The histogram shows a continuous range of intermediate lengths of pea pods between 5 mm and 155 mm.									1m
+The variations in length in both dry and wet summer show a normal distribution.															1m	
+---------------------------------------------------
+
+[10263945]
+// Applying concepts //
+*	The blood groups in humans (A, B, AB and O) are controlled by a single gene which has three alleles, IA, IB and i. i is recessive to both IA and IB. The son of Paul and Mary is of blood group B. Mary is of blood group A. Answer the questions below without using genetic diagrams.
+a	What is the genotype of Mary? Explain your answer.			(3 marks)
+b	A recessive allele which causes a genetic disease is located on the X chromosome. If Paul's mother has the disease and Mary is a carrier of the disease, what is the chance of the son of Paul and Mary having the disease? Explain your answer.									(3 marks)
+-- answer --
+a	Since Mary is of blood group A, she must possess at least one IA. The possible genotypes of her are IAIA or IAi. 									1m
+Her son is of blood group B. It is not possible for him to possess an allele IA. The only allele that Mary can pass on to him is i.						1m
+Thus, the genotype of Mary is IAi.								1m
+b	As Paul's mother has the disease, she must have the disease allele on both X chromosomes. One of her X chromosomes passed on to Paul, so Paul has the disease. 													1m
+Mary is a carrier of the disease. She must have a disease allele on one of her X chromosomes, and a normal allele on the other. 					1m
+The son of Paul and Mary has only one X chromosome, which is from Mary. Therefore, there is a 50% chance for him to have the disease. 			1m	
+---------------------------------------------------
+
+[10263948]
+// Communication // Basic concepts //
+	What are the features of DNA that make it an ideal genetic material?	(4 marks)
+-- answer --
+The base sequence of DNA determines the amino acid sequence in polypeptides. /
+The pairing of specific bases enables accurate replication. /
+DNA is a large molecule consisting of a large number of nucleotides. This allows it to carry a large amount of genetic information. /
+DNA is a stable molecule. Its helical structure is maintained by many hydrogen bonds between the two strands. /
+The base pairs project inward in a DNA molecule. This protects the genetic information from damage. (any 4)											1m x 4	
+---------------------------------------------------
+[10263970]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of haemophilia in a family. Haemophilia is a disease caused by a recessive allele on the X chromosome.
+
+	
+
+a	State the genotypes of individuals 2, 7 and 13. (H represents the dominant allele while h represents the recessive allele)					(3 marks)
+b	What are the possible genotypes of individual 6? What is the chance that she is carrying the allele for haemophilia?					(2 marks)
+c	If individuals 9 and 10 are going to give birth to a boy, what is the chance of this boy having haemophilia?							(1 mark)
+-- answer --
+a	Individual 2: XHXh											1m
+Individual 7: XHXh											1m
+Individual 13: XhXh											1m
+b	XHXH and XHXh												1m
+50%														1m
+c	50%														1m	
+---------------------------------------------------
+
+
+[10263980]
+// Drawing // Applying concepts //
+*	Normal people produce a dark pigment called melanin. The production of melanin is controlled by a pair of alleles, B and b, on autosomes. When a person has at least one dominant allele (B), melanin is produced. 
+a	A couple, both can produce melanin, give birth to a child. The child has a pale skin and white hair due to the lack of melanin. Draw a genetic diagram to explain how this could happen.					(3 marks)
+b	The couple are going to have another child. Referring to the genetic diagram, predict the chance that this child can produce melanin.																(2 marks)
+-- answer --
+a	
+
+b	Phenotypic ratio:
+Can produce melanin : cannot produce melanin = 3 : 1				1m
+The chance that this child can produce melanin = 75%				1m	
+--------------------------------------------------- 
+
+[10263988]
+// Communication // Basic concepts //
+	Explain briefly how sex is determined in humans.					(6 marks)
+-- answer --
+Sex in humans is determined by a pair of sex chromosomes.				1m
+A male has an X chromosome and a Y chromosome while a female has two X chromosomes.													1m
+A male produces sperms with an X chromosome or a Y chromosome, and they are of equal number.													1m
+A female can only produce ova with an X chromosome.					1m
+If an ovum fuses with an X-bearing sperm, the zygote develops into a girl.		1m
+If an ovum fuses with a Y-bearing sperm, the zygote develops into a boy.		1m	
+---------------------------------------------------
+[10263989]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a segment of a polynucleotide chain.
+	
+Name parts X, Y and Z.										(3 marks)
+-- answer --
+X: phosphate group												1m
+Y: nitrogenous base												1m
+Z: 5-carbon sugar												1m	
+---------------------------------------------------
+
+[10263998]
+// Basic concepts //
+	Human blood can be classified into group A, B, AB or O. Complete the following table.											(6 marks)
+Blood group	Antigen on red blood cells	Antibody in plasma	
+A	Antigen A		
+B			
+	Antigen A and antigen B	None	
+		Anti-A and anti-B	
+
+-- answer --
+Blood group
+Antigen on red blood cells 
+Antibody in plasma
+
+A
+Antigen A
+Anti-B
+
+B
+Antigen B
+Anti-A
+
+AB
+Antigen A and antigen B
+None
+
+O
+None
+Anti-A and anti-B
+
+														1m x 6	
+---------------------------------------------------
+[10264014]
+// Communication // Basic concepts //
+	What are continuous variation and discontinuous variation? Give one example of each.													(6 marks)
+
+-- answer --
+Continuous variation:
+It is a variation which has a continuous range of intermediate phenotypes between two extremes.														1m
+The characteristics showing continuous variation are usually controlled by many genes and may be affected by the environment.								1m
+Example: height / weight / skin colour / hand span						1m
+Discontinuous variation:
+It is a variation which has only a few distinct phenotypes with no intermediates.	1m
+The characteristics showing discontinuous variation may be controlled by one pair of alleles and are less likely to be affected by the environment.				1m
+Example: ability to roll the tongue / free earlobes or attached earlobes / shape of 
+hairline / straight thumb or hitchhiker's thumb							1m	
+--------------------------------------------------- 
+[10264031]
+// Basic concepts //
+	Complete the following sentences using suitable words selected from the list below.													(7 marks)
+phenotype		genotype			hybrid			pure-bred
+homozygote		heterozygote		dominant			recessive		
+
+a	                     is the genetic make-up of an individual.
+b	A                      is an individual produced from a cross of two homozygous but genetically different parents.
+c	A                      allele can be expressed in a homozygous or heterozygous condition.
+d	                     is the observable character of an individual.
+e	A                      is an individual that contains two different alleles of a gene.
+f	A                      allele can only be expressed in a homozygous condition.
+g	A                      is an individual that contains identical alleles of a gene.
+
+-- answer --
+a	Genotype													1m
+b	hybrid													1m
+c	dominant													1m
+d	Phenotype													1m
+e	heterozygote												1m
+f	recessive													1m
+g	homozygote												1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10264150]
+// High order thinking // Communication // Critical thinking // Schematic diagram //
+**	Tay-Sachs disease is an autosomal genetic disorder. It is caused by an allele of the gene that codes for the enzyme hexosaminidase A (HEXA). The functional form of HEXA catalyses the breakdown of a toxic substance into harmless products in the central nervous system. But in patients with Tay-Sachs disease, a non-functional form of HEXA is produced, resulting in the accumulation of the toxic substance in neurones. Tay-Sachs disease is a highly fatal disease. Patients usually die in childhood.
+	The pedigree below shows the inheritance of Tay-Sachs disease in a family.
+	
+
+a	Patients with Tay-Sachs disease develop normally at first after birth. Symptoms only appear around three to six months of age. Suggest why.														(1 mark)
+b	i	Based on the above pedigree, deduce, with reasons, whether the allele for Tay-Sachs disease is dominant or recessive.			(4 marks)
+		(Note: Marks will not be awarded for genetic diagrams.)
+ii	Individual 9 is a two-month old baby and she has developed 
+normally. Since individual 6 does not have a family history of Tay-Sachs disease, he claims that individual 9 does not have the disease. Do you agree with him? Explain your answer.		(4 marks)
+	(Note: Marks will not be awarded for genetic diagrams.)
+c	Explain why the occurrence of Tay-Sachs disease is very rare in the human population.										(2 marks)
+
+-- answer --
+a	It takes time for the toxic substance to accumulate to high levels that cause symptoms.												1m
+b	i	Individual 3 has Tay-Sachs disease. He must have at least one allele for the disease that is inherited from his parents, either individual 1 or 2.		1m
+	Both individuals 1 and 2 are normal. They must have at least one normal allele.												1m
+	Hence, at least one of individuals 1 and 2 is heterozygous.			1m
+	Since only the dominant allele is expressed while the effect of the recessive allele is masked in a heterozygous condition, the allele for Tay-Sachs disease should be recessive.								1m
+ii	Yes													1m
+	Individual 6 is normal and does not have a family history of Tay-Sachs disease. He is probably homozygous dominant.					1m
+	He must have passed a normal allele on to individual 9.			1m
+	Individual 9 must have at least one normal allele, which can express itself in a heterozygous condition. She does not have the disease.			1m
+	OR
+	No. 													1m
+	Even though individual 6 does not have a family history of Tay-Sachs disease, there is still a chance that either/both of his parents is/are heterozygous 											1m
+	and passed on a disease-causing allele to individual 6. Hence, individual 6 can be heterozygous. 									1m
+	If individual 5 is also heterozygous, there is a 25% (or 1/4) chance that individual 9 has the disease. 								1m
+c	The patients usually die in childhood so they may not have the chance to reproduce.													1m
+They cannot pass the allele for Tay-Sachs disease on to the next generation.														1m	
+---------------------------------------------------
+
+
+[10264167]
+// Communication // Schematic diagram // Applying concepts //
+**	The fur colour of mice is controlled by a pair of alleles. In a breeding programme, a mouse with white fur crossed with a mouse with brown fur. The mice in the F1 generation were then allowed to interbreed to produce the F2 generation. The diagram below shows the breeding programme and the results.
+	
+
+a	A student suggested, 'The allele for white fur is dominant'. Based on the results of the breeding programme, comment on the student's statement. Explain your answer without using genetic diagrams.			(5 marks)
+b	In mice, sex is determined by a pair of sex chromosomes. Males have one X chromosome and one Y chromosome (XY) in their cells while females have two X chromosomes (XX). In the F2 generation, one of the white fur mice is male and the other is female. Without using genetic diagrams, deduce whether the allele for white fur is located on the X chromosome.	(4 marks)
+
+-- answer --
+a	The statement is not correct.									1m
+The white mice in the F2 generation must have received at least one allele for white fur from either parent.									1m
+Since all mice in the F1 generation have brown fur, each of them must possess at least one allele for brown fur.									1m
+Therefore, at least one of the parents of the F2 white mice is heterozygous.	1m
+Since only the dominant character is shown in the heterozygous condition, the allele for brown fur must be dominant.								1m
+
+
+b	If the allele for white fur is X-linked, the female white fur mouse in the F2 generation must have allele for white fur on both X chromosomes.		1m
+One of these X chromosomes must come from a male mouse in the F1 generation.														1m
+As male mice have only one X chromosome, a male mouse having one allele for white fur would have white fur.									1m
+Since all mice in the F1 generation have brown fur, the allele for white fur is not located on the X·chromosome.									1m	
+---------------------------------------------------
+
+[10264169]
+// Drawing // Applying concepts //
+*	Duchenne muscular dystrophy (DMD) is a genetic disease in which muscle fibres of patients gradually degenerate. It is caused by a recessive allele on the
+X chromosome.
+a	Suggest how the movement would be affected if a patient has DMD.
+													(2 marks)
+b	i	State the name given to this mode of inheritance.			(1 mark)
+	ii	Explain what is meant by the term recessive allele.		(2 marks)
+c	A couple who show no symptoms of the disease plan to have a baby. They found that the wife is a carrier after a genetic test. Deduce the chance that their child has DMD. Use a genetic diagram to illustrate your answer.
+													(5 marks)
+
+
+-- answer --
+a	As the muscle fibres of the patient gradually degenerate, there are less skeletal muscle fibres to move the bones.								1m
+The patient would have difficulty in movement.						1m
+b	i	Sex linkage											1m
+ii	It is the form of a gene									1m
+	expressed only in the absence of the dominant allele.				1m
+
+
+
+
+
+
+
+
+c	Let D represent the allele for normal muscle fibres and d represent the allele for DMD.													1m
+
+The chance that the child has DMD is 25%.							1m	
+---------------------------------------------------
+
+[10264178]
+// Drawing // Applying concepts //
+	The ABO blood group system is based on the presence of antigens on the cell membrane of red blood cells. The production of antigens is controlled by a single gene.
+a	Define the symbols for the different alleles of the gene which controls the production of the antigens.								(3 marks)
+b	A man and his wife are of blood groups B and A respectively. They have a child who is of blood group O. The couple is going to have another child. What is the chance of their second child having blood group O? Illustrate your answer with a genetic diagram.						(5 marks)
+
+-- answer --
+	a	Let IA represent the allele for the production of antigen A,				1m
+		IB represent the allele for the production of antigen B and				1m
+		i represent the allele for no production of antigens.					1m
+
+
+
+
+
+
+
+
+	b
+
+		The chance of their second child having blood group O is 25%.
+		Correct genotypes of parents									1m
+		Correct gametes											1m
+		Correct F1 genotypes											1m
+		Correct F1 phenotypes										1m
+		Correct ratio or percentage of chance								1m	
+---------------------------------------------------
+
+
+[10264199]
+// Drawing // Communication // Applying concepts //
+*	The pedigree below shows the inheritance of the ability of tongue-rolling in a family. The ability of tongue-rolling is controlled by a pair of alleles on an autosome.
+	
+
+a	Based on the above pedigree, deduce whether the allele for being able to roll the tongue is dominant or recessive. (Marks will not be awarded for genetic diagrams.)										(4 marks)
+b	State the genotypes of the individuals 7 and 9. Define the symbols you 
+use.													(3 marks)
+c	Individuals 13 and 14 are going to have a child. With the aid of a genetic diagram, predict the probability of this child being a tongue-roller.															(3 marks)
+
+-- answer --
+	a	Individuals 3 and 4 are tongue-rollers, therefore each of them must possess at 			least one allele for being able to roll the tongue.						1m
+		They have a non-roller child (individual 11), that means at least one of them must 		also possess one allele for not being able to roll the tongue.				1m
+		At least one of the parents is heterozygous.						1m
+		In a heterozygous condition, only the dominant allele is expressed. Therefore, the 		allele for being able to roll the tongue is dominant.					1m
+	b	Let R be the allele for being able to roll the tongue and r be the allele for not being 		able to roll the tongue.										1m
+		The genotype of individual 7 is rr.								1m
+		The genotype of individual 9 is Rr.								1m
+	c	
+
+
+		Correct genetic diagram										2m
+		The probability of the child being a tongue-roller is 50%.				1m	
+---------------------------------------------------
+
+[10264218]
+// Drawing // Applying concepts //
+*	Melissa and Jessie are a pair of identical twins.
+a	Melissa and Jessie were separated soon after their birth. Melissa has been raised in a rich family while Jessie has been raised in a poor family. Twenty years later, Melissa is significantly taller than Jessie. Explain why.														(1 mark)
+b	Both of the twins are of blood group AB. What is/are the type(s) of antigens on their red blood cells? What is/are the possible genotype(s) of them? (IA and IB represent the alleles for the production of antigens A and B respectively, and i represents the allele for no antigen production.)															(2 marks)
+c	If Melissa marries a man of blood group O and they are going to have a baby, what is the chance of having a baby of blood group A? Illustrate your answer with a genetic diagram.						(4 marks)
+
+-- answer --
+a	The environment (e.g. nutrition) affected the growth of Melissa and Jessie.	1m
+b	There are both antigens A and B on their red blood cells.				1m
+Their genotype is IAIB.										1m
+
+
+
+
+
+c	
+
+The chance of having a baby of blood group A is 50%.					1m	
+---------------------------------------------------
+
+[10264242]
+// Communication // Applying concepts //
+*	a	At which stage of the cell cycle does DNA replicate in the cells?	(1 mark)
+b	Does the replication of DNA require energy?					(1 mark)
+c	Briefly describe the major steps of DNA replication.			(4 marks)
+d	A DNA molecule contains X bases, in which Y of them are cytosine (C). If this DNA molecule is allowed to replicate three times in a culture medium, how many free adenines (A) do these processes require? Show your working.												(4 marks)
+-- answer --
+a	Interphase													1m
+b	Yes														1m
+c	The hydrogen bonds holding the two DNA strands together break and the two strands separate.											1m
+Each DNA strand acts as a template for the synthesis of a new DNA strand.	1m
+DNA polymerase catalyses the addition of free nucleotides complementary to each template.													1m
+Two identical DNA molecules are formed. Each contains an original strand and a new strand.												1m
+d	In each DNA molecule:
+Number of G = number of C = Y									1m
+Number of A = number of T = (X - 2Y)/2							1m
+Number of new DNA molecules synthesized in three replication: 23 - 1 = 7	1m
+Free adenines needed = 7(X - 2Y)/2								1m	
+---------------------------------------------------
+[10264245]
+// Drawing // Schematic diagram // Applying concepts //
+*	Shapes of little fingers of the individuals in a family are shown in the pedigree below. The characteristic is controlled by a pair of alleles on autosomes. The allele for curved little fingers (F) is dominant to the allele for straight little fingers (f).
+	
+a	State the possible genotypes of individuals 1, 4 and 8. Give reasons.															(6 marks)
+b	If individuals 7 and 8 plan to have another child, what is the chance that the child has straight little fingers? Explain with a genetic diagram.															(4 marks)
+-- answer --
+a	As individual 7 has straight little fingers, her genotype must be ff. She must have received one allele f from individual 1.								1m
+As individual 1 has curved little fingers, his genotype must be Ff.			1m
+Individual 4 has curved little fingers. Her genotype may be FF or Ff.		2m
+Individual 3 must have genotype ff as he has straight little fingers. He passed one allele f on to individual 8.										1m
+As individual 8 has curved little fingers, his genotype must be Ff.			1m
+
+
+
+
+
+
+b
+
+The chance that the child has straight little fingers is 50%.				1m	
+---------------------------------------------------
+
+[10264271]
+// Graph plotting // Basic concepts //
+	A group of students took an intelligence quotient (IQ) test. The table below shows the number of students in each IQ interval.
+
+Intelligence quotient (IQ)	Number of students	
+91-95	1	
+96-100	5	
+101-105	7	
+106-110	15	
+111-115	18	
+116-120	10	
+121-125	4	
+a	Construct a histogram to show the variation in IQ of this group of 
+students.												(4 marks)
+b	Which type of variation is it? Explain.						(2 marks)
+c	Give two more examples of this type of variation in humans.	(1 mark)
+d	List the causes of variations.								(5 marks)
+
+
+
+
+
+
+
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes												1m
+With labels 												1m
+Correct lengths of the bars										1m
+b	Continuous variation											1m
+because there is a continuous range of intermediate phenotypes between two extremes. 												1m
+c	Height / weight / skin colour / hand span (any 2 or other correct answers)	1m
+d	Independent assortment of chromosomes at meiosis					1m
+Crossing over at meiosis										1m
+Random combination of gametes during fertilization					1m
+Mutation													1m
+Environment												1m	
+---------------------------------------------------
+
+[10264282]
+// Calculation // Schematic diagram // Applying concepts //
+*	Human blood can be classified into four groups, A, B, AB and O. ABO blood groups are determined by the presence or absence of antigens A and B on the surface of the red blood cells. The inheritance of blood groups is controlled by three alleles:
+IA	Responsible for the production of antigen A	
+IB	Responsible for the production of antigen B	
+i	Produces no antigens	
+
+Alleles IA and IB are co-dominant while allele i is recessive to both.
+The pedigree below shows the inheritance of ABO blood groups in a family.
+
+	
+
+a	Which antibody or antibodies is/are present in the plasma of 
+individual 13?											(1 mark)
+b	What are the genotypes of individuals 1 and 2 respectively?		(2 marks)
+c	If individuals 6 and 7 are going to have another child, what is the chance that the child is a girl of blood group A? Explain your answer.	(4 marks)
+d	A girl claimed that she is the daughter of individual 5. The girl is of blood group O. Explain whether this girl is possibly the daughter of individual 5.														(3 marks)
+
+
+
+
+-- answer --
+a	Anti-A and anti-B											1m
+b	Individual 1: IAi 												1m
+Individual 2: IBi												1m
+c	1/8														1m
+The genotype of individual 6 is IAi and that of individual 7 is IBi.			1m
+The chance that the child is of blood group A is 1/4.					1m
+The chance that the child is a girl is 1/2.							1m
+d	She is not the daughter of individual 5.							1m
+The genotype of individual 5 is IAIB and the genotype of the girl is ii.		1m
+The offspring of individual 5 must receive an allele IA or allele IB from her. 
+As the girl has none of these two alleles, she is not the daughter of individual 5.															1m	
+---------------------------------------------------
+
+[10264299]
+// Drawing // Communication // Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of the ability to roll the tongue in a family. The characteristic is controlled by a pair of alleles on autosomes. 
+	
+a	Deduce from the pedigree whether tongue rolling is a dominant or recessive character. (Marks will not be awarded for genetic diagrams.)														(4 marks)
+b	State the genotype of individual 6. Define the symbols you use.	(2 marks)
+c	Draw a genetic diagram to show the result of the cross between individuals 1 and 2.										(3 marks)
+
+
+
+
+
+
+-- answer --
+a	Since individual 6 is a non-tongue roller, he must have received at least one allele for non-tongue rolling from either parent. 							1m
+Since both individuals 1 and 2 are tongue rollers, each of them must possess at least one allele for tongue rolling.								1m
+Therefore, at least one of individuals 1 and 2 is heterozygous. 			1m
+Since only the dominant character is shown in the heterozygous condition, tongue rolling must be a dominant character. 							1m
+b	Let G represent the allele for tongue rolling, g represent the allele for non-tongue rolling.													1m
+The genotype of individual 6 is gg.								1m
+c	
+	
+---------------------------------------------------
+
+
+[10264303]
+// Drawing // Communication // Schematic diagram // Applying concepts //
+*	People with albinism cannot produce the pigment melanin, so they have very pale skin, hair and eyes. The ability to produce melanin is controlled by a pair of alleles on autosomes. The pedigree below shows the inheritance of albinism in a family.
+
+	
+
+a	Deduce, with reasons, whether the allele for albinism is dominant or recessive. (Marks will not be awarded for genetic diagrams.)	(4 marks)
+b	State the possible genotype(s) of individual 8. Define the symbols you use.														(2 marks)
+c	What is the chance of inheriting albinism in the next child of individuals 10 and 11? Explain with a genetic diagram.					(4 marks)
+-- answer --
+a	Since individual 13 is an albino, she must have received at least one allele for albinism from either parent.									1m
+Since individuals 10 and 11 are normal, each of them must possess at least one normal allele.  												1m
+Therefore, at least one of individuals 10 and 11 is heterozygous. 		1m
+Since only the dominant character is shown in the heterozygous condition, the normal allele must be dominant and the allele for albinism must be recessive.															1m
+OR
+Since individual 5 / 7 is an albino, he / she must have received at least one allele for albinism from either parent.									1m
+Since individuals 1 and 2 are normal, each of them must possess at least one normal allele.  												1m
+Therefore, at least one of individuals 1 and 2 is heterozygous. 			1m
+Since only the dominant character is shown in the heterozygous condition, the normal allele must be dominant and the allele for albinism must be recessive. 															1m
+b	Let A represent the normal allele and a represent the allele for albinism.	1m
+The genotype of individual 8: Aa									1m
+c	
+
+The chance of inheriting albinism in their next child is 25%.				1m	
+---------------------------------------------------
+
+[10264309]
+// Drawing // Applying concepts //
+*	a	Cystic fibrosis is a non-sex-linked genetic disease. People with cystic fibrosis have two recessive alleles of a gene. A couple who show no symptoms of the disease plan to have a baby. They found that both of them are carriers after a medical examination.
+Using suitable symbols, draw a genetic diagram to deduce the chance that their child has cystic fibrosis.								(5 marks)
+b	In ancient China, it was very important that a married man had a son to inherit the family business and fortune. A man had 12 daughters but no sons. Do you think the chance of having a son would increase for the 13th child? Explain.										(2 marks)
+c	Can mutations that occur in body cells be passed on to the next 
+generation? Why?										(2 marks)
+
+-- answer --
+a	Let F represent the allele for the normal character and f represent the allele for cystic fibrosis.												1m
+
+The chance of having a child with cystic fibrosis is 25%.				1m
+b	No.														1m
+Since the chance of each birth is not related to the previous one, the chance of having a boy for the 13th child is still 50%.							1m
+c	No.														1m
+Only mutations that occur in gametes or gamete-producing cells can be passed on to the next generation. 										1m	
+---------------------------------------------------
+
+[10264316]
+// Schematic diagram // Applying concepts //
+*	The pedigree below shows the inheritance of blood groups in a family.
+
+	
+Answer the questions below without using genetic diagrams. 
+a	Based on the given information, explain which blood group, B or O, is the recessive character.										(4 marks)
+b	What may the genotype of individual 4 be? Explain.			(4 marks)
+c	Which type of variation, continuous variation or discontinuous variation, is usually more easily affected by environmental factors? Give one example for this type of variation.							(2 marks)
+
+-- answer --
+a	Individual 6 (or 12) is of blood group O. He must have received at least one allele for blood group O from either parent. 								1m
+Individuals 1 and 2 (or 7 and 8) are of blood group B, each of them must possess at least one allele for blood group B. 								1m
+Therefore, at least one of individuals 1 and 2 (or 7 and 8) is heterozygous. 	1m
+Since only the dominant character is shown in the heterozygous condition, blood group B is the dominant character and blood group O is the recessive character. 															1m
+b	Individual 12 is homozygous recessive. He must have received one recessive allele from each parent. Individual 8 must be heterozygous.				2m
+The recessive allele of individual 8 must have come from individual 3 and the dominant allele must have come from individual 4.					1m
+Individual 4 may be homozygous dominant or heterozygous for blood group B. 															1m
+c	Continuous variation											1m
+Height / weight / skin colour / hand span (or other correct answers)		1m	
+---------------------------------------------------
+
+[10264318]
+// Drawing // Applying concepts //
+*	In rabbits, the fur colour is controlled by a pair of alleles. The dominant allele G is for grey fur and the recessive allele g is for white fur. A rabbit with grey fur is mated with one with white fur. When their offspring are reared at 25 (C, some of them are white and some of them are grey. However, all the offspring are white if they are reared below 10 (C.
+a	What are the genotypes of the parents?						(2 marks)
+b	Draw a genetic diagram to show the result of the cross. In the diagram, state the genotypic and phenotypic ratios of the offspring.		(5 marks)
+c	How is the fur colour affected by the temperature at which the offspring are reared?											(2 marks)
+d	If the two rabbits mate again, what is the chance that their offspring are grey if they are reared at 25 (C?							(1 mark)
+
+-- answer --
+a	Grey rabbit: Gg												1m
+White rabbit: gg												1m
+b	
+
+c	Grey fur colour fails to develop at a temperature below 10 °C. 			2m
+d	50%														1m	
+---------------------------------------------------
+
+[10264320]
+// Drawing // Applying concepts //
+*	There are two types of fruit flies, black-eyed and red-eyed. The eye colour of a fruit fly is controlled by a pair of allele, B and b. The presence of at least one dominant allele B results in black eyes in a fruit fly.
+a	What is the genotype of a heterozygous fruit fly?				(1 mark)
+b	Describe how we can determine the genotype of a black-eyed fruit fly.														(3 marks)
+c	A male fruit fly and a female black-eyed fruit fly were crossed. They produced 198 offspring. 148 of them had black eyes and 50 had red eyes. Use a genetic diagram to show the result of the cross.			(4 marks)
+
+-- answer --
+a	Bb														1m
+b	Cross the black-eyed fruit fly with a homozygous recessive red-eyed fruit fly.															1m
+If all the offspring are black-eyed, the genotype of the black-eyed fruit fly is BB.															1m
+If the ratio of the black-eyed offspring to red-eyed offspring is 1 : 1, the genotype of the black-eyed fruit fly is Bb.									1m
+c	The ratio of 148 : 50 is close to 3 : 1.								1m
+	
+---------------------------------------------------
+
+[10264338]
+// Drawing // Calculation // Schematic diagram // Applying concepts //
+*	Cystic fibrosis is a genetic disease. The lungs and the pancreas of the patients would produce excessive thick mucus. Whether a person has cystic fibrosis is controlled by a pair of alleles. The allele for the normal condition (N) is dominant to the allele for the disease (n). The pedigrees below show the inheritance of cystic fibrosis in two families.
+
+	
+
+a	State how the following organs would be affected if they produce excessive thick mucus.
+i	the lungs											(2 marks)
+ii	the pancreas										(2 marks)
+b	Individuals 4 and 7 are going to get married. Using Punnett squares to show the possible cross(es) between individuals 4 and 7 that involve(s) no risk of having a child with cystic fibrosis.					(6 marks)
+c	Using Punnett square to show the cross between individuals 4 and 7 that involves a risk of having a child with cystic fibrosis.			(2 marks)
+d	From the results of b and c, what is the chance that individuals 4 and 7 have a child with cystic fibrosis?							(1 mark)
+
+-- answer --
+a	i	The thick mucus would block the air passage, 					1m
+causing difficulty in breathing. 								1m
+OR
+The thick mucus with trapped bacteria would have trouble moving out of the lungs. 												1m
+Bacteria would remain in the lungs, causing infections. 			1m
+ii	The thick mucus would block the passage of pancreatic juice from the pancreas to the small intestine, 								1m
+causing indigestion. 										1m
+b	
+									2m
+									2m
+									2m
+c	
+									2m
+d	1/4 × 1/4 = 1/16												1m	
+---------------------------------------------------
+
+
+Essays
+
+[10264504]
+// Communication // Applying concepts //
+**	Based on your knowledge of genetics, analyse the causes of Mendel's great success.												(10 marks)
+
+-- answer --
+Mendel analysed the causes of failure in the past. /
+He was inspired by various theories and research methods by many scientists / applied methods of other people in his experiments. /
+He proposed many hypotheses and carried out experiments to test them. /
+He did pea plant breeding experiments for 8 years and made a lot of observations and obtained a lot of data. /
+He used pea plants in his experiments. /
+Pea plants are easily grown / can reproduce quickly. /
+Pollination of pea plants can be controlled easily. /
+Pea plants have many varieties with different distinct characters. / 
+He selected characters that can be observed easily to study. /
+He studied only one pair of contrasting characters at a time. 
+(any 7 or other reasonable answers) 								1m x 7
+Communication												3m	
+---------------------------------------------------
+
+
+[10264512]
+// Communication // Basic concepts //
+*	Describe the structure of DNA molecules.					(11 marks)
+
+-- answer --
+DNA is a polynucleotide chain made up of nucleotides. 					1m
+Each nucleotide consists of three parts: a deoxyribose, a phosphate group and a nitrogenous base. 												1m
+There are four types of bases: adenine (A), thymine (T), cytosine (C) and guanine (G).																1m
+Nucleotides are joined between the deoxyribose of one nucleotide and the phosphate group of the next to form a sugar-phosphate backbone.					1m
+DNA molecules are double-stranded. 								1m
+The two strands run in opposite directions and twist around each other to form a double helix. 														1m
+The two strands are held together by hydrogen bonds between the bases. 		1m
+A pairs with T and C pairs with G.									1m
+Communication													3m	
+---------------------------------------------------

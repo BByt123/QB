@@ -1,0 +1,2378 @@
+Chapter 2		The cell as the basic unit of life
+
+Multiple-choice questions
+
+[10232419]
+// Schematic diagram // Applying concepts //
+*	Fig 1 below shows two body tissues that are mainly made up of biomolecule X. Fig 2 below shows different organelles in a body cell.
+
+	
+
+	Which of the following statements about biomolecule X are correct?
+	(1)	It is synthesized based on the information present in structure P.
+	(2)	It is synthesized at structure R in body cells.
+	(3)	It is broken down at structure Q in body cells.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10232432]
+// Photomicrograph // Applying concepts //
+*	The photograph on the left shows different parts of a potato plant. The photomicrograph on the right shows a plant tissue taken from the potato plant.
+
+	
+
+
+
+
+	
+
+From which part of the potato plant is this tissue taken?
+A	P
+B	Q
+C	R
+D	S
+D	
+---------------------------------------------------
+
+
+[10232443]
+// Photomicrograph // Experiment //
+*	Photomicrographs I and II show the cross sections of the stem of a plant under different magnifications.
+
+   
+	
+To obtain the view as shown in photomicrograph I, we should focus the specimen as shown in photomicrograph II first. This is because
+A	the image in photomicrograph II is sharper.
+B	the image in photomicrograph II is brighter.
+C	the image in photomicrograph II has a larger field of view.
+D	the image in photomicrograph II is not inverted.
+C	
+---------------------------------------------------
+
+[10232471]
+// Experiment //
+*	A student observed onion epidermal cells under a light microscope. He found that it is difficult to observe the nucleus of the cell. Which of the following actions would help the student to identify the nucleus more easily?
+	(1)	Use an objective with higher magnification.
+	(2)	Use iodine solution to stain the specimen.
+	(3)	Use a thinner slide to mount the specimen.
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10232472]
+// Data handling //
+**	Directions: The following two questions refer to the table below, which shows the relative abundance of different organelles in four types of cells.
+
+Cell type	Relative abundance	
+	Endoplasmic reticulum	Mitochondrion	Chloroplast	
+R	+	+++	+	
+S	+	+	(	
+T	+++	+	(	
+U	+	+++	(	
+	Key: Number of '+' indicates the relative abundance of the organelle;
+	'(' indicates the absence of the organelle
+
+	Which cell type is most likely the root hair cell?
+A	R
+B	S
+C	T
+D	U
+D	
+---------------------------------------------------
+
+
+[10232474]
+// Data handling //
+**	Which cell type is most likely found in the wall of a capillary?
+A	R
+B	S
+C	T
+D	U
+B	
+---------------------------------------------------
+
+[10232510]
+// Calculation // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows a drawing of a cell observed under an electron microscope.
+
+	
+	What is the magnification of the drawing?
+A	×10 000
+B	×20 000
+C	×100 000
+D	×1 000 000
+A	
+---------------------------------------------------
+
+
+[10232520]
+// Calculation // Schematic diagram //
+*	Which of the following diagrams shows the same cell observed at a magnification of ×400 under a light microscope?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10232522]
+// Basic concepts //
+Which of the following are organic chemical constituents of plants?
+	(1)	starch
+	(2)	cellulose
+	(3)	deoxyribonucleic acid
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10232528]
+// Basic concepts //
+Blood contains about 90% water. Which property of water makes it a good medium of transport?
+	A	Water is transparent.
+B	Water carries heat away as it evaporates.
+C	Water is a good solvent.
+	D	Water is a reactant in some chemical reactions.
+C	
+---------------------------------------------------
+[10232539]
+// Comparison // Basic concepts //
+	Which of the following comparisons between the light microscope and the electron microscope is incorrect?
+	Light microscope	Electron microscope	
+A	light is used to form images	electron beams are used to form images	
+B	specimens must be dead	specimens can be alive	
+C	images are of lower magnifications	can produce images of higher magnifications	
+D	images show less details	images can show more details	
+
+B	
+--------------------------------------------------
+
+[10232557]
+// Photomicrograph // Experiment //
+*	Directions: The following two questions refer to the images below, which show two microscopic views of organism X in a water sample. A student obtained views I and II by using the light microscope at different magnifications.
+ 	
+	Below are some steps in using the light microscope.
+	(1)	Focus the image by turning the fine adjustment knob.
+	(2)	Turn the nosepiece for a 4X objective.
+	(3)	Turn the nosepiece for a 40X objective.
+	(4)	Adjust the diaphragm if necessary.
+	(5)	Move organism X to the centre of the field.
+Which of the following is the most suitable sequence of steps in obtaining view II from view I?
+	A	(5) ( (2) ( (1)			B	(5) ( (3) ( (4) 
+	C	(3) ( (5) ( (1) ( (4)		D	(5) ( (3) ( (1) ( (4)
+D	
+---------------------------------------------------
+[10232560]
+// Photomicrograph // Experiment //
+*	The student made the following observations.
+	(1)	Organism X has cytoplasm and vacuoles.
+	(2)	Organism X consists of only one cell.
+	(3)	Organism X can divide into two new cells.
+Which of the observations support the Cell Theory?
+A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10232562]
+// Calculation // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows a cell magnified 350 times.  
+
+	
+
+	Which of the following states the correct cell type and the evidence?
+Cell type				Evidence
+	A	an animal cell			presence of a nucleus
+	B	an animal cell 		absence of chloroplasts 
+	C	a plant cell			presence of a cell wall
+	D	a plant cell 			absence of mitochondria
+C	
+---------------------------------------------------
+
+[10232565]
+// Calculation // Schematic diagram //
+*	What is the actual length of structure X? (Hint: 1 mm = 103 μm)
+	A	5 μm				B	20 μm 
+	C	50 μm				D	200 μm
+D	
+---------------------------------------------------
+
+[10232569]
+// Schematic diagram //
+*	The diagram below shows a cell in a plant.
+	
+
+	Which of the following structures may be absent in other living cells in the plant?
+	A	(1)					B	(2)
+	C	(3)					D	(4)
+B	
+---------------------------------------------------
+
+[10232573]
+// Basic concepts //
+*	Which of the following sub-cellular structures are bounded by a double membrane?
+	(1)	mitochondrion
+	(2)	nucleus 
+	(3)	vacuole
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+[10232586]
+// Basic concepts //
+	Which of the following levels of body organization are correct?
+	Cell	Tissue	Organ	System	Organism	
+A	blood	heart	red blood cell	circulatory system	human	
+B	blood	red blood cell	heart		circulatory system	human	
+C	red blood cell	blood	heart	circulatory system	human	
+D	red blood cell	heart	blood	circulatory system	human	
+
+C	
+---------------------------------------------------
+
+[10232595]
+// Basic concepts //
+The water lily grows in freshwater ponds.
+	
+	What is the importance of water to water lilies?
+	(1)	as a medium of transport
+	(2)	as a cooling agent
+	(3)	provides buoyancy
+	A	(3) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)	
+D	
+---------------------------------------------------
+
+
+[10232604]
+// Basic concepts //
+	Which of the following correctly matches the inorganic ions with their functions in organisms?
+		Inorganic ion			Function
+	A	calcium				activates some enzymes
+	B	magnesium			for the formation of bones and teeth
+	C	iron					activates some enzymes
+	D	nitrate				for the synthesis of lipids in plants
+C	
+---------------------------------------------------
+
+[10232610]
+// Basic concepts //
+*	Which of the following statements about biomolecules is incorrect?
+	A	All biomolecules contain carbon.
+	B	All biomolecules contain nitrogen.
+	C	Biomolecules are the organic chemical constituents of organisms.
+	D	DNA is a kind of biomolecule.
+B	
+---------------------------------------------------
+
+[10232622]
+// Experiment //
+*	If you observe the letter 'P' under a light microscope, what can you see?
+A		B		
+				
+C		D		
+
+B	
+--------------------------------------------------
+
+[10232628]
+// Experiment //
+*	A student is observing some cells at low-power magnification under a light microscope. He wants to observe the cells in more detail. Arrange the following steps in the correct sequence so that the student can observe the cells at high-power magnification.
+(1)	Move the part of the specimen he wants to observe to the centre of the field of view.
+	(2)	Turn the fine adjustment knob for focusing.
+	(3)	Choose a high-power objective.
+	A	(3) ( (2) ( (1)
+	B	(3) ( (1) ( (2)
+	C	(1) ( (2) ( (3)
+	D	(1) ( (3) ( (2)
+D	
+-------------------------------------------------
+
+[10232660]
+// Photomicrograph // Applying concepts //
+*	The diagram below shows some cells observed under a light microscope.
+	
+	Are they animal cells or plant cells? Why?
+		Type of cell		Reason
+	A	plant cells		they are regular in shape
+	B	plant cells		they have chloroplasts
+	C	animal cells		they do not have a central vacuole
+	D	animal cells		they have a central nucleus
+A	
+---------------------------------------------------
+[10232677]
+// Applying concepts //
+	Which of the following combinations about tissues and organs in organisms is incorrect?
+			Tissue			Organ
+	A	muscle			stomach
+	B	blood			heart
+	C	chloroplast		leaf
+	D	epidermis			onion bulb
+C	
+---------------------------------------------------
+
+[10232682]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an animal cell and some sub-cellular structures inside.
+	
+
+Which of the labelled structures are particularly abundant in liver cells, which produce enzymes needed in digestion?
+	A	W and X only
+	B	W and Y only
+	C	W and Z only
+	D	Y and Z only
+B	
+---------------------------------------------------
+
+[10232691]
+// Comparison // Basic concepts //
+*	Which of the following statements correctly describe(s) prokaryotic cells and eukaryotic cells?
+	(1)	Both prokaryotic cells and eukaryotic cells have endoplasmic reticulum.
+	(2)	Prokaryotic cells do not have nucleic acids.
+	(3)	Some prokaryotic cells have a cell wall.
+	A	(1) only			B	(3) only
+	C	(1) and (2) only	D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10232738]
+// Photomicrograph //
+*	The electron micrograph below shows two organelles found in a cell.
+
+(Photo credit: Louisa Howard)	
+
+	Which of the following statements about the organelles is/are correct?
+	(1)	They can be found in plant cells only.
+	(2)	They contain a green pigment.
+	(3)	They are bounded by a double membrane.
+	A	(3) only			B	(1) and (2) only
+	C	(2) and (3) only	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10232741]
+// Basic concepts //
+	Which of the following are not organic chemical constituents of organisms?
+	A	carbohydrates		B	nucleic acids
+	C	minerals			D	proteins
+C	
+---------------------------------------------------
+
+[10232749]
+// Experiment //
+*	The diagram below shows an aquatic invertebrate mounted on a slide.
+
+	Which of the following is the image of the specimen as observed under a light microscope?
+A		B		
+				
+C		D		
+
+B	
+---------------------------------------------------
+
+[10232750]
+// Calculation //
+*	If a 4X eyepiece and a 10X objective are used to observe a specimen under a light microscope, what is the total magnification of the image?
+	A	4X			B	10X
+	C	14X			D	40X
+D	
+---------------------------------------------------
+
+[10232761]
+// Comparison //
+*	Which of the following distinguishes eukaryotic cells from prokaryotic cells?
+	A	the presence of a cell wall
+	B	the presence of ribosomes
+	C	the presence of membrane-bound organelles
+	D	the presence of DNA
+C	
+---------------------------------------------------
+
+[10232777]
+// Photomicrograph // Comparison // Calculation //
+*	Directions: The following two questions refer to the electron micrograph below, which shows some white blood cells. 
+
+	
+
+What is the magnification of this electron micrograph?
+A	×1000		B	×5000
+C	×10000		D	×50000
+B	
+---------------------------------------------------
+
+[10232786]
+// Photomicrograph // Comparison // Calculation //
+*	If white blood cells are observed with a scanning electron microscope, how would the electron micrograph obtained be different from the one above?
+A	The electron micrograph would be in colour.
+B	The internal structures of the cells would be shown in greater detail.
+C	Only the nuclei but not the granules of the cells would be shown.
+D	Only the external structures of the cells would be shown.
+D	
+---------------------------------------------------
+
+[10232787]
+// Photomicrograph // Comparison // Calculation //
+*	Directions: The following two questions refer to the photomicrograph below, which shows a small organism found in a freshwater stream in Hong Kong. 
+
+	
+
+The above organism was observed under a light microscope with a 10X eyepiece and 20X objective. The actual length, MN, of this organism is
+A	0.1 mm.
+B	0.25 mm.
+C	1 mm.
+D	2.5 mm.
+B	
+---------------------------------------------------
+
+[10232788]
+// Photomicrograph // Comparison // Calculation //
+*	Which of the following is/are the advantage(s) of using a light microscope over an electron microscope in observing the organism?
+(1)	Any movement of the organism can be observed.
+(2)	Preparation of the specimen for observation is easier.
+(3)	The structure of the organism can be shown in greater detail.
+A	(2) only				B	(1) and (2) only
+C	(1) and (3) only		D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10232791]
+// High order thinking // Experiment // Applying concepts //
+**	A student observed some cells under a light microscope at different magnifications. The diagram below shows the change in the image observed.
+	
+
+Some steps in microscopic observations are listed below.
+(1)	turn the coarse adjustment knob
+(2)	turn the fine adjustment knob
+(3)	adjust the diaphragm
+(4)	rotate the nosepiece
+(5)	move the slide to the left
+(6)	move the slide to the right
+
+Which of the following sequences of steps results in the change shown in the diagram?
+A	(1) → (3) → (4) → (5)			B	(3) → (5) → (6) → (4)
+C	(4) → (6) → (1) → (2)			D	(5) → (4) → (2) → (3)
+D	
+---------------------------------------------------
+[10232801]
+// High order thinking //
+**	All living cells possess
+A	a cell wall, a nucleus and cytoplasm.
+B	a cell membrane, a vacuole and cytoplasm.
+C	a cell membrane, a nucleus and cytoplasm.
+D	a cell membrane, cytoplasm and ribosomes.
+D	
+---------------------------------------------------
+
+[10232808]
+// Experiment // Applying concepts //
+*	Some cells were observed under a light microscope at different magnifications. If the diaphragm of the microscope was not adjusted during the observation, which of the following images would be the dimmest?
+A	
+	B	
+	
+C		D		
+
+C	
+---------------------------------------------------
+
+[10232826]
+// Experiment //
+*	Peter observed a prepared slide under a light microscope. He found a small unknown object at low-power magnification. The object did not move when he moved the slide. He turned the nosepiece to select a high-power objective. The object was still seen. This unknown object was most probably on 
+A	the objective.		B	the eyepiece.
+C	the slide.			D	the mirror.
+B	
+---------------------------------------------------
+
+[10232844]
+// Schematic diagram //
+*	The diagrams below show a part of three different organelles in a cell.
+
+			
+X	Y	Z	
+
+Which of the following combinations correctly identifies the organelles? 
+	X				Y				Z
+A	chloroplast		vacuole			mitochondrion
+B	vacuole			chloroplast		mitochondrion
+C	mitochondrion		chloroplast		nucleus
+D	nucleus			mitochondrion		chloroplast
+A	
+---------------------------------------------------
+
+[10232845]
+// Applying concepts //
+*	Which of the following features helps identify a cell as a eukaryotic cell?
+A	absence of chloroplasts
+B	absence of vacuoles
+C	presence of cell wall
+D	presence of mitochondria
+D	
+---------------------------------------------------
+
+[10232850]
+// Basic concepts //
+	Which of the following statements about the Cell Theory is correct?
+A	It states the differences between plant cells and animal cells.
+B	It describes how cells divide to form new cells.
+C	It states that all organisms are made up of one or more cells.
+D	It states that all cells have a nucleus, a cell membrane and cytoplasm.
+C	
+---------------------------------------------------
+
+[10232856]
+// Basic concepts //
+	Which of the following are the functions of nucleic acids?
+(1)	carry genetic information
+(2)	as a component of cell membrane
+(3)	determine the features of organisms
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10232867]
+// Basic concepts //
+Which of the following statements about the nucleus are correct?
+(1)	It is the main site where respiration takes place.
+(2)	It is the site where the genetic material is located.
+(3)	It is bounded by a double membrane.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10232903]
+// Photomicrograph // Data handling //
+**	Directions: The following two questions refer to the electron micrograph and the table below. The electron micrograph shows two organelles, X and Y, of a eukaryotic cell, while the table shows the relative abundance of these two organelles in four cell types in humans.
+	
+
+Cell type	Organelle X	Organelle Y	
+I	+++++	+	
+II	+++	+++++	
+III	+	+	
+IV	-	-	
+(Key: '+' represents the presence of the organelle. The larger the number of '+', the greater the abundance, '-' represents the absence of the organelle)
+
+Cell type I is least likely a
+A	sperm.
+B	muscle cell.
+C	cheek cell.
+D	liver cell.
+C	
+---------------------------------------------------
+
+[10232932]
+// Photomicrograph // Data handling //
+**	The relative abundance of organelles X and Y for a mature red blood cell is most likely to be similar to that of
+A	cell type I.
+B	cell type II.
+C	cell type III.
+D	cell type IV.
+D	
+---------------------------------------------------
+
+[10232965]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows some epidermal cells of a leaf.
+
+	
+
+Which of the following statements about structure X is/are correct?
+(1)	It can be found in plant cells only.
+(2)	It contains genetic material.
+(3)	It controls activities of the cells.
+A	(1) only			B	(3) only
+C	(1) and (2) only	D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10232967]
+// Basic concepts //
+	All living cells
+A	carry out photosynthesis.
+B	come from pre-existing cells.
+C	can move. 
+D	have a nucleus.
+B	
+---------------------------------------------------
+
+[10232987]
+// Comparison // Schematic diagram //
+*	The diagram below shows two different cells.
+
+	
+
+Which of the following comparisons of cells X and Y is incorrect? 
+		Cell X	Cell Y	
+A	genetic material is lying free in the cytoplasm	genetic material is enclosed in the nucleus	
+B	cell wall is absent	cell wall is present	
+C	cytoplasm is absent	cytoplasm is present	
+D	nuclear membrane is absent	nuclear membrane is present	
+
+B	
+---------------------------------------------------
+
+[10232998]
+// Basic concepts //
+	Which of the following combinations of sub-cellular structure and its function is incorrect? 
+		Sub-cellular structure	Function	
+A	cytoplasm	provides a suitable environment for many chemical reactions to take place	
+B	nucleus	contains genetic material	
+C	cell wall	gives shape to the cell	
+D	endoplasmic reticulum	releases energy	
+
+D	
+---------------------------------------------------
+
+[10233027]
+// Basic concepts //
+*	A sample of organic compounds was tested and found to contain the elements carbon, hydrogen, oxygen, nitrogen and sulphur only. The compounds are most likely 
+A	phospholipids.
+B	cellulose.
+C	proteins.
+D	nucleic acids.
+C	
+---------------------------------------------------
+
+[10233028]
+// Basic concepts //
+	Which of the following statements about inorganic ions in organisms is incorrect?
+A	Green plants need nitrates for the synthesis of proteins. 
+B	Iron is a component of haemoglobin. 
+C	Our muscles cannot contract normally if we lack magnesium. 
+D	Some of the inorganic ions activate enzymes.
+C	
+---------------------------------------------------
+
+
+[10233047]
+// Basic concepts //
+	Which of the following statements about the Cell Theory is/are correct?
+(1)	The Cell Theory states that all organisms are made up of many cells.
+(2)	The Cell Theory states that all cells come from pre-existing cells.
+(3)	The development of microscopes contributed to the formulation of the Cell Theory.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10233051]
+// Experiment //
+*	Which of the following statements about the observations under a light microscope is correct? 
+A	At low-power magnification, the area of the specimen observed is larger.
+B	At high-power magnification, less detail of the specimen can be observed.
+C	At low-power magnification, the image is dimmer.
+D	The specimen to be observed at high-power magnification is never stained.
+A	
+---------------------------------------------------
+
+[10233056]
+// Basic concepts //
+	Which of the following statements about the prokaryotic cell is incorrect?
+A	A prokaryotic cell has ribosomes.
+B	The cell wall of a prokaryotic cell does not contain cellulose.
+C	A prokaryotic cell has no endoplasmic reticulum.
+D	A prokaryotic cell does not contain genetic material.
+D	
+---------------------------------------------------
+
+
+
+[10233064]
+// Basic concepts //
+	Which of the following sub-cellular structures controls the movement of substances in and out of the cell?
+A	nucleus			B	cell wall
+C	cell membrane		D	mitochondrion
+C	
+---------------------------------------------------
+
+[10233075]
+// Basic concepts //
+	Which of the following sub-cellular structures protects plant cells from mechanical damage?
+A	cell membrane		B	cell wall
+C	nucleus			D	vacuole
+B	
+---------------------------------------------------
+
+[10233087]
+// Basic concepts //
+	Which of the following sub-cellular structures is not bounded by a double membrane?
+A	nucleus			B	mitochondrion
+C	vacuole			D	chloroplast
+C	
+---------------------------------------------------
+
+[10233109]
+// Basic concepts //
+	Which of the following sub-cellular structures gives shape to plant cells?
+A	cell membrane		B	cell wall
+C	nucleus			D	mitochondrion
+B	
+---------------------------------------------------
+
+
+[10233125]
+// Basic concepts //
+	Cells that have a high level of metabolic activities most probably have more
+A	nucleus.
+B	cytoplasm.
+C	mitochondria.
+D	chloroplasts.
+C	
+---------------------------------------------------
+
+[10233128]
+// Basic concepts //
+	Which of the following structures contains a pigment that absorbs light energy for photosynthesis?
+A	cell wall			B	mitochondrion
+C	vacuole			D	chloroplast
+D	
+---------------------------------------------------
+
+[10233143]
+// Basic concepts //
+*	Which of the following structures is/are differentially permeable?
+(1)	cell membrane
+(2)	cell wall
+(3)	the membrane that surrounds the vacuole
+A	(1) only			B	(1) and (3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10233152]
+// Basic concepts //
+	All animal cells have
+A	a nucleus.				B	vacuoles.
+C	a cell membrane.		D	a cell wall.
+C	
+---------------------------------------------------
+
+[10233175]
+// Basic concepts //
+Mitochondria are organelles for
+A	absorbing light energy in photosynthesis.
+B	controlling the movement of substances in and out of the cells.
+C	respiration.
+D	controlling activities of the cells.
+C	
+---------------------------------------------------
+
+[10233186]
+// Basic concepts //
+	Cell wall is mainly composed of
+A	cellulose.
+B	proteins.
+C	lipids.
+D	starch.
+A	
+---------------------------------------------------
+
+[10233187]
+// Experiment //
+*	Which of the following is the image of the letter 'G' observed under a light microscope?
+A	B	C	D	
+				
+
+B	
+---------------------------------------------------
+
+
+
+[10233202]
+// Experiment // Calculation //
+*	When a specimen is observed under a microscope with a 5X eyepiece and a 10X objective, the magnification of the image is
+A	×2.
+B	×5.
+C	×15.
+D	×50.
+D	
+---------------------------------------------------
+
+[10233238]
+// Basic concepts //
+	Which of the following is/are the function(s) of the cell membrane?
+(1)	controlling the movement of substances in and out of the cells
+(2)	enclosing the cells
+(3)	giving shape to the cells
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10233246]
+// Comparison // Basic concepts //
+	Which of the following structures is found in plant cells but not in animal cells?
+A	cell membrane	
+B	nucleus
+C	cell wall
+D	vacuole
+C	
+---------------------------------------------------
+
+[10233276]
+// Basic concepts //
+*	Which of the following parts of a light microscope are responsible for magnifying objects?
+(1)	condenser
+(2)	objective
+(3)	mirror
+(4)	eyepiece
+
+A	(2) and (4) only		B	(1), (2) and (4) only
+C	(2), (3) and (4) only		D	(1), (2), (3) and (4)
+A	
+---------------------------------------------------
+
+[10233315]
+// Experiment //
+	When observing a specimen under a light microscope, which of the following parts should be adjusted to bring the image in focus?
+A	condenser
+B	mirror
+C	fine adjustment knob
+D	nosepiece
+C	
+---------------------------------------------------
+
+[10233327]
+// Basic concepts //
+*	All eukaryotic cells have
+A	a nucleus and chloroplasts.
+B	a nucleus and mitochondria.
+C	a cell membrane and mitochondria.
+D	a cell membrane and cytoplasm.
+D	
+---------------------------------------------------
+
+
+[10233363]
+// Photomicrograph //
+*	Which instrument gives the image of the human sperms below?
+
+	
+
+A	hand lens
+B	light microscope
+C	transmission electron microscope
+D	scanning electron microscope
+B	
+---------------------------------------------------
+
+[10233369]
+// Basic concepts //
+*	Which of the following statements about the Cell Theory is correct?
+A	The Cell Theory states that cells are composed of organic and inorganic constituents.
+B	The Cell Theory states that cells come from inorganic substances.
+C	The Cell Theory states that cells contain nucleus.
+D	The Cell Theory states that the cell is the basic unit of organisms.
+D	
+---------------------------------------------------
+
+
+[10233370]
+// Schematic diagram // Basic concepts //
+	In which of the following structures is DNA mainly found?
+
+	
+
+A	structure P		B	structure Q
+C	structure R		D	structure S
+D	
+---------------------------------------------------
+
+[10233371]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a mature human cell. 
+	
+This cell has
+(1)	cytoplasm.
+(2)	a nucleus.
+(3)	a cell membrane.
+A	(1) only			B	(1) and (3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10233383]
+// Experiment //
+*	The magnification of an image observed under a light microscope depends on
+(1)	the amount of light passing through the microscope.
+(2)	the magnification of the eyepiece.
+(3)	the magnification of the objective.
+A	(1) only			B	(3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10233386]
+// Basic concepts //
+*	Which of the following statements about cells is incorrect?
+A	Plant cells have larger vacuoles than animal cells.
+B	Plant cells have rough endoplasmic reticulum for the synthesis of proteins. 
+C	Both animal cells and plant cells have mitochondria for respiration.
+D	All plant cells have chloroplasts.
+D	
+---------------------------------------------------
+
+[10233392]
+// Experiment //
+*	Which of the following shows the image seen if the word 'pod' is viewed under a light microscope?
+	
+A	boq				B	doq
+C	pod				D	qob
+C	
+---------------------------------------------------
+[10233418]
+// Experiment // Calculation //
+*	A student is observing a prepared slide of plant cells under a light microscope. Which of the following combinations of eyepiece and objective allow him to observe approximately the same number of cells in the field of view?
+		Eyepiece		Objective
+(1)	5X			20X
+(2)	10X			10X
+(3)	15X			40X
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10233423]
+// Experiment // Schematic diagram //
+*	The diagram below shows how to cover the specimen with a cover slip for microscopic observation.
+	
+
+Why must the edge of the cover slip touch the stain before it is lowered?
+A	to make sure the stain spread out evenly
+B	to protect the specimen from breaking into pieces
+C	to keep the temporary mount tidy for observation under a microscope
+D	to avoid trapping air bubbles under the cover slip
+D	
+---------------------------------------------------
+
+
+[10233470]
+// Applying concepts //
+	Which of the following is a correct example of the levels of human body organization?
+A	epidermis → skin → breathing system
+B	bone → skull → circulatory system
+C	muscle → ovary → digestive system
+D	nerve → brain → nervous system
+D	
+---------------------------------------------------
+
+[10233475]
+// Basic concepts //
+*	Which of the following cells does not have a nucleus when it is mature?
+A	human cheek cell
+B	onion epidermal cell
+C	human neurone
+D	human red blood cell
+D	
+---------------------------------------------------
+
+[10233493]
+// Basic concepts //
+	Which of the following sub-cellular structures can be found in both animal cells and plant cells?
+A	nucleus and vacuole
+B	mitochondria and chloroplasts
+C	cell membrane and chloroplasts
+D	cell wall and cytoplasm
+A	
+---------------------------------------------------
+
+[10233498]
+// Schematic diagram // Basic concepts //
+*	Which of the following sub-cellular structures is/are found in plant cells only?
+
+	
+
+A	X only
+B	Y only
+C	Y and Z only
+D	X, Y and Z
+B	
+---------------------------------------------------
+
+[10233516]
+// Basic concepts //
+	Which of the following are organic chemical constituents of cells?
+(1)	carbohydrates
+(2)	lipids
+(3)	nucleic acids
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10233518]
+// Basic concepts //
+	Which of the following statements about microscopes is correct?
+A	The first microscope invented was an electron microscope.
+B	A compound microscope consists of one lens only.
+C	Comparing with a light microscope, an electron microscope produces images with higher resolution. 
+D	A light microscope is generally more powerful than an electron microscope in terms of magnifying power.
+C	
+---------------------------------------------------
+
+[10233526]
+// Basic concepts //
+	Which of the following statements about a chloroplast is correct?
+A	It can be found in all plant cells.
+B	It contains a pigment for photosynthesis.
+C	It is the main site for respiration.
+D	Its inner membrane is folded into finger-like projections.
+B	
+---------------------------------------------------
+
+[10233529]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows an animal cell. 
+	
+Which of the following statements about structure X is correct?
+A	Structure X carries genetic information.
+B	Structure X contains chlorophyll. 
+C	Structure X is a jelly-like fluid consists mainly of water.
+D	Structure X controls activities of the cell.
+C	
+---------------------------------------------------
+
+[10233531]
+// Comparison //
+	Which of the following comparisons of animal cells and plant cells is not correct?
+		Animal cells				Plant cells
+A	generally larger			generally smaller
+B	no cell wall				have cell wall
+C	nucleus usually at the centre	nucleus may be at one side of the cell
+D	usually irregular in shape	have a more regular shape 
+A	
+---------------------------------------------------
+
+[10233532]
+// Experiment //
+	The photograph below shows a light microscope.
+
+	
+
+Which part of the microscope should we turn in order to get a sharp focus on an object?
+A	W and X
+B	X and Y
+C	X and Z 
+D	Y and Z
+D	
+---------------------------------------------------
+
+Short questions
+
+[10233642]
+// Overseas exam question // Data handling // High order thinking //
+**	All cells possess a plasma (cell surface) membrane. In addition, eukaryotic cells contain membrane systems and membrane-bound organelles.
+	An investigation was carried out to determine the percentages of different types of membranes which were found in mammalian liver and pancreas cells. The results are shown in the table below.
+Type of membrane	Percentage of total cell membrane (%)	
+	Liver cells	Pancreas cells	
+Plasma	2	5	
+Rough ER	35	60	
+Smooth ER	16	0.5	
+Golgi apparatus	7	10	
+Secretory vesicle#	0	3	
+#	Secretory vesicle is an organelle that transports the materials to be released from cells from the site of production to the cell surface.
+
+Both liver and pancreas cells produce relatively large amounts of protein. Proteins produced in a cell may be used within the cell or released from the cell for use elsewhere.
+a	Using evidence from the table and your knowledge, suggest which of the two cell types produces more proteins to be released from the cell. Explain your answer.											(3 marks)
+b	As well as producing proteins, liver cells also synthesize large amounts of cholesterol and phospholipids. Identify the evidence for this from the above table.												(1 mark)
+						CCEA GCE (AS) Biology Module 1 May 2019 Q2b
+
+-- answer --
+	a	Pancreas cells												1m
+		The cells contain more rough ER and secretory vesicles.				1m
+Rough ER is the site of protein synthesis and secretory vesicles transport the newly synthesized proteins to the cell surface membrane for release.			1m
+	b	Liver cells contain a relatively high percentage of smooth ER.			1m	
+---------------------------------------------------
+
+[10233656]
+// Photomicrograph // Calculation //
+**	The electron micrograph below shows part of a liver cell.
+	
+
+a	Calculate the actual diameter (d) of the organelle X in μm. Show your working.												(2 marks)
+b	With reference to the function of liver cells, explain why liver cells contain large number of organelle X.								(2 marks)
+c	Suggest one other feature in the electron micrograph that allows liver cells to carry out the function stated in b.						(2 marks)
+d	Explain why organelle X appears in various shapes and sizes in the electron micrograph.											(1 mark)	
+-- answer --
+	a	1 / 20000 × 10000											1m
+		= 0.5 μm													1m
+	b	Liver cells have a high level of metabolic activities.					1m
+		Therefore, liver cells contain a large number of organelle X to provide energy for 			these activities.												1m
+	c	There is a large number of rough endoplasmic reticulum.				1m
+		The rough endoplasmic reticulum is the site for the synthesis of proteins. This 			allows liver cells to synthesize various enzymes involved in the metabolic 				reactions.													1m
+	d	The position of the section obtained for microscopic examination affects the 			appearance of the organelle X.									1m	
+--------------------------------------------------
+[10233688]
+// Photomicrograph // Experiment // Calculation //
+**	A student prepared a temporary mount of the lower epidermis of a leaf. She observed the slide under a light microscope and obtained views M and N below at two different magnifications. The diameters of the fields of views M and N are 2 mm and 0.5 mm respectively. Both views were obtained using a 10X eyepiece.
+	
+a	Which of the fields of views should be chosen to find out the stomatal density of the epidermis? Explain your choice. 				(1 mark)
+b	Using the suitable field of view, calculate the stomatal density of the epidermis. Show your working and correct your answer to the nearest whole number. (Take ( = 3.14)									(2 marks)
+c	Describe the sequence of steps in using a light microscope to obtain view N from view M.											(4 marks)
+
+
+-- answer --
+	a	View M should be chosen because it has a larger field of view.			1m
+	b	11 / (3.14 × 1 mm × 1 mm)										1m
+		( 4 stomata per mm2											1m
+c	Move the part of leaf epidermis you want to observe in detail to the centre of the field of view.												1m
+		Rotate the nosepiece to select the 40X objective.						1m
+		Focus with the fine adjustment knob.								1m
+		Adjust the diaphragm to brighten the view.							1m	
+--------------------------------------------------
+
+[10233692]
+// Photomicrograph // Calculation //
+*	The diagram below shows part of a pancreatic cell observed under a transmission electron microscope.
+	
+a	Calculate the magnification of the electron micrograph.		(1 mark)
+b	The cell synthesizes large amounts of proteins. Name two of the organelles in the electron micrograph that are involved in protein synthesis. Explain briefly.												(4 marks)
+c	Besides the transmission electron microscope, the cell can also be observed under a scanning electron microscope.
+i	Give one advantage of using a transmission electron microscope over a scanning electron microscope to observe the cell.			(1 mark)
+ii	Give one advantage of using a scanning electron microscope over a transmission electron microscope to observe the cell.		(1 mark)
+
+-- answer --
+	a	15 000 000 nm / 500 nm = 30 000							1m
+b	Ribosomes. They are the site of protein synthesis / are associated with messenger RNA in the process of translation. /
+		Rough endoplasmic reticulum. It provides a large surface area for the attachment of ribosomes for protein synthesis. /
+		Mitochondria. They provide energy / ATP for protein synthesis. /
+		Nucleus. It contains DNA which codes for proteins / which is involved in the process of transcription. (any 2)				 				2m x 2
+	c	i	It allows observation of the internal structures of the cell.		1m
+		ii	It gives three-dimensional image of the surface of the cell. /
+			Sectioning of the cell is not required.						1m	
+---------------------------------------------------
+[10233694]
+// Comparison //
+*	Use a '(' and a '(' to indicate the presence and absence of the following sub-cellular structures in prokaryotic cells and eukaryotic cells. 		(7 marks)
+
+Sub-cellular structure	Prokaryotic cell	Eukaryotic cell	
+Cell membrane			
+Nuclear membrane			
+Genetic material			
+Cytoplasm			
+Endoplasmic reticulum			
+Mitochondrion			
+Ribosome			
+
+-- answer --
+
+Sub-cellular structure
+Prokaryotic cell
+Eukaryotic cell
+
+Cell membrane
+(
+(
+
+Nuclear membrane
+(
+(
+
+Genetic material
+(
+(
+
+Cytoplasm
+(
+(
+
+Endoplasmic reticulum
+(
+(
+
+Mitochondrion
+(
+(
+
+Ribosome
+(
+(
+
+															1m x 7	
+---------------------------------------------------
+
+[10233713]
+// Photomicrograph // Experiment // STSE connections //
+*	In a Pap test, cells from the cervix are removed by a doctor. The cells are then stained and examined under a light microscope to check for any abnormality that may lead to cervical cancer. The photomicrographs below show some normal and abnormal cells of the cervix.
+
+		
+Normal cells ((900)	Abnormal cells ((900)	
+
+a	Give two advantages of using a light microscope over an electron microscope in examining cells in a Pap test.					(2 marks)
+b	How are the abnormal cells different from the normal cells? State two differences observed in the photomicrographs.				(2 marks)
+c	Why are the cells stained?								(1 mark)
+
+-- answer --
+	a	A light microscope is cheaper than an electron microscope. /
+		Operation of a light microscope requires less training. /
+		Preparation of the specimen for examination under a light microscope is 				easier / quicker.
+		(any 2 or other correct answers)								1m × 2
+	b	The abnormal cells are larger than the normal cells. /
+		The nuclei of the abnormal cells are larger than those of the normal cells. /
+		Some abnormal cells have two nuclei whereas the normal cells have one.
+	 	(any 2 or other correct answers)								1m × 2
+	c	To show the cell structures clearly.							1m	
+---------------------------------------------------
+
+[10233717]
+// Photomicrograph // Calculation //
+**	The diagram below shows a part of an onion epidermis observed under a light microscope. The magnifications of the eyepiece and the objective are both 10X.
+	
+
+a	What is the magnification of the above image?				(1 mark)
+b	Measure the diameter of the image, MN, and calculate the average actual width of an onion epidermal cell. Express your answer in μm and show your working.												(2 marks)
+c	When the same onion epidermis is observed with a 40X objective instead of a 10X objective, how will the image be different from the one above?																(2 marks)
+
+--answer--
+	a	100X 												1m
+	b	MN = 6 cm = 60 000 μm									1m
+		Average actual width of a cell = 60 000 μm / 12 / 100 = 50 μm		1m
+	c	The image obtained by a 40X objective includes fewer cells / includes more 		details / is dimmer. (any 2)									1m × 2	
+---------------------------------------------------
+
+[10233736]
+// Data handling // Basic concepts //
+*	Three different groups of biomolecules (A, B and C) were taken to a chemical analysis to find out what elements they contain. The following table shows the results of the analysis.
+
+	Carbon	Oxygen	Nitrogen	Hydrogen	Sulphur	
+A	(	(	(	(	(	
+B	(	(	(	(	(	
+C	(	(	(	(	(	
+Key:	( = present   ( = absent
+
+	a	Which group of biomolecule is A? Explain briefly.			(2 marks)
+	b	A student said that B must be a carbohydrate. Is he correct? Explain briefly.
+															(1 mark)
+c	Which group of biomolecule is C? Give one example of this group of biomolecule.											(2 marks)
+
+-- answer --
+	a	A is a protein 												1m
+		because it contains nitrogen and sulphur.							1m
+	b	No. Lipids also contain carbon, oxygen and hydrogen but no nitrogen and sulphur.																1m
+	c	C is a nucleic acid.											1m
+		DNA / RNA is an example of nucleic acid.							1m	
+---------------------------------------------------
+
+[10233743]
+// Photomicrograph // Calculation //
+*	A student observed some cells in a leaf of a plant under a light microscope. The diagram below shows the view under the microscope.
+	
+
+a	The student chose a 10X eyepiece and a 40X objective for observation. What was the total magnification of the light microscope?		(1 mark)
+b	Measure the length of the image of cell A (X to Y). Then use your answer in a to calculate the actual length of cell A (in μm). Show your working.
+(2 marks)
+c	Compare the light microscope, the transmission electron microscope (TEM) and the scanning electron microscope (SEM) in terms of:
+	i	the medium used to form an image.					(1 mark)
+		ii	the colour of the image produced.						(1 mark)
+
+-- answer --
+	a	400X														1m
+	b	(2.0 / 100) / 400												1m
+		= 5 × 10-5 m
+		= 50 μm 													1m
+	c	i	Light is used to form images in the light microscope, while electron beams 			are used to form images in the TEM and the SEM. 				1m
+		ii	The colour of the image produced using the light microscope depends on 			the colour of the specimen. Black-and-white images are produced using 			the TEM and the SEM.									1m	
+---------------------------------------------------
+
+[10233768]
+// Schematic diagram // Basic concepts //
+*	The diagrams below show the drawings of a human cheek cell and a green leaf cell as seen under a light microscope.
+
+	
+
+	a	Identify cell X and cell Y. Give one reason to support your answer.																	(2 marks)
+	b	State one function of structure A and one function of structure B.																		(2 marks)
+c	Are cell X and cell Y prokaryotic or eukaryotic cells? Give one observable feature in the diagrams above to support your answer.			(2 marks)
+
+-- answer --
+	a	Cell X is a green leaf cell. Cell Y is a human cheek cell.				1m
+		Reason: Cell X has a cell wall.									1m
+	b	A: It controls the movement of substances into and out of the cell.		1m
+		B: It holds many organelles. / It is the site for many chemical reactions. / It allows 		the movement and transport of materials inside the cell.				1m
+	c	Both cells X and Y are eukaryotic cells 							1m
+		because they have a true nucleus.								1m	
+---------------------------------------------------
+
+[10233782]
+// Photomicrograph // Drawing // Experiment //
+*	The diagrams below show certain steps in preparing temporary mounts of ox corneal cells and onion epidermal cells.
+	
+
+a	Suggest what reagents A and B can be.						(2 marks)
+b	What is the purpose of adding reagents A and B to the cells?		(1 mark)
+c	The diagram below shows some onion epidermal cells observed under a light microscope with a magnification of 100X. Draw a labelled diagram of one of the cells.										(3 marks)
+	
+
+
+
+
+
+
+
+-- answer --
+	a	A: methylene blue solution										1m
+		B: iodine solution											1m
+		(or other correcet answers)
+	b	To stain the cells so that the cell structures can be observed more clearly.																	1m
+	c	
+		
+		Title														1m
+		Resemblance of drawing										1m
+		Label													1m	
+---------------------------------------------------
+
+[10233783]
+// Experiment // Basic concepts //
+*	Mary observed a prepared slide of onion epidermal cells under a microscope. She found a dark ring with a bright centre at the top right corner of the field of view.
+a	What is the dark ring?									(1 mark)
+b	What is the most probable source of the dark ring?			(1 mark)
+c	Mary wanted to move the dark ring to the centre of the field of view for further observation. 
+i	In what direction should Mary move the slide?			(1 mark)
+ii	Explain your answer in c i.							(1 mark)
+
+-- answer --
+	a	Air bubble													1m
+	b	The cover slip may be lowered too fast and so air bubbles are trapped under the 			cover slip.													1m
+	c	i	She should move the slide towards the top right corner.			1m
+		ii	Under the microscope, images are inverted.					1m	
+---------------------------------------------------
+
+
+[10233787]
+// Basic concepts //
+	Complete the following paragraph using suitable words selected from the list below.													(4 marks)
+enzymes		nitrogen			hormones		muscle contraction
+anaemia		blood clotting		chlorophyll	haemoglobin	
+
+Organisms need various inorganic ions to keep healthy. For example, plants need nitrates, which provide the element a                      for the synthesis of proteins. They also need magnesium for forming b                     . Animals need calcium not only for keeping bones and teeth strong, but also for c                     , d                      and sending messages in the nervous system. 
+
+-- answer --
+	a	nitrogen													1m
+	b	chlorophyll													1m
+	c	muscle contraction / blood clotting								1m
+	d	blood clotting / muscle contraction								1m	
+---------------------------------------------------
+
+[10233803]
+// Experiment // Calculation //
+**	A student observed onion epidermal cells under a light microscope. He first observed at low-power magnification using an eyepiece of 10X and an objective of 10X. He saw 32 cells within the field of view. Then he rotated the nosepiece to select an objective of 40X. 
+a	If the area of specimen observed under low-power magnification is 1 unit square, what is the area of specimen observed under high-power magnification?											(3 marks)
+b	Assume all onion epidermal cells are similar in size, calculate the number of cells that can be observed under high-power magnification.		(2 marks)
+
+-- answer --
+	a	Magnification at high-power is four times the magnification at low-power.
+		Ratio of the length observed under low-power and high-power magnifications 
+		= 1:4														1m
+
+		Ratio of the area observed under low-power and high-power magnifications 
+		= 1:42 = 1:16												1m
+		Area of the specimen observed under high-power magnification
+											1m
+	b	Average area of one onion epidermal cell 
+											1m
+		Number of cells observed under high-power magnification 
+														1m	
+---------------------------------------------------
+
+[10233807]
+// Comparison //
+*	List three differences between the cell wall and cell membrane in a plant cell.	
+															(3 marks)
+-- answer --
+	The cell wall is fully permeable while the cell membrane is differentially permeable. /
+	The cell wall is mainly composed of cellulose while the cell membrane is mainly 	composed of phospholipids. /
+	The cell wall is thick and rigid while the cell membrane is thin and flexible. /
+	The cell wall protects, supports and gives shape to the cell while the cell membrane 	controls the movement of substances into and out of the cell. (any 3)		1m x 3	
+---------------------------------------------------
+
+[10233811]
+// Comparison //
+*	A student wrote some features of prokaryotic cells and eukaryotic cells in the following table.
+	Prokaryotic cells	Eukaryotic cells	
+Size	Usually smaller	Usually larger	
+Genetic material	DNA is absent in the cell	DNA lying free in the cytoplasm	
+Mitochondria	Present	Present	
+Cellulose cell wall	Present	Present in plant cells	
+Rough endoplasmic reticulum	Absent	Present for synthesis of lipids	
+a	There are some mistakes in the table above. Point them out and correct them.														(5 marks)
+b	Give two similarities of these two types of cells.				(2 marks)
+
+-- answer --
+	a	DNA is present in prokaryotic cells and lying free in the cytoplasm.		1m
+		DNA in eukaryotic cells is enclosed within the nucleus instead of lying free in the 			cytoplasm.													1m
+		Mitochondria are absent in prokaryotic cells. 						1m
+		The cell wall in prokaryotic cells does not contain cellulose.				1m
+		The rough endoplasmic reticulum in eukaryotic cells is involved in the synthesis of 		proteins. 													1m
+	b	Both prokaryotic and eukaryotic cells are bounded by a cell membrane.	1m
+		Their genetic material is DNA.									1m	
+---------------------------------------------------
+
+[10233830]
+// Photomicrograph // Basic concepts //
+*	The diagram below shows an organelle in a cell.
+	
+
+a	State the kind of microscope used to produce the above image. Explain your answer. 												(3 marks)
+b	Name the organelle. State one feature that can be observed from the image to support your answer.									(2 marks)
+c	State the function of the organelle.							(1 mark)
+d	State one kind of human cell that has a lot of this organelle.		(1 mark)
+
+-- answer --
+	a	Transmission electron microscope								1m
+		This organelle can only be observed under electron microscopes. 		1m
+		The image is two-dimensional. 									1m 
+	b	Mitochondrion												1m
+		The inner membrane of the organelle is highly-folded.					1m
+	c	It is the main site of respiration.									1m
+	d	Epithelial cells in the inner wall of the small intestine / enzyme-secreting cells / 			ciliated epithelial cells in the respiratory tract / muscle cells / sperms / neurones / 			liver cells (or other correct answers)								1m	
+---------------------------------------------------
+
+[10233854]
+// Comparison // Schematic diagram // Basic concepts //
+	The diagram below shows a secreting cell on the epithelium of the nasal cavity. 
+
+	
+
+a	Name organelles X and Y.								(2 marks)
+b	State the structural difference between organelles X and Y.		(1 mark)
+c	What are the functions of organelles X and Y?				(2 marks)
+
+-- answer --
+	a	X: rough endoplasmic reticulum									1m
+		Y: smooth endoplasmic reticulum								1m
+	b	Organelle X has ribosomes attached on its surface while organelle Y does not.																	1m
+	c	Organelle X is involved in the synthesis of proteins. 					1m
+		Organelle Y is involved in the synthesis of lipids. 					1m	
+---------------------------------------------------
+
+[10233865]
+// Basic concepts //
+	Complete the following table about different sub-cellular structures and their functions.													(6 marks)
+Sub-cellular structure	Function	
+	Encloses the cell and controls the movement of substances into and out of the cell	
+Rough endoplasmic reticulum		
+Nucleus		
+Chloroplast		
+Mitochondrion		
+	Contains water and dissolved substances	
+
+-- answer --
+Sub-cellular structure
+Function
+
+Cell membrane
+Encloses the cell and controls the movement of substances into and out of the cell
+
+Rough endoplasmic reticulum
+Involved in the synthesis of proteins
+
+Nucleus
+Contains DNA, which carries genetic information that controls activities of the cell
+
+Chloroplast
+Contains chlorophyll which absorbs light energy for photosynthesis
+
+Mitochondrion
+As the main site of respiration
+
+Vacuole
+Contains water and dissolved substances
+
+															1m x 6	
+--------------------------------------------------- 
+
+[10233876]
+// Applying concepts //
+*	Our body is made up of over 200 types of cells. Most of them contain the same organelles but the numbers can differ significantly. For example, muscle cells contain a large number of mitochondria. In the salivary gland, which is a site of enzyme production, the secreting cells have a large amount of rough endoplasmic reticulum. Explain why
+a	muscle cells contain a large number of mitochondria.			(3 marks)
+b	the secreting cells in the salivary gland have a large amount of rough endoplasmic reticulum.									(2 marks)
+
+
+
+-- answer --
+	a	Muscle cells contract frequently.									1m
+		Mitochondria are the main site of respiration.						1m
+		Mitochondria provide energy for the contraction of muscles.				1m
+	b	The salivary gland secretes enzymes, which are proteins.				1m
+		Rough endoplasmic reticulum is involved in the synthesis of proteins.		1m	
+---------------------------------------------------
+
+[10233884]
+// Experiment //
+*	a	Why should a low-power objective, instead of a high-power one, be used first when making an observation under a microscope?			(2 marks) 
+b	Why should the stage be lowered, instead of raising, when using the coarse adjustment knob to bring the image in focus?					(1 mark) 
+c	When observing a temporary mount of cells with a microscope, we should keep the microscope in an upright position. Why?				(1 mark) 
+d	What will the words 'pop' and 'bob' become when they are observed under the microscope?										(2 marks)
+-- answer --
+	a	Using low-power objectives can avoid hitting and damaging the objective and the 		slide when the slide is placed onto the stage.						1m
+		Using low-power objectives allows us to locate the part of the specimen we want to 		observe more easily. 										1m
+	b	This is to avoid pressing the objective against the slide, damaging both of them.																	1m
+	c	This is to avoid water or solution from dripping from the slide onto the stage.																		1m
+	d	'pop' will become 'dod'.										1m
+	 	'bob' will become 'qoq'.										1m	
+---------------------------------------------------
+
+
+[10233895]
+// Experiment // Schematic diagram //
+*	The diagram below shows how a section of plant tissue is mounted for observation under a microscope.
+
+	
+
+a	Why is a very thin section instead of a thick piece of tissue used for observation under the microscope?							(1 mark)
+b	Give one reason for mounting the section with a drop of stain.	(1 mark)
+c	Give two reasons why a cover slip is used.					(2 marks)
+d	The slide should first be observed under low-power magnification even if we want to make high-power observation. Why?				(2 marks)
+
+-- answer --
+	a	A very thin section consists of only a fewer layers of cells. It allows light to pass 			through, thus the cell structures can be seen clearly. 				1m
+	b	Most cell structures are colourless. They can be observed more clearly after 			staining.												1m
+	c	To prevent the specimen from drying out. /
+		To flatten the specimen for better focusing. /
+		To prevent the objective from getting dirty by touching the mounting solution. 
+	 	 (any 2)												1m x 2
+	d	Under low-power magnification, the part of the specimen that we want to observe 		can be located more easily. 								1m
+		We can move that part of the specimen to the centre of the field of view before 			switching to high-power magnification.						1m	
+---------------------------------------------------
+
+[10233914]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an organelle in a human cell.
+
+	
+
+a	Name the organelle.									(1 mark)
+b	Why is it regarded as the 'power house' of the cell?			(1 mark)
+c	What kind of substance is present in this organelle to speed up the reactions that generate power?									(1 mark)
+
+-- answer --
+	a	Mitochondrion												1m
+	b	It is the main site where the energy-releasing stage of respiration takes place.																	1m
+	c	Enzymes													1m	
+---------------------------------------------------
+
+[10233917]
+// Experiment // Basic concepts //
+*	A student is using a 10X eyepiece and a 5X objective to observe a stained specimen of cells under a microscope.
+a	Why do we stain the specimen before observing it under a microscope?															(1 mark)
+b	The magnifications of different eyepieces and objectives of a microscopes are listed below. 
+Eyepiece:		5X		10X		20X
+Objective: 	5X		40X		100X
+If the student wants to observe a larger area of the specimen, which eyepiece and objective should he choose?					(2 marks)
+c	Give two reasons why we should cover the specimen with a cover slip when preparing a temporary mount.								(2 marks)
+-- answer --
+	a	Most cell structures are colourless. They can be observed more clearly after 			staining. 												1m
+	b	5X eyepiece											1m
+		5X objective											1m
+	c	To prevent the specimen from drying out. /
+		To flatten the specimen for better focusing. /
+		To prevent the objective from getting dirty by touching the mounting solution. 
+	 	 (any 2)												1m x 2	
+---------------------------------------------------
+
+
+
+Structured questions
+
+[10233999]
+// Photomicrograph // Drawing // Experiment //
+**	The photomicrographs below show the cells in a specimen of a plant tissue under different magnifications.
+	
+a	With reference to photomicrograph II, draw a labelled diagram of the plant cell enclosed with the dotted line.							(4 marks)
+b	A student first viewed the specimen under a light microscope and obtained the view shown in photomicrograph I. Describe the sequence of steps that the student should take to obtain the view shown in photomicrograph II.															(4 marks)
+-- answer --
+	a	
+		
+		Title														1m
+		Resemblance of drawing										1m
+		Labels (any 2)												2m
+	b	Move the part of the specimen he wants to observe to the centre of the field of
+		view.														1m
+Select a high-power objective by rotating the nosepiece.				1m
+		Focus the specimen by turning the fine adjustment knob.				1m
+		Adjust the diaphragm to brighten the image if necessary.				1m	
+---------------------------------------------------
+
+[10234002]
+// Photomicrograph // High order thinking //
+**	The photomicrograph below shows part of a pancreatic cell.
+
+	
+
+	a	Name organelles P and Q.								(2 marks)
+b	Describe how organelles P and Q work together to allow the pancreatic cell to perform its functions.									(3 marks)
+c	One of the differences between a prokaryotic cell and a eukaryotic cell is the absence of various membrane-bound organelles. Suggest two advantages of having membrane-bound organelles in eukaryotic cells.		(2 marks)
+
+-- answer --
+	a	P: rough endoplasmic reticulum									1m
+		Q: mitochondrion											1m
+b	Pancreatic cell secretes enzyms for digestion / hormones for regulating blood glucose level.												1m
+These enzymes / hormones are protein in nature. They are synthesized in organelle P.												1m
+		Organelle Q provides energy for the synthesis of proteins.				1m
+c	It allows the cell to store waste in an isolated environment (e.g. in vacuoles). This reduces the harmful effect of the waste to the cell.					1m
+		It isolates the DNA molecules from the environment. This prevents the DNA 			molecules from being damaged.									1m
+		(or other reasonable answers)	
+---------------------------------------------------
+
+[10234016]
+// Graph interpretation // High order thinking // Applying concepts //
+**	In an experiment, radioactive amino acids were provided to an animal cell for 5 minutes. Then the cell was provided with non-radioactive amino acids and the level of radioactivity remained in the cell was measured. The graph below shows the result. The diagram below shows some organelles in this cell.
+
+	
+
+	a	Name organelle W and state its function.					(2 marks)
+b	In which labelled organelles would radioactivity appear first? Explain your answer.												(3 marks)
+c	A student suggested that this cell is an enzyme-secreting cell. Use evidence from the graph to support the student's claim.				(2 marks)
+
+-- answer --
+	a	Nucleus													1m
+		It regulates the activities of the cell.								1m
+	b	Organelle Y												1m
+		Organelle Y is the rough endoplasmic reticulum.						1m
+		Amino acids are combined to form proteins here.						1m
+	c	The level of radioactivity in the cell decreases over time.				1m
+Some of the radioactive amino acids may be incorporated into proteins which are then secreted outside the cell.									1m	
+---------------------------------------------------
+
+[10234040]
+// Calculation // Schematic diagram //
+**	The diagrams below show the drawings of a prokaryotic cell and a eukaryotic cell observed at different magnifications under an electron microscope. They are drawn to the same length.
+	
+a	The actual length of the prokaryotic cell is 2 µm. Calculate the actual length of the eukaryotic cell (Y). Show your working.				(2 marks)
+b	Both the prokaryotic cell and eukaryotic cell have a cell membrane. Explain why cells need a cell membrane.							(2 marks)
+Mitochondria are found in eukaryotic cells. It has been proposed that mitochondria originated from prokaryotic cells. A long time ago prokaryotic cells were engulfed by larger prokaryotic cells and both of them benefited from the relationship. This is called the endosymbiont theory.
+c	Suggest why the following structural features of mitochondria are evidence for the endosymbiont theory.
+	i	Mitochondria are bounded by a double membrane.		(2 marks)
+	ii	Mitochondria contain DNA and ribosomes.				(1 mark)
+d	Suggest why the two mitochondria labelled P are different in shape.																(2 marks)
+
+
+
+
+
+
+-- answer --
+	a	(2 × 48 000) / 600											1m
+		= 160 µm													1m	
+	b	The cell membrane encloses the cell / separates the cell contents from the outside 		environment.												1m
+		The cell membrane controls the movement of substances in and out of the cell.
+																1m
+	c	i	The inner membrane may come from the prokaryotic cell being engulfed.																	1m
+			The outer membrane may come from the larger prokaryotic cell.		1m
+		ii	Like mitochondria, prokaryotic cells contain DNA and ribosomes.		1m
+	d	The mitochondria may orientate differently.							1m
+		The position of sections obtained may be different.					1m	
+--------------------------------------------------
+
+[10234041]
+// Photomicrograph // Calculation //
+*	The image below shows part of a cell observed under an electron microscope.
+	
+
+a	Name structures X, Y and Z and state their functions.			(3 marks)
+b	Calculate the magnification of the image. Show your working. 
+	(Hint: 1 mm = 106 nm)									(2 marks) 
+c	Name the type of electron microscope used to produce this image.															(1 mark) 
+
+d	Give two advantages of using an electron microscope in studying cells, compared to using a light microscope.						(2 marks)
+-- answer --
+a	X: It is the rough endoplasmic reticulum and is involved in the synthesis of proteins.												1m
+		Y: It is the nucleus and it controls activities of the cell.				1m
+		Z: It is the mitochondrion and is the main site of respiration.			1m
+	b	8 mm / 500 nm = 16 000									1m × 2
+	c	Transmission electron microscope							1m
+	d	The images produced are of higher magnifications.				1m
+		The images produced are of higher resolution. / More details can be shown.																	1m	
+--------------------------------------------------
+
+[10234051]
+// Photomicrograph // Experiment // Calculation //
+*	The photomicrograph below shows some Zebrina epidermal cells.
+	
+
+a	Name structures W, X, Y and Z.							(4 marks)
+b	Name the major polysaccharide of which structure W is made. 	(1 mark)
+c	State one function of structure W.							(1 mark)
+d	Compare the permeability of structures W and Z.				(2 marks)
+e	If the magnification of the eyepiece is 10X, what is the magnification of the objective in giving the above photomicrograph? Show your calculation.															(2 marks)
+
+-- answer --
+	a	W: cell wall												1m
+		X: nucleus													1m
+		Y: cytoplasm												1m
+		Z: cell membrane											1m
+	b	Cellulose													1m
+	c	It protects / supports the cell / gives shape to the cell.					1m
+	d	W is fully permeable 											1m
+		while Z is differentially permeable.								1m
+	e	100/10 													1m
+		= 10X													1m	
+---------------------------------------------------
+
+[10234070]
+// Photomicrograph // Calculation //
+*	The photomicrograph below shows a human cheek cell. 
+
+	
+
+a	Name structures X, Y and Z.								(3 marks)
+b	State one function of each of the structures X, Y and Z. 		(3 marks)
+c	Is the human cheek cell a prokaryotic cell or a eukaryotic cell? With reference to the photomicrograph, explain your answer.		(2 marks)
+d	From the scale provided, find out the magnification of the cheek cells. Show your calculation.										(2 marks)
+
+-- answer --
+	a	X: cytoplasm												1m
+		Y: nucleus													1m
+		Z: cell membrane											1m
+	b	Structure X holds many organelles / is the site for many chemical reactions / allows 		the movement and transport of materials inside the cell.				1m
+		Structure Y contains DNA, which carries genetic information that controls activities 		of the cell.													1m
+		Structure Z encloses the cell / separates the cell contents from the outside 				environment / controls the movement of substances in and out of the cell.	1m
+	c	Eukaryotic cell. It has a true nucleus. 								2m
+	d	12 mm/10 μm = 1200											2m	
+---------------------------------------------------
+
+[10234076]
+// Calculation // Schematic diagram // Basic concepts //
+	The diagram below shows a plant cell observed under a light microscope.
+	
+a	Using the letters in the diagram, state two structures that are surrounded by a double membrane.									(2 marks)
+b	i	Name structure Q.									(1 mark)
+ii	Give one example of a cell that does not have structure Q.	(1 mark)
+c	Suggest one similarity and one difference between structures P and T. 															(2 marks)
+d	A large structure S is usually found in the cells of plants. What is the importance of it to the plants?								(2 marks)
+e	Given that the plant cell in the diagram is magnified 1000 times, calculate the actual length, X, of the plant cell in μm. Show your working.	(2 marks)
+-- answer --
+	a	Q / R / U (any 2)										1m x 2
+	b	i	Nucleus											1m
+		ii	Mature red blood cell / sieve cell / cells in xylem vessel		1m
+	c	Similarity: Both structures are a network of interconnected membrane-bounded 			sacs.													1m
+		Difference: Structure P has ribosomes attached on its surface while structure T 			does not.												1m
+	d	When structure S is full of water, the cell becomes turgid.			1m
+		This provides support to the plants.							1m
+	e	6 cm/1000												1m
+		= 60 μm												1m	
+---------------------------------------------------
+
+[10234078]
+// Reading comprehension //
+*	Read the following article and answer the questions.
+
+In 1665, Robert Hooke made an observation with a microscope designed by himself. He took a piece of cork, and cut a piece of it off. Then he examined it with his microscope and observed that there were little holes on it. To make the observation clearer, he focused the light on the piece of cork with a convex lens. 	
+
+a	Hooke described his observed cells as 'holes'. Based on your knowledge on plant cells, explain why 'holes' is not a suitable term.			(2 marks)
+b	i	Why does the observation become clearer after adding a convex lens?														(1 mark)
+ii	Which part of the light microscope used today is similar to this glass? 													(1 mark)
+c	Which structure of the cells did Hooke observed? 			(1 mark)
+d	Cork cell is a plant cell. Give three features that are present in plant cells but not in animal cells. 									(3 marks)
+e	How does the development of microscope contribute to the discovery of  cells?												(2 marks)
+
+
+
+-- answer --
+	a	'Holes' refer to empty spaces									1m
+		while cells are membrane-bounded structure with cytoplasm and various 				organelles inside.											1m
+	b	i	The convex lens focuses light onto the piece of cork. The view becomes 				brighter.												1m
+		ii	Condenser											1m
+	c	Cell wall													1m
+	d	Plant cells have a cell wall. 									1m
+		Plant cells have chloroplasts. 									1m
+		Plant cells have a large central vacuole. 							1m
+	e	Microscopes which produce images with higher magnifications and resolution are 		invented. 													1m
+		This enables the scientists to observe cells more clearly and in more detail.	1m	
+---------------------------------------------------
+
+[10234081]
+// Comparison // Schematic diagram // Basic concepts //
+*	The diagram below shows a cell observed under an electron microscope.
+	
+
+
+a	Suggest three reasons why the cell is likely to be a palisade mesophyll cell, but not an ox corneal cell.								(3 marks)
+b	Complete the table below to compare structures P and Q.		(4 marks)
+
+	Structure P	Structure Q	
+Main chemical constituents			
+Permeability			
+c	Using the letters in the diagram, state the structure which
+i	stores pigments other than chlorophyll.					(1 mark)
+ii	absorbs light energy.								(1 mark)
+d	Name the structures shown in the diagram which may also be found in a bacterium.											(3 marks)
+
+-- answer --
+	a	It has a cell wall.											1m
+		It has chloroplasts.											1m
+		It has a large central vacuole.									1m
+	b	
+
+Structure P
+Structure Q
+
+Main chemical constituents 
+Cellulose
+Phospholipids
+
+Permeability
+Fully permeable
+Differentially permeable
+
+																4m
+	c	i	U													1m
+		ii	W													1m 
+	d	Cell wall													1m
+		Cell membrane												1m
+		Ribosomes												1m	
+---------------------------------------------------
+
+[10234085]
+// Experiment // Basic concepts //
+	The photograph below shows a light microscope commonly used in school laboratories.
+	
+
+a	Sometimes we need to rotate Q during observation. What is the purpose of rotating Q?											(1 mark)
+b	How is a microscope slide held in position on R?				(1 mark)
+c	What is S for?											(1 mark)
+d	How can you control the amount of light passing through V?	(1 mark)
+e	If you have a number of plant cells in focus under low-power magnification, how would you go on to observe one of the cells in detail under high-power magnification?											(3 marks)
+f	Why should you never lower P by turning U while you are looking through  T?													(1 mark)
+g	Give two advantages of using electron microscopes over light microscopes.														(2 marks)
+
+
+-- answer --
+	a	To select an objective with suitable magnification.					1m
+	b	It is held in position by the clips.									1m
+	c	It reflects light to the slide from a light source.						1m
+	d	By adjusting the diaphragm.									1m
+	e	Move the cell you want to observe in detail to the centre of the field of view.	1m
+		Rotate the nosepiece to select a high-power objective. 				1m
+		Focus with the fine adjustment knob.								1m
+	f	To prevent pressing the objective against the slide, which may damage both of 			them.													1m
+	g	Electron microscopes can produce images with higher magnifications		1m
+		and resolution.												1m	
+---------------------------------------------------
+
+[10234122]
+// Experiment // Calculation //
+**	The photograph below shows a light microscope.
+
+	
+
+a	Name parts X, Y and Z.									(3 marks)
+b	A student used the light microscope to observe onion epidermal cells. With a 10X eyepiece and a 10X objective, the student observed 8 cells in the field of view.
+i	Calculate the total magnification of the microscope.		(1 mark)
+ii	If the eyepiece is unchanged and the 10X objective is replaced by a 20X objective, estimate the number of cells in the field of view.															(3 marks)
+c	What precaution should be taken to prevent the objective from touching the cover slip when we turn the coarse adjustment knob to bring the image in focus?												(1 mark)
+
+-- answer --
+	a	X: eyepiece												1m
+		Y: objective												1m
+		Z: stage													1m
+	b	i	10 x 10 = 100X											1m
+		ii	The magnification becomes two times the original magnification after 					replacing the objective.
+			Ratio of the length observed before and after replacing the objective	
+			= 1:2													1m
+			Ratio of the area observed before and after replacing the objective
+			= 1:22 = 1:4											1m
+			Number of cells in the field of view after replacing the objective 
+														1m
+	c	Watch the stage from the side when turning the knob to raise the stage.	1m	
+---------------------------------------------------
+
+[10234128]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the structure of a cell.
+	
+a	Name the structures W, X, Y and Z. 						(4 marks)
+b	Is this cell a plant cell or an animal cell? Based on the diagram, give two reasons to support your answer.							(3 marks)
+c	Give two features shown in the diagram to support that the cell is eukaryotic.														(2 marks)
+-- answer --
+	a	W: nucleus 											1m
+		X: rough endoplasmic reticulum								1m
+		Y: smooth endoplasmic reticulum 							1m
+		Z: chloroplast											1m
+	b	It is a plant cell.											1m
+		Reason: 
+		It has a cell wall. /	
+		It contains chloroplasts. /	
+		It has a large vacuole. (any 2)								1m x 2
+	c	It has a true nucleus. /
+It has membrane-bounded organelles / endoplasmic reticulum / chloroplasts / mitochondria. /
+		Ribosomes are attached to the endoplasmic reticulum.
+	 	(any 2) 												1m x 2	
+--------------------------------------------------- 
+
+[10234135]
+// Drawing // Experiment //
+*	Some steps in observing onion epidermal cells with a light microscope are shown below. 
+(1)	The inner epidermis of the fleshy layer of an onion was peeled off.
+(2)	A small piece of epidermis was cut and placed on a slide.
+(3)	A drop of iodine solution was added to the epidermis.
+(4)	The epidermis was covered with a cover slip.
+(5)	Excess iodine solution was blotted with tissue paper.
+
+a	What is the advantage of using iodine solution instead of pure water for mounting the epidermis?									(1 mark)
+b	Give two reasons why a cover slip was used.					(2 marks)
+c	Why was step (5) necessary?								(1 mark)
+d	Make a labelled drawing of an onion epidermal cell that you expect to see with a microscope.										(3 marks)
+e	Name two structures that are absent in epidermal cells but are found in most plant cells.											(2 marks)
+-- answer --
+	a	Iodine solution stains the cells, so that the cell structures can be observed more 			clearly.												1m
+	b	To prevent the specimen from drying out. /
+		To flatten the specimen for better focusing. /
+		To prevent the objective from getting dirty by touching the mounting solution. 
+		(any 2)												1m x 2
+	c	Excess iodine solution may wet the objective and cause damage to it.	1m
+	d
+		
+		Correct drawing											1m
+		Correct title											1m
+		Correct labels											1m
+	e	Chloroplast											1m
+		Large central vacuole										1m	
+---------------------------------------------------
+[10234142]
+// Drawing // Experiment // Schematic diagram //
+*	The diagram below shows the procedure for preparing a temporary mount of onion epidermis for microscopic observation.
+
+	
+a	What is the use of iodine solution?							(2 marks)
+b	What precautions should be taken when the cover slip is lowered? Give a reason for this precaution.								(3 marks)
+c	Draw and label a few onion epidermal cells observed under the microscope.														(3 marks)
+-- answer --
+a	It is used to stain the cells, 									1m
+so that the cell structures can be observed more clearly.				1m
+b	Let one side of the cover slip touch the iodine solution.					1m
+Use a pair of forceps to lower the other side of the cover slip slowly.		1m
+This is to avoid trapping air bubbles under the cover slip.				1m
+c	
+
+Correct drawing												1m
+Correct title 												1m
+Correct labels												1m	
+---------------------------------------------------
+
+[10234145]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows an animal cell model.
+
+	
+
+a	Name structures W, X, Y and Z.							(4 marks)
+b	Using the letters in the diagram, state the structure which provides the cell with energy.											(1 mark)
+c	Give two features to support that the model shows an animal cell.																(2 marks)
+
+-- answer --
+a	W: cell membrane										1m
+X: mitochondrion										1m
+Y: nucleus												1m
+Z: (smooth) endoplasmic reticulum							1m
+b	X													1m
+c	Large central vacuole is absent. /
+Chloroplast is absent. /
+Cell wall is absent. (any 2) 								1m x 2	
+---------------------------------------------------
+
+[10234152]
+// Drawing // Experiment // Schematic diagram //
+*	A student picked a leaf from a Hydrilla plant and observed the leaf under a microscope.
+	
+a	Draw a labelled diagram of the cell observed under the microscope.																(3 marks) 
+b	Name three structures that can be found in plant cells only. State their functions.												(6 marks) 
+c	Bubbles were released when the plant was illuminated with sunlight. Which process did the plant carry out?							(1 mark) 
+-- answer --
+a	
+	
+Correct drawing												1m
+Correct title												1m
+Correct labels												1m
+b	Cell wall													1m
+It protects, supports and gives shape to the plant cell. 				1m
+Chloroplast												1m
+It contains chlorophyll which absorbs light energy for photosynthesis.		1m
+Large central vacuole											1m
+It stores water and dissolved substances. 							1m 
+c	Photosynthesis												1m	
+---------------------------------------------------
+[10234158]
+// Schematic diagram // Basic concepts //
+*	A student observed a plant cell under a light microscope and drew the diagram below.
+	
+a	State and explain the mistakes he has made.					(4 marks) 
+b	Besides mitochondrion and nucleus, state another two sub-cellular structures that can be found in typical plant and animal cells. What are their functions?														(4 marks) 
+c	State two sub-cellular structures which can be found in all or most plant cells but not in animal cells.								(2 marks)
+-- answer --
+a	He wrongly drew the cell wall inside the cell membrane. The cell wall should be the outermost layer covering the cell membrane. 					1m
+He wrongly drew the mitochondria in the cell. Mitochondria cannot be seen under a light microscope.										1m
+He wrongly drew many nuclei in the cell. A plant cell has one nucleus only. 																1m
+He wrongly labelled the granules as glycogen granules. They should be starch granules.												1m
+b	Cell membrane											1m
+It controls the movement of substances in and out of the cell. / 
+It encloses the cell. 										1m
+Cytoplasm												1m
+It holds many organelles. / 
+It is the site for many chemical reactions. /
+It allows the movement and transport of materials inside the cell. 	1m
+c	Cell wall / large central vacuole / chloroplast (any 2)				1m x 2	
+---------------------------------------------------
+
+[10234160]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a plant cell.
+	
+
+a	Name W and state one function of it.						(2 marks) 
+b	Name X. What is the major difference between W and X in terms of permeability?											(2 marks)
+c	Y is a large organelle containing liquid. 
+i	Name Y and the liquid inside. 						(2 marks)
+ii	Give one function of Y.								(1 mark) 
+d	Z is green in colour. Name Z and state one function of it.		(2 marks) 
+
+-- answer --
+a	Cell wall													1m
+It protects, supports and gives shape to the plant cell. 				1m
+b	Cell membrane												1m
+W (cell wall) is fully permeable while X (cell membrane) is differentially permeable.															1m
+c	i	Y: vacuole												1m
+The liquid inside: cell sap									1m
+ii	It stores water and dissolved substances. /
+It provides support to the plant when it is full of water. 				1m
+d	Chloroplast												1m
+It contains chlorophyll which absorbs light energy for photosynthesis.		1m	
+---------------------------------------------------
+
+[10234161]
+// Drawing // Experiment // Schematic diagram //
+*	Peter mounted a small piece of onion epidermis with water as in the diagram below.
+	
+a	Why was the cover slip used to cover the specimen?			(1 mark)
+b	Why were forceps used to lower the cover slip?				(1 mark)
+c	The onion epidermal cells were not clearly seen under the microscope. Suggest a stain which can be used to make the cells prominent.	(1 mark)
+d	Draw a labelled diagram of an onion epidermal cell seen under the microscope.											(3 marks)
+e	The onion epidermal cells are not green in colour because they lack an organelle. Name this organelle and state the function of it.		(2 marks) 
+-- answer --
+a	To prevent the specimen from drying out. /
+To flatten the specimen for better focusing. /
+To prevent the objective from getting dirty by touching the mounting solution. 																1m
+b	To avoid trapping air bubbles under the cover slip.					1m
+c	Iodine solution												1m
+d	
+Correct drawing												1m
+Correct title												1m
+Correct labels												1m
+e	Chloroplast												1m
+It contains chlorophyll which absorbs light energy for photosynthesis.		1m	
+---------------------------------------------------
+
+[10234163]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an animal cell. 
+
+	
+
+a	Name structures X, Y and Z.								(3 marks) 
+b	X encloses the cell and separates the cell contents from the outside environment. State one other function of this structure.			(1 mark) 
+c	Y is the site where energy is released. State one type of cells in which Y is abundant.												(1 mark) 
+d	Z contains some dense material. State the function of this dense material.															(1 mark) 
+e	State three structural differences between animal cells and plant cells.																(3 marks) 
+
+
+-- answer --
+a	X: cell membrane											1m
+Y: mitochondrion											1m
+Z: nucleus													1m
+b	It controls the movement of substances into and out of the cell. 			1m
+c	Epithelial cells in the inner wall of the small intestine / enzyme-secreting cells / ciliated epithelial cells in the respiratory tract / muscle cells / sperms / neurones / liver cells (or other correct answers)								1m
+d	It carries genetic information that controls activities of the cell.			1m
+e	Animal cells have no cell wall while plant cells have a cell wall.			1m
+Animal cells have small or no vacuoles while plant cells often have a large central vacuole. 													1m
+Animal cells have no chloroplasts while many plant cells have chloroplasts.	1m	
+---------------------------------------------------
+
+[10234181]
+// Schematic diagram // Basic concepts //
+	The diagrams below show two types of cells.
+
+	
+
+a	Name structures W, X, Y and Z.							(4 marks)
+b	Which of the above is a plant cell? Give a reason.				(2 marks)
+c	State the differences in size and shape between plant cells and animal cells. 														(2 marks)
+
+-- answer --
+a	W: cell membrane											1m
+X: nucleus													1m
+Y: mitochondrion											1m
+Z: vacuole													1m
+b	Cell Q													1m
+It has a cell wall / chloroplasts / a large central vacuole.				1m
+c	Animal cells are generally smaller than plant cells. 					1m
+Animal cells are usually irregular in shape while plant cells have a more regular shape. 													1m	
+---------------------------------------------------
+
+[10234184]
+// Basic concepts //
+	The table below shows various sub-cellular structures of cells and their functions.
+
+Sub-cellular structure	Functions	
+P	Contains DNA
+Controls activities of the cell	
+Q	Controls the movement of substances into and out of the cell	
+R	As a site for many chemical reactions in the cell	
+S	As the main site where energy is released during respiration	
+T	Protects, supports and gives shape to the cell	
+U	Contains a pigment for photosynthesis	
+
+a	Name the sub-cellular structures P to U.						(6 marks) 
+b	Using the letters in the table, state which sub-cellular structures can be found in both animal and plant cells.						(2 marks) 
+c	Name one sub-cellular structure, besides those listed in the table, that may be seen when typical plant cells are observed with a microscope. State one function of it. 											(2 marks) 
+
+-- answer --
+a	P: nucleus													1m
+Q: cell membrane											1m
+R: cytoplasm 												1m
+S: mitochondrion											1m
+T: cell wall													1m
+U: chloroplast												1m
+b	P, Q, R and S												2m
+c	Vacuole													1m
+It stores water and dissolved substances. / 
+It provides support to the plant when it is full of water.					1m
+(or other correct answers)	
+---------------------------------------------------
+
+[10234191]
+// Experiment // Basic concepts //
+*	The diagram below shows a light microscope commonly used in school laboratories.
+	
+a	Using the letters in the diagram, state the parts that are involved in magnifying objects. Name these parts.						(2 marks) 
+b	Describe the steps involved in observations at high-power magnifications.															(4 marks) 
+c	When we observe a fresh specimen, why is water usually added?																	(1 mark) 
+d	State two reasons of putting a cover slip on a specimen.		(2 marks) 
+
+-- answer --
+a	P: eyepiece											1m
+S: objective											1m
+b	Focus the specimen with a low-power objective.					1m
+Move the part of the specimen you want to observe in detail to the centre of the field of view.											1m
+Rotate the nosepiece to select a high-power objective. 			1m
+Focus with the fine adjustment knob.							1m
+c	To prevent the specimen from drying out.						1m
+d	To prevent the specimen from drying out. /
+To flatten the specimen for better focusing. /
+To prevent the objective from getting dirty by touching the mounting solution. 
+(any 2)												1m x 2	
+---------------------------------------------------
+
+[10234220]
+// Experiment // Basic concepts //
+*	A student is given a slide with cells mounted in iodine solution and asked to observe the cells with a light microscope. 
+a	The cells appear round in shape under a microscope. Are they plant cells or animal cells?											(2 marks)
+b	Give two features that may help you decide whether the cells are plant cells or animal cells.										(2 marks)
+c	There are some blue-black granules inside the cells. What are they? In which part of the cells can they be found?					(2 marks)
+d	The student estimates one cell to be 0.01 mm wide. He draws the cell on paper and used a scale of ×2500. What will be the width of the cell on paper? 														(2 marks)
+e	When observing the specimen through the eyepiece, we should not turn the coarse adjustment knob to raise the stage. Why?				(2 marks)
+ 
+-- answer --
+a	It is not certain whether they are plant or animal cells.					1m
+Both plant and animal cells can be round in shape.					1m
+b	Presence of a cell wall										1m
+Presence of chloroplasts										1m
+c	They are starch granules.										1m
+They can be found in the cytoplasm.								1m
+d	0.01 mm x 2500												1m
+= 25 mm													1m
+e	The objective may press against the slide.							1m
+This may damage both of them.									1m	
+---------------------------------------------------
+
+
+[10234224]
+// Basic concepts //
+	Complete the following table concerning cell organelles.			(8 marks)
+
+Descriptions	Organelle	Functions	
+May be present or absent in cells
+When present, there is usually only one in each cell			
+Present in most living cells, more are present in cells that use a lot of energy			
+Contains a pigment, only found in plant cells but not all plant cells have it			
+Large and single in plant cells, small and multiple in animal cells			
+
+-- answer --
+Descriptions
+Organelle
+Functions
+
+May be present or absent in cells
+When present, there is usually only one in each cell
+Nucleus
+It contains DNA which carries genetic information that controls activities of the cell.
+
+Present in most living cells, more are present in cells that use a lot of energy
+Mitochondrion
+It is the main site of respiration.
+
+Contains a pigment, only found in plant cells but not all plant cells have it
+Chloroplast
+It contains chlorophyll which absorbs light energy for photosynthesis.
+
+Large and single in plant cells, small and multiple in animal cells
+Vacuole
+It stores water and dissolved substances. / It provides support to the plant when it is full of water.
+
+															1m x 8	
+---------------------------------------------------
+
+[10234240]
+// Experiment // Schematic diagram //
+	The diagrams below show two cells, X and Y.
+
+	
+
+	a	Name structures R, S, T and U.							(4 marks)
+b	Which cell, X or Y, is a plant cell? Based on the diagrams, give a reason to support your answer.									(2 marks)
+c	Using the letters in the diagram, state the structure where photosynthesis takes place.											(1 mark)
+d	i	Suggest one stain that can be used to make Q more distinct.	(1 mark)
+ii	In which colour will Q appear if the stain in d i is added.	(1 mark)
+e	Why is it important to have U in cell X but not in cell Y?		(1 mark)
+f	Give one example for cell X and cell Y respectively.			(2 marks)
+
+-- answer --
+a	R: nucleus													1m
+S: cytoplasm												1m
+T: cell membrane											1m
+U: cell wall													1m
+
+
+
+
+b	Cell X													1m
+Reasons:
+Cell X has a cell wall. /
+Cell X has chloroplasts. / 
+Cell X has a large central vacuole.								1m
+c	P														1m
+d	i	Iodine solution											1m
+ii	Blue-black colour										1m
+e	Plants do not have skeleton for support. U (rigid cell wall) provides support.	1m
+f	Cell X: palisade mesophyll cell (or other correct answers)				1m
+Cell Y: ox corneal cell (or other correct answers)						1m	
+---------------------------------------------------
+
+
+Essays
+
+[10234336]
+// Overseas exam question // Communication //
+	Discuss the advantages and disadvantages of the light microscope (LM), the transmission electron microscope (TEM), and the scanning electron microscope (SEM) to observe biological structures.							(9 marks)
+CCEA GCE (AS) Biology Module 1 May 2017 Q8a
+
+-- answer --
+Light microscope allows live specimens to be observed, while electron microscope can only be used to observe dead specimens.								1m
+Light microscope produces coloured images while electron microscope produces black and white images.												1m Light microscope is easier to use than electron microscope.					1m
+Preparation of specimen for light microscope is easier than that for electron microscope.																1m
+Light microscope has lower resolution compared to electron microscope.		1m
+Light microscope and TEM produce two-dimensional images, while SEM produces three-dimensional image which shows the external structures of the specimen.	1m
+(or other reasonable answers)
+Communication													3m	
+---------------------------------------------------
+
+[10234342]
+// Drawing // Communication //
+*	Using an annotated diagram, describe the structure of a plant cell.	(12 marks)
+
+-- answer --
+Correct drawing												1m
+Correct title												1m
+Correct labels												1m
+Any six structures with descriptions:								1m x 6
+
+
+
+
+Cell wall:
+It is a thick, rigid layer covering the cell membrane. /
+It is mainly made up of cellulose. /
+It is fully permeable. / It allows water and all dissolved substances to pass through.
+Cell membrane:
+It is a thin and flexible membrane enclosing the cell. /
+It is differentially permeable. / It only allows certain substances to pass through.
+Cytoplasm:
+It is a jelly-like fluid consisting of mainly water and proteins.
+Nucleus:
+It is a spherical structure bounded by the nuclear membrane. /
+It contains DNA / genetic material.
+Mitochondrion:
+It is a structure bounded by a double membrane. / Its inner membrane is highly folded.
+Endoplasmic reticulum (ER):
+It is a network of interconnected membrane-bounded sacs. /
+It is continuous with the outer nuclear membrane and extends throughout the cytoplasm. /
+There are two types of ER, rough ER and smooth ER.	
+Vacuole:
+It is usually large and located in the centre of the cell. /
+It is filled with cell sap. / It contains water and dissolved substances. 
+Chloroplast:
+It is bounded by a double membrane. /
+It contains chlorophyll. 
+Communication												3m	
+---------------------------------------------------
+
+
+[10234345]
+// Experiment // Communication // Basic concepts //
+	Describe the procedures of using a light microscope to observe a prepared slide under high-power magnification.								(12 marks)
+
+-- answer --
+Insert a low-power eyepiece into the body tube and select a low-power objective.																		1m
+Turn on the light source. Look through the eyepiece and adjust the diaphragm until the light is sufficient.												1m
+Clip the prepared slide onto the stage.								1m
+Watch the stage from the side and raise the stage by turning the coarse adjustment knob until the objective is at a position closest to the slide. 					1m
+Look through the eyepiece and lower the stage by turning the coarse adjustment knob until the image is roughly in focus.									1m
+Turn the fine adjustment knob to get a sharp focus.						1m
+Move the part of the specimen you want to observe in detail to the centre of the field of view.															1m
+Rotate the nosepiece to select a high-power objective. Turn the fine adjustment knob to get a sharp focus.												1m
+Adjust the diaphragm to brighten the view if necessary.					1m
+Communication													3m	
+---------------------------------------------------
+
+[10234349]
+// Comparison // Communication // Basic concepts //
+*	Compare and contrast the structure of prokaryotic cells and eukaryotic cells.															(11 marks)
+
+-- answer --
+Similarities:
+Both of them are bounded by a cell membrane.						1m
+Their genetic material is DNA.									1m
+Differences: (any 6)											1m x 6
+Eukaryotic cells are usually smaller than prokaryotic cells. /
+Eukaryotic cells have a true nucleus while prokaryotic cells do not. /
+DNA of eukaryotic cells is enclosed within the nucleus, while that of prokaryotic cells is lying free in cytoplasm. /
+Eukaryotic cells have membrane-bounded organelles by a double membrane while prokaryotic cells do not. /
+In eukaryotic cells, some ribosomes are attached to ER and some are lying free in the cytoplasm, while in prokaryotic cells, ribosomes are lying free in the cytoplasm. /
+In eukaryotic cells, only plant cells have a cell wall and animal cells do not, while most prokaryotic cells have a cell wall. /
+The cell wall of plant cells contains cellulose but that of prokaryotic cells does not.
+Communication												3m	
+---------------------------------------------------
+
+

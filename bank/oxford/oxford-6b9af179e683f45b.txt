@@ -1,0 +1,659 @@
+	
+Chapter 7		Gas exchange in humans
+
+Multiple-choice questions
+
+[10288442]
+// Schematic diagram //Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which showsthe human breathing system.
+W
+Z
+X
+Y
+W
+Z
+X
+Y
+
+
+	Which structures contract when a person takes a deep breath?
+A	W and X only
+B	W and Y only
+C	X and Y only
+D	W, X and Y only
+B
+
+---------------------------------------------------
+
+
+
+[10288444]
+// Schematic diagram// Applying concepts // Basic concepts //
+*	Which of the following would decrease the rate of removal of carbon dioxide from blood?
+(1)	The walls in structure X break down.
+(2)	The movement of structure Y is restricted by a tumour.
+(3)	Structure Z constricts.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D
+
+---------------------------------------------------
+
+[10288457]
+// Schematic diagram// Applying concepts //
+*	The diagram below shows the lungs and some of the associated structures of a man after he got a stab wound to the chest.
+right lung
+collapsed left lung
+space X
+pleural cavity
+right lung
+collapsed left lung
+space X
+pleural cavity
+
+
+	Which of the following statements about space X is/are correct?
+(1)	It contains air.
+(2)	The pressure in it is lower than the atmospheric pressure.
+(3)	It no longer receives fluid secreted by the outer pleural membrane.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+Short question
+
+[10288475]
+// Photomicrograph // Applying concepts // Basic concepts //
+*	Photomicrograph I shows the cross section of the human trachea. Photomicrograph II shows the cross section of the human bronchiole.
+
+(×10)
+P
+Q
+(×60)
+Photomicrograph I
+Photomicrograph II
+(×10)
+P
+Q
+(×60)
+Photomicrograph I
+Photomicrograph II
+
+
+
+a	How could structure P help us distinguish between the trachea and the bronchiole?											(2 marks)
+b	Structure Q in the bronchioles relaxes during exercise. Suggest the significance of this on gas exchange during exercise.			(3 marks)
+
+-- answer --
+a	Structure P is present in the wall of the trachea / Structure P in the wall of the trachea is C-shaped,											1m
+	while structure P is absent in the bronchiole.						1m
+b	When structure Q relaxes, the diameter of the lumen of the bronchioles increases.														1m
+	This allows more air to reach the air sacs for gas exchange,			1m
+	so that more oxygen can be transported to muscle cells for respiration / more carbon dioxide can be removed during exercise.						1m
+
+--------------------------------------------------
+
+
+Structured question
+
+[10288484]
+// Schematic diagram // Applying concepts //
+*	Some people who suffered from coronavirus disease 2019 (COVID-19) may have lasting problems after recovery. Some of the problems are related to the scar tissues formed in the lungs after the infection. The diagram below shows an air sac of a person recovered from COVID-19.
+
+
+capillary wall
+wall of air sac
+red blood cell
+layer X
+scar tissue
+
+
+capillary wall
+wall of air sac
+red blood cell
+layer X
+scar tissue
+
+
+a	What is layer X? How does it facilitate gas exchange?			(2 marks)
+b	With reference to the diagram, explain why the person may experience shortness of breath even when performing mild physical activities such as climbing the stairs.										(3 marks)
+c	Recovered patients who experience shortness of breath are recommended to do certain breathing exercises. An example of such exercises is to practise diaphragmatic breathing. In each practice, the patient consciously uses his/her diaphragm to take several deep breaths. Suggest how practising diaphragmatic breathing regularly may help the patient relieve shortness of breath when performing physical activities.					(4 marks)
+
+
+-- answer --
+a	Water film													1m
+	It allows oxygen in inhaled air to dissolve in it before diffusion.			1m
+b	Scar tissue is located between the air sacs and capillaries. It may obstruct the diffusion of gases. / This increases the diffusion distance of gases.		1m
+	The rate of oxygen diffusion from the air in the air sacs into the blood / the removal of carbon dioxide from the body is decreased.						1m
+	As the oxygen content in the blood is low / carbon dioxide content in the blood is high, the body of the patient responds with a higher rate of breathing, trying to meet the demand for oxygen / remove the carbon dioxide produced from respiration even when performing mild physical activities.				1m
+c	Practising diaphragmatic breathing regularly can strengthen the diaphragm muscles.													1m
+	With stronger diaphragm muscles, the volume of the thoracic cavity can increase more during inhalation, and hence the volume of the lungs.				1m
+	The air pressure in the lungs becomes lower than the atmospheric pressure by a greater extent and more air rushes into the lungs.					1m
+	The concentration gradient of oxygen between the air sacs and the blood becomes steeper. Therefore, the rate of oxygen diffusion from the air in the air sacs into the blood is increased.											1m
+	(or otherreasonable answers)
+
+--------------------------------------------------
+
+
+
+Chapter8		Transport in humans
+
+Multiple-choice questions
+
+[10288557]
+// Basic concepts //
+*	Which of the following statements about arteries is correct?
+	A	All arteries carry blood with a low carbon dioxide content.
+	B	All arteries carry blood with a high glucose content.
+	C	All arteries carry blood at a relatively high pressure.
+	D	Valvesare absent in arteries.
+C
+
+---------------------------------------------------
+
+[10288570]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the volume of left ventricle of a person’s heart in a period of time.
+
+
+
+
+
+
+Which of the following correctly identifies the conditions of bicuspid valve and semilunar valves at 0.3 second?
+
+Bicuspid valve
+Semilunar valves
+
+A
+open
+open
+
+B
+open
+closed
+
+C
+closed
+open
+
+D
+closed
+closed
+
+
+C
+
+---------------------------------------------------
+
+[10288575]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in hydrostatic pressure as the blood flows through a capillary near some body cells. The pressure of the fluid surrounding the body cells is also shown.
+
+
+	Which of the following can be deduced from the graph?
+	(1)	Blood flows from X to Z in the capillary.
+	(2)	Tissue fluid is formed in region XY and reabsorbed in region YZ.
+(3)	There is no exchange of materials between the blood capillary and its nearby tissues at position Y.
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+A
+
+---------------------------------------------------
+
+Short question
+
+[10288582]
+// Reading comprehension // STSE connections // Applying concepts //
+*	Read the following article and answer the questions.
+	Deep vein thrombosis (DVT) is the formation of blood clots in veins that are deep inside the body. People who sit still during long-distance travel are prone to develop DVT in the legs. Common symptoms include swelling of the legs, redness of the skin, etc. To reduce the risk of DVT in the legs,people can wear compression stockings during long-distance travel.
+	In some DVT patients, the blood clots in the vein may break off into the bloodstream and then block the blood vessels of some other organs. For instance, a piece of the blood clot can block blood flow to the lungs, which may cause death eventually.
+
+
+a	Explain why blood clots may be formed in the veins of the legs when a person sits still for a long period of time.					(3 marks)
+b	By means of a flowchart, show the route by which a small piece of blood clot in the leg reaches one of the lungs in a DVT patient.Indicate the major blood vessels and heart chambers involved.					(2 marks)
+c	Other than wearing compression stockings,suggest another measure that people can take to prevent DVT during long-distance travel.	(1 mark)
+
+-- answer --
+a	Muscle contraction in the legs becomes less frequent when a person sits still.															1m
+	Therefore,the blood flow in the veins of the legs slows down and blood accumulates inside the veins,									1m
+	which may increase the risk of forming blood clots.					1m
+b	Vein in the leg →posterior vena cava → right atrium → right ventricle → pulmonary artery → lung										2m
+c	Move the legs frequently during long-distance travel.					1m
+	(or other reasonable answers)
+
+---------------------------------------------------
+
+Structured questions
+
+[10288585]
+// Cross-topic // High order thinking // Schematic diagram // Applying concepts //
+**	In human foetuses, gas exchange occurs in the placenta rather than in the lungs. The diagram below shows the structure of a foetal heart and its connection with the placenta. Deoxygenated blood flows from the left ventricle to the placenta through the umbilical arteries. Oxygenated blood flows from the placenta to the right atrium through the umbilical vein.
+
+
+
+The foetal heart has a hole in its septum that connects the right atrium and left atrium. Normally, the hole will be closed shortly after birth.
+a	Name valve P and blood vessel Q.							(2 marks)
+b	Compare the oxygen content of blood between the umbilical vein and umbilical artery.										(1 mark)
+c	The lungs are not functioning before birth. Explain how the hole in the septum of the foetal heart helps the blood bypass the lungs.		(2 marks)
+(Hint:The blood pressure in the right atrium of the foetal heart is higher than that in the left atrium.)
+d	In some people, the hole in the septum remains open after birth. Explain why these people may feel tired easily.						(4 marks)
+
+-- answer --
+a	P: tricuspid valve											1m
+	Q: pulmonary vein											1m
+
+
+b	The oxygen content of blood in umbilical vein is higher than that in umbilical artery.
+														1m
+c	The hole allows some of the oxygenated blood (from the placenta / umbilical vein) to flow from the right atrium into the left atrium directly.					1m
+	Theoxygenated blood can then be pumped by the left ventricle to different parts of the body, bypassing the lungs.									1m
+d	The hole in the septum allows the mixing of oxygenated blood in the left atrium with deoxygenated blood in the right atrium.						1m
+	This reduces the oxygen content of the blood pumped out of the left ventricle in each contraction.											1m
+	Oxygen supplied to the body cells is insufficient for respiration.			1m
+	Less energy is released from respiration to support body activities and thus the patients feel tired easily.										1m
+
+---------------------------------------------------
+
+
+
+Chapter 9		Nutrition and gas exchange in 					plants
+
+Multiple-choice questions
+
+[10288700]
+// Data handling // Experiment //Schematic diagram // Applying concepts //
+*	The diagram belowshows a set-up used by a student to study the effect of light intensity on gas exchange of a leaf.
+bench lamp
+freshly-picked leaf
+10 cm3hydrogencarbonate indicator
+bench lamp
+freshly-picked leaf
+10 cm3hydrogencarbonate indicator
+
+
+	The student placed the bench lamp at different distances from the boiling tube and recorded the time taken for the hydrogencarbonate indicator in the boiling tube to change from red to purple. The table below shows the results.
+Location
+Time taken for the hydrogencarbonate indicator 
+to change from red to purple (min)
+
+X
+47
+
+Y
+24
+
+Z
+35
+
+	Arrange X, Y and Z in descending order of the distances between the bench lamp and the boiling tube.
+A	X, Y, Z
+B	X, Z, Y
+C	Y, X, Z
+D	Z, X, Y
+B
+
+---------------------------------------------------
+
+
+[10288703]
+// Photomicrograph// Basic concepts //
+*	Photograph I shows the stem of a terrestrial plant. Photograph II shows the surface view of a leaf of another terrestrial plant.
+(×300)
+X
+Y
+I
+II
+(×0.5)
+(×300)
+X
+Y
+I
+II
+(×0.5)
+
+
+	Both structures X and Y are involved in gas exchange. Which of the followingstatements about structures X and Y is/are correct?
+(1)	Structure X can be found on stems only while structure Y can be found on leaves only.
+(2)	Gas exchange in woody plants mainly occurs through structure X while that in herbaceous plants mainly occurs through structure Y.
+(3)	The opening and closing of structure X cannot be controlled while those of structure Y can be controlled.
+	A	(1)only					B	(3) only
+	C	(1) and (2) only			D	(2) and (3) only
+B
+
+---------------------------------------------------
+
+[10288705]
+// Cross-topic // Basic concepts //
+*	Which of the following are the adaptive features of both air sacs in human lungs and spongy mesophyll in leavesof a terrestrial dicot for gas exchange?
+(1)	one-cell thick wall
+(2)	large surface area
+(3)	the presence of a water film
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C
+
+---------------------------------------------------
+
+Short question
+
+[10288707]
+// Graph interpretation // High order thinking // Applying concepts //
+**	The graph below shows the changes in net uptake of carbon dioxide of two leaves (X and Y) of a tree on a particular day. One of the leaves was taken from the exterior part of the canopy and the other was taken from the interior part.
+time of the day (hour)
+net uptake of carbon dioxide (arbitrary unit)
+0000
+0600
+1200
+1800
+2400
+0
+2
+4
+6
+–2
+leaf X
+leaf Y
+time of the day (hour)
+net uptake of carbon dioxide (arbitrary unit)
+0000
+0600
+1200
+1800
+2400
+0
+2
+4
+6
+–2
+leaf X
+leaf Y
+
+
+a	For leaf X, at what time(s) of the day is the compensation point reached?														(1 mark)
+b	Describe and explain the change in the net uptake of carbon dioxide of 
+leaf Y from 0600 to 1200 hour.							(3 marks)
+c	Which leaf, X or Y, is likely to be taken from the interior part of the 
+canopy? Explain your answer.							(3 marks)
+
+-- answer --
+a	0700 and 1845 hours											1m
+b	The net uptake of carbon dioxide increased from 0600 to 1200 hour.		1m
+	It is because the light intensity increased during this period. The photosynthetic rate of the leaf increased and the leaf took in more carbon dioxide		1m
+	while the rate of respiration of the leaf remained relatively constant.		1m
+c	Leaf Y													1m
+	because it has a lower compensation point than leaf X.				1m
+	Leaves in the interior part of the canopy are exposed to a lower intensity of light / often overshadowed by leaves in the exterior. With a lower compensation point, they can have a net gain in food production / positive growth even at low light intensity.													1m
+
+---------------------------------------------------
+
+Structured question
+
+[10288709]
+// Graph interpretation // High order thinking // Comparison // Applying concepts //
+**	Some scientists carried out an investigation to study the effect of magnesium deficiency on the growth of shoots and roots in a type of plant. A large number of the plants were grown from seeds into seedlings using complete nutrient solution under the same environmental conditions. The seedlings were then divided into two groups (X and Y). For the next 8 days, group X continued to receive complete nutrient solution while group Y received magnesium-deficient nutrient solution. The fresh mass of the shoots and roots of the plants were measured, and the average amount of chlorophyll in the leaves of the plants was determined. The graphs below show the results.
+day of investigation
+0
+2
+4
+6
+8
+fresh mass of shoot (mg)
+0
+10
+20
+30
+40
+50
+day of investigation
+0
+2
+4
+6
+8
+fresh mass of root (mg)
+0
+5
+10
+15
+20
+25
+day of investigation
+4
+5
+6
+7
+8
+amount of chlorophyll in leaves (µg)
+0
+5
+10
+15
+20
+25
+X
+Y
+X
+Y
+X
+Y
+day of investigation
+0
+2
+4
+6
+8
+fresh mass of shoot (mg)
+0
+10
+20
+30
+40
+50
+day of investigation
+0
+2
+4
+6
+8
+fresh mass of root (mg)
+0
+5
+10
+15
+20
+25
+day of investigation
+4
+5
+6
+7
+8
+amount of chlorophyll in leaves (µg)
+0
+5
+10
+15
+20
+25
+X
+Y
+X
+Y
+X
+Y
+
+
+
+
+a	Does magnesium deficiency have a greater effect on the fresh mass of shoot than root of the plants? Explain your answer with supporting evidence from the graphs.											(2 marks)
+b	Describe the changes in the fresh mass of the shoot of the plants in group X and those in group Y after day 4. How would you account for the difference between the two groups?									(5 marks)
+c	The scientists discovered that the effects of magnesium deficiency on the plants became observable only after day 5. Suggest a possible reason for this.													(1 mark)
+
+-- answer --
+a	Yes, magnesium deficiency has a greater effect on the fresh mass of shoot of the plants.													1m
+	On day 8, the fresh mass of shoot in group Y is 36% lower than that in group X, while the fresh mass of root in group Y is only 19% lower than that in group X.															1m
+b	The fresh mass of the shoot of the plants in group X increased steadily after day 4														1m
+	while the fresh mass of the shoot of the plants in group Y remained relatively constant / only increased a little.									1m
+	Since the plants in group Y had a smaller amount of chlorophyll in their leaves due to magnesium deficiency,										1m
+	the rate of photosynthesis of the plants in group Y was lower / less light was captured by the plants in group Y for photosynthesis.					1m
+	Therefore, less food was produced in the plants in group Y and less energy would be available for the growth of the shoots / leaves.					1m
+c	The plants may contain some stored minerals / magnesium.			1m
+
+--------------------------------------------------
+
+
+Chapter10		Transpiration, transport and 							support in plants
+
+Multiple-choice questions
+
+[10288810]
+// Experiment // Applying concepts //
+*	A group of scientists carried out an experiment to trace the movement of organic nutrients in a dicotyledonous plant. They supplied one of the leaves with radioactively-labelled carbon dioxide (14CO2) and kept the plant under sunlight. After 12 hours, the plant was exposed to a photographic film to identify radioactivity in different parts of the plant. The diagram below shows the set-up and result of the experiment.
+
+
+	Which of the following can be deduced from the result?
+(1)	Organic nutrients are transported both upwards and downwards in the stem.
+(2)	Organic nutrients are transported in phloem instead of xylem.
+	(3)	Translocation of carbohydrates is an active process.
+	A	(1) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+
+[10288827]
+// Scientific investigation // Data handling // Calculation // Applying concepts //
+*	An experiment was carried out to examine the distribution of stomata in the leaves of a land plant. The leaf was put under sunlight for 1 hour and the mass of the leaf was recorded in the beginning and at the end of the experiment. The experiment was repeated using another leaf of a similar size from the same plant but the upper surface of the leaf was smeared with vaseline. The table below shows the results.
+
+Mass of the leaf (g)
+
+
+Initial value
+Final value
+
+Leaf without vaseline
+10.0
+8.5
+
+Upper surface of leaf smeared with vaseline
+9.5
+8.2
+
+	With reference to the aim of the experiment, which of the following can be concluded from the experimental results?
+(1)	More water was lost from the leaf without vaseline than the leaf smeared with vaseline.
+	(2)	No stomata are present on the upper surface of the leaf.
+	(3)	There are more stomata on the lower surface of the leaf.
+	A	(1) only					B	(3) only
+	C	(1) and (3) only			D	(2) and (3) only
+B
+
+---------------------------------------------------
+
+[10288850]
+// High order thinking // Applying concepts //
+*	Girdling is an agricultural practice which involves the removal of the bark from a woody plant in a ring around the stem or a branch. A farmer had performed girdling on a branch of a fruit tree, as shown in the diagram below.
+
+
+
+Which of the following is the possible reason for performing girdling on the tree branch?
+A	To produce a larger fruit by reducing water loss from the leaves on the branch.
+B	To produce a larger fruit by slowing down the growth of the leaves on the branch.
+C	To produce a larger fruit by accumulating the nutrients in the branch.
+D	To produce a larger fruit by promoting the absorption of minerals from the soil.
+C
+
+---------------------------------------------------
+
+Short question
+
+[10288863]
+// Overseas exam question // Calculation // Applying concepts //
+**	Sieve plates are modified cell walls containing pores and are an important feature of phloem tissue. They affect the flow of organic solutes within the phloem.
+	If the phloem wall is damaged, the plant responds by blocking the sieve plates around the site.
+	a	Suggest one advantage and one disadvantage to the plant of this response.															(2 marks)
+b	The scanning electron micrographs below show sieve plates from two different plant (bean) species. As shown, the images do not have the same magnification.
+	The number and size of sieve plate pores affect the rate of translocation within phloem tissue.
+
+
+	The table below provides additional information on structure and function of phloem tissue in the two species.
+
+Species
+Average pore radius (μm)
+Average number of pores per sieve plate
+Average length of one sieve tube element (μm)
+Time taken for contents to flow through sieve tube element (s)
+
+P. vulgaris
+0.7
+95
+200
+
+
+R. communis
+0.5
+372
+302
+1.01
+
+
+
+i	The contents of the sieve tube elements travel at an average rate of 
+300μms–1. Using the information provided in the table, calculate the time taken for the contents to flow through a sieve tube element of 
+P. vulgaris. (Show your working.)						(2 marks)
+ii	P. vulgaris and R. communis are similar-sized plants and, despite the difference in their phloem tissue, they maintain similar rates of translocation around the plant. Using the information from the table, suggest how the features of their phloem tissue result in similar rates of translocation.										(2 marks)
+CCEA GCE (AS) Biology Unit 2 Organic and Biodiversity
+May 2019 Q5b-c
+
+-- answer --
+a	Advantage: Prevents the loss of organic nutrients from the damaged phloem tissues. / Prevents the movement of harmful substances within the phloem.	1m
+	Disadvantage: Organic nutrients cannot flow from the damaged site to other parts of the plant.												1m
+b	i	200÷300											1m
+		= 0.67s												1m
+	ii	Thesieve tube elements of R. communis are longer than P. vulgaris,	1m
+		but R. communis has more pores per sieve plate than P. vulgaris.	1m
+		(or other correct answers)
+
+---------------------------------------------------
+Structured question
+
+[10288868]
+// Graph interpretation // High order thinking // Applying concepts //
+**	A group of scientists carried out an experiment to measure changes in the pressure inside xylem vessels of the stem and the rate of transpiration of a tree on a hot summer day. The graph below shows the results.
+
+
+
+a	Brieflyexplain why the pressure inside xylem vessels of the stem hasnegative values.										(1 mark)
+b	Describe and explain the change in the pressure inside xylem vessels of the stem from 0600 to 1200 hour.								(4 marks)
+c	How would the curve of pressure inside xylem vessels of the stem be different if the experiment was repeated on a cold winter day? Explain your answer.												(3 marks)
+
+-- answer --
+a	Water is transported up the stem by transpiration pull, resulting in suction force in the xylem vessels.											1m
+
+
+
+
+b	From 0600 to 1200 hour, the pressure inside xylem vessels decreases. 	1m
+	It is because light intensity increases during this period, causing the stomata to open wider / temperature increases during this period. This increases the rate of evaporation of water and thus the concentration gradient of water vapour between the air space in the leaves and the surrounding air.					1m
+	Water vapourdiffuses out of the leaves more rapidly through the stomata, resulting in a higher transpiration rate.									1m
+	As the transpiration pull becomes stronger due to the higher transpiration rate, the pressure inside xylem vessels becomes more negative.				1m
+c	Thewhole curve would shift upwards								1m
+	because the temperature is lower than that in summer.				1m
+	Therefore, the rate of transpiration would be lower, resulting in a weaker transpiration pull.											1m
+	or
+	The trough of the curve would become narrower						1m
+	because the length of daylight in winter is shorter.					1m
+	Therefore, the duration in which the transpiration rate and transpiration pull remain at high levels would be shorter.									1m
+	(or other reasonable answers)
+
+---------------------------------------------------
+

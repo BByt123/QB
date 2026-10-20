@@ -1,0 +1,2295 @@
+Chapter 8		Transport in humans
+
+Multiple-choice questions
+
+[10237657]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a capillary and the surrounding cells in the leg of a person. P, Q and R refer to the paths by which substances move.
+	
+	Which of the following combinations correctly matches the substances and the paths by which they move?
+	P	Q	R	
+A	glucose	white blood cells	oxygen	
+B	carbon dioxide	oxygen	carbon dioxide	
+C	carbon dioxide	white blood cells	oxygen	
+D	glucose	oxygen	carbon dioxide	
+
+C	
+---------------------------------------------------
+
+
+[10237659]
+// Schematic diagram // Applying concepts //
+*	Which of the following combinations correctly identifies the major causes of fluid flow between the capillary and the tissue fluid at positions X and Y?
+	X	Y	
+A	hydrostatic pressure	diffusion	
+B	hydrostatic pressure	osmosis	
+C	osmosis	hydrostatic pressure	
+D	osmosis	diffusion	
+
+B	
+---------------------------------------------------
+[10237665]
+// Comparison // Schematic diagram // Applying concepts //
+*	The diagram below shows the human lymphatic system. X and Y are two types of vessels.
+	
+	Which of the following statements about vessels X and Y are correct?
+	(1)	Both X and Y are located deep inside the body.
+	(2)	The fluids in both X and Y are the same in composition.
+(3)	The fluids in both X and Y are kept flowing by the contraction of skeletal muscles.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+B	
+---------------------------------------------------
+[10237675]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the longitudinal section of the heart. 
+	
+
+	Which of the following is a vein that carries oxygenated blood?
+A	Blood vessel W
+B	Blood vessel X
+C	Blood vessel Y
+D	Blood vessel Z
+D	
+---------------------------------------------------
+
+[10237678]
+// Schematic diagram // Applying concepts //
+*	Which of the following combinations correctly shows the conditions of the valves P and Q when the ventricles contract?
+	P	Q	
+A	closed	closed	
+B	closed	open	
+C	open	closed	
+D	open	open	
+
+C	
+---------------------------------------------------
+
+
+[10237687]
+// Graph interpretation // Applying concepts //
+*	The diagram below shows the change in blood pressure along different blood vessels.
+	
+	Which of the following statements about the change in blood pressure is/are incorrect?
+(1)	The periodical changes in the blood pressure of the arteries are due to the distention and recoil of the arteries.
+(2)	The decrease in blood pressure in the capillaries is due to the increased total cross-sectional area in the capillaries when compared to the arterioles.
+(3)	The low blood pressure in the veins and vena cava is caused by the small contraction force of the skeletal muscles lying next to them.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10237697]
+// Graph interpretation // Schematic diagram //
+**	Figure I shows the change in blood pressure in the aorta and figure II shows a cross section of the human heart.
+	
+What are the conditions of valves X and Y at time P?
+		X			Y
+A	open			open
+B	open			closed
+C	closed		open
+D	closed		closed
+C	
+---------------------------------------------------
+
+[10237709]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the human circulatory system.
+	
+Which of the following statements are correct?
+(1)	P carries blood with the highest oxygen content.
+(2)	Q carries blood with the highest urea content.
+(3)	R carries blood with the highest glucose concentration after a meal.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10237711]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a tube of centrifuged blood.
+ 	
+Which of the following can be found in the top layer labelled X?
+	(1)	fibrinogen
+	(2)	white blood cells
+	(3)	water	
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10237720]
+// Comparison // Basic concepts //
+	Which of the following comparisons between red blood cells and blood platelets in the blood is incorrect?
+		Red blood cells			Blood platelets
+	A	larger in number 			smaller in number
+	B	larger in size 				smaller in size
+	C	longer life span 			shorter life span 
+	D	without nucleus 			with nucleus
+D	
+---------------------------------------------------
+
+
+[10237722]
+// Photomicrograph // Applying concepts //
+*	Directions: The following two questions refer to the photomicrograph below, which shows the cross section of an arteriole in the kidney.  
+ 	
+	Which of the following statements about this arteriole is/are correct?
+	(1)	It carries oxygenated blood.
+	(2)	It is connected to capillaries at both ends.
+	(3)	There are valves in it to prevent the backflow of blood.
+A	(1) only						B	(1) and (2) only
+	C	(1) and (3) only				D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10237727]
+// Photomicrograph // Applying concepts //
+*	Which of the following are the functions of tissue X?
+	(1)	It helps regulate the size of the lumen.
+	(2)	It helps pump blood forwards.
+	(3)	It helps withstand high blood pressure.
+A	(1) and (2) only				B	(1) and (3) only
+	C	(2) and (3) only				D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10237731]
+// Data handling // Applying concepts //
+*	The table below shows the average thickness of the walls of the four chambers in the human heart.
+Chamber	Average thickness (mm)	
+W	19	
+X	5	
+Y	2	
+Z	3	
+Which of the following shows the correct direction of blood flow?
+A	Y ( X ( Z ( W			B	Y ( Z ( W ( X
+	C	Z ( X ( W ( Y			D	Z ( Y ( X ( W
+A	
+---------------------------------------------------
+
+[10237739]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a simplified diagram of double circulation. The arrows indicate the direction of blood flow.
+	
+	Which two blood vessels carry blood at the highest pressure?
+	A	(1) and (2)					B	(1) and (4)
+	C	(2) and (4)					D	(3) and (4)
+B	
+---------------------------------------------------
+
+[10237756]
+// Schematic diagram // Basic concepts //
+*	Which two blood vessels carry deoxygenated blood?
+	A	(1) and (2)					
+B	(1) and (4)
+	C	(2) and (3)					
+D	(2) and (4)
+A	
+---------------------------------------------------
+
+[10237758]
+// Comparison // Schematic diagram // Applying concepts //
+*	The diagram below shows three blood vessels, X, Y and Z, connected to the human liver. 
+ 	
+Which of the following comparisons between the three blood vessels is/are correct?
+(1)	The lumen of Y is smaller than that of Z.
+(2)	The blood pressure in Z is the highest.
+(3)	After fasting for 12 hours, the blood in X contains the highest concentration of glucose.
+A	(1) only
+B	(2) only
+	C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10237761]
+// STSE connections // Applying concepts //
+*	Protein-deficient diets lead to a low concentration of plasma proteins in the 
+blood. This may result in swollen ankles and feet because
+A	no tissue fluid is formed.
+B	no plasma proteins are forced out of the capillaries.
+C	the water potential of the blood at the venule end of the capillaries is higher than that of tissue fluid.
+D	the water potential of the blood at the venule end of the capillaries is lower than that of tissue fluid.
+D	
+---------------------------------------------------
+
+[10237766]
+// Basic concepts //
+*	Which of the following statements about lymph nodes is correct?
+A	Lymph nodes are located along veins.
+B	Lymph is filtered in lymph nodes before it enters the lymph vessels.
+C	There are white blood cells in lymph nodes.
+D	Lymph nodes are present in the neck only.
+C	
+---------------------------------------------------
+
+[10237794]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the blood pressure in two blood vessels, X and Y, connected to the legs. 
+	
+
+
+	Which of the following cause(s) the fluctuation of blood pressure in X?
+	(1)	pumping action of the heart
+	(2)	contraction of the muscle in the wall of X
+	(3)	closing of semilunar valves at the base of the aorta
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10237797]
+// Graph interpretation // Applying concepts //
+*	Which of the following are the features that help the flow of blood in Y?
+	(1)	presence of valves
+	(2)	presence of muscle in its wall
+	(3)	presence of elastic tissue in its wall
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10237815]
+// Data handling // Applying concepts //
+*	The table below shows the numbers of different types of blood cells in the blood of a normal person and in Sally's blood. 
+Type of blood cell	Number of cells in blood (per mm3)	
+	Normal person	Sally	
+Red blood cells 	5 400 000	3 600 000	
+White blood cells	7000	6500	
+Blood platelets	250 000	260 000	
+
+	Sally is likely to have 
+	A	leukaemia.
+	B	anaemia.
+	C	bacterial infections.
+	D	difficulty in blood clotting.
+B	
+---------------------------------------------------
+
+[10237822]
+// Schematic diagram // Applying concepts //
+*	In the 18th century, scientist William Harvey performed an experiment to study the flow of blood in veins. The upper arm of a person was tied with a bandage. A vein on the lower arm was pressed at position X with one finger, and the vein was stroked from X to Y with another finger. The portion of vein between X and Y disappeared (diagram I). The finger at position Y was then released. The portion of vein remained unseen (diagram II). 
+		
+Which of the following is an explanation for the disappearance of the portion of vein in diagram II?
+A	A valve present in the vein under the bandage prevented the backflow of blood.
+	B	A valve present at position X of the vein prevented the backflow of blood.
+	C	A valve present at position Y of the vein prevented the backflow of blood.
+	D	Valves present at positions X and Y of the vein prevented the backflow of 
+blood.
+C	
+---------------------------------------------------
+
+
+[10237827]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows part of the human circulatory system.
+	
+In which blood vessel does the blood show the greatest fluctuation in glucose level?
+	A	W				B	X
+	C	Y				D	Z
+B	
+---------------------------------------------------
+
+[10237837]
+// Schematic diagram // Basic concepts //
+The diagram below shows the blood flow in humans. The arrows represent blood vessels connecting different parts of the body.
+	
+	Which of the blood vessels has the highest blood pressure?
+	A	W				B	X
+	C	Y				D	Z
+A	
+---------------------------------------------------
+
+
+[10237851]
+// Schematic diagram // Basic concepts //
+The diagram below represents the four chambers of a human heart and the blood vessels connecting them. 
+	
+	Which of the following correctly identifies blood vessels X and Y? 
+		X				Y	
+	A	aorta				vena cava	
+	B	pulmonary vein	aorta
+	C	vena cava			aorta
+	D	vena cava			pulmonary artery
+C	
+---------------------------------------------------
+
+[10237853]
+// Applying concepts //
+*	If glucose solution is injected intravenously into the arm, glucose molecules may be transported to the liver where they are converted into glycogen for storage. Which of the following correctly shows a possible route of the glucose molecules to the liver?
+	A	arm → small intestine → heart → lungs → heart → liver
+	B	arm → lungs → heart → small intestine → heart → liver
+	C	arm → heart → lungs → small intestine → heart → liver 
+	D	arm → heart → lungs → heart → small intestine → liver
+D	
+---------------------------------------------------
+
+
+[10237864]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in water potential of the blood along a capillary.
+	
+
+Which of the following account(s) for the increase in water potential of the blood?
+	(1)	More glucose is entering the capillary than leaving it. 
+	(2)	More plasma proteins are leaving the capillary than entering it.
+	(3)	More water is entering the capillary than leaving it.
+	A	(1) only
+	B	(3) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+B	
+---------------------------------------------------
+[10237867]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a vessel in the human body and some cells surrounding it. X is a fluid found inside the vessel.
+	
+	Which of the following about the composition of X is correct?
+	Red blood 
+cells	White blood cells	Blood platelets	Plasma proteins	
+A	present	present	present	present	
+B	present	absent	absent	present	
+C	absent	present	absent	absent	
+D	absent	absent	absent	absent	
+
+C	
+-------------------------------------------------
+
+[10237872]
+// Cross-topic // Applying concepts //
+*	Which of the following food substances are likely to be present at a higher concentration in lymph than in blood?
+	(1)	vitamin A
+	(2)	lipids
+	(3)	amino acids
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10237887]
+// Basic concepts //
+*	Which of the following combinations correctly shows the substance and its direction of net movement in a capillary bed?
+		Substance 		Direction of net movement
+	A	glucose 			from red blood cells into body cells
+	B	carbon dioxide		from plasma into body cells
+	C	oxygen			from red blood cells into body cells
+	D	urea				from plasma into body cells
+C	
+---------------------------------------------------
+
+
+[10237894]
+// Photomicrograph // Applying concepts //
+*	The electron micrograph below shows the transverse section of a type of vessel in the body.
+	
+	Which type of vessel is it?
+	A	capillary
+	B	artery
+	C	vein
+	D	lymph vessel
+A	
+---------------------------------------------------
+
+[10237907]
+// Basic concepts //
+	Which of the following substances can pass through the wall of a capillary?
+	(1)	plasma proteins
+	(2)	hormones
+	(3)	minerals
+	A	(1) only
+	B	(3) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+D	
+---------------------------------------------------
+
+
+[10237913]
+// Comparison // Schematic diagram // Basic concepts //
+	The diagrams below show two types of blood cells, X and Y. 
+	
+	Which of the following comparisons between X and Y is correct?
+		X								Y
+	A	does not contain haemoglobin		contains haemoglobin
+	B	red in colour						white in colour
+	C	longer life span					shorter life span
+	D	produced in liver					produced in bone marrow
+C	
+---------------------------------------------------
+
+[10237914]
+// Photomicrograph // Applying concepts //
+	The photomicrograph below shows some blood cells.
+	
+	Which of the following may lead to a dramatic decrease in the number of blood cell X in the blood?
+	A	iron deficiency
+	B	anaemia
+	C	inflammation
+	D	suffocation
+A	
+---------------------------------------------------
+
+
+[10237923]
+// Basic concepts //
+	Blood pressure in arteries changes periodically because
+	A	the artery wall is thick.
+	B	the blood has to overcome great friction of the artery wall.
+	C	the heart contracts and relaxes alternately.
+	D	the arteries are highly branched.
+C	
+---------------------------------------------------
+
+[10237929]
+// Basic concepts //
+	The lymph eventually returns to
+	A	the bloodstream near the heart.
+	B	the lymph nodes.
+	C	tissue fluid bathing the body cells.
+	D	lacteals in the small intestine.
+A	
+---------------------------------------------------
+
+[10237932]
+// Schematic diagram // Basic concepts //
+	The diagrams below show the transverse sections of three types of blood vessels, 
+X, Y and Z.
+	
+
+
+	Which of the following correctly describes their features?
+	White blood cells can 
+pass through the wall	Highest blood pressure	Least resistance to blood flow	
+A	X	Y	Z	
+B	Y	X	Z	
+C	Z	Y	X	
+D	Z	X	Y	
+
+D	
+---------------------------------------------------
+
+[10237935]
+// Schematic diagram // Applying concepts //
+*	A blockage occurs in the coronary artery. This can be treated by attaching a section of a healthy blood vessel to bypass the blockage.
+	
+
+	The two blood vessels which should be joined by the new blood vessel are
+	A	W and X.
+	B	W and Z.
+	C	X and Z.
+	D	Y and Z.
+B	
+---------------------------------------------------
+
+
+[10237950]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a cross section of an artery.
+	
+What are the functions of the tissues in X?
+(1)	They allow the artery to withstand high blood pressure.
+(2)	They contract to squeeze blood forwards.
+(3)	They help maintain a continuous blood flow. 
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3) 
+B	
+---------------------------------------------------
+
+[10237955]
+// Comparison // Applying concepts //
+*	Which of the following comparisons between systemic circulation and pulmonary circulation in humans is incorrect?
+	Systemic circulation	Pulmonary circulation	
+A	involves all parts of the body except the lungs	involves the lungs and the heart only	
+B	the blood is oxygenated when leaving the heart	the blood is deoxygenated when leaving the heart	
+C	the blood is deoxygenated when returning to the heart	the blood is oxygenated when returning to the heart	
+D	involves the diffusion of gases only	involves the diffusion of nutrients, metabolic waste and gases	
+
+D	
+---------------------------------------------------
+[10237962]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in blood pressure in the pulmonary artery. 
+	
+
+Which of the following correctly shows the conditions of the tricuspid valve and the semilunar valve on the base of pulmonary artery at time X?
+	Tricuspid valve		Semilunar valve on the base of 
+						pulmonary artery
+A	opens				opens 
+B	opens				closed
+C	closed 				opens
+D	closed 				closed 
+C	
+---------------------------------------------------
+
+[10237966]
+// Comparison // Basic concepts //
+*	Which of the following are the differences between veins and lymph vessels in humans?
+(1)	Red blood cells, blood platelets and plasma proteins can be found in veins but not in lymph vessels.
+(2)	Blood in veins returns to the heart directly while lymph in lymph vessels mixes with blood before returning to the heart.
+(3)	Veins are open-ended while lymph vessels are blind-ended.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+[10237968]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in volume of the right ventricle in a period of time.
+	
+
+Which of the following correctly shows the conditions of the tricuspid valve and the semilunar valve on the base of pulmonary artery at time X?
+	Tricuspid valve		Semilunar valve on the base of 
+						pulmonary artery
+A	opens				opens 
+B	opens				closed
+C	closed 				opens
+D	closed 				closed 
+C	
+---------------------------------------------------
+
+[10237979]
+// Photomicrograph // Applying concepts //
+*	Directions: The following two questions refer to the electron micrograph below, which shows the cross section of a blood vessel. 
+
+	
+Which of the following correctly shows the type of this blood vessel and the feature that enables you to identify it?
+	Type		Feature
+A	vein			lumen slightly larger than the diameter of a red blood cell
+B	vein 		differentially permeable wall
+C	capillary		lumen slightly larger than the diameter of a red blood cell
+D	capillary		differentially permeable wall
+C	
+---------------------------------------------------
+
+[10237981]
+// Photomicrograph // Applying concepts //
+*	Which of the following statements about this type of blood vessel is incorrect?
+A	The blood inside flows slowly. 
+B	It can control the amount of blood that flows to different parts of the body.
+C	It allows the exchange of materials between the body cells and the blood.
+D	It has the largest ratio of lumen diameter to wall thickness among all types of blood vessels in the human body. 
+B	
+---------------------------------------------------
+
+[10237987]
+// High order thinking // Schematic diagram //
+**	The diagram below shows the human circulatory system. 
+
+	
+
+
+Which of the following correctly compares the glucose concentration in the blood at X, Y and Z when a person is starving?
+A	X > Y > Z
+B	Y > X > Z
+C	Y > Z > X
+D	Z > X > Y
+B	
+---------------------------------------------------
+
+[10237991]
+// Basic concepts //
+*	Which of the following correctly shows a possible route of blood flowing from the lungs to the liver?
+A	pulmonary veins → right atrium → right ventricle → aorta → hepatic portal vein
+B	pulmonary veins → left atrium → left ventricle → aorta → hepatic vein
+C	pulmonary veins → left atrium → left ventricle → aorta → hepatic artery 
+D	pulmonary veins → right atrium → right ventricle → aorta → hepatic artery
+C	
+---------------------------------------------------
+
+[10238012]
+// Applying concepts //
+*	A red blood cell is carried by the plasma from the anterior vena cava to the posterior vena cava. Which of the following blood vessels must the red blood cell pass through?
+A	renal artery
+B	hepatic vein
+C	hepatic portal vein  
+D	pulmonary vein
+D	
+---------------------------------------------------
+
+
+[10238042]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a capillary in an organ. The net diffusion of substances into and out of the capillary is also shown.
+
+	
+
+In which organ is this capillary located?
+A	heart						B	lungs
+C	liver						D	small intestine
+B	
+---------------------------------------------------
+[10238053]
+// Comparison // Basic concepts //
+	Which of the following comparisons between red blood cells and white blood cells is correct?
+		Red blood cell			White blood cell
+A	small nucleus				large nucleus	
+B	biconcave disc shape		irregular shape
+C	produced in bone marrow	produced in lymph nodes
+D	carries oxygen 			carries carbon dioxide
+B	
+---------------------------------------------------
+
+[10238059]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the cross sections of two blood vessels, P and Q, connected to the lungs.
+
+	
+Which of the following statements about P and Q are correct?
+(1)	P carries blood away from the lungs.
+(2)	Q carries oxygenated blood.
+(3)	P and Q are connected by capillaries.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10238069]
+// Basic concepts //
+	Which of the following statements about the blood circulation in humans are correct?
+(1)	It consists of the systemic circulation and the pulmonary circulation.
+(2)	Blood passes through the heart twice when it flows throughout the body in one complete loop.
+(3)	The blood becomes oxygenated after passing through the lungs in the pulmonary circulation.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10238073]
+// High order thinking // Schematic diagram //
+**	Directions: The following two questions refer to the diagram below, which shows a cross section of the human heart. 
+	
+
+
+Which of the following valves are in contact with the oxygenated blood?
+A	P and R				B	P and S
+C	Q and R				D	Q and S
+C	
+---------------------------------------------------
+
+[10238082]
+// High order thinking // Schematic diagram //
+**	The valves that close when ventricles contract are
+A	P and Q.				B	P and R.
+C	Q and S.				D	R and S.
+D	
+---------------------------------------------------
+
+[10238092]
+// Basic concepts //
+	Which of the following statements about the coronary artery is incorrect?
+A	It carries deoxygenated blood to the atria.
+B	It receives blood from aorta.
+C	It lies on the surface of the heart.
+D	Its supplies oxygen and nutrients to the heart.
+A	
+---------------------------------------------------
+
+[10238109]
+// Graph interpretation // Basic concepts //
+*	The diagram below shows the change in blood pressure in a blood vessel.
+
+	
+
+The periodic change of the blood pressure in this blood vessel is due to 
+A	the pumping action of the heart.
+B	the presence of valves in the blood vessel.
+C	the contraction of muscular wall of the blood vessel.
+D	the great resistance of the blood vessel.
+A	
+---------------------------------------------------
+[10238140]
+// Data handling // Applying concepts //
+*	The table below shows the blood pressure at the arteriole end of the capillary beds in the lungs and in the legs.
+
+	Lungs	Legs	
+Blood pressure (arbitrary unit)	5	30	
+
+The blood pressure in the lungs is lower than that in the legs because
+A	the right atrium pumps more powerfully than the left atrium.
+B	the left atrium pumps more powerfully than the right atrium.
+C	the right ventricle pumps more powerfully than the left ventricle.
+D	the left ventricle pumps more powerfully than the right ventricle.
+D	
+---------------------------------------------------
+
+[10238143]
+// Applying concepts //
+*	Which of the following is/are not found in the lymph?
+A	glucose
+B	lipids
+C	plasma proteins
+D	white blood cells
+C	
+---------------------------------------------------
+
+
+[10238165]
+// Graph interpretation // Applying concepts //
+*	The bar chart below shows the oxygen content of four blood samples, W, X, Y and Z, which are taken from different blood vessels in the human circulatory system. 
+	
+Which blood sample is most likely to be taken from the pulmonary vein?
+A	W				B	X
+C	Y				D	Z
+C	
+---------------------------------------------------
+
+[10238168]
+// Schematic diagram // Basic concepts //
+	Directions: The following three questions refer to the diagram below, which shows a human blood smear under a light microscope.
+	
+Which of the following correctly identifies R?
+A	red blood cell		B	white blood cell
+C	plasma			D	blood platelet
+B	
+---------------------------------------------------
+[10238170]
+// Schematic diagram // Basic concepts //
+	Which of the following combinations correctly shows the functions of P and S?
+	P	S	
+A	carries oxygen to various organs from the lungs	carries carbon dioxide from various organs to the lungs	
+B	carries oxygen to various organs from the lungs	produces antibodies to kill germs	
+C	engulfs germs	carries carbon dioxide from various organs to the lungs	
+D	carries carbon dioxide from various organs to the lungs	carries oxygen to various organs from the lungs	
+
+A	
+---------------------------------------------------
+[10238180]
+// Schematic diagram // Basic concepts //
+	Which of the following statements about Q is correct?
+A	The life span of Q is the longest among the blood cells.
+B	The nucleus of Q is irregular in shape.
+C	Q is the smallest blood cell.
+D	The number of Q is the largest in blood.
+C	
+---------------------------------------------------
+
+[10238194]
+// Cross-topic // Applying concepts //
+*	After having a meal, the hepatic portal vein 
+A	passes blood rich in glucose from the small intestine to the heart.
+B	passes blood rich in lipids from the small intestine to the liver.
+C	passes blood rich in amino acids from the small intestine to the liver.
+D	passes blood rich in urea from the small intestine to the kidney.
+C	
+---------------------------------------------------
+
+
+[10238197]
+// Basic concepts //
+	Transport systems are needed in large organisms but not in small ones because
+A	the surface area for diffusion in large organisms is too large.
+B	the distance for which substances in large organisms must travel is too long for diffusion alone to be effective.
+C	oxygen must be transported to cells in large organisms.
+D	blood must be transported to cells in large organisms.
+B	
+---------------------------------------------------
+
+[10238209]
+// Basic concepts //
+	Blood consists mostly of
+A	white blood cells.
+B	red blood cells.
+C	blood platelets.
+D	water.
+D	
+---------------------------------------------------
+
+[10238211]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the longitudinal section of a human heart.
+
+	
+Which of the following blood vessels carry blood with the highest oxygen content?
+A	P and Q only
+B	P and R only 
+C	Q and S only 
+D	R and S only
+D	
+---------------------------------------------------
+
+[10238223]
+// Schematic diagram // Applying concepts //
+*	Which of the following blood vessels carry blood with the highest glucose content?
+A	P
+B	Q
+C	R
+D	S
+B	
+---------------------------------------------------
+
+[10238232]
+// Basic concepts //
+	Blood without blood cells is known as
+A	plasma.			B	water.
+C	serum.			D	lymph.
+A	
+---------------------------------------------------
+
+[10238242]
+// Basic concepts //
+	Which of the following help(s) reduce the entry of germs into the body?
+A	hormones
+B	haemoglobin
+C	red blood cells
+D	white blood cells
+D	
+---------------------------------------------------
+
+[10238247]
+// Comparison // Basic concepts //
+*	Which of the following comparisons between different blood cells is incorrect?
+	Red blood cell	White blood cell		Blood platelet	
+A	protects our body against diseases	carries oxygen		for blood clotting	
+B	biconcave disc shape	irregular shape		irregular shape		
+C	no nucleus when mature	with nucleus	no nucleus	
+D	red in colour	colourless	colourless	
+
+A	
+---------------------------------------------------
+
+[10238255]
+// Basic concepts //
+	Which of the following is a function of the valves in the human heart?
+A	to increase the blood pressure
+B	to decrease the blood pressure
+C	to slow down the flow of blood
+D	to prevent the backflow of blood
+D	
+---------------------------------------------------
+
+[10238258]
+// Basic concepts //
+	White blood cells
+(1)	engulf germs.
+(2)	produce antibodies against germs.
+(3)	are white in colour.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10238278]
+// Basic concepts //
+	Blood leaves the heart via
+A	capillaries.
+B	veins.
+C	arteries.
+D	lymph vessels.
+C	
+---------------------------------------------------
+
+[10238279]
+// Comparison // Basic concepts //
+*	Which of the following comparisons between the three types of blood vessels is incorrect?
+	Artery	Vein		Capillary	
+A	carries blood away from the heart	carries blood towards the heart	connects arteriole and venule	
+B	thickest wall		thinner wall	thinnest wall	
+C	no valves except the pulmonary artery and aorta	with valves	no valves	
+D	fast blood flow	slow blood flow	very fast blood flow	
+
+D	
+---------------------------------------------------
+
+[10238291]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a tube of centrifuged human blood.
+	
+
+What are X and Y?
+	X	Y	
+A	water 	blood cells	
+B	water and white blood cells 	red blood cells and blood platelets	
+C	plasma	blood cells	
+D	plasma and white blood cells	red blood cells and blood platelets	
+
+C	
+---------------------------------------------------
+
+[10238297]
+// Basic concepts //
+*	Which side of the heart contains deoxygenated blood?
+A	the left side
+B	the right side
+C	the upper side
+D	the lower side
+B	
+---------------------------------------------------
+
+[10238317]
+// Basic concepts //
+	The valves in veins
+A	prevent the backflow of blood in the veins.
+B	prevent the backflow of blood into the heart.
+C	push blood forwards.
+D	allow blood to flow faster.
+A	
+---------------------------------------------------
+[10238318]
+// Basic concepts //
+*	Which of the following routes of blood flow in the human body is correct? 
+A	left ventricle → all parts of the body except lungs → right atrium
+B	left ventricle → lungs → left atrium
+C	right atrium → all parts of the body except lungs → left ventricle
+D	right atrium → lungs → right ventricle 
+A	
+---------------------------------------------------
+
+[10238322]
+// Basic concepts //
+	The exchange of materials between blood and body cells takes place when the blood flows through
+A	lymph vessels.			B	arteries.
+C	veins.				D	capillaries.
+D	
+---------------------------------------------------
+
+[10238332]
+// Basic concepts //
+	Lymph is the returning
+A	plasma in the blood vessel.
+B	plasma in the lymph vessel.
+C	tissue fluid in the blood vessel.
+D	tissue fluid in the lymph vessel.
+D	
+---------------------------------------------------
+
+[10238361]
+// Comparison // Basic concepts //
+	Which of the following comparisons of the human red blood cells and white blood cells is correct?
+		Red blood cells	White blood cells	
+A	Shape	irregular shape	biconcave disc shape	
+B	Quantity	larger	smaller	
+C	Nucleus	present	absent	
+D	Function	protect our body against diseases	carry oxygen	
+
+B	
+---------------------------------------------------
+
+
+[10238375]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a human heart.
+
+	
+
+Which of the following blood vessels may lead to coronary heart disease if it is hardened and narrowed? 
+A	W
+B	X
+C	Y
+D	Z
+D	
+---------------------------------------------------
+
+[10238388]
+// Cross-topic // High order thinking //
+**	Which of the following correctly shows the reaction and its site of occurrence?
+		Reaction									Site of occurrence
+A	haemoglobin + oxygen → oxyhaemoglobin		heart
+B	haemoglobin + oxygen → oxyhaemoglobin		brain
+C	oxyhaemoglobin → haemoglobin + oxygen		lungs
+D	oxyhaemoglobin → haemoglobin + oxygen		heart
+D	
+---------------------------------------------------
+
+[10238393]
+// Basic concepts //
+*	Which of the following blood vessels have semilunar valves?
+A	aorta and coronary artery
+B	aorta and pulmonary artery
+C	pulmonary artery and pulmonary vein
+D	pulmonary vein and coronary artery
+B	
+---------------------------------------------------
+
+[10238401]
+// Basic concepts //
+*	Which of the following statements about the capillaries are correct?
+(1)	Nutrients and oxygen can diffuse through their walls.
+(2)	The blood carried by them is at the lowest pressure.
+(3)	Their walls are only one-cell thick.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10238409]
+// Comparison // Basic concepts //
+*	Which of the following correctly states and explains the difference in the thickness of the walls of the left and right ventricles of human hearts? 
+	Wall of left ventricle compared with right ventricle	Reason for the difference	
+A	thinner	right ventricle pumps blood to the lungs only	
+B	thinner	left ventricle pumps blood to the lungs only	
+C	thicker	right ventricle pumps blood to all parts of the body except the lungs	
+D	thicker	left ventricle pumps blood to all parts of the body except the lungs	
+
+D	
+---------------------------------------------------
+[10238422]
+// Basic concepts //
+	Which of the following is the function of lymph vessels in our body?
+A	They carry blood.
+B	They return tissue fluid to the blood circulation.
+C	They produce antibodies.
+D	They help in blood clotting.
+B	
+---------------------------------------------------
+
+[10238451]
+// Basic concepts //
+	Blood is made up of
+A	red blood cells, white blood cells, blood platelets, plasma and bone marrow.
+B	red blood cells, white blood cells, blood platelets and plasma only.
+C	red blood cells, white blood cells and blood platelets only.
+D	red blood cells and white blood cells only.
+B	
+---------------------------------------------------
+
+[10238463]
+// Comparison // Schematic diagram //
+*	The diagram below shows the cross sections of two blood vessels connecting the kidneys. Which of the following comparisons of these two blood vessels is incorrect?
+
+	
+
+		P								Q
+A	carries deoxygenated blood			carries oxygenated blood
+B	carries blood away from the heart		carries blood towards the heart
+C	blood flows faster inside				blood flows slower inside	
+D	carries blood with higher pressure		carries blood with lower pressure
+A	
+---------------------------------------------------
+
+[10238472]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the longitudinal section of a human heart. 
+	
+
+Which of the following correctly identifies the structures W, X, Y and Z?
+	W	X	Y	Z	
+A	bicuspid valve	semilunar valve	tricuspid valve	semilunar valve	
+B	tricuspid valve	semilunar valve	bicuspid valve	semilunar valve	
+C	semilunar valve	bicuspid valve	semilunar valve	tricuspid valve	
+D	semilunar valve	tricuspid valve	semilunar valve	bicuspid valve	
+
+D	
+---------------------------------------------------
+
+[10238518]
+// Basic concepts //
+	Which of the following is/are the function(s) of the lymphatic system?
+(1)	body defence
+(2)	transport of proteins
+(3)	returning tissue fluid to the blood circulation
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+[10238520]
+// Basic concepts //
+*	The composition of tissue fluid is
+A	the same as that of plasma.
+B	the same as that of blood.
+C	similar to that of blood, except without plasma proteins.
+D	similar to that of blood, except without red blood cells, blood platelets and plasma proteins.
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10238640]
+// Overseas exam question // Applying concepts //
+*	The heart contains several structures which are necessary for its function of pumping blood in one direction. The photograph below shows the left side of the heart when dissected.
+
+	a	Name the structures labelled A and B.					(2 marks)
+	b	Explain how structures A and B ensure that blood flows through the heart in one direction.								(2 marks)
+c	Explain the difference in thickness of the atrium and ventricle walls as shown in the photograph.							(2 marks)
+d	Semilunar valves also have a role in maintaining the blood flow through the heart. Explain what causes these valves to open during ventricular systole (contraction of ventricles).			(1 mark)
+CCEA GCE (AS) Biology Module 2 June 2017 Q7a
+
+
+
+
+-- answer --
+a	A: biscuspid valve											1m
+	B: heart tendon												1m
+b	Structure A closes during the contraction of ventricle to stop the blood from returning to atrium.											1m
+	Structure B prevents structure A from turning inside out when the ventricle contracts.													1m
+c	The wall of ventricle is thicker than the wall of atrium because the ventricle needs to create greater force											1m
+	to pump blood further.										1m
+d	The pressure in the ventricle exceeds the pressure in the artery.			1m	
+---------------------------------------------------
+
+[10238645]
+// Communication // Schematic diagram //
+*	The diagram below shows the relationship between different types of blood vessels in a capillary network.
+
+a	Describe how the structure of each blood vessel, labelled in the above diagram, is related to its function.							(6 marks)
+b	Blood pressure and rate of flow both decrease as blood flows from the arteriole into the capillary network.
+State one advantage of having a decrease in the rate of blood flow through the capillaries.											(1 mark)
+OCR GCE (A) Human Biology Molecules, Blood and Gas Exchange
+May 2014 Q5a, b ii
+-- answer --
+a	The smooth muscles in the arterioles contract or relax to change the size of the lumen.													1m
+	This helps regulate the amount of blood flow to different parts of the body.	1m
+	The wall of capillaries is only one-cell thick.							1m
+	This allows exchange of materials between the blood and the tissues.		1m
+	Valves are present in the venules								1m
+	to prevent backflow of blood.									1m
+b	This provides more time for the exchange of materials between blood and body cells.														1m	
+---------------------------------------------------
+
+[10238648]
+// Photomicrograph // Comparison //
+*	The photomicrograph below shows the cross sections of two blood vessels.
+	
+a	i	State the type of blood vessels that X and Y belong to.		(2 marks)
+	ii	State two observable structural differences between X and Y.														(2 marks)
+b	Give one blood vessel that is of the same type as Y but it carries deoxygenated blood.									(1 mark)
+-- answer --
+a	i	X is a vein.											1m
+		Y is an artery.											1m
+	ii	X has a thinner wall than Y.								1m
+		X has a larger lumen than Y.								1m
+b	Pulmonary artery											1m	
+---------------------------------------------------
+
+[10238649]
+// Reading comprehension // STSE connections // Applying concepts //
+**	Read the following paragraph and answer the questions.
+There is a disorder in which a certain valve in the heart does not close tightly. Some of the oxygenated blood in the ventricle therefore flows backwards into the atrium instead of flowing out of the heart to the rest of the body. Patients with this disorder often feel tired easily.	
+a	Name the valve that is not functioning properly in the disorder.	(1 mark)
+b	When the valve in a is closed, what is the relative pressure in the heart chambers it separates?									(1 mark)
+c	Why do patients with the disorder often feel tired easily?		(4 marks)
+-- answer --
+a	Bicuspid valve												1m
+b	Pressure in the left ventricle is higher than that in the left atrium.			1m
+c	As the bicuspid valve does not close tightly, the oxygenated blood in the left ventricle flows backwards into the left atrium when the ventricle contracts.	1m
+This reduces the amount of oxygenated blood pumped out of the heart in each heart beat.													1m
+Oxygen supplied to the body cells is insufficient for respiration.			1m
+Less energy is released from respiration to support body activities, thus the patients feel tired easily.										1m	
+---------------------------------------------------
+
+[10238651]
+// Matching // Basic concepts //
+	Blood collected from a donor can be separated into different components for use in different patients. For each blood component in Column 1, select one usage in treating the conditions listed in Column 2. Put the appropriate letter in the space provided.													(4 marks) 
+Column 1			Column 2	
+Red blood cells			A	Severe bacterial infection	
+					
+White blood cells 			B	Loss of fluid in burns 	
+					
+Blood platelets			C	Anaemia	
+					
+Plasma			D	Bleeding due to abnormal conditions of blood platelets 	
+					
+
+-- answer --
+	Red blood cells		C											1m
+	White blood cells	A											1m
+	Blood platelets		D											1m
+	Plasma			B											1m	
+---------------------------------------------------
+
+[10238665]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a cross section of the heart viewed from the top.
+ 	
+a	Name valves X, Y and Z.								(3 marks)
+b	How will the function of the heart be affected if valve Z cannot close completely?											(2 marks)
+
+-- answer --
+	a	X: tricuspid valve											1m
+		Y: semilunar valve											1m
+		Z: bicuspid valve											1m
+	b	There will be a backflow of blood into the left atrium when the left ventricle 				contracts.													1m
+		The heart will become less efficient in pumping blood to different parts of the body
+		(except the lungs).											1m	
+---------------------------------------------------
+
+[10238668]
+// Graph interpretation // High order thinking // Schematic diagram //
+**	The diagram below shows a section through the human heart. Two pressure sensors are put at M and N to measure the changes in blood pressure during the same period of time. The results are presented in the graph.
+	
+a	Which curve, P or Q, represents the change in blood pressure measured at
+N? Explain your answers.								(3 marks)
+b	State whether valves (1) to (4) are open or closed at time T.		(2 marks)
+
+-- answer --
+	a	P														1m
+		The blood at N receives a greater force from the pumping action of the left 				ventricle													1m			and thus the blood pressure is higher.								1m
+	b	Valves (1) and (3) are open.									1m
+		Valves (2) and (4) are closed.									1m	
+---------------------------------------------------
+
+
+[10238691]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a human blood smear. 
+
+	
+
+	a	State the function of blood cell X. 						(1 mark)
+	b	With reference to the photomicrograph, what can you say about the shape of 		blood cell X? State how its shape facilitates its function. 		(4 marks)
+
+-- answer --
+	a	Blood cell X contains haemoglobin to carry oxygen from the lungs to different 			parts of the body.											1m
+	b	Blood cell X is lighter in colour at the centre. 						1m
+		This indicates that it is thinner at the centre / biconcave disc in shape. 	1m
+		This shape increases the surface area to volume ratio,				1m
+		thus allowing oxygen to diffuse in and out of the cell more efficiently.		1m
+		OR
+		This provides a short distance 									1m
+		for oxygen to reach and leave the haemoglobin in the cell rapidly. 		1m	
+---------------------------------------------------
+
+
+[10238696]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the cross sections of an artery and a vein.
+
+	
+
+a	With reference to the diagram, state how arteries and veins are adapted to their functions respectively.								(4 marks)
+b	A layer of muscle is present in the wall of arteries. State the function of this layer of muscle. 										(2 marks)
+
+-- answer --
+	a	Arteries have thick walls. 										1m
+		This allows them to withstand high blood pressure. 					1m
+		Veins have large lumen. 										1m
+		This reduces the resistance to the blood flow inside the veins. 			1m
+	b	The layer of muscle can contract or relax to change the size of the lumen 	1m
+		so that the amount of blood flow to different parts of the body can be regulated.																	1m	
+---------------------------------------------------
+
+
+[10238744]
+// Graph interpretation // Applying concepts //
+**	a	The diagram below shows the change in blood pressure as the blood flows away from the heart.
+	
+Explain why the blood pressure of the blood decreases as the blood flows away from the heart.									(2 marks)
+
+b	The diagram below shows the change in blood pressure as the blood flows through a capillary near some body cells. The pressure of the fluid surrounding the body cells is also shown. 
+	
+i	Name the fluid surrounding the body cells.				(1 mark)
+ii	State the net movement of fluid at P. With reference to the graph, explain your answer. 								(2 marks)
+iii	The blood pressure at Q is much lower than that at P. Suggest two reasons for this.									(2 marks)
+
+
+-- answer --
+a	The small diameter of the capillaries result in a high resistance to blood flow. 															1m
+In veins and venules, the blood has overcome great resistance of the blood vessel walls after travelling a long distance away from the heart. 				1m
+b	i	Tissue fluid											1m
+ii	Fluid moves out of the capillary into the tissue fluid. 				1m
+Blood pressure in the capillary is higher than the tissue fluid. 		1m
+iii	The volume of blood in the capillary is reduced as some fluid moves out of capillary. 												1m
+The blood has to overcome the resistance of the wall of the capillary.	1m	
+---------------------------------------------------
+
+[10238788]
+// Matching // Basic concepts //
+	For each component of blood listed in column 1, select one function listed in column 2. Put the appropriate letter in the space provided.			(4 marks)
+Column 1		Column 2	
+a	Red blood cells	      	A	Involved in blood clotting
+	
+b	White blood cells	      	B	Some of them produce 	antibodies	
+c	Blood platelets 	      	C	Transports antibodies and 	hydrogencarbonate ions	
+d	Plasma 	      	D	Carry oxygen
+	
+
+-- answer --
+a	D														1m
+b	B														1m
+c	A														1m
+d	C														1m	
+---------------------------------------------------
+
+[10238801]
+// Reading comprehension // STSE connections // Applying concepts //
+**	Read the following article and answer the questions.
+
+	Varicose veins are a condition caused by the malfunctioning of the valves in the veins. They commonly develop in veins near the surface of the legs. The valves become 'leaky' due to a high pressure developed in the veins. Bulging veins often appear on the legs of the patients.
+	People who are pregnant, overweight and stand for a prolonged period of time have a higher risk of developing varicose veins. Avoid prolonged standing and stretching the legs regularly are good preventive measures of varicose veins.	
+
+a	Explain why bulging veins appear on the legs of the patients with varicose veins.												(3 marks)
+b	Explain why stretching the legs regularly can help prevent varicose veins.														(2 marks)
+
+-- answer --
+a	As the valves in the veins of the legs cannot function properly, backflow of blood occurs. 													1m
+Deoxygenated blood accumulates in the veins.						1m
+This makes the veins swollen, thus the veins bulge and become visible on the legs.														1m
+b	When stretching the legs, skeletal muscles lying next to the veins contract and squeeze the veins.											1m
+This forces the blood in the veins to flow.							1m	
+---------------------------------------------------
+
+
+[10238815]
+// Photomicrograph // Basic concepts //
+	The electron micrograph below shows different types of blood cells.
+
+
+(Photo credit: Bruce Wetzel & Harry Schaefer)	
+
+a	Identify blood cells P, Q and R and state their main functions.	(3 marks) 
+b	Name the fluid in which the blood cells bathe.				(1 mark) 
+c	Which type of blood cells is the most abundant in human blood?	(1 mark) 
+
+-- answer --
+a	P: blood platelet													
+It is involved in blood clotting.									1m
+Q: red blood cell	
+It contains haemoglobin to carry oxygen.							1m
+R: white blood cell			
+It protects our body against diseases.								1m
+b	Plasma													1m
+c	Red blood cells												1m	
+---------------------------------------------------
+
+
+[10238819]
+// Graph interpretation // High order thinking //
+**	The graph below shows the variations in blood pressure and blood flow rate along different blood vessels.
+
+	
+
+a	With reference to the graph, state the relationship between the blood pressure and the blood flow rate in the arteries and arterioles.	(1 mark)
+b	Explain why the relationship between the blood pressure and the blood flow rate in the venules and veins differs from that in the arteries and arterioles.														(2 marks)
+c	State the importance of the slow blood flow in vessel Y.		(1 mark)
+
+-- answer --
+a	The blood flow rate decreases with a decrease in blood pressure.		1m
+b	The contraction of skeletal muscles lying next to the veins gives additional force to drive the blood to flow. 										1m
+This makes the blood flow faster despite its low pressure.				1m
+c	The slow blood flow allows more time for exchange of materials between blood and body cells. 												1m	
+--------------------------------------------------- 
+
+
+[10238822]
+// Schematic diagram // Basic concepts //
+	The diagrams below show three types of blood vessels. 
+			
+X	Y	Z	
+
+a	Identify the types of blood vessels. Explain your answer.		(3 marks) 
+b	State the function of each type of blood vessel.				(3 marks) 
+c	Valves are found in blood vessel Y. What is the function of these valves?														(1 mark) 
+
+-- answer --
+a	X: artery 
+It has a thicker wall / thicker layer of muscle and elastic tissue.			1m
+Y: vein 
+It has a thinner wall / thinner layer of muscle and elastic tissue.			1m
+Z: capillary 
+It has the thinnest wall. / Its wall is one-cell thick. 					1m
+b	X carries blood away from the heart.								1m
+Y carries blood towards the heart.								1m
+Z is the site where exchange of materials between blood and body cells occurs. 															1m
+c	The valves prevent the backflow of blood.							1m	
+---------------------------------------------------
+
+
+[10238856]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the longitudinal section of a blood vessel.
+
+	
+
+a	Which type of blood vessel is shown? Explain your answer.		(2 marks)
+b	In the above diagram, draw an arrow to show the direction of blood flow in the blood vessel.										(1 mark)
+c	Tom said all blood vessels of this type carry deoxygenated blood. Is Tom right? Explain your answer.								(2 marks)
+d	i	What is the function of X?							(1 mark)
+ii	Where can X be found in the body apart from this type of blood  vessels?											(1 mark)
+
+-- answer --
+a	Vein														1m
+Valves are present in the blood vessel.							1m
+b	
+
+																1m
+c	Tom is wrong.												1m
+Pulmonary veins and umbilical vein carry oxygenated blood.			1m
+d	i	X prevents the backflow of blood.							1m
+ii	Lymph vessels											1m	
+---------------------------------------------------
+
+
+[10238864]
+// Graph interpretation // Schematic diagram //
+*	The diagram below shows some structures near the body cells. The graph shows the blood pressure along the capillary.
+	
+a	Name the fluid in vessel X.								(1 mark)
+b	In the above diagram, draw an arrow to show the direction of the blood 
+flow. Explain your answer.								(2 marks)
+c	Describe and explain how water is exchanged between blood and tissue fluid as blood flows along the capillary.						(4 marks)
+
+-- answer --
+a	Lymph													1m
+b	Arrow pointing to left in the capillary								1m
+Blood flows from a region of higher pressure to a region of lower pressure. 	1m
+c	At the arteriole end of the capillary, the pressure of blood in the capillary is higher than the pressure of tissue fluid.									1m
+This forces some components of the plasma including water out of the capillary walls to form tissue fluid.										1m
+As plasma proteins remain in the blood, the water potential of the blood at the venule end of the capillary is lower than that of the tissue fluid.			1m
+Water in the tissue fluid is drawn into the capillary by osmosis.			1m	
+---------------------------------------------------
+[10238885]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the blood flow rate and blood pressure along different blood vessels.
+	
+a	Describe how the blood flow rate changes as it flows from the arterioles to the capillaries. Explain briefly.							(2 marks)
+b	How does the structure of arteries help maintain the blood flow inside?														(3 marks)
+c	State how the structure of capillaries is related to their functions.	(2 marks)
+-- answer --
+a	The blood flow rate decreases rapidly.							1m
+The large total cross-sectional area of the capillary network allows blood to flow slowly in the capillary. 										1m
+b	The walls of arteries contain a thick layer of elastic tissues. 			1m
+The elastic tissues allow the arteries to distend when the heart contracts. 	1m
+The distended arteries recoil to push the blood to flow forwards when the heart relaxes. 													1m
+c	The one-cell thick capillary wall provides a short distance for the exchange of materials. / 
+The numerous branches of the capillary network provide a large surface area for the exchange of materials. / 
+The large total cross-sectional area of the capillary network allows the blood to flow slowly in the capillaries. This allows more time for the exchange of materials.
+														2m	
+---------------------------------------------------
+[10238889]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of the heart of an unborn baby.
+	
+
+X will close soon after the baby is born.
+a	i	Name the two chambers connected by X.				(2 marks)
+ii	In rare cases, X does not close properly after the baby is born. Describe how the composition of blood pumping out of the heart is affected. Explain briefly.									(2 marks)
+b	Before birth, the baby obtains oxygen and removes carbon dioxide through the placenta. His/Her lungs are not used for the exchange of gases. However, blood still flows to the lungs. State the importance of this.		(1 mark)
+
+-- answer --
+a	i	Left atrium												1m
+Right atrium											1m
+ii	The oxygenated blood in the left atrium mixes with the deoxygenated blood in right atrium.											1m
+The oxygen content of the blood pumping out of the heart is much lower.														1m
+b	Blood flows to the lungs to supply oxygen and nutrients to the lung cells and remove carbon dioxide from them.								1m	
+---------------------------------------------------
+[10238907]
+// Graph interpretation // High order thinking //
+**	Blood flows through different blood vessels when it flows throughout our body. The graph below shows the changes in the lumen size of the blood vessels, the blood pressure and oxygen content in blood as the blood flows through a part of the body. 
+
+	
+
+a	What is the direction of blood flow between organ X and organ Y? Explain your answer.											(2 marks)
+b	Describe and explain the change in the lumen size of the blood vessels as shown in the graph.										(3 marks)
+c	Explain the change in oxygen content of blood shown in the graph. 															(2 marks)
+
+-- answer --
+a	The blood flows from organ X to organ Y.							1m
+Blood flows from a region of higher pressure to a region of lower pressure.	1m
+b	The arteries divide into arterioles which have smaller lumen size. 		1m
+The arterioles then branch into networks of capillaries in organ Y. The lumen size of capillaries is even smaller.									1m
+The capillaries join to form venules and then veins. The lumen size thus increases. 														1m
+c	Organ Y is the lungs. 										1m
+Gas exchange occurs in the lungs so that the oxygen content increases after the blood has passed through the lungs.								1m	
+---------------------------------------------------
+
+Structured questions
+
+[10238998]
+// Cross-topic // Data handling // Schematic diagram //
+*	The diagram below shows a section of a capillary and some body cells near it.
+
+	The table below shows the concentrations of proteins and chloride ions in X 
+and Y.
+
+Concentration of	In X	In Y	
+Chloride ions (mmol L-1)	100	100	
+Proteins (g L-1)	0	75	
+
+a	Explain the concentrations of the following substances in X and Y:
+	i	chloride ions										(3 marks)
+	ii	proteins											(2 marks)
+b	The concentration of protein in Y of a person is 45 g L-1. Suggest what disease he may be suffering from and describe what will happen to X in his tissues.												(4 marks)
+
+-- answer --
+a	i	The concentrations of chloride ions in X (tissue fluid) and Y (plasma) are the same. 												1m
+		It is because the capillary wall is permeable to chloride ions			1m
+		and there is no diffusion / no net movement of chloride ions between X and Y.													1m
+	ii	Proteins in Y (plasma) are too large to pass through the capillary walls.														1m
+		Hence, they remain in the blood and no proteins are present in X (tissue fluid).												1m
+b	He may be suffering from kwashiorkor.							1m
+	As Y of this person contains fewer proteins, the water potential of his blood is higher than normal.											1m
+	Less water in X is drawn into the capillaries by osmosis.				1m
+	Hence, there will be an accumulation of X in his tissues.				1m	
+---------------------------------------------------
+
+[10238999]
+// Graph interpretation // Critical thinking // Applying concepts //
+*	The graph below shows the change in the rate of blood flow along different blood vessels.
+
+	
+
+a	Explain the decrease in the rate of blood flow before the blood reaches the capillaries.											(1 mark)
+b	The rate of blood flow in the capillaries drops to nearly zero.
+	i	Explain the rate of blood flow in the capillaries and its significance.													(2 marks)
+	ii	State and explain another one adaptive feature of the capillaries for the exchange of materials.								(2 marks)
+c	Describe and explain the rate of blood flow in the veins.		(2 marks)
+d	A student suggests that the rate of blood flow in the pulmonary artery should be around 50 cm s-1. Do you agree? Explain your answer.																(4 marks)
+
+-- answer --
+a	When the arteries branch into arterioles, the total cross-sectional area of the arterioles increases, so the rate of blood flow decreases.				1m
+b	i	The rate of blood flow drops to nearly zero because the total cross-sectional area of the capillaries is very large.							1m
+		This allows a longer time for exchange of materials.				1m
+	ii	The capillary wall is only one-cell thick.						1m
+		This provides a short distance for rapid diffusion of materials.		1m
+		OR
+		The capillary bed provides a large surface area					1m
+		for rapid exchange of materials between the blood and body cells.	1m
+c	The rate of blood flow in the veins increases						1m
+	due to the contraction of skeletal muscles lying next to the veins.			1m
+d	No.														1m
+	The rate of blood flow in the pulmonary artery should be less than 50 cm s-1	1m
+	because the wall of the right ventricle is thinner than that of the left ventricle.															1m
+	Hence, the right ventricle exerts a smaller pumping force than the left ventricle to drive blood out of the heart.									1m	
+---------------------------------------------------
+
+
+[10239013]
+// NOS // Applying concepts //
+**	The table below shows some historical events that contributed to our knowledge of the human circulatory system.
+Year	Historical events	
+190	Claudius Galen believed that blood was produced in the liver and moved in veins to organs, where it was used up. He also stated that blood could flow from one ventricle to the other through pores in the septum of the heart.	
+1579	Hieronymus Fabricius discovered that veins contain valves.	
+1628	William Harvey dissected hearts of animals to show that there were no pores in the septum. He also did experiments to prove that blood was circulated in the body.	
+1661	Marcello Malpighi observed capillaries in the lungs using a compound microscope, which was newly invented at that time. He concluded that capillaries provided connections between arteries and veins.	
+
+a	Based on your knowledge of the human circulatory system, state two ways in which Galen's ideas are wrong.							(2 marks)
+b	Explain how valves help maintain the blood flow in veins.		(2 marks)
+c	The table below shows some aspects of the nature of science. Put a tick (() in the space next to the statement and provide an explanation if the aspect is demonstrated in the above historical events. Put a cross (() if the aspect is not demonstrated.										(5 marks)
+Nature of science	( or (	Explanation	
+Science is affected by the technology and the types of equipment available at the time.			
+Scientists are both collaborative and competitive by nature.			
+Scientists only dissect animals or do experiments on them when necessary and ethically sound.			
+
+
+
+
+-- answer --
+a	Blood is not used up, but it is circulated in the body.				1m
+There are no pores in the septum. Blood cannot flow from one ventricle to the other through the septum.									1m
+b	The force for blood flow in veins is mainly provided by the contraction of skeletal muscles lying next to the veins.								1m
+Valves prevent the backflow of blood when the veins are squeezed by the muscles. This helps maintain the blood flow in the veins.			1m
+c	
+Nature of science
+( or (
+Explanation
+
+Science is affected by the technology and the types of equipment available at the time.
+(
+Marcello Malpighi observed capillaries in the lungs using a compound microscope, which was newly invented at that time.
+
+Scientists are both collaborative and competitive by nature.
+(
+
+
+Scientists only dissect animals or do experiments on them when necessary and ethically sound.
+(
+William Harvey dissected hearts of animals to show that there were no pores in the septum.
+
+														1m x 5	
+---------------------------------------------------
+
+[10239019]
+// Graph interpretation // STSE connections // Applying concepts //
+**	a	The graph below shows the changes in blood pressure when the blood travels from the heart to the capillaries and returns to the heart.
+	
+i	Compare the blood pressure in arteries and that in veins. Suggest two reasons for the difference.							(3 marks)
+ii	Explain why there is a great drop in blood pressure in capillaries.
+												(1 mark)
+b	When the blood pressure in the arteries of a person is persistently higher than normal, the person is said to have high blood pressure.
+i	A certain hormone can decrease the amount of water excreted from the body. Explain why an increase in secretion of this hormone may cause high blood pressure.								(3 marks)
+ii	Explain why high blood pressure may lead to an accumulation of tissue fluid in the body tissues.								(1 mark)
+iii	Suggest two lifestyle changes that may help reduce the risk of high blood pressure.									(2 marks)
+-- answer --
+a	i	The blood pressure in veins is much lower than that in arteries.	1m
+	The blood in arteries is directly under the pumping action of the heart while that in veins is not.									1m
+	The blood in veins has overcome great resistance of the blood vessel walls after travelling a long distance away from the heart.			1m
+ii	The small diameter of capillaries results in a high resistance to blood flow. This leads to a great drop in blood pressure.				1m
+b	i	An increase in secretion of the hormone causes a decrease in the amount of water excreted. As a result, more water remains in the body.	1m
+	The volume of blood in the body increases.					1m
+	The heart beats more strongly in order to pump a greater volume of blood. Thus, blood pressure becomes higher.					1m
+ii	Due to the higher blood pressure, more water and other components of the plasma are forced out of the capillary walls to form tissue fluid at the arteriole end of the capillary beds.								1m
+iii	Reduce salt intake. /
+	Reduce fat intake. /
+	Reduce alcohol intake. /
+	Avoid stress. /
+	Do exercise regularly. /
+	Stop smoking. /
+	Lose weight. (any 2 or other reasonable answers)			1m x 2	
+---------------------------------------------------
+
+[10239039]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows a capillary bed where exchange of materials between the blood and body cells takes place.
+ 	
+
+a	The capillary is highly branched. What is the significance of this?															(1 mark)
+b	Explain why the blood pressure is higher at the arteriole end of the capillary and decreases along the length of the capillary.				(4 marks)
+c	Describe how fluid F is formed.							(2 marks)
+d	What is the importance of fluid F?							(2 marks)
+e	Some fluid F is drained into vessel M. How is a continuous flow of fluid F in vessel M maintained?									(2 marks)
+
+-- answer --
+	a	To provide a large surface area for the exchange of materials between the blood 		and body cells. 												1m
+	b	The arteriole end of the capillary bed is closer to the heart.				1m
+		The blood pressure is higher due to the pumping action of the heart.		1m
+The blood pressure decreases along the length of the capillary because the diameter of capillary is small.									1m
+		This results in a high resistance to blood flow.						1m
+	c	At the arteriole end of the capillary bed, blood pressure in the capillaries is higher 		than the pressure of the fluid surrounding the body cells.				1m
+		Some components of plasma (e.g. water, minerals, sugars, lipids and hormones) 		are forced out of the capillaries to form fluid F (tissue fluid).				1m
+	d	Fluid F provides a relatively constant environment for the normal functions of the 		body cells. 												1m
+		Fluid F serves as a link for the exchange of materials between the blood and 			body cells.													1m
+	e	Contraction of the skeletal muscles surrounding vessel M drives fluid F forwards.																	1m
+		Valves in vessel M prevent the backflow of fluid F.					1m	
+---------------------------------------------------
+
+[10239040]
+// Graph interpretation // Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of a human heart. 
+	
+a	Draw arrows on the above diagram to show the route by which oxygenated blood from the lungs flows through the heart to the aorta.		(2 marks)
+	b	Label 'bicuspid valve' and 'tricuspid valve' in the above diagram.																	(2 marks)
+c	The bar chart below shows the maximum blood pressures in the right and left ventricles. 
+	
+i	Based on the structural difference between the two ventricles, explain why the maximum blood pressure in the left ventricle is much higher than that in the right ventricle.						(2 marks)
+		ii	State the importance of the high blood pressure in the left ventricle.																(1 mark)
+	d	i	Name valve N.									(1 mark)
+ii	Some people were born with a heart defect in which valve N cannot open fully. Due to the reduced amount of oxygen supplied to the brain, people with this heart defect faint easily. Explain why this heart defect reduces the amount of oxygen supplied to the brain.		(3 marks)
+
+-- answer --
+	a, b	
+ 		
+		Correct arrows											2m
+		Correct labels											1m × 2
+	c	i	The wall of the left ventricle is thicker than that of the right ventricle. 	
+															1m
+			The left ventricle can provide a greater force to pump the blood out of the 				heart when it contracts.								1m
+		ii	The high blood pressure enables the blood to flow from the left ventricle to 				all parts of the body (except the lungs). 					1m
+	d	i	Semilunar valve										1m
+		ii	As valve N cannot open fully, the volume of blood pumped out of the heart is 			reduced.											1m
+			The volume of blood reaching the brain is reduced. 			1m
+			The amount of oxygen carried by blood to the brain is decreased due to the 			decreased blood supply. 								1m	
+---------------------------------------------------
+[10239044]
+// Data handling // Schematic diagram // Applying concepts //
+*	The diagram below shows part of a capillary and some body cells near the capillary. The numbers indicate the pressure of the fluid in different positions. 
+	
+	a	State the direction of blood flow in the capillary. Explain briefly.																		(2 marks)
+	b	Exchange of materials occurs when the blood flows through the capillary. 
+How is the capillary adapted for the exchange of materials? Explain with one feature shown in the diagram. 						(2 marks)
+c	State how the pressure difference between the blood in the capillary and the tissue fluid helps the formation of tissue fluid. 				(2 marks)
+	d	Most tissue fluid formed passes through the capillary wall and returns to the 		blood, but some is returned to the blood circulation by another route. 			Describe this route.										(2 marks)
+	e	Some people have an abnormally low protein level in their blood. Certain 			parts of their body often swell due to the accumulation of tissue fluid. 			Explain why.											(3 marks)
+-- answer --
+	a	From Y to X												1m
+		Blood flows from a high pressure region to a low pressure region. 		1m
+	b	The capillary wall is one-cell thick. 								1m
+		This provides a short distance for diffusion of materials. 				1m
+	c	At end Y of the capillary, the pressure of the blood in the capillary is higher than 			that of the tissue fluid. 										1m
+		The pressure difference forces some components of the plasma (e.g. water, 			minerals, sugars, lipids and hormones) out of the capillary walls to form tissue 			fluid.														1m
+	d	It drains into the lymph capillaries. 								1m
+		It flows from the lymph capillaries to the lymph vessels, and then to the veins.																	1m
+	e	As the protein level in blood is low, the water potential of the blood becomes 			higher than normal.											1m
+		Less water in the tissue fluid returns to the blood by osmosis at the venule end of 		the capillary. 												1m
+A larger volume of tissue fluid remains in the tissues, leading to swelling of body parts.													1m	
+---------------------------------------------------
+
+[10239077]
+// Overseas exam question // Schematic diagram // Basic concepts //
+	Large animals, such as mammals, need efficient transport systems. The diagram below shows a section through the mammalian heart.
+	
+a	Name the parts labelled X, Y and Z.						(3 marks)
+b	Explain why the wall of the left ventricle is thicker than the wall of the left atrium.												(3 marks)
+c	Explain how pressure changes in the heart bring about the closure of the bicuspid valve.										(2 marks)
+OCR GCE (AS) Cells, Exchange and Transport May 2011 Q3a
+-- answer --
+a	X: right atrium												1m
+Y: aorta													1m
+Z: pulmonary artery											1m 
+b	The left ventricle has to provide a greater force						1m
+to create a higher pressure										1m
+to pump blood to all parts of the body (except the lungs).				1m
+c	When the left ventricle contracts, pressure in the ventricle becomes higher than that of atrium.												1m
+The pressure difference pushes the valve to shut.					1m	
+---------------------------------------------------
+
+[10239080]
+// Overseas exam question // Graph interpretation // Schematic diagram //
+*	The diagram below provides information about the blood pressure in different parts of the mammalian blood circulatory system.
+It also shows the total cross-sectional area of the vessels, relative to one another, of the blood circulatory system.
+	
+a	The pressure fluctuates as the blood flows along the aorta, as shown in the diagram.
+i	Explain what causes this fluctuation.					(2 marks)
+ii	State the term used to describe the number of fluctuations per minute.													(1 mark)
+b	Using the information in the diagram, describe the pressure changes in the blood as it flows through the circulatory system from the aorta to the veins.													(3 marks)
+c	i	Using the information in the diagram, explain what causes the overall change in pressure as blood flows from the aorta to the arteries and from the arteries to the capillaries.						(2 marks)
+ii	Explain why it is important that the pressure changes as blood flows from the aorta to the capillaries.						(2 marks)
+OCR GCE (AS) Cells, Exchange and Transport May 2012 Q3b-d
+-- answer --
+a	i	When the left ventricle contracts, the blood pressure increases.		1m
+When it relaxes, blood flows onwards and the pressure decreases.	1m
+ii	Pulse / heart rate										1m 
+b	The blood pressure in aorta changes periodically.					1m
+It drops significantly in the arteries.								1m
+The blood pressure is constant in veins.							1m
+c	i 	The total cross-sectional area of the arteries is greater than that of the aorta.													1m
+The total cross-sectional area of the capillaries is greater than that of the arteries.												1m
+ii	The capillary wall is one-cell thick.							1m
+High pressure would damage the capillary wall.					1m	
+---------------------------------------------------
+
+[10239084]
+// Reading comprehension // STSE connections //
+**	Read the following article and answer the questions.
+
+	Varicose veins are veins that have become enlarged and swollen due to the accumulation of blood as a result of improper blood circulation. It usually occurs in lower limbs.
+	Development of varicose veins begins as the valves in veins are damaged and lose their functions. Symptoms of varicose veins include swelling of ankles and legs, severe pain and tired legs. Varicose veins can occur in males and females of any ages, but are more common in the lower limbs of people who need to stand for a prolonged period of time, such as teachers and salespeople.
+	Wearing compression stockings is one of the treatments available for varicose veins. These stockings are tightest at the ankle and get gradually looser further up the leg. In severe cases of varicose veins, surgery may be required.	
+a	State the function of valves in veins.						(1 mark)
+b	How can damaged valves in veins lead to varicose veins?		(2 marks)
+c	Suggest how varicose veins results in tired legs.				(2 marks)
+d	Why are people who need to stand for a prolonged period of time at higher risk of having varicose veins in their lower limbs?			(1 mark)
+e	How can compression stockings treat varicose veins?			(3 marks)
+f	Suggest one disadvantage of wearing compression stockings with a reason.													(2 marks)
+
+-- answer --
+a	They prevent the backflow of blood.								1m
+b	The damaged valves in veins allow the backflow of blood.				1m
+Therefore blood accumulates in veins, causing the veins to get larger and bulge on the skin surface.											1m
+c	Less metabolic waste like carbon dioxide produced by the body cells is removed as blood accumulates.										1m
+The metabolic waste builds up in legs and results in tired legs.			1m
+d	Standing for a long period of time increases the blood volume in the veins in the lower limbs due to gravity. Thus, blood accumulates in the veins more easily.															1m
+e	Compression stockings exert an external pressure on the skeletal muscles in the lower limbs.												1m
+This promotes the flow of blood back to the heart.					1m
+Therefore, accumulation of blood in the veins is prevented.				1m
+f	The stockings need to be replaced from time to time
+as they become loose after they are washed a few times. /
+The stockings need to be worn for a long period of time 
+as blood will return to the veins soon after the stockings are taken off.
+(or other reasonable answers)									2m	
+---------------------------------------------------
+
+
+[10239085]
+// Data handling // Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows a capillary network and the body cells nearby.
+
+	
+
+a	Explain the significance of an arteriole branching into a network of capillaries for the exchange of materials between the blood and the body cells.												(1 mark)
+
+The size of a molecule can be expressed in terms of relative molecular mass. The larger the relative molecular mass, the larger the size of the molecule. The table below shows the relative permeability of the capillary wall to different molecules.
+
+Molecule	Relative molecular mass	Relative permeability of the capillary wall	
+Water	18	1.00	
+Urea	60	0.96	
+Glucose	180	0.60	
+Albumin
+(a plasma protein)	69 000	0	
+
+b	From the above table, describe the relationship between the size of the 	molecules and the relative permeability of the capillary wall.	(2 marks)
+c	With reference to the above table, describe how tissue fluid is formed and 	returned to the blood circulation.							(6 marks)
+d	Oedema is the accumulation of tissue fluid within the tissues. Suggest two 	possible causes for oedema.								(2 marks)
+
+-- answer --
+a	The network of capillaries provides a large surface area for rapid exchange of materials between the blood and the body cells.					1m
+b	As the size of molecules increases, the relative permeability of the capillary wall decreases.											1m
+The capillary wall is impermeable to molecules with a relative molecular mass equal to or greater than 69 000.								1m
+c	The pressure of blood at the arteriole end of the capillary bed is higher than that of the fluid surrounding the body cells.							1m
+Some components of plasma (e.g. water, minerals, sugars, lipids and hormones) are forced out of the capillary walls to form tissue fluid.			1m
+Albumin is too large. It cannot pass through the capillary walls and remains in the blood.												1m
+The water potential of the blood at the venule end of the capillary bed is lower than that of the tissue fluid.									1m
+Water in the tissue fluid is drawn into the capillaries by osmosis.		1m
+A small amount of tissue fluid drains into the lymph capillaries and is returned to the blood circulation as lymph.								1m
+d	A raised blood pressure in capillaries due to a blockage of the veins. /
+Decreased plasma proteins due to liver disease, kidney disease or malnutrition. /
+An increase in permeability of capillary walls caused by bacterial or viral infection. /
+A decrease in the amount of tissue fluid returned by the lymphatic system to the blood circulation due to the blockage of the lymph vessels. (any 2)	1m x 2	
+---------------------------------------------------
+
+[10239087]
+// Cross-topic // Photomicrograph // Comparison // Basic concepts //
+	The photomicrograph below shows a human blood smear.
+	
+a	Name cells X, Y and Z.									(3 marks)
+b	Explain why the centre of cell Y is lighter in colour.			(2 marks)
+c	State one adaptive feature of cell Y for its function. Explain briefly.															(2 marks)
+d	Compare cells X and Z by completing the table below.			(4 marks)
+	X	Z	
+Shape of the nucleus			
+Role in body defence			
+
+-- answer --
+a	X: phagocyte											1m
+Y: red blood cell											1m
+Z: lymphocyte											1m
+b	Cell Y has a biconcave disc shape. 							1m
+There is less cytoplasm at the centre and thus fewer haemoglobin molecules. 														1m
+c	Its biconcave disc shape increases the surface area to volume ratio. This allows oxygen to diffuse in and out of the cells more efficiently. / This provides a short distance for oxygen to reach and leave the haemoglobin in the cell rapidly. /
+It is fully packed with haemoglobin which is an excellent oxygen carrier. /
+It has no nucleus when mature. This provides more room for holding haemoglobin.													2m 
+d	
+
+X
+Z
+
+Shape of the nucleus
+Lobed
+Round
+
+Role in body defence	
+It engulfs germs by phagocytosis.
+It produces antibodies to kill germs.
+
+															1m x 4	
+---------------------------------------------------
+
+
+[10239093]
+// Graph interpretation // Schematic diagram //
+*	The diagrams below show a capillary bed and the water potential change when the blood flows through it.
+	
+a	Why does the water potential keep constant along the arteriole and venule?													(2 marks)
+b	Explain the change in the water potential of the blood in the capillary.															(5 marks)
+c	Tissue fluid formed near the capillaries is drained into the lymph capillaries, which join to form lymph vessels. Describe how the lymph flows in the lymph vessels.											(2 marks)
+d	State one function of the lymphatic system.					(1 mark)
+
+
+-- answer --
+a	The walls of the arteriole and venule are impermeable. 				1m
+No exchange of materials occurs there. The content of the blood and hence the water potential remains unchanged.								1m
+b	At the arteriole end of the capillary, high blood pressure forces some components of the plasma like water, minerals, sugar, lipids and hormones out of the capillary wall.														1m
+This leads to a decrease in the water potential of the blood in the capillary. 	1m
+Plasma proteins are too large to pass through the capillary wall. They remain in the blood.													1m
+At the venule end, the water potential of the blood is lower than that of the tissue fluid due to the presence of plasma proteins. 						1m
+Water in the tissue fluid is drawn into the capillary, causing the water potential to increase.													1m
+c	Lymph is kept flowing by the contraction of skeletal muscles which surround the lymph vessels.												1m
+Valves are present in the lymph vessels to prevent the backflow of lymph.	1m
+d	Collects and returns excess tissue fluid to the blood circulation. / 
+Protects us against disease by filtering out germs from the lymph at the lymph nodes. /
+Transports lipids from the lacteals in the small intestine to the blood.		1m	
+--------------------------------------------------- 
+
+
+[10239094]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a capillary bed in humans.
+	
+
+a	Which blood vessels, W or Z, has a thicker layer of muscle in its wall? State one function of the muscle layer.							(3 marks)
+b	With reference to one feature in the diagram, explain how X is adapted to the exchange of materials.								(2 marks)
+c	i	The body cells in the diagram are bathed in a fluid. Name this fluid.	 												(1 mark)
+ii	Briefly describe how this fluid is formed.				(2 marks)
+iii	Some of this fluid is collected by Y. Draw a flow chart to show the route by which the fluid returns to the heart (only the major vessels are needed).											(2 marks)
+
+-- answer --
+a	W														1m
+The muscles contract and relax to change the size of the lumen,			1m
+so that the amount of blood flow to different parts of the body can be regulated.															1m
+b	X is highly branched. 										1m
+This provides a large surface area for diffusion of materials.				1m
+OR
+X has a large total cross-sectional area.							1m
+This allows blood to flow slowly and hence more time for exchange of materials.															1m
+c	i	Tissue fluid											1m
+ii	The pressure of blood in X near W is higher than the pressure of the fluid surrounding the body cells.									1m
+This forces some components of the plasma out of the capillary walls to form  tissue fluid.											1m
+iii	Y / lymph capillary → lymph vessel → (anterior) vena cava → heart															2m	
+---------------------------------------------------
+
+[10239097]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a capillary bed. 
+	
+a	Name fluid Y.  										(1 mark)	
+b	State one significance of the highly branched network of capillaries. Explain briefly.										(2 marks)
+c	The arrows in the diagram indicate the directions of fluid flow between the blood and body cells. Deduce whether X is an arteriole or a venule. Explain. 													(2 marks)
+d	State two components of Y and explain how they enter Y.		(4 marks)
+
+-- answer --
+a	Tissue fluid											1m
+b	This provides a large surface area 							1m
+for rapid exchange of materials. 							1m
+c	Arteriole												1m
+The high pressure of the blood at the arteriole end of the capillary bed forces some fluid out of the capillary.									1m
+d	Water / minerals / sugars / lipids / hormones / white blood cells (any 2 or other reasonable answers)										1m x 2
+Water / minerals / sugars / lipids / hormones:
+They are small in size. They are forced out of the capillary walls into Y by the high pressure of blood at the arteriole end of the capillary bed. 			1m
+White blood cells:
+They squeeze through the capillary walls into Y.					1m	
+---------------------------------------------------
+
+[10239099]
+// Photomicrograph // Comparison // Basic concepts //
+*	The photomicrograph below shows an artery and a vein.
+
+	
+
+a	Which type of blood vessel is 
+i	X?												(1 mark)
+ii	Y?												(1 mark)
+b	Compare the blood pressure in X and Y. Explain any difference.	(3 marks)
+c	With reference to the photomicrograph, explain how X and Y are structurally adapted to their functions.						(4 marks)
+
+
+
+-- answer --
+a	i	Vein													1m
+ii	Artery												1m
+b	The blood pressure in Y is higher than that in X. 						1m
+The blood pressure in Y is high due to the pumping action of the heart. 	1m
+The blood pressure in X is low as the blood has overcome great resistance of the blood vessel walls after travelling for a long distance.					1m
+c	X has a larger lumen											1m
+to reduce the resistance to blood flow.								1m
+Y has a thicker wall, 											1m
+which allows it to withstand high blood pressure. 					1m	
+---------------------------------------------------
+
+[10239118]
+// Data handling // Schematic diagram // Applying concepts //
+*	The diagram below shows some blood vessels in the muscle tissue.
+
+	
+
+a	i	Which type of blood vessel is R?						(1 mark)
+ii	The compositions of the blood in P and Q are different. State two substances that are more concentrated in the blood of Q than in the blood of P. 										(2 marks)
+
+b	The table below shows the mean diameter of the lumen and the blood flow rate in three types of blood vessels.
+
+Type of  blood vessel	Mean diameter of lumen (μm)	Blood flow rate (cm s-1)	
+Artery	400	10-40	
+Arteriole	30	0.1-10	
+Capillary	8	< 0.1	
+
+i	Explain why the blood flow rate in the capillaries is the lowest among the three vessels. State how this facilitates the function of the capillaries. 										(2 marks)
+ii	How does the small mean diameter facilitate the function of the capillaries?										(1 mark)
+c	i	Which type of blood vessel has the thickest layer of elastic tissue in its wall?											(1 mark)
+ii	How does the elastic tissue help maintain the blood flow?	(2 marks)
+
+-- answer --
+a	i	Capillary											1m
+ii	Oxygen / sugars / glucose / amino acids / lipids / minerals (any 2 or other reasonable answers)									1m x 2
+b	i	The capillary has a large total cross-sectional area. 			1m
+The low flow rate allows more time for the exchange of materials.	1m
+ii	The small diameter provides a short distance for the exchange of materials. 												1m
+c	i	Artery											1m
+ii	The elastic tissue allows the arteries to distend and recoil. 		1m
+The arteries distend when the heart contracts. The distended arteries recoil when the heart relaxes, causing the blood to flow forwards. 	1m	
+---------------------------------------------------
+
+
+[10239119]
+// Comparison // Schematic diagram // Basic concepts //
+	The diagram below shows three kinds of blood cells in blood. 
+
+	
+
+a	i	Name blood cells X, Y and Z. 						(3 marks)
+ii	Mary cuts her finger on a piece of glass. What will happen to Y and Z in the wound?										(2 marks)
+b	Comparing with the blood sample obtained from a healthy person, how will the blood be different if it is drawn from a patient with
+i	anaemia?											(1 mark)
+ii	leukaemia?										(1 mark)
+
+-- answer --
+a	i	X: red blood cell											1m
+Y: white blood cell / phagocyte								1m
+Z: blood platelet											1m
+ii	Z (blood platelet) will help form a blood clot over the wound to prevent further blood loss and the entry of germs into her body.					1m
+Y (white blood cell) will engulf the invading germs.				1m
+b	i	The red blood cell count will be lower.							1m
+ii	The count of abnormal white blood cells will be higher.				1m	
+---------------------------------------------------
+
+
+[10239131]
+// Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows a human heart and the associated blood vessels.
+	
+
+a	i	Name P and Q.									(2 marks)
+ii	Explain why valves are needed at M and N.				(3 marks)
+b	Considering the destination of the pumping of blood, deduce with reasons the relative thickness of the wall in chambers X, Y and Z.		(6 marks)
+
+-- answer --
+a	i	P: vena cava											1m
+Q: biscuspid valve										1m
+ii	When the ventricles relax,									1m
+the blood pressure in the ventricles becomes lower than that in the aorta and the pulmonary artery. 									1m
+The valves prevent the backflow of blood into the ventricles. 		1m
+b	Z pumps blood to all parts of the body except the lungs.				1m
+The distance is the longest and therefore the wall of Z is the thickest.		1m
+X pumps blood to the ventricle which is directly below it. 				1m
+The distance is the shortest and therefore the wall of X is the thinnest.		1m
+Y pumps blood to the lungs.									1m
+The distance is intermediate between the two and therefore the wall of Y is thicker than that of X but thinner than that of Z.							1m	
+---------------------------------------------------
+
+
+[10239140]
+// Comparison // Schematic diagram // Applying concepts //
+**	The diagram below shows a capillary and the body cells nearby.
+	
+a	State how the protein concentrations of the fluid in the following positions differ and explain the difference. 
+i	P and R											(2 marks)
+ii	P and Q											(2 marks)
+b	What is the part played by plasma proteins in returning tissue fluid to the capillary?												(3 marks)
+c	The tissues of starving people often swell due to an accumulation of tissue fluid. Explain why tissue fluid accumulates.					(2 marks)
+-- answer --
+a	i	The blood at P has a higher protein concentration than the tissue fluid at R.														1m
+Plasma proteins in blood are too large to pass through the capillary walls. They cannot enter the tissue fluid. 							1m
+ii	The blood at Q has a higher protein concentration than the blood at P.	1m
+It is because at Q, some water in the blood is forced out of the capillary walls but plasma proteins remain in the capillary. 					1m
+b	The presence of plasma proteins lowers the water potential of the blood in the capillary at the venule end.										1m
+There is a net movement of water from the tissue fluid into the blood		1m
+by osmosis.												1m
+c	Starvation leads to a low protein concentration in the blood. 			1m
+Water potential of the blood is higher than normal, and thus less water in the tissue fluid is drawn into the capillary. 									1m	
+---------------------------------------------------
+[10239142]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a section of the human heart.
+	
+a	Using the letters in the diagram, state the path of blood flow starting from  B.													(2 marks)
+b	Name the blood vessel in which the blood pressure is the highest.															(1 mark)
+c	If K is damaged, how will the function of the heart be affected?	(3 marks)
+d	Give one symptom that a person will have if a hole is present in F. Explain your answer.											(3 marks)
+
+-- answer --
+a	B → C → E → A (→ lungs) → H → J → M → G						2m
+b	Aorta														1m
+c	K can no longer prevent the backflow of blood into the left atrium when the left ventricle contracts.											1m
+The unidirectional flow of blood inside the heart will be interrupted.		1m
+Therefore less blood can be pumped out from the heart.				1m
+d	Shortness of breath / tiredness									1m
+The body tissues cannot get enough oxygen supply from the blood		1m
+due to the mixing of oxygenated blood with deoxygenated blood in the heart.															1m	
+---------------------------------------------------
+
+[10239143]
+// Comparison // Schematic diagram //
+*	The diagram below shows the human blood circulation.
+	
+a	Using the letters in the diagram, state which blood vessel carries blood with 
+i	highest blood pressure. 
+ii	highest oxygen content. 
+iii	lowest carbon dioxide content. 
+iv	lowest temperature when the body is at rest. 
+v	highest sugar concentration after a meal. 
+vi	lowest urea concentration.							(6 marks) 
+b	Use a table to compare four structural or functional differences between an artery and a vein.										(4 marks) 
+-- answer --
+a	i	H												1m
+ii	I												1m
+iii	I												1m
+iv	G												1m
+v	E												1m
+vi	F												1m
+b
+
+Artery
+Vein
+
+Direction of blood flow
+Away from the heart
+Towards the heart
+
+Location
+Usually deep inside the body
+Relatively close to the body surface
+
+Nature of blood carried
+Oxygenated blood (except in the pulmonary artery and the umbilical artery)
+Deoxygenated blood  (except in the pulmonary veins and the umbilical vein)
+
+Driving force for blood flow 
+Provided by the pumping action of the heart
+Provided by the contraction of the skeletal muscles that squeeze on the veins
+
+Blood pressure
+High
+Low
+
+Wall
+Thicker
+Thinner
+
+Lumen
+Smaller
+Larger
+
+Presence of valve
+Not present (except in the pulmonary artery and the aorta)
+Present
+
+(any 4)												1m x 4	
+--------------------------------------------------- 
+
+[10239146]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the heart of a human adult.
+
+	
+
+a	Name parts P and Q.									(2 marks) 
+b	State the function of Q.									(1 mark) 
+c	Why is the blood that enters the right side of the heart deoxygenated?															(2 marks) 
+d	Why is the blood that enters the left side of the heart oxygenated?															(2 marks) 
+e	The foetal heart has a hole between P and T. What will be the problem if this hole does not close after birth?							(3 marks) 
+f	Explain why the wall of R is much thicker than that of T.		(2 marks) 
+
+-- answer --
+a	P: right atrium												1m
+Q: tricuspid valve											1m
+b	Q prevents the backflow of blood into the right atrium when the right ventricle contracts.													1m
+c	The right side of the heart receives blood from venae cavae, which return blood from all parts of the body except the lungs.							1m
+In these body parts, oxygen diffuses from the blood to the body cells and carbon dioxide diffuses from the body cells into the blood. Therefore the blood becomes deoxygenated. 												1m
+
+d	The left side of the heart receives blood from pulmonary veins, which return blood from the lungs.												1m
+In the lungs, oxygen diffuses from the air sacs into the blood and carbon dioxide diffuses from the blood to the air sacs. Therefore the blood becomes oxygenated. 														1m
+e	The oxygenated blood in the left atrium of the heart mixes with the deoxygenated blood in the right atrium of the heart.  							1m
+The blood that pumps out of the heart to the body contains less oxygen.	1m
+The body cells may not obtain enough oxygen for their function. 			1m
+f	R has to provide greater force to pump blood out of the heart to the lungs.	1m
+T only needs to pump blood to the left ventricle which is directly below it. 	1m	
+---------------------------------------------------
+
+[10239158]
+// Comparison // Schematic diagram //
+*	The diagram below shows the vertical section of a human heart.
+	
+
+a	Using the letters in the diagram, state the chambers that can contract.															(2 marks)
+b	Compare the compositions of blood in F and K. Explain your answer.															(4 marks)
+c	State the letter and the name of the blood vessel which has blood at the highest pressure. Explain why the blood of the named vessel has such a high pressure.												(2 marks)
+d	Explain the importance of the permeability of capillaries.		(2 marks)
+-- answer --
+a	D, F, I and K												2m
+b	The blood in F has a lower oxygen content 						1m
+and a higher carbon dioxide content than that in K.					1m
+The blood in F comes from all parts of the body except the lungs. Oxygen in the blood diffuses out of the blood and carbon dioxide diffuses into the blood in the capillary beds in different body parts.								1m
+Blood in K has just passed the lungs where oxygen diffuses into the blood and carbon dioxide diffuses out of the blood.							1m
+c	G: aorta													1m
+The wall of the left ventricle is the thickest. It provides the greatest force during contraction. 												1m
+d	Oxygen and nutrients can diffuse from the blood in the capillaries to the body cells for their use.												1m
+Waste products from the body cells can diffuse into the blood in the capillaries and carried away by the blood.										1m	
+---------------------------------------------------
+
+[10239162]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the direction of blood flow in blood vessels P, Q and R.
+
+	
+
+a	Identify blood vessels P, Q and R.							(3 marks)
+b	Name fluid S. Where does it come from?					(2 marks)
+c	Why is there fluid coming out from blood vessel Q?			(3 marks)
+d	How does the fluid return to the blood circulation?			(2 marks)
+
+-- answer --
+a	P: artery													1m
+Q: capillary												1m
+R: vein													1m
+b	Tissue fluid												1m
+It is formed from the plasma in the capillary. 						1m
+c	The pressure of blood in the capillary at the arteriole end is higher than the pressure of the fluid surrounding the body cells (fluid S).				1m
+The wall of the capillary is thin and differentially permeable.				1m
+Some components of the plasma are forced out of the capillary wall.		1m
+d	Some water in the tissue fluid is drawn into the capillary by osmosis.		1m
+Some tissue fluid drains into the lymph capillaries which carry the tissue fluid back to the blood circulation.										1m	
+---------------------------------------------------
+
+[10239177]
+// Comparison // Schematic diagram // Basic concepts //
+	The diagram below shows the capillary bed found in a human organ.
+	
+a	i	Name X.											(1 mark)
+ii	With reference to the diagram, state two features that help you identify X.												(2 marks)
+b	State one functional significance of the shape of U.			(2 marks)
+c	Name one substance that diffuses from V to Z.				(1 mark)
+d	State one difference between the composition of V and W. Account for the difference.											(2 marks)
+e	Some W is drained into the lymph vessels. Give one function of the lymphatic system, other than returning W to the blood.			(1 mark)
+-- answer --
+a	i	Capillary												1m
+ii	The wall is one-cell thick.									1m
+There are red blood cells inside the vessel.						1m
+b	Its biconcave disc shape increases the surface area to volume ratio 		1m
+which allows oxygen to diffuse in and out of the cells more efficiently. 		1m
+OR
+Its biconcave disc shape provides a short distance 					1m
+for oxygen to reach and leave the haemoglobin in the red blood cells rapidly. 															1m
+c	Glucose / amino acids / minerals / vitamins / hormones / oxygen / water 
+(or other reasonable answers)									1m
+d	W (tissue fluid) does not contain plasma proteins while V (plasma) does.	1m
+It is because plasma proteins are too large to pass through the capillary wall.															1m
+e	It protects us against disease by filtering out germs from the lymph at the lymph nodes. /
+It transports lipids from the lacteals in the villi of the small intestine to the blood.															1m	
+---------------------------------------------------
+
+
+Essays
+
+[10239275]
+// Communication // Basic concepts //
+*	Explain the changes of blood pressure as blood flows from arteries to veins.															(9 marks)
+
+-- answer --
+In arteries and arterioles, the blood pressure is high due to the pumping action of the heart.														1m
+It changes periodically as the heart contracts and relaxes.					1m
+The very small diameter of the capillaries results in a high resistance to blood flow. 																1m
+This leads to a significant drop in blood pressure along the capillaries.			1m
+In veins and venules, the blood has overcome great resistance of the blood vessel walls after travelling a long distance away from the heart. 						1m 
+The blood pressure becomes much lower.								1m
+Communication													3m	
+---------------------------------------------------
+
+
+[10239291]
+// Communication // Basic concepts //
+*	Describe the structure of arteries and veins. Explain how the features described help these blood vessels carry out their functions.					(9 marks)
+
+-- answer --
+Any six from: 												1m x 6
+Arteries have thicker walls.
+This allows the arteries to withstand high blood pressure.
+The walls of arteries contain a thicker layer of muscles.
+The muscles contract and relax to change the size of the lumen to regulate the amount of blood flow to different parts of the body. 
+The walls of arteries contain more elastic tissue. 
+The elastic tissue allows the arteries to distend and recoil to maintain a continuous blood flow.
+Veins have a larger lumen.
+This reduces the resistance to the blood flow inside the veins.
+Valves are present in veins. 
+They prevent the backflow of blood.
+Communication												3m	
+---------------------------------------------------
+
+[10239298]
+// Communication // Basic concepts //
+*	Explain how tissue fluid is formed and how it may be returned to the blood circulation.												(10 marks)
+
+-- answer --
+Any seven from: 											1m x 7
+At the arteriole end of the capillary bed, the pressure of blood in the capillaries is higher than the pressure of the fluid surrounding the body cells.
+This forces some components of the plasma out of the capillary walls to form tissue fluid.	
+Plasma proteins, red blood cells and blood platelets are too large to pass through the capillary walls. They remain in the blood. 
+White blood cells can squeeze through the capillary walls and enter the tissue fluid. 
+The composition of tissue fluid is similar to blood, except for the absence of red blood cells, blood platelets and plasma proteins.
+As plasma proteins remain in the blood, the water potential of the blood at the venule end of the capillaries is lower than that of the tissue fluid.
+Water in the tissue fluid is drawn into the capillaries by osmosis.
+Excess tissue fluid drains into the lymph capillaries.
+The lymphatic system helps carry excess tissue fluid to the blood circulation.
+Communication												3m	
+---------------------------------------------------
+
+

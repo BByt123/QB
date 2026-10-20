@@ -1,0 +1,2663 @@
+( Chapter 20		Photosynthesis
+
+Multiple-choice questions
+
+[10241537]
+// Scientific investigation // Experiment //
+(*	A student carried out an investigation into the requirements for photosynthesis. He put two similar potted plants with variegated leaves in darkness for 24 hours and then prepared two set-ups as shown below.
+	
+After 5 hours, the student picked a leaf from each of the set-ups and performed iodine test on the two leaves. The table below shows the results.
+	Set-up A	Set-up B	
+Green part of the leaf	brown	blue-black	
+Non-green part of the leaf	brown	brown	
+Which of the following conclusion(s) can be drawn from the results?
+(1)	Carbon dioxide is required for photosynthesis.
+(2)	Chlorophyll is required for photosynthesis.
+(3)	Light is required for photosynthesis.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10241546]
+// Graph interpretation // Experiment //
+(*	Directions: The following two questions refer to the graph below, which shows the effect of light intensity on the rate of photosynthesis of a kind of crop under different carbon dioxide concentrations and temperatures.
+	
+	Which of the following combinations about the factors that limit the rate of photosynthesis at points X, Y and Z is correct?
+	X	Y	Z	
+A	carbon dioxide concentration	light intensity	temperature	
+B	temperature	carbon dioxide concentration	light intensity	
+C	light intensity	temperature	carbon dioxide concentration	
+D	light intensity	carbon dioxide concentration	temperature	
+
+D	
+---------------------------------------------------
+
+[10241563]
+// Graph interpretation // Experiment //
+(*	Which of the following is the most probable explanation for the rate of photosynthesis at 0.1% CO2 and 25 °C beyond 4 units of light intensity?
+A	All reactants of photochemical reactions are used up.
+B	Enzymes involved in photosynthesis are denatured.
+C	All chloroplasts in the plants are engaged in photosynthesis.
+D	5-C compounds involved in the Calvin cycle are not regenerated fast enough.
+C	
+---------------------------------------------------
+
+[10241592]
+// High order thinking //
+(*	If the supply of carbon dioxide to a green plant is reduced, which of the following correctly describes the changes in the relative amounts of 5-C compound and triose phosphate involved in the Calvin cycle in the plant?
+
+	Relative amount of
+5-C compound	Relative amount of
+triose phosphate	
+A	increases	increases	
+B	increases	decreases	
+C	decreases	increases	
+D	decreases	decreases	
+
+B	
+---------------------------------------------------
+
+[10241593]
+// High order thinking // Experiment //
+(**DCPIP is a blue compound. When it accepts hydrogen, it becomes colourless. A student carried out an experiment to investigate the photochemical reactions of photosynthesis using DCPIP. He extracted the thylakoids from the chloroplasts of some plant cells. He then added some DCPIP solution into the thylakoids and put the mixture under bright light for a period of time. The diagram below shows the experimental set-up.
+
+	
+
+Which of the following statements correctly describe(s) the results of the experiment?
+(1)	Gas bubbles were produced during the experiment.
+(2)	The reaction mixture changed from blue to colourless.
+(3)	Iodine solution would turn blue-black when it is added into the reaction mixture.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+
+Note:
+Photochemical reactions took place in the thylakoids. Oxygen formed in photolysis of water was released as a gas.
+The reaction mixture changed from blue green to green due to the green colour of the chlorophyll present in the thylakoids.
+As no stroma was present in the reaction mixture, no carbohydrates could be synthesized. Therefore, iodine solution would remain brown.	
+---------------------------------------------------
+
+[10241605]
+// Data handling // Comparison // Applying concepts //
+(**Many microorganisms are present in seawater. Some of them are photosynthetic. A scientist took two seawater samples (X and Y) from two different locations of the sea. He added an equal volume of each sample into two test tubes, and placed one of them in light conditions, and the other in dark conditions. The changes in oxygen concentrations of the samples in the tubes in 24 hours were recorded. The table below shows the results.
+
+	X	Y	
+Change in oxygen concentration of the sample in light conditions (arbitrary unit)	+3.6	+3.6	
+Change in oxygen concentration of the sample in dark conditions (arbitrary unit)	-3.6	-6.0	
+
+Which of the following statements about the two samples placed in light conditions are correct?
+(1)	The rate of photosynthesis of the microorganisms in Y was higher than that of the microorganisms in X. 
+(2)	The rate of respiration of the microorganisms in Y was higher than that of the microorganisms in X.
+(3)	The net increase in the biomass of the microorganisms in Y was greater than that of the microorganisms in X. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10241613]
+// Experiment // Comparison // Applying concepts //
+(*	A scientist carried out an experiment about photosynthesis. He set up two test tubes using stroma and grana freshly isolated from chloroplasts. The two tubes were placed under bright light for 6 hours. 
+	
+Which of the following statements about the experiment are correct?
+(1)	The uptake of carbon dioxide in X was greater than that in Y.
+(2)	If the tubes were kept in darkness, the uptake of carbon dioxide in both tubes would decrease. 
+(3)	If NADPH and ATP were added to Y, the uptake of carbon dioxide in Y would increase.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3) 
+B	
+---------------------------------------------------
+
+[10241617]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a part of the transverse section of a leaf of a terrestrial plant.
+	
+Which of the labelled cell types absorbs most carbon dioxide on a sunny day?
+A	P
+B	Q
+C	R
+D	S
+B	
+---------------------------------------------------
+
+[10241639]
+// Applying concepts //
+(	Some crops are grown in a greenhouse. Which of the following actions cannot increase the productivity of the crops?
+A	turning on the carbon dioxide emission system during daytime
+B	turning on the heaters during daytime	
+C	turning on the carbon dioxide emission system at night
+D	turning on the lighting system at night
+C	
+---------------------------------------------------
+
+[10241641]
+// Experiment // Applying concepts //
+(*	Diagram I below shows a variegated leaf on a destarched plant. A student covered part of the leaf with a piece of black paper as shown in diagram II. After leaving the plant in bright light for 8 hours, he removed the leaf from the plant and tested the leaf for starch using the iodine test. 
+
+
+Which of the following correctly shows the results of the iodine test?
+A			B		
+C			D		
+
+C	
+---------------------------------------------------
+
+[10241656]
+// Applying concepts //
+(	Some unicellular algae are supplied with water labelled with radioactive oxygen 18O. Which of the following substances produced in the photosynthesis of the algae would contain 18O?
+(1)	oxygen
+(2)	triose phosphate
+(3)	glucose
+A	(1) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10241667]
+// High order thinking // Experiment //
+(*	Directions: The following three questions refer to the diagram below, which shows a set-up used to find out the rate of photosynthesis of a water plant. 
+
+ 	
+What will happen after half an hour?
+A	The plunger will go up.
+B	The liquid level in the syringe will go up.
+C	The liquid level in the graduated pipette will go up.
+D	The liquid level in the graduated pipette will go down.
+D	
+---------------------------------------------------
+
+[10241692]
+// High order thinking // Experiment //
+(*	After half an hour, 18 mm3 of gas is collected. What is the rate of photosynthesis per unit mass of the water plant?
+A	1.8 mm3 of oxygen production per hour per gram of water plant
+B	3.6 mm3 of oxygen production per hour per gram of water plant
+C	1.8 mm3 of carbon dioxide absorption per hour per gram of water plant
+D	3.6 mm3 of carbon dioxide absorption per hour per gram of water plant
+B	
+---------------------------------------------------
+
+[10241701]
+// High order thinking // Experiment //
+(*	Which of the following actions would not increase the rate of photosynthesis per unit mass of the water plant?
+A	adding more water plants to the syringe
+B	moving the table lamp closer to the syringe
+C	increasing the concentration of the hydrogencarbonate solution
+D	removing the glass block
+A	
+---------------------------------------------------
+
+[10241714]
+// Schematic diagram // Basic concepts //
+(	Below is a simplified diagram showing the photochemical reactions in photosynthesis.
+	
+What are products X and Y?
+	Product X				Product Y
+A	water					oxygen
+B	oxygen					water
+C	NADPH					ATP
+D	ATP						NADPH
+D	
+---------------------------------------------------
+
+
+[10241746]
+// Graph interpretation // Comparison //
+(*	The graph below shows the rate of photosynthesis of a plant under different environmental conditions.
+	
+Based on the graph, which factors are limiting the rate of photosynthesis at points M and N?
+	Point M						Point N
+A	temperature					light intensity
+B	light intensity					temperature
+C	light intensity					carbon dioxide concentration
+D	carbon dioxide concentration		light intensity
+B	
+---------------------------------------------------
+
+[10241748]
+// Data handling // Applying concepts //
+(*	Suppose plant X needs 2 units of carbon dioxide, 2 units of water and 3 units of light energy to produce 1 unit of glucose through photosynthesis. Under which of the following conditions is the photosynthesis of plant X limited by the amount of water available?
+
+	Units of carbon dioxide available to plant X	Units of water available to plant X	Units of light energy available to plant X	
+A	4	4	4	
+B	4	6	12	
+C	6	4	9	
+D	9	6	6	
+
+C	
+---------------------------------------------------
+
+[10241759]
+// Basic concepts //
+(	Which of the following statements about photosynthesis is/are correct?
+(1)	Heat energy is converted to chemical energy during photosynthesis.
+(2)	Photosynthesis is a process by which green plants make food.
+(3)	Water is a by-product in photosynthesis.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10241762]
+// Schematic diagram // Basic concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows a 3-D drawing of a chloroplast.
+
+	
+
+In which of the labelled parts do the reactions of photosynthesis take place?
+A	P and Q only
+B	Q and R only
+C	P, Q and S only
+D	P, Q, R and S
+C	
+---------------------------------------------------
+
+[10241767]
+// Schematic diagram // Basic concepts //
+(*	Which of the labelled parts contain chlorophyll?
+A	P and Q only
+B	Q and R only
+C	P, Q and S only
+D	P, Q, R and S
+A	
+---------------------------------------------------
+
+[10241782]
+// Experiment // Applying concepts //
+(*	Directions: The following two questions refer to the set-up below, which is used to investigate photosynthesis in a green plant. The plant was destarched before the set-up was placed under sunlight for 8 hours.
+	
+At the end of the experiment, starch was found in
+A	leaf X only.
+B	leaf Y only.
+C	leaf X and leaf Y.
+D	neither leaf X nor leaf Y.
+D	
+---------------------------------------------------
+
+[10241789]
+// Experiment // Applying concepts //
+(*	Arrange the following steps for testing the presence of starch in leaves X and Y in the correct order.
+(1)	Soak the leaves in hot water.
+(2)	Add iodine solution to the leaves.
+(3)	Boil the leaves in water for two minutes.
+(4)	Put the leaves in alcohol heated in a beaker of hot water.
+A	(1) ( (3) ( (4) ( (2)
+B	(2) ( (1) ( (3) ( (4)
+C	(3) ( (4) ( (1) ( (2)
+D	(4) ( (1) ( (3) ( (2)
+C	
+---------------------------------------------------
+
+
+[10241822]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the cross section of a chloroplast. 
+	
+Where are glucose and oxygen produced in the chloroplast?
+	Glucose			Oxygen
+A	   R			  P
+B	   R			  Q
+C	   Q			  P
+D	   Q			  R
+D	
+---------------------------------------------------
+
+[10241826]
+// Basic concepts //
+(	During photochemical reactions in photosynthesis,
+(1)	water molecules are split into hydrogen and oxygen.
+(2)	NADPH is formed from NADP.
+(3)	ATP is consumed.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10241845]
+// Schematic diagram // Basic concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows the reactions in the Calvin cycle.
+	
+Which steps require energy from energy carriers formed in photochemical reactions?
+A	I and II only
+B	I and III only
+C	II and III only
+D	II and IV only
+D	
+---------------------------------------------------
+
+[10241855]
+// Schematic diagram // Basic concepts //
+(*	Which of the following correctly describes the fate of the 6-C compound formed in step III?
+A	It is transported to the roots of plants for storage.
+B	It is built up to cellulose for making cell walls.
+C	It is stored in the cell as an energy reserve.
+D	It is synthesized into glycerol.
+B	
+---------------------------------------------------
+
+
+[10241858]
+// Basic concepts //
+(	Which of the following is/are not necessary for photosynthesis?
+A	chlorophyll
+B	light
+C	nitrogen
+D	enzymes
+C	
+---------------------------------------------------
+
+[10241886]
+// Photomicrograph // Basic concepts //
+(	The photomicrograph below shows the cross section of a dicotyledonous leaf.
+
+	
+
+Photosynthesis takes place in cells
+A	W and X only
+B	V, W and X only
+C	W, X and Y only
+D	W, X, Y and Z only
+C	
+---------------------------------------------------
+
+[10241892]
+// Photomicrograph // Comparison // Basic concepts //
+(	The photomicrograph below shows the cross section of a dicotyledonous leaf.
+	
+Which of the following comparisons between cells X and Y is correct?
+A	X has a cell wall while Y does not.
+B	X is rectangular in shape while Y is circular in shape.
+C	X contains chloroplasts while Y does not.
+D	When the cell becomes turgid, Y bends while X does not.
+D	
+---------------------------------------------------
+
+[10241901]
+// Schematic diagram //
+(	The diagram below shows the carbon fixation stage of photosynthesis.
+	
+What are X and Y?
+	X				Y
+A	carbon dioxide		glucose
+B	ADP			carbon dioxide
+C	water			hydrogen
+D	hydrogen			ADP
+A	
+---------------------------------------------------
+
+[10241905]
+// Graph interpretation // High order thinking //
+(*	The graph below shows the effect of carbon dioxide concentration on the rate of photosynthesis of a plant at two different light intensities. 
+
+	
+
+Which of the following are probably the limiting factors of the rate of photosynthesis at points P and Q?
+	P							Q
+A	light intensity 				light intensity	
+B	light intensity					carbon dioxide concentration
+C	carbon dioxide concentration 	light intensity
+D	carbon dioxide concentration		carbon dioxide concentration
+C	
+---------------------------------------------------
+
+[10241923]
+// High order thinking // Experiment // Comparison //
+(**Two variegated leaves were exposed to light and radioactive carbon dioxide (14CO2) was supplied to them for different periods of time. Photographic films were then used to detect the radioactivity in different areas of the two leaves.
+	
+Which of the following is the best explanation for the results?
+A	14CO2 diffuses into the green areas of the leaves faster than into the yellow areas.
+B	14CO2 can be assimilated in the areas of the leaf that lack chlorophyll.
+C	Photosynthetic products eventually spread throughout the leaf.
+D	Photosynthesis can take place slowly in the yellow areas.
+C	
+---------------------------------------------------
+
+[10241925]
+// Basic concepts //
+(	Which of the following is the essential link between photochemical reactions and the Calvin cycle of photosynthesis?
+A	splitting of water molecules
+B	carbon dioxide fixation
+C	raising the energy levels of chlorophyll molecules
+D	production of reduced hydrogen carriers
+D	
+---------------------------------------------------
+
+[10241928]
+// Graph interpretation // High order thinking //
+(**Air containing two kinds of oxygen, 16O2 and 18O2, was bubbled through an algal suspension. The air supply was then stopped and the concentrations of the two kinds of oxygen in the suspension were monitored in the following 55 minutes. During this period, the algal suspension was kept alternately in the dark and under light. The results are shown in the graph below.
+	
+Which of the following is a correct deduction from the results of the experiment?
+A	16O2 is involved in photosynthesis but not in respiration.
+B	18O2 is involved in respiration but not in photosynthesis.
+C	The alga is able to distinguish between the two kinds of oxygen.
+D	The rate of diffusion of 18O2 is lower than that of 16O2.
+C	
+---------------------------------------------------
+
+[10241929]
+// Applying concepts //
+(*	Photochemical reactions of photosynthesis can be made to occur experimentally in the absence of
+A	water.			B	carbon dioxide.
+C	chlorophyll.		D	ADP.
+B	
+---------------------------------------------------
+
+[10241930]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the Calvin cycle of photosynthesis.
+	
+Which of the following processes require energy from ATP?
+A	X and Y only			B	X and Z only
+C	Y and Z only			D	X, Y and Z
+C	
+---------------------------------------------------
+
+[10241934]
+// Data handling //
+(*	The table below shows the rate of photosynthesis of a water plant under five different conditions. 
+Condition	P	Q	R	S	T	
+Light intensity (arbitrary unit)	6	6	6	6	7	
+Carbon dioxide concentration (%)	0.03	0.03	0.13	0.13	0.03	
+Temperature (°C)	20	30	20	30	20	
+Rate of photosynthesis (arbitrary unit)	90	90	195	275	90	
+
+Which of the following are probably the limiting factors of the rate of photosynthesis under conditions P and R?
+	P							R
+A	temperature					light intensity
+B	light intensity					temperature
+C	carbon dioxide concentration 	temperature
+D	carbon dioxide concentration		carbon dioxide concentration
+C	
+---------------------------------------------------
+
+[10241935]
+// Experiment //
+(*	Directions: The following two questions refer to the diagram below, which shows a set-up used to study photosynthesis.
+
+	
+
+Dilute sodium hydrogencarbonate solution was used to
+(1)	supply Hydrilla with enough carbon dioxide.
+(2)	adjust the water to an optimum pH.
+(3)	provide Hydrilla with the minerals necessary for photosynthesis.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10241936]
+// Experiment //
+(*	If light intensity was the factor limiting the rate of photosynthesis during the experiment, which of the following changes would increase the rate in which gas bubbles given off by Hydrilla?
+A	Move the bench lamp to a place 1 m from the beaker.
+B	Move the bench lamp to a place 4 m from the beaker.
+C	Raise the temperature of the solution in the beaker by 10 °C.
+D	Double the concentration of the sodium hydrogencarbonate solution. 
+A	
+---------------------------------------------------
+
+[10241937]
+// High order thinking // Experiment //
+(**Chloroplasts extracted from plant cells were suspended in DCPIP solution and illuminated, as shown in the diagram below. Blue DCPIP solution decolourizes when it is reduced.
+
+	
+
+The DCPIP solution decolourized after 15 minutes because
+A	oxygen was released during photolysis of water.
+B	hydrogen was produced during photolysis of water.
+C	ATP was formed during photophosphorylation.
+D	carbon dioxide was reduced.
+B	
+---------------------------------------------------
+
+[10241943]
+// Applying concepts //
+(*	Which of the following chemicals are not available for the Calvin cycle of photosynthesis when a plant is kept in the dark?
+(1)	ATP
+(2)	NADPH
+(3)	carbon dioxide
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10241951]
+// Cross-topic // Schematic diagram //
+(*	The diagram below shows some tissues in the vein of a green leaf.
+
+	
+
+Tissue X contributes to photosynthesis of the leaf by
+(1)	carrying water to the leaf for photosynthesis.
+(2)	avoiding accumulation of photosynthetic products in the leaf by carrying them away.
+(3)	supporting and spreading the leaf blade to receive as much sunlight as possible.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10241958]
+// Basic concepts //
+(	Which of the following is not produced in the Calvin cycle of photosynthesis?
+A	ADP
+B	NADP
+C	triose phosphate
+D	oxygen
+D	
+---------------------------------------------------
+
+[10241972]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the Calvin cycle of photosynthesis.
+
+	
+
+What are X and Y?
+		X				Y
+A	light energy		oxygen
+B	carbon dioxide		NADPH
+C	carbon dioxide		glucose
+D	triose phosphate	glucose
+C	
+---------------------------------------------------
+
+[10241977]
+// High order thinking //
+(*	Which of the following are the uses of energy released from excited electrons in photochemical reactions of photosynthesis?
+(1)	synthesis of ATP
+(2)	reduction of NADP
+(3)	photolysis of water
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10242000]
+// Applying concepts //
+(*	Which of the following factors affect the rate of photochemical reactions of photosynthesis?
+(1)	carbon dioxide concentration
+(2)	light intensity
+(3)	water supply
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10242007]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows an organelle.
+
+	
+
+Which of the following cells contain the above organelle?
+(1)	leaf mesophyll cell of rice
+(2)	cell in a potato tuber
+(3)	green algal cell
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10242008]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the amounts of carbon dioxide absorbed by a green plant under different light intensities.
+	
+According to the graph above, which of the following statements is/are correct?
+(1)	At point P, the rate of photosynthesis is limited by light intensity.
+(2)	At point Q, the rate of photosynthesis is zero.
+(3)	At point R, the rate of photosynthesis is limited by factors other than light intensity.
+A	(1) only				B	(2) only
+C	(1) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10242023]
+// Basic concepts //
+(*	Some processes in photosynthesis are listed below. 
+X: NADP is reduced to form NADPH.
+Y: Triose phosphate combines to form glucose.
+Z: Carbon dioxide combines with a 5-C compound.
+
+Which of the following is the correct sequence of these processes?
+A	X, Y, Z
+B	X, Z, Y
+C	Y, X, Z
+D	Z, X, Y
+B	
+---------------------------------------------------
+
+[10242027]
+// Experiment // Applying concepts //
+(	A leaf picked from a destarched plant was covered with aluminium foil as shown in the diagram below. The leaf was exposed to sunlight for 8 hours and tested for starch afterwards.
+
+	
+
+In which region(s) was starch found?
+A	Y only
+B	W and Z only
+C	W, X and Z only
+D	W, X, Y and Z
+C	
+---------------------------------------------------
+
+[10242030]
+// Basic concepts //
+(	In photosynthesis, how many water and carbon dioxide molecules are needed to produce one glucose molecule? 
+	Number of water molecules	Number of carbon dioxide molecules	
+A	12	12	
+B	6	6	
+C	12	6	
+D	6	12	
+B	
+---------------------------------------------------
+
+[10242057]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the Calvin cycle of photosynthesis.
+
+	
+
+Which of the following correctly shows the numbers of carbon atoms in compounds X, Y and Z?
+		X		Y		Z
+A	5		6		3
+B	5		3		6
+C	3		3		5
+D	5		3		3
+D	
+---------------------------------------------------
+
+[10242071]
+// Basic concepts //
+(	Which of the following statements about photosynthesis is incorrect? 
+A	Oxygen is released during photosynthesis.
+B	Photosynthesis occurs in chloroplasts.
+C	All stages of photosynthesis require light.
+D	Organic substances are made from carbon dioxide and water during photosynthesis. 
+C	
+---------------------------------------------------
+
+[10242084]
+// Graph interpretation // High order thinking //
+(*	Directions: The following two questions refer to the graph below, which shows three curves (I, II and III) representing the rates of oxygen production of three plants, X, Y and Z, on a sunny day. The three plants were put under different conditions as shown in the table below. 
+Plant	Condition	
+X	In a greenhouse with 3% carbon dioxide	
+Y	In a greenhouse with 0.04% carbon dioxide (same concentration as in the atmosphere)	
+Z	In a shaded area	
+
+	
+Which plant does curve I represent?
+A	X			B	Y
+C	Z			D	cannot be determined 
+A	
+---------------------------------------------------
+
+[10242090]
+// Graph interpretation // High order thinking //
+(*	In the time period T, which factor was limiting the rate of photosynthesis of the plant represented by curve II?
+A	light intensity
+B	water supply
+C	amount of chlorophyll 
+D	carbon dioxide concentration
+D	
+--------------------------------------------------- 
+
+[10242118]
+// Scientific investigation //
+(*	The photograph below shows a plant. After destarching, the plant was exposed to sunlight for several hours. A leaf was then picked and tested for starch. The results show that starch was present in the green part but not in the white part of the leaf.
+	
+What conclusion can be drawn from the results?
+A	Carbon dioxide is necessary for the formation of starch.
+B	The hypothesis that starch is formed in the green part of the leaf is supported.
+C	An enzyme present in the white part of the leaf destroys the starch formed.
+D	Carbohydrates are transported from the white part to the green part of the leaf.
+B	
+---------------------------------------------------
+
+[10242125]
+// Basic concepts //
+(	Which of the following statements about chlorophyll are correct?
+(1)	It is green in colour.
+(2)	It is consumed during photosynthesis.
+(3)	It captures light energy.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10242126]
+// Experiment // Applying concepts //
+(*	The diagram below shows a set-up used to study photosynthesis of Hydrilla. The bench lamp is switched on and the set-up is left at room temperature for half a day.
+
+	
+
+Which of the following statements about gas X is incorrect?
+A	Gas X is produced in the photochemical reactions.
+B	Less gas X will be collected if Hydrilla is placed further away from the lamp.
+C	Gas X is produced from the splitting of carbon dioxide molecules.
+D	Gas X can relight a glowing splint.
+C	
+---------------------------------------------------
+
+[10242131]
+// Experiment // Basic concepts //
+(	Which of the following is/are required in an investigation of the need for chlorophyll in photosynthesis? 
+(1)	potassium hydroxide pellets
+(2)	black paper masks
+(3)	a plant with variegated leaves
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+C	
+---------------------------------------------------
+
+[10242154]
+// Basic concepts //
+(	Which of the following is the stage of photosynthesis in which carbon dioxide is fixed?
+A	photophosphorylation			B	the Calvin cycle
+C	photolysis of water				D	photochemical reactions
+B	
+---------------------------------------------------
+
+[10242159]
+// Experiment //
+(	Directions: The following two questions refer to the set-up below, which was used to investigate the effect of light intensity on the rate of photosynthesis. Light intensity was varied by placing the bench lamp at different distances from Hydrilla. The rate of photosynthesis was calculated from the change in the position of the meniscus in the pipette.
+	
+What is solution X and what is the purpose of using it?
+	Solution X	Purpose	
+A	distilled water	to provide a bacteria-free medium	
+B	glucose solution	to supply Hydrilla with food	
+C	dilute sodium hydrogencarbonate solution	to supply Hydrilla with carbon dioxide	
+D	potassium hydroxide solution	to absorb carbon dioxide released 	
+
+C	
+---------------------------------------------------
+
+[10242168]
+// Experiment //
+(	Which of the following shows the result of this experiment?
+A	The rate of photosynthesis decreases as the light intensity increases.
+B	The increase in the rate of photosynthesis stops after the light intensity has reached the saturation point.
+C	The rate of photosynthesis increases rapidly after the saturation point is reached.
+D	The rate of photosynthesis does not change under different light intensities.
+B	
+---------------------------------------------------
+
+[10242192]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the transverse section of a dicotyledonous leaf.
+
+	
+
+Which of the labelled cells can carry out photosynthesis?
+A	X only 
+B	Y only
+C	X and Y only 
+D	Y and Z only
+D	
+---------------------------------------------------
+
+[10242203]
+// Experiment //
+(*	Directions: The following two questions refer to the set-up below, which was used to investigate the need for carbon dioxide in photosynthesis. The set-up was placed under strong sunlight for 8 hours.
+
+	
+
+What is pellet X?
+A	carbon
+B	sulphur
+C	sodium chloride
+D	potassium hydroxide
+D	
+---------------------------------------------------
+
+[10242211]
+// Experiment //
+(*	After 8 hours, iodine solution was used to test for the presence of starch. The iodine solution turned blue-black in both leaves. Which of the following is a possible explanation for the results?
+A	An 8-hour exposure under strong sunlight was too long.
+B	A plant with variegated leaves was not used in this experiment.
+C	The plant was not put in the dark for at least 24 hours before the experiment.
+D	The whole set-up was not put in a vacuum container.
+C	
+---------------------------------------------------
+
+[10242251]
+// Applying concepts //
+(	Directions: The following two questions refer to the photograph below, which shows a variegated leaf. Parts X and Y are white and green respectively.
+
+	
+
+Which of the following organelles are present in the cells of part Y but not in the cells of part X?
+A	nuclei
+B	chloroplasts
+C	mitochondria
+D	vacuoles
+B	
+---------------------------------------------------
+
+[10242253]
+// Applying concepts //
+(	Why are the organelles stated in the above question important for photosynthesis?
+A	They release energy from food to drive the process.
+B	They possess a pigment to capture light energy.
+C	They carry genetic information to control cellular activities.
+D	They store water which is essential for photosynthesis.
+B	
+---------------------------------------------------
+
+[10242262]
+// Basic concepts //
+(	In the Calvin cycle of photosynthesis, which of the following substances is/are used?
+A	NADPH and ATP
+B	water and oxygen
+C	chlorophyll
+D	oxygen and triose phosphate
+A	
+---------------------------------------------------
+
+[10242275]
+// Basic concepts //
+(	Which of the following is/are the outcome(s) of photosynthesis?
+(1)	Oxygen concentration in the atmosphere is increased.
+(2)	Hydrogen concentration in the atmosphere is reduced.
+(3)	Glucose and other nutrients are synthesized.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10242277]
+// Basic concepts //
+(	Which of the following leaf cells can carry out photosynthesis?
+(1)	palisade mesophyll cell
+(2)	spongy mesophyll cell
+(3)	epidermal cell
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10242279]
+// Basic concepts //
+(	What are the advantages of growing crops in a greenhouse?
+(1)	better humidity control
+(2)	attracting insects for pollination
+(3)	better temperature control
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10242301]
+// Basic concepts //
+(	The starch stored in the leaves of a plant can be removed most effectively by putting the plant 
+A	in hot water.
+B	under bright light.
+C	under dim light.
+D	in the dark.
+D	
+---------------------------------------------------
+
+[10242315]
+// Basic concepts //
+(	Which of the following substances pass in and out of the leaves through the stomata?
+(1)	carbon dioxide
+(2)	oxygen
+(3)	water vapour
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+--------------------------------------------------- 
+
+[10242318]
+// Applying concepts //
+(*	Which of the following is most probably the factor limiting the rate of photosynthesis of the crops in a well-watered field on a hot, sunny day? 
+A	light intensity
+B	carbon dioxide concentration 
+C	availability of water
+D	temperature
+B	
+---------------------------------------------------
+
+[10242328]
+// Basic concepts //
+(	Which of the following substances can be synthesized from triose phosphate for making cell wall?
+A	glycerol				B	proteins
+C	cellulose				D	fatty acids
+C	
+---------------------------------------------------
+
+[10242346]
+// Basic concepts //
+(	Leaf is the main organ for
+A	the transport of food.
+B	photosynthesis.
+C	excretion.
+D	the storage of food.
+B	
+---------------------------------------------------
+
+[10242347]
+// Basic concepts //
+(	Water is transported to the leaf for photosynthesis by
+A	the stoma.			B	the phloem.
+C	the xylem.			D	the epidermis.
+C	
+---------------------------------------------------
+
+[10242358]
+// Applying concepts //
+(*	Under which of the following conditions is the rate of photosynthesis the highest?
+A	dim light, 20 °C and 0.04% CO2
+B	bright light, 20 °C and 0.04% CO2
+C	bright light, 20 °C and 0.01% CO2
+D	bright light, 15 °C and 0.04% CO2
+B	
+---------------------------------------------------
+
+[10242360]
+// Basic concepts //
+(	Which of the following occurs in the Calvin cycle of photosynthesis?
+A	release of oxygen
+B	absorption of light by chlorophyll
+C	oxidation of NADPH
+D	formation of ATP
+C	
+---------------------------------------------------
+
+[10242370]
+// Basic concepts //
+(*	Which of the following statements about photosynthesis is correct?
+A	Photochemical reactions occur only in the presence of light and the Calvin cycle occurs only in the absence of light.
+B	Chlorophyll is consumed during photosynthesis.
+C	Photosynthesis involves a series of reactions catalysed by enzymes.
+D	Photosynthesis can produce energy for the plants.
+C	
+---------------------------------------------------
+
+[10242373]
+// Basic concepts //
+(	The raw materials required for photosynthesis are
+A	carbon dioxide and oxygen.
+B	carbon dioxide and water.
+C	carbon dioxide, water and minerals.
+D	carbon dioxide, water, minerals and chlorophyll.
+B	
+---------------------------------------------------
+
+[10242375]
+// Basic concepts //
+(*	Which of the following statements about photosynthesis is incorrect?
+A	It occurs in all plant cells.
+B	Some of the reactions involved in the process are catalysed by enzymes. 
+C	Light energy is converted into chemical energy in the process.
+D	It allows an input of energy to ecosystems.
+A	
+---------------------------------------------------
+
+[10242401]
+// Experiment //
+(*	Destarching of plants is not needed when
+A	we investigate the kind of gas released during photosynthesis.
+B	we investigate the need for light in photosynthesis.
+C	we investigate the need for carbon dioxide in photosynthesis.
+D	we investigate the need for chlorophyll in photosynthesis.
+A	
+---------------------------------------------------
+
+[10242439]
+// Basic concepts //
+(	Which of the following reactions in photosynthesis does not require energy?
+A	Photolysis of water
+B	Carbon dioxide fixation
+C	Reduction of 3-C compound in the Calvin cycle
+D	Regeneration of 5-C compound in the Calvin cycle
+B	
+---------------------------------------------------
+
+[10242451]
+// Basic concepts //
+(	Which of the following statements about the Calvin cycle of photosynthesis is correct?
+A	The Calvin cycle does not require light.
+B	The Calvin cycle occurs only in the absence of light.
+C	Oxygen is produced as a by-product in the Calvin cycle.
+D	Water and carbon dioxide combine to form glucose in the Calvin cycle.
+A	
+---------------------------------------------------
+
+[10242452]
+// Basic concepts //
+(	Photosynthetic products are used by plants in the synthesis of 
+(1)	amino acids.
+(2)	cellulose.
+(3)	glycerol and fatty acids.
+A	(2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+--------------------------------------------------- 
+
+[10242453]
+// Basic concepts //
+(	The photograph below shows a building.
+
+	
+
+Growing crops in this building can increase crop yield. This is because
+(1)	the carbon dioxide concentration inside the building can be increased.
+(2)	the building can protect the crops from being damaged by pests.
+(3)	a constant temperature can be kept inside the building.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10242457]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the structure of a dicotyledonous leaf.
+
+	
+
+Which layer of cells contains the highest density of chloroplasts?
+A	P
+B	Q
+C	R
+D	S
+B	
+---------------------------------------------------
+
+[10242460]
+// Schematic diagram // Basic concepts //
+(	Which of the following statements about the labelled layers is incorrect?
+A	Layer Q is on the upper side of the leaf, allowing effective absorption of sunlight. 
+B	Layer R contains a tissue that transports water to the leaf.
+C	There are many air spaces in layer R.
+D	No photosynthesis occurs in layer S.
+D	
+---------------------------------------------------
+
+[10242472]
+// Basic concepts //
+(	In the leaves of dicotyledonous plants, what is glucose converted to for storage?
+A	glycogen
+B	maltose
+C	sucrose
+D	starch
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10242603]
+// High order thinking // Comparison //
+(*	The photograph below shows some leaves at the top of the canopy of a tree.
+
+	
+a	Would you expect a leaf taken from the bottom of the canopy of the same tree to be larger or smaller than the leaf shown above? Explain your answer.													(2 marks)
+b	Comparing the leaf at the top of the canopy and that at the bottom of the canopy, suggest
+i	one difference in their palisade mesophyll cells and its significance.													(2 marks)
+ii	one difference in the structure of their chloroplasts and its significance.												(2 marks)
+-- answer --
+a	Larger.													1m
+This allows the leaf to capture light escaped through the top of the canopy.	1m
+b	i	The palisade mesophyll cells in the leaf at the bottom of the canopy contain more chloroplasts.										1m
+This allows the leaf at the bottom of the canopy to absorb sunlight more efficiently under dim light conditions.							1m
+ii	The chloroplasts in the leaf at the bottom of the canopy have more grana / thylakoids.												1m
+This provides a larger surface area to pack more chlorophyll for absorbing more sunlight.											1m	
+---------------------------------------------------
+
+[10242611]
+// Scientific investigation // High order thinking // Experiment //
+(*	A scientist carried out an experiment to study photosynthesis. He prepared three test tubes (P, Q and R) containing different components of chloroplasts. He placed the tubes under sunlight at room temperature with a supply of 14CO2. After 5 hours, he measured the uptake of 14CO2 in each tube. The table below shows the content in each tube and the results obtained.
+Tube	Content	Uptake of 14CO2 
+(arbitrary unit)	
+P	Stroma and thylakoids	5000	
+Q	Stroma, ATP and NADPH	5200	
+R	Stroma	230	
+
+a	Describe and explain the results in tube P and tube Q.			(3 marks)
+b	Explain why the uptake of 14CO2 in tube R is smaller than that in tube Q.														(2 marks)
+c	If the experiment was carried out in the dark, what would be the expected uptake of 14CO2 in tube P? Explain your answer.				(2 marks)
+
+-- answer --
+a	The uptake of 14CO2 in both tube P and tube Q was high.				1m
+Tube P contained thylakoids. Photochemical reactions could take place to produce ATP and NADPH. With the supply of ATP and NADPH, carbon fixation took place in the stroma and carbon dioxide was consumed.					1m
+Tube Q contained ATP and NADPH. Carbon fixation took place in the stroma and carbon dioxide was consumed.									1m
+b	Without ATP and NADPH, less 3-C compound was converted to triose phosphate															1m
+and hence less triose phosphate was converted to 5-C compound to fix carbon dioxide.													1m
+c	230 units													1m
+because photochemical reactions would not take place and ATP and NADPH would not be produced.										1m	
+---------------------------------------------------
+
+[10242613]
+// Overseas exam question // Photomicrograph // Basic concepts //
+(*	The photograph below is an electron micrograph of part of a chloroplast.
+	
+a	Name the structures labelled 1 to 3.						(3 marks)
+b	Where in the chloroplast does each of the following processes take place?
+i	Photophosphorylation								(1 mark)
+ii	Fixation of carbon dioxide							(1 mark)
+CCEA GCE (A) Biology Module 4 Jan 2007 Q6b
+
+-- answer --
+a	1: inner and outer membranes / double membrane					1m
+2: stroma													1m
+3: granum													1m
+b	i	Thylakoids												1m
+ii	Stroma												1m	
+---------------------------------------------------
+
+[10242618]
+// Overseas exam question // Scientific investigation // Experiment //
+(	The diagram shows apparatus used to investigate the effect of light on the release of oxygen during photosynthesis by an aquatic plant.
+	
+a	Suggest why the boiling tube containing the aquatic plant is placed in a beaker of water.										(1 mark)
+b	Suggest how the apparatus is used to measure the rate of oxygen production at a particular light intensity.								(3 marks)
+c	Suggest one reason why the oxygen released by the plant is an underestimation of the oxygen produced by photosynthesis.		(1 mark)
+CCEA GCSE (AS) Science Double Award B Higher Tier Modular Test A Feb
+2011 Q11
+-- answer --
+a	The beaker of water prevents the boiling tube from warming up. / To maintain a constant temperature.										1m
+b	Allow the apparatus to equilibrate. / Leave the apparatus for a period of time.															1m
+Draw the oxygen collected into the calibrated capillary tube (using a syringe). / Measure the length of the air column in the syringe.					1m
+The rate is the volume of oxygen produced per minute / unit time.		1m
+c	Some oxygen is used in respiration. / Some of the oxygen dissolves in the water. / Oxygen could escape from the apparatus.							1m	
+---------------------------------------------------
+
+[10242626]
+// Cross-topic // Scientific investigation // Graph interpretation //
+(**A scientist genetically modified some unicellular green algae. The modified algae have a membrane protein which is not found in the unmodified algae. He compared the growth rates of the unmodified algae and the modified algae under three different conditions. The graphs below show the results obtained.
+	
+
+a	i	Compare the effects of adding glucose on the growth rates of the algae.													(2 marks)
+ii	Hence, suggest a function for the membrane protein in the modified algae.											(2 marks)
+b	In the production of biofuel, algae are grown in ponds and the carbohydrates produced in the algae are used to make ethanol. With reference to the results of the above experiment, suggest how the genetically modified algae may be useful in the production of biofuel.															(3 marks)
+
+-- answer --
+a	i	Adding glucose did not have any effects on the growth rate of unmodified algae,												1m
+but it increased the growth rate of the modified algae after 2 days.	1m
+ii	The increased growth rate of modified algae may be due to an increased amount of glucose that can be used by the algae.				1m
+The membrane protein may allow the movement of glucose from the medium into the algae.											1m
+b	In the ponds, the algae near the light source can obtain sufficient light for photosynthesis, while those further away from the light source may not get sufficient light for photosynthesis.								1m
+Modified algae can grow at a higher rate without light when glucose is present in the medium.												1m
+Hence, using them in the production of biofuel may increase the productivity.															1m
+Note:
+The algae further away from the light source may be shaded by other algae, and thus cannot get sufficient light for photosynthesis. Their growth rate is low and they produce fewer carbohydrates for the production of biofuel.
+
+	
+
+---------------------------------------------------
+
+
+[10242635]
+// High order thinking // Schematic diagram // Applying concepts //
+(*	The diagram below shows the events that occur in a membrane of a plant cell when light shines on a plant.
+	
+
+a	Name the membrane.									(1 mark)
+b	Suggest one advantage of having the chlorophyll and the electron carriers shown in the diagram embedded in the same membrane. 		(1 mark)
+c	A certain herbicide works by binding to one of the electron carriers. Suggest how this herbicide causes plants to die. Explain your answer. 														(4 marks)
+
+-- answer --
+a	Thylakoid membrane											1m
+b	This ensures they are held close together for efficient transport of electrons.	1m
+c	Binding of the herbicide to the electron carrier stops the transport of electrons.															1m
+No ATP and NADPH can be produced. 							1m
+Without ATP and NADPH, the Calvin cycle cannot occur.				1m
+No glucose can be synthesized. When the stored food of the plants is used up for respiration, the plants die.										1m	
+---------------------------------------------------
+
+[10242645]
+// Data handling // High order thinking //
+(*	A farmer grows a crop plant in a simple greenhouse which does not have lighting facilities. The table below shows the rate of photosynthesis of the plant under different environmental conditions. 
+Light intensity (arbitrary unit)	Rate of photosynthesis (arbitrary unit)	
+	0.04% carbon dioxide, 15 °C	0.04% carbon dioxide, 25 °C	0.4% carbon dioxide, 25 °C	
+2	0.9	0.9	0.9	
+4	1.5	1.8	1.8	
+6	1.5	2	2.7	
+8	1.5	2	3	
+
+a	State the factor that is limiting the rate of photosynthesis of the plant when the plant is under the following conditions. 
+i	Light intensity of 4 arbitrary units, 0.04% carbon dioxide, 25 °C
+ii	Light intensity of 6 arbitrary units, 0.04% carbon dioxide, 25 °C															(2 marks)
+b	The farmer is planning to increase the carbon dioxide concentration in the greenhouse in order to increase the profit. Would you advise him to increase the carbon dioxide concentration throughout the whole day or just during the daytime? Explain your answer.							(4 marks)
+
+-- answer --
+a	i	Light intensity											1m
+ii	Carbon dioxide concentration								1m
+b	I would advise him to increase the carbon dioxide concentration just during the daytime.													1m
+At night, the light intensity is low. The rate of photosynthesis of the plant is probably limited by light intensity. 								1m
+An increase in carbon dioxide concentration during this period would not cause any increase in the rate of photosynthesis of the plant. 				1m
+It would not result in any increase in yield and would be a waste of money. 	1m	
+---------------------------------------------------
+
+[10242677]
+// Photomicrograph // Basic concepts //
+(	The electron micrograph below shows part of a chloroplast. 
+
+	
+
+Use the letters in the electron micrograph to complete the following table.	
+														(5 marks)	
+Description	Letter	
+Where chlorophyll is present		
+Where there is a large amount of starch		
+Where there is a high concentration of carbon dioxide acceptor		
+Where oxygen is produced		
+Where NADPH becomes NADP		
+
+-- answer --
+															1m x 5
+Description
+Letter
+
+Where chlorophyll is present
+W
+
+Where there is a large amount of starch
+X
+
+Where there is a high concentration of carbon dioxide acceptor
+Y
+
+Where oxygen is produced
+W
+
+Where NADPH becomes NADP
+Y
+
+	
+---------------------------------------------------
+
+[10242680]
+// Data handling // Experiment // Communication //
+(*	A student cut 10 leaf discs from a terrestrial plant and put them in a beaker of water. Initially, the leaf discs sank to the bottom. When light was shone on the beaker, the leaf discs began to rise to the water surface. He measured the time taken for 5 leaf discs to rise to the water surface.
+
+	
+
+He altered the light intensity by varying the distance of the light source from the beaker and repeated the above procedure a few more times. The table below shows the results.
+
+Light intensity 
+(arbitrary unit)	10	20	30	40	50	
+Time (s)	206	167	98	42	20	
+
+a	Suggest why the student measured the time taken for 5 leaf discs to rise to the water surface, rather than all the leaf discs.				(1 mark)
+b	Describe and explain the trend shown by the results in the table.	(4 marks)
+
+-- answer --
+a	To reduce the effect of anomalous results. /
+To prevent bias caused by stacking of leaf discs.						1m
+b	The time decreases as light intensity increases.						1m
+Higher light intensities increase the rate of photosynthesis in the leaf discs,	1m
+and hence oxygen is produced at a higher rate.						1m
+Enough oxygen is produced within a shorter time to lift the leaf discs to the water surface.													1m	
+---------------------------------------------------
+
+[10242681]
+// Data handling // High order thinking // Experiment //
+(**In an experiment, 3 groups of unicellular algae are exposed to light flashes alternate with different duration of darkness. The total duration of light flashes in each group is one minute and the amounts of photosynthetic products are measured. The table below shows the results.
+
+Duration of light flashes (ms)	Duration of darkness between light flashes (ms)	Amount of photosynthetic products per light flash (arbitrary unit)	
+3	3	4	
+3	17	8	
+3	400	8	
+
+a	Explain why the light flashes in the experiment should be bright and the algae should be supplied with a large amount of carbon dioxide.	(1 mark)
+b	Reactions in the light-independent stage of photosynthesis are much slower than those in the light-dependent stage. Support this statement with evidence from the results.								(2 marks)
+c	Why does the amount of photosynthetic products not increase when the duration of darkness is increased from 17 to 400 ms?			(2 marks)
+-- answer --
+a	To ensure light intensity and carbon dioxide concentration are not the limiting factors in the photosynthesis of the algae.							1m
+b	As the duration of darkness increases from 3 to 17 ms and the amount of light remains unchanged,											1m
+there is an increase in the amount of photosynthetic products from 4 to 8 arbitrary units.														1m
+c	Products from the light-dependent stage are used in the light-independent stage.															1m
+The products from the light-dependent stage are used up.				1m	
+---------------------------------------------------
+
+[10242740]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the cross section of a dicotyledonous leaf.
+	
+Describe the adaptive features of the following parts of the leaf for photosynthesis:
+a	Part A												(2 marks)
+b	Part B												(2 marks)
+c	Part C												(2 marks)
+
+-- answer --
+a	It is covered by a layer of cuticle.								1m
+This can reduce water loss from the leaf, so that water is kept inside for photosynthesis.												1m
+b	The cells are tightly packed and contain many chloroplasts.				1m
+This allows effective absorption of sunlight for photosynthesis.			1m
+c	There are many air spaces among the cells.						1m
+This allows gases to diffuse freely, so that carbon dioxide can reach the cells and oxygen can leave the cells.									1m	
+---------------------------------------------------
+
+
+[10242742]
+// Experiment //
+(	The set-up below can be used to study photosynthesis in green water plants. The set-up is put under bright light for five hours.
+
+	
+
+a	Suggest what solution X is. Explain why it is used in the set-up.	(2 marks)
+b	What should be done after five hours to confirm whether the Hydrilla has carried out photosynthesis?								(2 marks)
+
+-- answer --
+a	Sodium hydrogencarbonate solution								1m
+To provide carbon dioxide for the Hydrilla to carry out photosynthesis.		1m
+b	Remove the test tube and test the gas collected in the test tube with a glowing splint.													1m
+If the glowing splint relights, this indicates oxygen is produced by the Hydrilla during photosynthesis.										1m	
+---------------------------------------------------
+
+
+[10242745]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the change in the rate of photosynthesis of a plant at different temperatures and carbon dioxide concentrations when light intensity increases.
+	
+a	What is the factor limiting the rate of photosynthesis at	
+i	point X?											(1 mark)
+ii	point Y?											(1 mark)
+iii	point Z?											(1 mark)
+b	Describe and explain the effect of light intensity on the rate of photosynthesis as the light intensity increases from 0 unit to 3 units.															(2 marks)
+c	Describe and explain the effect of carbon dioxide concentration on the rate of photosynthesis as the carbon dioxide concentration increases from 0.04% to 0.1% above 10 units of light intensity.					(2 marks)
+-- answer --
+a	i	Light intensity											1m
+ii	Temperature											1m
+iii	Carbon dioxide concentration								1m
+b	As the light intensity increases from 0 unit to 3 units, the rate of photosynthesis increases proportionately with light intensity						1m
+because more energy is supplied to the photochemical reactions.			1m
+c	Above 10 units of light intensity, as the carbon dioxide concentration increases from 0.04% to 0.1%, the rate of photosynthesis increases				1m
+because more substrates are supplied to the Calvin cycle.				1m	
+---------------------------------------------------
+[10242750]
+// Design experiment // Data handling //
+(*	A student prepared five leaf discs and put them in a tube containing sodium hydrogencarbonate solution. The discs sank to the bottom of the tube at the beginning of the experiment. When the tube was exposed to light, gas bubbles began to form on the leaf discs, causing the leaf discs to rise to the surface of the solution.
+	
+The student placed the table lamp at different distances from the tube and measured the time taken for all the five leaf discs to rise to the surface of the solution. The results are shown in the table below.
+Distance of the table lamp from the tube (cm)	Time taken for all the five leaf discs to rise to the surface (min)	
+20	4	
+40	10	
+60	35	
+80	36	
+a	What was the gas in the bubbles on the leaf discs?			(1 mark)
+b	Describe and explain the results of the experiment. 			(2 marks)
+c	Describe how the student should modify the set-up if he wanted to use it to study the effect of carbon dioxide concentration on the rate of photosynthesis.										(1 mark)
+-- answer --
+a	Oxygen													1m
+b	As the distance of the table lamp from the tube increased, light intensity decreased and the rate of photosynthesis of the leaf discs decreased.				1m
+Oxygen was produced at a lower rate, so the time taken for the leaf discs to rise to the surface of the solution increased.								1m
+c	Fix the position of the table lamp and change the concentration of the sodium hydrogencarbonate solution in the tube.							1m	
+---------------------------------------------------
+[10242776]
+// Graph interpretation // High order thinking // Experiment //
+(**A scientist used a unicellular alga to study photosynthesis. The graph below shows the changes in the amounts of a 3-C compound and a 5-C compound produced in the Calvin cycle before and after light was switched off in an experiment. All other conditions were kept constant.
+	
+a	Account for the changes in the amounts of the 3-C compound and the 5-C compound when the light was on.							(4 marks)
+b	Account for the changes in the amounts of the 3-C compound and the 5-C compound after the light was switched off.					(2 marks)
+-- answer --
+a	When light was on, NADPH and ATP were produced in the photochemical reactions.													1m
+In the presence of NADPH and ATP, the 3-C compound was reduced to triose phosphate continuously. On the other hand, the 3-C compound was produced continuously by combining 5-C compounds with carbon dioxide.			1m
+In the presence of NADPH and ATP, the 5-C compound was regenerated continuously by using some of the triose phosphate. On the other hand, the 5-C compounds continuously combined with carbon dioxide to produce the 3-C compound. 												1m
+As a result, the amounts of the 3-C compounds and the 5-C compounds remained constant.													1m
+b	Without NADPH and ATP from photochemical reactions, triose phosphate could not be formed from the 3-C compound, therefore the 3-C compound accumulated.														1m
+Without triose phosphate, the 5-C compound could not be regenerated. Therefore the amount of the 5-C compound decreased.						1m	
+---------------------------------------------------
+
+[10242780]
+// High order thinking //
+(*	a	i	Name the two products produced in photochemical reactions of photosynthesis which are used in the Calvin cycle. 		(2 marks)
+ii	Describe how each product is used in the Calvin cycle.		(2 marks)
+b	A photosynthetic bacterium carries out photosynthesis that is different from that in green plants. The equation for the process of photosynthesis in this bacterium is shown below. 
+	
+What is the function of hydrogen sulphide in photosynthesis?	(2 marks)
+
+-- answer --
+a	i	ATP													1m
+NADPH												1m
+ii	ATP provides energy for the reduction of the 3-C compound into triose phosphate / the regeneration of the 5-C compound.				1m
+NADPH provides hydrogen for the reduction of the 3-C compound into triose phosphate.											1m
+b	To donate hydrogen											1m
+for the reduction of the 3-C compound into triose phosphate.			1m	
+---------------------------------------------------
+
+[10242783]
+// Schematic diagram // Applying concepts //
+(*	The diagram below summarizes reactions that occur in chloroplasts.
+
+	
+a	Name X and Y.										(2 marks)
+b	State the parts of chloroplasts where the following stages of photosynthesis occur.
+i	photochemical reactions								(1 mark)
+ii	the Calvin cycle									(1 mark)
+c	If Y is labelled with radioactive hydrogen, will the glucose formed in photosynthesis contain radioactivity? Explain your answer.		(2 marks)
+-- answer --
+a	X: phosphate												1m
+Y: water													1m
+b	i	Thylakoids / grana										1m
+ii	Stroma												1m
+c	The glucose formed will contain radioactivity.						1m
+It is because the hydrogen in Y will enter the Calvin cycle and be incorporated into glucose.													1m	
+---------------------------------------------------
+
+[10242793]
+// High order thinking // Experiment // Communication //
+(**A scientist obtained some chloroplasts from plant cells and separated the stroma and the grana of the chloroplasts. He then set up the following test tubes, placed them under light and measured the rate of carbon dioxide uptake in the two test tubes. 
+Tube	Contents	Rate of carbon dioxide uptake (arbitrary unit)	
+X	Stroma	4000	
+Y	Stroma + grana	96 000	
+
+a	Explain why the rate of carbon dioxide uptake in tube X was much lower than tube Y. 											(4 marks)
+b	How would the rate of carbon dioxide uptake change if tube Y was put in the dark?												(1 mark)
+
+-- answer --
+a	Photochemical reactions of photosynthesis occur in the thylakoids of the grana. 															1m
+Without grana, photochemical reactions did not occur in tube X. No NADPH and ATP were produced. 										1m
+The 3-C compound could not be reduced into triose phosphate and the 5-C compound could not be regenerated. 							1m
+Less 5-C compound was present to accept carbon dioxide, thus the rate of carbon dioxide uptake was much lower. 								1m
+b	The rate of carbon dioxide uptake would decrease to about 4000 arbitrary units. 														1m	
+---------------------------------------------------
+
+[10242846]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Read the following article and answer the questions.
+
+	The use of fossil fuels is increasing. Burning of fossil fuels releases carbon dioxide into the atmosphere. This increases the atmospheric carbon dioxide level and leads to problems like global warming and climate change.
+	Despite the many problems caused, some scientists found that the increase in carbon dioxide level may increase crop yield.	
+
+a	Explain why an increase in carbon dioxide level may increase crop yield.														(2 marks)
+b	State one change caused by global warming that contributes to an increase in crop yield.											(1 mark)
+c	Despite an increase in carbon dioxide level, crop yield in shaded areas does not change much. Explain why.							(2 marks)
+
+-- answer --
+a	As carbon dioxide level increases, more substrates are supplied to the Calvin cycle of photosynthesis.										1m
+Therefore, the rate of photosynthesis increases.						1m
+b	Increase in temperature										1m
+c	In shaded areas, the light intensity is low.							1m
+Light intensity is the limiting factor of the rate of photosynthesis. / Carbon dioxide level is not the limiting factor of the rate of photosynthesis.				1m	
+---------------------------------------------------
+
+[10242864]
+// Schematic diagram // Applying concepts //
+(	The diagram below shows the structure of a chloroplast.
+
+	
+
+a	Name X and Y.										(2 marks)
+b	Where is chlorophyll located in X?						(1 mark)
+c	Describe how the structure of Y is adapted to photosynthesis.	(2 marks)
+d	Starch grains are usually found in the stroma of chloroplasts. Explain why starch grains will disappear if the plant is kept in the dark for one day.															(2 marks)
+
+-- answer --
+a	X: thylakoid												1m
+Y: granum													1m
+b	On the thylakoid membrane									1m
+c	Y contains a large number of thylakoids arranged in stacks. This provides a large surface area to pack more chlorophyll for absorbing light.				1m
+Y is interconnected with other grana by extensions from the thylakoids. This allows efficient transport of photosynthetic products within the chloroplast. 		1m
+d	In the dark, photosynthesis stops and no starch will be produced. 		1m
+Starch grains in the chloroplasts will be converted to sucrose and transported out of the leaf to other parts of the plant.								1m	
+---------------------------------------------------
+
+[10242881]
+// Experiment //
+(	The diagram below shows a set-up that was used to investigate the requirements for photosynthesis. The leaf was tested for starch using iodine solution after the set-up was exposed to sunlight for 5 hours.
+	
+a	Describe how we can test the leaf for starch.					(4 marks)
+b	What was the result of the test? Explain your answer.			(2 marks)
+-- answer --
+a	Boil the leaf in water for a minute.								1m
+Put the leaf into alcohol that is warmed in hot water.					1m
+Then transfer the leaf to hot water again.							1m
+Add iodine solution onto the surface of the leaf and observe any colour change.															1m
+b	The iodine solution remained brown.								1m
+Photosynthesis could not occur without carbon dioxide.				1m	
+---------------------------------------------------
+
+[10242883]
+// Scientific investigation // Data handling // High order thinking //
+(**A student carried out an experiment to study the effect of light intensity on the rate of photosynthesis. He cut some discs from several leaves and put the leaf discs into four beakers of dilute sodium hydrogencarbonate solution. The beakers were then put at different distances from a bench lamp. 
+
+	
+
+Initially all leaf discs sank to the bottom of the beakers, but then they began to rise to the surface of the solution. The time taken for all the leaf discs in different beakers to rise to the surface was recorded as follows:
+Distance from the lamp (cm)	25	50	75	100	
+Average time taken (min)	18	25	54	98	
+
+a	What is the function of dilute sodium hydrogencarbonate solution in the experiment?											(1 mark)
+b	State two precautions that should be taken when cutting the leaf discs to ensure the experiment is a fair test.							(2 marks)
+c	Explain why the leaf discs rose to the surface of the solution.	(3 marks)
+d	What can you conclude from the results?					(1 mark)
+
+-- answer --
+a	To supply the leaf discs with carbon dioxide for carrying out photosynthesis.																1m
+b	The leaf discs should be cut from the same plant / same leaf.			1m
+The leaf discs should be of the same diameter / surface area.			1m
+c	Under light, the leaf discs carried out photosynthesis.					1m
+Oxygen was produced during the process. 						1m
+The leaf discs became less dense / more buoyant, thus they rose to the surface.															1m
+d	The nearer the light source / the greater the light intensity, the higher the rate of photosynthesis.												1m	
+--------------------------------------------------- 
+
+[10242884]
+// Data handling // Experiment // Calculation //
+(*	A student investigated the need for light in photosynthesis. He used the following three set-ups.
+	
+X and Y were put under sunlight, while Z was kept in the dark. The change in volume of gas in the test tubes after 1 hour is shown in the table below.
+Set-up	Change in volume of gas (cm3)	
+X	0	
+Y	+0.37	
+Z	-0.04	
+
+a	Explain why the volume of gas in Z decreased.				(1 mark)
+b	Oxygen was produced in Y as Hydrilla carried out photosynthesis.
+i	Estimate the rate of photosynthesis in set-up Y (express in cm3 oxygen produced per hour).									(1 mark)	
+ii	Describe the process in which oxygen was produced.		(4 marks)
+
+-- answer --
+a	It was because oxygen was used for respiration of Hydrilla.				1m
+b	i	0.37 - (-0.04) = 0.41 cm3 oxygen per hour						1m
+ii	Chlorophyll molecules captured light energy and some electrons of the chlorophyll molecules were raised to higher energy levels. 			1m
+Energy was released when the excited electrons passed through the electron transport chain.											1m
+Part of the energy released was used to split water molecules into hydrogen and oxygen (photolysis of water).  							1m
+Oxygen was released as a gas.								1m	
+---------------------------------------------------
+
+[10242910]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the first stage of photosynthesis.
+
+	
+
+a	Where precisely in the chloroplast do the above reactions take place? 														(1 mark)
+b	What is the electron transport chain composed of?			(1 mark)
+c	Energy in the excited electrons is released when the excited electrons pass through the electron transport chain. Some of the energy released is used to split water molecules. State another use of the energy.			(1 mark)
+d	Water molecules are split into hydrogen and oxygen during photosynthesis. What is the fate of the hydrogen and oxygen produced?		(2 marks)
+
+-- answer --
+a	In the thylakoids											1m
+b	It is composed of a series of electron carriers in the thylakoid membrane.	1m
+c	It is used to form ATP in photophosphorylation / used in combining ADP with a phosphate. / It is converted to chemical energy stored in ATP.			1m
+d	Hydrogen is accepted by NADP to form NADPH.						1m
+Oxygen is released as a gas to the atmosphere.						1m	
+---------------------------------------------------
+
+
+[10242919]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the Calvin cycle of photosynthesis.
+
+	
+
+a	Where precisely in the chloroplast do the above reactions occur? 															(1 mark)
+b	Explain why these reactions are also called dark reactions.		(1 mark)
+c	Add an arrow on the diagram to show where carbon dioxide enters the cycle.												(1 mark)
+d	i	Two chemicals required by the Calvin cycle are produced in photochemical reactions. What are they?				(2 marks)
+ii	State the function of each of the two chemicals stated in i. 	(2 marks)
+
+-- answer --
+a	In the stroma											1m
+b	They do not require light / can occur in the dark.					1m
+c	Arrow marked between the 5-C compound and the 3-C compound	1m
+d	i	ATP and NADPH					 				1m x 2
+ii	ATP provides energy for the reduction of the 3-C compound to triose phosphate and the regeneration of the 5-C compound.		1m
+NADPH provides hydrogen for the reduction of the 3-C compound to triose phosphate.										1m	
+---------------------------------------------------
+
+[10242926]
+// Graph interpretation // High order thinking //
+(*	The graph below shows the rate of photosynthesis of two species of plants (M and N) under different light intensities.
+	
+a	The rate of photosynthesis of M levels off when the light intensity reaches point P. 
+i	Name point P.										(1 mark)
+ii	Explain why the rate levels off.						(2 marks)
+b	Which species, M or N, is better adapted to grow indoors? Explain.															(2 marks)
+-- answer --
+a	i	Saturation point											1m
+ii	At light intensities higher than the saturation point, light intensity is no longer the limiting factor for the rate of photosynthesis.					1m
+Other factors like carbon dioxide concentration, temperature, amount of chlorophyll or the amount of enzymes are limiting.				1m
+b	N														1m
+It reaches its maximum rate of photosynthesis at a lower light intensity.	1m	
+---------------------------------------------------
+
+[10242937]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+In photochemical reactions of photosynthesis, a                      molecules capture light energy and some electrons are raised to a higher energy level. Electrons pass through a series of b                      of decreasing energy levels in the electron transport chain and release energy. The energy released is used to form c                      and split         d                      molecules.
+-- answer --
+a	chlorophyll													1m
+b	electron carriers												1m
+c	ATP														1m
+d	water													1m	
+---------------------------------------------------
+
+[10242948]
+// Graph interpretation // Comparison //
+(*	A farmer was thinking of increasing the yield of his crops so he put a coal-burning stove in one of his two greenhouses. The rates of photosynthesis of the crops in the two greenhouses were measured on a sunny day in June. The graph below shows the results.
+	
+a	Explain, with two reasons, why the rate of photosynthesis of the crops in the greenhouse with the stove was higher.					(4 marks)
+b	The farmer put a stove in his greenhouses again in March of the following year. He found that the increase in the rate of photosynthesis of the crops was not significant. Explain why.							(2 marks)
+-- answer --
+a	The burning of coal increased the temperature.						1m
+The activities of the enzymes involved in photosynthesis were higher. 		1m
+The burning of coal also produced carbon dioxide.					1m
+More substrates were supplied to the Calvin cycle. 					1m
+b	Other factors like light intensity became a limiting factor.				1m
+The increase in temperature and carbon dioxide concentration could no longer increase the rate of photosynthesis.								1m	
+---------------------------------------------------
+
+[10242952]
+// Experiment // Basic concepts //
+(	The diagram below shows two set-ups, which were used to study photosynthesis. The set-ups were placed in bright light for 6 hours.
+
+	
+a	What is the aim of this experiment?						(1 mark)
+b	What is the purpose of sealing the lids with vaseline?			(1 mark)
+c	What are the uses of dilute sodium hydrogencarbonate solution and dilute sodium hydroxide solution in the experiment?				(2 marks)
+d	Before picking the leaves from a plant for this experiment, the plant was destarched.
+i	Describe how the plant can be destarched.				(1 mark) 
+ii	Why is this step essential?							(1 mark)
+e	After 6 hours, an iodine test was carried out on the two leaves. Which leaf gave a positive result?									(1 mark)
+
+-- answer --
+a	To show that carbon dioxide is needed in photosynthesis.				1m
+b	To make the gas jars airtight.									1m
+c	Dilute sodium hydrogencarbonate solution supplies the leaf with carbon dioxide to carry out photosynthesis.										1m
+Dilute sodium hydroxide solution absorbs carbon dioxide in the gas jar.	1m
+d	i	Put the plant in the dark for at least 24 hours.					1m
+ii	Destarching removes all the starch in the leaves so that any starch that is present in the leaves at the end of the experiment is newly made.	1m
+e	The leaf in set-up X											1m	
+---------------------------------------------------
+
+Structured questions
+
+[10243037]
+// Overseas exam question // Cross-topic // Graph interpretation //
+(**a	The graph below summarizes the relationship between light intensity and rate of photosynthesis in different conditions of temperature and CO2 availability.
+
+	
+i	Suggest how scientists investigating this relationship would have accurately measured the rate of photosynthesis.			(2 marks)
+ii	Using your knowledge of the light reactions, explain why the rate of photosynthesis is higher at B than at A.					(2 marks)
+iii	Using your knowledge of the dark reactions, explain why the rate of photosynthesis is higher at C than at B.					(4 marks)
+b	Many British plant species grow fastest at a temperature of approximately 25 °C. Temperatures greater than this can cause a very high rate of transpiration. The plants' response to this can result in a reduction of growth rate.
+With reference to the response of plants to high transpiration rates, explain why growth is faster at 25 °C than at 30 °C.					(2 marks)
+CCEA GCE (A) Biology Module 2 Jun 2018 Q4 b-c
+
+
+
+
+-- answer --
+a	i	Put a water plant in a closed container						1m
+and measure the amount of oxygen produced by the plant over time in different environmental conditions.							1m
+(or other reasonable answers)
+ii	At a higher light intensity, more electrons are emitted from the chlorophyllmolecules and hence the rate of light reactions is higher.	1m
+More ATP and NADPH are produced for the dark reactions / carbon fixation / Calvin cycle.											1m
+iii	Higher levels of carbon dioxide increase the rate of dark reactions.	1m
+More triose phosphate is produced.							1m
+Dark reactions involve many reactions that are controlled by different enzymes.												1m
+An increased temperature increases enzyme activity and hence the rate of photosynthesis.											1m
+b	At 30 °C, stomata are closed to reduce water loss through transpiration so less carbon dioxide is taken up by the leaves.							1m
+As a result, less glucose is produced for growth.						1m	
+---------------------------------------------------
+
+[10243040]
+// Overseas exam question // Graph interpretation // Data handling //
+(**a	The rate of photosynthesis is affected by different factors.
+An experiment was carried out to investigate the effect of temperature and carbon dioxide concentration on the rate of photosynthesis.
+Plants were supplied with air (0.04% CO2) and with air enriched with carbon dioxide (0.19% CO2).
+The rate of photosynthesis was measured at different leaf temperatures.
+The results are shown in the table below.
+Leaf temperature (°C)	Rate of photosynthesis (arbitrary unit)	
+	in air with 0.04% CO2	in air with 0.19% CO2	
+10	8.0	8.0	
+15	12.3	16.8	
+20	15.0	24.4	
+25	16.2	30.0	
+30	14.3	34.7	
+35	8.3	38.2	
+40	-	29.3	
+45	-	13.2	
+
+i	Describe the effect on the rate of photosynthesis of increasing leaf temperature.										(3 marks)
+ii	Calculate the percentage increase in the rate of photosynthesis at 30 °C as the carbon dioxide concentration is increased from 0.04% to 0.19%. 	Show your working and give your answer to 3 significant figures.												(2 marks)
+iii	Use the information in the table to state one other effect of an increased concentration of carbon dioxide on the rate of photosynthesis.									(1 mark)
+iv	Suggest why there are no results for 0.04% CO2 at 40 °C and 45 °C.													(2 marks)
+b	As a leaf ages, the ribulose bisphosphate carboxylase (rubisco) content of the leaf changes.
+(Note: Rubisco is an enzyme that catalyses the combination of carbon dioxide with a 5-C compound in the Calvin cycle.)
+The figure below represents the amount of rubisco present, the synthesis of rubisco and the breakdown of rubisco as the leaf ages.
+	
+Explain the effect that the levels of rubisco would have on the rate of photosynthesis as the age of the leaf increases beyond the line labelled X.														(3 marks)
+OCR GCE (A) Biology Communication, Homeostasis and Energy Jun 2016 Q4
+
+-- answer --
+a	i	The rate of photosynthesis increases and then decreases.			1m
+The peak for 0.04% CO2 is between 20 °C and 30 °C / at 25 °C.		1m
+The peak for 0.19% CO2 is between 30 °C and 40 °C / at 35 °C.		1m
+ii	(34.7−14.3) / 14.3 × 100%									1m
+= 143%												1m
+iii	An increased concentration of carbon dioxide increases the optimum temperature for photosynthesis.								1m
+iv	Carbon dioxide becomes limiting.							1m
+The active site of enzymes is altered at high temperatures and the enzyme activity decreases. The rate of photosynthesis is too low to be recorded.														1m
+b	Only little rubisco is being synthesized while the existing rubisco is being broken down. /
+More rubisco is being broken down than being synthesized. /
+The rate of synthesis of rubisco is lower than that of breakdown.			1m
+Less rubisco would be available to fix carbon dioxide into the Calvin cycle.	1m
+Hence, the rate of photosynthesis would decrease.					1m	
+---------------------------------------------------
+
+[10243071]
+// Overseas exam question // Cross-topic // Graph interpretation //
+(**a	The figure below is a diagram representing a three-dimensional view of a chloroplast.
+	
+i	Name parts A to C in the figure.						(3 marks)
+ii	Describe two ways in which the structure of part C is adapted to its function.											(2 marks)
+iii	A key aspect of photosynthesis is the metabolic pathway involving carbon dioxide.
+Place a tick (() in the appropriate box to indicate the part of the chloroplast (A, B or C) in which the metabolic pathway involving carbon dioxide is located.
+A		
+B		
+C		
+													(1 mark)
+b	The figure below shows the theoretical and actual relationship between light intensity and the rate of photosynthesis.
+	
+With reference to the biochemistry of photosynthesis, explain why the theoretical rate of photosynthesis is not achieved at higher light intensities.														(2 marks)
+c	Plants are usually adapted to living in conditions of different light intensities.
+The rate of photosynthesis at different light intensities for two different species of plant was investigated. The results are shown in the figure below.
+	
+i	Using the information in the figure above, explain which of the two species, D or E, is better adapted to living in shady conditions.														(2 marks)
+ii	The leaf of a plant that is adapted to living in shade will differ from the leaf of a plant that is adapted to living in sunlight.
+Suggest one way in which the structure of these leaves will differ.													(1 mark)
+
+d	Plants are autotrophs. Most other organisms are heterotrophs.
+Outline the ways in which heterotrophic organisms are dependent on plants.													(3 marks)
+OCR GCE (A) Biology Communication, Homeostasis and Energy Jun 2015 Q1
+
+
+-- answer --
+a	i	A: inner membrane									1m
+B: stroma											1m
+C: granum											1m
+ii	It contains chlorophyll for the absorption of light.				1m
+It has a large surface area for the absorption of light.			1m
+iii	B												1m
+b	At high light intensity, temperature becomes limiting, as the Calvin cycle involves enzymes / relies on the kinetic energy of molecules.				1m
+At high light intensity, carbon dioxide concentration becomes limiting, as it is required for the Calvin cycle.								1m
+c	i	Species E because									1m
+it starts photosynthesizing at a lower light intensity. /
+it reaches its maximum rate of photosynthesis at a lower light intensity. /
+it has a steeper increase in the rate of photosynthesis. /
+it has a higher rate of photosynthesis at low light intensities.		1m
+ii	Shade leaves will have larger / more chloroplasts / (palisade) mesophyll. /
+Shade leaves will have more grana / thylakoids (in chloroplasts). /
+Shade leaves will have a larger surface area (of leaves).		1m
+d	Heterotrophs eat / obtain organic materials from plants / autotrophs. /
+Plants / autotrophs produce organic molecules during photosynthesis / in the Calvin cycle. /
+Plants / autotrophs produce oxygen during photosynthesis / photolysis of water / in photochemical reactions. /
+Glucose / carbohydrates / oxygen produced in photosynthesis are used in respiration by heterotrophs. (any 3)							1m x 3	
+---------------------------------------------------
+
+[10243086]
+// Overseas exam question // Cross-topic // Graph plotting //
+(**An investigation was carried out to show how light intensity affects the rate of carbon dioxide uptake in two different plant species. The results are shown in the table below.
+
+Light intensity (W m-2)	Rate of carbon dioxide uptake (arbitrary unit)	
+	Species A	Species B	
+0	-2.0	-2.0	
+20	1.6	-0.3	
+40	3.3	1.4	
+120	4.8	8.2	
+160	5.1	9.3	
+240	5.1	9.3	
+
+a	Using the most appropriate graphical technique, plot the above data.															(4 marks)
+b	Plant species B is grown commercially using artificial light sources. Using the graph, determine the light intensity value at which species B will grow most economically. Explain your answer.					(2 marks)
+c	For each plant species, there is a particular light intensity value which results in no net exchange of carbon dioxide.
+State the term used to describe this value and explain how it arises.															(2 marks)
+d	In its natural habitat, plant species A can be found growing under dense tree cover, but plant species B is confined to bright forest clearings.
+Using all the information provided, explain how plant species A is adapted for growing in shady conditions.							(2 marks)
+CCEA GCE (AS) Biology Module 2 Jan 2014 Q6 a-d i
+
+
+
+-- answer --
+a	Title: the effect of light intensity on the rate of carbon dioxide uptake in two plants															1m
+independent variable (light intensity) on x-axis and appropriate scaling		1m
+label on each axis, with appropriate units							1m
+accurate plotting of points, and straight lines drawn with correct labels / key to differentiate A from B											1m
+b	160 units of light intensity										1m
+because most growth is achieved with the lowest cost for lighting.		1m
+c	Compensation point											1m
+It arises when the rate of photosynthesis is equivalent to the rate of respiration.															1m
+d	Species A has a low compensation point.							1m
+Therefore, the rate of photosynthesis exceeds the rate of respiration at low light intensities.													1m	
+---------------------------------------------------
+
+[10243092]
+// Cross-topic // Scientific investigation // Graph plotting //
+(**A student investigated the effect of iron deficiency on the production of triose phosphate in plants. He prepared some healthy plants, and grew half of them in an iron-deficient nutrient solution and half in a complete nutrient solution for two weeks. Then he put these plants under darkness for 6 hours. After that, he moved them to a place with sunlight and measured the concentrations of triose phosphate in these plants for 16 hours. The table below shows the results obtained.
+
+Time (hour)	0	4	8	12	16	
+Mean concentration of triose phosphate in iron-deficient plants (arbitrary unit)	6	13	11	10	10	
+Mean concentration of triose phosphate in control plants
+(arbitrary unit)	7	35	27	29	28	
+
+a	Use the graph paper below, plot a graph to show the results of the experiment.											(4 marks) 
+	
+
+b	Suggest why the plants were put under darkness for 6 hours before measurements were taken.								(1 mark)
+c	Explain why the mean concentrations of triose phosphate in both groups of plants increased during the first 4 hours.					(2 marks)
+d	i	Based on the results obtained, state the effect of iron deficiency on 	the production of triose phosphate in plants.				(1 mark)
+ii	It is found that plants with iron deficiency have yellow leaves. Based on this piece of information, suggest why iron deficiency had the effect answered in i.								(2 marks)
+e	Besides the difference in the concentration of triose phosphate, the amount of carbon dioxide absorbed by the iron-deficient plants was also smaller than that by the control plants. Suggest why.					(2 marks)
+
+-- answer --
+a	Correct title												1m
+Correct choice of axes										1m
+Axes with labels and units										1m
+Correct plotting and joining of lines								1m
+
+
+
+b	This allows the levels of triose phosphate in the plants to become low before measurements were taken.									1m
+c	The photochemical reactions of photosynthesis occurred. ATP and NADPH were produced.													1m
+The ATP and NADPH produced were used in the Calvin cycle to produce triose phosphate. Therefore, the concentrations of triose phosphate in the plants increased.													1m
+Note:
+Energy from ATP and hydrogen from NADPH are required to produce triose phosphate in the Calvin cycle.
+
+d	i	Iron deficiency caused the plants to produce less triose phosphate.	1m
+ii	Yellowing of leaves indicates that the plants contained less chlorophyll.														1m
+Light energy captured by the plants was reduced. Therefore, less triose phosphate was produced.									1m
+e	Triose phosphate is converted to a 5-C compound that accepts carbon dioxide in the Calvin cycle.											1m
+Since the concentration of triose phosphate in the iron-deficient plants was lower than that in the control plants, the concentration of the 5-C compound was also lower. Hence, the carbon dioxide that was accepted by the 5-C compound was also reduced.													1m	
+---------------------------------------------------
+
+[10243098]
+// Graph interpretation // Data handling // Calculation //
+(**Gross primary productivity (GPP) is the total amount of carbon fixed by the producers through photosynthesis in an ecosystem. As producers also carry out respiration, some of the fixed carbon is used. The overall carbon remains in the producers is called net primary productivity (NPP). The equation below shows the relationship between GPP, NPP and the carbon used for respiration.
+	
+
+A scientist would like to estimate the NPP and GPP at the surface of a freshwater pond. She put 1 litre of the water sample into a transparent bottle, and another 1 litre into a bottle covered with black paint to prevent light from passing through. She kept the two bottles in a lighted room for 24 hours. The table below shows the oxygen concentrations of the water samples in the two bottles at the beginning and at the end of the 24 hours.
+
+	Oxygen concentration at the beginning (arbitrary unit)	Oxygen concentration at the end (arbitrary unit)	
+Transparent bottle	5.0	8.6	
+Bottle covered with black paint	4.9	3.7	
+
+a	Explain why NPP and GPP of the freshwater pond can be estimated by measuring the oxygen concentrations of the water samples.		(2 marks)
+b	Based on the results of the experiment, calculate the GPP at the surface of the freshwater pond in terms of oxygen concentration in arbitrary unit per litre of water per hour.									(2 marks)
+c	The graph below shows the change in the NPP with the depth of water in a freshwater pond.
+	
+Briefly describe and explain the shape of the graph.			(4 marks)
+d	The table below shows the NPP in different ecosystems.
+Ecosystem	NPP (arbitrary unit)	
+X	35 280	
+Y	8820	
+Z	840	
+Based on the above information, deduce which ecosystem may have more trophic levels. Explain briefly.							(2 marks)
+
+
+
+
+
+
+
+-- answer --
+a	Oxygen is released during photosynthesis and consumed during respiration.															1m
+The changes in the concentrations of oxygen in the samples are directly related to the GPP and NPP.											1m
+b	[(8.6 - 5.0) + (4.9 - 3.7)] / 24									1m
+= 0.2 arbitrary unit per litre of water per hour						1m
+Note:
+Both photosynthesis and respiration occurred in the transparent bottle. Only respiration occurred in the bottle covered with black paint. (8.6 - 5.0) is the net increase in oxygen concentration due to both photosynthesis and respiration, while (4.9 - 3.7) is the decrease in oxygen concentration due to respiration only. The increase in oxygen concentration due to photosynthesis can be calculated by adding up the two.
+
+c	When the depth of water is smaller than 10 m, the NPP decreases only slightly with the depth.												1m
+When the depth of water is greater than 10 m, the NPP decreases rapidly with the depth and reaches 0 when the depth is 21 m.						1m
+When the depth of water is smaller than 10 m, light can penetrate into the water. The light intensity is high. The rate of photosynthesis is high and hence the NPP is high.														1m
+When the depth of water is greater than 10 m, light cannot penetrate into the water very well. The light intensity decreases rapidly. The rate of photosynthesis decreases and hence the NPP decreases.							1m
+d	X														1m
+The NPP of X is the highest among the 3 ecosystems. A high NPP means that more energy is available for the higher trophic levels. Therefore, it is more likely that X can support more trophic levels.							1m
+Note:
+The NPP represents the amount of energy in the producers that is available to the consumers. As there is energy lost when energy is transferred from one trophic level to the next, an ecosystem with a higher NPP is more likely to support more trophic levels.
+
+	
+---------------------------------------------------
+
+[10243117]
+// Experiment // Comparison // Applying concepts //
+(*	A student carried out an experiment to find out the rates of photosynthesis of two leaves at different locations of a plant. He collected a leaf from the top of a tree, and another from a lower branch of the same tree. He then cut five leaf discs from each leaf and placed them into a test tube of sodium hydrogencarbonate solution. The tubes were then placed under light. After some time, the leaf discs in both tubes floated to the surface of the solution. 
+a	Explain why the leaf discs floated to the surface of the solution.	(3 marks)
+b	Suggest how the student could determine the rate of photosynthesis of each leaf in the above experiment.								(2 marks)
+c	Suggest one way to increase the reliability of the results. 		(1 mark)
+d	The diagrams below shows the cross sections of the two leaves. 
+
+	
+The student found that the rate of photosynthesis of the leaf from a lower branch was higher than that of the leaf from the tree top. With reference to the diagrams, suggest two differences in the structures of the leaves that may cause the difference in their rates of photosynthesis. Explain briefly. 														(4 marks)
+
+-- answer --
+a	Under light, the leaf discs carried out photosynthesis.				1m
+Oxygen produced was trapped in the air space. / Oxygen bubbles formed on the surfaces of the leaf discs. 						 			1m
+The leaf discs became more buoyant. Thus, they floated to the surface of the solution. 									 			1m
+b	Record the time required for all the leaf discs in each tube to float to the surface of the solution.											1m
+The shorter the time, the higher the rate of photosynthesis. 		1m 
+c	Repeat the experiment several times and calculate the mean values.	1m
+d	The leaf from a lower branch has a thinner cuticle than the leaf from the tree top. 
+This allows more light to reach the photosynthetic cells. /
+The leaf from a lower branch is thinner. This allows more light to penetrate into the inner parts of the leaf. /
+The leaf from a lower branch has more chloroplasts in the spongy mesophyll cells. This allows more light to be absorbed for photosynthesis. /
+The leaf from a lower branch has larger air spaces. This facilitates the diffusion of carbon dioxide in the leaf. 
+(any 2 or other reasonable answers)							2m x 2	
+---------------------------------------------------
+
+[10243137]
+// High order thinking //
+(*	In the Calvin cycle, enzyme R catalyses the combination of carbon dioxide and a 5-C compound to form two molecules of a 3-C compound, Y. Compound Y is then reduced to another 3-C compound, triose phosphate.
+	
+a	State the exact location in a plant cell where the Calvin cycle takes place.															(1 mark)
+b	Which substance acts as the reducing agent (hydrogen donor) in the reduction of compound Y to triose phosphate?				(1 mark)
+c	How is the 5-C compound regenerated in the Calvin cycle?		(2 marks)
+d	Explain why plants which produce less enzyme R have stunted growth.															(2 marks)
+In addition to its role in the Calvin cycle, enzyme R can also catalyse the combination of oxygen and the 5-C compound, resulting in the formation of one molecule of compound Y and one molecule of compound Z. Compound Z is not used in the Calvin cycle.
+	
+
+e	How many carbon atoms does one molecule of compound Z contain?																(1 mark)
+f	Predict how the rate of absorption of carbon dioxide by the plant will change when it is supplied with a higher concentration of oxygen. Explain your answer.											(3 marks)
+
+-- answer --
+a	Stroma of the chloroplasts										1m
+b	NADPH													1m
+c	The 5-C compound is regenerated from triose phosphate				1m
+with the input of energy from ATP.								1m
+d	With less enzyme R, less carbon dioxide is fixed into an organic compound which starts the reactions in the Calvin cycle.							1m
+Thus enough biomolecules (e.g. carbohydrates) cannot be produced for growth.															1m
+e	Two														1m
+f	At a higher concentration of oxygen, more oxygen will combine with the 5-C compound 												1m
+and less 5-C compound will become available to carbon dioxide.			1m
+Thus the rate of carbon dioxide absorption will decrease.				1m	
+---------------------------------------------------
+
+
+[10243151]
+// Overseas exam question // Scientific investigation // Calculation //
+(*	A student carried out an experiment to investigate the effect of light intensity on the rate of photosynthesis in an aquatic plant, using the apparatus shown in the diagram below.
+
+	
+
+The student decided to measure the rate of photosynthesis by measuring the gas produced over a 5-minute period. The gas was collected in the capillary tube.
+After 5 minutes, the length of the bubble was measured along the scale.
+The light intensity was varied by altering the distance (d) between the lamp and the photosynthesizing plant. 
+
+The student prepared the table below to calculate the light intensity.
+Distance (d) from lamp to plant (cm)	Light intensity (1/d2)	
+4	0.0625	
+8	0.0156	
+12	0.0069	
+16	0.0039	
+20	0.0025	
+24		
+60	0.0003	
+
+
+a	i	Calculate the light intensity when the lamp was 24 cm from the plant. Show your working.								(2 marks)
+ii	The length of the gas bubble was measured (in mm).
+State what additional information would be required to calculate the volume of gas produced. 							(1 mark)
+iii	Suggest how the student supplied the aquatic plant with a source of carbon dioxide.									(1 mark)
+b	Certain assumptions are made when using the apparatus shown in the diagram to measure the rate of photosynthesis.
+i	One of these assumptions is that all of the oxygen produced by the plant during photosynthesis is collected.
+Suggest why not all of the oxygen produced by the plant is collected.													(2 marks)
+ii	Another assumption is that all of the gas collected is oxygen.
+Analysis of the gas collected reveals that it has the following composition.
+• oxygen 50%
+• nitrogen 44%
+• carbon dioxide 6%
+Suggest a reason for the presence of nitrogen in the gas collected.													(1 mark)
+iii	Comment on the percentage of carbon dioxide present in the gas collected and give reasons for this figure.				(3 marks)
+OCR GCE (A) Communication, Homeostasis and Energy Jun 2011 Q2a, b
+-- answer --
+a	i	1 / 242											1m
+= 0.0017											1m
+ii	Internal radius / diameter / cross-sectional area of the capillary tube														1m
+iii	Use sodium hydrogencarbonate solution. / 
+Bubble carbon dioxide into the tube.						1m
+b	i	Some oxygen dissolves in water. / 
+Some oxygen is used in respiration. / 
+Some oxygen may escape from the collection apparatus. / 
+Some oxygen is trapped in the bubble attached to the leaf / in the air spaces of the leaf. (any 2)									1m x 2
+ii 	Nitrogen is present in the air spaces of the leaf. / 
+Some nitrogen comes out of the solution.					1m
+iii	The percentage of carbon dioxide is higher than that in the atmosphere. /
+The plant produces carbon dioxide during respiration. / 
+Carbon dioxide that has been added to the solution comes out of it. / 
+The percentage is lower than the actual value as some of the carbon dioxide dissolves in the solution / is used in photosynthesis. (any 3)		1m x 3	
+---------------------------------------------------
+
+[10243159]
+// Graph interpretation // High order thinking //
+(*	The graph below shows the effects of carbon dioxide concentration, light intensity and temperature on the rate of photosynthesis of a crop plant.
+
+	
+a	Which factor is limiting the rate of photosynthesis at point X? Explain your answer.												(2 marks)
+b	In a greenhouse in winter, the mean carbon dioxide concentration is 0.03%, the temperature is 20 °C and the light intensity is 3 kilolux. Using the graph, describe the effects of each of the following changes on the rate of photosynthesis. How will the following changes affect the growth of the crop plants? Explain briefly. 
+i	The carbon dioxide concentration is increased to 0.12%.	
+ii	The temperature is increased to 30 °C. 				 	(4 marks)
+c	Explain why it is not advisable to increase the temperature in a greenhouse on a dull winter day.									(2 marks)
+d	Even under optimum conditions, only a relative small percentage of the sunlight falling on the leaves of a plant grown in a greenhouse is used for photosynthesis. Give two reasons.							(2 marks)
+-- answer --
+a	Light intensity												1m
+When light intensity increases, the rate of photosynthesis increases.		1m
+b	i	An increase of carbon dioxide from 0.03% to 0.12% will nearly double the rate of photosynthesis.									1m
+This is because at higher carbon dioxide concentration, more substrates are supplied to the Calvin cycle. 								1m
+ii	Increasing the temperature from 20 °C to 30 °C will not affect the rate of photosynthesis. 										1m
+This is because temperature is not the limiting factor of the rate of photosynthesis under such conditions. 						1m
+c	The rate of photosynthesis is limited by light intensity or carbon dioxide concentration on a dull winter day.								1m
+Increasing temperature will not increase the rate of photosynthesis but increase the rate of respiration. The net production of carbohydrates may decrease.	1m
+d	Most of the wavelengths of sunlight are not absorbed by chlorophyll.		1m
+Much of the incident light is reflected by the leaf surface.				1m	
+---------------------------------------------------
+
+[10243170]
+// Experiment // Communication //
+(*	A student put the following set-up under sunlight for 5 hours to study a factor necessary for photosynthesis.
+
+	
+
+a	Before the experiment, the plant was destarched. Describe how it was done and explain why destarching is important. 					(2 marks)
+
+b	Which factor necessary for photosynthesis was studied in this experiment?														(1 mark)
+c	Describe how you can carry out a test to determine if photosynthesis has occurred in leaves P and Q.								(4 marks)
+d	Describe the results in leaves P and Q after the test in c. 		(2 marks)
+e	How can you modify the above set-up to investigate the requirement of chlorophyll for photosynthesis at the same time?				(1 mark)
+
+-- answer --
+a	The plant was destarched by putting it in the dark for at least 24 hours.		1m
+Destarching removes all the starch in the leaves so that any starch detected in the leaves at the end of the experiment is made during the experiment.		1m
+b	Carbon dioxide												1m
+c	Boil the leaves in water for a minute.								1m
+Put the leaves into alcohol that is warmed in hot water.				1m
+Then transfer the leaves to hot water again.						1m
+Add iodine solution onto the surfaces of the leaves and observe any colour change.													1m
+d	Leaf P: The iodine solution turned blue-black.						1m
+Leaf Q: The iodine solution remained brown.						1m
+e	Replace the plant with a plant with variegated leaves.					1m	
+---------------------------------------------------
+
+[10243180]
+// Design experiment // Graph plotting // Graph interpretation //
+(	a	Write a word equation for photosynthesis.					(2 marks)
+b	The diagram below shows an experimental set-up, which was used to investigate the effect of light intensity on the rate of photosynthesis. The beaker was put at different distances from the bench lamp. 
+
+	
+The number of gas bubbles released from Hydrilla was recorded. The results are shown in the table below.
+
+Distance from lamp (cm)	Number of gas bubbles per minute	
+40	50	
+80	48	
+120	38	
+160	20	
+200	20	
+
+i	Present the results in the form of a graph.				(4 marks)
+ii	What would be the number of gas bubbles released in a minute when the lamp was placed at a position 140 cm from the lamp?	(1 mark)
+iii	Referring to the results, describe how the rate of photosynthesis of Hydrilla changes with light intensity.					(2 marks)
+iv	Suggest how the set-up can be modified to investigate the effect of carbon dioxide concentration on the rate of photosynthesis.															(3 marks)
+
+-- answer --
+a	Carbon dioxide + water → carbohydrates + oxygen					2m
+b	i	Correct title											1m
+Choice of axes (x-axis: distance from lamp, y-axis: number of gas bubbles per minute)											1m
+With labels and units 									1m
+Correct plotting and joining of line							1m
+ii	29													1m
+iii	When the distance between the lamp and the beaker is 40 cm to 160 cm, the rate of photosynthesis decreases as light intensity decreases.		1m
+When the distance between the lamp and the beaker is larger than 160 cm, the rate of photosynthesis remains the same as light intensity decreases.														1m
+iv	Set up a few beakers with the same mass of Hydrilla				1m
+but different concentrations of dilute sodium hydrogencarbonate solution.														1m
+Put all the beakers under the same light intensity / at the same distance from the lamp.												1m	
+---------------------------------------------------
+
+[10243182]
+// Data handling // Critical thinking // Schematic diagram //
+(*	a	The Calvin cycle of photosynthesis is outlined below.
+
+	
+
+i	Name compound P.									(1 mark)
+ii	How is glucose formed in the Calvin cycle?				(1 mark)
+b	The table below shows the rate of the Calvin cycle of a plant at different temperature.
+
+Temperature (°C)	Rate of the Calvin cycle (arbitrary unit)	
+5	1.8	
+15	4.0	
+25	2.4	
+35	0.0	
+
+It is known that reactions in the Calvin cycle are controlled by enzymes.
+i	Explain why the rate of the Calvin cycle increases when the temperature increases from 5 °C to 15 °C.				(3 marks)
+ii	Explain why the rate of the Calvin cycle decreases when the temperature increases from 15 °C to 35 °C.				(1 mark)
+iii	A student concluded from the above data that the rate of the Calvin cycle doubles as the temperature increases by every 10 °C. 
+Comment on the student's conclusion.					(3 marks)
+
+-- answer --
+a	i	Triose phosphate										1m
+ii	Two molecules of triose phosphate combine to form a molecule of glucose.						  								1m
+b	i	As temperature increases from 5 °C to 15 °C, the enzyme and substrate molecules involved in the Calvin cycle have more kinetic energy 		1m
+and collide with each other more frequently. 					1m
+This increases the chance of forming enzyme-substrate complexes, thus the rate of the Calvin cycle increases.							1m
+ii	At temperature above 15 °C, the enzymes involved in the Calvin cycle are denatured.												1m
+iii	The student's conclusion is not correct.						1m
+The rate of the Calvin cycle doubles only when temperature increases from  5 °C to 15 °C,											1m
+but not for any temperature higher than 15 °C.					1m	
+---------------------------------------------------
+
+[10243187]
+// Graph plotting // Experiment //
+(*	The diagram below shows a set-up. A student used the set-up to investigate the effect of light intensity on the rate of photosynthesis by changing the distance between the bench lamp and the beaker.
+	
+The student first placed the lamp at a distance of 0.8 m from the beaker. He waited for 5 minutes and recorded the initial liquid level in the pipette. He then waited for another 5 minutes and recorded the final liquid level. The volume of gas produced per hour was calculated. The results are shown in the table below.
+Distance from lamp (m)	Volume of gas produced per hour (mm3)	
+0.8	20	
+0.7	28	
+0.6	37	
+0.5	47	
+0.4	53	
+0.3	54	
+0.2	54	
+0.1	53	
+
+a	Why did the student wait for 5 minutes after adjusting the distance between the lamp and the beaker?									(1 mark)
+b	What is the function of the thermometer in the set-up?			(1 mark)
+c	i	Plot a graph to show the effect of light intensity on the rate of photosynthesis.									(4 marks)
+ii	Over what distance between the beaker and the lamp is light intensity the limiting factor?									(1 mark)
+iii	Sketch on the graph the expected result of another set-up with higher concentration of sodium hydrogencarbonate solution. 		(2 marks)
+d	Describe how you would modify the above set-up to investigate the effect of the wavelength of light on the rate of photosynthesis.		(1 mark)
+
+-- answer --
+a	To allow the rate of photosynthesis to become steady.					1m
+b	It is used to monitor the temperature of the set-up, as the temperature should be kept constant during the experiment.								1m
+c	i	Correct title											1m
+Choice of axes (x-axis: 1/distance from lamp, y-axis: volume of gas produced per hour)												1m
+With labels and units 									1m
+Correct plotting and joining of line							1m
+ii	0.4 m or longer											1m
+iii	The curve has the same slope as the one in i at low light intensities.	1m
+The curve levels off at a larger volume of gas produced per hour at high light intensities.												1m
+d	Insert filters of different colours between the lamp and the beaker.		1m	
+---------------------------------------------------
+
+[10243196]
+// Scientific investigation // Data handling // High order thinking //
+(**A scientist carried out an experiment to determine which colour of light was most effective for photosynthesis. He placed some Spirogyra (a green alga) in a suspension of aerobic bacteria and exposed different regions of Spirogyra to red, green and blue light of the same intensity respectively.
+
+	
+He observed and recorded the relative amounts of bacteria attracted to the regions of Spirogyra exposed to different colour of light. The results are shown in the table below.
+
+Colour of light	Relative amounts of bacteria (maximum 5+)	
+Red	++++	
+Green	+	
+Blue	++++	
+(Key: '+' means that there are bacteria attaching to that region. The larger the number of '+', the more the bacteria attached.)
+
+a	Explain why the bacteria attached to Spirogyra when light shone on Spirogyra.											(2 marks)
+b	Explain why the amounts of bacteria attaching to different regions of Spirogyra were not the same.								(2 marks)
+c	What conclusion can be drawn from the above results?			(2 marks)
+d	Describe how the light energy captured by the pigment in the chloroplasts is used in photochemical reactions.							(4 marks)
+
+-- answer --
+a	Spirogyra carried out photosynthesis when light shone on it. Oxygen was produced as a by-product.										1m
+Aerobic bacteria were attracted by oxygen, thus they attached to the Spirogyra. 															1m
+b	Spirogyra carried out photosynthesis at different rates under different colour of light.														1m
+Aerobic bacteria moved to the regions with higher oxygen concentrations, thus the amounts of bacteria were different in different regions.					1m
+c	Photosynthesis occurs at similar rate under blue and red light. 			1m
+Photosynthesis occurs at a much lower rate under green light.			1m
+d	Chlorophyll molecules capture light energy and some electrons of the chlorophyll molecules are raised to a higher energy level.						1m
+Energy is released when the excited electrons pass through the electron transport chain.													1m
+Some of the energy released is used to form ATP in the process of photophosphorylation.										1m
+Some of the energy released is used to split water molecules into hydrogen and oxygen (photolysis of water). 									1m	
+---------------------------------------------------
+
+[10243209]
+// Graph interpretation // High order thinking //
+(**a	Describe how NADPH is formed in the photochemical reactions of photosynthesis.										(2 marks)
+b	In an experiment, the amounts of a 3-C compound and a 5-C compound in chloroplast-containing cells were measured. Figure 1 shows the effect of decreasing carbon dioxide concentration on the amounts of the 3-C compound and the 5-C compound.
+
+	
+
+i	Why was the amount of the 3-C compound twice the amount of the 5-C compound when the carbon dioxide concentration was high?													(2 marks)
+ii	Why did the amount of the 5-C compound increase when the carbon dioxide concentration was low?						(1 mark)
+c	Another experiment was carried out. The same type of cells were put under light for a period of time and then covered with a light-proof lid. Figure 2 shows the effect of light on the amounts of glucose and the 3-C compound.
+
+	
+
+i	Why did the amount of the 3-C compound increase in the dark?														(2 marks)
+ii	Why did the amount of glucose decrease in the dark?		(2 marks)
+
+-- answer --
+a	NADP accepts hydrogen 										1m
+which is formed from the splitting of water molecules. 					1m
+b	i	In the Calvin cycle, the 5-C compound combined with carbon dioxide 	1m
+to form two molecules of the 3-C compound.					1m
+ii	Less 5-C compound was used as less carbon dioxide was available.	1m
+c	i	Without light, photochemical reactions did not occur. No ATP and NADPH were formed.											1m
+The 3-C compound could not be reduced to triose phosphate, thus it accumulated. 											1m
+ii	No glucose was formed in darkness 							1m
+and some stored glucose was used in respiration.				1m	
+---------------------------------------------------
+
+[10243210]
+// Graph plotting // Experiment // Basic concepts //
+(	The diagram below shows an experimental set-up.
+	
+a	What is gas X? How can you test it?						(2 marks)
+b	The experiment was carried out for 10 hours. Sketch a graph to show how the volume of gas X changed during the experiment.			(2 marks)
+c	Explain the graph you have drawn.							(3 marks)
+
+-- answer --
+a	Oxygen													1m
+It relights a glowing splint.										1m
+b	
+		
+Correct axes												1m Correct curve												1m
+c	The volume of gas X first increased rapidly. The rate of photosynthesis was the highest because light and other factors were abundant.				1m
+Then the rate of photosynthesis began to decrease because the carbon dioxide concentration in the water decreased.								1m
+Lastly the increase in the volume of gas X stopped because carbon dioxide was almost used up.												1m	
+---------------------------------------------------
+
+[10243222]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows three curves (P, Q and R), which represent the rates of photosynthesis of a crop under different light intensities at three different carbon dioxide concentrations.
+
+	
+
+a	Which curve, P, Q or R, represents the rate of photosynthesis at the highest carbon dioxide concentration? Explain briefly.				(3 marks)
+b	Mark on the above graph a point at which 					
+i	light intensity is limiting the rate of photosynthesis.		(1 mark)
+ii	carbon dioxide concentration is limiting the rate of photosynthesis.													(1 mark)
+c	A farmer grows this crop in a greenhouse. He adjusts the carbon dioxide concentration in the greenhouse to a value same as that of curve P. What intensity of light should he provide to the crop in order to get a maximum yield with the lowest cost? Explain.						(3 marks)
+-- answer --
+a	P														1m
+P levels off at the highest rate of photosynthesis. 					1m
+At a higher carbon dioxide concentration, more substrates are supplied to the Calvin cycle.												1m
+b	i	Any point on the three curves where the rate is increasing			1m
+ii	Any point on Q and R where the curves become flat				1m
+c	3 arbitrary units of light intensity									1m
+Light intensity equals the saturation point should be chosen.			1m
+It is the lowest light intensity that the crop achieves the highest rate of photosynthesis, thus giving a highest yield with the lowest cost.			1m	
+---------------------------------------------------
+
+[10243230]
+// Graph interpretation // High order thinking // Schematic diagram //
+(**a	The diagram below shows the Calvin cycle of photosynthesis.
+
+	
+
+i	ATP used in the Calvin cycle is produced in photochemical reactions. Describe the role of ATP in photosynthesis.				(1 mark)
+ii	Another chemical that is produced in photochemical reactions and used in the Calvin cycle is missing in the above diagram. What is this chemical? Add (an) arrow(s) on the above diagram to show the position(s) where this chemical is used.					(2 marks)
+
+iii	Give the function of the chemical stated in ii in the Calvin cycle.														(1 mark)
+b	The graph below shows the concentrations of the 5-C compound and the 3-C compound in some plant cells before and after a change in the carbon dioxide concentration at time t. 
+	
+
+Suggest whether the carbon dioxide concentration decreased or increased at time t. Explain your answer.								(4 marks)
+
+-- answer --
+a	i	ATP transfers energy from the photochemical reactions to the Calvin cycle.														1m
+ii	NADPH												1m
+Arrow marked between the 3-C compound and triose phosphate		1m
+iii	NADPH provides hydrogen for the reduction of the 3-C compound to triose phosphate.											1m
+b	The carbon dioxide concentration decreased at time t. 				1m
+The concentration of the 5-C compound increased and the concentration of the 3-C compound decreased after the carbon dioxide concentration was changed.															1m
+As carbon dioxide concentration decreased, less 5-C compound combined with carbon dioxide. Thus the concentration of the 5-C compound increased. 	1m
+Less 3-C compound was formed from the 5-C compound and the conversion of the existing 3-C compound into triose phosphate continued. Thus the concentration of the 3-C compound decreased.						1m	
+---------------------------------------------------
+
+[10243245]
+// Drawing // Experiment // Basic concepts //
+(	In an experiment, a well-watered green plant was exposed to sunlight for      5 hours.
+	
+a	Which factor necessary for photosynthesis was investigated in this experiment?											(1 mark)
+b	Why is it necessary to destarch the plant before the experiment? How can the process be carried out?								(2 marks)
+c	After the plant was exposed to sunlight, an iodine test was carried out on leaf X. Draw a diagram to show the results. Label the colours of different regions. 												(2 marks)
+d	What colours of light are most important for photosynthesis?	(2 marks)
+e	Why is chlorophyll green in colour?						(2 marks)
+-- answer --
+a	Light													1m
+b	Destarching removes all the starch in the leaves so that any starch detected in the leaves at the end of the experiment is made during the experiment.	1m
+Destarching can be done by putting the plant in the dark for at least 24 hours.														1m
+c	
+
+Correct drawing											1m
+Correct labelling										1m
+d	Red, blue												1m x 2
+e	Green light is not absorbed								1m
+and is reflected.											1m	
+---------------------------------------------------
+
+[10243255]
+// Experiment // Basic concepts //
+(	The set-up below was left under sunlight. After 10 hours, iodine test was carried out on leaves X, Y and Z.
+
+	
+
+a	Why is it necessary to keep the plant in the dark for at least 24 hours before the experiment?										(1 mark)
+b	What is the use of the potassium hydroxide solution?			(1 mark)
+c	Why is the pot enclosed in a plastic bag?					(1 mark)
+d	What were the results of the iodine test?					(3 marks)
+e	Deducing from the results, what factors are necessary for photosynthesis?														(2 marks)
+
+-- answer --
+a	To remove all the starch in the leaves.							1m
+b	To absorb carbon dioxide in the jar.							1m
+c	To prevent the respiration of soil organisms from affecting the results.	1m
+d	Leaf X: The iodine solution turned blue-black except for the masked part, which remained brown. 										1m
+Leaf Y: The iodine solution remained brown all over the leaf. 		1m
+Leaf Z: The iodine solution turned blue-black all over the leaf.		1m
+e	Light and carbon dioxide									1m x 2	
+---------------------------------------------------
+
+
+[10243261]
+// Graph plotting // Graph interpretation // Applying concepts //
+(*	 An experiment was carried out to investigate the effect of carbon dioxide concentration on the rate of photosynthesis of a flowering plant. The results are shown in the table below.
+CO2 concentration in air 
+(% volume)	Rate of photosynthesis (arbitrary unit)	
+	Low light intensity	High light intensity	
+0	0	0	
+0.02	20	32	
+0.04	30	52	
+0.06	36	69	
+0.08	40	81	
+0.12	46	90	
+0.16	47	95	
+0.20	47	95	
+a	Present the results as a graph.								(4 marks)
+b	From the graph, find out the rate of photosynthesis at both light intensities when the carbon dioxide concentration in the air is at 0.05%.	(2 marks)
+c	Describe and explain the results.							(3 marks)
+d	State how a farmer growing this plant in greenhouses can apply the information from this investigation to increase the plant yield.	(1 mark)
+
+-- answer --
+a	
+		
+
+Correct title											1m
+Choice of axes											1m
+With labels and units 									1m
+Correct plotting and joining of line 							1m
+b	When the carbon dioxide concentration is 0.05%, the rate of photosynthesis at
+low light intensity: 34 arbitrary units							1m
+high light intensity: 62 arbitrary units							1m
+c	The rate of photosynthesis increased with carbon dioxide concentration at both light intensities because more substrates were supplied to the Calvin cycle. /
+The rate of photosynthesis levelled off when the carbon dioxide concentration reached 0.12% at low light intensity and when the carbon dioxide concentration reached 0.16% at high light intensity. /
+At low light intensity, when the carbon dioxide concentration was higher than 0.12%, the rate of photosynthesis was limited by light intensity. /
+At high light intensity, when the carbon dioxide concentration was higher than 0.16%, the rate of photosynthesis was limited by factors other than carbon dioxide concentration. (any 3)									1m x 3
+d	The farmer can increase the yield by adjusting the carbon dioxide concentration and the light intensity in the greenhouses.						1m	
+---------------------------------------------------
+
+[10243264]
+// Design experiment // Graph plotting // Graph interpretation //
+(*	The diagram below shows a set-up for measuring the rate of photosynthesis of Hydrilla at 20 °C. Hydrilla was exposed to different light intensities and the rate of photosynthesis was estimated by counting the number of gas bubbles released by Hydrilla per minute. 
+	
+The results are listed in the table below.
+
+
+Light intensity
+(arbitrary unit)	1	2	3	4	5	6	7	
+Number of gas bubbles 
+released per minute	5	8	15	21	23	23	22	
+a	Plot the results on a graph.								(4 marks)
+b	Describe and explain the results.							(2 marks)
+c	Suggest a method for measuring the rate of photosynthesis that is more reliable than counting the number of gas bubbles released.		(1 mark)
+d	How would the rate of photosynthesis differ if the above experiment was carried out at 4 °C, 30 °C and 60 °C respectively?				(3 marks)
+-- answer --
+a	
+	
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line								1m
+b	At first, the rate of photosynthesis increased with light intensity because more energy was supplied to the photochemical reactions.					1m
+Then the rate of photosynthesis was limited by other factors such as carbon dioxide concentration or temperature, therefore the rate became constant.	1m
+c	Collect the gas released using a graduated tube and record the volume of gas collected per unit time.	 									1m
+d	At 4 °C, the rate of photosynthesis would be lower.					1m
+At 30 °C, the rate of photosynthesis would be higher.					1m
+At 60 °C, the rate of photosynthesis would become zero.				1m	
+---------------------------------------------------
+
+[10243290]
+// Experiment // Communication // Basic concepts //
+The diagram below shows a set-up. It was left undisturbed under light for 2 days.
+
+	
+
+a	Name the gas released by Hydrilla.						(1 mark)
+b	Suggest one test to verify your answer in a. State the possible result of the test.													(2 marks)
+c	Initially, the hydrogencarbonate indicator was yellow in colour. How would its colour change during the experiment? Explain your answer.	(5 marks)
+d	A control similar to the above set-up was kept in the dark for 2 days. What would be the result? Explain your answer.					(3 marks)
+
+-- answer --
+a	Oxygen													1m
+b	Put a glowing splint over the mouth of the test tube.					1m
+Oxygen relights the glowing splint.								1m
+c	The indicator would change from yellow to red,						1m
+and then from red to purple.									1m
+As the rate of photosynthesis of Hydrilla was higher than the rate of respiration,															1m
+carbon dioxide in the solution was used for photosynthesis.				1m
+The decrease in the carbon dioxide concentration caused the colour changes. 															1m
+d	No gas would be collected in the test tube.							1m
+The indicator would remain yellow.								1m
+In the dark, only respiration took place. Carbon dioxide released from Hydrilla would dissolve in the solution.									1m	
+--------------------------------------------------- 
+
+[10243295]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the structure of a greenhouse.
+
+	
+
+a	In relation to photosynthesis, why is the greenhouse made of glass?															(2 marks)
+b	What is the use of
+i	the lamp?											(1 mark)
+ii	the reflector?										(1 mark)
+c	In which way can the heater enhance plant growth? Explain.	(4 marks)
+d	Suggest one gas that can be supplied to the greenhouse to enhance plant growth.												(1 mark)
+
+-- answer --
+a	Plants require light to carry out photosynthesis.						1m
+Glass allows sunlight to reach the plants.							1m
+b	i	To increase the amount of light reaching the plants.				1m
+ii	To allow even distribution of light in the greenhouse.				1m
+c	The heater can increase the air temperature in the greenhouse to an optimum level.														1m
+Since photosynthesis involves enzymatic reactions,					1m
+increasing temperature can increase the activities of enzymes,			1m
+and hence the rate of photosynthesis.								1m
+d	Carbon dioxide												1m	
+--------------------------------------------------- 
+
+[10243320]
+// Communication // Basic concepts //
+(	a	The leaf is the major organ for photosynthesis. Describe how raw materials of photosynthesis and energy become available to leaf cells.	(3 marks)
+b	How is glucose produced from the primary product of photosynthesis? State three ways in which glucose is used in plants.				(5 marks)
+c	Name three types of cells in the leaves which can carry out photosynthesis, and three other types of cells which cannot.					(2 marks)
+
+-- answer --
+a	Carbon dioxide from the environment diffuses into the leaf through the stomata.															1m
+Water is absorbed from the soil by the roots. It is carried upwards through the xylem vessels to the leaf.										1m
+Light energy is captured by chlorophyll molecules in the leaf cells as light shines on the leaf.												1m
+b	Triose phosphate is the primary product of photosynthesis.				1m
+Two molecules of triose phosphate combine to form a glucose molecule.	1m
+Glucose can be broken down in the process of respiration to release energy for the use of leaf cells.												1m
+Glucose can be built into starch for storage in leaf cells.				1m
+Glucose can be used to make other substances like cellulose for growth.	1m
+c	Cells that carry out photosynthesis: palisade mesophyll cells, spongy mesophyll cells and guard cells 											1m
+Cells that do not carry out photosynthesis: epidermal cells, xylem cells and phloem cells 													1m	
+---------------------------------------------------
+
+[10243322]
+// Cross-topic // Applying concepts //
+(*	Photosynthesis occurs in two main stages. The overall reactions occurring in the two stages are shown below.
+Stage 1		
+Stage 2		
+
+a	Name the two stages of photosynthesis.						(2 marks)
+b	Identify substances W and Y.								(2 marks)
+c	X produced in stage 1 is accepted by a chemical. What is this chemical?														(1 mark)
+d	For each of the following changes in conditions, state which of the two stages of photosynthesis is affected and how its rate is affected. Explain your answers.
+i	the weather changes from sunny to cloudy 				(2 marks)
+ii	the atmospheric carbon dioxide concentration increases from 0.04% to 3%												(2 marks)
+iii	a decrease in the concentration of magnesium in the soil 	(3 marks)
+
+-- answer --
+a	Stage 1: photochemical reactions / light reactions					1m
+Stage 2: the Calvin cycle / carbon fixation / dark reactions				1m
+b	W: oxygen			 										1m
+Y: carbon dioxide			 								1m
+c	NADP						.							1m
+d	i	The rate of stage 1 decreases.								1m
+As light intensity decreases, less energy is supplied to the photochemical reactions.												1m
+ii	The rate of stage 2 increases.								1m
+As carbon dioxide concentration increases, more substrates are supplied to the Calvin cycle.										1m
+iii	The rate of stage 1 decreases.								1m
+As the concentration of magnesium in the soil decreases, fewer chlorophyll molecules are produced by the plants. 						1m
+This reduces the amount of light energy captured, thus less energy is supplied to the photochemical reactions.						1m	
+---------------------------------------------------
+
+
+Essays
+
+[10243452]
+// Communication // Basic concepts //
+(*	Describe the Calvin cycle of photosynthesis and state the fate of the products.															(10 marks)
+
+-- answer --
+Process of the Calvin cycle:
+The Calvin cycle occurs in the stroma of chloroplasts.					1m
+Carbon dioxide combines with a molecule of a 5-C carbon dioxide acceptor to form two molecules of a 3-C compound.									1m
+The 3-C compound is reduced to triose phosphate using energy from ATP and hydrogen from NADPH produced in photochemical reactions.					1m
+Two molecules of triose phosphate combine to form one molecule of glucose. 																1m
+Some triose phosphate is used to regenerate the 5-C carbon dioxide acceptor using energy from ATP.											1m
+Fate of the products:
+Glucose acts as the main energy source. /
+Glucose is built into starch, which is stored in leaves. /
+Starch is broken down to form sucrose, which is transported by the phloem to other parts of the plant. /
+Glucose is built into cellulose, which is the major component of cell walls. /
+The intermediates of photosynthesis can also be used to synthesize glycerol and fatty acids, which then combine to form lipids. Lipids are used to form cell membranes / stored as energy reserves. /
+The intermediates of photosynthesis can also combine with minerals to form amino acids, which then combine to form proteins. Proteins are important for growth and  repair / for the synthesis of enzymes / as the components of cell membranes.
+(any 2)													1m x 2
+Communication 											3m		
+---------------------------------------------------
+
+[10243455]
+// Communication // Basic concepts //
+(*	What is a 'limiting factor'? Explain, with one named factor, the effect of the limiting factor on the rate of photosynthesis. 					(10 marks)
+-- answer --
+Meaning of limiting factor:
+When a process is affected by more than one factor, its rate is limited by the factor that is in the shortest supply. This factor is called the limiting factor. 				1m
+An increase in the value of this factor will lead to an increase in the rate of reaction until some other factors become limiting.									1m
+Effects of limiting factors on the rate of photosynthesis:
+Light intensity													1m
+At low light intensities, light is a limiting factor. 							1m
+The rate of photosynthesis increases proportionately with light intensity		1m
+as more energy is supplied to the photochemical reactions. 				1m
+At high light intensities, other factors become limiting.						1m
+OR
+Carbon dioxide concentration										1m
+At low carbon dioxide concentrations, carbon dioxide is a limiting factor. 		1m
+The rate of photosynthesis increases proportionately with carbon dioxide concentration
+															1m
+because more substrates are supplied to the Calvin cycle. 					1m
+At high carbon dioxide concentrations, other factors become limiting.			1m
+Communication 												3m	
+---------------------------------------------------
+
+[10243457]
+// Communication // Basic concepts //
+(	Describe how different factors affect the rate of photosynthesis.		(9 marks)
+-- answer --
+At low light intensities, the rate of photosynthesis increases proportionately with light intensity														1m
+as more energy is supplied to the photochemical reactions. 				1m
+When the light intensity reaches a saturation point, the rate levels off. 			1m
+At low carbon dioxide concentrations, the rate of photosynthesis increases proportionately with carbon dioxide concentration						1m
+because more substrates are supplied to the Calvin cycle. 					1m
+The rate levels off as the carbon dioxide concentration reaches a certain point. 	1m
+Communication													3m	
+---------------------------------------------------
+
+[10243459]
+// Communication // Basic concepts //
+(*	Describe the process of photosynthesis.							(10 marks)
+
+-- answer --
+Photosynthesis occurs in two main stages: photochemical reactions and the Calvin cycle. 													1m
+The process of photochemical reactions:
+The chlorophyll molecules in the thylakoids of chloroplasts capture light energy. /
+Some electrons of the chlorophyll molecules are raised to a higher energy level. /
+These excited electrons pass through a series of electron carriers (the electron transport chain) in the thylakoid membrane and release energy gradually. /
+Some energy released is used to form ATP by combining a phosphate with ADP (photophosphorylation). /
+Some energy is used to split water molecules to form hydrogen and oxygen. /
+Hydrogen is accepted by NADP to form NADPH.	 /
+Oxygen is released as a gas to the atmosphere. 
+(any 3)													1m x 3
+The process of the Calvin cycle:
+Carbon dioxide combines with a molecule of a 5-C carbon dioxide acceptor to form two molecules of a 3-C compound. /
+The 3-C compound is reduced into triose phosphate using energy from ATP and hydrogen from NADPH produced in photochemical reactions. /
+Two molecules of triose phosphate combine to form one molecule of glucose. /
+Some triose phosphate is used to regenerate the 5-C carbon dioxide acceptor using energy from ATP. 
+(any 3)													1m x 3
+Communication												3m	
+---------------------------------------------------
+
+
+[10243460]
+// Communication // Applying concepts //
+(	Explain how the structure of leaves is adapted to obtain raw materials and energy for photosynthesis.											(11 marks)
+
+-- answer --
+Adaptation for obtaining light:
+Leaf blade is broad and flat to provide a large surface area for absorbing sunlight. /
+Leaf blade is thin to allow light to reach the photosynthetic cells easily. /
+Palisade mesophyll consists of tightly packed cells which contain many chloroplasts to allow effective absorption of sunlight. /
+Palisade mesophyll is located on the upper side of the leaf to allow effective absorption of sunlight. 
+(any 3)													1m x 3
+Adaptation for obtaining carbon dioxide: 
+Spongy mesophyll consists of loosely packed cells with many air spaces to allow carbon dioxide to diffuse freely inside the leaf. 							1m
+Upper and lower epidermis contains numerous stomata to allow gases to diffuse into the leaf. 														1m
+Adaptation for obtaining water:
+Upper and lower epidermis is covered by waxy cuticle to keep water inside the leaf for photosynthesis.												1m
+Each stoma is surrounded by a pair of guard cells to regulate the passage of water vapour into and out of the leaf. 									1m
+Midrib and veins contain xylem which allows efficient transport of water into the leaf.
+														1m
+Communication												3m	
+---------------------------------------------------

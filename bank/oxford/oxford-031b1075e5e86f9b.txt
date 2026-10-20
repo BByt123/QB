@@ -1,0 +1,1366 @@
+	
+Chapter 2		The cell as the basic unit of life
+
+Multiple-choice questions
+
+[10287487]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the structure of a human cheek cell.
+
+
+	Which of the above sub-cellular structures would be more abundant in a plasma cell, which is responsible for the production of antibodies, than the cheek cell?
+A	Q only				B	Q and R only
+C	Q and T only			D	S and T only
+C
+
+---------------------------------------------------
+
+[10287505]
+// High order thinking // Schematic diagram // Applying concepts //
+*	Which of the above sub-cellular structures can be observed in an onion epidermal cell under the high power of a light microscope?
+A	R and U only			B	P, R and U only
+C	P, R, T and U only		D	P, Q, R and U only
+B
+
+---------------------------------------------------
+
+
+
+[10287510]
+// Comparison // Basic concepts //
+*	Which of the following correctly arranges the sub-cellular structures in descending order of their width?
+A	nucleus, chloroplast, mitochondrion, ribosome, cell membrane
+B	cell membrane, ribosome, mitochondrion, chloroplast, nucleus
+C	nucleus, mitochondrion, chloroplast, cell membrane, ribosome
+D	ribosome, cell membrane, mitochondrion, chloroplast, nucleus
+A
+
+---------------------------------------------------
+
+[10287527]
+// Data handling //
+**	In an investigation, scientists mixed some pig liver cells with a buffer solution and broke open the cells with a blender. The mixture was filtered and spun in a centrifuge at different speeds to separate the cellular components by their mass. The separated components were transferred to different test tubes and a series of tests were carried out on each test tube. The results are shown in the table below.
+
+Test
+Test tube
+
+
+1
+2
+3
+
+Involvement in protein synthesis
+–
+–
++
+
+Involvement in energy production
+–
++
+–
+
+Presence of DNA
++
++
+–
+
+	Key:	‘+’ positive result	‘–’ negative result
+
+	Which of the following combinations correctly identifies the sub-cellular structures present in test tubes 2 and 3?
+
+Test tube 2
+Test tube 3
+
+A
+nucleus
+smooth endoplasmic reticulum
+
+B
+mitochondrion
+vacuole
+
+C
+nucleus
+rough endoplasmic reticulum
+
+D
+mitochondrion
+ribosome
+
+D
+
+---------------------------------------------------
+
+Short question
+
+[10287536]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows some mesophyll cells in a tobacco leaf.
+(×4000)
+A
+B
+C
+D
+E
+(×4000)
+A
+B
+C
+D
+E
+
+a	For each of the biological molecules listed in the table below, select one labelled sub-cellular structure in the photomicrograph that the biological molecule may be present. Put the appropriate letters in the right column.														(3 marks)
+
+Biological molecule
+Sub-cellular structure
+
+Starch
+
+
+
+Cellulose
+
+
+
+Phospholipid
+
+
+
+
+b	Give two pieces of evidence from the photomicrograph to justify that the image was obtained with a transmission electron microscope, instead of a light microscope.										(2 marks)
+
+
+
+-- answer --
+a	B / E													1m
+	C													1m
+	D													1m
+b	The magnification is much higher than that the maximum magnifying power of light microscopes. /
+	The resolution is much higher than that with a light microscope (e.g. the internal structure of the chloroplast is visible in the photomicrograph). /
+	The photomicrograph is black-and-white, instead of a coloured image obtained with a light microscope. (any 2)								1m x 2
+
+---------------------------------------------------
+
+
+Structured question
+
+[10287543]
+// Cross-topic // Data handling // High order thinking //
+**	Other than the cell membrane, the cytoplasm of many cells also has various structures composed of membranes. In an investigation, scientists determined the relative abundance of different types of membranes found in three types of human cells, X, Y and Z. The bar chart below shows the results.
+cell membrane
+rough endoplasmic reticulum
+nucleus
+outer mitochondrial membrane
+inner mitochondrial membrane
+other
+X
+Y
+Z
+percentage of 
+total membrane
+type of membrane
+Key:
+cell membrane
+rough endoplasmic reticulum
+nucleus
+outer mitochondrial membrane
+inner mitochondrial membrane
+other
+X
+Y
+Z
+percentage of 
+total membrane
+type of membrane
+Key:
+
+a	In both cells Y and Z, the percentage of the inner mitochondrial membrane is much higher than that of the outer mitochondrial membrane. Using your knowledge of the structure of mitochondria, explain why it is so.
+													(1 mark)
+b	It is known that one of the three types of cells used in the investigation is the type of pancreatic cells responsible for the production of pancreatic juice.
+i	Suggest two types of digestive enzymes that are present in the pancreatic juice.									(2 marks)
+ii	Which cell is most likely to be pancreatic cell? Explain your answer with supporting evidence from the bar chart.				(3 marks)
+c	Deduce, with reason(s), what cell X is.						(2 marks)
+d	How would the relative abundance of cell membrane of an epithelial cell of the small intestine be different from that of cell Z?Give a reason to your answer. 												(2 marks)
+e	State onetype of sub-cellular structure that may be grouped under the ‘other’ category in the bar chart.							(1 mark)
+-- answer --
+a	The inner mitochondrial membrane is highly folded while the outer membrane is not.													1m
+	b	i	Amylase / proteases / lipases (any 2)						1m x 2
+		ii	Cell Y											1m
+The percentage of rough endoplasmic reticulum(RER) membrane in cell Y is high (60%), meaning the cell contains a large number of RER.	1m
+Pancreatic cells secrete pancreatic juice which contains various digestive enzymes. Enzymes are protein molecules and RER is the site of protein synthesis.											1m
+c	Mature red blood cell										1m
+	It does not have a nucleus / membrane-bounded organelles (e.g. mitochondria and RER).												1m
+d	The percentage of cell membrane in the epithelial cell of the small intestine would be higher than that of cell Z								1m
+	as part of its cell membrane is folded into microvilli.				1m
+	(or other reasonable answers)
+e	Smooth endoplasmic reticulum / vacuole						1m
+	(or other correct answers)
+
+--------------------------------------------------
+
+
+Chapter 3		Movement of substances across 						cell membrane
+
+Multiple-choice questions
+
+[10287606]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below showssome cells immersed in a solution.
+X
+cytoplasm
+X
+cytoplasm
+
+	X is filled with
+	A	air.					B	a solution hypertonic to the cytoplasm.
+	C	cell sap.				D	a solution hypotonic to the cytoplasm.
+B
+
+---------------------------------------------------
+
+[10287619]
+// Applying concepts //
+*	Which of the following statements about the fluid mosaic model of a cell membrane are correct?
+	(1)	Channel proteins are fixed in positionin the cell membrane.
+	(2)	Glycoproteins can move laterally in the cell membrane.
+	(3)	The flexibility of the cell membrane increases with temperature.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+C
+
+---------------------------------------------------
+
+
+[10287645]
+// Graph interpretation // Experiment // Applying concepts //
+**	Directions: The following two questions refer to the experiment below. A student filled five dialysis bags with salt solutions of different concentrations. She then placed the dialysis bags in separate beakers containing a salt solution with an initial concentration of 0.5 M. The five dialysis bags were weighted every 10 minutes and the changes in mass of each bag were calculated. The graph below shows the results of the experiment.
+time (minutes)
+percentage change in mass
+time (minutes)
+percentage change in mass
+
+
+	Which line in the graph shows the change in mass of the dialysis bag with the highest initial concentration of salt?
+A	I					B	II
+C	IV					D	V 
+A
+
+---------------------------------------------------
+
+[10287652]
+// Graph interpretation // Experiment // Applying concepts //
+**	Which line or lines in the graph show the changes in mass of dialysis bags that still contain a hypotonic solution at 45 minutes?
+A	II only				B	I and II only
+C	IV only				D	IV and V only 
+C
+
+---------------------------------------------------
+
+Short question
+
+[10287681]
+// Applying concepts // Schematic diagram //
+*	In humans, most food substances are absorbed in the small intestine. The diagram belowshows the structure of the cell membrane of an epithelial cell in the small intestine.
+P
+Q
+R
+intestinal lumen
+cytoplasm 
+of the epithelial cell
+Key:
+path of movement
+P
+Q
+R
+intestinal lumen
+cytoplasm 
+of the epithelial cell
+Key:
+path of movement
+
+For each of the food substances listed in the table below, select one labelled shape in the diagram that represents the food substance. Based on your understanding of the structure of the cell membrane, give reasons for your answers.													(7 marks)
+
+Food substance
+Shape in the diagram
+Reason
+
+Fructose
+
+
+
+
+
+
+Vitamin D
+
+
+
+
+
+
+Starch
+
+
+
+
+
+
+-- answer --
+Food substance
+ Shape in the diagram
+Reason
+
+Fructose
+Q
+Being polar, the fructose molecules cannot dissolve in / are repelled by the phospholipid bilayer and thus cannot diffuse across the cell membrane.
+Some proteins spanning across the phospholipid bilayer act as carriers for transporting fructose across the cell membrane.
+
+Vitamin D
+R
+Being non-polar, the vitamin D molecules can dissolve in the phospholipid bilayer and directly diffuse through the cell membrane.	
+
+Starch
+P
+Starch molecules are too large to pass through the cell membrane.
+
+															7m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10287689]
+// Cross-topic // Scientific investigation // Graph interpretation // Applying concepts //
+*	A student carried out an investigation to determine the water potential of leaf tissues from two aquatic plants, X and Y. She immersed the leaves from two plants in a series of salt solutions of different concentrations. After a period of time, samples of leaf tissues were then taken and observed under a light microscope. The total number of cells counted and the number of plasmolysed cells were recorded for each sample. The graph below shows the results of the investigation.
+
+concentration of 
+salt solution (M)
+average percentage of plasmolysed cells
+plant X
+plant Y
+Key:
+concentration of 
+salt solution (M)
+average percentage of plasmolysed cells
+plant X
+plant Y
+Key:
+
+a	The leaf cells of plant Y have dark-coloured pigments and can be difficult to observe under the high power of the microscope. State one action that the student could take to increase the brightness of the image.		(1 mark)
+b	State two variables that should have been kept constant in this investigation.
+														(2 marks)
+c	One of the signs of plasmolysis is the clumping of chloroplasts in the centre of the cell.Explain why the chloroplasts clump in the centre of plasmolysed cells.												(2 marks)
+d	The student noticed that not all the cells were plasmolysed even in a concentrated salt solution (e.g. 1.2 M salt solution). Suggest an explanation for her observation.										(1 mark)
+e	In this investigation, the water potential of the leaf tissues can be determined from the water potential of a solution that causes 50% of the cells to become plasmolysed.
+i	Using the results of the experiment,estimate the water potential of the two plants (in terms of salt concentration).				(2 marks)
+ii	Which plant is more likely to be an aquatic plant that lives in seawater? Explain your answer.								(4 marks)
+
+-- answer --
+a	Adjust the diaphragm of the microscope.						1m
+b	Volume of the salt solutions / length of time that the leaves are immersed in the salt solutions / temperature of the salt solutions / magnification of the light microscope used to observe the leaf tissues
+	(any 2 or other correct answers)								1m x 2
+c	In a hypertonic solution, water moves out of the cell by osmosis.		1m
+	The cytoplasm / vacuole shrinks in size, causing the clumping of chloroplasts in the centre of the cell.										1m
+d	The water potential of some cells was higher than that of the concentrated salt solution, while that of others was equal to / lower than that of the solution.															1m
+	e	i	Plant X: 0.58 M										1m
+			Plant Y: 0.92 M										1m
+		ii	Plant Y											1m
+The water potential of the leaf cells in plant Y is lower than that in plant X.													1m
+The lower water potential reduces the water potential gradient between the cytoplasm and the seawater.							1m
+This helps reduce the amount of water lost to the seawater by osmosis / preserve water.										1m
+
+--------------------------------------------------
+
+
+[10287690]
+// Overseas exam question // Scientific investigation // Data handling //
+*	A group of students set up the apparatus shown below to test the effect of temperature on the rate of diffusion of glucose molecules in model cells. They determined the concentration of glucose in the distilled water by taking samples at 30s intervals. They carried out the Benedict’s test on each sample and used a calibrated colorimeter to determine the absorbance of each sample. Previously they had produced a calibration curve of colorimeter readings against glucose concentration. They used the calibration curve to determine the glucose concentrations of their samples. They carried out the investigation at three different temperatures.
+glass rod
+Visking tubing
+distilled water
+glucose solution
+beaker
+string
+glass rod
+Visking tubing
+distilled water
+glucose solution
+beaker
+string
+
+	A table of the results from the students’ investigation is shown below.
+Temperature of water bath (oC)
+Concentration of glucose found in the distilled water samples taken at 30s intervals (mmol dm-3)
+
+
+0s
+30s
+60s
+90s
+120s
+
+10
+0.00
+0.33
+0.65
+0.98
+1.30
+
+20
+0.00
+0.80
+3.21
+2.40
+3.20
+
+30
+0.00
+1.23
+2.45
+3.68
+4.90
+
+
+	a	i	Suggest an improvement to the method that would allow the students to obtain more precise results.						(1 mark)
+ii	State one variable that should have been controlled during this experiment.										(1 mark)
+	b	i	Before the students began their investigation they made a hypothesis. State the hypothesis the students would have made and state the scientific process that supports your choice.				(2 marks)
+ii	Justify whether the results from the investigation support your hypothesis given in part bi.							(2 marks)
+c	Describe how you would use the same equipment to test if the thickness of the exchange surface affects the diffusion rate.				(2 marks)
+OCR GCE (AS) Biology A Depth in biology Nov 2020 Q5
+-- answer --
+	a	i	Test at smaller temperature intervals. /
+			Test at shorter time intervals. / 
+			Repeat the experiment and calculate the mean at each temperature. /
+			Use a biosensor to measure glucose concentration.				1m
+ii	Concentration of glucose solution in the tubing / volume of the glucose solution / volume of distilled water in beaker / volume of sample removed for testing / volume of reagent used in the Benedict’s test / length of the Visking tubing												1m
+	(or other reasonable answers)
+	b	i	Hypothesis: As temperature increases, the movement of glucose into the distilled water increases.									1m
+			Scientific process involved: diffusion							1m
+ii	Yes.													1m
+	As the temperature increases, more glucose is found in the water / the diffusion rate of glucose molecules is higher.					1m
+	(or other reasonable answers)
+c	Use two identical set-ups kept at a particular temperature				1m
+	but use two or more layers of Visking tubing in one of the set-ups.		1m
+
+--------------------------------------------------
+
+
+[10287706]
+// Overseas exam question // Graph interpretation// Calculation //
+**	The diagram below represents the fluid mosaic model of membrane structure.
+glycoprotein
+cholesterol
+X
+glycoprotein
+cholesterol
+X
+
+a	Molecule X is a protein involved in the transport of water-soluble substances across the membrane. Identify molecule X and explain why this type of molecule is necessary in the transport of water-soluble substances.														(3 marks)
+b	Hand sanitisers containing alcohol can be used to destroy bacteria (prokaryotes) on the skin. However, at very high concentrations, alcohol can have a drying effect which may damage the skin. An investigation was carried out into the effect of alcohol concentrations on membrane permeability. Beetroot tissue was used rather than prokaryotes, since the release of a red pigment from beetroot cells can be a measure of membrane permeability. Sections of beetroot tissue were placed in different concentrations of alcohol and the absorbance of the surrounding solution was measured using a colorimeter. The results are shown in the graph below.
+	alcohol concentration (%)
+absorbance
+alcohol concentration (%)
+absorbance
+
+		i	Calculate the percentage increase in absorbance when alcohol concentration was increased from 80% to 100%. Show your working.													(2 marks)
+ii	Describe and suggest an explanation for the trend shown by the data in the graph.											(3 marks)
+iii	Using the information provided, and assuming prokaryotic membranes are similarly affected by alcohol, suggest why many brands of hand sanitiser have an alcohol concentration of approximately 70%.
+													(2 marks)
+CCEA GCE (AS) Biology Unit AS 1 Jun 2019 Q4a i, c
+-- answer --
+a	Channel protein												1m
+	It provides a hydrophilic channel for polar molecules,					1m
+	allowing them to pass through the hydrophobic phospholipid bilayer.		1m
+	b	i	(0.96 – 0.90) ÷ 0.90 × 100									1m
+			= 6.67%												1m
+ii	At low concentrations increasing alcohol concentration has little effect on absorbance; but above 40%, increasing alcohol dramatically increases absorbance.											1m
+	This is because more pigment is released / greater membrane permeability at higher alcohol concentrations.								1m
+	The alcohol disrupts / destroys the membrane/proteins within the membrane.													1m
+iii	70% alcohol is high enough to destroy many bacteria through disruption of cell membrane											1m
+	while is more economical / not having the associated drying effect of higher alcohol concentrations.									1m
+
+--------------------------------------------------
+
+
+Chapter 4		Enzymes and metabolism
+
+Multiple-choice questions
+
+[10287873]
+// Scientific investigation // Experiment //Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the set-up prepared by a student to study the effects of certain factors on the activity of catalase found in beef tissue.
+water bath at 35 °C
+water bath at 50 °C
+water bath at 35 °C
+water bath at 20 °C
+water bath at 35 °C
+3 cm3 hydrogen peroxide solution at pH 9
+3 cm3 hydrogen peroxide solution at pH 7
+3 cm3 hydrogen peroxide solution at pH 5
+3 cm3 hydrogen peroxide solution at pH 7
+3 cm3 hydrogen peroxide solution at pH 7
+fresh 
+beef cube with sides of 1 cm
+P
+Q
+R
+S
+T
+water bath at 35 °C
+water bath at 50 °C
+water bath at 35 °C
+water bath at 20 °C
+water bath at 35 °C
+3 cm3 hydrogen peroxide solution at pH 9
+3 cm3 hydrogen peroxide solution at pH 7
+3 cm3 hydrogen peroxide solution at pH 5
+3 cm3 hydrogen peroxide solution at pH 7
+3 cm3 hydrogen peroxide solution at pH 7
+fresh 
+beef cube with sides of 1 cm
+P
+Q
+R
+S
+T
+
+
+	The student recorded the cumulative volume of oxygen produced in each boiling tube. Which boiling tubes would be used to study the effects of temperature and pH on the activity of catalase in beef tissue respectively?
+		Temperature				pH
+A	P, Q and S only			Q, R and T only
+B	P, R and T only			Q, S and T only
+C	Q, R and S only			P, Q and R only
+D	Q, S and T only			P, R and T only
+D
+
+---------------------------------------------------
+
+[10287882]
+// Scientific investigation // Experiment // Applying concepts //
+**	The student sets up three additional boiling tubes similar to tube S but with the following modifications:
+(1)	Cut the beef cube into four smaller cubes before putting it into the tube.
+(2)	Prepare the beef cube from frozen beef thawed at room temperature.
+(3)	Add 2 cm3 hydrogen peroxide solution after the release of oxygen has stopped.
+	Which of the modifications would increase the initial rate of oxygen production and increase the total volume of oxygen produced in the boiling tube respectively?
+		Increase theinitial rate				Increase the total volume
+		of oxygen production				of oxygen produced
+	A	(1)only							(3) only
+	B	(2) only							(1) only
+	C	(2) only							(1) and(3) only
+	D	(1) and (2) only					(3) only
+A
+
+---------------------------------------------------
+
+[10287886]
+// Experiment // Schematic diagram // Applying concepts //
+**	The diagram below shows a set-up used by a student to compare the activity of catalase in different plant tissues.
+rubber tubing
+glass tube
+boiling tube
+tissue
+hydrogen peroxide solution
+measuring cylinder
+water
+rubber tubing
+glass tube
+boiling tube
+tissue
+hydrogen peroxide solution
+measuring cylinder
+water
+
+
+	The student measured the volume of oxygen produced in 10 minutes after the tissue had been added. However, for some tissue samples, the change in the water level in the measuring cylinder was very small. Which of the followingmodifications can be made to improve accuracy of the results?
+	(1)	Use a longer rubber tubing.
+	(2)	Use a smaller measuring cylinder.
+	(3)	Heat the content in the boiling tube to 35 °C.
+	A	(1)and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+C
+
+---------------------------------------------------
+
+Short question
+
+[10287887]
+// Graph interpretation // Comparison // Applying concepts //
+**	Tay-Sachs disease is a genetic disorder that results in the destruction of nerve cells in the brain or spinal cord. Patients with this disease cannot produce an enzyme called hexosaminidase. The enzyme catalyses the breakdown of ganglioside, a special kind of lipids highly abundant in the cell membrane of nerve cells. Without hexosaminidase, gangliosides build up in the nerve cells of the patients, leading to the death of nerve cells.
+	Tay-Sachs disease can be diagnosed by determining the level of hexosaminidase in blood. In the diagnostic test, a drop of concentrated ganglioside solution is added to blood sample and the amount of ganglioside in the sample is measured. The graph below shows the test results of three babies (X, Y and Z).
+
+amount of ganglioside
+time
+X
+Y
+Z
+amount of ganglioside
+time
+X
+Y
+Z
+
+
+
+a	Which baby/babies is/are likely to have Tay-Sachs disease? Explain your answer with evidence from the graph.						(2 marks)
+b	Based on your knowledge of enzyme-catalysed reactions, account for the difference in the test results of Y and Z.						(3 marks)
+c	Suggest another measurement that can be done in the test to determine the level of hexosaminidase.									(1 mark)
+
+
+
+
+
+-- answer --
+a	Baby X.													1m
+	The amount of ganglioside in the blood sample of baby X remains unchanged. This means that there is no hexosaminidase in the blood of baby X to break ganglioside down.											1m
+b	The rate of decrease in ganglioside in the blood sample of baby Z is higher than that in the blood sample of baby Y.								1m
+	Baby Z may have a higher level of hexosaminidase in his/her blood.		1m
+	The chance of forming enzyme-substrate complex is higher in the blood sample of baby Z, resulting in a faster rate of reaction.						1m
+	(or other reasonable answers)
+c	Measure the rate of product formation.							1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10287893]
+// Design experiment // Communication // STSE connections //
+**	On the surface of our teeth, dental plaque is constantly formed. It is composed of microorganisms, held together by a mucus-like substance that contains glycans (a complex sugar), proteins and other polymers. Our teeth may be stained when coloured substances in foods and drinks adhere to the dental plaque.
+	David’s father drinks a lot of tea every day and his teeth are stained brown. David bought his father a Super Whitening Enzyme Toothpaste that contains enzymes and claims to be more effective in removing stains on teeth than toothpaste without enzymes. The diagram below shows the toothpaste and some information printed on it.
+
+Contains papain and glucanase.
+Papain: a protease extracted from papayas that catalyses the breakdown of proteins
+Glucanase: an enzyme extracted from bacteria that catalyses the breakdown of glycans
+Store in a cool place. Avoid high temperatures.
+Super Whitening Enzyme Toothpaste
+-------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Papain
+Glucanase
+Contains papain and glucanase.
+Papain: a protease extracted from papayas that catalyses the breakdown of proteins
+Glucanase: an enzyme extracted from bacteria that catalyses the breakdown of glycans
+Store in a cool place. Avoid high temperatures.
+Super Whitening Enzyme Toothpaste
+-------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Papain
+Glucanase
+
+
+a	Explainhow this toothpaste may help remove tea stain on teeth.	(3 marks)
+b	Why is it not advisable to store this toothpaste at high temperatures?															(1 mark)
+c	David’s father wants to know whether the claim made by Super Whitening Enzyme Toothpaste is true or not. David decides to perform an experiment to test the claim. He has obtained the following materials and apparatus which can be used for performing the experiment:
+tea, distilled water, beakers, Super Whitening Enzyme Toothpaste, toothpaste without enzymes, cotton pads, electronic balance, glass rod, droppers, calcium phosphate# discs
+
+#Calcium phosphate is the major component of the outer part of a tooth.
+
+	Describe an experiment that David can perform.				(5 marks)
+d	Suggest another application of papain.						(1 mark)
+
+-- answer --
+a	The papain and glucanase in the toothpaste may help break down the proteins and glycans in the dental plaque respectively.						1m
+	With the mucus-like substance partially broken down, dental plaque may be removed more easily during brushing								1m
+	and the coloured substances in tea adhered to the dental plaque may be removed together.													1m
+	As a result, tea stain on teeth may be removed.
+b	High temperatures will cause a change in shape of the active site of the enzymes / denaturation of the enzymes in the toothpaste, causing the enzymes to lose their catalytic ability.												1m
+c	Immerse two calcium phosphate discs in tea for 12 hours.				1m
+	Weigh 0.5 g of Super Whitening Enzyme Toothpaste and toothpaste without enzymes using an electronic balance. Dissolve each toothpaste in 40 cm3 of distilled water in a beaker. Stir with a glass rod to dissolve the toothpaste completely.												1m
+	Add drops of one toothpaste solution to two cotton pads using a dropper to soak the cotton pads completely. Repeat with another toothpaste solution. The number of drops added for soaking the cotton pads should be the same for both toothpaste solutions.													1m
+	Put one calcium phosphate disc between cotton pads soaked with each toothpaste solution. Leave them at room temperature for 5 minutes.				1m
+	Compare the colour intensity on the cotton pads soaked with different toothpaste solutions. / Compare the colour change of the calcium phosphate discs.	1m
+	(or other reasonable answers)
+d	Papain is added to some facial cleansers to help break down dead cells in the skin. / Papain is used to make meat tenderizers to help break down proteins in the meat to soften it. (or other reasonable answers)						1m
+
+--------------------------------------------------
+
+
+[10287898]
+// Overseas exam question // Scientific investigation // Applying concepts //
+*	The enzyme catalase breaks down hydrogen peroxide, a common waste product in plant and animal cells, producing oxygen and water.
+	If a tissue containing catalase is added to hydrogen peroxide in a boiling tube, oxygen is produced very quickly and a froth develops in the boiling tube. The maximum height of the froth can be measured and used as an indication of catalase activity.
+	In an investigation, the activity of catalase in three tissues was compared using the following procedure:
+three boiling tubes were set up, each half-filled with hydrogen peroxide
+three 1 cm3 cubes, one each of liver, muscle (beef) and potato tissue were prepared
+each cube of tissue was added to a separate boiling tube
+the maximum height of froth produced in each boiling tube was measured.
+a	Complete the table below using a tick () to identify variables that should havebeen controlled to ensure the investigation was valid.		(2 marks)
+Variable
+Variable controlled?
+
+Temperature
+
+
+Concentration of enzyme
+
+
+Concentration of substrate
+
+
+Volume of substrate
+
+
+b	Complete the table below that could be used for recording the results ofthis investigation.											(3 marks)
+	(You do not need to include a caption.)
+
+
+
+
+
+
+
+
+
+
+
+
+c	Suggest how the investigation could be modified to provide more accurate results.												(2 marks)
+d	In a similar investigation, the cubes of tissue were cut into thin slices. The maximum height of froth produced was greater. Suggest an explanation for this.													(1 mark)
+						CCEA GCE (AS) Biology Unit AS 3 May 2017 Q7
+
+-- answer --
+a	
+Variable
+Variable controlled?
+
+Temperature
+
+
+Concentration of enzyme
+
+
+Concentration of substrate
+
+
+Volume of substrate
+
+
+															2m
+b	
+Tissue type
+Maximum height of froth (cm)
+
+Liver
+
+
+Muscle (beef)
+
+
+Potato
+
+
+	Appropriate column headings									1m
+	Appropriate unit for height of froth								1m
+	All three tissues included										1m
+c	Collect the oxygen produced in each boiling tube						1m
+	and measure the volume of the oxygen.							1m
+	(or other reasonable answers)
+d	More catalase in the tissue comes into contact with hydrogen peroxide.	1m
+
+--------------------------------------------------
+
+[10287909]
+// Overseas exam question // Cross-topic // Experiment // Schematic diagram //
+*	Students investigated the action of an enzyme that is found in saliva and parts of the digestive system.
+	They placed different solutions into holes in starch agar in a Petri dish.Starch agar is a jelly-like substance containing starch.
+	The students left the solutions in the holes for several hours.They then stained the starch agar blue-black with iodine solution.
+	The diagram below shows the results at the end of their experiment.
+starch agar stained
+blue-black with iodine solution
+areas stained yellow-brown
+with iodine solution
+saliva + acid
+boiled saliva
+water
+saliva
+pea extract
+starch agar stained
+blue-black with iodine solution
+areas stained yellow-brown
+with iodine solution
+saliva + acid
+boiled saliva
+water
+saliva
+pea extract
+
+
+a	The starch agar surrounding the hole containing saliva was yellow-brown at the end of the experiment.Explain why.						(2 marks)
+b	The starch agar surrounding the hole containing saliva and acid was blue-black at the end of the experiment.Explain why.			(2 marks)
+c	The starch agar surrounding the hole containing boiled saliva was blue-black at the end of the experiment.Use your knowledge of enzyme theory to explain why.									(3 marks)
+	d	i	The starch agar surrounding the hole containing pea extract was yellow-brown at the end of the experiment.Suggest what was present in the pea extract to cause this.						(1 mark)
+ii	Peas contain starch. A reaction takes place in peas within a few hours after they are picked. This reaction causes the peas to taste sweeter.Use the results from the pea extract to explain why.		(2 marks)
+			CCEA GCSE Science (Double Award) Unitised Foundation Tier
+												 Unit B1 Jun 2019 Q7
+
+
+-- answer --
+a	Saliva contains amylase										1m
+	which catalyses the breakdown of starch into maltose. Hence, no starch was present in the starch agar surrounding the hole.						1m
+b	Acid causes denaturation of amylase / a change in shape of the active site of amylase.													1m
+	Hence, starch was not broken down into maltose and starch was still present in the starch agar surrounding the hole.								1m
+c	Boiling causes denaturation of amylase / a change in shape of the active site of amylase.													1m
+	Starch can no longer fit into the active site of amylase.					1m
+	Hence, no enzyme-substrate complex was formed.					1m
+d	i	Amylase												1m
+	ii	Starch (which does not taste sweet) in the peas is broken down by amylase															1m
+		into maltose, which tastes sweet.							1m
+
+--------------------------------------------------
+
+
+Chapter 5		Food and humans
+
+Multiple-choice questions
+
+[10288027]
+// Data handling // Experiment //Schematic diagram // Basic concepts //
+*	The diagram below shows an experimental set-up used by a group of students to determine the energy values of three kinds of food (X, Y and Z).
+mounted needle
+burning food
+thermometer
+boiling tube
+20 cm3 water
+mounted needle
+burning food
+thermometer
+boiling tube
+20 cm3 water
+
+
+	The students measured the change in temperature of the water in the boiling tube after 1 g of each food sample was completely burnt. The table below shows the results.
+
+Food
+Change in temperature of the water(°C)
+
+X
++26.6
+
+Y
++13.1
+
+Z
++14.5
+
+
+	What foods X, Y and Z are most likely to be?
+		X				Y				Z
+A	bread			egg				butter
+B	butter			bread			egg
+C	butter			egg				bread
+D	egg				bread			butter
+B
+
+---------------------------------------------------
+
+
+[10288037]
+// Data handling // Comparison// Applying concepts //
+**	Directions: The following two questions refer to the table below, which shows the daily requirement of energy per unit body mass of four females (P, Q, R and S).
+
+Female
+Daily requirement of energy per unit body mass (kJ kg–1)
+
+P
+174
+
+Q
+154
+
+R
+360
+
+S
+160
+
+
+	Which of the following combinations shows the most probable identities of the four females?
+
+P
+Q
+R
+S
+
+A
+5-year-old 
+girl
+35-year-old woman
+35-year-old pregnant woman
+75-year-old woman
+
+B
+35-year-old woman
+75-year-old woman
+35-year-old pregnant woman
+5-year-old 
+girl
+
+C
+35-year-old pregnant woman
+5-year-old 
+girl
+75-year-old woman
+35-year-old woman
+
+D
+35-year-old pregnant woman
+75-year-old woman
+5-year-old 
+girl
+35-year-old woman
+
+D
+
+---------------------------------------------------
+
+[10288050]
+// Data handling// Calculation //
+*	Female Q weighs 56 kg. On a typical day, 30% of her energy requirement was fulfilled by consuming rice. Given that 100 g of rice can provide 540 kJ of energy, how much rice had she eaten on that day?
+	A	4.8 g
+	B	480g
+	C	541 g
+	D	1600 g
+B
+
+---------------------------------------------------
+
+Short questions
+
+[10288062]
+// Scientific investigation // Data handling // Calculation //
+*	A group of students carried out an investigation to determine the amount of vitamin C in five types of fruit juice bought from the supermarket. In the investigation, they determined the number of drops of each type of fruit juice needed to decolourize 1 cm3 of DCPIP solution. They then repeated the procedure with a vitamin C solution of a known concentration. Using the results, they calculated the amount of vitamin C in each type of fruit juice. The table below shows the results.
+
+Amount of vitamin C in 100 mL of fruit juice (mg)
+
+Grapefruit juice
+32.5
+
+Guava juice
+25.4
+
+Lemon juice
+24.0
+
+Orange juice
+35.0
+
+Pineapple juice
+30.0
+
+a	Identify the following variables of this investigation:
+	i	dependent variable									(1 mark)
+	ii	independent variable								(1 mark)
+b	State two variables that should have been controlled during the
+investigation.											(2 marks)
+c	Based on the results of this investigation, calculate the amount of guava juice that would contain the same amount of vitamin C as in 100 mL of orange juice. Show your working.							(2 marks)
+
+-- answer --
+a	i	Amount of vitamin C in the fruit juice						1m
+	ii	Type of fruit juice									1m
+b	Volume or concentration of DCPIP solution used / size of drops of fruit juice and vitamin C solution / extent of shaking of the tubes / temperature
+	(any 2 or other reasonable answers)							1m x 2
+c	35.0 / 25.4 × 100										1m
+	=137.8 mL											1m
+
+---------------------------------------------------
+
+
+[10288125]
+// Overseas exam question // Graph interpretation // Comparison // Calculation //
+*	The graph shows how the average daily energy requirement, of 15 to 50 year old males and females, varies with age.
+average daily energy requirement (kJ)
+12 000
+11 000
+10 000
+9000
+8000
+7000
+15–18
+19–50
+age (years)
+breast-
+feeding female
+pregnant female
+female
+male
+Key
+average daily energy requirement (kJ)
+12 000
+11 000
+10 000
+9000
+8000
+7000
+15–18
+19–50
+age (years)
+breast-
+feeding female
+pregnant female
+female
+male
+Key
+
+
+a	Describe and explain the difference in the average daily energy requirement of 15–18-year-old males and females.						(2 marks)
+b	Pregnancy increases a woman’s average daily energy requirement.Calculate the percentage increase in the average daily energy requirementdue to pregnancy.Show your working.							(3 marks)
+c	Explain why pregnancy increases a woman’s average daily energyrequirement.											(1 mark)
+d	Give one factor, not shown in the graph, which affects a person’s average daily energy requirement.								(1 mark)
+						CCEA GCSE Biology Higher Tier Unit 1 2016 Q7a
+
+-- answer --
+a	Males have a higher energy requirement than females.				1m
+	Males have a larger body size and more muscles / higher rate of heat loss.	1m
+b	(9350 – 8500) / 8500 × 100									2m
+	=+10%													1m
+c	Energy is needed for the growth of the foetus.						1m
+d	Level of activity												1m
+
+--------------------------------------------------
+
+Structured questions
+
+[10288140]
+// Design experiment // Graph interpretation // Calculation // Communication //
+**	Nancy wants to know the effect of cooking on the amount of vitamin C in vegetables. She found some data about the amount of vitamin C in three different kinds of vegetables cooked with different methods online. She then plotted the bar chart below.
+amount of vitamin C in 100 g of vegetable (mg)
+kind of vegetable
+white cabbage
+Chinese flowering cabbage
+water spinach
+Key:
+raw
+boiled
+stir-fried
+0
+10
+20
+30
+40
+50
+amount of vitamin C in 100 g of vegetable (mg)
+kind of vegetable
+white cabbage
+Chinese flowering cabbage
+water spinach
+Key:
+raw
+boiled
+stir-fried
+0
+10
+20
+30
+40
+50
+
+
+a	What conclusions can be drawn from the bar chart about the effects of boiling and stir-frying on the amount of vitamin C in the three kinds of vegetables?											(2 marks)
+b	The recommended daily intake of vitamin C for Nancy is 100 mg. With reference to the data, calculate the amount of stir-fried Chinese flowering cabbage she needs to consume in a day if she relies only on this dish to satisfy her requirement of vitamin C. Show your working.		(2 marks)
+c	Design an experiment for Nancy to investigate if the effects of boiling and stir-frying on the amount of vitamin C in broccoli are similar to those shown in the bar chart.										(6 marks)
+
+
+-- answer --
+a	Both boiling and stir-frying decrease the amount of vitamin C in vegetables. /
+	The decrease in the amount of vitamin C caused by boiling is greater than that caused by stir-frying. /
+	Boiling and stir-frying cause the greatest decrease in the amount of vitamin C in water spinach among the three types of vegetables.
+	(any 2 or other reasonable answers)							1m x 2
+b	(100 / 32) × 100											1m
+	= 310 g												1m
+c	Prepare three portions of broccoli of the same mass. Cut the broccoli in each portion into small pieces.									1m
+	Put one portion of broccoli into a test tube containing distilled water and boil it using a boiling water bath for 2 minutes. Put another portion of broccoli into a frying pan and stir-fry it for 2 minutes. Collect the broccoli from the test tube or frying pan and blot dry. Leave the remaining portion untreated.		1m
+	Put each portion of broccoli into a mortar respectively. Grind them with the same volume of cool distilled water using a pestle. Squeeze the ground materials through several layers of pre-moistened fine muslin. Collect the filtrate / juice of each portion.											1m
+	Put 1 cm3 of DCPIP solution into three test tubes.Use a dropper to add one type of juice to the DCPIP solution in one test tube drop by drop with gentle shaking, until the solution is decolourized. Record the number of drops of juice added. Repeat with the other two types of juice.								1m
+	The size of drops / extent of shaking of the tubes / temperature should be kept the same for the three types of juice.							1m
+	If the effects of boiling and stir-frying on the amount of vitamin C in broccoli are similar to those shown in the bar chart, the number of drops of juice needed for boiled broccoli and stir-fried broccoli to decolourize DCPIP solution will be higher than that of untreated broccoli juice.							1m
+	(or other reasonable answers)
+
+--------------------------------------------------
+
+
+[10288147]
+// Overseas exam question // Data handling // Comparison // Basic concepts //
+*	Look at the table below. It gives information on the nutritional content of a vegetarian burger and a beefburger.
+Food
+Energy kcal (100 g)
+Total fat
+(g/
+100 g)
+Saturated fat
+(g/100 g)
+Cholesterol (mg/100 g)
+Percentage (%) energy from total fat
+Fibre (g/
+100 g)
+Iron (mg/
+100 
+g)
+
+Vegetarian Burger
+146
+4.8
+0.5
+0
+30
+6.0
+0.5
+
+Beefburger
+291
+24.7
+10.7
+76
+76
+0
+1.6
+
+							Adapted from Micronutrient Profile Factsheet. © Quorn
+	a	i	Compare the amounts of total fat, saturated fat and cholesterol in the vegetarian burger and the beefburger.					(3 marks)
+ii	State and explain which burger would be better for long-termhealth with respect to energy kcal and percentage (%) energyfrom total fat.													(4 marks)
+The vegetarian burger contains 6g/100g fibre; the beefburger does notcontain any fibre.
+	b	i	State one function of fibre in the diet.					(1 mark)
+ii	Write down one long-term health problem that is linked to a lack of fibre in the diet.									(1 mark)
+	c	i	Explain why the beefburger would be better for health with respectto iron content.										(1 mark)
+ii	Explain why it is important for health to maintain the correct levelsof iron in the body.									(3 marks)
+					CCEA GCE (AS) Human Body Systems Jun 2021 Q2
+
+-- answer --
+	a	i	The amount of total fat in the vegetarian burger (4.8 g/100 g) is lower than that in the beefburger (24.7 g/100 g).							1m
+	The amount of saturated fat in the vegetarian burger (0.5 g/100 g) is lower than that in the beefburger (10.7 g/100 g).						1m
+	The vegetarian burger has no cholesterol while the beefburger has 76 mg/100 g of cholesterol.									1m
+ii	The vegetarian burger would be better for health.				1m
+	The vegetarian burger is lower in calories.						1m
+	The vegetarian burger has a lower percentage energy from total fat.	1m
+	The excess calories / extra calories from fat can contribute to weight gain / obesity, which is a risk factor for diabetes / cardiovascular diseases / heart attack / stroke / cancer.									1m
+	b	i	Fibre may help faeces pass out of the body / reduce blood cholesterol levels.													1m
+ii	Cancer / cardiovascular diseases / heart attack / stroke			1m
+	c	i	The iron content in the beefburger (1.6 mg/100 g) is higher than that in the vegetarian burger (0.5 mg/100 g).							1m
+ii	Iron is a component of haemoglobin,							1m
+	which is a molecule in red blood cells that carries oxygen around the body.														1m
+	A deficiency in iron may lead to anaemia.						1m
+
+--------------------------------------------------
+
+
+Chapter 6		Nutrition in humans
+
+Multiple-choice questions
+
+[10288225]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the longitudinal section of a decayed tooth of a man.
+decayed part
+jawbone
+decayed part
+jawbone
+
+
+	Which of the following statements is/are correct?
+	(1)	The man does not feel pain in his tooth.
+(2)	The decayed part of the tooth can grow back if the man starts brushing his teeth properly.
+(3)	If the tooth decays further, the man will have difficulties in tearing flesh with the tooth.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+
+[10288232]
+// Schematic diagram//Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the human digestive system.
+P
+Q
+R
+S
+T
+P
+Q
+R
+S
+T
+
+
+	In which structure(s) does digestion of lactose normally occur?
+	A	structure Q only
+	B	structure R only
+	C	structures P and Q only
+	D	structures P and R only
+B
+
+---------------------------------------------------
+
+[10288250]
+// Schematic diagram // Applying concepts //
+*	Lactose intolerance is a common digestive problem among adults. People with lactose intolerance produce insufficient amounts of lactase. Which of the following would happen to a person with lactose intolerance within several hours after consuming milk?
+(1)	Less water is absorbed from the gut content of structure R into the bloodstream ascompared with normal people.
+	(2)	Lactose can be detected in the gut content of structure S.
+	(3)	Faeces stored in structure T containmilk proteins.
+	A	(1)only
+	B	(3) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+C
+
+---------------------------------------------------
+
+Short question
+
+[10288259]
+// Overseas exam question // Scientific investigation // Schematic diagram//
+*	Bile helps digest fats.
+a	Name the organ that produces bile.							(1 mark)
+	An experiment was set up to investigate the effect of bile on the action of lipase.
+	Two test tubes containing milk and lipase were placed in a water bath at 25°C.
+	Bile was added to test tube B.
+	The time taken to digest the fat in the milk was recorded.
+water bath 
+25 °C
+milk + lipase
+milk + lipase + bile
+© CCEA
+A
+B
+water bath 
+25 °C
+milk + lipase
+milk + lipase + bile
+© CCEA
+A
+B
+
+
+b	What should be added to test tube A to make this a fair test?	(1 mark)
+	The results are shown in the table.
+
+Test tube
+Time taken to digest fat (min)
+
+A
+30
+
+B
+10
+
+
+c	What can you conclude from these results?					(1 mark)
+
+	The diagram shows bile emulsifying a single large fat droplet.
+single large fat droplet
+bile
+© CCEA
+single large fat droplet
+bile
+© CCEA
+
+
+	Look at the diagram.
+d	Describe what happens when fats are emulsified.				(1 mark)
+e	Explain how emulsification helps lipase digest fats.			(1 mark)
+					CCEA GCSE Biology Foundation Tier Unit 1 2015 Q6b
+
+-- answer --
+a	Liver														1m
+b	Distilledwater with the same volume as the bile added				1m
+c	Bile can facilitate the breakdown of fat by lipase.						1m
+d	Large fat droplets are broken down into smaller droplets.				1m
+e	Emulsification increases the surface area of fats for lipase to act on.		1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10288281]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Helicobacter pylori is a bacterium which can infect our stomach and cause gastric ulcer. The bacterium can damage the mucus layer lining the stomach wall, resulting in pain of the stomach. The diagram below shows the structure of 
+H. pylori.
+
+flagellum (hair-like structure for movement)
+flagellum (hair-like structure for movement)
+
+
+
+a	With reference to the diagram, state two structural differences between 
+H. pylori and a typical human cell.							(2 marks)
+b	Most bacteria in food cannot survive in the stomach. How would you explain this?											(2 marks)
+c	Based on the above information, suggest how H. pylori causes gastric ulcer.													(3 marks)
+d	Patients with gastric ulcer are often prescribed with drugs which inhibit the secretion of acid in the stomach. How would the digestion of food in patients taking these drugs be affected?						(2 marks)
+
+
+-- answer --
+a	H. pylori has no true nucleus while human cell has a true nucleus / the genetic material of H. pylori is lying free in the cytoplasm while that of human cell is enclosed in the nucleus. /
+	Membrane-bounded organelles are absent in H. pylori but present in the human cell. /
+	H. pylori has flagella while human cell does not have any flagella.
+	(any 2)												1m x 2
+b	Gastric glands in the stomach secrete gastric juice which contains hydrochloric acid.													1m
+	Hydrochloric acid is a strong acid which kills most bacteria in food.	1m
+c	As the mucus layer lining the stomach wall is damaged by H. pylori, tissues in the stomach wall may come into contact with gastric juice.				1m
+	The hydrochloric acid in gastric juice damages the tissues in the stomach wall														1m
+	and the pepsin in gastric juice digests the tissues in the stomach wall,	1m
+	resulting in gastric ulcer.
+d	With less acid secreted, the pH of the gastric juice would increase.	1m
+	The activity of pepsin may be lowered and less proteins may be digested in the stomach.												1m
+
+---------------------------------------------------
+
+
+[10288289]
+// Cross-topic // Schematic diagram // Basic concepts //
+*	The diagram below shows the digestion of starch taking place in the ileum and the absorption of glucose and vitamin D in the ileum.
+epithelium of ileum
+capillary
+lacteal
+lumen of ileum
+starch
+amylase
+molecule P
+enzyme Q on the cell membrane
+glucose
+vitamin D
+processes X and Y
+process Y
+epithelium of ileum
+capillary
+lacteal
+lumen of ileum
+starch
+amylase
+molecule P
+enzyme Q on the cell membrane
+glucose
+vitamin D
+processes X and Y
+process Y
+
+
+a	State the organ responsible for secreting the amylase found in the lumen of the ileum.												(1 mark)
+b	Identify molecule P and enzyme Q.						(2 marks)
+c	With reference to the diagram, state and explain two features of the epithelium of the ileum which facilitate absorption.			(4 marks)
+d	Glucose is absorbed from the lumen of the ileum into the blood in the capillaries by processes X and Y, while vitamin D is absorbed into the lymph in the lacteals by process Y only. What are processes X and Y?															(2 marks)
+e	State one fate of the absorbed glucose.						(1 mark)
+f	Draw a flowchart to show the route by which vitamin D from the lacteal of the ileum reaches the heart. Indicate the main vessels involved.	(2 marks)
+
+
+
+-- answer --
+a	Pancreas													1m
+b	Molecule P: maltose											1m
+	Enzyme Q: maltase											1m
+c	The epithelial cells have a large number of microvilli.					1m
+	This increases the surface area for absorption.						1m
+	The epithelium is only one-cell thick.								1m
+	This provides a short distance for diffusion of food molecules into the blood or the lymph.													1m
+d	Process X: active transport										1m
+	Process Y: diffusion											1m
+e	Glucose is broken down by respiration in cells for releasing energy. / Excess glucose is converted to glycogen in the liver and muscles or converted to lipids in the liver.													1m
+f	Lacteal → lymph vessel → vena cava → heart						2m
+
+--------------------------------------------------

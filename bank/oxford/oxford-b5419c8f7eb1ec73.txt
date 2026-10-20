@@ -1,0 +1,879 @@
+( Chapter 1		Human impact on the 									environment
+
+Multiple-choice questions
+
+[10282721]
+// Basic concepts //
+(	Which of the following statements about different kinds of natural resources is correct?
+A	Fossil fuels are renewable resources because they are formed from dead remains of organisms.
+B	Metals are renewable resources because they can be recycled.
+C	Fish resources are said to be overexploited if fish are caught faster than the population can replace themselves through natural reproduction.
+D	Fresh water resources are becoming limited because more fresh water is locked in ice caps.
+C	
+---------------------------------------------------
+
+[10282723]
+// Basic concepts //
+(*	When sewage containing animal waste leaches into a river, the population of bacteria in the river increases. Which of the following combinations about the cause of the increase in the population of bacteria and its effect is correct?
+	Cause	Effect	
+A	increase in the population of algae	increase in nutrient concentration 	
+B	increase in nutrient concentration 	increase in the population of algae	
+C	decrease in dissolved oxygen level 	increase in the population of algae	
+D	increase in the amount of organic matter 	decrease in dissolved oxygen level 	
+
+D	
+---------------------------------------------------
+
+[10282743]
+// Basic concepts //
+(	Which of the following is/are the possible effect(s) of sulphur dioxide on the environment?
+(1)	forms acid rain
+(2)	forms photochemical smog
+(3)	leads to global warming
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10282756]
+// Basic concepts //
+(	Which of the following air pollutants can cause respiratory illnesses in humans?
+(1)	nitrogen oxides
+(2)	carbon particles
+(3)	carbon monoxide
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10282761]
+// Data handling // Applying concepts //
+(*	The table below shows the concentration of a chemical in three different organisms in an ecosystem. 
+Organism	X	Y	Z	
+Concentration of the chemical (arbitrary unit)	16.2	156.3	50.8	
+
+Which of the following is most likely the food chain of these organisms?
+A	X → Y → Z
+B	X → Z → Y
+C	Y → Z → X
+D	Z → Y → X
+B	
+---------------------------------------------------
+
+[10282763]
+// Basic concepts //
+(*	Chemicals in some pesticides can be accumulated in the body tissues of organisms. Which of the following are properties of these chemicals that make them likely to be accumulated in body tissues?
+(1)	They are lipid-soluble.
+(2)	They are chemically stable.
+(3)	Their molecules are small in size.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10282772]
+// Graph interpretation // Applying concepts //
+(*	Untreated sewage containing animal waste is discharged into a river. Which of the following graphs shows the relative amounts of bacteria and dissolved oxygen in the water along the river?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10282814]
+// Applying concepts //
+(*	Acid rain endangers lives in fresh water because 
+(1)	it increases the acidity of water. 
+(2)	it causes a decrease in the amount of nutrients in water.
+(3)	it causes an increase in the amount of aluminium ions in water.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10282860]
+// Basic concepts //
+(	Which of the following is not caused by malpractices in fisheries?
+A	eutrophication 
+B	destruction of coral reefs
+C	extinction of whales
+D	decrease in fish population
+A	
+---------------------------------------------------
+
+[10282861]
+// Basic concepts //
+(	Combustion of fossil fuels may produce
+(1)	carbon particles.
+(2)	carbon monoxide.
+(3)	carbon dioxide.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10282867]
+// Basic concepts // 
+(*	Which of the following are the harmful effects of respirable suspended particulates in the atmosphere on humans?
+(1)	skin cancer 
+(2)	damage to lung tissues
+(3)	irritation of the breathing system
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10282877]
+// Basic concepts //
+(	Which of the following air pollutants contribute to the formation of acid rain?
+(1)	carbon monoxide
+(2)	nitrogen oxides
+(3)	sulphur dioxide
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10282881]
+// Basic concepts //
+(	Which of the following are the harmful effects of deforestation on the environment?
+(1)	loss of species
+(2)	acid rain
+(3)	global warming
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10282888]
+// Basic concepts //
+(*	Which of the following statements about the greenhouse effect are correct?
+(1)	The greenhouse effect is caused by greenhouse gases.
+(2)	The greenhouse effect is important to the survival of humans.
+(3)	An increase in the level of greenhouse gases in the atmosphere has enhanced the greenhouse effect.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10282895]
+// Applying concepts //
+(	Which of the following is/are non-renewable resource(s)?
+(1)	crude oil
+(2)	water
+(3)	fish
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+A	
+---------------------------------------------------
+
+[10282915]
+// Basic concepts //
+(	Which of the following activities may lead to a decrease in biodiversity?
+(1)	deforestation
+(2)	reclamation
+(3)	land clearance
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10282923]
+// Basic concepts //
+(	Which of the following pollutants can be found in the exhaust fumes from vehicles?
+(1)	nitrogen oxides
+(2)	volatile organic compounds
+(3)	sulphur dioxide
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10282935]
+// Applying concepts //
+(*	Which of the following air pollutants in the exhaust fumes from factories is/are most likely to affect plants?
+	
+
+A	volatile organic compounds			B	carbon monoxide
+C	lead particles						D	sulphur dioxide
+D	
+---------------------------------------------------
+
+[10282939]
+// Basic concepts //
+(*	The greenhouse effect is defined as 
+A	the warming effect due to the trapping of solar radiation.
+B	the increase in the amount of greenhouse gases in the atmosphere.
+C	the unusual weather patterns due to an increasing level of carbon dioxide in the atmosphere.
+D	the thinning of the ozone layer in the atmosphere.
+A	
+---------------------------------------------------
+
+[10282951]
+// Applying concepts //
+(*	A region, which was full of organisms thousands of years ago, became a desert now. Which of the following is least likely to be the cause for the loss of species?
+A	air pollution
+B	change in weather patterns
+C	destruction of natural habitats
+D	overexploitation of resources
+A	
+---------------------------------------------------
+
+[10282966]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a farm and a nearby river.
+	
+
+Which of the following shows the changes that would occur downstream of the farm at night if the fertilizers leach from the soil into the river?
+Algal population		Level of dissolved oxygen
+A	increases				increases
+B	increases				decreases
+C	decreases				increases
+D	decreases				decreases
+B	
+---------------------------------------------------
+
+[10282988]
+// Basic concepts //
+(*	Which of the following does not occur during an algal bloom?
+A	Dissolved oxygen in water is used up by the algae during daytime.
+B	Bacteria decompose the algae when the algae die.
+C	The number of bacteria in water increases rapidly.
+D	The algae prevent sunlight from penetrating deep into the water.
+A	
+---------------------------------------------------
+
+[10282991]
+// Applying concepts //
+(*	When there is an algal bloom, fish farmers may stop feeding their fish in order to
+(1)	reduce the growth of the algae.
+(2)	reduce the oxygen requirement of the fish.
+(3)	allow the fish to eat up the algae.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+B	
+---------------------------------------------------
+
+[10283018]
+// Basic concepts //
+(	Which of the following are the harmful effects of photochemical smog on humans?
+(1)	worsening of heart diseases
+(2)	irritation of the breathing system
+(3)	damage to the nervous system
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10283031]
+// Applying concepts //
+(*	In order to reduce global warming, we should 
+(1)	plant more trees.
+(2)	use less fossil fuels.
+(3)	avoid using chemical fertilizers. 
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10283044]
+// Basic concepts //
+(	Which of the following are undesirable effects of deforestation?
+(1)	global warming
+(2)	destruction of natural habitats
+(3)	extinction of organisms living in forests
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283056]
+// Basic concepts //
+(	Which of the following is not an effect of human population increase on the environment?
+A	More species are endangered.
+B	More natural habitats are destroyed.
+C	More earthquakes happen.
+D	More pollutants are produced.
+C	
+---------------------------------------------------
+
+
+Short questions
+
+[10283136]
+// Graph interpretation // STSE connections // Applying concepts //
+(*	The graph below shows the total mass of cod caught in a fishery between 1960 and 2010. Large trawl boats were used in fishing from 1960 to 1990.
+	
+a	Describe and explain the change in the total mass of cod caught from 1970 to 1990.												(3 marks)
+b	The fishing of cod has been greatly restricted since 1995. However, the number of cod in the ocean did not show significant increase from 1995 to 2010. Suggest one reason for this. 						(1 mark)
+
+
+-- answer --
+a	The total mass of cod caught dropped sharply.						1m
+Large trawl boats could reach deep in the sea and caught fish in large numbers.																1m
+Cod are caught faster than the population can replace themselves through natural reproduction.												1m
+b	The habitat became dominated by other fish species that fed on young cod. 1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10283139]
+// Data handling // Applying concepts //
+(*	DDT was used to control mosquitoes in country X. Scientists found that the concentration of DDT in the sea surrounding country X was 0.000 003 ppm. Scientists measured the concentration of DDT in the body of certain organisms in the marine habitat. The diagram below shows a food chain of the organisms and the concentration of DDT in their body.
+
+	
+
+a	Explain why the DDT concentration in the body of organisms increased up the food chain. 										(3 marks)
+b	State one property of the chemicals in DDT, making them to be easily accumulated in the body of organisms.						(1 mark)
+
+
+-- answer --
+a	DDT entered and accumulated in the body of the zooplankton through feeding. (i.e. bioaccumulation).										1m
+As consumers at higher trophic levels fed on a large number of prey,		1m
+DDT continued to accumulate in the body of the consumers and the concentration of DDT accumulated in organisms increased up the food chain (i.e. biomagnification).											1m
+b	High fat solubility / stable / persistent / cannot be metabolized or excreted easily																1m	
+---------------------------------------------------
+
+
+[10283154]
+// STSE connections // Schematic diagram // Applying concepts //
+(*	Chek Lap Kok Island was once a major breeding ground for the Romer's tree frog. The sea surrounding the island was also a major habitat of the Chinese white dolphin. In the construction project of the Hong Kong International Airport in the 1990s, Chek Lap Kok Island was cleared. Meanwhile, reclamation work was carried out at the west coast of the island. The diagram below shows the area of the land reclaimed. 
+	
+a	Describe and explain how the construction of the Hong Kong International Airport affected the population of the Romer's tree frog.		(2 marks)
+b	The construction of the Hong Kong International Airport led to a decline in the population of the Chinese white dolphin. Explain why.		(2 marks)
+
+
+-- answer --
+a	Land clearance destroyed the breeding ground for the Romer's tree frog.	1m
+The population of the Romer's tree frog decreased sharply.				1m
+b	Mud was dredged from the seabed for reclamation. Seabed habitats were destroyed.													1m
+The food supply of the Chinese white dolphin decreased, leading to a decline in the population of the Chinese white dolphin.						1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10283157]
+// Graph interpretation // Applying concepts //
+(*	A farmer applied chemical fertilizers to a crop field beside a river. The graph below shows the changes in the dissolved oxygen level in the river in a 24-hour period.
+
+	
+
+a	Explain the changes in the dissolved oxygen level in the river in the above 24-hour period.										(3 marks)
+b	State one impact of the low dissolved oxygen level on aquatic organisms.															(1 mark)
+
+
+-- answer --
+a	Chemical fertilizers contained chemicals that were nutrients for algae. The population of algae in the river increased when the chemicals leached into the river.														1m
+The algae consumed a large amount of oxygen for respiration at night. Therefore, the dissolved oxygen level decreased after the application of chemical fertilizers.																1m
+The dissolved oxygen level increased during the morning of the next day as the algae carried out photosynthesis in the presence of light.				1m
+b	Aquatic organisms may die of suffocation.							1m
+(or other reasonable answers)		
+---------------------------------------------------
+
+[10283162]
+// Overseas exam question // Basic concepts //
+(	Describe the causes and the resultant effects of the following types of pollution.
+a	Acid rain												(2 marks)
+b	Eutrophication											(2 marks)
+						   CCEA GCE (A) Biology Module 4 May 2008 Q1
+
+-- answer --
+a	Cause:
+Combustion of fossil fuels releases sulphur dioxide / nitrogen oxides into the atmosphere.												1m
+Effect:
+Acid rain damages the leaves of trees. / 
+Acid rain causes death of plants / fish / invertebrates. 
+(or other reasonable answers)									1m
+b	Cause:
+Chemical fertilizers leach into the rivers.							1m
+Effect:
+Eutrophication causes algal blooms. / 
+It causes death of fish / invertebrates.								1m	
+---------------------------------------------------
+
+[10283165]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.				(4 marks)
+Urbanization and industrialization require large areas of land. The land can be obtained by a                      and b                     . However, these activities cause environmental problems. For example, collection of mud from the seabed by c                      stirs up mud from the seabed. The gills of the fish may be clogged by the suspended mud particles and the fish may die of d                     .
+
+-- answer --
+a	land clearance / reclamation									1m
+b	reclamation / land clearance									1m
+c	dredging													1m
+d	suffocation													1m	
+---------------------------------------------------
+
+[10283175]
+// Graph interpretation // STSE connections // Applying concepts //
+(*	The graph below shows the amount of greenhouse gases emitted in Hong Kong from 1990 to 2002.
+
+	
+[Source of information: Environmental Protection Department]
+
+a	Give two examples of greenhouse gases.					(2 marks)
+b	How do greenhouse gases lead to the greenhouse effect?		(2 marks)
+c	Suggest one reason to account for the decrease in the emission of greenhouse gases from the early 1990s to the mid- and late-1990s.																(1 mark)
+d	Give one measure the government has implemented to reduce the emission of greenhouse gases.									(1 mark)
+
+-- answer --
+a	Water vapour / carbon dioxide / nitrogen oxides / methane (any 2)	1m x 2
+b	The greenhouse gases in the atmosphere trap some of the infrared radiation emitted from the earth's surface, 							1m
+thus warming the atmosphere.								1m
+
+c	Part of the electricity has been supplied by the Guangdong Daya Bay Nuclear Power Station since its operation in the mid-1990s. Therefore, less coal has been burnt for electricity generation since then. /
+Some local factories were migrated to the mainland in the early 1990s.	1m
+d	Introducing liquefied petroleum gas (LPG) light buses and taxis. /
+Encouraging the drivers to switch off car engines while waiting. 
+(or other reasonable answers)								1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10283350]
+// Graph interpretation // Communication // Applying concepts //
+(*	In the last century, many rivers have become acidic. If the pH of the water in a river falls below 5, the river is considered to be acidified. Some invertebrates cannot survive in acidified water.
+	The graph below shows the ranges of pH values in which four invertebrates can survive. These invertebrates live in the same river.
+
+	
+
+a	Some gases found in air have contributed to the acidification of rivers. Name one of the gases and describe how it causes the acidification of rivers.
+														(3 marks)
+b	Suggest and explain how the numbers of the four invertebrates may be affected if the river water becomes acidified.					(5 marks)
+c	The heron is a common species of bird which feeds on shrimps in the river. Based on the information provided, suggest and explain how the number of herons may be affected if the river water becomes acidified.		(2 marks)
+
+
+-- answer --
+a	Sulphur dioxide / nitrogen oxides								1m
+Sulphur dioxide / nitrogen oxides dissolve(s) in rainwater to form acid rain.	1m
+When the acid rain falls into river, it lowers the pH of the river.			1m
+b	Snails and shrimps are intolerant to acidified water. They cannot survive in the river.														1m
+Thus, the numbers of shrimps and snails may decrease.				1m
+Mussels and water hoglouses are tolerant to acidified water. They can survive and reproduce in the river.										1m
+Competition from shrimps and snails for space and food may be reduced as the numbers of shrimps and snails in the river decrease.					1m
+Thus, the numbers of mussels and water hoglouses may increase.		1m
+c	Since shrimps cannot survive if the river becomes acidified, no shrimps would be available for herons to eat.										1m
+Herons may die due to lack of food. Thus, the number of herons may decrease.
+															1m	
+---------------------------------------------------
+
+[10283358]
+// Cross-topic // Graph interpretation // Applying concepts //
+(**In an investigation, the effect of discharging sewage into a river was studied. The map below shows the location of a food-processing factory and the point where sewage was discharged (X) into the river.
+
+	
+
+	Water samples were collected at sites P, Q and R and analysed for the concentrations of dissolved oxygen (DO), ammonium compounds and nitrates. The graphs below show the results.
+
+	
+
+	Asellus is an insect found in the river. It feeds on non-living organic matter. It can live in water with a low DO concentration. The population sizes of Asellus and other invertebrates were measured along the river. The graph below shows the results.
+
+	
+
+a	Suggest why the DO concentration in the sample taken from Q was higher than that of the sample taken from P.						(2 marks)
+b	Explain why the concentrations of ammonium compounds and nitrates in the sample taken from Q were higher than those of the sample taken from P.
+														(3 marks)
+c	Based on the information provided, describe the change in the population size of Asellus in the following sections of the river. Suggest an explanation for the change.
+i	From P to Q										(2 marks)
+ii	From Q to R										(2 marks)
+
+
+-- answer --
+a	As some organic matter was decomposed by microorganisms when water flowed from P to Q, less organic matter was found at Q.						1m
+The amount of oxygen used for the decomposition of organic matter was reduced. Thus, the DO concentration was higher in the sample taken from Q.		1m
+b	When water flowed from P to Q, organic matter in the sewage was broken down into ammonium compounds by decomposers.						1m
+Ammonium compounds were converted into nitrites by nitrifying bacteria in the sewage.													1m
+Nitrites were then converted into nitrates by nitrifying bacteria in the sewage. Thus, the concentrations of ammonium compounds and nitrates were higher in the sample taken from Q.											1m
+c	i	The population size of Asellus increased from P to Q.				1m
+	From P to Q, the DO concentration increased. More oxygen was available for 	Asellus.												1m
+ii	The population size of Asellus decreased from Q to R.				1m
+	From Q to R, the population size of other invertebrates increased. Less food / space was available for Asellus.								1m	
+---------------------------------------------------
+
+
+[10283365]
+// Scientific investigation // Schematic diagram // Applying concepts //
+(*	The use of certain pesticides has been stopped due partly to bioaccumulation and biomagnification. They have been replaced by pesticides which do not accumulate along food chains.
+a	How do bioaccumulation and biomagnification of pesticides occur?															(3 marks)
+	Pesticide P is often sprayed onto aquatic habitats to kill insect pests. It acts by damaging the nervous system of the pests. Scientists investigated the effect of pesticide P on the survival of frogs. They determined the median lethal dose of pesticide P, i.e. the dose that killed 50% of a tadpole population in an aquarium over one week.
+b	Suggest why tadpoles are more likely to be affected by pesticide P in water than adult frogs.										(2 marks)
+c	Give one advantage of using the median lethal dose to indicate the effect of pesticide P. 											(1 mark)
+d	Explain how the effect of pesticide P on tadpoles in an aquatic habitat in nature may be increased on a hot dry day.					(2 marks)
+	In another experiment, scientists investigated whether the stress caused by the presence of predators changed the effect of pesticide P on the survival of tadpoles. They set up the following aquaria.
+	
+
+e	What was the purpose of setting up aquarium X?				(1 mark)
+f	Why was a transparent barrier used in the aquaria?			(1 mark)
+
+
+
+
+
+-- answer --
+a	Some pesticides contain very stable and persistent chemicals. They cannot be 	metabolized easily or excreted by organisms.						1m
+	When organisms consume plants containing residues of the pesticides, stable 	chemicals in the pesticides may accumulate in their body tissues.			1m
+	As consumers at higher trophic levels feed on these organisms, the chemicals 	continue to accumulate in the consumers and their concentration increases up the 	food chain.												1m
+b	Tadpoles always live in water and are exposed to pesticide P for a longer period of 	time.														1m
+	Adult frogs live both on land and in water and are less exposed to pesticide P.																1m
+	OR
+	Tadpoles have a larger surface area to volume ratio than adult frogs.		1m		Thus pesticide P diffuses faster into tadpoles than into adult frogs through the body 	surface.													1m
+c	This provides a standard for comparison. /
+	Not all tadpoles in the population are killed.							1m
+d	Water in the habitat evaporates.									1m
+	Pesticide P becomes more concentrated.							1m
+e	It was a control to show that any difference in the effect of pesticide P was due to 	the presence of predators.										1m
+f	It was used so that the tadpoles could see the predators but not be killed.	1m	
+---------------------------------------------------
+
+[10283369]
+// Cross-topic // Graph interpretation // Applying concepts //
+(*	Biochemical oxygen demand (BOD) is a measure of the rate at which oxygen is used in a water sample. It can be used to assess the level of water pollution. To determine the BOD of a water sample, the original oxygen concentration is measured using a dissolved oxygen meter. Then the water sample is sealed and left in the dark for 5 days at 20 °C and the final oxygen concentration is measured. BOD is the difference between the original and final oxygen concentrations.
+a	Explain why the following steps are necessary when determining the BOD of a water sample.
+i	The water sample is placed in the dark.					(2 marks)
+ii	The water sample is kept at 20 °C.						(1 mark)
+iii	The water sample is left for 5 days.					(1 mark)
+The graph below shows the change in the BOD of the water in a river. Manure from a farm nearby was discharged into the river at point Z.
+	
+
+b	Explain the large increase in the BOD immediately after the discharge of manure at point Z.										(3 marks)
+c	The first animals found in the river after the discharge were some worms. They had haemoglobin inside their tails. Suggest how this feature helps the worms to survive water polluted by manure.					(1 mark)
+d	Suggest why the BOD decreased downstream.				(2 marks)
+
+
+
+
+
+-- answer --
+a	i	To prevent photosynthesis carried out by algae.				1m
+	Photosynthesis would produce oxygen.					1m
+ii	To provide a suitable temperature for the respiration of aerobic 				microorganisms. 									1m
+iii	To allow sufficient time for a measurable decrease in oxygen concentration.														1m
+b	The manure contained large amounts of organic matter and aerobic 	microorganisms.										1m
+	This led to an increased level of decomposition by aerobic microorganisms.																1m
+	As decomposition required oxygen, oxygen in the water was used at a higher rate.														1m
+c	Although oxygen in the water is scarce, enough oxygen is obtained for survival as 	the haemoglobin has a high affinity for oxygen.					1m
+d	The organic matter was being decomposed. /
+	The organic matter was diluted by the flow of water in the river. /
+	The populations of aerobic microorganisms were reducing. (any 2)	1m × 2	
+---------------------------------------------------
+
+[10283373]
+// Overseas exam question // Basic concepts //
+(	a	Complete the table on air pollution.
+Cause of air pollution	Source	Harmful effect	Prevention	
+Carbon monoxide	Petrol engines			
+Lead		Lead poisoning		
+														(4 marks)
+b	Eutrophication of rivers can be caused by pollution from farms.
+i	Give two ways farming can cause eutrophication.			(2 marks)
+ii	Suggest how this can cause an algal bloom in rivers.		(2 marks)
+iii	Explain how this algal bloom can result in the death of fish and other aquatic animals.									(2 marks)
+						CCEA GCSE Biology Higher Tier Paper 2 2007 Q1
+-- answer --
+a	
+Cause of air pollution
+Source
+Harmful effect
+Prevention
+
+Carbon monoxide
+Petrol engines
+Binds strongly with haemoglobin / blood carries less oxygen
+Burn less petrol / use non-fossil fuels / use public transport / cycling / walking
+
+Lead
+Burning leaded petrol
+Lead poisoning
+Use unleaded petrol
+
+														1m x 4
+b	i	Fertilizers and manure used leach from the soil into the rivers.	2m
+ii	Algae use nutrients / nitrates 							1m
+for growth.											1m
+iii	When algae die, bacteria / decomposers break down the algae. 	1m
+They use up oxygen during decomposition.					1m	
+--------------------------------------------------- 
+
+
+[10283380]
+// Overseas exam question // Graph interpretation // Calculation //
+(*	The graph below shows the use of artificial fertilizer worldwide between 1950 and 2000, and in Northern Ireland between 1980 and 2000.
+	
+
+a	Calculate, for the year 1980, the use of fertilizer in North Ireland as a percentage of worldwide use. Show your working.			(3 marks)
+b	Describe the sequence of events that begin with the application of artificial fertilizer on farmland and end with the death of fish in waterways such as Lough Neagh (a lake in North Ireland).						(4 marks)
+c	Calculate the percentage decrease in the use of artificial fertilizer in North Ireland from 1990 to 2000. Show your working.				(2 marks)
+d	Suggest one reason for the decrease in the use of artificial fertilizer from 1990.												(1 mark)
+							CCEA GCE (A) Biology Module 4 Jan 2008 Q6
+
+
+
+
+
+
+
+-- answer --
+a	[(72 × 103) / (112 × 106)] × 100%									2m
+= 0.064%													1m
+b	The fertilizer leaches from the farmland into the waterways. 			1m 
+The nutrient level of water in the waterways becomes high / this leads to eutrophication, and an algal bloom occurs as a result. 				1m
+When some factors (e.g. sunlight, nutrients) become limiting, the algae die.	1m
+Bacteria decompose the dead algae, using up oxygen in the water. Therefore the fish die. 													1m
+c	The decrease in the use of artificial fertilizer: 
+130 × 103 - 102 × 103 = 28 × 103 tonnes							1m
+Percentage: 
+[(28 × 103) / (130 × 103)] × 100% = 21.5%							1m
+d	The farmers have used more organic fertilizers. / 
+The farmers have applied the fertilizer with a more effective method (e.g. applied at appropriate times of a year). / 
+The farmers have tested the nutrient levels in the soil so that a suitable amount of fertilizer can be applied to the soil. 
+(or other reasonable answers)									1m	
+---------------------------------------------------
+
+[10283399]
+// Overseas exam question // Graph interpretation //
+(*	a	What is deforestation?									(1 mark)
+The graph shows changes in the area of rainforest and atmospheric carbon dioxide concentration since 1950.
+	
+
+b	What evidence is there of deforestation from the graph?		(1 mark)
+c	Explain how the change in atmospheric carbon dioxide concentration may be caused by deforestation.								(2 marks)
+d	Suggest and explain one other way human activities could cause the changes in the atmospheric carbon dioxide concentration.		(2 marks)
+e	Explain how changes in atmospheric carbon dioxide concentration are linked to changes in global temperatures.					(3 marks)
+						CCEA GCSE Biology Higher Tier Paper 1 2009 Q17
+
+-- answer --
+a	Deforestation is the cutting down of trees.							1m
+b	The area of rainforest has reduced.								1m
+c	Trees absorb carbon dioxide for photosynthesis.						1m
+As there are fewer trees, the amount of carbon dioxide absorbed by the trees is reduced. Thus more carbon dioxide is present in the atmosphere.			1m
+d	Combustion of fossil fuels										1m
+Carbon dioxide is produced during the process.						1m
+e	As more carbon dioxide builds up in the atmosphere, 					1m
+more heat is trapped.											1m
+This enhances the greenhouse effect / results in global warming.			1m	
+---------------------------------------------------
+
+[10283401]
+// Schematic diagram // Applying concepts //
+(*	The diagram shows how the environment can be affected by deforestation.
+	
+
+a	Explain how deforestation can cause an increase in carbon dioxide level in the atmosphere.										(2 marks)
+b	Give one harmful effect that increasing carbon dioxide concentration can have on the Earth.										(1 mark)
+c	Explain how deforestation has a harmful effect on animals in the biosphere.														(2 marks)
+d	Suggest how deforestation affects soil quality.				(2 marks)
+e	Use the diagram to give two other harmful effects of deforestation on the environment.											(2 marks)
+						CCEA GCSE Biology Higher Tier Paper 2 2008 Q5b
+
+-- answer --
+a	As there are fewer trees, less carbon dioxide is absorbed for photosynthesis.																1m
+Animals continue to produce carbon dioxide, thus carbon dioxide level in the atmosphere increases.										1m
+b	The increasing carbon dioxide concentration can enhance the greenhouse effect / lead to global warming / melting of icebergs / unusual weather patterns.	1m
+c	Deforestation destroys their habitats 								1m
+and reduces their food supply.									1m
+d	Soil is washed away 											1m
+and has a smaller amount of minerals.							1m
+e	Soil that is washed away silts up the rivers / causes flooding. 			1m
+Deforestation leads to desertification.								1m	
+---------------------------------------------------
+
+[10283408]
+// Data handling // STSE connections // Applying concepts //
+(*	Since 1974, the amount of sulphur dioxide emission in the town and the number of species of flowering plants living within a radius of 1 km of a town have been monitored.
+Year	Amount of sulphur dioxide emitted 
+(million tonne)	Number of species of flowering plants within a radius of 1 km of the town	
+1974	5.5	542	
+1985	6.4	328	
+1990	5.8	322	
+1995	5.3	320	
+2000	5.6	317	
+a	State one possible source of sulphur dioxide in the town.		(1 mark)
+b	State one possible effect of sulphur dioxide on flowering plants.	(1 mark)
+c	Suggest one way in which sulphur dioxide could enter the body of flowering plants.										(1 mark)
+d	The amount of sulphur dioxide emission in 1995 was less than that in 1974 but there were fewer flowering plant species in 1995. Suggest reasons for this.													(2 marks)
+e	State two disadvantages of the reduction in the number of flowering plant species on the people living in the town.					(2 marks)
+f	Suggest two measures the government can take to reduce sulphur dioxide emission in the town. 									(2 marks)
+-- answer --
+a	Exhaust fumes emitted from power plants / vehicles / factories 			1m
+b	It may kill the flowering plants.									1m
+c	Through stomata on the leaves / 
+Through stomata on the herbaceous stems /
+Through lenticels on the woody stems								1m
+d	The individuals of some species in 1974 died.						1m
+Time is required for recolonization.								1m
+e	Reduced biodiversity / natural beauty to appreciate.					1m
+Loss of species that have potential medicinal value.					1m
+(or other reasonable answers)
+f	Encourage vehicle owners to use low-sulphur petrol.					1m
+Enforce a law that requires power plants to use cleaner fuels (e.g. natural gas instead of coal) to generate electricity.								1m	
+---------------------------------------------------
+
+[10283409]
+// Graph interpretation //
+(*	The graph below shows the concentration of sulphur dioxide in the atmosphere measured in Kwai Chung and Tap Mun. 
+	
+a	Describe and explain the difference in sulphur dioxide concentration in Kwai Chung and Tap Mun.								(3 marks)
+b	Sulphur dioxide is one of the gases involved in the formation of acid rain.
+i	Describe briefly how acid rain is formed.				(2 marks)
+ii	Give two environmental impacts of acid rain.				(2 marks)
+c	Carbon dioxide is one of the gases which cause global warming. Suggest two possible consequences of global warming.				(2 marks)
+-- answer --
+a	The sulphur dioxide concentration in Kwai Chung is higher than that in Tap Mun throughout the whole year.									1m
+Kwai Chung is an urban area whereas Tap Mun is a rural area.		1m
+More exhaust fumes are released from vehicles / factories in Kwai Chung.																1m
+b	i	Sulphur dioxide and nitrogen oxides are acidic gases.			1m
+Acid rain is formed when they dissolve in rainwater.			1m
+ii	It lowers the pH of the surface water. This may kill aquatic organisms that are sensitive to acidity. /
+It damages the leaves of trees. The production of food by photosynthesis is hindered and the trees become weak. This may cause death of trees. /
+It enhances the release of aluminium ions from soil, which are toxic to plant roots / toxic to aquatic organisms. 
+(any 2 or other correct answers)							1m x 2
+c	Speeding up the melting of sea ice /
+Unusual weather patterns /	
+Reduced biodiversity / extinction of species /	
+Spreading of infectious diseases to new regions 
+(any 2 or other correct answers)								1m x 2	
+---------------------------------------------------
+
+[10283413]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a river polluted by the sewage discharged from a pig farm.
+	
+The bacterial content in the water downstream is much higher than that in the water upstream.
+a	Account for the difference in bacterial content.				(1 mark)
+b	Explain how the high bacterial content in water downstream causes a decrease in the fish population.							(2 marks)
+c	Explain why an algal bloom may occur in the river. Give three ways by which an algal bloom may threaten the aquatic life.			(4 marks)
+d	Suggest one action the government can take to reduce the chance of algal bloom in this river.										(1 mark)
+-- answer --
+a	Bacteria grow rapidly in the water downstream as the sewage contains organic matter. / 
+Sewage contains bacteria.										1m
+b	Oxygen in the water is used up by the bacteria for growth and for the decomposition of organic matter. The fish may die of suffocation.			1m
+Toxic substances may also be produced by the bacteria during the decomposition of organic matter. These toxic substances may kill the fish.				1m
+
+c	The decomposition of organic matter produces nutrients (phosphates, nitrates and ammonium compounds) for the growth of algae.						1m
+The dense surface growth of algae prevents sunlight from penetrating deep into the water. Large, rooted aquatic plants growing below the water surface cannot receive enough sunlight for photosynthesis and may die.				1m
+The algae use up oxygen in the water at night. The aquatic organisms may die of suffocation.												1m
+When the algae die, they are decomposed by bacteria. This further consumes oxygen in water. The aquatic organisms may die of suffocation. / The bacteria may produce toxic substances during the decomposition of algae. These toxic substances may kill the aquatic organisms. 						1m
+(or other reasonable answers)
+d	Set up of a sewage treatment works to reduce the amount of organic matter in sewage before it is discharged into the river. 
+(or other reasonable answers)									1m	
+--------------------------------------------------- 
+
+[10283419]
+// Communication // Basic concepts //
+(*	A river flows through an area of agricultural land where chemical fertilizers are used frequently.
+a	Describe and explain how the use of chemical fertilizers may affect the animals and plants living in the river.						(4 marks)
+b	Suggest one alternative to the use of chemical fertilizers.		(1 mark)
+c	i	Besides chemical fertilizers, state one other group of chemicals that is commonly used by farmers. 							(1 mark)
+ii	What are the harmful effects of this group of chemicals on humans?														(2 marks)
+-- answer --
+a	Chemical fertilizers contain phosphates, nitrates and ammonium compounds.																1m
+When the fertilizers leach into the river, these nutrients increase the growth of algae.													1m
+The algae use up the oxygen in the water at night.					1m
+Aquatic organisms may die of suffocation.							1m
+b	Use organic fertilizers. / Grow leguminous plants periodically.			1m
+
+
+c	i	Pesticides												1m
+ii	Some chemicals in pesticides are toxic, which may cause food poisoning when we consume contaminated crops.						1m
+Stable and persistent chemicals in some pesticides may accumulate in the body tissues of the organisms. The concentration of the chemicals increases up the food chain. If we consume contaminated food, damage of the liver and nervous system / cancer may result.							1m	
+---------------------------------------------------
+
+[10283431]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Read the following article and answer the questions.
+Fish farmers on alert over spread of red tide
+The fears of fish farmers grew after two more new blooms of red tide were discovered off Hong Kong Island. Red tide is an algal bloom that turns the colour of sea water to pink or reddish brown. Although the government's Red Tide Interdepartmental Working Group has confirmed the algae causing the red tide is non-toxic, fish farmers are still worried that their fish would be killed. The algae outbreak has also raised concerns about the pollution level in Victoria Harbour.	
+
+a	Give three ways in which the non-toxic algae kill the fish.		(6 marks)
+b	Suggest two measures the fish farmers can take to prevent their fish from being killed by the red tide.								(2 marks)
+c	Explain how the pollution of the harbour causes red tide.		(2 marks)
+
+-- answer --
+a	The algae use up oxygen in the water at night. 					1m
+This causes the fish to die of suffocation. 						1m
+The dense surface growth of algae prevents sunlight from penetrating deep into the water. The aquatic plants cannot receive enough sunlight and thus their photosynthetic rate is lowered.								1m
+This decreases the amount of oxygen in water and causes the fish to die of suffocation. 											1m
+When the algae die, they are decomposed by bacteria. 			1m
+This further consumes oxygen in the water, causing the fish to die of suffocation. / The bacteria may produce toxic substances during the decomposition of algae. These toxic substances may kill the fish.						1m 
+b	Pump oxygen into the water at night to increase the oxygen content of the water. /
+Stop feeding the fish to reduce the oxygen requirement of the fish. /
+Enclose the fish cages with plastic sheets to separate the fish from the algae.
+(any 2)												1m x 2
+c	The sewage discharged into the harbour contains phosphates, nitrates and ammonium compounds. 									1m
+Due to a rich supply of nutrients, algae in water grow and reproduce rapidly, causing an algal bloom.									1m	
+---------------------------------------------------
+
+[10283434]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the concentrations of dissolved oxygen and phosphates, as well as the numbers of algae and organism X along a river. 
+	
+
+a	What is the possible cause of the sharp increase in the concentration of phosphates in the river near the farm?						(2 marks)
+b	With reference to the graph, explain why the dissolved oxygen concentration decreases significantly with an increase in the concentration of phosphates.											(3 marks)
+c	i	Give one example of organism X.						(1 mark)
+ii	With reference to the graph, give two possible reasons for the drop in the number of organism X near the farm.				(2 marks)
+
+
+
+-- answer --
+a	The farmers use chemical fertilizers containing phosphates on the farmland.																	1m
+The fertilizers leach from the soil into the river.						1m
+b	The number of algae increases rapidly near the farm where there is a high concentration of phosphates.									1m
+This is because the algae grow rapidly with the rich supply of phosphates.	1m
+Respiration of the algae consumes a lot of dissolved oxygen.			1m
+c	i	Fish / crab (or other freshwater organisms)						1m
+ii	A number of organism X die of suffocation because oxygen in the water may be used up by the large algae population.						1m
+They may also be killed by the toxins produced by the algae.		1m	
+---------------------------------------------------
+
+[10283437]
+// Basic concepts //
+(*	Greenhouse effect is caused by the trapping of some of the infrared radiation emitted from the earth's surface by the greenhouse gases in the atmosphere. One major greenhouse gas is carbon dioxide. Carbon dioxide is produced when fossil fuels are burnt in power plants, vehicles and factories. 
+a	What is the effect of an increase in the concentration of carbon dioxide on the atmospheric temperature?								(1 mark)
+b	Suggest one possible effect of this temperature change on the environment.															(2 marks)
+c	Besides the burning of fossil fuels, suggest and explain one other human activity that also contributes to an increase in the concentration of carbon dioxide.												(3 marks)
+d	The burning of fossil fuels also produces air pollutants which may cause death of trees and aquatic organisms. 
+i	What are these pollutants? 							(1 mark)
+ii	How do they cause these environmental problems?		(3 marks)
+
+-- answer --
+a	The atmospheric temperature increases.						1m
+b	This may speed up the melting of sea ice.						1m
+Organisms in the polar regions may lose their habitats / suffer from food shortages.													1m
+
+c	Deforestation											1m
+With fewer trees, the amount of carbon dioxide absorbed by the trees for photosynthesis is reduced.									1m
+The amount of carbon dioxide produced from respiration / burning of fossil fuels exceeds that absorbed by plants. Therefore, the concentration of carbon dioxide in the atmosphere increases.									1m
+(or other correct answers)
+d	i	Sulphur dioxide and nitrogen oxides						1m
+ii	When these gases dissolve in rainwater, acid rain is formed.	1m
+Acid rain lowers the pH of the surface water. This may kill aquatic organisms that are sensitive to acidity. /
+Acid rain also damages the leaves of trees. The production of food by photosynthesis is hindered and the trees become weak. This may cause death of the trees. /
+It enhances the release of aluminium ions from soil. Aluminium ions are toxic to plant roots / toxic to aquatic organisms.
+(any 2 or other correct answers)							1m x 2	
+---------------------------------------------------

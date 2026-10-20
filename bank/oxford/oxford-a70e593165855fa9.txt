@@ -1,0 +1,2174 @@
+Chapter 7		Gas exchange in humans
+
+Multiple-choice questions
+
+[10236019]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the effects of chronic bronchitis, which is the inflammation of bronchi.
+	
+	Which of the following statements correctly explain the symptoms of chronic bronchitis?
+(1)	Swollen bronchial wall and excess mucus reduce the amount of air reaching the air sacs, causing shortness of breath.
+(2)	Excess mucus leads to frequent coughing.
+(3)	Damaged cilia cannot sweep mucus efficiently, leading to a higher chance of bacterial infection.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10236024]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac and a capillary associated with it.
+	
+	At which of the labelled positions is the concentration of carbon dioxide the highest?
+A	P		B	Q
+C	R		D	S
+A	
+---------------------------------------------------
+
+[10236030]
+// Experiment // Schematic diagram // Applying concepts //
+*	A jar of inhaled air and a jar of exhaled air of a person were collected. The two air samples were bubbled into hydrogencarbonate indicator. The diagram below shows the set-up. 
+	
+	The exhaled air caused the hydrogencarbonate indicator to change from red to yellow, while the inhaled air did not. Which of the following can be concluded from the results?
+	A	The exhaled air consists mainly of carbon dioxide.
+	B	The inhaled air contains more oxygen than the exhaled air.
+	C	The exhaled air contains more carbon dioxide than the inhaled air.
+	D	Carbon dioxide diffuses from the capillary into the air in the lungs.
+C	
+---------------------------------------------------
+[10236044]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a blood smear observed under light microscope.
+	
+	Which of the following statements about the adaptive features of cell X is/are correct?
+(1)	Cell X is packed with haemoglobin to increase the oxygen-carrying capacity of blood.
+(2)	The absence of a nucleus in mature cell X shortens the distance for diffusion of oxygen.
+	(3)	Cell X has a biconcave disc shape to pack more haemoglobin.
+A	(1) only				B	(3) only
+C	(1) and (2) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10236048]
+// Applying concepts //
+*	People suffering from pulmonary edema have fluid accumulation in their air 
+sacs. It is usually due to the failure of the heart to remove blood from the pulmonary veins efficiently. The blood pressure in the lungs builds up and hence fluids are pushed into the air sacs. Patients often have a low oxygen concentration in blood. Which of the following is/are the reason(s)?
+(1)	The number of air sacs reduces.
+(2)	The diffusion distance of oxygen increases.
+	(3)	The oxygen-carrying capacity of blood decreases.
+A	(1) only				B	(2) only
+C	(3) only				D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10236055]
+// Graph interpretation // Calculation // Schematic diagram //
+**	Directions: The following three questions refer to the graph and the diagram below. The graph shows the change in air pressure in the lungs of a person at rest and the diagram shows the thoracic cavity.
+	
+	Which of the following statements about the events that happen in different periods of time is correct?
+A	During PQ, the structure made up of X is moving upwards and outwards.
+B	During QR, air rushes into the lungs.
+C	During RS, muscles in Y are relaxing.
+D	During ST, muscles in Z are contracting.
+D	
+---------------------------------------------------
+
+[10236064]
+// Graph interpretation // Calculation // Schematic diagram //
+**	At which of the following time points is the volume of the lungs the smallest?
+A	R		B	S
+C	T		D	U
+A	
+---------------------------------------------------
+
+[10236069]
+// Graph interpretation // Calculation // Schematic diagram //
+**	Given that the breathing rate of this person is 15 breaths per minute, how long is the duration of RT?
+A	2 s		B	3 s
+C	4 s		D	6 s
+A	
+---------------------------------------------------
+
+[10236080]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in volume of the lungs of a person within a period of time.
+	
+	At which periods of time is the air pressure in the lungs lower than the atmospheric pressure?
+	A	W and X				B	W and Z
+C	X and Y				D	Y and Z
+D	
+--------------------------------------------------
+
+[10236088]
+// Schematic diagram // Applying concepts //
+*	The diagrams below show the human breathing system in two different stages of breathing.
+	
+	Which of the following combinations correctly describes the changes in the diaphragm muscles and the air pressure in the lungs from stage X to stage Y?
+			Diaphragm muscles	Air pressure in the lungs
+A	contract				increases
+B	contract				decreases
+C	relax					increases
+D	relax					decreases
+C	
+--------------------------------------------------
+[10236119]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagrams below. Diagram I shows part of the breathing system in humans. Diagram II shows the cross section of a structure in diagram I.
+
+	
+
+	The cross section in diagram II is taken from
+A	P.
+B	Q.
+	C	R.
+	D	S.
+B	
+--------------------------------------------------
+
+[10236120]
+// Schematic diagram // Applying concepts //
+*	Which of the following is the function of structure X?
+	A	It beats to create an air current inside the breathing system.
+	B	It increases the surface area for gas exchange.
+	C	It traps any dust particles in the air. 
+	D	It sweeps mucus towards the pharynx.
+D	
+--------------------------------------------------
+
+
+[10236128]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows an air sac and its associated capillary.
+	
+	At which position is the blood of lowest oxygen concentration found?
+	A	(1)						B	(2)
+	C	(3)						D	(4)
+C	
+--------------------------------------------------
+
+[10236132]
+// Schematic diagram // Applying concepts //
+	By which process do carbon dioxide and oxygen move between the air sac and the blood in the capillary?
+	A	diffusion					B	osmosis
+	C	active transport			D	respiration
+A	
+--------------------------------------------------
+
+[10236135]
+// Basic concepts //
+*	Which of the following statements about oxyhaemoglobin is/are correct?
+	(1)	Most oxyhaemoglobin is formed in plasma. 
+	(2)	The formation of oxyhaemoglobin gives blood a bright red colour.
+	(3)	The breakdown of oxyhaemoglobin gives blood a blue colour.
+A	(1) only					B	(2) only
+	C	(1) and (2) only			D	(2) and (3) only
+B	
+--------------------------------------------------
+[10236150]
+// Schematic diagram // Applying concepts //
+*	Smoking can cause a breakdown of the walls of the air sacs in the lungs. The diagrams of lung tissues below are drawn to the same scale.
+ 	
+	When the walls of the air sacs break down,
+	(1)	the volume of the lungs decreases. 
+	(2)	the surface area for gas exchange in the lungs decreases.
+	(3)	the efficiency of gas exchange decreases.
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+--------------------------------------------------
+
+[10236154]
+// Experiment // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows a set-up used to compare the composition of inhaled and exhaled air. A student breathes through the mouthpiece for two minutes in an investigation.
+ 	
+At the end of the investigation, what will be the colour of the indicator in tubes X and Y?
+		Tube X				Tube Y
+A	red					red
+B	yellow				red
+	C	yellow				purple
+	D	purple				yellow
+B	
+--------------------------------------------------
+
+[10236165]
+// Experiment // Schematic diagram //
+*	At the end of the investigation, the air in tube X consists mostly of
+A	carbon dioxide.		B	oxygen.
+	C	nitrogen.				D	helium.
+C	
+--------------------------------------------------
+
+[10236171]
+// Graph interpretation // Calculation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the change in air pressure in the lungs of a person.
+ 	
+	The rate of breathing of this person is
+A	7.5 breaths per minute.
+B	10 breaths per minute.
+	C	15 breaths per minute.
+	D	30 breaths per minute.
+C	
+--------------------------------------------------
+[10236185]
+// Graph interpretation // Calculation // Applying concepts //
+*	Which of the following statements correctly describe what happens at the 4th second?
+	(1)	The person is inhaling.
+	(2)	The diaphragm muscle of the person is contracting.
+	(3)	The volume of the lungs is the largest.
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+--------------------------------------------------
+
+[10236200]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows a structure of the human lung and its associated capillary.
+	
+
+	Which of the following statements about structure X is/are correct?
+(1)	The cells on its wall contain a lot of mitochondria to provide energy for gas exchange.
+	(2)	It is highly folded to increase the surface area for gas exchange.
+	(3)	It is lined with a film of water for gases to dissolve.
+	A	(1) only			
+B	(3) only
+	C	(1) and (3) only	
+D	(2) and (3) only
+B	
+--------------------------------------------------
+[10236217]
+// Basic concepts //
+	Which of the following is/are the function(s) of cilia lining the respiratory tract?
+	(1)	remove the mucus from the respiratory tract
+	(2)	trap the bacteria in the inhaled air 
+	(3)	speed up the flow of air into and out of the lungs
+	A	(1) only
+B	(3) only
+	C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+--------------------------------------------------
+
+[10236242]
+// Experiment // Schematic diagram //
+*	The diagram below shows a set-up used to compare the composition of inhaled air and exhaled air. A student breathed through the mouthpiece for 2 minutes and then observed the colour change of the indicator in the tubes. 
+		
+
+
+	Which of the following correctly shows the result of the experiment and the explanation?
+		Result							Explanation
+	A	Indicator in tube X turned yellow.		Exhaled air contains less oxygen.
+	B	Indicator in tube X turned yellow.		Exhaled air contains more carbon 
+dioxide.
+	C	Indicator in tube Y turned yellow.		Exhaled air contains less oxygen.
+	D	Indicator in tube Y turned yellow.		Exhaled air contains more carbon 
+dioxide.
+D	
+--------------------------------------------------
+
+[10236244]
+// Experiment // Applying concepts //
+*	A student collected a jar of atmospheric air and a jar of exhaled air. Which of the following is/are possible method(s) to compare the oxygen content of the two jars of air?
+(1)	Put a glowing splint into each jar and compare the time needed to relight the glowing splints
+(2)	Lower a burning candle into each jar and compare the time for which the candles burn 
+(3)	Pass each jar of air through hydrogencarbonate indicator and observe the colour change of the indicator
+	A	(1) only
+	B	(2) only
+	C	(3) only
+	D	(1) and (2) only
+B	
+--------------------------------------------------
+
+
+[10236247]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the change in air pressure in the lungs of a person within 5 seconds.
+	
+
+	At which of the following time does the diaphragm of the person start to recoil?
+	A	1 s
+	B	2 s
+	C	3 s
+	D	4 s 
+D	
+--------------------------------------------------
+
+[10236250]
+// Graph interpretation // Applying concepts //
+*	At which of the following time is the volume of the lungs the smallest?
+	A	1 s
+	B	2 s
+	C	3 s
+	D	4 s 
+B	
+--------------------------------------------------
+
+
+[10236280]
+// Basic concepts //
+	Which of the following causes air to flow out of the lungs during exhalation?
+	A	The difference in carbon dioxide concentration between the air in the air 
+sacs and the blood in the capillaries
+B	The difference in carbon dioxide concentration between the air in the air sacs and the atmosphere
+C	The difference in pressure between the air in the lungs and the atmosphere
+D	The difference in pressure between the air in the air sacs and the blood in the capillaries
+C	
+--------------------------------------------------
+
+[10236288]
+// Schematic diagram //
+*	The diagram below shows part of the human breathing system.
+	
+
+Which of the following statements about the changes of X, Y and Z during inhalation is/are correct?
+	(1)	X moves upwards and outwards, causing an increase in volume of Y.
+	(2)	Air rushes into Y, causing an increase in volume of Y.
+	(3)	The expansion of Y pushes Z downwards.  
+	A	(1) only				B	(2) only
+	C	(3) only				D	(1) and (2) only
+A	
+--------------------------------------------------
+
+[10236304]
+// Photomicrograph // Applying concepts //
+*	The electron micrograph below shows the epithelial lining of a section of the respiratory tract of a mammal.
+	
+
+	The section is most probably taken from
+A	the nostril.
+B	the pharynx.
+C	the trachea.
+D	the air sac.
+C	
+--------------------------------------------------
+
+[10236306]
+// Basic concepts //
+*	Which of the following parts of the human breathing system contain(s) cartilage?
+	(1)	rib cage
+	(2)	bronchi
+	(3)	air sacs
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+--------------------------------------------------
+
+
+[10236310]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac in the human lungs. 
+	
+
+	Under which of the following conditions will the rate of diffusion of oxygen from the air sac into the capillary be the highest?
+	Oxygen concentration in X	Oxygen concentration in Y	Blood flow in capillary	
+A	low	high	fast	
+B	low	high	slow	
+C	high	low	fast	
+D	high	low	slow	
+
+A	
+--------------------------------------------------
+
+[10236314]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows part of the human breathing system.
+	
+
+
+	What happen(s) during inhalation?
+	(1)	X moves downwards.
+	(2)	The air pressure inside Y is lower than the atmospheric pressure.
+	(3)	Z becomes flattened.
+	A	(1) only
+	B	(2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+--------------------------------------------------
+
+[10236318]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows part of the human breathing system.
+	
+
+	Structure X of patients suffering from severe acute respiratory syndrome (SARS) may be filled with fluid. In the treatment for SARS, the removal of fluid is essential because
+	A	the fluid carries a lot of pathogens.
+	B	the fluid makes the patients cough.
+	C	the fluid reduces the surface area for gas exchange.
+	D	the fluid will enter the blood and poison the patients.
+C	
+--------------------------------------------------
+
+
+[10236321]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+Which of the following statements about the events that happen in different periods of time are correct?
+(1)	During t1, the volume of the lungs is increasing.
+(2)	During t2, the intercostal muscles contract.
+(3)	During t3, the diaphragm is becoming flattened. 
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3) 
+C	
+---------------------------------------------------
+
+[10236325]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+
+At which of the following time is the volume of the lungs the largest?
+A	W
+B	X
+C	Y
+D	Z
+A	
+---------------------------------------------------
+
+[10236328]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+
+	
+During which of the following periods of time do the diaphragm muscles contract?
+(1)	W to X
+(2)	X to Y
+(3)	Y to Z
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10236331]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+At which of the following time the rib cage of the person begins to move upwards?
+A	W				B	X
+C	Y				D	Z
+B	
+---------------------------------------------------
+
+[10236334]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+During which of the following periods of time are the diaphragm muscles in the state of contraction?
+A	t1				B	t2
+C	t3				D	t4
+B	
+---------------------------------------------------
+[10236339]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+Which of the following statements about the events that happen at time X is/are correct?
+(1)	The diaphragm muscles contract.
+(2)	The rib cage is moving upwards and outwards. 
+(3)	Air is being forced out of the lungs.
+A	(1) only				B	(2) only
+C	(3) only				D	(1) and (2) only
+C	
+---------------------------------------------------
+
+[10236360]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in air pressure in the lungs of a person within a period of time.
+	
+
+At which of the following time is the person inhaling?
+A	W and X 
+B	W and Z 
+C	X and Y
+D	Y and Z
+C	
+---------------------------------------------------
+
+[10236375]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in volume of the lungs of a person within a period of time.
+
+	
+Which of the following statements about the air pressure in the lungs at different time is/are correct?
+(1)	At time X, the air pressure in the lungs is lower than the atmospheric pressure. 
+(2)	At time Y, the air pressure in the lungs is increasing.
+(3)	At time Z, the air pressure in the lungs is higher than the atmospheric pressure.
+A	(1) only
+B	(3) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+
+[10236385]
+// Basic concepts //
+	Which of the following movements of the rib cage and the diaphragm cause air to rush into the lungs?
+	Rib cage	Diaphragm	
+A	moves upwards and outwards	becomes dome shape	
+B	moves upwards and outwards	becomes flattened	
+C	moves downwards and inwards	becomes dome shape	
+D	moves downwards and inwards	becomes flattened	
+
+B	
+---------------------------------------------------
+
+[10236387]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in volume of the lungs of a person within a period of time.
+	
+
+Which of the following statements about the events that happen in different periods of time are correct?
+(1)	During t1, the intercostal muscles contract.
+(2)	During t2, the diaphragm is flattened.
+(3)	During t3, the rib cage moves downwards and inwards.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+[10236396]
+// Applying concepts //
+*	Smokers have a higher risk of getting lung infections. Which of the following is a possible reason?
+A	The walls of their air sacs become thick.
+B	Their air sacs break down. 
+C	Tar deposits on the surface of their air sacs. 
+D	The beating of the cilia in their respiratory tract is inhibited.
+D	
+---------------------------------------------------
+
+[10236408]
+// Cross-topic // Comparison //
+*	Which of the following is/are the adaptive feature(s) that is/are common to the air sacs of the lungs and the villi of the small intestine?
+(1)	They are richly supplied with capillaries. 
+(2)	The epithelial cells have a large amount of mitochondria.
+(3)	Their epithelium is one-cell thick. 
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+[10236411]
+// Graph interpretation // High order thinking //
+**	Directions: The following two questions refer to the graph below, which shows the change in the volume of the lungs of an adult at rest.
+
+	
+
+Which of the following correctly shows the state of the intercostal muscles, the movements of the rib cage and the flow of air at time X?
+	Intercostal muscles	Movement of rib cage	Flow of air 	
+A	contract	downwards and inwards	out of the lungs	
+B	contract	upwards and outwards	into the lungs	
+C	relax	downwards and inwards	out of the lungs	
+D	relax	upwards and outwards	into the lungs	
+
+B	
+---------------------------------------------------
+
+
+[10236413]
+// Graph interpretation // High order thinking //
+**	Which of the following graphs represents the change in air pressure in the lungs during the same period of time?
+A		
+B		
+C		
+D		
+
+A	
+---------------------------------------------------
+[10236414]
+// Basic concepts //
+*	Which of the following correctly shows the distribution of cartilage and ciliated epithelial cells in different parts of the human breathing system?
+	Part	Cartilage	Ciliated epithelial cells	
+A	air sacs	absent	present	
+B	bronchioles	present	present	
+C	bronchi	present	absent	
+D	trachea	present	present	
+
+D	
+---------------------------------------------------
+
+[10236431]
+// Basic concepts //
+*	Which of the following statements about the transport of carbon dioxide produced by body cells are correct?
+(1)	Most of the carbon dioxide produced by body cells is transported in the form of hydrogencarbonate ions.
+(2)	The reaction that forms hydrogencarbonate ions from carbon dioxide and water occurs in the red blood cells.
+(3)	The reaction that forms hydrogencarbonate ions from carbon dioxide and water is catalysed by an enzyme.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10236446]
+// Basic concepts //
+*	What is the advantage of having a large number of air sacs in the lungs?
+A	They provide a smaller volume for gas exchange.
+B	They provide a larger surface area for gas exchange.
+C	They produce more mucus for dissolving gases.
+D	They provide a greater support to the lungs.
+B	
+---------------------------------------------------
+[10236466]
+// Basic concepts //
+*	The red blood cells have a large surface area to volume ratio because they 
+A	have a flexible membrane.
+B	have a biconcave disc shape.
+C	have no nucleus when mature. 
+D	are fully packed with haemoglobin.
+B	
+---------------------------------------------------
+
+[10236473]
+// Basic concepts //
+*	Which of the following structures is/are supported by cartilages?
+(1)	bronchus
+(2)	bronchiole
+(3)	air sac
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+A	
+---------------------------------------------------
+
+[10236493]
+// Basic concepts //
+*	Which of the following combinations of the structures in the respiratory tract and their functions is not correct?
+	Structure	Function	
+A	ciliated epithelial cell	has cilia which sweep the mucus towards the pharynx	
+B	pleural membrane	secretes a watery fluid which allows gases to dissolve before diffusing across the walls of air sacs	
+C	epiglottis		covers the opening of trachea during swallowing	
+D	vocal cord	vibrates to produce sound	
+
+B	
+---------------------------------------------------
+
+[10236497]
+// Basic concepts //
+*	Which of the following statements about the transport of oxygen in the human body are correct?
+(1)	Oxygen is taken up by red blood cells in the lungs.
+(2)	Oxygen combines with haemoglobin to form oxyhaemoglobin in the red blood cells.
+(3)	Oxyhaemoglobin dissolves in the plasma and is carried to the body cells.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10236498]
+// Comparison // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows a structure in the human breathing system. 
+
+	
+
+Which of the following comparisons between the composition of the blood in blood vessels X and Y is correct?
+		X					Y
+A	more oxygen			more carbon dioxide
+B	more carbon dioxide	more oxygen
+C	no oxygen			no carbon dioxide
+D	no carbon dioxide		no oxygen
+A	
+---------------------------------------------------
+
+
+[10236507]
+// Comparison // Schematic diagram //
+*	Which of the following adaptive features of the structure are shown in the diagram?
+(1)	It has a large surface area.
+(2)	It is surrounded by a network of capillary. 
+(3)	Its wall is only one-cell thick.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10236522]
+// Basic concepts //
+	Inhalation is an active process because it involves
+(1)	expansion of the lungs.
+(2)	contraction of the intercostal muscles.
+(3)	contraction of the diaphragm muscles.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10236526]
+// Basic concepts //
+*	Which of the following combinations of the process and its description is correct?
+	Process	Description	
+A	inhalation	bringing fresh air to the lungs and removing carbon dioxide from the lungs	
+B	ventilation	increasing the volume of the thoracic cavity	
+C	breathing	moving air into and out of the lungs	
+D	gas exchange	decreasing the volume of the thoracic cavity	
+
+C	
+---------------------------------------------------
+
+[10236527]
+// Experiment // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows an experimental set-up used to compare the composition of inhaled and exhaled air. A person breathes slowly and deeply for 20 times through the mouthpiece.
+	
+
+What is the colour of the hydrogencarbonate indicator in the two boiling tubes at the end of the experiment? 
+		P			Q
+A	red			yellow
+B	purple		red
+C	yellow		red
+D	yellow		purple
+A	
+---------------------------------------------------
+
+[10236547]
+// Experiment // Schematic diagram //
+*	What conclusion can be drawn from the results of this experiment? 
+(1)	The oxygen content in the inhaled air is higher than that in the exhaled air.
+(2)	The carbon dioxide content in the exhaled air is higher than that in the inhaled air.
+(3)	In the process of gas exchange, carbon dioxide diffuses from the capillaries into the air sac.
+A	(2) only					B	(3) only
+C	(1) and (2) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10236553]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a model illustrating the movement of the ribs during breathing. The model changes from position 1 to position 2 when wooden rod S is raised by hand.
+	
+
+Which of the following correctly identifies the structures represented by P, Q and R?
+		P				Q				R
+A	sternum 			vertebral column	intercostal muscle
+B	sternum			vertebral column	pleural membrane
+C	vertebral column	sternum			intercostal muscle
+D	vertebral column	sternum			pleural membrane
+C	
+---------------------------------------------------
+
+[10236560]
+// Schematic diagram // Basic concepts //
+*	Which of the following can be illustrated by the model when wooden rod S is raised by hand?
+(1)	the upward and outward movement of the ribs
+(2)	the downward movement of the diaphragm
+(3)	the contraction of intercostal muscles
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+[10236564]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows a group of cells lining the respiratory tract.
+
+	
+	
+What is the function of structure X?
+A	To trap dust particles.
+B	To sweep the mucus.
+C	To provide a larger surface area for gas exchange.
+D	To warm up the incoming air.
+B	
+---------------------------------------------------
+
+[10236598]
+// Schematic diagram // Basic concepts //
+	What is cell Y?
+A	mucus-secreting cell
+B	ciliated epithelial cell
+C	capillary
+D	muscle cell
+A	
+---------------------------------------------------
+
+
+[10236599]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the blood flow in the site of gas exchange in humans.
+	
+
+Which of the following correctly identifies X and Y?
+	X	Y	
+A	lungs	heart	
+B	all parts of the body except lungs	lungs	
+C	heart	all parts of the body except lungs	
+D	heart	heart	
+
+D	
+---------------------------------------------------
+
+[10236624]
+// Basic concepts //
+	Mucus in the respiratory tract helps 
+(1)	warm up the air.
+(2)	moisten the air.
+(3)	trap dust particles in the air.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+[10236642]
+// Basic concepts //
+	Which of the following events occur during exhalation in humans?
+(1)	The diaphragm muscles contract.
+(2)	The intercostal muscles relax.
+(3)	The rib cage moves inwards and downwards.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10236651]
+// Basic concepts //
+	Inhaled air and exhaled air have a different percentage of 
+(1)	oxygen.
+(2)	nitrogen.
+(3)	water vapour.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10236653]
+// Basic concepts //
+	Which of the following is/are found in the nasal cavity?
+(1)	ciliated epithelial cells
+(2)	mucus-secreting cells
+(3)	hairs
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10236656]
+// Basic concepts //
+*	The efficiency of gas exchange in lungs is increased by 
+A	increasing the length of the trachea.
+B	increasing the number of white blood cells entering the lungs.
+C	increasing the thickness of the walls of the bronchioles.
+D	increasing the surface area of the air sacs.
+D	
+---------------------------------------------------
+
+[10236663]
+// Basic concepts //
+	C-shaped cartilages are present in the wall of trachea. These cartilages
+A	trap dust particles and bacteria.
+B	warm up the incoming air.
+C	vibrate to produce sound.
+D	keep the trachea open during breathing.
+D	
+---------------------------------------------------
+
+[10236667]
+// Basic concepts //
+	In humans, gas exchange occurs in
+A	the larynx.
+B	the air sacs.
+C	the trachea.
+D	the bronchi.
+B	
+---------------------------------------------------
+
+[10236668]
+// Basic concepts //
+	In the thoracic cavity, the lungs are enclosed by
+A	the inner and outer pleural membranes.
+B	the inner and outer cell membranes.
+C	the inner and outer synovial membranes.
+D	the inner and outer plasma membranes.
+A	
+---------------------------------------------------
+
+[10236673]
+// Basic concepts //
+	Which of the following shows the pathway of air flowing into our body?
+A	nasal cavity → trachea → air sac → bronchus → nostril
+B	nostril → nasal cavity → bronchus → trachea → air sac
+C	nostril → nasal cavity → trachea → bronchus → air sac
+D	trachea → nostril → nasal cavity → bronchus → air sac
+C	
+---------------------------------------------------
+
+[10236681]
+// Comparison // Basic concepts //
+*	Which of the following comparisons of inhaled and exhaled air is correct?
+		Inhaled air				Exhaled air
+A	21% oxygen				16% oxygen
+B	4% carbon dioxide			0.03% carbon dioxide
+C	saturated with water vapour	variable amount of water vapour
+D	about 37 °C				variable temperature
+A	
+---------------------------------------------------
+
+[10236694]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows an air sac in the human lungs. 
+	
+Which of the following features does the air sac have to increase the efficiency of gas exchange?
+A	moist surface, thin wall and large surface area
+B	moist surface, supported by cartilage and large surface area
+C	thin wall, richly supplied with capillaries and muscular wall
+D	thin wall, richly supplied with capillaries and supported by cartilage
+A	
+---------------------------------------------------
+[10236695]
+// Basic concepts //
+	Which of the following statements about the adaptations of air sacs for gas exchange is/are correct?
+(1)	They have thick walls.
+(2)	They are richly supplied with capillaries.
+(3)	They provide a large surface area.
+A	(1) only
+B	(3) only
+C	(2) and (3) only 
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10236716]
+// Basic concepts //
+	Which of the following shows the pathway of air flowing out of our body during exhalation?
+A	air sac → bronchiole → bronchus → trachea
+B	air sac → bronchiole → trachea → bronchus 
+C	bronchiole → air sac → bronchus → trachea
+D	bronchiole → air sac → trachea → bronchus
+A	
+---------------------------------------------------
+
+[10236724]
+// Basic concepts //
+	Which of the following combinations shows the main forms in which oxygen and carbon dioxide are carried in the blood?
+		Oxygen 			Carbon dioxide
+A	oxyhaemoglobin	carbonate ions
+B	oxyhaemoglobin	hydrogencarbonate ions
+C	oxygen gas		carbon dioxide gas 
+D	oxygen gas		hydrogencarbonate ions
+B	
+---------------------------------------------------
+
+
+[10236728]
+// Experiment // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows an experimental set-up used to study the effect of oxygen on chicken blood. Manganese dioxide catalyses the breakdown of hydrogen peroxide into oxygen and water. Chicken blood contains haemoglobin which is similar to that in human blood. 
+
+	
+
+What will be the colour change of the blood?
+A	from bright red to purplish red
+B	from purplish red to bright red
+C	from bright red to blue
+D	no colour change
+B	
+---------------------------------------------------
+
+
+[10236755]
+// Experiment // Schematic diagram // Applying concepts //
+*	Which of the following statements about the experiment are correct?
+(1)	The colour change will be reversed if carbon dioxide is bubbled into the blood.
+(2)	Haemoglobin becomes bright red in colour when combined with oxygen.
+(3)	At high carbon dioxide concentration, oxyhaemoglobin forms.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10236758]
+// Basic concepts //
+	Carbon dioxide is mainly carried in the blood in the form of
+A	carbon dioxide gas.			B	carbonate ions.
+C	carboxyhaemoglobin.		D	hydrogencarbonate ions.
+D	
+---------------------------------------------------
+
+[10236773]
+// Basic concepts //
+*	C-shaped cartilages are present in
+A	the trachea only.
+B	the trachea and bronchi only.
+C	the bronchi and bronchioles only.
+D	the trachea, bronchi and bronchioles.
+A	
+---------------------------------------------------
+
+[10236774]
+// Basic concepts //
+	Which of the following is not an adaptive feature of an air sac for its function?
+A	It is lined with mucus to trap dust particles and bacteria.
+B	Its moist inner surface allows gases to dissolve.
+C	Its thin epithelium decreases the diffusion distance of gases.
+D	It is richly supplied with capillaries for rapid transport of gases.
+A	
+---------------------------------------------------
+
+[10236782]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the bell-jar model below, which illustrates the process of breathing in humans.
+
+	
+
+Which structure of the human breathing system does X represent?
+A	the lungs
+B	the thoracic wall
+C	the sternum
+D	the intercostal muscles
+B	
+---------------------------------------------------
+
+[10236812]
+// Schematic diagram // Basic concepts //
+	What will happen if Z is pushed upwards?
+A	X will move upwards and air will rush in through W.
+B	X will move downwards and volume of Y will decrease.
+C	Volume of Y will decrease and air will be forced out through W.
+D	Volume of Y will increase and air will rush in through W.
+C	
+---------------------------------------------------
+
+
+[10236829]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the human breathing system. 
+
+	
+
+Where can the ciliated epithelial cells and mucus-secreting cells be found?	
+A	X only 
+B	W, X and Y only 
+C	X, Y and Z only
+D	W, X, Y and Z
+D	
+---------------------------------------------------
+
+
+
+Short questions
+
+[10237001]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the relative positions of the structures in the respiratory system during a process in ventilation. 
+	
+
+a	Describe how muscles at positions X and Y work together to bring about the process shown.										(3 marks)
+b	Describe what will happen to the lung if structures Z are ruptured. State how this may affect the process shown above.				(3 marks)
+
+-- answer --
+	a	The muscles at X contract and cause the rib cage to move upwards and outwards.																1m
+		The muscles at Y contract and cause the diaphragm to become flattened.	1m
+		The volume of the thoracic cavity thus increases.						1m
+	b	Air will leak into the pleural cavity and the negative pressure of the pleural cavity 			cannot be maintained.										1m
+		The lung will collapse due to its own elasticity.						1m
+The volume of the lung cannot reach the maximum when the above process is carried out.												1m	
+---------------------------------------------------
+
+[10237017]
+// Photomicrograph // Applying concepts //
+*	The photomicrographs below show the air sacs of a healthy person and a person with emphysema. 
+	
+
+	a	Describe two observable differences between the air sacs of the healthy person and those of the person with emphysema.				(2 marks)
+	b	Suggest how the differences in a affect the oxygen concentration in the blood of the person with emphysema.						(2 marks)
+
+-- answer --
+a	The number of air sacs of the person with emphysema is lower.			1m
+	The air sacs of the person with emphysema are larger.				1m
+b	The person with emphysema has a lower oxygen concentration in blood than the healthy person.												1m
+	This is because the area of the respiratory surface for gas exchange is reduced.															1m	
+---------------------------------------------------
+
+[10237021]
+// Comparison // Schematic diagram // Applying concepts //
+*	Asthma is an inflammatory disease of the airways. The diagrams below show the cross sections of a normal bronchiole and a bronchiole during an asthma attack.
+
+	
+
+a	With reference to the diagrams, state three changes in the bronchioles during an asthma attack.									(3 marks)
+b	Explain why less oxygen is taken up by the body cells during an asthma attack.												(3 marks)
+
+-- answer --
+a	The muscles in the wall of bronchioles constrict. /
+The wall of the bronchioles becomes thicker. /
+Mucus secretion increases. /
+The lumen of the bronchioles becomes narrower. (any 3)				1m x 3
+b	Since the lumen of the bronchioles becomes narrower, less fresh air enters the lungs.													1m
+The concentration gradient of oxygen between the air in the air sacs and the blood becomes less steep.											1m
+	Less oxygen diffuses into the blood and less oxygen is carried by the blood to the body cells. Thus, less oxygen is taken up by the body cells.				1m	
+---------------------------------------------------
+
+[10237024]
+// Matching // Schematic diagram // Basic concepts //
+	The diagrams below show a model used to demonstrate the mechanism of ventilation. The model is changed from position I to position II by pulling rod P up.
+
+a	For each part of the model in Column 1, select one corresponding structure of the breathing system listed in Column 2. Put the appropriate letter in the space provided.										(4 marks)
+
+Column 1			Column 2	
+Rod P			A	Rib	
+Rubber band Q 			B	Vertebral column 	
+Rod R			C	Sternum	
+Rod S			D	Trachea	
+			E	Intercostal muscle	
+
+b	When the model is changed from position I to position II, is the model demonstrating inhalation or exhalation?						(1 mark)
+-- answer --
+	a	Rod P			C										1m
+ 		Rubber band Q		E										1m
+		Rod R			A										1m
+		Rod S			B										1m
+	b	Inhalation													1m	
+---------------------------------------------------
+
+[10237032]
+// STSE connections // Schematic diagram // Applying concepts //
+*	a	Why is ventilation important for efficient gas exchange?		(3 marks)
+b	An iron lung can help people who have lost control of their breathing muscles to breathe. The pressure inside the metal chamber is changed by moving the bellows in and out.
+	
+	When the bellows are moved out, explain whether air moves into or out of the lungs of the patient.									(2 marks)
+-- answer --
+	a	Ventilation brings oxygen to the lungs								1m
+		and removes carbon dioxide from the lungs.						1m
+	This helps maintain a steep concentration gradient for efficient diffusion of gases 		to occur. 													1m
+	b	When the bellows are moved out, the volume of the metal chamber increases and 		the air pressure in the metal chamber decreases.					1m
+		The lungs of the patient expand and air moves into his lungs.			1m	
+---------------------------------------------------
+
+
+[10237036]
+// Data handling // High order thinking // Experiment // Calculation //
+**	The diagram below shows an apparatus used to analyse the composition of an air sample. The capillary tube is first completely filled with water. An air sample is introduced into the tube using the syringe, and then some water is drawn up to seal the air sample. After the whole apparatus is left in water for 5 minutes, the length of the air sample is measured under water.
+ 	
+
+To determine the percentage of carbon dioxide in the air sample, half of the water from the terminal water length is expelled and some potassium hydroxide is drawn up. The air sample is moved up and down several times so that it comes into contact with the glass wetted with potassium hydroxide. Potassium hydroxide absorbs carbon dioxide. The whole apparatus is left in water for 5 minutes and the length of the air sample is measured under water.
+To determine the percentage of oxygen in the air sample, the air sample is then treated with potassium pyrogallate as with potassium hydroxide. Potassium pyrogallate absorbs both carbon dioxide and oxygen.
+
+The table below shows the measurements.
+Air sample	Length (mm)	
+Without treatment	200	
+After treating with potassium hydroxide	192	
+After treating with potassium pyrogallate	160	
+
+a	Why are the measurements made under water?				(1 mark)
+b	Why must the air sample be treated with potassium hydroxide and then potassium pyrogallate, but not vice versa?					(1 mark)
+c	Calculate the percentages of carbon dioxide and oxygen in the air sample. Show your working.									(2 marks)
+d	From the results in c, deduce the source of the air sample.		(1 mark)
+
+--answer--
+	a	To avoid the change in temperature that can cause expansion or contraction of the 		air sample.												1m
+	b	If the air sample is treated with potassium pyrogallate first, both carbon dioxide and 		oxygen will be absorbed and the percentages of carbon dioxide and oxygen in the 		air sample cannot be found.									1m
+	c	Percentage of carbon dioxide: (200 - 192) / 200 ( 100% = 4%			1m
+		Percentage of oxygen: (192 - 160) / 200 ( 100% = 16%				1m
+	d	Exhaled air												1m	
+---------------------------------------------------
+
+[10237044]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some structures of the human breathing system.
+	
+a	Using the letters in the diagram, state the structure(s) where ciliated epithelial cells can be found.								(1 mark)
+b	Chemicals in cigarette smoke inhibit the movement of cilia on the ciliated-epithelial cells. Explain why smokers are more likely to get lung infections.											(2 marks)
+-- answer --
+a	X and Y													1m
+b	Mucus that traps microorganisms in the inhaled air is carried upwards by the beating action of cilia and removed.										1m
+	If the movement of cilia is inhibited, the microorganisms trapped by the mucus cannot be removed. Microorganisms are more likely to enter the lungs and cause lung infections.												1m	
+---------------------------------------------------
+
+[10237046]
+// Data handling // Calculation // Applying concepts //
+*	A person exhaled slowly after a deep inhalation. The table below shows the change in volume of his lungs. 
+
+Time (s)	Volume of lungs (dm3)	
+0	5.0	
+1	3.1	
+2	2.6	
+3	2.1	
+4	1.8	
+5	1.6	
+6	1.6	
+
+a	Describe how the change in volume of the lungs is brought about by the actions of intercostal muscles and diaphragm muscles. 		(3 marks)
+	b	Calculate the volume of air exhaled by the person. 			(1 mark)
+c	Asbestosis is a disease caused by long-term exposure to asbestos. Asbestos trapped in the lungs causes the lungs to lose elasticity. State how the volume of air exhaled by a person with asbestosis would be different from that exhaled by a healthy person. Explain briefly.					(2 marks)
+
+-- answer --
+	a	The intercostal muscles relax. The rib cage moves downwards and inwards.																		1m
+		The diaphragm muscles relax. The diaphragm returns to its dome shape. 	1m
+		The volume of the thoracic cavity decreases and hence the lung volume decreases. 																1m
+	b	5.0 - 1.6 = 3.4 dm3											1m
+	c	The volume of air exhaled would be smaller.						1m
+		As the lungs became less elastic, they cannot inflate fully. The volume of air inhaled 		and exhaled would be smaller. 									1m	
+---------------------------------------------------
+
+
+[10237056]
+// Cross-topic // Schematic diagram //
+*	The diagram below shows some body cells and a capillary next to them. Oxygen is carried from the lungs to the body cells by red blood cells. 
+
+	
+
+a	Describe how oxygen is carried from the lungs to the body cells by red blood cells.											(3 marks)
+	b	Explain why having a diet deficient in iron over a long time may reduce the 		amount of oxygen supplied to the body cells. 				(2 marks)
+
+-- answer --
+a	In the lungs, oxygen diffuses into the red blood cells and binds to haemoglobin to form oxyhaemoglobin.										1m
+		The red blood cells containing oxyhaemoglobin are then carried by the plasma to 		the capillaries near the body cells. 								1m
+		Oxyhaemoglobin breaks down into haemoglobin and oxygen. Oxygen diffuses into 		the body cells. 												1m
+	b	Iron is a component of haemoglobin. 								1m
+		If a person is deficient in iron, the amount of haemoglobin formed may decrease.
+		As a result, less oxygen is carried to the body cells. 					1m	
+---------------------------------------------------
+
+
+[10237059]
+// Overseas exam question // Cross-topic // Schematic diagram //
+*	The diagram below shows a type of tissue found in the respiratory system.
+
+	
+
+a	State where in the respiratory system you would find this type of tissue.															(1 mark)
+b	Suggest why cells in this type of tissue have large numbers of mitochondria.														(2 marks)
+c	Explain how this tissue helps to protect against lung infections.	(3 marks)
+		OCR GCE (AS) Human Biology Molecules, Blood and Gas Exchange
+														 Jan 2012 Q1
+
+-- answer --
+a	Nasal cavity / trachea / bronchi / bronchioles						1m
+b	The cells need to carry out respiration to release energy				1m
+for the movement of cilia.										1m
+c	Mucus-secreting cells secrete mucus								1m
+to trap microorganisms.										1m
+The cilia beat to sweep mucus towards the pharynx. The mucus is then swallowed or coughed up.												1m	
+---------------------------------------------------
+
+[10237062]
+// Basic concepts //
+	For efficient gas exchange to occur, a steep diffusion gradient must be maintained between the air in the air sacs and the blood. A steep diffusion gradient can be maintained by ventilating the lungs. This refreshes the air in the air sacs.
+a	Explain how refreshing the air in the air sacs helps to maintain a steep diffusion gradient for efficient gas exchange.					(2 marks)
+b	Describe and explain one other way in which a steep diffusion gradient is maintained in the lungs.									(2 marks)
+-- answer --
+a	Refreshing the air in the air sacs increases the concentration of oxygen in the air sacs. This helps maintain a higher oxygen concentration than in the blood.	1m
+It also decreases the concentration of carbon dioxide in the air sacs. This helps maintain a lower carbon dioxide concentration than in the blood.			1m
+b	The continuous blood flow in the capillaries							1m
+brings in more carbon dioxide / takes away more oxygen.				1m
+OR
+Oxygen combines with haemoglobin								1m
+to keep the oxygen concentration in plasma low.						1m	
+---------------------------------------------------
+
+[10237080]
+// Applying concepts //
+*	In the human breathing system, the bronchi are lined with cilia and covered with mucus. 
+a	State one function of the cilia and the mucus.				(2 marks)
+b	Cigarette smoke contains chemicals that inhibit the movement of cilia in the bronchi. Based on this fact, explain why smokers have a higher risk of getting lung infections. 									(3 marks)
+-- answer --
+a	The mucus traps dust particles and microorganisms in the incoming air.	1m
+The cilia beat to sweep the mucus towards the pharynx, where the mucus is swallowed or coughed up.										1m
+b	As the beating of cilia is inhibited by the chemicals, mucus accumulates in the bronchi.													1m
+Microorganisms trapped in the mucus cannot be removed from the bronchi.	1m
+They may enter the lungs and cause infections.						1m	
+---------------------------------------------------
+[10237084]
+// Basic concepts //
+	Complete the following paragraph with suitable words.				(5 marks)
+Blood carries oxygen and carbon dioxide around the body. Red blood cells carry oxygen in the form of a                      from the b                      to the body tissue, where oxygen is released and enters the body cells for respiration. On the other hand, c                      carries carbon dioxide in the form of d                      ions, which are formed from the reaction between carbon dioxide and e                      in the red blood cells. The ions are carried from the body tissue to the air sacs of the lungs. 
+
+-- answer --
+a	oxyhaemoglobin											1m
+b	lungs														1m
+c	plasma													1m
+d	hydrogencarbonate											1m
+e	water													1m	
+---------------------------------------------------
+
+[10237086]
+// Basic concepts //
+	Describe how human lungs are adapted for their functions in the following ways.
+a	providing a large surface area
+b	providing a thin surface
+c	maintaining a steep concentration gradient
+d	preventing excess water loss								(4 marks)
+-- answer --
+a	The lungs contain a large number of air sacs. This provides a large surface area for diffusion of gases.											1m
+b	The walls of air sacs are one-cell thick. This reduces the diffusion distance of gases.													1m
+c	Ventilation brings fresh air to the lungs to maintain a high oxygen content in the lungs and to remove carbon dioxide from the lungs. /
+The lungs are richly supplied with capillary which allows oxygenated blood to be carried away from the air sacs and deoxygenated blood to be carried to the air sacs. 													1m
+d	The lungs are deep inside the body. 								1m	
+---------------------------------------------------
+[10237099]
+// Graph interpretation // Experiment //
+*	In an investigation of the change in the composition of air during breathing, the change in the oxygen and carbon dioxide content of the air in the nasal cavity of a person was recorded. The results are shown in the graphs below. 
+
+	
+a	Using the graphs above, estimate the percentage of oxygen and carbon dioxide in the atmospheric air. 							(2 marks)
+b	Account for the change in the percentage of carbon dioxide during exhalation with reference to the air movement along the respiratory tract.														(3 marks)
+-- answer --
+a	Oxygen: 21%												1m
+Carbon dioxide: 0%											1m
+b	The person is breathing out during 3-6 s.
+From 3-3.5 s, the air from the air sacs has not yet reached the nasal cavity.	1m
+From 3.5-5 s, the air from the air sacs that has been mixed with the fresh air in the respiratory tract reaches the nasal cavity.							1m
+From 5-6 s the whole respiratory tract is saturated with the air from the air sacs, thus the carbon dioxide content keeps constant at the highest value. 		1m	
+--------------------------------------------------
+[10237101]
+// Reading comprehension // Applying concepts //
+*	Read the following article and answer the questions.
+
+	Sinuses (竇) are a group of hollow air spaces within the skull surrounding the nose. They help in insulating the skull, reducing the weight of the skull and allowing the sound to resonate in the skull.
+	The sinuses are lined with mucus-secreting cells and ciliated epithelial cells. Under normal conditions, the mucus produced by the cells is drained into the nasal cavity through openings of the sinuses. When the respiratory tract is infected, the lining of the nasal cavity swells up, blocking the openings between the sinuses and the nasal cavity. The mucus is trapped inside the sinuses. This may result in sinus infection called sinusitis (鼻竇炎). 
+	Symptoms of sinusitis include facial pain and thick nasal secretions. Sinusitis normally ends on its own. If the symptoms last for a long period of time, people should go to see a doctor and receive medical treatments.	
+
+a	State the functions of mucus and cilia in the sinuses.			(2 marks)
+b	How does the mucus trapped in the sinuses result in sinusitis?	(1 mark)
+c	Suggest another symptom of sinusitis with a reason.			(2 marks)
+
+-- answer --
+a	The mucus traps dust particles and microorganisms.					1m
+The cilia beat to sweep the mucus towards the nasal cavity. The mucus is then removed.													1m
+b	The mucus trapped in the sinuses may contain microorganisms. These microorganisms cause sinusitis.									1m
+c	Sore throat												1m
+Mucus containing microorganisms is drained into the back of the throat from the sinuses and the microorganisms cause an infection.					1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10237115]
+// Data handling // Calculation // Applying concepts //
+*	Red blood cells are one type of cells that can be found in human blood.
+a	The red colour of red blood cells is due to the presence of a pigment which carries oxygen. Give the name of the pigment and write the word equation for its reaction with oxygen.								(2 marks)
+A climber who used to live in Hong Kong has moved to Tibet at high altitude to prepare for climbing Mount Everest. The table below shows the number of red blood cells in 1 mm3 of blood when he was living in Hong Kong and after he got used to the high altitude of Tibet.
+
+Location	Number of red blood cells (per mm3 of blood)	
+In Hong Kong	5.0 x 106	
+In Tibet	5.6 x 106	
+
+b	Calculate the percentage increase in the number of red blood cells in 1 mm3 of blood after he got used to the high altitude of Tibet.			(2 marks)
+c	In Tibet, air is less dense. The number of oxygen molecules taken in per breath is smaller. Explain the importance of having a greater number of red blood cells for the climber to stay in Tibet.					(2 marks)
+
+-- answer --
+a	haemoglobin												1m
+			1m
+b	(5.6 x 106 - 5.0 x 106) / (5.0 x 106) x 100% 							1m
+= 12%													1m
+c	A greater number of red blood cells increases the uptake of oxygen into the blood.														1m
+This ensures that enough oxygen is supplied to the body cells of the climber to maintain normal body functions.									1m	
+---------------------------------------------------
+
+
+[10237129]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac of a healthy person and an air sac of a person with emphysema. 
+	
+
+State how the oxygen content in the exhaled air of the person with emphysema is different from that of a healthy person. Explain with reference to the diagram. 															(4 marks)
+
+-- answer --
+The oxygen content is higher. 										1m
+The air sac of the person with emphysema has a smaller surface area. 		1m
+This decreases the surface area for the diffusion of oxygen during gas exchange. 																1m
+The rate of oxygen diffusion from the air in the air sacs to the blood decreases.	1m	
+---------------------------------------------------
+
+[10237131]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a section of lung tissue.
+	
+
+a	State how cell layer X is adapted to its functions in gas exchange.															(4 marks)
+b	How is carbon dioxide transported in the blood?				(3 marks)
+
+-- answer --
+a	The cells in cell layer X are thin / flattened.							1m
+This reduces the diffusion distance of gases.						1m
+Cell layer X has a large surface area.								1m
+This increases the rate of diffusion.								1m
+b	Most carbon dioxide diffuses into red blood cells						1m
+and reacts with water to form hydrogencarbonate ions.				1m
+The ions then diffuse out of the red blood cells and are carried by the plasma.															1m	
+---------------------------------------------------
+
+[10237134]
+// Applying concepts //
+*	a	In the human lungs, there are several hundred million of air sacs. Explain how this makes gas exchange efficient. 					(1 mark)
+b	The lumen of the capillaries surrounding the air sacs is only slightly larger than the diameter of a red blood cell. Explain one way in which the small lumen of the capillaries facilitates gas exchange.				(2 marks)
+c	In the lungs of patients who suffer from a certain disease, only a very small volume of air in the air sacs can be replaced in each breath. Explain how this affects the efficiency of gas exchange in the air sacs.		(2 marks)
+
+-- answer --
+a	This provides a very large surface area for the diffusion of gases.			1m
+b	During gas exchange, oxygen diffuses into red blood cells after entering the capillaries. 												1m
+Small lumen shortens the diffusion distance of oxygen into the red blood cells. 															1m
+c	The concentration gradient of oxygen and carbon dioxide between the air sacs and the blood in the capillaries becomes less steep.						1m
+Therefore, the rate of diffusion decreases. This lowers the efficiency of gas exchange.													1m	
+---------------------------------------------------
+
+[10237141]
+// Experiment // Schematic diagram // Basic concepts //
+*	The diagram below shows an experimental set-up used by Maggie to compare the carbon dioxide content of inhaled air and exhaled air.
+
+	
+
+a	Maggie intended to breathe through tube X but her teacher stopped her. Why? Which tube should she breathe through?				(2 marks)
+b	Maggie then breathed in and out through the correct tube several times. What would be observed in flasks P and Q?					(2 marks)
+c	What did the results tell Maggie about the carbon dioxide content of inhaled air and exhaled air?										(1 mark)
+d	Suggest another indicator that could be used in this experiment.	(1 mark)
+
+-- answer --
+a	She would suck up the lime water if she breathed through tube X.		1m
+She should breathe through tube Y.								1m
+b	The lime water in flask P remained clear							1m
+while that in flask Q turned milky.								1m
+c	Exhaled air contains more carbon dioxide than the inhaled air.			1m
+d	Hydrogencarbonate indicator									1m	
+---------------------------------------------------
+
+[10237145]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the approximate concentrations of substances inside an air sac and a capillary in the lungs.
+	
+a	In which directions will oxygen and carbon dioxide diffuse between the capillary and the air sac? Explain briefly. 					(2 marks)
+b	What are the adaptive features of lungs for efficient gas exchange? State three of them.											(3 marks)
+c	Patients with a certain genetic disease produce a large amount of sticky mucus in their lungs. They often have difficulty breathing.
+Explain why they often have difficulty breathing.				(2 marks)
+
+-- answer --
+a	Oxygen will diffuse from the air sac to the capillary because oxygen concentration in the air sac is higher than that in the capillary.					1m
+Carbon dioxide will diffuse from the capillary to the air sac because carbon dioxide concentration in the capillary is higher than that in the air sac.		1m
+b	A large number of air sacs are present in the lungs. /
+The walls of air sacs are very thin / only one-cell thick. /
+The inner surfaces of air sacs are moist / lined with a film of water. /
+Air sacs are richly supplied with capillaries. /
+The walls of air sacs are in close contact with capillaries. (any 3) 	1m x 3
+c	The sticky mucus blocks their bronchioles.						1m
+This reduces the amount of fresh air flowing into the air sacs for gas exchange.														1m	
+--------------------------------------------------- 
+
+[10237149]
+// Schematic diagram // Basic concepts //
+*	a	Comparing with a smaller number of large air sacs, gas exchange in a larger number of small air sacs is more efficient. Why?				(2 marks)
+b	The diagram below shows part of an air sac and a capillary.
+
+	
+
+i	Name the type of cells in cell layer X.					(1 mark)
+ii	What is Y? State its function in gas exchange.			(2 marks)
+c	At the moment before exhalation, the composition of the air in the air sacs differs from that of the air in the trachea.
+i	How does the composition differ?						(1 mark)
+ii	Explain why there is a difference in composition.			(1 mark)
+
+-- answer --
+a	The surface area to volume ratio of a larger number of small air sacs is larger. 															1m
+This facilitates diffusion of gases.								1m
+b	i	Epithelial cells											1m
+ii	Water film												1m
+It allows gases in inhaled air to dissolve in it before they diffuse across the walls of the air sacs.										1m
+c	i	The air in air sacs contains less oxygen, more carbon dioxide and more water vapour.											1m
+ii	Gas exchange occurs in air sacs but not in trachea.				1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10237239]
+// Overseas exam question // Graph interpretation // Data handling //
+*	a	Breathing in mammals depends on changes in pressure within the thoracic (chest) cavity.
+		Explain the mechanism of inspiration in mammals.			(3 marks)
+b	The volume of air in the lungs of an individual over a one-minute period is shown in the graph below.
+	
+
+		i	Name the process taking place at X.					(1 mark)
+ii	Describe two ways in which the breathing changes after 30 seconds (the period labelled Y).								(2 marks)
+iii	Suggest an explanation for one of these differences.		(2 marks)
+
+c	The breathing rates of five people were monitored over a five-week period, as shown in the table below.
+Individual	Average breathing rate (breaths minute-1)	
+	Week 1	Week 2	Week 3	Week 4	Week 5	
+A	14	13	15	12	13	
+B	11	14	12	13	12	
+C	19	19	20	21	22	
+D	13	10	14	12	12	
+E	12	11	13	12	11	
+i	Which individual's average breathing rate showed the largest range during the five-week period?							(1 mark)
+Individual C suffers from emphysema.
+ii	Using the information provided, describe fully and explain the data shown for C.										(4 marks)
+CCEA GCE (AS) Biology Module 2 June 2017 Q4a-c
+-- answer --
+a	The intercostal muscles and diaphragm muscles contract.			1m
+	The volume of the thoracic cavity increases.					1m
+As a result, the air pressure in the lungs decreases and becomes lower than the atmospheric pressure. Air rushes into the lungs.					1m
+b	i	Exhalation											1m
+	ii	There are more breaths per unit time. /
+		Breathing is deeper. /
+		Breathing is less consistent.
+		(any two or other reasonable answers)					1m × 2
+	iii	The individual may be doing exercise during period Y.			1m
+	These changes allow the muscle cells to obtain enough oxygen for respiration and remove carbon dioxide faster.						1m
+c	i	D												1m
+	ii	Individual C has a higher breathing rate.					1m
+	The surface area of air sacs in patients with emphysema is reduced.														1m
+		Therefore, less oxygen enters the patient's blood during each breath.																1m
+		As a result, individual C needs to breathe more frequently to compensate for the reduced oxygen level in blood.			1m	
+---------------------------------------------------
+
+[10237256]
+// Overseas exam question // Schematic diagram // Basic concepts //
+*	A diagram of the human respiratory system is shown below.
+	
+	a	Name the parts labelled A and B.							(2 marks)
+	Carbon dioxide and oxygen are exchanged in the lungs by the process of diffusion.
+	b	State where oxygen diffuses to after it leaves the alveoli (air sacs).																	(1 mark)
+	c	State and explain three ways the alveoli are adapted for gas exchange.																(6 marks)
+CCEA GCE (AS) Life and Health Science Unit 2 June 2017 Q2a
+-- answer --
+a	A: bronchus												1m
+	B: bronchiole												1m
+b	Capillaries													1m
+c	The walls of air sacs are only one-celled thick.						1m
+	This reduces the diffusion distance of gases.						1m
+	The inner surfaces of air sacs are moist.							1m
+	This allows gases dissolve in the water film and then diffuse across air sacs.																1m
+	The walls of air sacs are in close contact with capillaries.				1m
+	This reduces the diffusion distance of gases.						1m
+	(or other reasonable answers)	
+---------------------------------------------------
+[10237274]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows some of the cells lining the trachea.
+	
+a	i	Construction workers are often exposed to dust. Describe how cells P and Q help clean the inhaled air.						(2 marks)
+	ii	With reference to the diagram, explain one other feature that helps prevent dust from entering our body.					(2 marks)
+b	Cell Q is responsible for producing a substance that is protein in nature. Suggest one organelle that is abundant in cell Q.				(1 mark)
+c	Construction workers who work in oil drilling sites may suffer from pulmonary fibrosis. It is suggested that the long-term exposure to irritant oil mist is likely to cause a gradual replacement of normal lung tissues with scar tissues. As a result, lung tissues become stiff and pulmonary fibrosis develops. Suggest why pulmonary fibrosis will lead to breathing difficulties.													(3 marks)
+
+-- answer --
+a	i	Cell Q secretes mucus which traps the dusts in the inhaled air.		1m
+		Cilia of cell P beat to sweep the mucus towards the pharynx for swallowing or coughing.												1m
+	ii	The epithelial cells are closely packed.						1m
+		This forms a physical barrier to prevent the entry of dusts.			1m
+b	Rough endoplasmic reticulum.									1m
+c	Hardened lung tissues reduce the elasticity of the lungs.				1m
+	Hence, a smaller lung volume will result when the lungs inflate.			1m
+Less fresh air enters the lungs during inhalation. The efficiency of gas exchange is reduced.													1m	
+---------------------------------------------------
+
+[10237286]
+// Data handling // Comparison // Schematic diagram // Applying concepts //
+*	The diagram below shows a normal bronchus and that of a person suffering from asthma.
+	
+
+a	i	Describe how the lumen of the bronchus of a person suffering from asthma differs from that of a healthy person.				(1 mark)
+	ii	Hence, explain how asthma affects the release of carbon dioxide from blood into the air sacs.								(4 marks)
+	b	The table below shows the cumulative volume of exhaled air of a healthy person and a person with asthma in six seconds.
+
+	Cumulative volume of exhaled air (L)	
+Time (s)	Healthy person	Person with asthma	
+0	0	0	
+1	2.9	1.2	
+2	3.6	2.5	
+3	4.0	3.4	
+4	4.2	3.8	
+5	4.2	4.2	
+6	4.2	4.2	
+
+		Compare and contrast the results of the two persons.			(2 marks)
+
+
+
+-- answer --
+a	i	The lumen of the bronchus of a person suffering from asthma is narrower.														1m
+	ii	The constriction of bronchus reduces the amount of atmospheric air reaching the air sacs.											1m
+		The concentration of carbon dioxide in the air sacs becomes higher.	1m
+		The concentration gradient of carbon dioxide between the air sacs and the blood is less steep.										1m
+		The release of carbon dioxide from blood into the air sacs becomes less efficient.												1m
+b	Their total volume of exhaled air is the same.						1m
+	The breathing rate of the healthy person is higher.					1m	
+---------------------------------------------------
+
+[10237294]
+// Data handling // Schematic diagram // Basic concepts //
+*	The diagram below shows an air sac and its associated capillary.
+	
+
+a	i	Which end of the capillary, X or Y, connects to the pulmonary veins? Explain your answer.								(2 marks)
+	ii	Hence, determine the direction of blood flow.			(1 mark)
+b	With reference to the diagram, explain two adaptive features of the air sac for gas exchange.										(4 marks)
+c	Describe how oxygen is taken up by red blood cells and released to the body cells.											(6 marks)
+
+
+
+
+-- answer --
+a	i	X is connected to the pulmonary veins.						1m
+	Pulmonary veins carry oxygenated blood from the lungs to the heart.															1m
+	ii	From Y to X.											1m
+b	The inner surface of the air sac is moist.							1m
+	Oxygen in inhaled air dissolves in the water film lining the inner surface of the air sac before diffusion takes place.									1m
+	OR
+	The wall of the air sac is very close to the capillary surrounding the air sac.	1m
+	This reduces the diffusion distance of gases.						1m
+	OR
+	The wall of air sac is very thin / only one-celled thick.					1m
+	This reduces the diffusion distance of gases.						1m
+c	In the lungs, oxygen diffuses from the air sacs into red blood cells,		1m
+	where it binds to haemoglobin to form oxyhaemoglobin.				1m
+	The oxygenated blood is carried via the pulmonary veins to the heart.		1m
+	The heart then pumps the blood to different body tissues.				1m
+	In body tissues, oxyhaemoglobin in red blood cells breaks down into haemoglobin and oxygen. 												1m
+	The oxygen then diffuses into the body cells. 						1m	
+---------------------------------------------------
+
+
+[10237296]
+// High order thinking // STSE connections // Schematic diagram //
+**	When a person drowns, oxygen supplied to the brain decreases. This may lead to unconsciousness. Mouth-to-mouth ventilation can be performed for rescue. It involves blowing exhaled air into the drowned person's lungs through the mouth.
+
+	
+
+a	Suggest one reason why oxygen supplied to the brain decreases during drowning.											(3 marks)
+b	Based on the composition of exhaled air, explain why mouth-to-mouth ventilation can help rescue a drowned person.				(2 marks)
+c	Suggest why it is necessary to follow the instructions below when blowing exhaled air through a drowned person's mouth.
+i	Keep the drowned person's head tilted back instead of letting it lie flat.												(1 mark)
+ii	Observe whether the drowned person's chest rises.		(1 mark)
+
+-- answer --
+a	During drowning, water enters the lungs.							1m
+Water accumulated in the lungs blocks gas exchange between the air in the air sacs and the blood in the capillaries.								1m
+The oxygen level in the blood decreases, so oxygen carried to the brain decreases.												1m
+(or other reasonable answers)
+b	Exhaled air contains 16% oxygen.								1m
+This oxygen can be supplied to the brain of the drowned person.			1m
+c	i	To ensure that the entrance of the trachea is open.				1m
+ii	To ensure that air is blown into the drowned person's lungs.			1m	
+---------------------------------------------------
+
+[10237304]
+// Design experiment // Data handling // High order thinking // Experiment //
+**	The graph below shows the percentages of various gases in inhaled air, exhaled air, air sample collected in the air sacs and air sample collected in the trachea of a human.
+
+
+
+a	Explain why the percentage of oxygen in the air sample collected in the air sacs is lower than that in inhaled air.						(1 mark)
+b	Explain why the percentage of carbon dioxide in the air sample collected in the air sacs is slightly higher than that in exhaled air.			(2 marks)
+c	State the difference in the percentages of water vapour in inhaled air and in exhaled air. Explain your answer.							(2 marks)
+d	Explain why the percentages of nitrogen in inhaled air and in exhaled air are similar.												(1 mark)
+e	You are provided with the following materials and apparatus:
+glass jars with glass plates, water trough, rubber tubing, hydrogencarbonate indicator, water	
+Describe how you would perform an experiment to show the carbon dioxide content in exhaled air is higher than that in inhaled air.			(4 marks)
+
+
+-- answer --
+a	In the air sacs, some of the oxygen in the air diffuses into the blood during gas exchange.													1m
+b	During exhalation, air leaving the lungs is mixed with the air in the trachea,	1m
+	which has a lower percentage of carbon dioxide.						1m
+c	The percentage of water vapour in exhaled air is higher than that in inhaled air.
+															1m
+Air is moistened by the mucus lining the respiratory tract and the water film lining the air sacs.												1m
+d	Nitrogen is not used or produced by the body cells.					1m
+e	Collect a jar of inhaled air (atmospheric air). Cover the jar with a glass plate.
+														1m
+Collect a jar of exhaled air as shown below. After the jar is completely filled with exhaled air, cover it with a glass plate.							1m
+
+Add about 5 cm3 of hydrogencarbonate indicator to the jar of inhaled air. Quickly cover the jar and shake it gently. Repeat the steps with the jar of exhaled air.
+														1m
+
+The colour of the indicator in the jar of inhaled air should remain red while the indicator in the jar of exhaled air should change from red to yellow.		1m	
+---------------------------------------------------
+
+
+[10237321]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac and its associated capillary.
+	
+a	Describe how oxygen moves from the air sac into the blood in the capillary and how oxygen is transported away.						(4 marks)
+b	Name a gas that moves from the blood in the capillary into the air sac.														(1 mark)
+c	How do the following features of cell X facilitate gas exchange?
+	i	Cell X is in biconcave disc shape.						(1 mark)
+	ii	Cell X has no nucleus.								(1 mark)
+d	The air sacs may be filled up with fluid during a lung infection. Explain how this may affect the efficiency of gas exchange.			(3 marks)
+-- answer --
+	a	Oxygen in the air dissolves in the water film lining the air sac.			1m			Oxygen diffuses across the walls of the air sac and the capillary into the blood.																	1m
+Oxygen diffuses into red blood cells and binds to haemoglobin to form oxyhaemoglobin.											1m
+The red blood cells containing oxyhaemoglobin are then carried to the body tissues by the blood.												1m
+	b	Carbon dioxide												1m
+	c	i	This increases the surface area to volume ratio and allows oxygen to diffuse in and out of the cells more efficiently. / This provides a short distance for oxygen to reach and leave the haemoglobin in the cell rapidly.				1m
+		ii	This provides space for more haemoglobin.						1m
+	d	The accumulation of fluid increases the diffusion distance of gases		1m
+		and reduces the surface area for gas exchange.						1m
+		Thus the air sacs become less efficient in gas exchange.				1m	
+---------------------------------------------------
+[10237332]
+// Data handling // Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac of the human lung and a capillary next to it. The oxygen content of the blood at two positions, X and Y, of the capillary is also shown. 
+
+	
+
+a	Is the blood in the capillary flowing to the right or to the left? Explain your answer.												(4 marks)
+b	The wall of the air sac is in close contact with the capillary. What is the significance of this to the function of the air sac? 			(1 mark)
+c	In people suffering from cystic fibrosis, large amount of thick mucus accumulates in the air sacs of the lungs. How would this affect the oxygen content of blood at Y? Explain your answer. 				(3 marks)
+
+-- answer --
+	a	To the right												1m
+		As the oxygen concentration in the air sac is higher than that in the blood,	1m
+		oxygen in the air sac diffuses into the blood.						1m
+		Therefore, the oxygen content of blood increases after passing through the air sac. 																1m
+	b	This reduces the diffusion distance of gases and hence increases the efficiency of 		gas exchange. 												1m
+	c	The oxygen content of blood at Y would be lower. 					1m
+		The accumulation of mucus would increase the diffusion distance of oxygen from 		the air sac to the blood. 										1m
+		Thus, less oxygen would enter the blood.							1m	
+---------------------------------------------------
+
+
+[10237334]
+// Graph interpretation // High order thinking // Calculation //
+*	The diagram below shows the changes in the volume of air in the lungs of a student at rest during one breath.
+	
+a	Describe the process that causes the change in the volume of air between points B and C.										(4 marks)
+b	Using the diagram, calculate the breathing rate of this student in breaths per minute.												(2 marks)
+c	About 1 dm3 of air cannot be expelled from the lungs. This is known as the residual volume. Suggest why it is not possible to expel all the air from the lungs.												(2 marks)
+
+-- answer --
+a	The intercostal muscles relax. The rib cage moves downwards and inwards.																1m
+The diaphragm muscles relax. The diaphragm returns to its dome shape.	1m
+The volume of the thoracic cavity decreases,						1m
+causing the volume of the lungs to decrease.						1m
+b	60 / 5													1m
+	= 12 breaths per minute										1m
+c	The rib cage / lungs cannot be completely compressed.				1m
+The bronchi are held open by cartilage.							1m	
+---------------------------------------------------
+
+[10237340]
+// Graph interpretation // Calculation //
+*	The graphs below show the change in volume of the thoracic cavity and the change in pressure in the lungs of a person when he is at rest. 
+
+Fig a	
+
+ Fig b	
+
+a	State the period of time during which the person is 
+i	breathing in.										(1 mark)
+ii	breathing out.										(1 mark)
+b	Estimate the rate of breathing, in number of breaths per minute, of the person.												(2 marks)
+c	Describe the state of the intercostal muscles and the diaphragm at 1 s.															(2 marks)
+d	With reference to the graphs, explain how the change in volume of thoracic cavity leads to exhalation.								(3 marks)
+
+
+
+
+
+
+-- answer --
+a	i	0-2.5 s												1m
+ii	2.5-5 s												1m
+b	One breath takes 5 s. 										1m
+The rate of breathing
+									1m
+c	At 1 s, the person is breathing in.
+The intercostal muscles contract.								1m
+The diaphragm becomes flattened.								1m
+d	As the volume of thoracic cavity decreases during 2.5-5 s as shown in Fig a, 															1m
+the air pressure in the lungs is higher than the atmospheric pressure as shown in Fig b.													1m
+Thus, air is forced out of the lungs.								1m	
+---------------------------------------------------
+
+[10237341]
+// Data handling // Experiment // Basic concepts //
+*	The table below shows the percentage of oxygen and carbon dioxide in the inhaled air, air in the air sacs and exhaled air. 
+
+	Inhaled air	Air in the air sacs	Exhaled air 	
+Oxygen (%)	20.8	13.3	15.9	
+Carbon dioxide (%)	0.03	5	4.1	
+
+a	Explain why the air in the air sacs has a lower oxygen concentration than the inhaled air.											(1 mark)
+b	Explain why the exhaled air has a lower carbon dioxide concentration than the air in the air sacs.									(2 marks)
+c	Apart from the concentrations of oxygen and carbon dioxide, state one other difference between the inhaled and exhaled air. Explain briefly. 	(2 marks)
+d	Suggest one method to show the difference in the oxygen content of inhaled air and exhaled air. 									(3 marks)
+
+
+
+
+-- answer --
+a	In the air sacs, oxygen in the air diffuses into the blood in the capillaries. 	1m
+b	During exhalation, air from the air sacs mixes with air in the respiratory tract,															1m
+which has a lower carbon dioxide concentration. 					1m
+c	The exhaled air contains more water vapour than the inhaled air. 		1m
+Air is moistened by the mucus lining the respiratory tract and the water film lining the air sacs. 												1m
+OR
+The exhaled air is warmer than the inhaled air. 						1m
+The exhaled air is warmed by the blood in the capillaries on the wall of the nasal cavity. 													1m
+d	Collect a jar of inhaled air and a jar of exhaled air.			 		1m
+Lower a burning candle quickly into each jar of gas. 					1m
+Compare the time that the candles burn inside the two jars of gases. 		1m	
+---------------------------------------------------
+
+[10237343]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an air sac and a capillary near it.
+	
+a	Compare the composition of the blood at positions X and Y. Explain the differences. 											(4 marks)
+b	The concentration of oxygen in the air sacs is high. Explain how this can be maintained. 											(2 marks)
+c	The wall of air sacs becomes thicker as people get older. Explain why this makes older people difficult to do exercise for a prolonged period of time. 													(3 marks)
+
+
+-- answer --
+a	Blood at position Y has a higher oxygen concentration. Oxygen diffuses from the air in the air sacs into the blood during gas exchange. /
+Blood at position Y has a lower carbon dioxide concentration. Carbon dioxide in the blood diffuses into the air sacs during gas exchange. /
+Blood in position Y has less glucose. Glucose diffuses into the cells on the walls of air sacs for their use. (any 2)								2m x 2
+b	During ventilation, some air in the air sacs is replaced by fresh air.	1m
+The fresh air has a high oxygen concentration.					1m
+c	Thicker wall increases the diffusion distance of oxygen. 			1m
+It takes a longer time for oxygen from the air sacs to diffuse into the blood.															1m
+The rate of respiration decreases and thus less energy is available for doing exercise. 												1m	
+---------------------------------------------------
+
+[10237344]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows a section of human lung tissue. 
+
+	
+
+a	Name structure X.										(1 mark)
+b	With reference to the photomicrograph, describe two adaptive features of structure X for gas exchange.								(4 marks)
+c	Describe the mechanism by which the air in structure X goes to the atmosphere.											(4 marks)
+
+-- answer --
+a	Air sac													1m 
+b	A large number of structure X are present in the lungs.  				1m
+This provides a very large surface area for the diffusion of gases. 		1m
+The wall of structure X is very thin / one-cell thick. 					1m
+This reduces the diffusion distance of gases. 						1m 
+c	The intercostal muscles relax. The rib cage moves downwards and inwards.	1m
+The diaphragm muscles relax. The diaphragm recoils to dome shape.		1m
+The volume of the thoracic cavity decreases, and hence the volume of the lungs.															1m
+The air pressure in the lungs becomes higher than the atmospheric pressure. Air is forced out of the lungs.										1m	
+---------------------------------------------------
+
+[10237357]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a structure in the human lungs which provides a surface for gas exchange.
+	
+a	Name this structure.									(1 mark)
+b	Describe how oxygen in the air is brought into this structure.	(4 marks)
+c	With reference to one feature in the diagram, explain how the lung is adapted to gas exchange. 								(2 marks)
+d	Patients suffering from cystic fibrosis produce viscous mucus. The viscous mucus accumulates in the lungs and along the airway to the lungs. State how gas exchange is affected by the disease and give two reasons for your answer. 												(3 marks)
+
+-- answer --
+a	Air sac													1m
+b	The intercostal muscles contract. The rib cage moves upwards and outwards.															1m
+The diaphragm muscles contract. The diaphragm becomes flattened.		1m
+The volume of the thoracic cavity increases, and hence the volume of the lungs. 															1m
+The air pressure in the lungs becomes lower than the atmospheric pressure. Air rushes into the lungs (air sacs).									1m
+c	The wall of the air sac is very thin.								1m
+This reduces the diffusion distance of the gases.						1m
+OR
+The inner surface of the air sac is moist / lined with a film of water. 		1m
+This allows gases in the inhaled air to dissolve in the water film before diffusing across the wall of the air sac.									1m
+d	The efficiency of gas exchange is lowered.							1m
+The mucus blocks the airway, reducing the amount of gas entering the lungs.															1m
+The mucus on the air sacs reduces the surface area for gas exchange / increases the diffusion distance between the air sacs and the capillaries.			1m	
+---------------------------------------------------
+
+[10237379]
+// Experiment // Schematic diagram // Basic concepts //
+*	The diagram below shows a set-up which can be used to compare the carbon dioxide content of inhaled and exhaled air. To obtain results, a person breathes in and out through the mouthpiece.
+	
+a	Draw arrows on this diagram to show the direction which air would take in passing through the set-up.								(1 mark)
+b	Name a suitable carbon dioxide indicator which could be used in this set-up. 													(1 mark)
+c	Describe the results you would expect in each boiling tube if a person breathed in and out through the mouthpiece several times.		(2 marks)
+d	i	Describe an experiment you can perform in the school laboratory to compare the oxygen content of inhaled and exhaled air.	(4 marks)
+ii	Describe and explain the results you expect to get.		(2 marks)
+
+-- answer --
+a	
+			1m
+b	Hydrogencarbonate indicator / lime water 							1m
+c	X: Hydrogencarbonate indicator turns yellow / lime water turns milky.		1m
+Y: Hydrogencarbonate indicator remains red / lime water remains clear.	1m
+d	i	Collect a jar of atmospheric air as inhaled air. 					1m
+Collect a jar of exhaled air by blowing slowly into a gas jar over water.	1m
+Lower a burning candle quickly into each jar. 					1m
+Record how long the candle can burn in each jar.				1m
+ii	The candle in the jar of inhaled air can burn longer.				1m
+It is because inhaled air contains more oxygen than exhaled air. 		1m	
+---------------------------------------------------
+
+
+[10237380]
+// Data handling // Calculation // Applying concepts //
+**	a	Describe how the actions of the diaphragm leads to inhalation.	(3 marks)
+b	When a person dives in the water, he/she cannot obtain oxygen from the air. An investigation was done to find out the amount of blood flowing into the organs related to breathing during diving. The table below shows the flow of blood to the lungs and to the diaphragm in a person when he is on land and when he is under water.
+
+Organ	Blood flow (arbitrary unit)	
+	On land	Under water	
+Lungs	0.92	0.50	
+Diaphragm	0.18	0.01	
+
+i	Calculate the percentage change in the blood flow to the lungs when the person is under water. Show your working. 			(2 marks)
+ii	State the importance of supplying blood to the lungs during diving.													(1 mark)
+iii	Explain why there is a great decrease in blood flow to the diaphragm during diving.										(2 marks)
+
+-- answer --
+a	The diaphragm becomes flattened.								1m
+The volume of the thoracic cavity increases, and hence the volume of the lungs.															1m
+The air pressure in the lungs becomes lower than the atmospheric pressure. Air rushes into the lungs.											1m
+b	i	[(0.50-0.92) / 0.92] x 100%								1m
+= -45.7%												1m
+ii	To support the cellular activities in the lungs.					1m
+iii	The diaphragm needs not to contract during diving. 				1m
+The amount of glucose and oxygen needed is reduced, and the amount of carbon dioxide needed to be removed is also reduced. 			1m	
+---------------------------------------------------
+
+
+[10237394]
+// Drawing // Graph interpretation //
+**	The graph below shows the change in air pressure in the thoracic cavity during normal ventilation.
+
+	
+
+a	i	How does the carbon dioxide concentration in the air flowing through the respiratory tract differ at time X and Y?				(1 mark)
+ii	Describe how the diffusion of gases in air sacs causes such a  difference.										(2 marks)
+b	Use the information in the graph, sketch a curve to show how the volume of the lungs changes during inhalation.						(2 marks)
+
+	
+
+c	Describe how the actions of intercostal muscles and diaphragm muscles lead to the changes in the volume of the lungs during inhalation.	(3 marks)
+
+-- answer --
+a	i	The carbon dioxide concentration at time Y is higher than that at time X.														1m
+ii	Carbon dioxide diffuses from the blood into the air in the air sacs		1m
+as the carbon dioxide concentration in blood is higher than that in the air sacs.													1m
+b	
+
+														2m
+c	The intercostal muscles contract. This causes the rib cage to move upwards and outwards.													1m
+The diaphragm muscles contract. This causes the diaphragm to become flattened. 														1m
+The movements increase the volume of the thoracic cavity, and hence the volume of the lungs.												1m	
+---------------------------------------------------
+
+[10237415]
+// Drawing // Schematic diagram //
+*	The diagram below shows a model demonstrating the movements of different parts of the human body during breathing.
+
+	
+
+a	Which parts of the human body are represented by P and Q?	(2 marks)
+b	Sketch the appearance of the model which illustrates the movements during inhalation. 											(2 marks)
+c	Describe the changes in the parts represented by P and Q during inhalation and the results of these changes. 							(4 marks)
+d	Draw a curve on the following graph to show the change in air pressure in the lungs during inhalation and exhalation.					(2 marks)
+
+	
+
+
+
+-- answer --
+a	P: rib	s													1m
+Q: intercostal muscles										1m
+b	Diagram showing P in horizontal position							1m
+and Q shortened. 											1m
+c	The intercostal muscles (represented by Q) contract.					1m
+The ribs (represented by P) move upwards and outwards. 				1m
+This increases the volume of the thoracic cavity, and hence the volume of the lungs. 													1m
+The air pressure in the lungs becomes lower than the atmospheric pressure. Air rushes into the lungs.											1m
+d	Curve showing the air pressure higher than the atmospheric pressure during exhalation and the air pressure lower than the atmospheric pressure during inhalation.													2m	
+---------------------------------------------------
+
+[10237425]
+// High order thinking // Schematic diagram //
+*	The diagram below shows a bell-jar model.
+	
+a	Which structures in the human body do parts P, Q and R represent?															(3 marks)
+b	The air entering the human part represented by P is clean and moist. How can this be done?										(3 marks)
+c	What happens to the balloons when the rubber sheet is pulled downwards? Which part of the breathing process does this represent?		(2 marks)
+d	In what way does this model inaccurate in illustrating the breathing actions in humans?											(2 marks)
+-- answer --
+a	P: trachea												1m
+Q: bronchus											1m
+R: thoracic wall											1m
+b	Hairs in the nostrils filter larger dust particles from the air.			1m
+Mucus secreted by the mucus-secreting cells lining the respiratory tract traps dust particles and bacteria.									1m
+Mucus is then removed by the beating of cilia on the ciliated epithelial cells.															1m
+c	The balloons inflate / increase in volume.						1m
+This represents inhalation / breathing in.						1m
+d	The space between the lungs and the wall of thoracic cavity is filled with pleural fluid instead of air. /
+When at rest, the diaphragm is dome-shaped while the rubber sheet lies flat. /
+The movement of the diaphragm is controlled by muscle contraction and relaxation while that of the rubber sheet is controlled by hand. /
+The size of the thoracic cavity can be changed by movement of the rib cage while the bell jar is rigid. (any 2)									1m x 2	
+---------------------------------------------------
+
+[10237435]
+// High order thinking // Schematic diagram //
+**	The diagram below shows a model which demonstrates the breathing process of humans.
+
+	
+
+a	Which structures of the human breathing system do the following parts of the model represent?
+i	the plunger										(1 mark)
+ii	the balloon										(1 mark)
+iii	the syringe barrel									(1 mark)
+iv	the hole in the cork									(1 mark)
+b	i	What happens to the balloon when hole X is closed and the plunger is pulled out at the same time?							(1 mark)
+ii	Which part of the breathing process does the process described in i represent?										(1 mark)
+iii	Explain the mechanism of the process in ii in terms of the pressure in space Y.											(3 marks)
+c	State one feature of breathing that cannot be shown by the model.															(1 mark)
+d	Hole X represents an injury to the thoracic wall, for example, a gunshot wound. Describe how the injury will affect the breathing process.															(2 marks)
+
+-- answer --
+a	i	Diaphragm											1m
+ii	Lungs												1m
+iii	Thoracic wall / rib cage									1m
+iv	Trachea / mouth / nose									1m
+b	i	The balloons inflate / increase in volume.						1m
+ii	This represents inhalation / breathing in.						1m
+iii	During inhalation, the diaphragm muscles contract and the diaphragm becomes flattened.										1m
+The volume of the thoracic cavity (space Y) increases and hence the air pressure inside decreases. 								1m
+The volume of the lungs increases and the air pressure inside becomes lower than the atmospheric pressure. Air rushes into the lungs.		1m
+c	The small space between the lungs and the wall of thoracic cavity is filled with pleural fluid instead of air. /
+When at rest, the diaphragm is dome-shaped while the bottom of the plunger is flat. /
+The movement of the diaphragm is controlled by muscle contraction and relaxation while that of the plunger is controlled by hand. /
+The size of the thoracic cavity can be changed by movement of the rib cage while the syringe barrel is rigid. 										1m
+d	The pressure inside the thoracic cavity (space Y) will be the same as the atmospheric pressure even when the diaphragm becomes flattened.		1m
+No pressure difference will exist between the lungs and the atmosphere and thus air will not rush into the lungs.									1m	
+---------------------------------------------------
+
+[10237451]
+// Experiment // Basic concepts //
+*	The diagram below shows a set-up used to compare the carbon dioxide content of inhaled and exhaled air. A student breathed in and out slowly through the set-up several times. 
+	
+a	Describe any change in the indicator in boiling tubes P and Q. Explain the observation. 											(4 marks)
+b	Explain any difference in the carbon dioxide content of the inhaled and exhaled air. 											(2 marks)
+c	To get a more reliable result, the experiment was repeated several times with the same set-up. Name two factors that have to be kept constant to make sure that the results were valid.						(2 marks)
+d	i	Besides carbon dioxide and oxygen, name another gas which the percentage in inhaled and exhaled air differs.			(1 mark)
+ii	Explain why there is such a difference in percentage.		(2 marks)
+
+-- answer --
+a	Boiling tube P: The indicator remained red.						1m
+Boiling tube Q: The indicator turned from red to yellow.			1m
+The inhaled air contains 0.03% carbon dioxide.					1m
+The exhaled air contains 4% carbon dioxide.					1m
+b	Carbon dioxide produced by the body cells during respiration is transported by the blood to the air sacs. 									1m
+During gas exchange, carbon dioxide in the blood diffuses into the air in the air sacs. 												1m
+c	Volume of the hydrogencarbonate indicator / temperature / rate of breathing   (any 2)												1m x 2
+d	i	Water vapour										1m
+ii	Air is moistened by the mucus lining the respiratory tract		1m
+and the water film lining the air sacs.						1m	
+---------------------------------------------------
+
+[10237470]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the site of gas exchange in humans. 
+	
+a	Name structure X. State two ways in which it is adapted for efficient gas exchange. 											(3 marks)
+b	What gases are exchanged between structure X and blood? State the directions of the net movement of the gases.					(4 marks)
+-- answer --
+a	Air sac												1m
+A large number of it is present in the lungs. / 
+Its wall is very thin / one-cell thick. / 
+Its inner surface is moist / lined with a film of water. / 
+It is richly supplied with capillaries. /
+Its wall is in close contact with capillaries. (any 2)				1m x 2
+b	Oxygen and carbon dioxide								1m x 2
+Oxygen diffuses from structure X to the blood.					1m
+Carbon dioxide diffuses from the blood to structure X.				1m	
+---------------------------------------------------
+
+[10237478]
+// Data handling // Calculation // Basic concepts //
+*	The surface area to volume ratio of an organism varies with its size. The table below shows two spheres X and Y which are used as models of organisms of different sizes. The surface area and volume of each sphere are given.
+	Sphere X	Sphere Y	
+			
+Diameter (cm)	2.5	7	
+Surface area (cm2)	78.5	615.8	
+Volume (cm3)	65.4	1436.8	
+a	i	The surface area to volume ratio of sphere X is 1.2. Calculate the ratio of sphere Y. Show your working.						(2 marks)
+ii	Describe how the ratio changes as the size of the sphere increases. 													(1 mark)
+b	i	According to a, explain why large organisms like humans need a breathing system but unicellular organisms like Amoeba does not.													(3 marks)
+ii	Name the organ where gas exchange occurs in humans.	(1 mark)
+
+-- answer --
+a	i	615.8 / 1436.8											1m
+= 0.4													1m
+ii	The ratio becomes smaller as the size of the sphere increases. 		1m
+b	i	Unicellular organisms have a larger surface area to volume ratio.		1m
+Exchange of gases by diffusion through their body surface is fast enough to meet their requirements. 									1m
+Large organisms like humans have a much smaller surface area to volume ratio. Exchange of gases by diffusion through their body surface is not fast enough to meet their requirements.							1m
+ii	Lungs												1m	
+--------------------------------------------------- 
+[10237482]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an air sac in the human breathing system.
+
+	
+
+a	Name P, Q and R.										(3 marks)
+b	Name the gases that diffuse in the directions shown by arrows X and Y respectively. 											(2 marks)
+c	State three adaptive features of the air sacs for gas exchange.	(3 marks)
+
+-- answer --
+a	P: wall of the capillary									1m
+Q: red blood cell										1m
+R: plasma												1m
+b	X: oxygen												1m
+Y: carbon dioxide										1m
+c	A large number of air sacs are present in the lungs. / 
+Their walls are very thin / one-cell thick. / 
+Their inner surfaces are moist / lined with a film of water. / 
+They are richly supplied with capillaries. /
+Their walls are in close contact with capillaries. (any 3)			1m x 3	
+---------------------------------------------------
+
+
+Essays
+
+[10237566]
+// Communication // Basic concepts //
+*	Explain why oxygen in the air sacs can enter the red blood cells in the blood efficiently.												(10 marks)
+
+-- answer --
+Any seven from: 											1m x 7
+A large number of air sacs are present in the lungs. This provides a very large surface area for the diffusion of oxygen.
+The walls of the air sacs and the capillaries are one-cell thick. This reduces the diffusion distance of oxygen. 
+The inner surfaces of air sacs are lined with a film of water. This allows oxygen in inhaled air to dissolve in the water film and diffuse across the walls of the air sacs. 
+Air sacs are richly supplied with capillaries. This allows rapid transport of oxygen away from the air sacs. Therefore a steep concentration gradient of oxygen between the air sacs and the blood can be maintained for efficient diffusion of oxygen. 
+The walls of air sacs are in close contact with capillaries. This reduces the diffusion distance of oxygen. 
+Red blood cells are in a biconcave disc shape. This provides a large surface area to volume ratio for the diffusion of oxygen into the cells. 
+The biconcave disc shape of red blood cells also provides a short distance for oxygen to reach the haemoglobin in the red blood cells rapidly. 
+Red blood cells are fully packed with haemoglobin which is an excellent oxygen carrier. 
+Mature red blood cells have no nucleus. This provides more room for holding haemoglobin.
+Communication												3m	
+---------------------------------------------------
+
+[10237584]
+// Communication // Basic concepts //
+	Describe how inhalation is achieved during ventilation.			(10 marks)
+
+-- answer --
+The intercostal muscles contract.									1m
+This causes the rib cage to move upwards and outwards.					1m
+At the same time, the diaphragm muscles contract.						1m
+This causes the diaphragm to become flattened.							1m
+The movements increase the volume of the thoracic cavity, and hence the volume of the lungs.														1m
+The air pressure in the lungs decreases and becomes lower than the atmospheric pressure.														1m
+Air rushes into the lungs through the respiratory tract.						1m
+Communication													3m	
+---------------------------------------------------
+

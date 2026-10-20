@@ -1,0 +1,902 @@
+Chapter11		Cell cycle and division
+
+Multiple-choice questions
+
+[10288956]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the distance between poles of the cell, the distance between centromeres of a pair of sister chromatids, and the distance between a centromere and the nearest pole of the cell duringmitotic cell division.
+
+
+
+
+	Which of the following statements correctly describe(s) the events that occur at different stages?
+	(1)	Homologous pairsline up along the equator at stage P.
+	(2)	Sister chromatids separate at stage Q.
+(3)	The cytoplasm starts to divide at stage R.
+	A	(1) only
+	B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3)only
+D
+
+---------------------------------------------------
+
+[10288965]
+// Cross-topic // Graph interpretation // Applying concepts //
+**	Directions: The following two questions refer to the graph below, which shows the distribution of cells according to their DNA content in a sample of cells.
+
+
+	Which of the following are most likely the cells in the sample?
+A	mature red blood cells				B	sperms
+C	epithelial cells in small intestine		D	neurones
+C
+
+---------------------------------------------------
+
+[10288971]
+// Cross-topic // Graph interpretation // Applying concepts //
+**	If the cell sample is treated with a drug that inhibits DNA replication, which of the following graphs correctly shows the distribution of cells after the treatment?
+A
+
+B
+
+
+C
+
+D
+
+
+---------------------------------------------------
+
+Short question
+
+[10288976]
+// Cross-topic // Photomicrograph // Applying concepts //
+*	A scientist obtained a sample of cells and made a karyotype. The karyotype is shown below.
+
+
+
+a	Based on the above karyotype, suggest why the cell is likely to be a human cell.													(1 mark)
+b	One of the steps involved in making a karyotype is addition of colchicine to the cellsample. Colchicine is a chemical that prevents the formation of spindle fibres. Explain the purpose of adding colchicine to the cell sample.															(2 marks)
+c	The cellsare then placed in a hypotonic solution to spread the chromosomes apart so that they are less overlapped.
+	Why can placing the cells inhypotonic solution helpspread the chromosomes apart?									(2 marks)
+
+-- answer --
+a	There are 23 pairsof chromosomes in this karyotype.					1m
+b	The cells will stay at metaphase after colchicine is added.				1m
+	As a result, the chromosomes will remain visible.						1m
+c	Water moves into the cells by osmosis.							1m
+	The cellsswell and there are more spaces for the chromosomes.			1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10288992]
+// Graph interpretation // High order thinking // Applying concepts //
+*	The graph below shows the change in cell mass and DNA content per nucleus of an animal cell in 55 hours.
+
+
+
+a	Describe and explain the change in DNA content per nucleus from 15 to 30 hours.												(3 marks)
+b	Name the event that occurs in the cell at 30 hours. Describe the event 
+briefly.												(2 marks)
+c		How would the DNA content per nucleus be different if the cell carries out meiotic cell division instead? Explain your answer.			(2 marks)
+
+-- answer --
+a		The DNA content per nucleus doubles during 15 to 25 hours. After 25 hours, the DNA content decreases back to the original level.					1m
+	During 15 to 25 hours, the DNA content doubles because the cell carries out DNA replication.													1m
+		After 25 hours, the cell carries out mitosis. Sister chromatids separate and they are distributed equally between two daughter nuclei. Therefore, the DNA content per nucleus decreases back to the original level.						1m
+b		Cytoplasmic division											1m
+	The cell membrane constrictsinwards until the cellsplits into two.			1m
+
+c		The DNA content per nucleus will further decrease to 0.5 arbitrary units after it decreases back to the original level								1m
+	because after the separation of homologous chromosomes in the first meiotic division, the sister chromatids separate inthe second meiotic division / there are two divisions in meiotic cell division.								1m
+
+---------------------------------------------------
+
+
+Chapter12		Reproduction in flowering								plants
+
+Multiple-choice questions
+
+[10289088]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the dispersal pattern of the fruits produced by a plant.
+
+
+	Which of the following fruits is most likely produced by the plant?
+A
+
+B
+
+
+C
+
+D
+
+
+
+B
+
+---------------------------------------------------
+
+
+[10289090]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a lotus plant.
+
+
+	Which of the following structures contain(s) food reserves for the growth of new plants?
+	A	W only
+	B	X and Z only
+	C	W and Z only
+	D	W, X and Z only
+C
+
+---------------------------------------------------
+
+[10289095]
+// Schematic diagram // Applying concepts //
+*	Which of the following statements about structure X is/are correct?
+It is developed from the ovum of the flower.
+It helps the dispersal of the seeds.
+It has the same genetic make-up as the seeds.
+	A	(1) only
+	B	(2) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+B
+
+---------------------------------------------------
+
+Short question
+
+[10289096]
+// Cross-topic // Reading comprehension // High order thinking //
+*	Read the following paragraph and answer the questions.	
+	Gros Michel is a variety of cultivated banana that was widely grown in the past. It is a triploid plant (i.e. it contains three sets of chromosomes in its cells) and therefore, cannot produce gametes. In 1950s, there was an outbreak of Panama disease globally.It is a plant disease caused by a fungus living in soil. The disease spread quickly in Gros Michel plantations and killed a large number of plants.
+
+
+	a	Explain why a triploid plant cannot produce gametes.			(2 marks)
+b	Explain why Panama disease can spread quickly in a Gros Michel  plantation.											(3 marks)
+c	Why is it difficult for farmers to develop a new variety of banana plants that is disease-resistant from Gros Michel?						(2 marks)
+
+-- answer --
+a	The gamete-producing cells of a triploid plant contain three sets of chromosomes.																1m
+	The chromosomes cannot pair up and separate during meiotic cell division.																	1m
+b	Gros Michel plants reproduce asexually because they cannot produce seeds.																1m
+	Therefore, all plants in a plantation are genetically identical. As a result, all plants have same susceptibility to Panama disease.						1m
+	Moreover, plants in a plantation usually grow close to each other. This allows the fungus from an infected plant to spread to other healthy plants easily.		1m
+c	To produce a new variety that is disease-resistant, farmers need to cross Gros Michel plants with banana plants of other variety which is resistant to Panama disease.													1m
+	Since Gros Michel plants cannot produce gametes, it will be difficult for farmers to cross them with other banana plants.								1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10289105]
+// High order thinking // Applying concepts //
+**The photograph below shows a flower from an avocado plant.
+
+
+The avocado flower opens and closes twice over a two-day period. During each opening stage, only one of the reproductive parts (female or male) is mature and the other reproductive part is non-functional. The plant can be further classified as type A or type B, the flowers of the two types open and close at different times during the two-day flowering period.
+Type
+Day 1
+Day 2
+
+
+Morning
+Afternoon
+Morning
+Afternoon
+
+A
+Open with mature stigma
+closed
+closed
+Open with mature anthers
+
+B
+closed
+Open with mature stigma
+Open with mature anthers
+closed
+
+
+a	Based on the photograph, suggest the method of pollination for avocado flower. Support your answer with two observable features from the photograph.											(3 marks)
+b	What is the advantage for the reproductive parts of avocado flower to mature at different times?								(2 marks)
+c	An avocado orchard (果園) often has both type A and type B avocado 
+plants. What is the purpose of planting both type A and type B avocado plants in the same orchard?								(3 marks)
+
+-- answer --
+a	By insects												1m
+	The flower has large petals. /
+		The anthers / stigmas are located inside the flower. /
+	The anthers are firmly attached to the filaments.					1m x 2
+	(any 2 or other reasonable answer)
+b	This helps avoid self-pollination of avocado plants.				1m
+		Therefore, the genetic variations of the offspring can be increased.	1m
+c	Planting both type A and type B avocado plants can increase the chance of pollination of the plants									1m
+		because the orchard will have flowers opened with mature stigmas and flowers opened with mature anthers at the same time.					1m
+	Therefore, the flowers can be fertilized and developed into fruits.		1m
+
+---------------------------------------------------
+
+Chapter13		Reproduction in humans
+
+Multiple-choice questions
+
+[10289200]
+// Cross-topic // Applying concepts //
+*	Which of the following statements about a fertilized ovum and an ovum is/are correct?
+	(1)	Both can undergo mitotic cell division.
+	(2)	A fertilized ovum contains more DNA than an ovum.
+	(3)	The amount of cytoplasm of a fertilized ovum is double of that of an ovum.
+	A	(2) only
+	B	(1) and (2) only
+C	(1) and (3) only
+	D	(1), (2)and (3)
+A
+
+---------------------------------------------------
+
+[10289215]
+// Applying concepts //
+*	Which of the following statements about placenta is incorrect?
+	A	Placenta is a structure formed by both the mother’s and the embryo’s cells.
+B	In the placenta, the embryo’s blood is separated from the maternal blood to avoid the embryo’s blood vessels from being damaged by the high blood pressure of maternal blood.
+	C	Placenta secretes hormones to maintain the thickness of the uterine lining.
+D	Placenta acts as a shock absorber to protect the embryo from mechanical injury.
+D
+
+---------------------------------------------------
+
+
+Short question
+
+[10289217]
+// Schematic diagram // Applying concepts //
+*	Identical twins are developed from single zygote. Therefore, it is possible for identical twins to share some of the extra-embryonic structures. The diagram below shows two types of identical twins.
+
+
+	a	Name fluid X and state one function of the fluid.				(2 marks)
+b	Based on the diagram above, state the difference between type I and type II twins.												(1 mark)
+c	Explain why type I twins have higher risk of miscarriage during pregnancy.														(2 marks)
+-- answer --
+a	Amniotic fluid												1m
+	It acts as a cushion to protect the embryo from mechanical injury. /
+It provides a stable environment, e.g. a constant temperature, for the development of the embryo. /
+It prevents the embryo from desiccation. /
+It allows the embryo to move around easily. /
+It lubricates the vagina during childbirth.							1m
+b	Type I twins share the same amnionwhile type II twins have separate amnions.																1m
+c	Since the twins share the same amnion, their umbilical cords may entangle with each other.												1m
+	Such entanglement may reduce/cut off the blood supply to the twins, resulting in the lost of the twins.											1m
+
+---------------------------------------------------
+
+Structured questions
+
+[10289233]
+// Cross-topic // Graph interpretation // High order thinking //
+**	Couples with difficulty in having a child may receive fertility treatments such as artificial insemination. Artificial insemination is a technique that transfers sperms directly into female’s reproductive organ. There are two types of artificial insemination:
+intracervical insemination (ICI)
+Sperms are transferred to the entrance of the cervix
+
+intrauterine insemination (IUI)
+Sperms are transferred into the uterus
+
+
+The graph below shows the pregnancy rate of IUI at different sperm count.
+
+
+
+a	Briefly describe the relationship between the sperm count and the pregnancy rate of IUI.									(2 marks)
+b	How will the pregnancy rate of ICIdiffer from IUI? Explain your answer.															(3 marks)
+c		In IUI, semen collected from the husband is processed to remove dead sperms, white blood cells and cell debris before transferring into the uterus of the wife. What is the advantage of removing white blood cells?																(2 marks)
+d	After IUI, hCG injections may be given to the wife to increase the chance of pregnancy. hCG is a hormone that prevents the degeneration of yellow body. Explain how the injection of hCG improves the chance of pregnancy.															(2 marks)
+-- answer --
+a	The pregnancy rate increases as the sperm count increases.			1m
+	The pregnancy rate increases more rapidly when the sperm count increases from 0 to 10 million per cm3.										1m
+b	The pregnancy rate of ICI will be lower than that of IUI.				1m
+	Because in ICI, sperms are placed at the entrance of the cervix. Therefore, they need to travel a longer distance than the sperms that are placed in the uterus.																1m
+	Moreover, some sperms may be trapped by the mucus in the vagina/ killed by the acidity in the vagina.											1m
+c	White blood cells in the semen may treat the ovum as foreign cell and attack the ovum.													1m
+	This may cause damage to the ovum and hence impair the fertilization of the ovum.													1m
+d	Yellow body secretes hormone to maintain the thickness of the uterine lining.																1m
+	This helps prepare the uterine lining for the implantation of the embryo.	1m
+
+---------------------------------------------------
+
+Chapter14		Growth and development
+
+Multiple-choice questions
+
+[10289338]
+// Cross-topic // Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the change in dry mass of a seed during germination.
+
+
+
+	Which of the following combinations correctly describes the changes in the rate of respiration and rate of photosynthesis at day X?
+
+Rate of respiration
+Rate of photosynthesis
+
+A
+increases
+increases
+
+B
+increases
+decreases
+
+C
+decreases
+increases
+
+D
+decreases
+decreases
+
+
+A
+
+---------------------------------------------------
+
+
+[10289362]
+// Cross-topic // Graph interpretation // Applying concepts //
+*	Which of the following factors affect the dry mass of the seedling at day X?
+	(1)	temperature
+	(2)	light intensity
+	(3)	water supply
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+		D	(1), (2) and (3)
+D
+
+---------------------------------------------------
+
+Short question
+
+[10289377]
+// Cross-topic // Graph interpretation // High order thinking // Applying concepts //
+**An experiment was carried out to study the growth of onion roots. A portion of the root near the tip was obtained and it was cut into four segments (W, X, Y and Z). A cell sample was obtained from each segment and the cells were examined under a light microscope to determine the proportion of the cells undergoing mitosis. The graph below shows the results of the experiment. The average dry mass of the cells along the root was also shown.
+
+
+a	The cell samples needed to be stained before they were examined under the light microscope. Explain why.							(2 marks)
+b	Which of the labelled regions contains the apical meristem? Briefly explain your answer.											(3 marks)
+c	Draw a curve on the graph to represent the change in the average fresh mass of the cells along the root.								(2 marks)
+
+-- answer --
+a		The chromosomes become visible under the light microscope after the cells are stained.													1m
+	This helps identify the cells that are undergoing mitosis.				1m
+b		region W													1m
+	The apical meristem contains actively dividing cells.					1m
+	Region W has the highest proportion of cells undergoing mitosis.			1m
+c		
+	Correct shape of curve										1m
+	The curve is always higher than the curve of dry mass					1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10289380]
+// Cross-topic // Graph interpretation // High order thinking //
+	*	a	The graph below shows the change in the activity of amylase in germinating wheat grains.
+
+
+i	Describe and explain the change in amylase activity between day 0 to day 8.											(2 marks)
+ii	Explain why the change in amylase activity is important to the wheat grains during germination.							(1 mark)
+b	Wheatgrain is a main ingredient used in the production of traditional Chinese malt syrup. The flow chart below shows how the malt syrup is produced.
+
+
+i	Based on the graph in part a, suggest when should the germinating wheat grains be harvested (step 2). Explain your answer.	(3 marks)
+ii	What is the purpose of grinding the germinating wheat grains before they are mixed with sticky rice (step 3)?					(1 mark)
+
+-- answer --
+a	i	Amylase activity increases between day 0 to day 8.				1m
+	Amylase becomes activated as the wheat grains absorb water at the beginning of germination.									1m
+ii	Amylase catalyses the conversion of the starch stored in the wheat grains into sugars, which can then be used in respiration to provide energy needed for germination.											1m
+b	i	day 8												1m
+			The amylase activity on day 8 is the highest.					1m
+	The rate at which starch is broken down into sugars will be higher after the grinded wheat grains is mixed with steamed sticky rice and water.	1m
+ii	This process helps release the amylase inside the wheat grains so that the enzyme can break down starch in the sticky rice.					1m
+
+---------------------------------------------------
+
+	
+Chapter 15		Detecting the environment
+
+Multiple-choice questions
+
+[10289468]
+// Schematic diagram //Applying concepts //
+*	The diagram below shows the ear of Mr Lee who is suffering from an infection in the middle ear.
+fluid accumulates in the middle ear
+fluid accumulates in the middle ear
+
+
+	Which of the following combinations correctly states the change in the loudness of the sound heard by him after the infection and the reason behind?
+	Change in the loudness 		Reason
+	of the sound heard
+A	greater						contact between ear bones is better
+B	greater						round window releases pressure from the 
+									cochlea more effectively
+C	smaller						eardrum bulges inwards
+D	smaller						ear bones cannot move freely
+D
+
+---------------------------------------------------
+
+
+[10289486]
+// Cross-topic// Applying concepts //
+*	Directions: The following two questions refer to the photographs below. Photographs I to III show the objects as seen by a person with normal vision, and photographs IV to VI show the same objects as seen by Sarah.
+Objects as seen by a person with normal vision:
+photograph I
+photograph II
+photograph III
+Objects as seen by Sarah:
+photograph IV
+photograph V
+photograph VI
+Objects as seen by a person with normal vision:
+photograph I
+photograph II
+photograph III
+Objects as seen by Sarah:
+photograph IV
+photograph V
+photograph VI
+
+
+	Which of the following eye defects does Sarah most probably have?
+	A	short sight only
+	B	short sight and night blindness
+	C	long sight only
+	D	long sight and night blindness
+D
+
+---------------------------------------------------
+
+[10289487]
+// Cross-topic// Applying concepts //
+*	Which of the following actions may improve Sarah’s vision?
+	(1)	Wear concave lenses.
+	(2)	Consume foods rich in carotene.
+	(3)	Undergo surgery to increase the curvature of the cornea.
+	A	(1) only					B	(3) only
+	C	(1) and (2) only			D	(2) and (3) only
+D
+
+---------------------------------------------------
+
+Short question
+
+[10289504]
+// Experiment// Schematic diagram // Applying concepts //
+*	In an experiment, a student prepared two oat coleoptiles: one with half of the tip removed and the other is intact. The two coleoptiles were exposed to unilateral light for two days. The diagram below shows the set-up and the results of the experiment.
+
+coleoptile
+1
+2
+after two days
+unilateral light
+1
+2
+coleoptile
+1
+2
+after two days
+unilateral light
+1
+2
+
+
+
+a	State and explain the direction of growth of coleoptiles 1 and 2 after two days.												(3 marks)
+b	How was the degree of bending of coleoptiles 1 and 2 different after two days? Explain your answer.								(3 marks)
+
+-- answer --
+a	Both coleoptiles 1 and 2 grew towards the light / left.					1m
+	For coleoptile 1, auxins were only produced on the shaded side of the tip. They travelled down to the region of elongation and promoted the growth on the shaded side, causing the shaded side to grow faster.						1m
+	For coleoptile 2, auxins produced at the tip moved from the illuminated side to the shaded side. The higher concentration of auxins on the shaded side of the region of elongation caused the shaded side to grow faster.					1m
+b	Coleoptile 2 bent more than coleoptile 1.							1m
+	It is becausefor coleoptile 1, only half of the tip produced auxins, but for 
+coleoptile 2, the whole tip produced auxins.							1m
+	Therefore, the concentration of auxins on the shaded side of the region of elongation of coleoptile 2 was higher than that of coleoptile 1.			1m
+
+---------------------------------------------------
+
+Structured question
+
+[10289505]
+// Experiment // Applying concepts //
+**	In an experiment, a person was asked to sit in a well-lit room with one of his eyes covered and the uncovered eye kept looking at the front. A small red ball was placed at three different positions, one after the other, within the visual field of the person’s eye. The person was asked to report if he could see the ball and the colour of the ball when the ball was placed at each position. The experiment was then repeated with the light of the room dimmed. The table below shows the results.
+
+
+Bright light
+Dim light
+
+Position of ball
+Image detected?
+Colour detected?
+Image detected?
+Colour detected?
+
+X
++
+–
++
+–
+
+Y
++
++
+–
+N.A.
+
+Z
+–
+N.A.
+–
+N.A.
+
+	Key: ‘+’ indicates a positive response		‘–’ indicates a negative response
+
+a	Explain the results for the ball placed at
+	i	position X.										(3 marks)
+	ii	position Y.										(3 marks)
+b	Suggest a reason to explain why the person could not detect the image of the ball placed at position Z.								(2 marks)
+
+-- answer --
+	a	i	The image of the ball was formed on the periphery of the retina, which has a large number of rod cells and a small number of cone cells.			1m
+	The image of the ball was detected in both bright light and dim light conditions because the pigment in rod cells is sensitive to light of low intensity and hence rod cells are stimulated in both bright light and dim light conditions.												1m
+	The colour of the ball was not detected in both bright light and dim light conditions because the number of cone cells is small.				1m
+
+
+ii	The image of the ball was formed on the yellow spot, which is concentrated with cone cells and has no rod cells.							1m
+	An image of the ball with colour was detected in bright light condition because the pigments in cone cells, which are for colour vision, are sensitive to light of high intensity and hence cone cells are stimulated.		1m
+	The image of the ball was not detected in dim light condition because cone cells do not work well in dim light.							1m
+b	The image of the ball was formed on the blind spot.					1m
+	The blind spot contains no photoreceptors andhence no nerve impulses were sent to the brain. Therefore, the image of the ball was not detected in both bright light and dim light conditions.									1m
+
+--------------------------------------------------
+
+Chapter16		Coordination in humans
+
+Multiple-choice questions
+
+[10289597]
+// Cross-topic // High order thinking // Schematic diagram // 
+**	The diagram below shows the nervous pathway involved in pupillary reflex. Pupillary reflex is a reflex action that controls the size of pupil when light intensity changes.
+
+
+A doctor noticed the following signs in a patient:
+	I	When light is shining on left eye, the pupils in both eyes remain unchanged.
+	II	When light is shining on right eye, the pupils in both eyes constrict.
+Which of the following is probably the position at which the nerve(s) is/are damaged?
+	A	P					B	Q
+	C	R					D	S
+A
+
+---------------------------------------------------
+
+
+[10289613]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows part of the human central nervous system.
+
+
+	Which of the following structures control the movement of the diaphragm muscles?
+A	structures1 and 2
+B	structures 1 and 3
+C	structures 2 and 3
+D	structures 3 and 4
+B
+
+---------------------------------------------------
+
+[10289614]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Which of the following statements about structures 1 and 3 is correct?
+	A	Both structures have highly folded surface.
+B	The cell bodies of neurones in both structures are located in the outer layer.
+	C	The cells in both structures obtain nutrients from the cerebrospinal fluid.
+	D	Both structures control involuntary actions.
+C
+
+---------------------------------------------------
+
+Short question
+
+[10289625]
+	// Cross-topic // Graph interpretation // High order thinking // 
+*	During a dental treatment, the dentist may give the patient an injection to relief the pain. The injection contains an anaesthetic drug which prevents the transmission of nerve impulses from one neurone to another across the synapse. It also contains a vasoconstrictor which stimulates blood vessels to constrict.
+a	Describe how a nerve impulse is transmitted from one neurone to another across the synapse.										(2 marks)
+b	What is the purpose of including a vasoconstrictor in the injection?																(2 marks)
+c	The graph below shows the change in the effectiveness of two anaesthetic drugs, X and Y, after injection over time.
+
+
+		Suggest which drug is more suitable to be used in a dental treatment.																(3 marks)
+-- answer --
+a	Nerve impulse triggers the release of neurotransmitters from the synaptic vesicles in the synaptic knob.											1m
+	The neurotransmitters diffuse across the synaptic cleft and bind to the receptors on the next neurone. This generates a nerve impulse in the next neurone.	1m
+b	Constriction of blood vessels reduces the amount of blood supplied to the treatment site.												1m
+	This reduces the amount of blood loss due to bleeding.				1m
+c	Drug X													1m
+	The effectiveness of drug X increases to maximum in a shorter period of time.																1m
+	The effectiveness of drug X is higher than that of drug Y within 2.5 hours after injection.													1m
+
+---------------------------------------------------
+Structured question
+
+[10289648]
+// Cross-topic // Applying concepts //
+**		Multiple sclerosis is an autoimmune disease that affects the central nervous system. The immune system attacks a certain structure, which leads to a reduction in the speed of nerve impulse transmission in the nerve fibres. Some symptoms of the disease include uncontrolled muscle contraction, blurry vision and slurred speech.
+		a	i	Suggest why the immune system would attack the central nervous system in a multiple sclerosis patient.					(2 marks)
+ii	Based on the above information, suggest which structure may be attacked by the immune system. Explain your answer.		(2 marks)
+iii	Patients suffering from multiple sclerosis often have uncontrolled muscle contraction. Explain why. 						(2 marks)
+b	Guillain-Barré syndrome is another autoimmune disease similar to multiple sclerosis. The immune system attacks the same structure in the peripheral nervous system.
+	Suggest two symptoms that can only be found in patients with multiple sclerosis but not in patients with Guillain-Barré syndrome. Explain briefly. 														(2 marks)
+-- answer --
+			a	i	The immune system recognises antigens on the cells in the central nervous system as foreign.										1m
+						This triggers an immune response that attacks the cells.			1m
+				ii	Myelin sheath											1m
+				Myelin sheath can help speed up the transmission of nerve impulses. Damage to myelin sheath may cause a reduction in the speed of nerve impulse transmission.										1m
+			iii	Myelin sheath insulates the nerve fibres.						1m
+				Damage in myelin sheath may causes nerve impulses to be transmitted to the surrounding neurones, causing the wrong muscles to contract.	1m
+			b	Patients with multiple sclerosis may have memory loss due to damage in the cerebrum.													1m
+			Patients with multiple sclerosis may have difficulties in swallowing due to damage in the medulla oblongata.										1m
+			(or other reasonable answers)
+
+---------------------------------------------------
+Chapter17		Movement in humans
+
+Multiple-choice questions
+
+[10289772]
+// Schematic diagram // Applying concepts //
+*	Diagram I shows a sprinter preparing for a race. Diagram II below shows some structures in the right leg of the sprinter.
+
+
+	Which of the following statements correctly describes the states of different structures in his right leg when he is maintaining the posture shown in diagram I?
+A	W is contracting and X is slackened.
+	B	W is relaxing and X is lengthened.
+C	Y is contracting and Z is in tension.
+	D	Y is relaxing and Z is shortened.
+C
+
+---------------------------------------------------
+
+
+[10289789]
+// Graph interpretation // Applying concepts //
+*	A scientist carried out an experiment to find out the amount of oxygen consumed by the muscles of three different animals (mice, squirrels and dogs) when they were running at different speeds. The graph below shows the results of the experiment.
+
+
+	Which of the following can be concluded from the experiment?
+(1)	The force generated by contraction of muscles in squirrels is stronger than that in dogs.
+(2)	There are more muscle fibres in muscles of mice than in muscles of squirrels.
+(3)	For thesethree animals, their muscles consume more oxygen as they run faster.
+	A	(3)only
+	B	(1) and (2) only
+	C	(1) and (3) only
+	D	(1), (2) and (3)
+A
+
+---------------------------------------------------
+
+
+Short question
+
+[10289807]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	A person sprained his leg accidentally. The diagram below shows the sprained site in his leg and the tissue which is damaged during the sprain.
+
+
+	
+a	Name tissue P and describe its function.						(2 marks)
+b	The damaged tissue releases substances that increase the blood flow to the sprained site and the permeability of the blood vessels in the sprained site. Explain how this leads to the swelling of the sprained site.		(2 marks)
+c	Tissue P in the sprained site can be repaired by surgery. This is done by removing part of tendon from the patient’s body and using that tendon to reconnect the damaged pieces of tissue P.
+	With reference to the difference between tendon and tissue P, explain why the patient may experience joint stiffness after the surgery. 		(2 marks)
+-- answer --
+a		ligament													1m
+	It holds bones together at a joint.								1m
+b	As the blood flow to the sprained site and the permeability of the blood vessels increase, more tissue fluid is formed in the sprained site.				1m
+	The amount of tissue fluid formed is greater than the amount carried away, causing tissue fluid to accumulate in the sprained site. This leads to swelling.																1m
+c	Tendon is inelastic.											1m
+	It limits the flexibility of the joint.									1m
+
+---------------------------------------------------
+Structured question
+
+[10289838]
+// Graph interpretation // Schematic diagram // Applying concepts //
+**The diagram below shows a neuromuscular junction.
+
+
+
+
+a	Describe how muscle contraction is initiated when a nerve impulse arrives at the neuromuscular junction.							(4 marks)
+	Some toxins can affect the contraction of muscles by targeting the vesicles or the acetylcholinesterase in the neuromuscular junction. The graph below shows the changes in concentration of acetylcholine in the synaptic cleft when there is no toxin, and when toxin X or toxin Y is present.
+
+
+
+
+	
+
+b	Based on the above information, deduce the mechanism of action for each of the following toxins and suggest how each toxin affects muscle contraction.
+			i	toxin X											(3 marks)
+			ii	toxin Y											(3 marks)
+
+-- answer --
+			a	When a nerve impulse arrives at the neuromuscular junction, it triggers the release of neurotransmitter from the vesicles.						1m
+				The neurotransmitter diffuses across the cleft.						1m
+				The neurotransmitter binds to the receptors on the membrane of the muscle fibre.																1m
+				The muscle fibre generates an electrical impulse.The impulse spreads along the muscle fibre and triggers muscle contraction.						1m
+			b	i	Toxin X may inhibit acetylcholinesterase on the membrane of the muscle fibres												1m
+			because the concentration of acetylcholine in the synaptic cleft remains high in the presence of toxin X.									1m
+			The muscle may keep contracting due to the high concentration of acetylcholine.											1m
+			ii	Toxin Y may inhibit the release of acetylcholine from the vesicles in the axon ending of the motor neurones								1m
+			because the concentration of acetylcholine in the synaptic cleft fails to increase in the presence of toxin Y.							1m
+				The muscle may become paralysis due to the low level of acetylcholine.															1m
+
+---------------------------------------------------
+
+
+Chapter 18		Homeostasis
+
+Multiple-choice questions
+
+[10289967]
+// Graph interpretation //Applying concepts //
+**	The graph below shows the effect of insulin on the concentration of glucose in a kind of cells.
+300
+600
+0
+400
+200
+intracellular glucose concentration
+(mg/100 mL)
+extracellular glucose concentration (mg/100 mL)
+with insulin 
+without insulin 
+300
+600
+0
+400
+200
+intracellular glucose concentration
+(mg/100 mL)
+extracellular glucose concentration (mg/100 mL)
+with insulin 
+without insulin 
+
+
+
+	Which of the following can be concluded from the graph?
+	A	More insulin is secreted by the cells when the blood glucose concentration 	is high.
+	B	Insulin causes the cells to consume more glucose. 
+	C	Insulin increases the uptake of glucose into the cells.
+	D	Insulin catalyses the conversion of glucose into glycogen in the cells.
+C
+
+---------------------------------------------------
+
+
+
+[10289988]
+// Cross-topic // Applying concepts //
+*	Glycogen synthase is an enzyme that catalyses the following reaction. 
+
+glucose
+glycogen
+glycogen synthase
+UDP-glucose
+UDP
+glucose
+glycogen
+glycogen synthase
+UDP-glucose
+UDP
+
+
+
+	Which of the following statements about glycogen synthase are probably correct?
+	(1)	It can be found in liver cells and muscle cells.
+	(2)	Its activity decreases when blood insulin level increases. 
+	(3)	Patients who cannot produce it in the body experience muscle weakness 	after moderate exercise. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B
+
+---------------------------------------------------
+
+
+Short question
+
+[10289995]
+// Cross-topic // Communication // Schematic diagram // Applying concepts //
+*	Skeletal muscle is one of the target organs of insulin. Insulin receptors are present on the cell membrane of skeletal muscle cells. The diagram below shows the events that occur in a muscle cell after insulin binds to an insulin receptor on the cell. 
+Insulin binds to insulin receptor. 
+Signal molecule is produced.  
+Vesicle with GLUT4 proteins fuses with cell membrane.   
+insulin 
+insulin receptor 
+cell membrane 
+cytoplasm 
+signal molecule 
+GLUT4 protein 
+Insulin binds to insulin receptor. 
+Signal molecule is produced.  
+Vesicle with GLUT4 proteins fuses with cell membrane.   
+insulin 
+insulin receptor 
+cell membrane 
+cytoplasm 
+signal molecule 
+GLUT4 protein 
+
+
+a	GLUT4 protein is a membrane protein which helps the transport of glucose across the cell membrane. Explain why GLUT4 protein is needed for the transport of glucose across the cell membrane. 				(2 marks)
+b	With reference to the diagram, suggest how muscle cells help regulate blood glucose level after a meal. 								(4 marks)
+
+-- answer --
+a	Glucose molecule is polar. 									1m
+	It is repelled by the phospholipid bilayer and cannot more through the phospholipid bilayer. 											1m
+b	After a meal, the increase in the blood glucose level causes the pancreas to produce more insulin. 										1m
+	Insulin binds to insulin receptors on muscle cells, causing GLUT4 proteinsto be sent to the cell membrane.									1m
+	As the number of GLUT4 proteins on the cell membrane is increased, more glucose from the blood can be taken into the muscle cells.				1m
+This causes a decrease in blood glucose level. 						1m
+
+---------------------------------------------------
+Structured question
+
+[10289996]
+// Scientific investigation // Graph interpretation // High order thinking //
+**	In a study, a group of healthy people took a fixed amount of glucoseorally or injected with the same amount of glucose into the blood after fasting for a period of time. Their blood insulin levels were then monitored for several hours. The graph below shows the results. 
+glucose injected into blood
+glucose taken orally 
+maximum blood insulin level (arbitrary unit)
+time required to reach the maximum blood insulin level (minutes)
+glucose injected into blood
+glucose taken orally 
+glucose injected into blood
+glucose taken orally 
+maximum blood insulin level (arbitrary unit)
+time required to reach the maximum blood insulin level (minutes)
+glucose injected into blood
+glucose taken orally 
+
+
+a	Suggest how taking glucose orally causes an increase in blood insulin level.														(3 marks)
+b	Some cells in the small intestine can detect glucose in the lumen and produce hormone X which stimulates insulin secretion. It is suggested that hormone X is more important in stimulating insulin secretion than the glucose itself. Explain how the results of the study support this. 																	(4 marks)
+c	Scientists hypothesized that in patients with type 2 diabetes, the pancreas is less sensitive to hormone X. Suggest how they can test this hypothesis using the purified hormone X. Predict what the expected results will be if the hypothesis is correct. 									(2 marks)
+
+
+
+
+
+-- answer --
+a	Glucose is absorbed in the small intestine and enters the blood. This causes an increase in blood glucose level. 									1m
+	The chemoreceptors in the pancreas detect the increase in blood glucose level. 																1m
+	The pancreas produces more insulin, causing an increase in blood insulin level. 																1m
+b	The maximum blood insulin level is higher in people who took glucose orally. 																1m
+	The time required to reach the maximum blood insulin level is also shorter. 	1m
+	Compared with glucose injected into the blood, glucose taken orally should take a longer time to reach the pancreas, and the glucose should be released into the blood more gradually, 										1m
+	The opposite results should be observed if glucose is a more important factor for stimulating insulin secretion. 									1m
+c	Inject the same amount of the purified hormone X into the blood of healthy people and patients with type 2 diabetes. 								1m
+	If the hypothesis is correct, more insulin will be produced / insulin will be produced faster in healthy people than in the patients with type 2 diabetes. 		1m
+
+--------------------------------------------------

@@ -1,0 +1,1771 @@
+Chapter 16		Coordination in humans 
+
+Multiple-choice questions
+
+[10274017]
+// Schematic diagram // Applying concepts //
+**	The diagram below shows the functions of some areas in the cerebral cortex. 
+	
+The diagram below shows the areas where blood flow changes significantly in the cerebral cortex after a person has taken a drug.
+	
+
+Which of the following may occur after the person has taken this drug?
+(1)	The person sees something that does not exist. 
+(2)	The person has difficulty in making decisions. 
+(3)	The person loses the sense of touch. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10274028]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a cross section of the spinal cord of a person. One of his nerve roots was cut.
+
+	
+
+	Which of the following may happen when the hand of the person touches a pin accidentally?
+(1)	The person does not feel pain.
+(2)	The person does not withdraw his hand by reflex.
+(3)	The person cannot withdraw his hand voluntarily. 
+A	(2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10274082]
+// Applying concepts //
+*	The human brain contains
+	(1)	sensory neurones.
+	(2)	interneurones.
+	(3)	motor neurones.
+A	(2) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10274085]
+// High order thinking // Schematic diagram //
+**	The diagram below shows some of the functions of the left and right cerebral hemispheres. 
+
+Some nerves of a man are damaged and there are no more communications between his left and right cerebral hemispheres. The numbers '123' and '456' are shown briefly to his left eye and right eye respectively and then he is asked to say what he has just seen. What would he say? 
+A	He would say '123'.			B	He would say '456'.
+	C	He would say '123456'.			D	He could not speak.
+B	
+---------------------------------------------------
+
+[10274096]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a section of the spinal cord in humans.
+
+	In which of the labelled areas are the cell bodies of neurones located?
+A	(4) only					B	(1) and (4) only
+	C	(2) and (3) only			D	(2) and (4) only
+B	
+---------------------------------------------------
+[10274103]
+// Schematic diagram // Applying concepts //
+*	In which of the labelled areas can synapses be found?
+A	(1) only					B	(3) only
+	C	(4) only					D	(1) and (2) only
+C	
+---------------------------------------------------
+
+[10274107]
+// Applying concepts //
+*	The photograph below shows a gymnast on a balance beam. 
+
+
+ 	
+	What are the roles of the cerebellum and medulla oblongata of the gymnast while she is on the beam?
+		Cerebellum						Medulla oblongata
+A	sending nerve impulses to muscles		maintaining body balance 
+B	controlling heart rate				maintaining body balance 
+	C	making decisions					controlling heart beat
+	D	coordinating muscular actions		controlling breathing 
+D	
+---------------------------------------------------
+
+[10274110]
+// High order thinking //
+*	In a dental treatment, a dentist injected a local anaesthetic near some nerves of a patient. This caused numbness in the jaw and also in some parts of the tongue but the tongue could still move. Which of the following is the most probable working mechanism of the anaesthetic?
+A	It inhibits the transmission of nerve impulses from the sensory neurones to the motor neurones.
+B	It blocks the synapses between the interneurones and the motor neurones.
+	C	It increases the release of neurotransmitters from the sensory neurones.
+	D	It prevents the transmission of nerve impulses along the sensory neurones.
+D	
+---------------------------------------------------
+
+[10274115]
+// Schematic diagram // Applying concepts //
+*	In an experiment, the reaction time is calculated by catching a ruler dropped by a classmate. 
+
+ 	Catching the ruler in the experiment is
+A	a reflex action and it involves the brain. 
+B	a reflex action and it does not involve the brain.
+	C	a voluntary action and it involves the brain.
+	D	a voluntary action and it does not involve the brain.
+C	
+---------------------------------------------------
+[10274117]
+// Cross-topic // Comparison //
+*	Which of the following comparisons between reflex actions in humans and tropism in flowering plants is correct?
+	Reflex actions		Tropism	
+A	stimuli may or may not be unilateral	stimuli are unilateral	
+B	only electrical messengers are involved	only chemical messengers are involved	
+C	responses are stereotyped	responses are not stereotyped	
+D	responses are slow	responses are fast	
+
+A	
+---------------------------------------------------
+
+[10274128]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the volume of gastric juice produced by nervous stimulation and by hormonal stimulation after a meal. 
+
+Which of the curves represents the change produced by nervous stimulation and why?
+		Curve		Reason
+A	P			The maximum volume of gastric juice is smaller.
+B	P			The response is faster.
+	C	Q			The duration of the response is longer.
+	D	Q			The response is restricted to the stomach.
+B	
+---------------------------------------------------
+
+[10274130]
+// Cross-topic // Applying concepts //
+*	Which of the following processes in the human body is/are under hormonal control?
+(1)	deamination in the liver
+	(2)	thickening of the uterine lining in a menstrual cycle
+	(3)	regulation of blood glucose level
+A	(2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10274133]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a neurone.
+	
+	Which of the following correctly shows the direction of the transmission of nerve impulse in the neurone?
+A	P ( Q ( R
+B	P ( R ( Q
+C	R ( Q ( P
+D	Q ( R ( P
+D	
+---------------------------------------------------
+
+[10274134]
+// Schematic diagram // Basic concepts //
+*	This is a motor neurone because
+	(1)	its cell body is star-like.
+	(2)	it has a long axon and short dendrons.
+	(3)	it has a myelinated nerve fibre.
+	A	(2) only				B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10274138]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a section of the human brain.
+
+	
+
+	Which part(s) of the brain consist(s) of an outer layer of white matter and an inner layer of grey matter?
+A	X only
+	B	Z only
+	C	X and Y only
+	D	Y and Z only
+B	
+---------------------------------------------------
+
+[10274140]
+// Schematic diagram // Applying concepts //
+*	A man suffered from brain injury in an accident. After that, he had difficulty in maintaining body balance and speaking. Which part(s) of his brain was/were probably injured? 
+	A	X only			B	Y only
+	C	X and Y only		D	X and Z only
+C	
+---------------------------------------------------
+
+[10274152]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the arrangement of some neurones in the nervous system.
+	
+	How many neurones are involved when a person decides to pick up a pen to start writing?
+	A	2				B	3	
+	C	4				D	5
+A	
+---------------------------------------------------
+
+[10274153]
+// Schematic diagram // Applying concepts //
+*	How many neurones are involved when a person touches a hot teapot accidentally and withdraws his hand at once?
+	A	2				B	3	
+	C	4				D	5
+B	
+---------------------------------------------------
+
+[10274157]
+// Basic concepts //
+	Which of the following statements about reflex actions is/are correct?
+(1)	They do not involve the cerebrum.
+(2)	They do not involve the medulla oblongata.
+(3)	We are not conscious of them.
+	A	(1) only					B	(2) only
+	C	(1) and (2) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10274165]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the events involved in the regulation of blood glucose level.
+	
+Which of the following correctly matches the stimulus, messenger and response in the regulation of the blood glucose level?
+	Stimulus		Messenger	Response	
+	A
+	pancreas produces more insulin	blood	insulin is transported to the liver	
+	B	pancreas produces more insulin	insulin	decrease in blood glucose level	
+	C	increase in blood glucose level	insulin	glucose is converted to glycogen	
+	D	increase in blood glucose level	blood	pancreas produces more insulin	
+
+C	
+---------------------------------------------------
+
+[10274179]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the cross section of a spinal cord.
+	
+
+	Which of the following statements are correct?
+	(1)	R contains the cell bodies of the neurones.
+	(2)	S is filled with blood.
+	(3)	T is mainly made up of nerve fibres.
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10274188]
+// Schematic diagram // Basic concepts //
+	The diagram below shows part of the central nervous system in humans.
+	
+
+	What will happen if part R of a person is damaged?
+	A	lose the conscious motor functions
+	B	lose some of the sensations
+	C	lose sight
+	D	lose body balance
+D	
+---------------------------------------------------
+
+[10274206]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the cross section of a spinal cord.
+	
+	Which of the following statements is/are incorrect?
+(1)	Neurone V transmits nerve impulses from the receptors to the central nervous system.
+(2)	Neurone U transmits nerve impulses from the central nervous system to the effectors.
+	(3)	Neurone U is an interneurone.
+	A	(3) only					B	(1) and (2) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10274231]
+// Schematic diagram // Basic concepts //
+	The diagram below shows part of the central nervous system in humans.
+	
+	Which part(s) is/are responsible for the control of heart beat?
+	A	X only
+	B	Z only
+	C	X and Y only
+	D	Y and Z only
+B	
+---------------------------------------------------
+
+[10274278]
+// Schematic diagram // Applying concepts //
+*	A man injected with an anaesthetic touched a pin accidentally. He pulled his hand away immediately but he did not feel any pain. Which of the following is/are the possible site(s) in his nervous system where the anaesthetic acts on?
+
+	
+
+A	X only 
+B	Y only 
+C	Z only
+D	X and Y only
+C	
+---------------------------------------------------
+
+[10274298]
+// Applying concepts //
+*	A student saw the traffic light turned green and then walked across the road. Which of the following shows the nervous pathway involved? 
+A	photoreceptors on the retina → cerebrum → optic nerve → spinal cord 
+→ motor neurone → leg muscle
+B	photoreceptors on the retina → optic nerve → cerebrum → motor neurone → spinal cord → leg muscle
+C	photoreceptors on the retina → optic nerve → cerebrum → spinal cord 
+→ motor neurone → leg muscle
+D	photoreceptors on the retina → optic nerve → spinal cord → cerebrum 
+→ motor neurone → leg muscle
+C	
+---------------------------------------------------
+
+[10274300]
+// Applying concepts //
+*	Boxers may suffer from cerebellum damage as their head is frequently hit. Which of the following is/are the possible symptom(s) of cerebellum damage?
+(1)	loss of memory
+(2)	problems in controlling eye movements
+(3)	personality change
+A	(1) only				B	(2) only
+C	(3) only				D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10274303]
+// Basic concepts //
+*	A girl pricked her finger on a pin accidentally. Which of the following best describes her response?
+A	She felt pain first, and then withdrew her hand.
+B	She withdrew her hand first, and then felt pain.
+C	She withdrew her hand and felt pain at the same time.
+D	She did not withdraw her hand nor feel any pain.
+B	
+---------------------------------------------------
+
+[10274306]
+// Basic concepts //
+*	Which of the following statements about the spinal cord and the brain is/are correct?
+(1)	The outer layer of the spinal cord is made up of nerve fibres while that of the brain is made up of cell bodies of neurones. 
+(2)	The spinal cord is protected by the vertebral column while the brain is protected by the cranium. 
+(3)	The spinal cord is involved in reflex actions while the brain is not. 
+A	(1) only					B	(2) only
+C	(1) and (2) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10274314]
+// Applying concepts //
+*	Overdose of heroin can kill a person by stopping the breathing. Heroin probably suppresses the functions of the 
+A	cerebrum.
+B	cerebellum.
+C	medulla oblongata.
+D	spinal cord.
+C	
+---------------------------------------------------
+
+[10274322]
+// Basic concepts //
+	Which of the following statements about hormones are correct?
+(1)	They are secreted in small amounts. 
+(2)	They are secreted through a duct.
+(3)	They only act on target cells or organs.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10274329]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a neurone connected to a receptor.
+	
+Which type of neurone is this?
+A	sensory neurone		B	motor neurone
+C	interneurone			D	cannot be identified
+A	
+---------------------------------------------------
+
+[10274337]
+// Schematic diagram // Applying concepts //
+*	Which of the following is the possible location where the cell body of this neurone can be found?
+A	white matter of the cerebrum
+B	grey matter of the cerebrum
+C	grey matter of the spinal cord
+D	dorsal root ganglion of the spinal cord
+D	
+---------------------------------------------------
+
+[10274347]
+// Comparison //
+*	Which of the following comparisons between hormonal coordination and nervous coordination is incorrect?
+	Hormonal coordination	Nervous coordination	
+A	slower transmission speed	faster transmission speed	
+B	transmitted by blood stream only	transmitted by nerve fibres only	
+C	involves chemical messengers only	involves electrical signals only	
+D	carried out by the endocrine system	carried out by the nervous system	
+
+C	
+---------------------------------------------------
+
+[10274359]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows two neurones. One of them is connected to a muscle.
+	
+The muscle will contract when an impulse is applied to the neurones at 
+A	P only.				B	R only.
+C	P or Q only.			D	P, Q or R.
+A	
+---------------------------------------------------
+
+[10274367]
+// Schematic diagram // Applying concepts //
+*	Nerve impulses can only travel in the direction indicated in the diagram because
+(1)	neurotransmitter diffuses across the synaptic cleft in one direction only.
+(2)	only axons are surrounded by myelin sheath. 
+(3)	only axons secrete neurotransmitter.
+A	(1) only				B	(3) only
+C	(1) and (2) only		D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10274377]
+// Basic concepts //
+	Which of the following is a voluntary action?
+A	increase in the rate of breathing when we are running
+B	constriction of pupils under bright light	
+C	increase in saliva secretion when we see our favourite food
+D	answering the phone when it rings
+D	
+---------------------------------------------------
+
+[10274381]
+// Basic concepts //
+	Which of the following correctly shows the types of neurones which transmit nerve impulses between different parts of the human nervous system?
+	From the central nervous system to an effector	From a receptor to the central nervous system	
+A	sensory neurone 	interneurone	
+B	interneurone	motor neurone	
+C	motor neurone	interneurone	
+D	motor neurone	sensory neurone	
+
+D	
+---------------------------------------------------
+
+[10274387]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a reflex arc.
+
+	
+
+Which of the following statements about structures X, Y and Z are correct?
+(1)	X is a sensory neurone.
+(2)	Y is a synaptic cleft.
+(3)	Z is an interneurone.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10274399]
+// Basic concepts //
+*	Which of the following are essential to neurones for their normal functioning?
+(1)	able to make and secrete chemicals
+(2)	forming a complex network
+(3)	able to contract when nerve impulses arrive
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10274405]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a section of the human brain. 
+
+	
+
+Which of the following is a possible consequence if X is damaged?
+A	The person will have problems in making decision.
+B	The person cannot walk properly.
+C	The person will have illusions.
+D	The person may have problem with his heart rate.
+B	
+---------------------------------------------------
+
+[10274406]
+// Schematic diagram // Basic concepts //
+	The diagram below shows some structures inside the head of a human.  
+
+	
+
+What are parts X, Y and Z?
+	X	Y	Z	
+A	cerebellum	cerebrum	medulla oblongata	
+B	cerebrum		cerebellum	medulla oblongata	
+C	cerebrum		medulla oblongata	cerebellum	
+D	medulla oblongata	cerebellum	cerebrum	
+
+B	
+---------------------------------------------------
+
+[10274407]
+// Comparison //
+	Which of the following comparisons between a reflex action and a voluntary action is/are correct? 
+(1)	A reflex action is inborn while a voluntary action is not.
+(2)	The speed of response of a reflex action is fast while that of a voluntary action may be fast or slow.
+(3)	A reflex action always involves receptors while a voluntary action may not involve receptors.
+A	(1) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10274418]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the point where two neurones meet. 
+	
+What is X?
+A	synaptic cleft			B	neurotransmitter
+C	dendrite				D	axon
+A	
+---------------------------------------------------
+
+[10274432]
+// Applying concepts //
+	Which of the following endocrine glands can regulate the activities of other endocrine glands?
+A	pituitary gland
+B	pancreas
+C	adrenal gland
+D	thyroid gland
+A	
+---------------------------------------------------
+
+[10274433]
+// Applying concepts //
+*	Which of the following is not a reflex action? 
+A	A baby's hand grasps when its palm is touched.
+B	A boy's hand withdraws immediately after touching a hot object by accident.
+C	An alarm sounds suddenly and a girl turns her head to look at it.
+D	A boy's leg kicks when the boy is tapped gently below the knee cap of his hanging leg.
+C	
+---------------------------------------------------
+
+[10274450]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a section of the spinal cord.
+
+	
+
+What are parts W, X, Y and Z?
+	W	X	Y	Z	
+A	white matter	central canal	ganglion	grey matter	
+B	white matter	ganglion	central canal	grey matter	
+C	grey matter	ganglion	central canal	white matter	
+D	grey matter	central canal	ganglion	white matter	
+
+B	
+---------------------------------------------------
+
+[10274458]
+// Basic concepts //
+*	Which of the following statements about the human nervous system is/are correct?
+(1)	The nervous system consists of the central nervous system and the peripheral nervous system.
+(2)	The peripheral nervous system can generate sensations.
+(3)	The central nervous system consists of cranial nerves and spinal nerves. 
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10274463]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of a neurone.
+	
+X can be found in
+A	the outer layer of the medulla oblongata.
+B	the cerebral cortex of the cerebrum.
+C	the white matter of the cerebellum.
+D	the white matter of the spinal cord.
+B	
+---------------------------------------------------
+
+[10274469]
+// Applying concepts //
+*	Which of the following would trigger a reflex action?
+(1)	Some dust particles get into the eyes.
+(2)	The hand touches a very hot object.
+(3)	Some ground pepper is inhaled into the nose.
+A	(2) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3) 
+D	
+---------------------------------------------------
+
+[10274485]
+// Basic concepts //
+*	Which of the following correctly describes a reflex action?
+A	The stimulus is detected by an interneurone.
+B	Nerve impulses are passed from the motor neurone to the sensory neurone.
+C	Nerve impulses are always passed from the receptor to the effector via the brain.
+D	The effector responds when it receives nerve impulses from the motor neurone.
+D	
+---------------------------------------------------
+
+[10274503]
+// Schematic diagram // Basic concepts //
+	Directions: The following three questions refer to the diagram below, which shows a reflex arc.
+	
+Which is a sensory neurone?
+A	P				B	Q
+C	R				D	S
+A	
+---------------------------------------------------
+
+[10274527]
+// Schematic diagram // Basic concepts //
+	Which is a motor neurone?
+A	P
+B	Q
+C	R
+D	S
+C	
+---------------------------------------------------
+
+[10274541]
+// Schematic diagram // Basic concepts //
+	The nerve impulse passing along S will go to the
+A	lungs.
+B	heart.
+C	cerebrum.
+D	pituitary gland.
+C	
+---------------------------------------------------
+
+[10274542]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a section of the human head.
+	
+Which structure secretes hormones?
+A	W				B	X
+C	Y				D	Z
+A	
+---------------------------------------------------
+
+[10274560]
+// Basic concepts //
+	Which of the following controls involuntary actions in humans?
+A	cerebellum
+B	cerebrum
+C	right cerebral hemisphere
+D	medulla oblongata
+D	
+---------------------------------------------------
+
+[10274565]
+// Basic concepts //
+	Which of the following statements about endocrine glands is incorrect?
+A	The liver is an endocrine gland.
+B	Endocrine glands are also called ductless glands.
+C	The secretion from the endocrine glands enters the blood stream by diffusion.
+D	Endocrine glands can produce hormones. 
+A	
+---------------------------------------------------
+
+[10274589]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a neurone. 
+
+	
+
+Which of the following are the functions of X? 
+(1)	It acts as an insulator.
+(2)	It protects the nerve fibres.
+(3)	It speeds up the transmission of nerve impulses.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10274591]
+// Basic concepts //
+The table below shows the directions of nerve impulse transmission of three types of neurones.
+	From	To	
+P	receptors	central nervous system	
+Q	central nervous system	effectors	
+R	sensory neurone	motor neurone	
+
+What types of neurones are P, Q and R?
+	P	Q	R	
+A	interneurone	motor neurone		sensory neurone	
+B	motor neurone		sensory neurone	interneurone	
+C	sensory neurone	motor neurone		interneurone	
+D	sensory neurone	interneurone	motor neurone		
+
+C	
+---------------------------------------------------
+
+[10274600]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows a reflex arc.
+	
+What kinds of neurones are X, Y and Z?
+	X	Y	Z	
+A	sensory neurone	interneurone	motor neurone	
+B	sensory neurone	motor neurone	interneurone	
+C	motor neurone	interneurone	sensory neurone	
+D	motor neurone	sensory neurone	interneurone	
+
+A	
+---------------------------------------------------
+
+[10274606]
+// Schematic diagram // Basic concepts //
+	In the nervous pathway of the knee jerk reflex, which type(s) of neurone is/are not present?
+A	X only		B	Y only
+C	Z only		D	X and Y only
+B	
+---------------------------------------------------
+
+[10274608]
+// Basic concepts //
+	Reasoning and judgement are carried out by 
+A	the cerebellum.
+B	the cerebrum.
+C	the endocrine glands.
+D	the medulla oblongata.
+B	
+---------------------------------------------------
+[10274615]
+// Basic concepts //
+*	In a reflex arc, which of the following results in the transmission of nerve impulses in only one direction? 
+A	Receptors can only send out nerve impulses but cannot receive them. 
+B	Effectors can only receive nerve impulses but cannot send them out.
+C	Only the endings of an axon can secrete neurotransmitters.
+D	A synaptic knob can only be stimulated by one type of neurotransmitter.
+C	
+---------------------------------------------------
+
+[10274619]
+// Basic concepts //
+	The voluntary actions in humans are mainly controlled by
+A	the cerebellum.		B	the cerebrum.
+C	the endocrine glands.	D	the medulla oblongata.
+B	
+---------------------------------------------------
+
+[10274620]
+// Applying concepts //
+*	Which of the following is not an example of a reflex action?
+A	withdrawal of the hand from a hot object
+B	kicking of the leg when the tendon just below the knee cap is tapped
+C	blinking of eyes when an object moves towards them
+D	crying of a baby when it is hungry
+D	
+---------------------------------------------------
+
+[10274650]
+// Comparison //
+*	Which of the following comparisons between nervous coordination and hormonal coordination is incorrect?
+	Nervous coordination	Hormonal coordination	
+A	fast action	slow action	
+B	short-term response	long-lasting response	
+C	widespread effect	localized effect	
+D	nerve impulses as messages	hormones as messages	
+
+C	
+---------------------------------------------------
+
+[10274652]
+// Comparison //
+*	Compared with nervous coordination,
+A	the duration of the effect of hormonal coordination is short-term.
+B	hormonal coordination is faster in action.
+C	the response of hormonal coordination is more widespread.
+D	hormonal coordination is more important.
+C	
+---------------------------------------------------
+
+[10274678]
+// Basic concepts //
+	Which of the following statements about hormonal coordination is correct?
+A	Its effect is usually short-term.
+B	It controls reflex actions.
+C	Hormones are produced by endocrine glands.
+D	Its areas of response are restricted to places with nerve supply.
+C	
+---------------------------------------------------
+
+[10274682]
+// Basic concepts //
+	The brain and the spinal cord are protected by 
+A	membranes and cerebrospinal fluid.
+B	membranes and grey matter.
+C	cerebrospinal fluid and grey matter.
+D	white matter and grey matter.
+A	
+---------------------------------------------------
+
+[10274686]
+// Basic concepts //
+	Which of the following combinations of hormone and its site of production is correct?
+Hormone			Site of production
+A	growth hormone		ovary
+B	adrenaline			testis
+C	insulin				pancreas
+D	glucagon				liver
+C	
+---------------------------------------------------
+
+[10274729]
+// Applying concepts //
+*	After a traffic accident, a man found that he could feel pain but his hand did not withdraw immediately when he touched a hot object accidentally. Which neurone was likely damaged during the accident?
+A	sensory neurone
+B	motor neurone
+C	interneurone to the brain
+D	interneurone from the brain
+B	
+---------------------------------------------------
+
+[10274737]
+// Basic concepts //
+	Which of the following statements about hormones is/are correct?
+(1)	Hormones are produced by ductless glands.
+(2)	Each hormone causes changes in one specific target organ only.
+(3)	Hormones are needed in only small amounts.
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10274752]
+// Comparison //
+*	Which of the following comparisons between nervous coordination and hormonal coordination is incorrect?
+	Nervous coordination	Hormonal coordination	
+A	Transmission of message is rapid.	Transmission of message is slow.	
+B	Neurones act as messages.	Hormones act as messages.	
+C	The effect is localized.	The effect is widespread.	
+D	The effect is short-term.	The effect is long-lasting.	
+
+B	
+---------------------------------------------------
+
+[10274756]
+// Applying concepts //
+*	The action of a drunken person is slow and uncoordinated because the alcohol adversely affects the functions of
+(1)	the cerebellum.
+(2)	the cerebrum.
+(3)	the spinal cord.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10274760]
+// Basic concepts //
+	Which of the following statements about the human nervous system is incorrect?
+A	The human nervous system consists of the central and peripheral parts.
+B	Our brain belongs to the central nervous system.
+C	Our spinal cord belongs to the central nervous system.
+D	The cranial nerves link receptors and effectors to the spinal cord of the central nervous system.
+D	
+---------------------------------------------------
+
+[10274763]
+// Basic concepts //
+*	Which of the following is not regulated by hormones in humans?
+A	secretion of saliva
+B	production of sperms
+C	conversion of stored glycogen to glucose
+D	development of secondary sexual characteristics
+A	
+---------------------------------------------------
+
+[10274767]
+// Basic concepts //
+	Which of the following statements about voluntary actions is correct?
+A	Voluntary actions always give fast responses.
+B	In voluntary actions, the same stimulus always results in the same response.
+C	Voluntary actions are under the control of cerebellum.
+D	Voluntary actions may be initiated directly by the brain.
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10274917]
+// High order thinking // Communication // Schematic diagram //
+**	The diagram below shows some functional areas in the cerebral cortex of a person. 
+	
+
+In an accident, all the nerve fibres that allow communication between the two cerebral hemispheres in the brain of the person were damaged. After the accident, he found that when he touched certain objects using his left hand with his eyes closed, he could recognize the objects but could not say what they were. With reference to the diagram, explain why. 							(4 marks)
+
+-- answer --
+When he touched the objects with his left hand, the mechanoreceptors in his left hand were stimulated. Nerve impulses were sent to the sensory area for touch in the right cerebral hemisphere. 											1m
+The sensory area for touch then sent nerve impulses to the association area for touch in the right cerebral hemisphere. Therefore, the person could recognize the objects.	1m
+However, as all the nerve fibres that allow communication between the two cerebral hemispheres were damaged, nerve impulses sent by the association area for touch in the right cerebral hemisphere could not reach the association area for speech in the left cerebral hemisphere. 											1m
+No nerve impulses reached the motor area for speech, thus the person could not say what the objects were.											1m	
+---------------------------------------------------
+
+[10274921]
+// Cross-topic // Scientific investigation // Data handling //
+**	When light shines into a person's eye, the pupil constricts. A simplified diagram showing the nervous pathway of this response is shown below. 
+	
+a	With reference to the diagram, describe how light causes the pupil to constrict. 											(3 marks)
+b	Alcohol can affect the above response. In some countries, pupils' responses to light are tested to determine whether the drivers' blood alcohol levels are over the legal limit. The table below shows some data collected in an investigation about the accuracy of this test.
+Blood alcohol level	Test result	Number of cases	
+Over the limit	Over the limit	14	
+Over the limit	Not over the limit	10	
+Not over the limit	Over the limit	3	
+Not over the limit	Not over the limit	5	
+With reference to the data, explain why this test should not be used as the only test to determine whether a driver was driving with blood alcohol level over the legal limit. 									(2 marks)
+-- answer --
+a	The photoreceptors in the retina of the eye detect the light and send nerve impulses along the optic nerve / the sensory neurone to the brain. 		1m
+The nerve impulses are transmitted to the motor neurone via a neurone in the brain, and then transmitted to the muscles in the iris.					1m
+The circular muscles of the iris contract and the radial muscles relax, causing the pupil to constrict. 											1m
+b	There are a number of cases in which the drivers' blood alcohol levels are under the limit, but the test results indicate that their blood alcohol levels are over the limit. 													1m
+Some drivers would be convicted wrongly if this test is used as the only test.																	1m	
+---------------------------------------------------
+
+[10274924]
+// Graph interpretation // Experiment // Applying concepts //
+*	An experiment was carried out on two groups of people (age 10 and 80) to study the effect of ageing on the brain. Each person in each group was given 100 blink reflex tests and his/her number of blink responses was recorded. The 100 blink reflex tests were then repeated 7 more times for each person. The graph below shows the results.
+	
+a	Suggest one suitable stimulus for the blink reflex test in the experiment.														(1 mark)
+b	What are the differences in the results for the two groups of people? 															(2 marks)
+c	Suggest one reason for the differences in the results. 			(1 mark)
+d	Give one importance of the blink reflex to the human body. 	(1 mark)
+
+
+-- answer --
+	a	A sudden movement of an object towards the eyes (or other correct answers)																	1m
+	b	People of age 10 always have a larger number of responses than people of 			age 80. 													1m
+		There is much more improvement in the number of responses for people of age 10 		than for people of age 80 when the number of repeats increases.			1m
+	c	Some neurones in people of age 80 die. / 
+		The number of synapses in people of age 80 decreases.	
+		(or other reasonable answers)									1m
+	d	When an object approaches the eyes, the blink reflex helps protect the eyes from 		mechanical damage. /
+		Blinking moves tear over the surface of the eyes to clear away any object.	1m	
+---------------------------------------------------
+
+[10274925]
+// Basic concepts //
+	How is the central nervous system protected from mechanical injury?	(3 marks)
+
+-- answer --
+	The brain is enclosed and protected by the cranium. /
+	The spinal cord is protected by the vertebral column. /
+	The central nervous system is covered by three membranes / meninges. /
+	The space between the inner and middle membranes / meninges is filled with 	cerebrospinal fluid which serves as a shock absorber. (any 3)			1m ( 3	
+---------------------------------------------------
+
+[10274934]
+// Schematic diagram // Basic concepts //
+	The diagram below shows some structures in the human nervous system.
+	
+	a	Name structure P.					 					(1 mark)
+b	State two structures that protect structure P.					(2 marks)
+c	What are present in swelling Q?							(1 mark)
+d	Compare the speed of nerve impulse transmission between nerve fibres S and T.												(1 mark)
+
+-- answer --
+	a	Spinal cord												1m
+	b	Structure P is protected by the vertebral column. /
+		Structure P is protected by three membranes / meninges. /
+
+		The central canal of structure P is filled with cerebrospinal fluid. The fluid serves as 		a shock absorber and provides mechanical support to structure P. (any 2)	2m
+	c	The cell bodies of sensory neurones								1m
+	d	The speed of nerve impulse transmission along nerve fibre T is higher than that 			along nerve fibre S.											1m	
+---------------------------------------------------
+
+[10274939]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a synapse.
+	
+a	What causes vesicle X to release the chemical inside into the cleft?																(1 mark)
+b	Suggest what structure Y may be.							(2 marks)
+c	Certain drugs work on the synapse and slow down the transmission of nerve impulses, thus slowing down our reaction. Suggest a mechanism by which such drugs work.										(1 mark)
+d	State the importance of the synapse. 						(2 marks)
+
+
+-- answer --
+	a	When a nerve impulse arrives at the synaptic knob, it stimulates vesicle X to 			release the chemical inside. 									1m
+	b	The dendron												1m
+		or the cell body of the next neurone. 								1m
+	c	The drugs may inhibit the release of the chemical from vesicle X. /
+		The drugs may block the receptors that bind to the chemical on structure Y.
+		(or other reasonable answers)									1m
+	d	It ensures that nerve impulses travel in one direction only.				1m
+		It allows a neurone to communicate with many other neurones.			1m	
+---------------------------------------------------
+[10274948]
+// Comparison //
+*	Compare reflex actions and voluntary actions in terms of the following:
+	a	Speed of response		 								(2 marks)
+b	Response to the same stimulus							(2 marks)
+c	Parts of the central nervous system involved.					(2 marks)
+
+
+-- answer --
+	a	Reflex actions are always fast.									1m
+		Voluntary actions may be fast or slow, depending on the nervous pathway involved 		and the nature of response.									1m
+	b	Reflex actions always produce the same response to the same stimulus.	1m
+		Voluntary actions may produce different responses to the same stimulus.	1m
+	c	Reflex actions involve the spinal cord or the brain (mainly medulla oblongata).																	1m
+		Voluntary actions involve the cerebrum.							1m	
+---------------------------------------------------
+
+[10274977]
+// Comparison //
+	Compare the nature of messages in nervous coordination and hormonal coordination.												(3 marks)
+
+
+-- answer --
+	In nervous coordination, nerve impulses are electrical messengers 			1m
+	and the neurotransmitter is a chemical messenger.						1m
+	In hormonal coordination, hormones are chemical messengers.				1m	
+---------------------------------------------------
+
+[10274998]
+// Basic concepts //
+	'Reflex actions are involuntary because they do not involve the brain', a student said. Comment on this statement. 								(2 marks)
+
+
+-- answer --
+	The statement is false.											1m
+	Reflex actions are involuntary because they are not under conscious control of the 
+	cerebrum. / Reflex actions may involve the brain (mainly medulla oblongata). 	1m	
+---------------------------------------------------
+
+[10275010]
+// Drawing // Schematic diagram //
+*	A boy touched a cup containing hot tea with his finger accidentally. He withdrew his hand rapidly.
+a	The diagram below shows a section of the spinal cord, the arm muscle and the finger of the boy. Draw a sensory neurone and a motor neurone to complete the nervous pathway of the action of the boy. Label all the neurones involved.										(4 marks)
+
+	
+
+b	Name the above nervous pathway. 						(1 mark)
+c	State the importance of this type of action.					(1 mark)
+-- answer --
+a	
+
+
+Correct positions of neurones									2m
+Correct labels												2m
+b	A reflex arc												1m
+c	Reflex actions protect us from danger.								1m 	
+---------------------------------------------------
+
+[10275011]
+// Comparison // Schematic diagram //
+*	The diagram below shows the gap between two adjacent neurones.
+
+	
+
+a	Describe how a nerve impulse is transmitted from one neurone to the adjacent neurone.										(2 marks)
+b	State one difference between the transmission of signals along the nerve fibres and across the gaps between neurones.					(2 marks)
+-- answer --
+a	When a nerve impulse reaches the ending of an axon, it stimulates the synaptic knob to release neurotransmitter.								1m
+The neurotransmitter diffuses across the synaptic cleft and stimulates the dendron of the adjacent neurone to generate a nerve impulse to continue with the transmission.												1m
+b	The nerve impulses transmitted along the nerve fibres are electrical signals,	1m
+while the neurotransmitter diffusing across the synaptic clefts is a chemical messenger.												1m	
+---------------------------------------------------
+
+[10275026]
+// Cross-topic // Applying concepts //
+*	The pancreas is both an exocrine gland and an endocrine gland.
+a	Explain why the pancreas is regarded as
+i	an exocrine gland.									(1 mark)
+ii	an endocrine gland.									(1 mark)
+b	State the role of blood vessels in the pancreas.				(2 marks)
+c	Name one other endocrine gland.							(1 mark)
+-- answer --
+a	i	The pancreas secretes pancreatic juice through the pancreatic ducts into the small intestine.											1m
+ii	The pancreas secretes insulin and glucagon for the regulation of blood glucose level.											1m
+b	The blood vessels supply nutrients to the pancreas and carry metabolic waste away from the pancreas.										1m
+They also carry insulin and glucagon secreted by the pancreas to the liver and the body cells.													1m
+c	Pituitary gland / thyroid gland / adrenal gland / ovary / testis				1m	
+---------------------------------------------------
+
+[10275028]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a reflex arc.
+	
+a	Name structures P and Q.								(2 marks)
+b	State a reflex action having a reflex arc as shown in the diagram.	(1 mark)
+-- answer --
+a	P: sensory neurone											1m
+Q: effector													1m
+b	The withdrawal reflex											1m 	
+---------------------------------------------------
+
+[10275030]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a neurone connected to a structure in the skin.
+	
+a	Name P, Q, R and S.									(4 marks)
+b	Which type of neurone is this? Explain your answer with two features shown in the diagram.									(3 marks)
+-- answer --
+a	P: receptor											1m
+Q: dendron											1m
+R: cell body											1m
+S: axon												1m
+b	Sensory neurone										1m
+It is connected to a receptor. /
+It has a long dendron and a short axon. /
+Its cell body is oral in shape. (any 2)							1m x 2	
+---------------------------------------------------
+
+[10275048]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the point where two neurones meet.
+	
+a	Name the gap shown.									(1 mark)
+b	Describe how the neurotransmitter helps the transmission of a nerve impulse from one neurone to another.						(3 marks)
+-- answer --
+a	Synaptic cleft												1m
+b	When a nerve impulse reaches a synaptic knob, it stimulates the synaptic vesicles to release neurotransmitter.									1m
+The neurotransmitter diffuses across the synaptic cleft.				1m
+The neurotransmitter then stimulates the cell body or dendron of the next neurone to generate a nerve impulse to continue with the transmission. 			1m	
+---------------------------------------------------
+[10275055]
+// Schematic diagram // Applying concepts //
+*	Some simplified diagrams representing three types of neurones in the human nervous system are shown below.
+
+	
+
+a	Name neurones X, Y and Z.								(3 marks) 
+b	Using the letters in the diagrams, state which boxes represent the receptor and the effector respectively.								(2 marks) 
+c	Name the material that surrounds most of the nerve fibres. State one function of it.											(2 marks) 
+
+-- answer --
+a	X: sensory neurone											1m
+Y: interneurone												1m
+Z: motor neurone											1m
+b	Receptor: N												1m
+Effector: T													1m
+c	Myelin sheath												1m
+It prevents the transmission of nerve impulses to the surroundings. /
+It speeds up the transmission of nerve impulses.						1m	
+---------------------------------------------------
+ 
+[10275070]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a section of the spinal cord in the vertebral column. 
+
+	
+a	What are P and Q?										(2 marks)
+b	Which types of neurones are contained in R and S respectively?	(2 marks)
+c	What are the functions of the spinal cord?					(2 marks)
+
+-- answer --
+a	P: grey matter												1m
+Q: white matter												1m
+b	R: sensory neurone											1m
+S: motor neurone											1m
+c	It relays nerve impulses between the brain and other parts of the body.		1m
+It is the reflex centre for many reflex actions involving the trunk and limbs.	1m	
+---------------------------------------------------
+ 
+[10275072]
+// Basic concepts //
+	State the types of neurones. Describe the direction of transmission of nerve impulses for each of them.									(6 marks)
+
+-- answer --
+Types:
+Sensory neurone												1m
+Motor neurone													1m
+Interneurone													1m
+Direction of transmission:
+Sensory neurone: from receptors to the central nervous system				1m
+Motor neurone: from the central nervous system to effectors					1m
+Interneurone: from a sensory neurone / interneurone to a motor neurone / interneurone																	1m	
+---------------------------------------------------
+
+[10275075]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a section of the human head.
+
+	
+
+a	The outer layer of structure P is made up of grey matter and the inner layer is made up of white matter. What do grey matter and white matter mainly consist of?											(2 marks)
+b	Name structures Q and R.								(2 marks)
+c	Apart from the brain, state one other structure that is included in the central nervous system.										(1 mark)
+d	Which structure in the diagram controls the secretion of saliva?	(1 mark)
+
+-- answer --
+a	Grey matter mainly consists of cell bodies of neurones. 				1m
+White matter mainly consists of nerve fibres. 						1m
+b	Q: cerebellum												1m
+R: medulla oblongata											1m
+c	Spinal cord												1m
+d	R / medulla oblongata										1m	
+---------------------------------------------------
+
+[10275079]
+// Basic concepts //
+	What are the major parts of the brain? State the functions of each part.																		(6 marks)
+-- answer --
+Major parts of the brain: 
+Cerebrum														1m
+Cerebellum													1m
+Medulla oblongata												1m
+Functions:
+Cerebrum is the site of intelligence. It also controls voluntary actions.			1m
+Cerebellum coordinates muscular actions for smooth body movements. It is also important in maintaining body posture and balance.						1m
+Medulla oblongata is the reflex centre for many reflex actions in the head. It also controls many involuntary actions.									1m	
+---------------------------------------------------
+
+[10275085]
+// Applying concepts //
+*	Some terms describing some structures in the human body are listed below. 
+receptor		cerebellum			cerebrum			spinal cord
+effector		sensory neurone		motor neurone		medulla oblongata	
+
+a	Using the terms above, state the nervous pathway of the actions below. 															(6 marks)
+X:	A man steps on a pin on the floor and pulls his leg away immediately.	
+Y:	A woman sees a car approaching and walks across the road quickly.	
+Z:	A student sitting in front of a desk suddenly remembers the test tomorrow and opens a textbook on the desk.
+b	Which of the above actions is/are (a) voluntary action(s)?		(1 mark)
+-- answer --
+a	X: receptor → sensory neurone → spinal cord → motor neurone → effector																	2m
+Y: receptor → sensory neurone → cerebrum → spinal cord → motor neurone 
+→ effector													2m
+Z: cerebrum → spinal cord → motor neurone → effector				2m
+b	Y and Z													1m	
+---------------------------------------------------
+
+Structured questions
+[10275179]
+// Scientific investigation // Schematic diagram // Applying concepts //
+**	a 	Alzheimer's disease is a degenerative disease of the brain. Patients suffering from this disease are found to have a reduced level of a neurotransmitter called acetylcholine in their brain. 
+i	The diagram below shows a neurone in the brain of a healthy person, and a neurone of a patient suffering from Alzheimer's disease. The two people are of the same age. 
+	
+With reference to one difference in the dendrites of the neurones shown above, suggest an explanation for the reduced level of acetylcholine in the brain of the patient suffering from Alzheimer's disease.											(2 marks)
+ii	Describe how acetylcholine helps the transmission of nerve impulses. 													(3 marks)
+b	Some scientists carried out an investigation to find out whether a drug is effective in treating Alzheimer's disease. They first asked ten patients with Alzheimer's disease to do a memory test. An equal volume of the drug was then injected into the spinal cord of each patient. One hour later, the patients were asked to do a memory test again. The performance of all the ten patients was found to be improved. 
+i	The drug injected into the spinal cord would be carried by the cerebrospinal fluid to the brain. What is the advantage of injecting the drug into the spinal cord compared with injecting it into the bloodstream?										(2 marks)
+ii	Comment on the reliability of the results of this investigation. 															(3 marks)
+-- answer --
+a	i	There are fewer dendrites in the patient suffering from Alzheimer's disease. 															1m
+The number of synapses is reduced, thus the amount of acetylcholine released is reduced. 						 				1m 
+ii	When a nerve impulse reaches the synaptic knob, acetylcholine is released from the synaptic knob. 									1m
+Acetylcholine diffuses across the synaptic cleft and stimulates the cell body or dendron of the next neurone to generate a nerve impulse. 		1m
+This allows the transmission of the nerve impulse to continue. 		1m
+b	i	A smaller portion of the drug would be delivered to other parts of the body and metabolized. 										1m
+Thus, a larger portion of the drug would reach the brain.			1m
+ii	The results may not be reliable. 								1m
+The sample size is small. 									1m
+No control group is included in the investigation. 				1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10275181]
+// Graph interpretation // Calculation // Applying concepts //
+*	The graph below shows the speed of transmission of nerve impulses along myelinated and non-myelinated axons of different diameters. 
+	
+a	Based on the graph, compare the speed of transmission of nerve impulses along myelinated and non-myelinated axons.					(4 marks)
+b	In an experiment, it took 6 milliseconds for a nerve impulse to travel along a myelinated axon that was 18 mm long. 
+i	Calculate the speed of transmission of the nerve impulse in ms-1.															(1 mark)
+ii	Use the graph to estimate the diameter of this axon.		(1 mark)
+c	Multiple sclerosis is a disease of the central nervous system. It damages the myelin sheath and axons and leads to a loss of sensations in patients. Explain how the damage can lead to a loss of sensations.		(2 marks)
+
+
+-- answer --
+	a	The speed of transmission in both myelinated and non-myelinated axons 				increases with their diameter. /
+		The increase in the diameter of axon has a greater effect on the speed of 				transmission in myelinated axons than in non-myelinated axons. /
+		The relationship between the speed of transmission and the diameter of axon is 			linear in myelinated axons but not in non-myelinated axons. /
+		At a diameter of 1.05 (m, the speed of transmission in myelinated axons and 			non-myelinated axons is the same. /
+		When the diameter is larger than 1.05 (m, the speed of transmission in 				myelinated axons is higher than that in non-myelinated axons. /
+		When the diameter is smaller than 1.05 (m, the speed of transmission in 				myelinated axons is lower than that in non-myelinated axons. 
+		(any 4)												1m ( 4
+	b	i	3 ms-1 (0.018 m / 0.006 s)								1m
+		ii	1.15 (m											1m
+	c	As the myelin sheath and axons in sensory neurones are damaged,	1m
+		the transmission of nerve impulses from the receptors to the brain stops. 				This leads to a loss of sensations.							1m	
+---------------------------------------------------
+
+[10275182]
+// High order thinking // Communication // Schematic diagram //
+**	Dopamine is a neurotransmitter. It is released at synapses in parts of the brain where pleasure is perceived. The diagram below shows the movement of dopamine in the synapse between neurones X and Y. 
+	
+a	Describe how a nerve impulse is transmitted from neurone X to neurone Y.															(4 marks)
+b	Why can a nerve impulse be transmitted from neurone X to neurone Y, but not vice versa?											(1 mark)
+c	Cocaine is a highly dangerous stimulant of the central nervous system. The diagram below shows how cocaine changes the functioning of the synapse.
+
+Using information in the diagram, explain why the use of cocaine can result
+in feelings of pleasure.									(4 marks)
+
+
+-- answer --
+	a	When a nerve impulse reaches the synaptic knob of neurone X, it stimulates the 			release of dopamine from synaptic vesicles.						1m
+		Dopamine diffuses across the synaptic cleft,						1m
+		and binds to the dopamine receptors on the cell membrane of neurone Y.	1m
+		This stimulates the generation of a nerve impulse in neurone Y.			1m
+	b	Only neurone Y has dopamine receptors to recognize dopamine.			1m
+	c	Cocaine can block the dopamine transporters / block the return of dopamine into 			neurone X.												1m
+		A high concentration of dopamine in the synaptic cleft is maintained.		1m
+		Dopamine continues to bind to the dopamine receptors				1m
+		and neurone Y is stimulated continuously to generate nerve impulses.		1m	
+---------------------------------------------------
+
+[10275203]
+// Schematic diagram // Applying concepts //
+*	Mary touched a hot dish accidentally. She immediately withdrew her hand and felt a burning sensation in her hand. The diagram below shows the nervous pathway that brings about the withdrawal action.
+	
+a	State the receptor and the effector in this action.				(2 marks)
+b	Using the letters in the diagram, describe how the withdrawal of the hand was brought about.										(3 marks)
+c	Which part of the brain was involved in giving the burning sensation?																(1 mark)
+d	Explain whether Mary could still withdraw her hand and felt the burning sensation if R was damaged.								(2 marks)
+e	State two differences in the nature of this action and a voluntary action.															(2 marks)
+-- answer --
+a	Receptor: the thermoreceptors in the skin						1m
+Effector: the arm muscle									1m
+b	The thermoreceptors in the skin of the hand were stimulated by the high temperature and they generated nerve impulses.					1m
+The nerve impulses travelled along P to the spinal cord, and then along Q and R to the arm muscle.											1m
+The arm muscle contracted to withdraw the hand.				1m
+c	The cerebrum											1m
+d	Mary could not withdraw her hand because the nerve impulses could not reach the arm muscle.											1m
+She could still feel the burning sensation because the nerve impulses could reach the brain / cerebrum.										1m
+e	This action is not under conscious control / involuntary while a voluntary action is under conscious control. /
+This action is inborn while a voluntary action is not. /
+This action is stereotyped while a voluntary action is not. / 
+This action is always fast while a voluntary action can be fast or slow.
+(any 2)												1m x 2	
+---------------------------------------------------
+
+[10275214]
+// Schematic diagram // Applying concepts //
+*	Mary saw her friend Peter on the street. She ran to meet him immediately.
+a	Draw a flow chart to show the nervous pathway of the action of Mary, including only the receptor, the effector and the neurones involved.																(4 marks)
+b	State the role of spinal cord in the above action.				(1 mark)
+c	The diagram below shows a section of the human brain.
+	
+i	State one role of each of the parts X, Y and Z in the above action.														(3 marks)
+ii	Compare the structure of parts Y and Z.					(2 marks)
+-- answer --
+a	Photoreceptors on the retina → sensory neurone → interneurone (to the cerebrum) → interneurone (from the cerebrum) → motor neurone → muscles in the legs													4m
+b	The spinal cord relays nerve impulses between the brain and the legs.		1m
+c	i	X receives nerve impulses from photoreceptors of the eyes / sends out nerve impulses to the muscles of the legs to bring about movement / integrates information and relates the information to past experience to recognize 
+Peter / makes decision to run to Peter. 						1m
+Y controls the rate of breathing / heart beat during running.			1m
+Z coordinates muscular actions for smooth body movements / helps maintain body balance during running.								1m
+ii	The outer layer of Y is made up of white matter and the inner layer is made up of grey matter, 										1m
+while the outer layer of Z is made up of grey matter and the inner layer is made up of white matter.									1m	
+---------------------------------------------------
+
+[10275223]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a section of the human cerebrum.
+	
+a	Name structures X, Y and Z.								(3 marks)
+b	There are two types of Z in a neurone. Name them and state one difference between them.											(3 marks)
+c	Name the point where one neurone meets another neurone. State the importance of it.										(3 marks)
+-- answer --
+a	X: nucleus												1m
+Y: cell body											1m
+Z: nerve fibre											1m
+b	Dendron and axon										1m x 2
+A dendron transmits nerve impulses towards the cell body while an axon transmits nerve impulses away from the cell body. 						1m
+c	Synapse												1m
+Synapses ensure that nerve impulses travel in one direction only.		1m
+They also allow a neurone to communicate with many other neurones.	1m	
+---------------------------------------------------
+
+[10275226]
+// Photomicrograph // Basic concepts //
+*		The photomicrograph below shows a section of spinal cord.
+	
+
+a	Name region X, region Y and structure Z.					(3 marks)
+b	What do regions X and Y mainly consist of?					(2 marks)
+c	i	Name the fluid inside structure Z.						(1 mark)
+ii	State two functions of this fluid in the spinal cord.			(2 marks)
+d	State two functions of the spinal cord.						(2 marks)
+-- answer --
+a	X: white matter											1m
+Y: grey matter											1m
+Z: central canal											1m
+b	X mainly consists of nerve fibres. 							1m
+Y mainly consists of cell bodies of neurones.					1m
+c	i	Cerebrospinal fluid									1m
+ii	It provides nutrients and oxygen to the neurones and removes waste from them. / 
+It serves as a shock absorber. / 
+It provides mechanical support to the spinal cord. (any 2)		1m x 2
+d	It relays nerve impulses between the brain and other parts of the body.	1m
+It is also the reflex centre for many reflex actions involving the trunk and limbs. 															1m	
+---------------------------------------------------
+
+[10275227]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows a reflex arc.
+
+	
+
+a	Name neurones X, Y and Z.								(3 marks)
+b	State two characteristics of reflex actions.					(2 marks)
+c	A student carried out an experiment about the reflex action on a dead frog. 
+i	Before applying a stimulus to the frog, he cut off the head of the frog. Explain why.										(1 mark)
+ii	He then placed a paper strip soaked with 0.5% sulphuric acid onto the hind limb of the frog. The limb bent. Explain why.		(3 marks)
+-- answer --
+a	X: sensory neurone										1m
+Y: interneurone											1m
+Z: motor neurone										1m
+b	Inborn / fast / stereotyped / involuntary (any 2)					1m x 2
+c	i	This prevents any nerve impulses from the brain from affecting the results.														1m
+ii	The sulphuric acid stimulated the receptors in the lower limb of the frog. The receptors generated nerve impulses. 						1m
+The nerve impulses were transmitted to the effector (the muscle in the leg) via the spinal cord. 									1m
+Muscle contraction caused the bending of the hind limb. 		1m	
+---------------------------------------------------
+
+[10275231]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the human nervous system.
+	
+a	Name structures X and Y.								(2 marks)
+b	How are X and Y protected?								(2 marks)
+c	What is a nerve?										(1 mark)
+d	Name the major functional areas in X.						(3 marks)
+e	What is the function of Y?								(2 marks)
+-- answer --
+a	X: brain													1m
+Y: spinal cord 												1m
+b	The brain is protected by the cranium while the spinal cord is protected by the vertebral column.											1m
+Both are protected by three layers of membranes / meninges and the cerebrospinal fluid.											1m
+c	It is a bundle of nerve fibres wrapped in connective tissue.				1m
+d	Sensory area												1m
+Motor area													1m
+Association area											1m
+e	It relays nerve impulses between the brain and other parts of the body.		1m
+It is the reflex centre for many reflex actions involving the trunk and limbs. 	1m	
+---------------------------------------------------
+
+[10275233]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows a section of the human brain. 
+
+	
+
+a	Name structures W, Y and Z.								(3 marks)
+b	State one function of each of the structures W, Y and Z.		(3 marks)
+c	Describe how different structures in the human nervous system bring about voluntary actions.										(3 marks)
+d	What is the function of structure X?						(2 marks)
+
+-- answer --
+a	W: cerebrum												1m
+Y: medulla oblongata											1m
+Z: cerebellum												1m
+b	W is the site for intelligence. / W enables us to think, make decision and have memories. / W controls voluntary actions.							1m
+Y is the reflex centre for many reflex actions in the head. / Y controls involuntary actions.													1m
+Z coordinates muscular actions for smooth body movements. / Z is important in maintaining body posture and balance. 							1m
+c	The cerebrum initiates nerve impulses.							1m
+The nerve impulses are transmitted along the spinal cord to the motor neurone.																1m
+The nerve impulses are transmitted along the motor neurone to the effector.	1m
+d	It secretes hormones											1m
+which affect growth, reproduction and urine concentration.				1m	
+---------------------------------------------------
+
+[10275245]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows a reflex arc.
+
+	
+
+a	State the functions of structures P and Q.					(2 marks)
+b	Which types of neurones do neurones R and S belong to?		(2 marks)
+c	State the importance of reflex actions.						(2 marks)
+d	Which part of the body does neurone T transmit the nerve impulses to?															(1 mark)
+e	Can the nerve impulses be transmitted along neurone T in the opposite direction of that shown in the diagram? Explain your answer.	(2 marks)
+
+-- answer --
+a	Structure P generates nerve impulses upon stimulation.				1m
+Structure Q produces a response to the stimulus.					1m
+b	Neurone R: sensory neurone									1m
+Neurone S: motor neurone										1m
+c	Reflex actions produce fast responses.							1m
+They protect us from danger.									1m
+d	Cerebrum / brain											1m
+e	No. 
+Synapses that are present between adjacent neurones 				1m
+allow nerve impulses to travel in one direction only. 					1m	
+---------------------------------------------------
+
+[10275274]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a section of the human brain.
+	
+a	Name parts X, Y and Z.									(3 marks)
+b	State two ways in which the body provides protection to the brain.																(2 marks)
+c	A man is playing tennis. State one role of each of the parts X, Y and Z when the man plays tennis.									(3 marks)
+d	Using the letters in the diagram, state the part that is involved in memorizing the techniques of playing tennis during training.	(1 mark)
+-- answer --
+a	X: cerebrum											1m
+Y: cerebellum											1m
+Z: medulla oblongata										1m
+b	The brain is enclosed by the cranium. /
+The brain is covered by three membranes / meninges. /
+The space between the inner and middle membranes / meninges is filled with cerebrospinal fluid which serves as a shock absorber. (any 2)		1m x 2
+c	X receives nerve impulses from various receptors and interprets them to give sensations. / X sends nerve impulses to the skeletal muscles to bring about movement. / X integrates information from different sensory areas and relates the information to past experience. / X makes decisions of what actions to take. 															1m
+Y coordinates the muscular actions for smooth body movements. / Y is important in maintaining body posture and balance.						1m
+Z sends nerve impulses to the heart to increase the heart rate. / Z sends nerve impulses to the lungs to increase the rate of breathing. 			1m
+(or other reasonable answers)
+d	X													1m	
+---------------------------------------------------
+
+[10275286]
+// Schematic diagram // Basic concepts //
+	The diagram below shows three parts of the human brain. 
+
+	
+
+a	Distinguish between grey matter and white matter. Compare the distribution of grey matter and white matter in the cerebrum, cerebellum and medulla oblongata.											(5 marks) 
+b	State the major difference between the functions of the cerebrum and medulla oblongata.										(2 marks) 
+c	How is the brain protected from mechanical injury?			(3 marks) 
+
+-- answer --
+a	Grey matter consists mainly of the cell bodies of motor neurones and interneurones.												1m
+White matter consists of nerve fibres of neurones.					1m
+Both the cerebrum and the cerebellum have the outer layer made up of grey matter and the inner layer made up of white matter.					2m
+The medulla oblongata has the outer layer made up of white matter and the inner layer made up of grey matter.									1m
+b	The cerebrum is responsible for voluntary actions and thinking.			1m
+The medulla oblongata controls reflex actions and other involuntary actions.	1m
+c	The brain is enclosed by the cranium. 							1m
+The brain is covered by three membranes / meninges. 				1m
+The space between the inner and middle membranes / meninges is filled with cerebrospinal fluid which serves as a shock absorber. 				1m	
+---------------------------------------------------
+
+[10275306]
+// Cross-topic // Applying concepts //
+*	An athlete is participating in a 100-metre race. She starts running immediately when the horn sounds.
+
+	
+
+a	What are the stimulus and receptor involved?				(2 marks) 
+b	Describe the nervous pathway that brings about the action.		(4 marks) 
+c	Is the athlete's response to the sound of the horn a reflex action? Explain with two reasons.										(3 marks) 
+d	Name the part of the nervous system which coordinates the movements of various muscles during running.							(1 mark) 
+
+-- answer --
+a	Stimulus: sound of the horn									1m
+Receptor: sensory hair cells in the cochlear of the ears				1m
+b	Sensory hair cells in the cochlear of the ears are stimulated and they generate nerve impulses. 											1m
+The nerve impulses travel along the auditory nerve to the auditory centre of the cerebrum.													1m
+The cerebrum makes decision and sends nerve impulses.				1m
+The nerve impulses travel along the spinal cord and the motor neurone to the skeletal muscles in the legs. 									1m
+c	No. 														1m
+This action involves the cerebrum of the brain. 						1m
+This action is not inborn.										1m
+d	Cerebellum												1m	
+---------------------------------------------------
+
+[10275308]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some structures in the central nervous system.
+	
+a	Name P, Q, R and S. What are their main functions?			(4 marks) 
+b	Heroin is a painkilling drug and affects the function of the central nervous system. Using the letters in the diagram, state which part of the central nervous system heroin affects. Give one reason for your answer.																	(2 marks) 
+c	What is the difference between hormonal coordination and nervous coordination in terms of the areas of response?				(2 marks) 
+-- answer --
+a	P: cerebrum / cerebral hemisphere
+The cerebrum is the site of intelligence. / The cerebrum controls voluntary actions.															1m
+Q: cerebellum
+The cerebellum coordinates muscular actions for smooth body movements. / The cerebellum is important in maintaining body posture and balance.			1m
+R: medulla oblongata
+The medulla oblongata is the reflex centre for many reflex actions in the head. / The medulla oblongata controls many involuntary actions.				1m
+S: spinal cord
+The spinal cord relays nerve impulses between the brain and other parts of the body. / The spinal cord is the reflex centre for many reflex actions involving the trunk and limbs.												1m
+b	P														1m
+The sensory areas in P receive nerve impulses from receptors and interpret them to give the sensation of pain.									1m
+c	The areas of response for hormonal coordination is widespread 			1m
+while that for nervous coordination is restricted to places with nerve supply.	1m	
+---------------------------------------------------
+
+[10275309]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a neurone connected to muscle fibres.
+	
+
+a	Name P, Q and R.										(3 marks)
+b	R is surrounded by some fatty material. Name this fatty material. What is its function?												(3 marks)
+c	i	Which type of neurone does it belong to? 				(1 mark)
+ii	Name the other two types of neurones.					(2 marks)
+d	Use a table to compare the directions of nerve impulse transmission along the neurones mentioned in c.								(3 marks)
+-- answer --
+a 	P: cell body											1m
+Q: dendron											1m
+R: axon 												1m
+b	Myelin sheath											1m
+It prevents the transmission of nerve impulses to the surroundings. 	1m 
+It speeds up the transmission of nerve impulses.					1m
+c	i	Motor neurone  									1m
+ii	Sensory neurone and interneurone						1m x 2	
+d	
+Type of neurone
+From
+To
+
+Sensory neurone
+Receptors
+Central nervous system
+
+Motor neurone
+Central nervous system
+Effectors
+
+Interneurone
+Sensory neurone / interneurone
+Motor neurone / interneurone
+
+															1m x 3	
+---------------------------------------------------
+
+[10275317]
+// Schematic diagram // Applying concepts //
+**	The diagram below shows a section of the human backbone.
+	
+a	What is the advantage for the spinal cord to be enclosed within the 
+vertebrae?											(1 mark)
+b	i	Explain why the slipped intervertebral disc may cause back pain.															(2 marks)
+ii	Suggest one reason why the intervertebral disc is slipped.	(1 mark)
+c	Mr Chan broke his back in a traffic accident and became paralyzed from the waist down. Explain why the accident left him paralyzed from the waist down.												(4 marks)
+d	Why can a doctor check if there is any damage to the spinal cord by tapping gently on the patient's hanging leg just below the knee cap?		(2 marks)
+
+-- answer --
+a	The vertebrae can give protection to the spinal cord.					1m
+b	i	The slipped intervertebral disc may press against the spinal nerve.	1m
+Nerve impulses will be generated and sent to the brain if the spinal nerve is pressed. The brain will give us the sensation of pain.				1m
+ii	Improper posture / sports injuries / degeneration					1m
+c	The spinal cord near the waist might have been severely damaged in the accident.															1m
+The spinal cord could no longer relay nerve impulses					1m
+between the brain and the parts of the body below the waist.			1m
+Nerve impulses from the brain could not be transmitted to the muscles (effectors) through the motor neurones. Paralysis resulted.						1m
+d	The spinal cord is the reflex centre for the knee jerk reflex. 				1m
+If the spinal cord is damaged, the knee jerk reflex may stop.				1m	
+---------------------------------------------------
+
+[10275319]
+// Comparison // Communication // Applying concepts //
+*	a	A person accidentally touched a boiling kettle and he rapidly withdrew his hand. Describe the nervous pathway that brought about this action.																(7 marks)
+b	The person then removed the kettle from the stove. State two ways in which this action is different from the action in a.					(3 marks)
+
+-- answer --
+a	The thermoreceptors in the skin were stimulated.					1m
+The thermoreceptors generated nerve impulses.					1m
+The nerve impulses travelled along the sensory neurone to the spinal cord.																1m
+In the spinal cord, the nerve impulses passed through the synapse to the interneurone.											1m
+The nerve impulses passed through another synapse to the motor neurone.																1m
+The nerve impulses left the spinal cord and travelled along the motor neurone to the effector, the arm muscle.								1m
+The muscle contracted and the hand withdrew.					1m
+b	Removing the kettle is a voluntary action, while the action in a is a reflex action.															1m
+This action involves the cerebrum, while the action in a does not. /
+This action may not involve a receptor, while the action in a involves a receptor. /
+This action is under conscious control, while the action in a is not under conscious control. /
+This action is not inborn, while the action in a is inborn. /
+This action may be fast or slow, while the action in a is always fast. 
+(any 2)												1m x 2	
+---------------------------------------------------
+
+[10275322]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows the endocrine glands in a man.
+	
+a	Name endocrine glands P, Q, R, S and T.					(5 marks)
+b	How are hormones transported in the body?					(2 marks)
+c	Name one disease that is caused by an insufficient secretion of hormone from R.												(1 mark)
+d	Men have T removed in their childhood would retain their high voice and would not develop pubic hair. Explain why the removal of T would cause these changes.											(3 marks)
+-- answer --
+a	P: pituitary gland											1m
+Q: thyroid gland												1m
+R: pancreas												1m
+S: adrenal gland											1m
+T: testis													1m
+b	Hormones produced by endocrine glands diffuse directly into the blood. 	1m
+They are then carried by the blood to all parts of the body.				1m
+c	Diabetes mellitus											1m
+d	The testes are responsible for the production of male sex hormones		1m
+which stimulate the development of secondary sexual characteristics		1m
+including the deepening of voice and the growth of pubic hair.			1m	
+---------------------------------------------------
+
+[10275329]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the reflex arc involved in the withdrawal reflex of a man.
+	
+a	P, Q and S belong to which types of neurones?				(3 marks)
+b	Using the letters in the diagram, indicate the pathway of nerve impulses that results in the withdrawal of the hand.						(2 marks)
+c	Which neurone is most probably not functioning if
+i	the man withdraws his hand but does not feel any pain?	(1 mark)
+ii	the man does not withdraw his hand but feels the pain?		(1 mark)
+iii	the man does not withdraw his hand and does not feel any pain?															(1 mark)
+d	State one difference between the withdrawal reflex and the knee jerk reflex in terms of the neurones involved.							(1 mark)
+e	Apart from the withdrawal reflex and the knee jerk reflex, suggest one other example of a reflex action in humans.						(1 mark)
+
+-- answer --
+a	P: motor neurone											1m
+Q: sensory neurone											1m
+S: interneurone												1m
+b	Y → Q → S → P → X											2m
+c	i	R 													1m
+ii	P / S													1m
+iii	Q													1m
+d	The withdrawal reflex involves three neurones while the knee jerk reflex involves two neurones only. /
+The withdrawal reflex involves an interneurone but the knee jerk reflex does not.																1m
+e	Blinking / coughing / swallowing (or other correct answers)				1m	
+---------------------------------------------------
+
+[10275357]
+// Comparison // Communication //
+*	a	State two differences of an exocrine gland and an endocrine gland. Give one example of each of the glands.							(6 marks)
+b	Apart from endocrine glands, the nervous system also controls body activities. How do the endocrine system and the nervous system differ in terms of the nature of messages and transmission routes?		(4 marks) 
+
+-- answer --
+a	An exocrine gland releases its secretion through a duct while an endocrine gland releases hormone directly into the blood. 							2m
+The secretion of an exocrine gland is transported to other places through a duct while the hormone of an endocrine gland is transported to other organs by blood.																2m
+Example of an exocrine gland: sweat gland / sebaceous gland / mammary gland
+															1m
+Example of an endocrine gland: pituitary gland / thyroid gland / adrenal gland / pancreas / ovary / testis 										1m
+b	The endocrine system produces hormones which are chemical in nature. 	1m
+The nervous system transmits nerve impulses which are electrical signals. Neurotransmitters which diffuse across synapses are chemical in nature. 	1m
+Hormones are transported by the blood stream. 						1m
+Nerve impulses are transmitted by nerve fibres. 						1m	
+---------------------------------------------------
+
+
+Essays
+
+[10275469]
+// Communication // Basic concepts //
+	Describe the structure and functions of the spinal cord.				(12 marks)
+
+-- answer --
+Structure: 
+The spinal cord extends from the medulla oblongata of the brain. /
+It consists of two regions, the inner region and outer region. / 
+The outer region is made up of white matter. /
+The inner H-shaped region is made up of grey matter. /
+At the centre of the grey matter is the central canal which is filled with cerebrospinal fluid. /
+Pairs of spinal nerves arise from the spinal cord. /
+The dorsal roots contain sensory neurones which transmit nerve impulses from the receptors to the spinal cord. /
+The cell bodies of the sensory neurones group together to form dorsal root 
+ganglions. /
+The ventral roots contain motor neurones which transmit nerve impulses from the spinal cord to the effectors. 
+(any 7)													1m x 7
+Functions:
+The spinal cord relays nerve impulses between the brain and other parts of the body.																1m
+It is also the reflex centre for many reflex actions involving the trunk and limbs.																	1m
+Communication												3m	
+---------------------------------------------------
+
+[10275474]
+// Comparison // Communication //
+*	Compare reflex actions and voluntary actions.					(9 marks)
+
+-- answer --
+Reflex actions involve the spinal cord or brain (mainly medulla oblongata) while voluntary actions always involve the cerebrum.							1m
+Reflex actions always involve a receptor while voluntary actions may not involve a receptor.														1m
+Reflex actions are not under conscious control while voluntary actions are under conscious control.												1m
+Reflex actions are inborn while voluntary actions are not inborn.				1m
+In reflex actions, the same stimulus always results in the same response, while in voluntary actions, the same stimulus may result in different responses.			1m
+The speed of response in reflex actions is always fast while voluntary actions may be fast or slow depending on the nervous pathway involved and the nature of response.																	1m
+Communication													3m	
+---------------------------------------------------

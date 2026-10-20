@@ -1,0 +1,1012 @@
+( Chapter 1		Techniques in modern 									biotechnology
+
+Multiple-choice questions
+
+[10284216]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a process in the production of human insulin.
+	
+Which of the following statements about the above process are correct?
+(1)	The antibiotic resistance gene in the recombinant plasmid enables the selection of transformed bacteria.
+(2)	The recombinant plasmid in the bacterium can replicate independently of the bacterial chromosome.
+(3)	The recombinant plasmid is copied to new cells when the bacterium divides.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10284220]
+// Basic concepts //
+(	Human insulin produced by GM bacteria is not rejected by the immune system because
+A	it is not protein in nature.
+B	it is pure.
+C	its structure is the same as the insulin produced by human body.
+D	only a small amount of it is introduced to the patient's body.
+C	
+---------------------------------------------------
+
+[10284227]
+// Applying concepts //
+(*	Which of the following can be achieved by using polymerase chain reaction?
+A	sorting DNA fragments by size
+B	amplifying DNA from blood stain containing trace amount of DNA
+C	producing sticking ends in DNA fragments
+D	inserting DNA into the genome of a different species
+B	
+---------------------------------------------------
+
+[10284244]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the steps of cloning a plant using tissue culture.
+	
+
+Which of the following statements about the cells in the callus are correct?
+(1)	They develop from the plant tissue by mitotic cell division.
+(2)	They are undifferentiated cells.
+(3)	They do not have a cell wall.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10284252]
+// Basic concepts //
+(	Which of the following are issues arising from plant cloning?
+(1)	Plant cloning has a low success rate.
+(2)	For those plants that are endangered due to the loss of habitats, money should be spent on habitat conservation rather than plant cloning.
+(3)	The risk of extinction of the plant species increases when cloned plants are released to the wild due to the reduction in genetic variation within the population.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10284264]
+// Basic concepts //
+(	Which of the following statements about human reproductive cloning is/are correct?
+(1)	It aims at cloning human reproductive cells.
+(2)	It may lower the value of life.
+(3)	It is banned in many countries.
+A	(1) only					B	(1) and (2) only
+C	(1) and (3) only			D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10284275]
+// Basic concepts //
+(	Human embryos produced by cloning could be a source of stem cells for therapeutic uses. Why is the cloning of human embryos controversial?
+A	The technique may be used in human reproductive cloning.
+B	The stem cells obtained can lead to rejection in later transplant.
+C	The stem cells obtained have limited developmental potential.
+D	The embryos are not living until they are born.
+A	
+---------------------------------------------------
+
+[10284311]
+// Applying concepts //
+(*	The base sequences of two alleles of a gene are shown below. One of them is the normal allele and the other is the mutated allele. 
+		
+By cutting the two alleles with the same restriction enzyme separately and looking at the numbers of fragments produced, scientists can differentiate the two alleles. Which of the following shows the recognition site of a restriction enzyme that can be used by the scientists to differentiate the two alleles?
+A	AAGCTT 
+B	GAATCC
+C	GAGCTC
+D	GGATCC
+C	
+---------------------------------------------------
+
+[10284325]
+// Applying concepts //
+(*	During polymerase chain reaction, the reaction mixture is heated and cooled repeatedly. Which of the following is the reason for cooling the reaction mixture?
+A	To prevent the denaturation of DNA polymerase. 
+B	To allow the annealing of primers to the single-stranded DNA. 
+C	To separate the double-stranded DNA into two single strands. 
+D	To provide a suitable temperature for the extension of the new DNA strands by joining free nucleotides that are complementary to the templates.
+B	
+---------------------------------------------------
+
+[10284335]
+// Schematic diagram // Applying concepts //
+(**The diagram below shows two alleles of a gene, one of them is the normal allele and the other is the mutated allele. Some of the base sequences of the alleles are shown.
+	
+Different numbers of fragments are produced after cutting the two alleles separately with a restriction enzyme having a recognition site CCGG. If the resulting fragments are separated by gel electrophoresis, which of the following shows the pattern of bands on the gel?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10284347]
+// Applying concepts //
+(*	Which of the following statements about cloning animals using nuclear transfer is correct?
+A	The animals produced are called genetically modified animals.
+B	The animals produced have the same genetic information as their ovum donors.
+C	The animals produced may look different from their ovum donors.  
+D	The animals produced must have more desirable characters than their nuclear donors.
+C	
+---------------------------------------------------
+
+[10284367]
+// Basic concepts //
+(	The table below shows the functions of two enzymes that are commonly used in genetic engineering.
+Enzyme	Function	
+X	catalyses the addition of nucleotides to a DNA strand	
+Y	catalyses the formation of covalent bonds between two DNA fragments	
+
+Which of the following correctly identifies X and Y?
+	X	Y	
+A	DNA polymerase	restriction enzyme	
+B	DNA polymerase	DNA ligase	
+C	DNA ligase	DNA polymerase	
+D	restriction enzyme	DNA ligase	
+
+B	
+---------------------------------------------------
+
+[10284368]
+// Basic concepts //
+(*	Directions: The following two questions refer to the steps involved in restriction fragment length polymorphism (RFLP) analysis shown below.
+(1)	Add radioactive DNA probes.
+(2)	Cut DNA samples using restriction enzymes.
+(3)	Denature DNA into single strands.
+(4)	Separate DNA fragments by gel electrophoresis.
+
+Which of the following is the correct order of these steps?
+A	(2) → (3) → (4) → (1)
+B	(2) → (4) → (3) → (1)
+C	(3) → (1) → (2) → (4)
+D	(3) → (2) → (1) → (4)
+B	
+---------------------------------------------------
+
+[10284372]
+// Basic concepts //
+(*	The pattern of bands obtained in RFLP analysis is unique to each individual because
+A	DNA probes bind to variable number tandem repeats (VNTRs) at different loci in different individuals.
+B	the lengths of VNTRs are different in different individuals.
+C	the amount of DNA is different in different individuals.
+D	the restriction enzymes recognize different base sequences in different individuals.
+B	
+---------------------------------------------------
+
+[10284380]
+// Basic concepts //
+(*	Directions: The following two questions refer to the steps involved in the production of pest-resistant plants shown below.
+(1)	Infect plant cells with bacteria.
+(2)	Insert the toxin gene into plasmids.
+(3)	Obtain plasmids from bacteria.
+(4)	Introduce plasmids into bacteria.
+
+Which of the following is the correct order of these steps?
+A	(1) → (4) → (2) → (3)
+B	(3) → (2) → (4) → (1)
+C	(3) → (4) → (2) → (1)
+D	(4) → (2) → (3) → (1)
+B	
+---------------------------------------------------
+
+[10284392]
+// Basic concepts //
+(*	Which of the following bacteria is used in steps (1), (3) and (4)?
+A	Escherichia coli 
+B	Vibrio cholerae
+C	Staphylococcus aureus
+D	Agrobacterium
+D	
+---------------------------------------------------
+
+[10284394]
+// Schematic diagram // Basic concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows the major steps in recombinant DNA technology.
+	
+In which steps are a restriction enzyme and a DNA ligase used?
+	Restriction enzyme	DNA ligase	
+A	step 1	step 3	
+B	step 2	step 1	
+C	step 2	step 3	
+D	step 3	step 2	
+
+C	
+---------------------------------------------------
+
+[10284404]
+// Schematic diagram // Basic concepts //
+(*	Why does the plasmid used in recombinant DNA technology carry an antibiotic resistance gene?
+A	It allows the selection of the recombinant plasmids.
+B	It allows the selection of the transformed host cells.
+C	It helps the host cells pick up the recombinant plasmids.
+D	It kills the host cells which are not transformed.
+B	
+---------------------------------------------------
+
+[10284426]
+// Basic concepts //
+(	Tissue culture is a method of 
+A	introducing a foreign gene into an organism.
+B	producing useful products in an organism.
+C	producing genetically identical organisms.
+D	producing organisms with new characteristics.
+C	
+---------------------------------------------------
+
+[10284432]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows the basic steps involved in the production of genetically modified plants.
+	
+Restriction enzymes are used in
+A	step 1 only.
+B	step 2 only.
+C	steps 2 and 3 only.
+D	steps 3 and 4 only.
+C	
+---------------------------------------------------
+
+[10284435]
+// Schematic diagram // Applying concepts //
+(*	Why is Agrobacterium used in the above process?
+(1)	Agrobacterium contains plasmids.
+(2)	Agrobacterium can infect plant cells.
+(3)	Part of the plasmids of Agrobacterium can integrate into DNA of plant cells.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+[10284447]
+// Basic concepts //
+(	Which of the following is not an argument against human reproductive cloning?
+A	Human cloning may decrease the genetic variations of humans.
+B	The human clones may upset the ecological balance.
+C	A large number of embryos are sacrificed during the process.
+D	Money should be spent on other areas.
+B	
+---------------------------------------------------
+
+
+
+
+Short questions
+
+[10284560]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the DNA fingerprints of three girls (A, B and C). The different patterns of dark bands shown in the DNA fingerprints are due to the presence of variable number tandem repeats (VNTRs) on human chromosomes.
+	
+a	Which two girls are probably sisters? Explain briefly.			(1 mark)
+b	Why can DNA fingerprinting be carried out based on the presence of VNTRs?												(1 mark)
+c	Why can a large number of variations exist in VNTRs but only a few variations are found in functional genes?					(4 marks)
+
+-- answer --
+a	A and C are probably sisters because they share some common bands in the DNA fingerprints.												1m
+b	The lengths of VNTRs at a given locus vary greatly among individuals. 	1m
+c	VNTRs are present in the non-coding regions on human chromosomes. Mutations in these regions do not affect the phenotype of individuals.				1m
+However, mutation of functional genes often leads to the failure to produce important proteins or enzymes.	 								1m
+Diseases or even death may result.								1m
+Therefore, these mutations may not be passed on. 					1m	
+---------------------------------------------------
+
+[10284573]
+// Schematic diagram // Applying concepts //
+(*	The diagrams below show two methods of cloning dairy cows.
+			 Method 1
+
+	Method 2
+
+	
+
+a	What is the term used to describe the calves produced by method 1? 																(1 mark)
+b	A farmer has a dairy cow (X) which produces a high yield of milk. If he wants to have a number of dairy cows which produce a high yield of milk as cow X does, which cloning method (1 or 2) should he use? Explain briefly.															(2 marks)
+
+-- answer --
+a	Clones													1m
+b	He should use method 2 because the genetic make-up of the embryo is identical to  cow X / the calf developed from the embryo is a clone of cow X.			1m
+Therefore, the calf would produce the same high yield of milk as cow X.	1m	
+---------------------------------------------------
+[10284583]
+// Schematic diagram // Applying concepts //
+(	Read the following information about Dolly the sheep and answer the questions.
+
+	
+
+a	Some people argue that animal cloning using nuclear transfer is not ethical. Give two pieces of evidence from the above information to support this argument.												(2 marks)
+b	Suggest one reason why some people disagree to save endangered animals by animal cloning.										(1 mark)
+
+
+-- answer --
+a	A large number of embryos are sacrificed. /
+Cloned animals have health problems at an early age. /
+	Cloned animals have a shorter lifespan. (any 2)					1m x 2
+b	Cloning reduces genetic variations and hence increases the risk of extinction of the species. /
+Animals that are endangered due to the loss of habitats will still have no place to live after they are cloned and released to the wild.				1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10284585]
+// Overseas exam question // Schematic diagram // Applying concepts //
+(*	The flow chart below shows steps in the process of plant tissue culture.
+	
+
+
+a	Outline the general purpose of plant tissue culture.			(1 mark)
+b	Sterile conditions are used throughout the process. Explain why sterile conditions are necessary.									(1 mark)
+c	Describe how callus tissue may be stimulated to initiate root and shoot development.											(1 mark)
+d	State two advantages of producing plants by plant tissue culture rather than by seeds.												(2 marks)
+e	Plant tissue culture is increasingly used in conjunction with genetic engineering to propagate transgenic plants. Outline two additional steps, further to the steps shown above, which would be required in the production of transgenic plants.									(2 marks)
+							CCEA GCE (A) Biology Module 5 Jan 2010 Q2
+
+-- answer --
+a	To produce large numbers of genetically identical plants / clones.		1m
+b	To prevent the growth of fungi and bacteria, which would utilize the nutrients in the culture medium and damage the plant tissue.					1m
+c	Add hormones to the culture medium.							1m
+d	Very large numbers of plants can be produced from a single explant. /
+All plants produced are genetically identical. /
+All plants produced are disease-free. /
+Plants (such as orchids) that are hard to produce from seeds can be propagated.
+(any 2)												1m x 2
+e	Use of a vector to introduce the gene of interest into plant cells. 		1m
+Selection of the plant cells containing the gene of interest.			1m	
+---------------------------------------------------
+
+[10284588]
+// Overseas exam question // Cross-topic // High order thinking //
+(**The enzyme, polygalacturonase (PG), is responsible for the softening of fruits such as tomatoes. To prolong the shelf life of tomatoes, scientists have genetically engineered tomato plants to create the 'Flavr Savr' tomato that does not bruise during shipping and lasts longer on the shelf.
+To do this, the PG gene responsible for the production of the enzyme was first isolated. Scientists then used this isolated gene to create an 'anti' or 'nonsense' PG gene that was then introduced into tomato plants. This nonsense gene stops the translation of the original PG gene in the tomato plant and so stops enzyme production.
+The diagram below summarizes the action of the introduced nonsense PG gene.
+	
+a	Suggest how the nonsense PG gene could have been introduced into the tomato plant.											(3 marks)
+b	Name the process labelled X in the diagram.					(1 mark)
+c	Suggest two ways by which matching of the sense and nonsense mRNA would prevent translation and so inhibit the production of the polygalacturonase enzyme.								(2 marks)
+						CCEA GCE (AS) Biology Module 1 Jun 2008 Q7b-d
+
+-- answer --
+a	The nonsense PG gene and a bacterial plasmid are cut with the same restriction enzyme. / 
+The nonsense PG gene is inserted into the plasmid using a DNA ligase. /
+The recombinant plasmid is taken up by Agrobacterium. /
+Transformed Agrobacterium is used to infect tomato plant tissue. 
+(any 3)												1m x 3
+b	Transcription											1m
+c	The double-stranded mRNA cannot exit the nucleus. / 
+The double-stranded mRNA cannot bind with ribosomes. /
+The codons on the mRNA are not available for the binding of anticodons on the tRNA. (any 2)											1m x 2	
+---------------------------------------------------
+
+[10284592]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows how carrot plants can be cloned by tissue culture.
+	
+
+a	Is tissue culture a form of sexual reproduction or asexual reproduction? Explain your answer.									(1 mark)
+b	Suggest one advantage of producing plants by tissue culture.	(1 mark)
+c	Explain why a batch of plants produced by tissue culture is more easily destroyed by viral infection than a batch of plants grown from seeds.																(1 mark)
+d	Apart from nutrients and oxygen, name one other substance that must be added into the culture medium. Explain why this substance is needed.																(2 marks)
+-- answer --
+a	It is a form of asexual reproduction because no fusion of gametes is involved.																1m
+b	Desirable characters of selected plants can be preserved. /
+It can be used as a method to overcome reproductive difficulties of plants.	1m
+c	It is because plants produced by tissue culture are genetically identical / lack genetic variations.											1m
+d	Hormones													1m
+They are used to promote the growth of roots and shoots.				1m	
+---------------------------------------------------
+
+[10284596]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(3 marks)
+A DNA probe is a short, a                     -stranded DNA fragment with a known b                     . It can be used to detect DNA fragments containing a sequence which is c                      to its sequence.
+-- answer --
+a	single													1m
+b	base sequence												1m
+c	complementary												1m	
+---------------------------------------------------
+
+[10284608]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+a                      is a method to clone animals. The first mammal cloned by this method was Dolly the sheep. This method can be used to propagate b                      animals to help maintain biodiversity. However, the clones produced lack genetic variations. This reduces the 
+c                      of the population to changes in the environment. Cloning can also be used to create embryos, which can provide 
+d                      for research and medical treatment.
+
+-- answer --
+a	Nuclear transfer												1m
+b	endangered												1m
+c	adaptability												1m
+d	stem cells													1m	
+---------------------------------------------------
+
+[10284611]
+// Basic concepts //
+(*	Cloning of endangered animals is one of the applications of cloning. Scientists transfer a nucleus obtained from a somatic cell of an endangered animal to an ovum (with nucleus removed) of a related species. The resulting embryo was then transferred into a surrogate mother of the related species. 
+a	Name the above technique used in the cloning of the endangered animal.															(1 mark)
+b	Some people think that cloning endangered animals is not a good way of conserving endangered animals because the clones are unlikely to develop into a large population when they are released into the wild. Give two reasons to explain why.									(2 marks)
+c	The same technique can also be used in human reproductive cloning. However, due to strong objections, it is banned in many countries. State two reasons why people object to human reproductive cloning.		(2 marks)
+
+-- answer --
+a	Nuclear transfer											1m
+b	The fundamental problems that endanger the animals remain unsolved. / 
+The clones lack genetic variations. This reduces the adaptability of the population to changes in the environment. / 
+The clones may have health problems / abnormalities / short life span. / 
+
+The clones lack the survival skills that are normally learnt from their parents. / They cannot learn the survival skills required from the surrogate mother of different species. (any 2 or other reasonable answers)					1m x 2
+c	The relationship between human clones and their nucleus donors is unclear. /
+Human clones lack self-identity. /
+Cloning of humans may lead to the making of 'designer babies' / may lower the value of life. / 
+Some embryos are wasted in the process. / Lives are sacrificed in the process. /
+The success rate of cloning is low. / 
+Money should be spent on other areas such as developing new treatments for diseases. (any 2 or other reasonable answers)					1m x 2	
+---------------------------------------------------
+
+
+[10284613]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(3 marks)
+Gene therapy can be done by supplementing a defective gene with a a                     . It is a potential treatment for many diseases. However, it has also raised some concerns. For example, some people think that human trials of gene therapy involving seriously ill patients are not acceptable because b                      cannot be obtained from the potential research subject. Moreover, gene therapy may widen the social class gap because it is c                      and only rich people can afford it.
+
+-- answer --
+a	normal gene												1m
+b	informed consent											1m
+c	expensive 												1m	
+---------------------------------------------------
+
+
+
+Structured questions
+
+[10284752]
+// Cross-topic // Data handling // High order thinking //
+(**A scientist investigated the pattern of inheritance of a genetic disease using DNA fingerprinting. This disease is caused by a single base substitution of a gene. The normal allele of this gene contains a base sequence that can be recognized and cut by a restriction enzyme called EcoRI. The substitution occurred in this sequence.
+
+The scientist collected DNA samples from four members of a family and produced copies of the DNA segments containing the gene using PCR. He then cut the DNA segments with EcoRI and separated the fragments produced by gel electrophoresis. The diagram below shows the pedigree of this family and the DNA fingerprints of the four members.
+	
+a	Apart from the positions of the bands, describe one difference in the patterns of bands in the DNA fingerprints of individuals 2 and 4. Suggest a reason for it.											(3 marks)
+b	Based on the DNA fingerprints and the pedigree, deduce whether the mutated allele is dominant or recessive. Briefly explain your answer.																(4 marks)
+c	Based on the DNA fingerprints and the pedigree, suggest whether the gene is X-linked or not. Briefly explain your answer.				(2 marks)
+
+
+-- answer --
+a	There were two bands in the DNA fingerprint of individual 2 and only one band in that of individual 4.											1m
+Individual 2 possesses two normal alleles. The DNA segments containing the normal allele were cut by the restriction enzyme. Therefore, two bands were produced.													1m
+Individual 4 possesses two mutated alleles. The DNA segments containing the mutated allele were not cut by the restriction enzyme as base substitution occurred in the recognition site. Therefore, only one band was produced.			1m
+b	The DNA fingerprints of individuals 1 and 3 both contained 3 bands, two from the normal allele and one from the mutated allele.						1m
+Therefore, individuals 1 and 3 are heterozygous.						1m
+From the pedigree, we can see that both individuals 1 and 3 are normal.	1m
+Since only the dominant allele can be expressed in the heterozygous condition, the mutated allele should be recessive.							1m
+c	The gene is not X-linked.										1m
+Because individual 3 is a male and he possesses two alleles of the gene.	1m
+Note:
+If the gene is X-linked, males will possess only one allele of the gene because they have only one X chromosome.
+
+	
+---------------------------------------------------
+
+[10284754]
+// Cross-topic // Data handling // High order thinking // Communication //
+(**A scientist carried out an experiment to determine the base sequence of a gene in organism W. He prepared four test tubes containing the gene, DNA polymerase, a primer and four types of deoxyribonucleotides (dATP, dTTP, dCTP and dGTP). In each tube, he added one type of dideoxyribonuleotide (ddATP, ddTTP, ddCTP or ddGTP). The table below summarizes the contents of the four test tubes used in the experiment.
+
+
+Test tube	Contents	
+A	the gene, DNA polymerase, primer, four types of deoxyribonucleotides and ddATP	
+T	the gene, DNA polymerase, primer, four types of deoxyribonucleotides and ddTTP	
+C	the gene, DNA polymerase, primer, four types of deoxyribonucleotides and ddCTP	
+G	the gene, DNA polymerase, primer, four types of deoxyribonucleotides and ddGTP	
+The test tubes were then exposed to cycles of heating and cooling similar to those in polymerase chain reaction.
+Dideoxyribonucleotides have structure similar to the corresponding deoxyribonucleotides. They can be incorporated into the synthesizing DNA strand, but when a dideoxyribonucleotide is incorporated, the synthesis of the strand is terminated. Since the incorporation of a dideoxyribonucleotide is a random process, DNA fragments of different lengths will be produced in the test tubes.
+After the DNA fragments were synthesized, the scientist used gel electrophoresis to separate the DNA fragments in each tube. The molecular space in the gel slab used was so small that DNA fragments with only one nucleotide difference in length could be separated. The diagram below shows part of the DNA bands obtained.
+	
+
+a	Given that the primer bound to the template strand of the gene. Deduce the base sequence on the coding strand of the gene. Briefly explain your answer.														(5 marks)
+
+b	The concentration ratio of deoxyribonucleotides to dideoxyribonuleotides is usually very high, e.g. 100:1. Explain why the ratio cannot be too low.																(2 marks)
+c	The scientist determined the base sequences of the gene in three other organisms (X, Y and Z). The table below shows the base sequences of these organisms.
+Organism	Base sequence	
+X	AAAGTTTAGCTACGTG	
+Y	AGTGTCCCGCTCCGTA	
+Z	AGTGTCCCGCTCCGTG	
+Based on the above information, construct an evolutionary tree to show the phylogenetic relationship between organisms W, X, Y and Z.	(2 marks)
+
+-- answer --
+a	GAAGTTTAGCTCCGTA										1m
+As the incorporation of dideoxynucleotides into the synthesizing DNA strand is a random process, DNA fragments terminated at each nucleotide of the gene were produced. 												1m
+During gel electrophoresis, the DNA fragments were separated according to their length. Shorter DNA fragments, which terminated at a position nearer the primer, moved faster. They could be found at a position nearer the bottom of the gel.																1m
+When the gel was examined from the bottom to the top, there was only one nucleotide difference (the last nucleotide) in the DNA fragments of the adjacent bands.													1m
+All the fragments terminated at A were produced in tube A, and those terminated at T, C and G were produced in tubes T, C and G respectively. Thus the lane in which the DNA band appeared indicated the last nucleotide of the DNA fragment.	1m
+
+
+
+
+
+
+
+
+
+
+Note:
+The base sequences of the DNA fragments in some of the DNA bands are shown below:
+
+
+b	If the ratio is too low, the dideoxyribonuleotides will be incorporated into the DNA strands too often. All the DNA fragments produced will be short.			1m
+The DNA sequence further away from the primer cannot be determined because longer DNA fragments cannot be produced.							1m
+c	
+																2m
+Note:
+When constructing the evolutionary tree, it is assumed that the fewer the differences in the base sequences of the gene, the fewer the mutations which have occurred and the closer the phylogenetic relationship.
+
+	
+---------------------------------------------------
+
+[10284787]
+// Graph interpretation // STSE connections // Schematic diagram //
+(**Bt maize is a genetically modified plant that can produce a toxin called Bt toxin to kill insects feeding on it. To produce Bt maize, the gene for Bt toxin is obtained from the bacterium Bacillus thuringiensis and inserted into isolated maize cells. New plants are then grown from the cells. When an insect such as caterpillar eats the plant, the unusually high pH (about pH 10) in the insect's gut activates Bt toxin. Bt toxin then binds to receptors in the wall of the gut and kills the insect.
+	
+a	Give one advantage of inserting the gene for Bt toxin into isolated maize cells over inserting the gene into cells in a plant directly. Explain your answer.												(2 marks)
+b	Based on the information provided, give two reasons why Bt toxin is not poisonous to humans and it is safe for humans to eat Bt maize. Explain your answer.												(4 marks)
+c	Maize with high resistance to insects can be produced by crossing maize plants of different varieties. The maize produced is called hybrid maize. In an investigation, the yields of traditional maize, hybrid maize and Bt maize in different regions (P, Q, R, S, T and U) of a country were compared. The graph below shows the results.
+	
+i	Suggest why the yields of maize vary in different regions.	(1 mark)
+ii	Bt maize gives the highest yields in all the regions. However, some farmers still choose to grow hybrid maize. Suggest two reasons to explain.											(2 marks)
+
+-- answer --
+a	All the cells in the plants obtained can produce Bt toxin if the gene is inserted into isolated maize cells.											1m
+It is because after the gene is inserted into the cells, the cells divide and differentiate to form new plants. All the cells in the plants are genetically identical. Thus, all the cells in the plants carry the gene for Bt toxin.				1m
+b	The pH in the digestive system of humans is lower than pH 10.			1m
+Without suitable pH, Bt toxin cannot be activated.					1m
+There is no receptor for Bt toxin in the digestive system of humans.		1m
+Bt toxin cannot bind to receptors. Thus, Bt toxin cannot exert its effect.		1m
+(or other reasonable answers)
+c	i	The yields of maize are affected by abiotic factors in different regions (e.g. temperature, light and rainfall).								1m
+ii	In some regions (such as U), the difference in the yields of Bt maize and hybrid maize is small.										1m
+Hybrid maize may have other benefits (e.g. a better taste).			1m
+(or other reasonable answers)	
+------------------------------------------------
+
+[10284820]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Antibiotic resistance genes were used as selective markers in the production of human growth hormone (HGH). In the production process, gene for HGH was obtained from human cells. Plasmids containing genes for the resistance to two antibiotics, ampicillin and tetracycline, were obtained from bacteria. The gene for HGH and the plasmids were cut using the same restriction enzyme. They were then mixed and incubated with a DNA ligase. The diagram below shows two types of plasmids formed after incubation.
+
+	
+
+The plasmids formed were then introduced into bacteria. The bacteria were grown on an agar plate to form colonies. The colonies were transferred to an agar plate containing ampicillin (X) using a sterile cloth. The sterile cloth stuck some of the bacteria in each colony and carried them to X. After incubation, the colonies on X were transferred to an agar plate containing tetracycline (Y). The diagram below shows the process.
+
+	
+
+The diagrams below show the colonies on the agar plates after incubation.
+
+	
+
+a	Why were two types of plasmids formed after incubating the gene for HGH and the plasmids with the DNA ligase?						(2 marks)
+b	Explain why some colonies were formed on X.				(2 marks)
+c	Based on the information provided, state the bacteria in which of the colonies were likely to carry the gene for HGH. Explain your answer.
+														(4 marks)
+d	State one possible danger of using plasmids containing antibiotic resistance genes in recombinant DNA technology. Explain your answer.	(2 marks)
+
+-- answer --
+a	During ligation, some cut plasmids joined with the gene for HGH. These plasmids have the gene inserted. 										1m
+Some cut plasmids joined by themselves and restored to the original form without picking up the gene for HGH.									1m
+b	Some bacteria picked up the plasmids. They carried the ampicillin resistance gene.													1m
+They were able to grow on X and form colonies.						1m
+c	R														1m
+The bacteria in R could not survive on Y.							1m
+The insertion of gene for HGH into the plasmid interrupts the tetracycline resistance gene. 											1m
+This causes the tetracycline resistance gene to become non-functional. 	1m
+d	Pathogens may become antibiotic resistant if they pick up the plasmids.	1m
+This may lead to outbreaks of incurable diseases.					1m	
+---------------------------------------------------
+
+[10284826]
+// Graph interpretation // Calculation // Applying concepts //
+(*	A scientist produced copies of a certain segment of a gene using polymerase chain reaction (PCR). He mixed a DNA sample with two different types of primers, DNA polymerase and nucleotides and put the reaction mixture in a thermal cycler. The graph below shows how the temperature of the reaction mixture changed in one cycle of PCR.
+	
+
+a	Explain why DNA polymerase from human sources should not be used in the thermal cycler.										(1 mark)
+b	Why were two different types of primers needed to produce copies of the target sequence?										(2 marks)
+c	Briefly describe what happened in the reaction mixture during stages P, Q and R of the PCR cycle.									(3 marks)
+d	At the beginning of PCR, there were 100 DNA molecules containing the target sequence in the DNA sample. How many DNA molecules containing the target sequence would be present if the DNA underwent the PCR cycle repeatedly for 50 minutes?								(1 mark)
+e	Copies of the target sequence can also be produced by introducing the target sequence into bacteria using the recombinant DNA technology.
+i	Describe how copies of the target sequence are produced in these bacteria.											(2 marks)
+ii	Compared with PCR, what is the disadvantage of using the recombinant DNA technology to produce copies of the target sequence?													(1 mark)
+
+-- answer --
+a	It would be denatured at high temperatures and become functionless.		1m
+b	Each type of primers was complementary to one end of the target sequence on one DNA strand.											1m
+The base sequences at the two ends of the target sequence were different.	1m
+c	During stage P, the double helix of the DNA sample separated into two single DNA strands by the high temperatures.								1m
+During stage Q, the two different primers annealed to the single-stranded DNA templates by complementary base pairing.							1m
+During stage R, the DNA polymerase catalysed the addition of free nucleotides to the primers to form new DNA strands.								1m
+d	100 ( 2(50(5) = 102 400										1m
+e	i	The recombinant plasmid containing the target sequence replicates independently in the bacteria.								1m
+The recombinant plasmid containing the target sequence is also copied to daughter cells when the bacteria divide.						1m
+ii	It takes a longer time to produce copies of the target sequence.		1m	
+---------------------------------------------------
+
+[10284834]
+// Schematic diagram // Applying concepts //
+(*	To produce human growth hormone using bacteria, a scientist used the following plasmid which contained genes for resistance to two antibiotics, ampicillin and tetracycline. She inserted the human growth hormone gene within the tetracycline resistance gene in the plasmid.
+
+	
+
+
+a	Describe how the scientist inserted the human growth hormone gene into the above plasmid.										(3 marks)
+b	The genes for resistance to antibiotics allowed the scientist to identify bacteria that have taken up the recombinant plasmid inserted with the human growth hormone gene. Explain whether bacteria that have taken up the following circles of DNA were or were not resistant to ampicillin, to tetracycline or to both. 
+i	An unaltered plasmid 								(2 marks)
+ii	A recombinant plasmid inserted with the human growth hormone gene													(2 marks)
+iii	A circle of DNA formed by the human growth hormone gene															(2 marks)
+c	The scientist selected the bacteria that have taken up the recombinant plasmid and cultured them in a fermenter. Explain how the elimination of other useless bacteria would increase the efficiency of the production of human growth hormone.									(1 mark)
+
+-- answer --
+a	She treated the plasmid with a restriction enzyme which cut within the tetracycline 	resistance gene and produced sticky ends.							1m
+	She cut the DNA fragment containing the human growth hormone gene with the 	same restriction enzyme to produce sticky ends.						1m
+	She joined the human growth hormone gene and the plasmid together using a 	DNA ligase.												1m
+b	i	The bacteria were resistant to both ampicillin and tetracycline		1m
+because the unaltered plasmid contained both the ampicillin resistance gene and the tetracycline resistance gene.							1m
+ii	The bacteria were resistant to ampicillin but not tetracycline			1m
+because the recombinant plasmid contained the ampicillin resistance gene and insertion of the human growth hormone gene interrupts the
+tetracycline resistance gene.								1m
+iii	The bacteria were not resistant to both ampicillin and tetracycline		1m
+because the circle of DNA formed by the human growth hormone gene did 	not contain the ampicillin resistance gene nor the tetracycline resistance 		gene.												1m
+c	Nutrients would be provided only to the bacteria that can produce human growth 	hormone. / Competition between the bacteria that can produce human growth 	hormone and other unwanted bacteria would be reduced. 
+	(or other correct answers)										1m	
+---------------------------------------------------
+
+[10284835]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows some steps involved in the production of pest-resistant GM maize plants.
+	
+
+a	Describe how sticky ends of the DNA fragment containing the toxin gene and sticky ends of the open plasmid are produced. 			(1 mark)
+b	Why can the sticky ends of the DNA fragment containing the toxin gene join to the sticky ends of the open plasmid?					(2 marks)
+c	Describe how the transformed Agrobacterium is used to produce pest-resistant GM maize plants.							(3 marks)
+d	State one benefit and one potential hazard of the production of pest-resistant GM maize plants. 							(2 marks)
+
+
+
+-- answer --
+a	Both the DNA fragment containing the toxin gene and the plasmid are cut using the 	same restriction enzyme.										1m
+b	The unpaired bases in the sticky ends of the DNA fragment are complementary to 	those in the sticky ends of the plasmid.							1m
+	Under the action of DNA ligase, the sticky ends of the DNA fragment and the 	plasmid are joined by covalent bonds.								1m
+c	The transformed Agrobacterium is allowed to infect a maize cell.			1m
+	During infection, the bacterial toxin gene is integrated into the DNA of the maize 		cell.														1m
+	The GM maize plant developed from the maize cell has the ability to produce a 	bacterial toxin which kills insect pests.								1m
+d	Benefit: 
+	Growing pest-resistant GM maize plants can reduce the use of chemical 	pesticides and thus help reducing pollution problems.					1m
+	Potential hazard: 
+	GM maize plants may transfer their genes to the wild types (cause genetic 	pollution). These genes may have unexpected and dangerous effects.		1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10284846]
+// Overseas exam question // Cross-topic // Applying concepts //
+(*	The human protein, insulin, is involved in the homeostatic control of blood 
+sugar. Most artificially produced human insulin is currently produced by genetically modified bacteria, but several companies are now investigating the possibility of producing human insulin using the safflower plant, a plant which is normally grown for its oil. This method would allow large scale production and, in theory, one large North American farm would be capable of meeting the global demand for insulin.
+The first stage in this process would be the isolation and removal of the human insulin gene. Once isolated, the gene is then placed into a vector. One example of such a vector is the bacterium, Agrobacterium tumefaciens, a relatively common soil bacterium that regularly infects plants.
+a	Describe how the human insulin gene could be inserted into the bacterium, Agrobacterium tumefaciens.								(4 marks)
+The genetically modified bacterium is then allowed to infect a sample of cells extracted from the safflower plant and these infected cells can be grown into mature plants, each being capable of producing human insulin. The human insulin produced by these plants appears to be fully effective in the treatment of diabetes mellitus. However, a patient's blood insulin cannot be raised by simply eating transgenic safflower plants.
+b	Suggest why eating safflower plants containing insulin would not result in an increase in the patient's blood insulin levels.				(2 marks)
+One possible risk of growing a genetically modified crop in this way is that it might interbreed with wild plants. Pharmaceutical companies try to minimize such risk by growing the crop 'counter-seasonally' to reduce the chances of the insulin gene being transferred to other plants.
+c	Suggest what is meant by the term 'counter-seasonally'.		(1 mark)
+						CCEA GCE (AS) Biology Module 1 Jun 2009 Q7b-d
+
+-- answer --
+a	A plasmid obtained from the bacterium and the human insulin gene are cut with the same restriction enzyme. 										1m
+The sticky ends allow the plasmid and the human insulin gene to bind together with hydrogen bonds. 										1m
+A DNA ligase catalyses the joining of the plasmid and the human insulin gene by helping the formation of covalent bonds. 							1m
+A bacterium takes up the plasmid.								1m
+b	Insulin is a protein. It will be digested / broken down if it is ingested.		1m
+The absorbed amino acids cannot be reassembled into insulin in the body due to the lack of a functional gene.									1m
+c	Genetically modified plants flower when other plants are not flowering to reduce the chances of cross-pollination.									1m	
+---------------------------------------------------
+
+[10284862]
+// Overseas exam question // Cross-topic // STSE connections //
+(*	The diagram below represents the processes involved in the polymerase chain reaction (PCR). This technique allows forensic scientists to analyse and potentially match DNA samples left at the scene of a crime.
+	
+a	What advantage does PCR offer to forensic scientists?			(1 mark)
+b	i	In step 1, what is the purpose of heating the DNA sample to 95 °C?														(2 marks)
+ii	Primers, each containing roughly twenty bases are also added to the DNA sample in step 1. What is the purpose of these primers in the process?											(1 mark)
+iii	Name the enzyme that would be added to the DNA sample in step 2.														(1 mark)
+iv	What else should be added to the process in step 2 to allow successful replication of the DNA sample?						(1 mark)
+c	In step 3, replication of the DNA is completed. Describe the sequence of events, following the separation of the DNA strands in step 1, which lead to the DNA being replicated.								(3 marks)
+The heating of the DNA sample to 95 °C in step 1 could denature the enzymes involved.
+d	i	Describe precisely how high temperatures could denature the enzymes.													(1 mark)
+ii	Suggest how scientists have solved this potential problem.	(1 mark)
+e	In some legal cases, the use of PCR has been discredited. Suggest one possible source of error in the PCR process.					(1 mark)
+		  CCEA GCE (AS) Biology (New Specification) Module 1 Jun 2009 Q7
+-- answer --
+a	A large number of DNA copies can be synthesized from a single DNA sample. / 
+It can be used in DNA fingerprinting.							1m
+b	i	Heating breaks the hydrogen bonds between DNA strands.		1m 
+Two separate strands are formed. / Both strands can act as templates.															1m
+ii	Primers stop the two DNA strands from rejoining. / 
+Primers initiate the action of DNA polymerase. / 
+Primers can be used to bracket the regions of DNA to be amplified.															1m
+iii	DNA polymerase									1m
+iv	Free nucleotides									1m
+c	The mixture is cooled to allow the binding of primers with the strands of DNA. /
+Temperature is then increased. / 
+Each DNA strand acts as a template. /
+Nucleotides bind to the complementary bases on DNA (A-T, C-G, T-A, G-C). / 
+Nucleotides are held in place by hydrogen bonds between the complementary bases. / 
+Adjacent nucleotides are joined by forming covalent bonds. (any 3)	1m x 3
+d	i	Heating breaks the bonds that hold the enzymes in shape / changes the active sites of the enzymes.							1m
+ii	Use heat-stable enzymes / enzymes extracted from thermophilic bacteria.														1m
+e	The DNA sample may be contaminated. / 
+Errors may occur in the replication process. 
+(or other reasonable answers)								1m	
+--------------------------------------------------- 
+
+[10284868]
+// Overseas exam question // Comparison // Calculation //
+(*	a	Nucleic acids are composed of nucleotides. Complete the table below to give two ways in which the structure of a DNA nucleotide differs from that of an RNA nucleotide.
+	DNA nucleotide	RNA nucleotide	
+1			
+2			
+														(2 marks)
+b	The polymerase chain reaction (PCR) enables many copies of DNA to be made from a small sample. The diagram below summarizes the procedure.
+	
+i	Explain what is happening at each of the steps indicated.	(3 marks)
+ii	At the end of the first cycle, there are two molecules of DNA.
+How many molecules will there be at the end of five cycles?															(1 mark)
+c	Explain, precisely, how restriction enzymes cut DNA molecules into fragments.											(2 marks)
+d	A DNA fragment, consisting of 24 base pairs, was analysed for the number of different bases on each strand. The table below shows some of the results. Determine the missing values and complete the table.
+	Number of bases	
+	A	G	T	C	
+Strand 1	7	8			
+Strand 2	4				
+														(2 marks)
+		 CCEA GCE (AS) Biology (New Specification) Module 1 Jan 2009 Q7
+-- answer --
+a	
+
+DNA nucleotide
+RNA nucleotide
+
+1
+A DNA nucleotide has the sugar deoxyribose.
+A RNA nucleotide has the sugar ribose.
+
+2
+A DNA nucleotide may have the base thymine.
+A RNA nucleotide may have the base uracil.
+
+														1m x 2
+b	i	Step 1:
+Heat the reaction mixture to separate the DNA strands / break the hydrogen bonds to release the two strands.						1m
+Step 2:
+Add primers to the reaction mixture.						1m
+Step 3:
+Use DNA polymerase to extend the primers by joining free nucleotides which are complementary to the templates. / Nucleotides attach to the DNA strands through complementary base pairing (A pairs with T and C pairs with G). 														1m
+ii	32												1m
+c	Restriction enzymes cut DNA molecules at specific base sequences, 	1m
+across the sugar-phosphate backbone.						1m
+d	
+
+Number of bases
+
+
+A
+G
+T
+C
+
+Strand 1
+7
+8
+4
+5
+
+Strand 2
+4
+5
+7
+8
+
+														2m	
+---------------------------------------------------
+
+[10284889]
+// Data handling // Schematic diagram // Applying concepts //
+(*	A restriction enzyme, EcoRI, acts on DNA by cutting it at the sequence shown below.
+	
+
+a	What is a sticky end?									(1 mark)
+b	State the base sequence of the bases in the sticky end on strand Y.																(1 mark)
+c	The diagram below shows the positions of four restriction sites, W, X, Y and Z, in a plasmid. The distances between these sites are measured in kb (1 kb = 1000 base pairs)
+	
+Scientists mixed EcoRI with the plasmid and he separated the resulting DNA fragments by gel electrophoresis. The diagram below shows the positions of the DNA bands in the gel.
+	
+It is known that two of the restriction sites in the plasmids can be cut by EcoRI. Which of the restriction sites were cut? Explain your answer.																(4 marks)
+d	Explain why the DNA fragments moved at different speed in the gel.																(1 mark)
+
+-- answer --
+a	A sticky end is a short length of single-stranded DNA at the cut end of the DNA fragments.													1m
+b	TTAA													1m
+c	X and Z													2m
+The 60 kb DNA fragment consists of the 10 kb and 50 kb segments. 		1m
+The 40 kb DNA fragment consists of the 15 kb and 25 kb segments.		1m
+d	The molecular spaces in the gel slab allowed shorter DNA fragments to move faster than the longer ones.									1m	
+---------------------------------------------------
+
+[10284920]
+// Schematic diagram // Basic concepts //
+(	Human insulin can be produced using genetic engineering. The diagram below shows part of the process.
+	
+
+a	Name two enzymes that are used in stage X. 				(2 marks)
+b	Many copies of the DNA encoding human insulin are required. Name the technique which can be used to amplify a specific DNA fragment from a small amount of DNA.									(1 mark)
+c	i	In stage X, which structure in the bacterial cell is the human DNA incorporated into?									(1 mark)
+ii	Explain the role of this structure in genetic engineering.	(2 marks)
+iii	Describe three properties of this structure which make it ideal for use in genetic engineering.								(3 marks)
+
+d	Explain why the bacteria are grown in culture medium containing an antibiotic.												(2 marks)
+e	In the past, insulin for injection was extracted from the pancreases of cattle or sheep. State two advantages of producing insulin using genetic engineering over the extraction of insulin from animal pancreases.																(2 marks)
+-- answer --
+a	Restriction enzyme										1m
+DNA ligase											1m
+b	Polymerase chain reaction									1m 
+c	i	Plasmid											1m
+ii	The plasmid acts as a vector 							1m
+to carry the DNA encoding human insulin into the bacterial cell.	1m
+iii	It can pick up foreign DNA easily. /
+It can be picked up by host cells because of its small size. /
+It can replicate independently of the host cell's chromosome and exist in multiple copies in host cells. /
+It usually carries an antibiotic resistance gene which allows the selection of transformed cells. (any 3)								1m x 3
+d	To select the transformed bacteria.							1m
+Only the transformed bacteria which carry an antibiotic resistance gene survive in the culture medium. 										1m
+e	The insulin produced is not rejected by the immune system. /
+The insulin produced is pure. /
+The product yield is much higher. /
+The extraction cost is lower. (any 2) 							1m x 2	
+---------------------------------------------------
+
+
+[10284927]
+// Calculation // Schematic diagram // Applying concepts //
+(*	Scientists tried to produce a genetically modified bacterium, which can be used to make a useful protein. They first obtained some DNA fragments containing the gene for the protein and performed polymerase chain reaction (PCR). The flow chart below shows the steps in one PCR cycle.
+	
+a	Explain why PCR was performed.							(1 mark)	
+b	Why was the reaction mixture heated to 95 °C?				(1 mark)
+c	What is the role of the primers?							(1 mark)	
+d	Explain why heat-stable DNA polymerase was used in PCR.	(1 mark)
+e	If one DNA molecule was present in the reaction mixture before PCR started, how many copies of the DNA molecules were present in the reaction mixture after five PCR cycles?						(1 mark)
+f	After cycles of PCR, the DNA fragments containing the gene for the protein were cut using a restriction enzyme. Three restriction enzymes and their corresponding recognition sites are shown below.
+Restriction enzyme	Recognition site	
+X		
+Y		
+Z		
+	
+i	Explain why X and Y are more useful than Z in recombinant DNA technology.										(2 marks)
+
+ii	The base sequence of the DNA fragment containing the gene for the protein is shown below.
+	
+The scientists want to insert the gene into plasmids. Which restriction enzymes, X or Y, should be used to cut the DNA fragments? Explain your answer.										(3 marks)
+iii	Name an enzyme that can be used to join the resulting DNA fragments and the plasmids together.							(1 mark)
+g	The plasmids used in recombinant DNA technology usually carry an antibiotic resistance gene. What is the importance of this?		(1 mark)
+-- answer --
+a	To amplify the gene. / 
+To increase the quantity of the gene. 								1m
+b	To separate the double helix of the DNA fragment into two single DNA strands by breaking the hydrogen bonds between the base pairs in the DNA. 		1m
+c	To bracket the DNA region to be amplified. /
+To serve as starting points for DNA synthesis. /
+To stop the two DNA strands from rejoining.							1m
+d	Heat-stable DNA polymerase would not be denatured when the reaction mixture was heated to high temperatures in PCR cycles.						1m
+e	25 = 32 copies												1m
+f	i	X and Y leave sticky ends on the DNA fragments after cutting.		1m
+The unpaired bases in the sticky ends of DNA fragments cut with the same restriction enzyme can bind together with hydrogen bonds. This facilitates the joining of the DNA fragments.								1m
+ii	X													1m
+X cuts outside the gene.									1m
+Y cuts within the gene. This destroys the gene.					1m
+iii	DNA ligase											1m
+g	The antibiotic resistance gene acts as a selective marker to allow the selection of transformed cells.											1m	
+---------------------------------------------------
+
+
+[10284930]
+// Drawing // Schematic diagram // Applying concepts //
+(*	Genetically modified bacteria can be used to produce human insulin. DNA encoding human insulin is introduced into bacteria by recombinant DNA technology. In the process, a restriction enzyme is used to cut DNA.
+BamHI is a commonly used restriction enzyme. Its recognition site is shown below.
+								
+a	The base sequence of a DNA fragment is shown below. Draw dotted lines to shown how BamHI cuts the DNA fragment.					(2 marks)
+	
+b	Explain why BamHI is useful in recombinant DNA technology.	(2 marks)
+c	Name the enzyme used to join DNA fragments.				(1 mark)
+A recombinant plasmid is shown below.
+	
+The recombinant plasmid is mixed with bacteria. The bacteria are then cultured on an agar plate containing the antibiotic ampicillin.
+d	Explain why the bacteria have to be cultured on an agar plate containing ampicillin.											(3 marks)
+The bacteria on the agar plate are then cultured in fermenters. They produce polypeptides, which can be processed into human insulin.
+e	State two advantages of producing insulin using this method over the extraction of insulin from animal pancreases.					(2 marks)
+-- answer --
+a	
+																		1m x 2
+b	BamHI leaves sticky ends on the DNA fragments after cutting.		1m
+The unpaired bases in the sticky ends of the DNA fragments cut with the same restriction enzyme can bind together with hydrogen bonds. This facilitates the joining of the DNA fragments.								1m
+c	DNA ligase											1m
+d	Only some of the bacteria have picked up the recombinant plasmid / are transformed.											1m
+Only the transformed bacteria which carry an ampicillin resistance gene survive on the agar plate containing ampicillin. 							1m
+Culturing the bacteria on the agar plate containing ampicillin allows the selection of transformed bacteria. 									1m
+e	The insulin produced is not rejected by the immune system. /
+The insulin produced is pure. /
+The product yield is much higher. /
+The extraction cost is lower. (any 2) 							1m x 2	
+---------------------------------------------------
+
+
+[10284975]
+// Cross-topic // Reading comprehension // High order thinking // Calculation //
+(**Read the following article and answer the questions.
+Leukaemia is a kind of cancer. Scientists found that in some patients it is caused by a specific type of translocation mutation.
+Polymerase chain reaction (PCR) can be used to detect this mutation for the diagnosis of leukaemia. mRNA is first extracted from the cells of a person who is suspected to have leukaemia. Single-stranded DNA is synthesized using mRNA. 
+
+The DNA is then amplified by PCR. Two different primers are used. Each primer can bind to a region on the DNA or its complementary strand of DNA. The two regions flank the junction where two chromosome segments join in the translocation mutation.
+
+The DNA fragments in the PCR product are then separated by gel electrophoresis. A specific band will appear in the gel only if the person has the mutation.	
+
+a	What is a translocation mutation?							(1 mark)
+b	State how mutations may lead to the onset of cancer.			(1 mark)
+c	Calculate how many double-stranded DNA molecules would be present in the reaction mixture at the end of cycle 6 of PCR.				(2 marks)
+d	Explain why a specific band will appear in the gel only if the person has the translocation mutation in the genome.						(3 marks)
+e	Suggest two advantages of using PCR in disease diagnosis.		(2 marks)
+
+-- answer --
+a	A translocation mutation is the exchange of segments of chromosomes between non-homologous chromosomes.									1m
+b	Mutations in the DNA that controls cell division may lead to uncontrollable division of the cells.												1m
+c	2(6-1) 													1m
+= 32														1m
+d	The translocation mutation brings the segments of chromosomes from two chromosomes together.										1m
+If the mutation does occur, the two primers will bind to both the DNA strands in cycle 2 and amplification of the DNA molecule results.					1m
+If the mutation does not occur, only one primer will bind to one of the two DNA strands in cycle 2. Amplification of the DNA molecule cannot be carried out.	1m
+e	It is a fast method.											1m
+Only a small amount of sample is needed.							1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10284987]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the major steps of cloning using nuclear transfer. 
+	
+The embryo obtained can develop into a whole person.
+a	Is the genetic make-up of the clone identical to that of individual X or individual Y? Explain your answer.						(2 marks)
+b	Discuss the ethical issues raised by the cloning of a whole person.																(2 marks)
+Stem cells obtained from embryos can be used in the treatment of diseases.
+c	Describe how stem cells are used in the treatment of diseases.	(1 mark)
+d	State one ethical problem concerning the isolation of stem cells from embryos. 											(2 marks)
+e	State one possible alternative method to obtain cells for stem cell therapy.															(1 mark)
+-- answer --
+a	Individual X											1m
+It is because the genetic material / DNA / nucleus of the resulting cell is provided by individual X.											1m
+b	The relationship between human clones and their nucleus donors is unclear. /
+Human clones lack self-identity. /
+Cloning of humans may lead to the making of 'designer babies' / may lower the value of life. / 
+Some embryos are wasted in the process. / Lives are sacrificed in the process. 
+(any 2 or other reasonable answers)							1m x 2
+c	Stem cells are used to replace damaged or abnormal cells.			1m
+d	The isolation of stem cells from embryos involves the destruction of embryos.															1m
+Destroying an embryo can be considered as an act of murder. / 
+It is not ethical to save one life by destroying another. / 
+Creating a life that is then destroyed lower the value of life. 
+(or other reasonable answers)								1m
+e	Use adult stem cells which can be obtained from tissues like blood and skeletal muscles instead. / 
+Re-program differentiated cells to become undifferentiated cells.		1m	
+---------------------------------------------------
+
+[10284994]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the production of genetically modified (GM) sheep. The sheep can produce a human protein for medical use. The protein can be collected in the milk of the sheep.
+
+	
+
+a	Give three advantages of using mammals to produce human proteins over the use of bacteria.										(3 marks)
+b	Discuss the public concern over the use of animals to produce human proteins.												(5 marks)
+
+-- answer --
+a	Bacteria may produce toxins which are harmful to humans while mammals do not produce toxins. 											1m
+Bacteria are more sensitive to changes in environmental conditions. 		1m
+It is easier to isolate human proteins from the milk than from the bacterial culture. 															1m
+(or other reasonable answers)
+b	Humans should not play the role of God or unnaturally interfere with nature in producing GM animals.										1m
+GM animals may transfer their genes to the wild types, causing genetic pollution. 																1m
+The modification of the genes of GM animals may pose risks to their health.	1m 
+The disposal of malformed animals produced in the process may cause problems. 															1m
+The relationship between humans and animals has to be redefined. 		1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+

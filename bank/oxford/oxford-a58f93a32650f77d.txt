@@ -1,0 +1,2863 @@
+Chapter 15		Detecting the environment 
+
+Multiple-choice questions
+
+[10271729]
+// Graph interpretation // High order thinking // Experiment //
+**	An investigation about the sensitivity of the eye was carried out. A normal person was exposed to bright light in a room for a period of time. The lights were then turned off and a purple light spot was turned on. The person was asked to adjust the intensity of the light spot to the lowest level that he could still observe. The intensity of the light spot was recorded. The graph below shows the results. It was reported that the purple colour of the light spot was not noticeable after 10 minutes.
+	
+
+Which of the following can be deduced from the above information?
+The sensitivity of the eye increased gradually over time after lights were turned off.
+The sensitivity of cone cells to light was the same as or higher than that of rod cells during the first 10 minutes.
+Rod cells were not stimulated during the first 10 minutes.
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+B
+Note:
+During the first 10 minutes, the person could see the purple colour of the light spot. This indicates that cone cells were involved in detecting the light of lowest intensity. After 10 minutes, the person could not see the purple colour. This indicates that cone cells were not involved in detecting the light of lowest intensity.
+
+	
+---------------------------------------------------
+
+[10271730]
+// Graph interpretation // Applying concepts //
+**	The graph below shows the densities of two types of photoreceptors (X and Y) in the retina of the human eye.
+	
+
+Which of the following information can be used to identify the two types of photoreceptors?
+(1)	The density of Y is the highest at the centre of the retina. 
+(2)	The density of X is higher than that of Y at the periphery of the retina. 
+(3)	The density of X is 0 at point P. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10271750]
+// Graph interpretation // Applying concepts //
+**	The graph below shows the degree of contraction of ciliary muscles in an eye of a person in a period of time. During the period, the eye was focusing on a bird. 
+	
+Which of the following statements are correct?
+(1)	During period X, the lens was becoming less convex.
+(2)	During period Y, the tension in the suspensory ligaments was decreasing.
+(3)	During period Z, the bird was approaching the person.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10271767]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	A student used the set-up below to test the hypothesis 'uneven distribution of auxin causes the bending of the coleoptile'.
+	
+Which of the following is a suitable control set-up?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10271773]
+// Basic concepts //
+	Which of the following structures of a human eye does not contain pigments?
+A	choroid
+B	retina
+	C	cornea
+	D	iris
+C	
+---------------------------------------------------
+
+[10271786]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the conditions of the ciliary muscles of the eyes of a woman as she is looking at a butterfly moving from a flower to another.
+	
+	During which time period is the butterfly moving towards the woman?
+A	(1)
+B	(2)
+C	(3)
+D	(4)
+D	
+---------------------------------------------------
+
+
+[10271788]
+// Comparison //
+*	Which of the following comparisons between rod cells and cone cells in humans is correct?
+	Rod cells						Cone cells
+A	present in the retina				present in the choroid
+B	work well in dim light			work well in bright light	
+	C	concentrated at the blind spot		concentrated at the yellow spot
+	D	black in colour					blue, green or red in colour
+B	
+---------------------------------------------------
+
+[10271816]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the diameter of the pupil of a person's eye in one minute.
+	
+
+What happens to the light intensity in the environment and the radial muscles of the iris at 30 s? 
+		Light intensity		Radial muscles
+A	increasing			relaxing
+B	increasing			contracting
+	C	decreasing			relaxing
+	D	decreasing			contracting
+A	
+---------------------------------------------------
+
+
+[10271821]
+// Schematic diagram // Applying concepts //
+*	The following ray diagrams show the vision of Mike when he looks at two different objects.
+	
+	Which of the following statements is/are correct?
+(1)	To Mike, object X is more distant than object Y.
+	(2)	Mike can see distant objects clearly but not near objects.
+	(3)	Mike can improve his vision by wearing convex lenses.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10271824]
+// Applying concepts //
+*	The colour photograph below shows what a person with normal vision sees.
+	
+
+
+Which of the following is most likely what a patient with a loss of light-sensitive cells in the yellow spot sees?
+	A	colour image, laterally inverted
+	B	colour image, dark edges	
+		
+	C	colour image, centre blurred	
+		D	black and white image		
+		
+
+C	
+---------------------------------------------------
+
+[10271855]
+// Basic concepts //
+	Which of the following is the correct sequence of structures involved in hearing?
+A	pinna ( oval window ( ear bones ( eardrum ( cochlea ( auditory nerve ( brain 
+B	pinna ( eardrum ( ear bones ( oval window ( cochlea ( auditory nerve ( brain
+C	pinna ( eardrum ( ear bones ( round window ( cochlea ( auditory nerve ( brain
+D	pinna ( ear bones ( eardrum ( round window ( cochlea ( auditory nerve ( brain
+B	
+---------------------------------------------------
+
+[10271858]
+// Schematic diagram // Applying concepts //
+*	A cochlea implant can help some deaf people to hear. The diagram below shows how a cochlea implant works.
+
+	Which of the following persons can benefit from a cochlea implant?
+(1)	persons with severe damage to the auditory nerve 
+	(2)	persons with severe damage to the auditory centre in the brain
+	(3)	persons with severe damage to the cochlea
+A	(1) only					B	(3) only
+	C	(1) and (3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10271875]
+// Experiment // Schematic diagram //
+*	The following coleoptiles were exposed to unilateral light from the left.
+
+
+	After 48 hours, which coleoptiles will remain straight?
+A	(1), (3) and (4) only
+B	(2), (4) and (6) only
+C	(1), (3), (4) and (5) only
+D	(2), (3), (5) and (6) only
+A	
+---------------------------------------------------
+
+[10271896]
+// High order thinking // Experiment // Schematic diagram //
+**	A researcher carried out the following experiment to study the movement of auxins in shoots.
+	
+
+
+What do the results of the experiment suggest about the movement of auxins in shoots?
+(1)	Auxins move from a region of higher concentration to a region of lower concentration.
+	(2)	The movement of auxins requires energy.
+	(3)	Auxins move from the apical end but not the other way round.
+A	(2) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10271899]
+// Basic concepts //
+	In which sense organ(s) are mechanoreceptors present in humans?
+	(1)	the ear
+	(2)	the eye
+	(3)	the skin
+	A	(1) only
+	B	(3) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10271900]
+// Applying concepts //
+*	Which of the following are effectors?
+	(1)	eye muscle
+	(2)	lens
+	(3)	iris
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10271907]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows a section of the eye.
+
+	
+	Which structures are involved in maintaining the shape of the eyeball?
+	A	P and Q only
+	B	Q and R only
+	C	Q, S and U only	
+	D	R, S and T only 	
+C	
+---------------------------------------------------
+
+[10271929]
+// Schematic diagram // Basic concepts //
+	Which structure(s) is/are responsible for refracting light that enters the eye?
+A	T only
+	B	R and T only
+	C	S and U only
+	D	R, S, T and U only
+D	
+---------------------------------------------------
+
+
+[10271933]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the structure of the ear.
+	
+	Which structures contain mechanoreceptors?
+A	P and Q only		
+B	R and S only
+C	P, Q and R only	
+D	Q, S and T only
+B	
+---------------------------------------------------
+
+[10271942]
+// Schematic diagram // Applying concepts //
+*	What would happen to a person if structure P of his ears were ruptured (穿孔的)?
+	A	He would have difficulty in maintaining body balance.
+	B	He would not be able to hear any sound.
+	C	The sound he hears would become weaker.
+	D	The sound he hears would become louder.
+C	
+---------------------------------------------------
+
+
+[10271946]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows an investigation of the growth response of oat coleoptiles.
+	
+	Which coleoptiles will show bending after two days?
+	A	W and Z only			B	X and Y only
+	C	Y and Z only			D	W, Y and Z only
+A	
+---------------------------------------------------
+
+[10271961]
+// Graph interpretation // Basic concepts //
+*	The graph below shows the effect of auxin concentration on the growth of roots and shoots of oat seedlings.
+	
+
+
+Which of the following statements about the effect of auxin concentration on the growth of roots and shoots is incorrect?
+A	Very high auxin concentrations inhibit both root and shoot growth.
+B	Auxin concentrations of 10-6 to 10-2 ppm promote root growth but inhibit shoot growth.
+C	Auxin concentrations of 10-2 to 102 ppm promote shoot growth but inhibit root growth.
+	D	Auxin concentration of 10-3 ppm promotes both root and shoot growth.
+B	
+---------------------------------------------------
+
+[10271962]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the distribution of two types of light-sensitive cells on the retina of a human eye.
+	
+	Which of the following statements about position X is incorrect?
+	A	It allows clear vision at night when an image falls on it.
+	B	Blood vessels are present.
+	C	Objects are seen most sharply in focus if their images fall on it.
+	D	Nerve fibres are present to transmit nerve impulses to the brain.
+A	
+---------------------------------------------------
+
+
+[10272007]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the distribution of two types of light-sensitive cells on the retina of a human eye.
+	
+	Which of the following statements about position Y is correct?
+	A	No light-sensitive cells are present.
+	B	No light can fall on it.
+	C	Images formed on it can be seen most sharply.
+	D	No blood vessels are present.
+A	
+---------------------------------------------------
+
+[10272021]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of a human ear.
+	
+
+
+	Which of the following correctly describes the functions of structures X and Y?
+			Structure X				Structure Y
+	A	to collect sound waves		to transmit nerve impulses
+	B	to release the pressure		to transmit nerve impulses
+	C	to collect sound waves		to amplify and transmit vibrations
+	D	to release the pressure		to amplify and transmit vibrations
+C	
+---------------------------------------------------
+
+[10272024]
+// Schematic diagram // Applying concepts //
+	The diagram below shows the structure of a human ear.
+
+	
+
+	A man survived a traffic accident but his structure Y was cut. Which of the following abilities would probably be lost?
+	(1)	hearing
+	(2)	touch sensation of structure X
+	(3)	pain sensation of structure X
+	A	(1) only				
+	B	(3) only	
+	C	(1) and (2) only		
+	D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10272052]
+// STSE connections // Schematic diagram // Applying concepts //
+*	During delivery, sometimes the baby is pulled out of the mother's body using a pair of large forceps. This may press the baby's eyeballs, making the eyeballs becoming longer than usual.
+
+	
+
+What eye defect may result in such case? What can be used to correct this eye defect?
+Eye defect		Corrected by wearing
+A	long sight			convex lens
+B	long sight			concave lens
+C	short sight		convex lens
+D	short sight		concave lens
+D	
+---------------------------------------------------
+
+
+[10272059]
+// STSE connections // Schematic diagram // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows how an artificial retina and other related devices work. They are used to restore limited vision in visually impaired people.
+	
+The artificial retina can help restore limited vision in people with defective
+(1)	lens.
+(2)	light-sensitive cells.	
+(3)	optic nerve.
+(4)	visual centre in the brain.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(3) and (4) only
+A	
+---------------------------------------------------
+
+[10272066]
+// STSE connections // Schematic diagram // Applying concepts //
+**	Which of the following are the limitations of the artificial retina?
+(1)	The artificial retina cannot be used in dim light conditions. 
+(2)	Surgery is needed to install the artificial retina.
+(3)	The eyeball must be present for installation of the artificial retina.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(3) and (4) only
+C	
+---------------------------------------------------
+[10272067]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the cross section of the tube of the cochlea.
+
+	
+
+Which of the following statements about canals X, Y and Z is incorrect?
+A	Canal X is connected to the round window while canal Y is connected to the oval window.
+B	Canals X, Y and Z are filled with fluid.
+C	The fluid in canal X is continuous with that in canal Z.
+D	Canal Y contains receptors for hearing.
+A	
+---------------------------------------------------
+
+[10272081]
+// Schematic diagram // Applying concepts //
+*	A baby was born without any cells P in the cochlea. What will happen to the baby? 
+A	The sound that the baby hears will have a lower volume than usual.
+B	The baby cannot detect the directions of its head movements.
+C	The baby cannot maintain body balance.
+D	The baby cannot hear any sound.
+D	
+---------------------------------------------------
+
+
+[10272086]
+// STSE connections // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows how a cochlear implant inside an ear works. The cochlear implant is used to restore hearing of some deaf people.
+	
+The cochlear can help restore hearing of which kind(s) of deaf people?
+(1)	deaf people with defective sensory hair cells
+(2)	deaf people with defective ear bones
+(3)	deaf people with defective auditory centre in the brain
+A	(1) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10272092]
+// STSE connections // Schematic diagram // Applying concepts //
+*	What are the natures of the messages picked up by the sound processor of the cochlear implant and the messages sent along the auditory nerve to the brain?
+	Messages picked up by the sound processor	Messages sent along the auditory nerve	
+A	vibrations		vibrations		
+B	vibrations		electrical signals	
+C	electrical signals 	vibrations		
+D	electrical signals	electrical signals	
+
+B	
+---------------------------------------------------
+[10272099]
+// Schematic diagram // Basic concepts //
+*	Sound collected by the ear is converted to different forms in the ear before reaching the brain. 
+	
+What are W, X, Y and Z?
+	W	X	Y	Z	
+A	sound waves	vibrations	vibrations	vibrations	
+B	sound waves	vibrations	electrical signals	electrical signals	
+C	vibrations	vibrations	vibrations	electrical signals	
+D	vibrations	sound waves	electrical signals	electrical signals	
+
+C	
+---------------------------------------------------
+
+[10272117]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the shoot of a plant. The shoot is bending towards the light source.
+	
+
+
+In which area is auxin produced and in which area does auxin exert its effect?
+Where auxin is produced		Where auxin exerts its effect
+A	X							X
+B	X							Y
+C	X							Z
+D	Y							Z
+B	
+---------------------------------------------------
+
+[10272135]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	Two dishes of seedlings, X and Y, are used in an experiment. The seedlings in dish X receive light from all directions. The seedlings in dish Y are put in a light-proof box with a hole on one side. They receive light from one direction only. The seedlings in both dishes are watered daily. The appearance of the seedlings after two days is shown below.
+	
+To make sure that the experiment is a fair test, which variable(s) must be kept the same in dishes X and Y?
+(1)	the type of seedlings
+(2)	the amount of water used to water the seedlings
+(3)	the intensity of light 
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10272143]
+// Experiment // Schematic diagram // Applying concepts //
+*	A student inserted mica plates below the shoot tips of shoots X and Y as shown below. He then put the shoots under light from all directions.
+	
+What can be observed in shoots X and Y after two days?
+		Shoot X		Shoot Y	
+A			
+B			
+C			
+D			
+
+A	
+---------------------------------------------------
+
+[10272187]
+// Scientific investigation // Schematic diagram // Applying concepts //
+**	In 1913, Boysen-Jenson carried out experiments to show the nature of the substance controlling phototropism. He used agar blocks and mica plates in his experiments because agar allowed chemicals to pass through but mica did not.
+
+	
+
+What can be concluded from the experimental results?
+(1)	The substance controlling phototropism is chemical in nature.
+(2)	The substance controlling phototropism is produced in the coleoptile tip.
+(3)	Uneven distribution of the substance causes the bending of the coleoptile.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10272196]
+// Scientific investigation // Schematic diagram // Applying concepts //
+**	An experiment was carried out to study the effect of light on auxin distribution in coleoptiles. Four coleoptiles, W, X, Y and Z, were treated as shown in the diagram below. They were kept in darkness for two days. The results were as follows.
+Treatment	Results	
+		
+		
+
+Which of the following statements about the experimental results are correct?
+(1)	Coleoptiles W and X show that light does not destroy auxin.
+(2)	Coleoptiles Y and Z show that light causes an uneven distribution of auxin in coleoptiles.
+(3)	Coleoptiles X and Z show that mica plate can stop the lateral movement of auxin.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10272206]
+// Schematic diagram // Applying concepts //
+*	Astigmatism is a common eye defect. Some people with astigmatism develop blurred vision because their corneas become irregularly shaped. This is mostly due to an increased use of the eyes for close work. The diagram below shows the images of letter A seen by a normal eye and an astigmatic eye. 
+	
+Which of the following methods can be used to correct astigmatism caused by an irregularly-shaped cornea?
+(1)	Replacing the lens with an artificial one.
+(2)	Wearing spectacles with special curvature in different regions.
+(3)	Burning away a thin layer of the cornea with a laser beam.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10272209]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the front view of the human eye.
+	
+What happens to muscles X and Y in bright light?
+Muscle X		Muscle Y
+A	contracts		contracts
+B	contracts		relaxes
+C	relaxes 		contracts
+D	relaxes		relaxes
+C	
+---------------------------------------------------
+
+[10272212]
+// Graph interpretation // High order thinking //
+**	Visual acuity is the degree of sharpness of details seen by an eye. Curves P and Q below show the relative visual acuity of the eye under different light intensities.
+	
+What do curves P and Q represent? What are regions R and S on the retina?
+	Curve P		Curve Q		Region R	Region S	
+A	high light intensity	low light intensity	blind spot		yellow spot	
+B	high light intensity	low light intensity	yellow spot	blind spot		
+C	low light intensity	high light intensity	blind spot		yellow spot	
+D	low light intensity	high light intensity	yellow spot	blind spot		
+
+A	
+---------------------------------------------------
+
+
+[10272218]
+// Basic concepts //
+	Phototropism of the shoot is a form of irritability in plants. Which of the following correctly shows the stimulus, receptor and effector in phototropism? 
+	Stimulus	Receptor	Effector	
+A	auxin	cells in the tip of the shoot	cells in the tip of the shoot	
+B	auxin	cells below the tip of the shoot	cells below the tip of the shoot	
+C	light	cells in the tip of the shoot	cells below the tip of the shoot	
+D	light	cells below the tip of the shoot	cells in the tip of the shoot	
+
+C	
+---------------------------------------------------
+
+[10272264]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some structures in the human eye.
+	
+What happens to structures P, Q and R when a student changes his view from reading a book to looking out the window?
+	P	Q	R	
+A	becomes slackened 	becomes more convex	relaxes	
+B	becomes slackened	becomes less convex	contracts	
+C	becomes tightened	becomes more convex	contracts	
+D	becomes tightened	becomes less convex	relaxes	
+
+D	
+---------------------------------------------------
+[10272272]
+// Basic concepts //
+	Which of the following is/are the cause(s) of red-green colour blindness in humans?
+(1)	some cone cells cannot function
+(2)	lack of vitamin A
+(3)	genetic factor
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+D	
+---------------------------------------------------
+
+[10272277]
+// STSE connections // Schematic diagram // Applying concepts //
+*	The diagram below shows how a cochlear implant works. 
+
+	
+
+James has difficulty in hearing but the cochlea implant cannot help him to restore hearing. Which of the following ear defects does James most probably have?
+A	The auditory canals are blocked.
+B	The eardrums are damaged.
+C	The ear bones degenerate.
+D	The auditory nerves are damaged.
+D	
+---------------------------------------------------
+[10272317]
+// High order thinking //
+**	Wearing sunglasses which are not ultraviolet-proof may cause more damage to the eyes than not wearing them because
+(1)	the lens becomes more convex when we are wearing sunglasses. 
+(2)	more ultraviolet light enters the eyes when we are wearing sunglasses.
+(3)	the pupils dilate when we are wearing sunglasses.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10272319]
+// Experiment // Schematic diagram // Basic concepts //
+*	Pieces of mica were inserted into three coleoptiles (1), (2) and (3) as shown in the diagram. Coleoptile (4) was left untreated and all four coleoptiles were placed under unilateral light. They were examined two days later for signs of positive phototropism.
+
+	
+
+Which coleoptile(s) would show positive phototropism?
+A	(4) only
+B	(1) and (3) only
+C	(1) and (4) only
+D	(2) and (4) only
+D	
+---------------------------------------------------
+
+[10272320]
+// Applying concepts //
+*	A student with normal eyesight is wearing the glasses of his friend, who is suffering from short sight. He is now looking at a building outside the window. Which of the following statements is/are correct?
+(1)	He is wearing convex lenses.
+(2)	The image is blurred.
+(3)	The image is formed in front of the retina.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10272323]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of the human ear.
+
+	
+
+After an accident, a person cannot hear but he can walk as usual. Which of the following is/are the possible cause(s) of this?
+(1)	P is damaged.
+(2)	Q is cut.
+(3)	R is damaged.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+[10272324]
+// Applying concepts //
+*	After looking at the monitor of a computer continuously for three hours, our eyes get tired. What is/are the reason(s) for the tiredness of the eyes?
+(1)	The ciliary muscles keep contracting.
+(2)	The lens is keeping its thickness.
+(3)	The suspensory ligaments keep contracting.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10272332]
+// Basic concepts //
+	Which of the following are the functions of the middle ear?
+(1)	transmits vibrations
+(2)	amplifies vibrations
+(3)	sends nerve impulses to the auditory centre in the brain
+A	(1) and (2) only
+B	(1) and (3)only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10272334]
+// Graph interpretation // Schematic diagram // Applying concepts //
+*	The diagram below shows the distribution of light-sensitive cells along a straight line on the retina.
+
+	
+
+Which of the following correctly describes the sensitivity of cells X and Y?
+X is most sensitive under		Y is most sensitive under
+A	bright light					bright light
+B	bright light					dim light
+C	dim light						bright light
+D	dim light						dim light
+C	
+---------------------------------------------------
+
+[10272353]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows a section of the mammalian eye. 
+	
+Which labelled part(s) refract(s) light?
+A	P only
+B	Q only
+C	P and Q only
+D	Q and S only
+C	
+---------------------------------------------------
+
+[10272382]
+// Schematic diagram // Basic concepts //
+	Which labelled part contains rod cells and cone cells? 
+A	S
+B	T
+C	U
+D	V
+C	
+---------------------------------------------------
+
+
+[10272387]
+// Graph interpretation // Schematic diagram // Applying concepts //
+**	Figure I shows a transverse section through the human eye, while figure II shows the distribution of rod cells and cone cells in the human eye.
+	
+	
+
+Which of the following correctly matches points P and Q in figure I and the points in figure II?
+P		Q
+A	W		X
+B	X		Y
+C	Y		Z
+D	Z		W
+B	
+---------------------------------------------------
+
+[10272410]
+// Schematic diagram // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows a section of a human eye.
+	
+
+Which of the following correctly describes the diagram?
+A	It is a longitudinal section of the right eye.
+B	It is a longitudinal section of the left eye.
+C	It is a transverse section of the right eye viewed from the top.
+D	It is a transverse section of the left eye viewed from the top.
+C	
+---------------------------------------------------
+
+[10272411]
+// Schematic diagram // Applying concepts //
+**	Which of the following correctly describes P and the circular muscles of Q in bright light?
+P			Circular muscles of Q
+A	constricts		contract
+B	constricts		relax 
+C	dilates		contract
+D	dilates		relax
+A	
+---------------------------------------------------
+
+[10272416]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows how the eye controls the amount of light entering it in bright light.
+
+	
+
+What are Y and Z?
+Y				Z
+A	circular muscles	circular muscles 
+B	circular muscles	radial muscles
+C	radial muscles		circular muscles
+D	radial muscles		radial muscles
+C	
+---------------------------------------------------
+
+[10272427]
+// Schematic diagram // Applying concepts //
+*	What will happen to X, Y and Z when the light becomes weak?
+X			Y			Z
+A	dilates		relax	es		contracts
+B	dilates		contracts		relaxes
+C	constricts		relax	es		contracts
+D	constricts		contracts		relaxes
+B	
+---------------------------------------------------
+
+[10272453]
+// Schematic diagram // Basic concepts //
+	A person is suffering from an eye defect. The ray diagram below shows how light rays from a near object enter his eye. 
+	
+
+What kind of eye defect is this person suffering from?
+A	colour blindness
+B	short sight
+C	long sight	
+D	night blindness
+C	
+---------------------------------------------------
+
+[10272465]
+// Basic concepts //
+	      (1)       are mainly located on the periphery of the retina. They are sensitive to       (2)      .
+(1)				(2)
+A	Cone cells		light of low intensity
+B	Cone cells		red, green and blue light
+C	Rod cells			light of low intensity
+D	Rod cells			red, green and blue light
+C	
+---------------------------------------------------
+
+[10272473]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows the transverse section of an eyeball.
+
+	
+
+Which structures help in the refraction of light rays into the eye?
+A	P, Q and T only
+B	Q, S and T only
+C	T, U and W only
+D	P, S, U and W only
+C	
+---------------------------------------------------
+
+[10272475]
+// Schematic diagram // Basic concepts //
+	Which of the following statements about the structures of the eyeball is/are incorrect?
+(1)	P contains a black pigment which absorbs light.
+(2)	R regulates the size of S.
+(3)	V regulates the curvature of U.
+A	(1) only				B	(2) only
+C	(1) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10272485]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of the human eye. 
+
+	
+
+Where can rod cells be found?
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10272488]
+// Basic concepts //
+	Which of the following statements about short sight is correct? 
+A	Short sight may be caused by a long eyeball and can be corrected by wearing concave lenses.
+B	Short sight may be caused by a long eyeball and can be corrected by wearing convex lenses.
+C	Short sight may be caused by a short eyeball and can be corrected by wearing concave lenses.
+D	Short sight may be caused by a short eyeball and can be corrected by wearing convex lenses.
+A	
+---------------------------------------------------
+
+[10272493]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the front view of the iris in a human eye. 
+	
+
+Which of the following about the eye is correct?
+Condition 			Radial muscles	Circular muscles
+A	high light intensity		relax				contract
+B	high light intensity		relax				relax
+C	low light intensity		contract			contract
+D	low light intensity		relax				contract
+A	
+---------------------------------------------------
+
+[10272496]
+// Applying concepts //
+*	How do the following structures in a human eye change to focus on near objects?
+Ciliary muscles	Suspensory ligaments		Lens
+A	contract			become slackened			less convex 
+B	contract			become slackened			more convex
+C	relax				become tightened			less convex
+D	relax				become tightened			more convex
+B	
+---------------------------------------------------
+
+[10272498]
+// Basic concepts //
+	Which of the following correctly describe(s) the image formed on the retina?
+(1)	real
+(2)	upside down
+(3)	smaller than the object
+A	(1) only					B	(3) only
+C	(1) and (2) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10272516]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows part of a human ear.	
+
+	
+
+Which of the following can be found in X?
+(1)	perilymph
+(2)	sensory hair cells
+(3)	rod cells
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10272522]
+// Schematic diagram // Basic concepts //
+	Which of the following is the function of Y?
+A	It equalizes the pressure between the middle ear and the atmosphere.
+B	It releases the pressure in the cochlea into the atmosphere.
+C	It collects sound waves in the air.
+D	It helps detect air pressure.
+A	
+---------------------------------------------------
+
+[10272543]
+// Basic concepts //
+	The blind spot is a region on the retina where
+A	there is a high concentration of rod cells.
+B	there is a high concentration of cone cells.
+C	there is a high concentration of pigments.
+D	the optic nerve leaves the eyeball.
+D	
+---------------------------------------------------
+
+[10272555]
+// Basic concepts //
+	The most common type of colour blindness is that a person cannot distinguish between
+A	red and blue.				B	blue and green.
+C	red and green.				D	black and white.
+C	
+---------------------------------------------------
+
+[10272559]
+// Basic concepts //
+	Which of the following correctly shows the conditions of suspensory ligaments and the lens when a person is looking at a distant object?
+Suspensory ligaments		Lens
+A	reduced tension			less convex
+B	reduced tension			more convex 
+C	increased tension			less convex
+D	increased tension			more convex
+C	
+---------------------------------------------------
+
+[10272581]
+// Basic concepts //
+	Which of the following statements about the ear bones is incorrect?
+A	They transmit vibrations from the eardrum.
+B	They are the smallest bones in the human body.
+C	There are three ear bones in each ear.
+D	They are parts of the inner ear.
+D	
+---------------------------------------------------
+
+[10272595]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a section of the human ear. 
+
+	
+
+Which of the following structures connects to the round window?
+A	P
+B	Q
+C	R
+D	S
+C	
+---------------------------------------------------
+
+[10272633]
+// Basic concepts //
+	Which of the following combinations of the eye defect and its correction is correct?
+Eye defect 			Corrected by wearing
+A	short sight			convex lenses
+B	astigmatism			concave lenses
+C	colour blindness		colour correction lenses
+D	long sight				convex lenses
+D	
+---------------------------------------------------
+
+[10272638]
+// Graph interpretation // Experiment // Calculation //
+*	Directions: The following two questions refer to the diagram below, which shows an investigation of the effect of a hormone on the growth of coleoptiles. Agar blocks containing different concentrations of the hormone were placed on the top of decapitated coleoptiles. 
+	
+The coleoptiles were then kept in darkness and allowed to grow for three days. The increases in length of the coleoptiles were measured. The results are shown in the graph below.
+	
+If an agar block containing 15 arbitrary units of the hormone was placed on a decapitated coleoptile of 10 mm, how long would the coleoptile be after three days?
+A	3 mm
+B	4 mm
+C	13 mm
+D	14 mm
+C	
+---------------------------------------------------
+
+[10272654]
+// Graph interpretation // Experiment // Calculation //
+*	Which of the following statements best describes the effect of the hormone on the growth of the decapitated coleoptiles?
+A	The decapitated coleoptiles grow more as the concentration of hormone increases.
+B	The decapitated coleoptiles grow more as the concentration of hormone increases up to 40 arbitrary units.
+C	Growth occurs only at high concentrations of the hormone.
+D	The hormone has no effect on the growth of the decapitated coleoptiles.
+B	
+---------------------------------------------------
+
+[10272660]
+// Basic concepts //
+	Which of the following is the correct pathway of light rays entering the eye?
+A	cornea → vitreous humour → lens → iris
+B	cornea → lens → vitreous humour → retina
+C	lens → cornea → vitreous humour → iris
+D	lens → cornea → vitreous humour → retina
+B	
+---------------------------------------------------
+
+[10272682]
+// Basic concepts //
+	Which of the following are responsible for colour vision?
+A	cone cells				B	rod cells
+C	nerve cells			D	blood cells
+A	
+---------------------------------------------------
+
+[10272701]
+// Basic concepts //
+	If the shoot tip and root tip of a plant are removed, the plant
+A	will grow normally.
+B	will grow slowly.
+C	will grow quickly.
+D	will show no increase in length.
+D	
+---------------------------------------------------
+
+[10272723]
+// Basic concepts //
+	Y is a structure of a human eye. When Y contracts, the lens becomes more convex. Which of the following is structure Y?
+A	suspensory ligament
+B	ciliary muscle
+C	eye muscle
+D	iris
+B	
+---------------------------------------------------
+
+[10272724]
+// Experiment // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagrams below, which show the coleoptiles of two seedlings (P and Q) with different treatments.
+	
+Which of the following shows the appearance of seedling P after three days?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+[10272728]
+// Experiment // Schematic diagram // Applying concepts //
+*	Which of the following shows the appearance of seedling Q (with the glass plate removed) after three days?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10272758]
+// Basic concepts //
+	Which of the following correctly describes a man suffering from total colour blindness?
+A	He cannot distinguish red and green only.	
+B	He cannot distinguish red and blue only.
+C	He cannot see.
+D	He has black and white vision only.
+D	
+---------------------------------------------------
+
+[10272774]
+// Basic concepts //
+	Which of the following structures contains a black pigment to minimize light reflection within the eye?
+A	choroid			B	retina
+C	sclera			D	iris
+A	
+---------------------------------------------------
+
+[10272786]
+// Experiment // Schematic diagram // Applying concepts //
+*	In order to investigate tropism, a set-up is assembled as shown below and placed in a dark room. (The components of the set-up are not drawn to scale.) The lamp is then switched on but the clinostat is stationary.
+ 	
+Which of the following shows the the appearance of the plumule after two days?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10272787]
+// Experiment // Schematic diagram // Applying concepts //
+*	In order to investigate tropism, a set-up is assembled as shown below and placed in a dark room. (The components of the set-up are not drawn to scale.) Both the clinostat and the lamp are turned on. 
+	
+
+Which of the following shows the appearance of the plumule after two days?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10272794]
+// Experiment // Schematic diagram // Applying concepts //
+	In an experiment, the effects of tropism on two shoots are investigated. Shoot P is intact with no treatment while the tip of shoot Q is removed. Both shoots are placed vertically under uniform light. The diagram below shows the appearances of the shoots after three days.
+	
+
+Which of the following correctly describes the growth of the two shoots? 
+Shoot P						Shoot Q
+A	grows straight up quickly		grows straight up slowly
+B	grows straight up				does not grow
+C	grows towards right				grows towards left
+D	does not grow					does not grow
+B	
+---------------------------------------------------
+
+[10272804]
+// Applying concepts //
+*	John entered a cinema from outside on a sunny day. Which of the following changes would occur in his eyes?
+(1)	His pupils would dilate immediately.
+(2)	The radial muscles of the iris would relax.
+(3)	The circular muscles of the iris would contract.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10272813]
+// Graph interpretation // Applying concepts //
+**	The graph below shows the results of an experiment designed to investigate the relationship between auxin concentration and the growth of a shoot and a root. 
+	
+
+Auxins may be used commercially as a growth promoter in cutting. The cut end of a leaf can be placed in a culture solution containing auxins, so that the leaf can develop into a plant.
+Which concentration of auxins should be used? Why? 
+A	about 10-1 ppm to stimulate the growth of the shoot but inhibit the growth of the root 
+B	about 10-2 ppm to inhibit the growth of the shoot
+C	about 10-3 ppm to stimulate the growth of the shoot and the root
+D	about 10-4 ppm to stimulate the growth of the root 
+D	
+---------------------------------------------------
+
+[10272814]
+// Basic concepts //
+	Cone cells in our eyes
+A	are sensitive to all intensities of light.
+B	respond to different wavelengths of light.
+C	interpret nerve impulses.
+D	assist the rod cells to allow a person to see in the dark.
+B	
+---------------------------------------------------
+
+[10272817]
+// Schematic diagram // Applying concepts //
+*	A young shoot is treated as shown below and placed in the dark. 
+	
+Which of the following correctly illustrates the cells of sides X and Y? 
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10272821]
+// Basic concepts //
+	Which of the following is not a way of keeping our eyes healthy?
+A	Have a diet with enough vitamin C.
+B	Keep an eye distance of at least 60 cm from the screen when using computers.
+C	Have our eyes checked regularly.
+D	Take breaks during reading.
+A	
+---------------------------------------------------
+
+[10272840]
+// Experiment // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the experiment below. The tip of a coleoptile was placed on two agar blocks (X and Y) separated by a mica plate. The whole set-up was exposed to unilateral light for 20 minutes. Afterwards, the agar blocks were placed on top of seedlings P and Q with their tips removed. Both seedlings were left in the dark. 
+
+	
+
+Seedling P grew faster than seedling Q. Which of the following is the possible explanation of this result? 
+A	Only X contained auxins.
+B	Only Y contained auxins.
+C	X and Y contained equal amounts of auxins.
+D	Both X and Y contained auxins, but X contained more auxins than Y did.
+D	
+---------------------------------------------------
+
+[10272848]
+// Experiment // Schematic diagram // Applying concepts //
+*	What was the mechanism for the movement of auxins from the cut tip to the agar blocks?
+A	diffusion
+B	gravity
+C	active transport
+D	osmosis
+A	
+---------------------------------------------------
+
+
+[10272852]
+// Experiment // Schematic diagram // Basic concepts //
+	The diagram below shows three coleoptiles with different treatments. They were exposed to unilateral light.
+	
+After two days, which coleoptiles would grow towards the direction of light? 
+A	X and Y only
+B	X and Z only
+C	Y and Z only
+D	X, Y and Z
+A	
+---------------------------------------------------
+
+[10272857]
+// Experiment // Basic concepts //
+	In an experiment, a tip was cut from a coleoptile grown in the dark and then placed on two agar blocks X and Y separated by a plastic sheet. Then one side of the tip was exposed to light for some time. Agar block Y was placed under the side of the tip facing the light. The light would cause
+A	agar block X to have more auxins than Y.
+B	agar block Y to have more auxins than X.
+C	both agar blocks to have the same amount of auxins.
+D	neither agar block to have auxins.
+A	
+---------------------------------------------------
+
+[10272873]
+// Basic concepts //
+	Which of the following is not a sense organ?
+A	skin				B	nose
+C	tooth			D	tongue
+C	
+---------------------------------------------------
+
+[10272874]
+// Experiment // Schematic diagram // Applying concepts //
+	A young shoot is treated as shown below and placed in the dark. 
+	
+
+How will the young shoot grow after two days? 
+A	It will not grow.
+B	It will grow towards the side with the mica plate.
+C	It will grow away from the side with the mica plate.
+D	It will grow straight up.
+B	
+---------------------------------------------------
+
+[10272876]
+// Basic concepts //
+	Auxins are produced in small amounts at the tips of shoots and roots and act on
+A	the whole plant.
+B	the tips only.
+C	the region of elongation only.
+D	the coleoptile only.
+C	
+---------------------------------------------------
+
+[10272892]
+// Basic concepts //
+	Which of the following is/are the characteristic(s) of tropism?
+(1)	It can be observed in the whole plant.
+(2)	It is a growth movement.
+(3)	The direction of the response is irrespective of the direction of the stimulus.
+A	(1) only					B	(2) only
+C	(1) and (3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+
+[10272896]
+// Experiment // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the experiment below. Its aim is to investigate the effect of a growth hormone in plants. The tip of the plant shoot is cut off and put on an agar block for 24 hours. The agar block is then placed on the cut end of the plant shoot.
+
+	
+
+What result will you expect after two days?
+A	The plant shoot will not grow and remain straight.
+B	The plant shoot will grow and remain straight.
+C	The plant shoot will grow and bend to the left.
+D	The plant shoot will grow and bend to the right.
+B	
+---------------------------------------------------
+
+[10272897]
+// Experiment // Schematic diagram // Applying concepts //
+*	What result will you expect if the agar block is replaced by a plastic block and a strong light source is put on the right of the plant shoot?
+A	The plant shoot will not grow and remain straight.
+B	The plant shoot will grow and remain straight.
+C	The plant shoot will grow and bend to the left.
+D	The plant shoot will grow and bend to the right.
+A	
+---------------------------------------------------
+
+
+[10272903]
+// Experiment // Schematic diagram // Applying concepts //
+*	Which of the following coleoptiles will bend to the right?
+(1)	(2)	(3)	
+			
+
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+A	
+---------------------------------------------------
+
+[10272924]
+// Experiment // Schematic diagram // Applying concepts //
+*	A young shoot is treated as shown below and placed in the dark. 
+	
+Which of the following statements are correct? 
+(1)	The mica plate stops auxins from travelling downwards, so the auxins moves to the side without the mica plate.
+(2)	Higher auxin concentration on the side without mica plate inhibits the growth of the shoot.
+(3)	The side without the mica plate grows faster than the side with it.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10272933]
+// Schematic diagram // Applying concepts //
+* 	The diagram below shows the growth of the plumule and the radicle of a seedling in response to unilateral stimuli.
+
+	
+
+Which of the following statements is incorrect?
+A	More growth takes place in P than in R.
+B	There is a higher concentration of auxins in S than in Q.
+C	Auxins are produced from the tips of the plumule and the radicle.
+D	Light is shining on the seedling from the right.
+B	
+---------------------------------------------------
+
+[10272940]
+// Applying concepts //
+* 	Which of the following statements about auxins is correct?
+A	Auxins are synthetic growth hormones.
+B	Auxins can promote cell enlargement in the meristem.
+C	At very low auxin concentration, the growth of both the roots and the shoots is inhibited.
+D	When light comes from one direction, there will be a higher auxin concentration on the shaded side of the shoots.
+D	
+---------------------------------------------------
+
+
+[10272947]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the growth responses of the shoots and the roots at different concentrations of auxins.
+
+	
+
+Which of the following statements is/are incorrect?
+(1)	The roots show the highest percentage of growth stimulation at 10-4 ppm of auxins.
+(2)	10-2 ppm of auxins has no effect on the growth of the roots. 
+(3)	The growth of shoots is stimulated only at a concentration of auxins higher than 1 ppm.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10272956]
+// Graph interpretation // Applying concepts //
+*	What conclusion can be drawn from the graph?
+A	The percentage of stimulation in the shoots is always higher than that in the roots at any concentration of auxins.
+B	The presence of auxins in the shoots inhibits the growth of roots.
+C	The roots are more sensitive to auxins than the shoots are.
+D	The effects of auxins on the shoots and the roots are the same at any concentration of auxins.
+C	
+---------------------------------------------------
+
+[10272981]
+// Basic concepts //
+	The photograph below shows a potted plant placed at the window for a few days.
+	
+
+The directional growth of the plant shoots is called 
+A	photosynthesis.
+B	phototropism.
+C	transpiration.
+D	differentiation.
+B	
+---------------------------------------------------
+
+[10272987]
+// Experiment // Schematic diagram // Basic concepts //
+	The diagram below shows a set-up, which is left for one day.
+
+	
+
+What will happen to the coleoptile?
+A	The coleoptile will grow towards the left.
+B	The coleoptile will grow towards the right.
+C	The coleoptile will grow straight upwards.
+D	The coleoptile will not grow.
+C	
+---------------------------------------------------
+
+
+Short questions
+
+[10273091]
+// Cross-topic // Scientific investigation // Schematic diagram //
+**	A student suggested that auxin is transported by diffusion in shoots. He carried out an experiment to find out whether his hypothesis was correct. The diagram below shows the set-ups of the experiment and the results obtained.
+	
+
+a	The results of the experiment do not support the student's hypothesis. Explain briefly.										(2 marks)
+b	Suggest how the experiment above can be modified so that it can be used to find out whether the transport of auxin requires energy. Describe the expected results if energy is required.						(2 marks)
+
+-- answer --
+a	The results show that auxin is not transported from the top to the bottom when the segment of shoot is in upside down orientation.						1m
+	If auxin is transported by diffusion, it should be able to move from the top agar block to the bottom agar block no matter the segment of shoot is in upright or upside down orientation.										1m
+b	Replace set-up 2 with a set-up similar to set-up 1 but the segment of shoot is treated with a respiratory inhibitor (e.g. cyanide).						1m
+	If the transport of auxin requires energy, no auxin would be present in the bottom agar block after 24 hours.										1m
+Note:
+Respiratory inhibitors inhibit aerobic respiration and hence affect energy production in cells. Therefore, they would affect the processes that require energy.
+
+	
+---------------------------------------------------
+[10273093]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	A student carried out an experiment to investigate the effects of two plant hormones, X and Y, on the growth of plants. The diagram below shows two of his set-ups and their changes after 5 days. Apart from these two set-ups, he also included a control set-up in the experiment.
+	
+a	State the independent variable in the experiment.				(1 mark)
+b	Briefly describe the control set-up of this experiment and the expected result.														(2 marks)
+	After the experiment, the student cut a section from each shoot and observed them under a microscope. The diagram below shows the appearances of the cells.
+	
+c	Based on the above information, suggest how the effects of X and Y on plant growth are different. Briefly explain your answer.		(4 marks)
+
+-- answer --
+a	The type of hormone present in the agar block.						1m 
+Note:
+The independent variable is the variable that is changed deliberately in the experiment.
+
+b	The control set-up should include an agar block without any plant hormones placed on a decapitated shoot.									1m
+	The height of the decapitated shoot should remain the same after 5 days.	1m
+
+
+c	X may stimulate elongation of plant cells.							1m
+This is because the cell from set-up 1 is longer compared with that from the control set-up. The increase in height of the decapitated shoot may be due to an increase in the length of cells.											1m
+Y may stimulate cell division in the plants.							1m
+This is because the size of the cell from set-up 2 is similar to that from the control set-up. The increase in height of the decapitated shoot may be due to an increase in the number of cells.										1m	
+---------------------------------------------------
+
+[10273095]
+// High order thinking // Communication // Schematic diagram //
+**	The diagram below shows how rod cells and cone cells are connected to bipolar cells and then ganglion cells in the retina. Bipolar cells and ganglion cells are neurones. They transmit nerve impulses from the rod cells and cone cells to the brain.
+
+	
+
+Visual acuity is the ability of the eye to see two closely spaced points as separate. 
+a	When rod cells W and X are stimulated at the same time, only one nerve impulse is sent to the brain. But when cone cells Y and Z are stimulated at the same time, two nerve impulses are sent to the brain. Suggest one explanation for this with reference to the diagram. 			(1 mark)
+b	Hence, explain why cone cells give higher visual acuity. 		(4 marks)
+
+-- answer --
+a	Rod cells W and X are connected to the same bipolar cell, while cone cells Y and Z are connected to different bipolar cells.							1m
+b	When light from two closely spaced points stimulates two rod cells connected to the same bipolar cell, only one nerve impulse is sent to the brain.			1m
+As a result, the brain interprets the nerve impulse as a single point.		1m
+When light from two closely spaced points stimulates two cone cells, two different nerve impulses are sent to the brain through different bipolar cells.		1m
+The nerve impulse from each cone cell is interpreted as a single point. This allows the points to be distinguished from each other. 						1m	
+---------------------------------------------------
+
+[10273104]
+// Drawing // High order thinking // Schematic diagram //
+**	The diagram below shows how nerve impulses are transmitted in human retina. 
+	
+a	Draw an arrow in the diagram to show how light falls on the retina. 																(1 mark)
+b	Hence, explain why human retina is described as 'inverted'. 	(1 mark)
+c	State one disadvantage of an 'inverted' retina. Explain briefly.	(2 marks)
+
+-- answer --
+a	An arrow on the left of the diagram pointing to the right				1m
+b	Rod cells and cone cells are not located at the front of the retina where light enters. 															1m
+c	In an 'inverted' retina, there must be a place where optic nerve leaves the eye.																1m
+No photoreceptors are present at this place. Any image formed there cannot be seen. 													1m	
+---------------------------------------------------
+
+[10273107]
+// Applying concepts //
+**	Retinitis pigmentosa is an inherited eye disease in which photoreceptors in the retina gradually die. The photographs below show the views seen by a healthy person and a patient suffering from this disease.
+
+		
+View seen by a healthy person	View seen by a patient	
+
+a	Photoreceptors on which part of the patient's retina died? Explain your answer.												(2 marks)
+b	Night blindness is another symptom of this patient. Explain why. 																(3 marks)
+
+-- answer --
+a	Photoreceptors at the periphery of the retina died. 					1m
+The periphery vision is lost while the vision at the centre is unaffected. 	1m
+b	Most photoreceptors located at the periphery of the retina are rod cells. 	1m
+In retinitis pigmentosa, most rod cells died. The remaining photoreceptors are mainly cone cells. 											1m
+Cone cells do not work well in dim light. Therefore, the patient cannot see clearly in dim light. 													1m	
+---------------------------------------------------
+
+
+[10273114]
+// Applying concepts //
+*	Carol was in a diving competition. She dived off the springboard into the water of the swimming pool.
+	
+a	Carol could hear the spectators cheering loudly when she was standing on the springboard.
+	i	Which structure in Carol's ears converted sound waves into vibrations?													(1 mark)
+	ii	Which structure in Carol's ears detected sound vibrations?	(1 mark)
+b	Name the structure in Carol's ears that detected the directions of her head movements when she was diving into the water.				(1 mark)
+c	Carol could not hear clearly when she was at the bottom of the swimming pool. Explain why.										(3 marks)
+
+
+-- answer --
+	a	i	Eardrum												1m
+		ii	Sensory hair cell / cochlea									1m
+	b	Semicircular canals											1m
+	c	The pressure on the two sides of the eardrum became unequal when Carol 				was at the bottom of the swimming pool.							1m
+		The eardrum was pressed inwards.								1m
+		Thus the eardrum could not vibrate freely in response to sound waves.		1m	
+---------------------------------------------------
+
+[10273128]
+// Graph interpretation // Experiment // Communication // Applying concepts //
+*	In an experiment, 10 agar blocks containing different concentrations of auxins and 10 decapitated coleoptiles were prepared. Each agar block was placed on the left side of a coleoptile and the coleoptiles were kept in darkness. After 48 hours, the angle of curvature of each coleoptile was measured. The graph below shows the results.
+	
+a	Describe and explain the results shown in the graph.			(4 marks)
+b	Why was the experiment carried out in darkness?				(1 mark)
+
+
+-- answer --
+	a	The angle of curvature of the coleoptiles increases up to a maximum as the 			concentration of auxins increases.								1m
+		The higher the concentration of auxins in the agar blocks, the more auxins 				moved to the left sides of the coleoptiles and produced more growth there.	1m
+		After the maximum, the angle of curvature of the coleoptiles decreases as 				the concentration of auxins increases.								1m
+		The stimulatory effect of very high concentrations of auxins on the growth 				of the left sides of the coleoptiles was smaller than that of high 						concentrations of auxins.										1m
+	b	To prevent the movement of auxins in the coleoptiles caused by light.		1m	
+---------------------------------------------------
+
+[10273130]
+// Graph interpretation // Applying concepts //
+*	The graphs below show the percentage of absorption of different wavelengths of light by the cone cells in birds and humans.
+
+a	Based on the graphs provided, write three differences between the vision of birds and humans.										(3 marks)
+b	Both yellow light and orange light stimulate the same two types of cones in humans. Suggest why humans can distinguish between yellow colour and orange colour.											(2 marks)
+
+-- answer --
+	a	Birds have 4 types of cones whereas humans have 3 types of cones. 
+		Birds can see ultraviolet light whereas humans cannot.
+		Birds can distinguish between colours in green better than humans.	1m ( 3
+	b	The relative stimulation of the two types of cones is different.		2m	
+---------------------------------------------------
+
+[10273132]
+// Comparison //
+	Complete the table below to show the differences between the blind spot and the yellow spot in human eyes.									(3 marks)
+
+	Blind spot	Yellow spot	
+Type of light-
+sensitive cells present	
+		
+Position on the retina	
+		
+What happens when an image is formed on it?	
+		
+
+
+-- answer --
+
+
+Blind spot
+Yellow spot
+
+Type of light-sensitive cells present
+None
+Cone cells
+
+Position on the retina
+At the point where the optic nerve leaves the eye
+Near the centre of the retina
+
+What happens when an image is formed on it?
+No nerve impulse is generated
+Nerve impulses are generated and sent to the brain
+
+															1m ( 3	
+---------------------------------------------------
+
+
+[10273144]
+// Schematic diagram //
+	The diagram below shows the transmission of vibrations in the ear.
+
+	
+
+	a	Which structure of the ear does part Z represents?	 			(1 mark)
+b	State the role of part Z in hearing.							(2 marks)
+c	When we are on a plane, we may suffer from ear pain during landing. Explain why this is so.									(3 marks)
+
+
+-- answer --
+	a	Cochlea													1m
+	b	The sensory hair cells in part Z / the cochlea detect vibrations in the endolymph.																	1m
+		When they are stimulated, they send nerve impulses to the brain for interpretation 		to produce the sensation of hearing.								1m
+	c	During landing, the air pressure in part X becomes higher than that in part Y.1m
+		The unequal pressure causes the eardrum to bulge inwards.			1m
+		The bulging eardrum cannot vibrate freely and causes pain.				1m	
+---------------------------------------------------
+
+
+[10273155]
+// Drawing // Experiment // Schematic diagram //
+*	A scientist carried out an investigation of the substance that controls phototropism in coleoptiles. The diagrams below show the set-ups in the investigation.
+
+	
+
+a	In the diagram above, draw the appearance of coleoptiles X and Y after two days.												(2 marks)
+b	Explain the results of coleoptiles X and Y.					(3 marks)
+
+-- answer --
+	a
+
+
+
+		Correct diagram to show coleoptile X grows straight upwards			1m
+		Correct diagram to show coleoptile Y grows and bends to the left			1m
+	b	Light causes an uneven distribution of the substance that controls phototropism in 		the tip.													1m
+		The shaded side of the agar block receives a higher concentration of the 				substance. 												1m
+		A higher concentration of the substance causes the shaded side of the coleoptile 			to grow more rapidly. The coleoptile bends towards light.				1m	
+---------------------------------------------------
+
+[10273185]
+// Overseas exam question // Data handling // Calculation // Schematic diagram //
+*	The table shows the thickness of the lens when looking at objects at different distances from the eye.
+
+Distance from eye (mm) 	Thickness of lens (mm)	
+100	4.0	
+200		
+300	3.2	
+500	2.9	
+1000	2.7	
+1500	2.6	
+2000	2.6	
+
+At first the thickness of the lens decreases evenly for every 100 mm.
+a	Calculate the thickness of the lens for a distance of 200 mm. Show your working.												(2 marks)
+
+b	Suggest why the thickness of the lens stays the same between 1500 mm and 2000 mm.											(1 mark)
+The diagram shows the changes to the lens when viewing distant and near objects.
+	
+
+c	Use the diagram to help describe how the changes to the ciliary muscles and suspensory ligaments allow you to read this page.				(3 marks)
+						CCEA GCSE Biology Higher Tier Paper 2 2008 Q7b
+
+-- answer --
+a	(4.0 + 3.2)/2 												1m
+= 3.6 mm													1m
+b	The lens cannot get any thinner.									1m
+c	Ciliary muscles contract. 										1m
+Suspensory ligaments become slackened, 							1m
+so that the lens becomes more convex. 							1m	
+---------------------------------------------------
+[10273200]
+// Overseas exam question // Basic concepts //
+	The eye is a receptor.
+a	Describe the role of a receptor.							(1 mark)
+b	Name the layer which contains rods and cones.				(1 mark)
+c	Suggest why nocturnal mammals have a high density of rods.	(1 mark)
+d	Give two features of the cones.							(2 marks)
+e	Describe how the image reaches the brain.					(2 marks)
+					   CCEA GCSE Biology Higher Tier Paper 1 2010 Q14
+
+
+-- answer --
+a	Detect / receive stimuli.									1m
+b	Retina												1m
+c	Rods are responsible for vision in dim light.						1m
+d	Cones are sensitive to light of high intensity. / Cones are responsible for colour vision. / Cones are concentrated in the yellow spot. (any 2)			1m x 2
+e	The image formed on the retina stimulates light-sensitive cells to send out nerve impulses.												1m
+The nerve impulses are transmitted along the optic nerve to the visual centre in the brain.												1m	
+---------------------------------------------------
+
+[10273217]
+// Overseas exam question // Experiment // Schematic diagram //
+*	An experiment was carried out to investigate the effect of light shining from one side on a plant shoot.
+
+	
+
+a	A plant hormone (auxin) causes the bending response. Auxin is produced in the tip and travels downwards to cause the cells to elongate. Use the results to explain which side of the shoot the auxin travels downwards in.																(2 marks)
+b	i	Name the response shown by the shoot in experiment Y.	(1 mark)
+ii	Explain how this response will benefit the plant.			(2 marks)
+	  CCEA GCSE Science: Double Award B Foundation Tier Modular Test A 
+														Mar 2011 Q12
+
+-- answer --
+a	Auxin travels downwards in the left side / shaded side. 				1m
+The impermeable sheet placed in the left side / shaded side prevents its downward movement.												1m
+b	i	Phototropism											1m
+ii	Plant can get more light									1m
+for carrying out photosynthesis / for producing food for growth.		1m	
+--------------------------------------------------- 
+
+[10273245]
+// Overseas exam question // Experiment // Schematic diagram //
+	The diagram shows the results of an investigation into how plant seedlings respond to light. The seedlings had been grown in a box for several days.
+	
+
+a	Before this investigation was set up, a hole had been cut in the box to allow light to enter. Use a labelled arrow to show where light had entered the box. 														(1 mark)
+b	Name
+i	this growth response.								(1 mark)
+ii	the type of substance which controls it.					(1 mark)
+c	Explain why this response is an advantage to the plant.			(1 mark)
+d	Using the results shown in the diagram name the part of the seedling that is sensitive to light.										(1 mark)
+	 CCEA GCSE Science: Double Award A Higher Tier Paper 1 May 2009 Q8
+-- answer --
+a	Draw an arrow at the top half on the right-hand side of the box
+
+														1m
+b	i	Phototropism											1m
+ii	Auxins												1m
+c	It allows the plant to get more light for photosynthesis.					1m
+d	Shoot tip													1m	
+--------------------------------------------------- 
+
+[10273257]
+// Applying concepts //
+*	a	Peter is diving to a depth of 20 feet below the water surface. He feels pain in his ears.
+	
+i	Name the structure that causes pain in his ears. 			(1 mark)
+ii	Explain why Peter feels pain in his ears during diving.		(2 marks)
+b	In a descending lift, a similar phenomenon as in a may also happen. A person may not be able to hear clearly. The person can simply swallow to relieve the pain. Explain why.								(3 marks)
+-- answer --
+a	i	Eardrum												1m
+ii	The water pressure outside the eardrum is higher than the air pressure in the middle ear. 											1m
+Therefore the eardrum bulges inwards and this causes pain. 		1m
+b	During swallowing, the Eustachian tube opens.						1m
+This allows air from the mouth cavity to enter the middle ear. 			1m 
+The air pressure on both sides of the eardrum becomes equalized. 		1m	
+--------------------------------------------------- 
+
+[10273260]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of a human ear.
+	
+a	Besides sound, suggest another stimulus that the ear detects. Which structures in the diagram are responsible for the detection of this stimulus? 														(2 marks)
+b	What is the function of structure U?						(1 mark)
+c	Name structure S. Which structure is its lower end connected to? 																(2 marks)
+-- answer --
+a	Direction of head movements									1m
+R / semicircular canals										1m
+b	U transmits nerve impulses from the cochlea and the semicircular canals to the brain for interpretation.										1m
+c	Eustachian tube												1m
+It is connected to the pharynx.									1m	
+--------------------------------------------------- 
+
+[10273273]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows an experiment on cereal shoots. Each shoot represents a batch of similarly treated plants.
+	
+
+a	What would be the results two days later? Draw labelled diagrams to show the expected observation.								(2 marks)
+b	Explain the result of shoot X.								(2 marks)
+c	What can you conclude from the experiment? 				(1 mark)
+
+-- answer -
+a	X grows straight upwards										1m
+Y and Z bend towards light										1m
+b	The tip of X is screened from light. Auxins in the region of elongation of X are evenly distributed.											1m
+All sides of the shoot grow at the same rate.						1m
+c	The shoot tip is sensitive to unilateral light.							1m 	
+--------------------------------------------------- 
+
+[10273284]
+// Applying concepts //
+*	a	The shape of the lens of the human eye is changed by the action of the ciliary body. Describe how the ciliary muscle is involved in changing the shape of the lens for near vision.							(3 marks)
+b	Cataract is common among the elderly. The proteins in the lens coagulate and the lens becomes cloudy. Treatment usually involves removing the lens and replacing it with a plastic lens. Patients need to wear spectacles for reading after this surgery.
+Explain why patients who have undergone the surgery for cataract need to wear spectacles for reading.								(2 marks) 
+-- answer -
+a	Ciliary muscles contract,										1m
+tension in the suspensory ligaments is reduced.						1m
+Elasticity of the lens causes it to become thicker / more convex to refract light more.													1m
+b	Plastic lens lacks elasticity and cannot change shape. / Plastic lens is not convex enough for near vision.										1m
+Light rays from near objects have to be converged using spectacles made of convex lens before entering the eye.								1m	
+--------------------------------------------------- 
+
+[10273287]
+// Matching // Basic concepts //
+	For each structure of human eye listed in column 1, select one description listed in column 2. Put the appropriate letter in the space provided.		(4 marks)
+Column 1		Column 2	
+a	Eye muscle	      	A	provides nutrients and 	oxygen to the tissues of the 	eye	
+b	Retina	      	B	fills the posterior chamber 	of the eyeball	
+c	Choroid	      	C	contains light-sensitive cells
+	
+d	Vitreous humour	      	D	controls the movements of 	the eyeball	
+
+-- answer -
+a	D														1m
+b	C														1m
+c	A														1m
+d	B														1m	
+---------------------------------------------------
+
+[10273307]
+// STSE connections // Schematic diagram // Applying concepts //
+*	Figure I below shows some structures in the human eye.
+	
+
+a	Name structures P and Q.								(2 marks)
+b	Explain how the structures in figure I help focus light rays from a distant object onto the retina.									(3 marks)
+c	A short-sighted person cannot see distant objects clearly. One new method of correcting this condition is to use laser to alter the shape of the cornea. Figure II below shows the shape of cornea before and after the surgery.
+	
+Explain how laser eye surgery can correct short sight.			(2 marks)
+
+-- answer -
+a	P: suspensory ligaments										1m
+Q: ciliary muscles / ciliary body									1m
+b	Ciliary muscles / Q relax(es).									1m
+The tension in suspensory ligaments / P increases.					1m
+Lens becomes thinner and refracts light less.						1m
+c	The refraction of light by the cornea is reduced						1m
+so that the light rays can be focused onto the retina.					1m	
+---------------------------------------------------
+
+[10273312]
+// Communication // Schematic diagram // Basic concepts //
+	The diagram below shows light from a distant object passing into a human eye.
+
+	
+
+a	Name parts P and Q.									(2 marks)
+b	Describe how the image of an object is formed on the retina and seen by a person.												(5 marks)
+
+-- answer -
+a	P: iris													1m
+Q: suspensory ligaments										1m
+b	Light rays from an object are refracted and focused by the cornea, aqueous humour, lens and vitreous humour onto the retina.					1m
+The image formed is real, inverted and smaller than the object. 			1m
+Rod cells and cones cells are stimulated by light and they send nerve impulses. 																1m
+Nerve impulses are transmitted along the optic nerve to the visual centre in the brain. 													1m
+The visual centre interprets the nerve impulses so that the person can see an upright image of the object. 									1m	
+---------------------------------------------------
+
+
+[10273328]
+// Drawing // Schematic diagram // Basic concepts //
+*	Figures I and II below illustrate two common eye defects.
+	
+	
+a	Name the eye defects in figures I and II.						(2 marks)
+b	Draw ray diagrams to show how the eye defects are corrected by wearing appropriate lenses.										(4 marks)
+c	Suggest one possible cause of the defect shown in figure I.		(1 mark)
+-- answer --
+a	Figure I: long sight										1m
+Figure II: short sight										1m
+b	
+
+
+Correct convex and concave lenses							1m x 2
+Correct light rays										1m x 2
+c	The lens is too thin. / The eyeball is too short.					1m 	
+---------------------------------------------------
+[10273355]
+// Drawing // Graph interpretation // Applying concepts //
+*	a	Name all the structures that refract and focus light rays entering the human eye to help form a sharp image on the retina.					(2 marks)
+Two types of sensory cells, X and Y, are present on the retina. The graph below shows the number of sensory cell X recorded along a straight line on the retina.
+	
+b	Name sensory cell X, region R and region S.					(3 marks)
+c	Copy the graph and draw a curve to indicate the relative number of sensory cell Y along the same straight line.							(1 mark)
+d	What are the differences between the functions of sensory cells X and Y?															(1 mark)
+-- answer --
+a	Cornea, aqueous humour, vitreous humour, lens						2m
+b	X: cone cells												1m
+R: blind spot												1m
+S: yellow spot												1m
+c
+				1m
+d	X is responsible for colour vision while Y is responsible for black and white vision.																1m	
+---------------------------------------------------
+
+[10273391]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of a human ear.
+	
+Complete the table to show the names and functions of the labelled structures.
+Structure	Name	Function	
+Q	Ear bones		
+		Vibrates in response to sound waves	
+S		Carries nerve impulses to the brain	
+	Cochlea		
+R		Involved in keeping body balance	
+															(7 marks)
+
+-- answer --
+Structure
+Name
+Function
+
+Q
+Ear bones
+Amplify and transmit vibrations to the inner ear
+
+P
+Eardrum
+Vibrates in response to sound waves
+
+S
+Auditory nerve
+Carries nerve impulses to the brain
+
+T
+Cochlea
+Produces nerve impulses
+
+R
+Semicircular canals
+Involved in keeping body balance
+
+															1m x 7	
+---------------------------------------------------
+
+[10273401]
+// Reading comprehension // Applying concepts //
+**	Read the following article and answer the questions.
+When light passes through the cornea, it is refracted by the aqueous humour before reaching the lens. Aqueous humour fills the chamber in front of the lens. It is a clear fluid continuously made by the ciliary body and removed through a drainage canal near the iris. It supports the metabolic needs of the lens and the cornea, which do not have any blood supply. Aqueous humour contains glucose, amino acids and dissolved gases. Its pressure maintains the shape of the eyeball.
+	Glaucoma is a condition caused by an abnormally high pressure inside the eye. If the condition is not controlled, damage to the optic nerve and even a loss of vision may result.	
+
+a	The aqueous humour is clear. How does this help the aqueous humour carry out its function?										(1 mark)
+b	Suggest how carbon dioxide produced by the cells of the lens is removed.															(2 marks)
+c	State one cause of the abnormally high pressure inside the eye.	(1 mark)
+d	Suggest how glaucoma can be treated.						(1 mark)
+
+-- answer --
+a	It allows light to pass through.									1m
+b	Carbon dioxide dissolves into the aqueous humour.					1m
+The dissolved carbon dioxide is removed with the aqueous humour.		1m
+c	Aqueous humour is removed slower than it is made.					1m
+d	Medicines to reduce the amount of aqueous humour made by the eye 
+(or other reasonable answers)									1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10273509]
+// Scientific investigation // Design experiment // Data handling // Communication //
+**	A scientist performed an experiment to test the hypothesis 'light destroys auxins on the illuminated side of the coleoptile'. The table below shows the set-ups he used and the results of the experiment. 
+Set-up	Concentration of auxins in the agar block after the set-ups were left for two days (arbitrary unit)	
+X		25.5 	
+Y		25.5	
+
+a	State the dependent variable and independent variable of this experiment.															(2 marks)
+b	Do the results of the experiment support the hypothesis? Explain your answer.												(2 marks)
+c	If after the experiment the agar block from set-up Y was placed on a decapitated coleoptile as shown below, what would be observed two days later? Explain your answer. 								(3 marks)
+	
+
+d	Suggest how the experiment of the scientist can be modified to test the hypothesis 'light causes auxins to move from the illuminated side of the coleoptile to the shaded side'. Describe the expected results if the hypothesis is correct. 									(4 marks)
+
+
+-- answer --
+a	Dependent variable: auxin concentration in the agar block				1m
+Independent variable: presence of unilateral light						1m
+b	The results of the experiment do not support the hypothesis. 			1m
+The concentrations of auxins in the agar blocks were the same regardless of light or dark conditions. 											1m
+c	The coleoptile would bend towards the right. 						1m
+When the agar block with auxins was placed on the left side of the decapitated coleoptile, the left side of the coleoptile would receive a higher concentration of auxins.													1m
+The higher concentration of auxins would promote more growth on the left side of the coleoptile and thus the coleoptile would bend towards the right.		1m
+d	Replace the agar block under the coleoptile tip in each set-up with two agar blocks separated by a mica plate. 					 				1m
+For the set-up placed in darkness (the control set-up), the concentration of auxins collected in the two agar blocks would be the same. 					1m
+For the set-up placed under unilateral light, the concentration of auxins collected in the agar block on the shaded side would be higher than that in the agar blocks of the control set-up. 											1m
+The concentration of auxins collected in the agar block on the illuminated side would be lower than that in the agar blocks of the control set-up. 			1m	
+---------------------------------------------------
+
+
+[10273514]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the section of a human eye.
+	
+a	A small coloured object may form an image at different positions on the retina. State and explain the difference in vision when the images are formed at
+i	positions P and Q.									(2 marks)
+ii	positions P and R.									(2 marks)
+b	As a person ages, structure Y may become cloudy and affect his/her vision. To improve his/her vision, structure Y may be removed in an operation and a new replacement is put in place. After the operation, glasses are usually required for reading. 
+i	Name structure Y.									(1 mark)
+ii	Explain how cloudy structure Y may affect vision.		(2 marks)
+iii	Why are glasses usually required for reading after the operation?															(2 marks)
+
+-- answer --
+	a	i	The image formed at position P can be seen whereas the image formed at 				position Q cannot be seen.									1m
+			Position P of the retina (yellow spot) contains light-sensitive cells to 					detect the image but position Q (blind spot) does not.				1m
+		ii	The colour of the image formed at position P can be seen clearly whereas the 			colour of the image formed at position R cannot be seen clearly.		1m
+			Position P of the retina (yellow spot) contains a lot of cone cells for 					detecting the colour effectively but position R contains only a few cone cells.																	1m
+	b	i	Lens													1m
+		ii	Light is scattered by the cloudy structure Y (lens). / Less light is focused onto 			the retina.												1m
+			The vision becomes blurred.								1m
+		iii	The curvature of the replacement is fixed and cannot be increased for 					focusing on near objects.									1m
+			Glasses with convex lenses are needed to converge light rays from near 				objects before they reach the eyes.							1m	
+---------------------------------------------------
+
+[10273523]
+// Drawing // Applying concepts //
+*	Miss Chan is working in a well-lit room. Suddenly, there is a power failure and the room goes dark.
+	
+
+
+		
+	a	Describe the changes in Miss Chan's eyes when the room goes dark.																	(2 marks)
+b	State the significance of the changes in a.					(2 marks)
+c	Miss Chan stops working. She draws back the curtains and looks at the buildings on the opposite side of the street. After a few minutes, she looks at her watch to check the time.
+
+	Draw a curve on the graph on the next page to show the changes in the curvature of the lens in Miss Chan's eyes.					(4 marks)
+
+	
+
+
+-- answer --
+	a	The circular muscles of the iris relax and the radial muscles contract.	1m
+		The pupil dilates.										1m
+	b	To allow more light to enter the eye 							1m
+		to stimulate the light-sensitive cells to generate nerve impulses.		1m
+	c	
+	
+		Correct shape of the curve in each period						1m ( 4	
+---------------------------------------------------
+
+[10273550]
+// Overseas exam question // Experiment // Schematic diagram //
+**	The movement of auxin through segments of shoot was studied by placing an agar block containing auxin () at one end and an 'empty' block () at the other end. Four experiments were carried out with
+(	agar blocks containing auxin at the top or bottom of the shoot segment
+(	shoot segments either the 'right-way-up' or 'upside-down'.
+During the experiments the 'empty' agar block acted as 'receiving' block for any auxin that moved through the shoot segment during a 24-hour period. This initial set-up is shown in the diagrams below.
+The 'receiving' agar block was then placed asymmetrically on a freshly decapitated shoot as shown in the diagrams as subsequent treatment.
+Any resulting curvature was observed as shown in the diagrams as final result.
+
+	
+a	Explain the final result of experiment 1.						(3 marks)
+b	Identify the trends for auxin movement evident from the results of all four experiments, and suggest an explanation for these.			(3 marks)
+c	Experiment 1 was repeated in an atmosphere lacking oxygen. The final result showed no curvature. Suggest an explanation for this result.																(1 mark)
+							CCEA GCE (A) Biology Module 4 Jan 2010 Q3
+
+-- answer --
+a	The auxin moves down into the 'receiving' agar block.				1m
+On the decapitated shoot the auxin moves down the left side,		1m
+causing elongation on that side.								1m
+b	When the shoot is 'right-way-up', the auxin moves down into the 'receiving' block, but not up if auxin is provided from below. /
+Auxin movement is not simply by diffusion since it does not always move from high to low concentration. /
+When the shoot is 'upside-down', the auxin does not move down, but is able to move up if auxin is provided from below. /
+Auxin moves through the shoot only from the apical end.
+(any 3)												1m x 3
+c	Auxin movement requires energy.							1m	
+---------------------------------------------------
+
+[10273553]
+// Overseas exam question // Schematic diagram // Basic concepts //
+	The diagram shows a cross section of a human eye.
+
+	
+a	Name parts W, X, Y and Z.								(4 marks)
+b	Complete the sequence of events relating to the eye.
+Stimulus		Receptor organ		Receptor cells		Coordinator	
+
+	→	
+	→	Cells in retina	→	
+	
+															(3 marks)
+c	Describe how the information received by the receptor cells travels to the coordinator.											(2 marks)
+d	Name the two receptor cells in the retina.					(2 marks)
+e	Describe how the function of these cells is related to the brightness of the light received.											(2 marks)
+f	Describe the changes to the iris and pupil when moving from bright light into darkness.											(2 marks)
+g	Suggest why this response is important for the eye.			(1 mark)
+						CCEA GCSE Biology Higher Tier Paper 2 2008 Q7a
+
+-- answer --
+a	W: cornea													1m
+X: iris													1m
+Y: vitreous humour											1m
+Z: retina													1m
+b	Light														1m
+Eye														1m
+Brain														1m
+c	When the receptor cells are stimulated, they send out nerve impulses.		1m
+The nerve impulses are transmitted along the optic nerve to the coordinator.	1m
+d	Rod cells													1m
+Cone cells													1m
+e	Rod cells are responsible for black and white vision at low light intensity.	1m
+Cone cells are responsible for colour vision at high light intensity.			1m
+f	Circular muscles in iris relax / radial muscles in iris contract.				1m
+Pupil becomes larger / dilates. 									1m
+g	This response maximizes the amount of light entering the eye to allow us to see clearly in dim light conditions.									1m	
+---------------------------------------------------
+
+
+[10273556]
+// Reading comprehension // Comparison // Applying concepts //
+*	Read the following article and answer the questions.
+The eye of the octopus
+	The octopus is a predator in the ocean. It has developed good vision for seeing in the deep sea. Its eyes are held inside pockets formed from in-growth of body surface of the head. There is no cornea and the lens cannot change its shape. The eye focuses light onto the retina by changing the distance between the lens and the retina.
+
+	There is only one type of light-sensitive cells on the retina. They function like rod cells of humans. A large number of these cells are distributed all over the retina. The nerve fibres of the light-sensitive cells route behind the retina to the optic nerve; therefore there is no blind spot on the retina. This allows the octopus to see everything going on around it.	
+
+a	Using a table, list the structural differences between the octopus eye and the human eye.											(3 marks)
+b	How does the mechanism of eye accommodation in octopus differ from that in humans?											(2 marks)
+c	Explain how the octopus eye is adapted for living in the deep sea.																(4 marks)
+
+-- answer --
+a	
+Structure
+Human
+Octopus
+
+Cornea
+Present
+Absent
+
+Blind spot
+Present
+Absent
+
+Light-sensitive cells
+Rod cells and cone cells
+Only cells similar to rod cells
+
+																3m
+b	An octopus eye focuses light onto the retina by changing the distance between the lens and the retina.											1m
+A human eye focuses light onto the retina by changing the shape of the lens.																1m
+c	There are only light-sensitive cells similar to rod cells distributed all over the retina.															1m
+They detect light for producing black and white vision in the dark.			1m
+There is no blind spot.										1m
+This allows the octopus to see everything going on around it.			1m	
+---------------------------------------------------
+
+[10273567]
+// Applying concepts //
+*	Mary is staying in a dim room. She pulls back the curtains to let sunlight enter the room. The photographs below show one of Mary's eyes in different intensity of light.
+		
+Figure I							Figure II	
+
+a	Which photograph shows Mary's eye when she pulled back the curtains? Explain briefly.										(2 marks)
+b	Describe the changes in the structures in the eye that bring about the response in the answer to a. Explain why this response is important.																(3 marks)
+c	Mary has grey eyes. What does eye colour refer to? Why may different people have different eye colours?							(2 marks)
+
+-- answer --
+a	Figure I													1m
+The pupil is smaller / constricts.									1m
+
+
+b	The circular muscles of iris contract and the radial muscles of iris relax. 	1m
+As a result, the pupil constricts 									1m
+so that less light is allowed to enter the eye.						1m
+c	Eye colour refers to the colour of the iris.							1m
+Eye colour depends on the amount of black pigment in the iris.			1m	
+--------------------------------------------------- 
+
+[10273573]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	Charles Darwin carried out some experiments about phototropism in coleoptiles in 1880. The diagram below summarizes his experiments.
+
+	
+
+a	Suggest a hypothesis that Darwin was going to test in his experiments.															(2 marks)
+b	Describe the experimental results.							(3 marks)
+c	What can be concluded from the results of coleoptiles W and X?	(2 marks)
+d	What can be concluded from the results of coleoptiles W, Y and Z?																(2 marks)
+
+-- answer --
+a	Coleoptile tip is necessary for detecting light.						2m
+b	Coleoptile W and Z grow towards light.							1m
+Coleoptile X does not grow.									1m
+Coleoptile Y grows straight upwards.								1m
+c	Coleoptile tip is necessary for growth.								2m
+d	Coleoptile tip is sensitive to unilateral light.							2m 	
+---------------------------------------------------
+
+[10273578]
+// Graph interpretation // High order thinking // Comparison //
+**	Visual acuity is the degree to which details of objects are seen. Figure I shows the relative acuity of vision in the central and peripheral areas of the retina in a person. One of his eyes (the dark-adapted eye) was kept in darkness. The other eye (the light-adapted eye) was left open under bright sunlight. Figure II shows the numbers of rod cells and cone cells across his retina.
+	
+	
+
+a	Which eye, the light-adapted eye or the dark-adapted eye, allows a person to read a book more clearly? Explain your answer. 				(3 marks)
+b	What does area Y shown in the two figures represent? Explain your answer.														(3 marks)
+c	Compare the visual acuity in the part of the retina labelled X between the dark-adapted and light-adapted eyes. Explain briefly.			(2 marks)
+d	From the information shown in the figures, derive two properties of the cone cells which are different from those of the rod cells.			(2 marks)
+-- answer --
+a	When light rays from objects focus on the yellow spot of the retina, we can see things most clearly.											1m
+According to figure I, the light-adapted eye has the highest acuity of vision at the yellow spot.												1m
+Therefore, the light-adapted eye allows the person to read more clearly. 	1m
+b	It represents the blind spot.										1m
+This is because there are no rod cells nor cone cells in that area (as shown in figure II)													1m
+and we cannot see anything when light rays are focused on this area (acuity of vision is 0 as shown in figure I).									1m
+c	The dark-adapted eye has a higher visual acuity than the light-adapted eye in 
+part X.													1m
+Part X is more sensitive to dim light because part X contains more rod cells than cone cells.													1m
+d	Cone cells are more important for clear / acute vision.					1m
+Cone cells are important for bright-light vision.						1m	
+---------------------------------------------------
+
+[10273580]
+// Experiment // Schematic diagram // Applying concepts //
+*	a	The shoots of all plants show positive phototropism. Explain why phototropism in plants is a form of irritability.				(2 marks)
+b	Two experiments were done to investigate phototropism in plant shoots.
+i	Experiment 1
+	
+
+Explain the responses of shoots P and Q.				(5 marks)
+ii	Experiment 2
+
+	
+
+Why does shoot R exhibit a tropic response but not shoot S?															(5 marks)
+
+-- answer --
+a	The shoot tip is sensitive to light which is a stimulus.					1m
+The shoot responds by bending towards the light.					1m
+b	i	Auxins are produced in the shoot tip.							1m
+The pieces of glass prevent auxins from moving down the shoots on one side. 												1m
+There is a higher concentration of auxins on the right side of shoot P and left side of shoot Q. 										1m
+The high auxin concentration stimulates cell elongation.			1m
+Therefore, the sides without glass grow faster. This leads to the bending of the shoots.											1m
+ii	The ring of tin foil does not interfere with the tip of shoot R to receive light.															1m
+The unilateral light causes auxins to move to the shaded side,		1m
+so that the shaded side grows faster than the illuminated side.		1m
+Light cannot fall on the tip of shoot S because it is covered by the tin foil cap.														1m
+Auxins are evenly distributed and thus shoot S grows straight upwards. 															1m	
+---------------------------------------------------
+
+[10273581]
+// Comparison // Schematic diagram // Applying concepts //
+	The diagram below shows a section of Peter's eyeball.
+
+	
+
+a	Name structures P, Q and R.								(3 marks)
+b	Peter is now reading a book. Describe the changes in structures P, Q and R when Peter turns to look at a building outside the window.		(3 marks)
+c	Peter cannot see the building clearly. What eye defect may he have? Suggest a kind of lens he can wear to correct the eye defect.			(2 marks)
+d	S and T are two regions on the retina. Compare the numbers of cone cells and rod cells in these two regions.							(2 marks)
+
+-- answer --
+a	P: ciliary body												1m
+Q: suspensory ligament										1m
+R: lens												 	1m
+b	Ciliary muscles of P relax.										1m
+The tension in Q increases / Q tightens.							1m
+R is pulled by Q and becomes thinner / less convex.					1m
+c	Short sight													1m
+He can wear concave lenses.									1m
+d	Region S contains a lot of cone cells but no rod cells.					1m
+Region T contains no cone cells nor rod cells.						1m	
+---------------------------------------------------
+
+[10273586]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the densities of two types of light-sensitive cells measured from the yellow spot to the edge of the retina.
+	
+
+a	Name cells P and Q.									(2 marks)
+b	Which cell works well in a dark environment?				(1 mark)
+c	Nancy claimed that she could well distinguish the colour of an object in a dark environment. Do you believe this? Explain your answer.	(2 marks)
+d	How can a person 'see' an image after cells P and Q are stimulated?																(3 marks)
+
+-- answer --
+a	Cell P: rod cell												1m
+Cell Q: cone cell											1m
+b	Cell P													1m
+c	No.														1m
+Cone cells (cell Q), which are responsible for colour vision, are sensitive to bright light only.													1m
+d	When cells P and Q are stimulated by light, they send out nerve impulses. 	1m
+The nerve impulses are then transmitted along the optic nerve			1m
+to the visual centre in the brain for interpretation.						1m	
+---------------------------------------------------
+
+[10273596]
+// Communication // Schematic diagram // Basic concepts //
+*	Refer to the following diagram of the human eye and consider a person watching a bright object moving towards him.
+	
+a	Using the letters in the diagram, give the parts in the human eye that will change when the bright object moves towards the person. Describe and explain the changes.									(7 marks)
+b	i	State the letter of the part where we can see an object most clearly when the image of that object falls on there. Name the part.	(2 marks)
+ii	Explain briefly why we can see most clearly when the image falls on this part.										 	(1 mark)
+
+-- answer --
+a	When the object is getting nearer, P contracts.						1m
+Tension in J is reduced,										1m
+so N becomes more convex to focus light rays from the object onto the retina.																1m
+Light is refracted more by N.									1m
+The circular muscles of K contract								1m
+and this makes L smaller in size.									1m
+Less light can enter the eye to prevent U from being damaged by bright light.																1m
+b	i	S													1m
+Yellow spot			 								1m
+ii	The concentration of cone cells is the highest here.				1m	
+---------------------------------------------------
+
+[10273597]
+// Schematic diagram // Basic concepts //
+	The diagrams below show the responses of the pupil and radial muscles of iris under different conditions. 
+	
+
+a	List two main differences between P and Q.					(2 marks)
+b	What condition does P respond to? What is the significance of this 
+response?												(2 marks)
+The diagrams below show the suspensory ligaments and lens under different conditions.
+	
+
+c	List two main differences between R and S.					(2 marks)
+d	What condition does R respond to?						(1 mark)
+e	What condition does S respond to?							(1 mark)
+f	Provide one situation in which both responses Q and R would occur. What is the significance of these responses in this situation?			(2 marks)
+
+-- answer --
+a	P: small pupil and relaxed radial muscles							1m
+Q: large pupil and contracted radial muscles						1m
+b	Bright light condition											1m
+To reduce the amount of bright light entering the eye.					1m
+
+c	R: reduced tension in suspensory ligaments and a thicker lens 			1m
+S: increased tension in suspensory ligaments and a thinner lens			1m
+d	When the eye is focusing on near objects							1m
+e	When the eye is focusing on distant objects							1m
+f	When searching for something in the dark							1m
+To let more light enter the eye and have a closer look at objects.			1m	
+---------------------------------------------------
+
+[10273616]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the distribution of rod cells and cone cells on the retina.
+	
+
+a	What is spot X? State what happens if the image of an object falls on this point.												(2 marks)
+b	Name spot Y. Compare the distribution of rod cells and cone cells at this spot.													(3 marks)
+c	Can the rod cells and cone cells be found in choroid?			(1 mark)
+d	Compare the functions of rod cells and cone cells.				(2 marks)
+-- answer --
+a	Blind spot													1m
+The object cannot be seen.										1m
+b	Yellow spot												1m
+It has a high concentration of cone cells but no rod cells.				2m
+c	No														1m
+d	Rod cells are responsible for black and white vision. Cone cells are responsible for colour vision.												2m	
+---------------------------------------------------
+
+[10273632]
+// Drawing // Applying concepts //
+*	Student X can only read the words clearly in a book nearby but not those on the blackboard at the far end of the classroom. On the contrary, student Y can read the words on the blackboard but not those in a book nearby. 
+a	i	What eye defect does student X have?					(1 mark)
+ii	What should be done to correct this eye defect? Explain with a 
+diagram.											(4 marks)
+b	i	What eye defect does student Y have? 					(1 mark)
+ii	What should be done to correct this eye defect? Explain with a 
+diagram.											(4 marks)
+
+-- answer --
+a	i	Short sight												1m
+ii	Wear glasses with concave lenses.							1m
+
+																3m
+b	i	Long sight												1m
+ii	Wear glasses with convex lenses.							1m
+
+														3m	
+---------------------------------------------------
+
+[10273636]
+// Drawing // Applying concepts //
+*	Susan suffers from long sight. Figure I shows one of her eyes. She wears blue-coloured contact lenses to correct her vision as shown in figure II.
+
+	
+
+a	Name structures X, Y and Z.								(3 marks)
+b	Draw a ray diagram to show how the contact lenses correct the vision of Susan.												(4 marks)
+c	Suggest why the coloured contact lenses do not turn her vision blue.																(1 mark)
+d	Susan finds that when she enters a dark room wearing the coloured contact lenses, she cannot see clearly. Explain why.					(4 marks)
+
+-- answer --
+a	X: pupil													1m
+Y: iris													1m
+Z: sclera													1m
+
+b	
+
+Diverging light rays from near objects with arrows					1m
+Continuous light rays focus onto the retina							1m
+Correct drawing and labelling of convex lens						1m
+Correct title												1m
+c	The central part of the contact lens is transparent with no colour.			1m
+d	When Susan enters a dark room, her pupils dilate					1m
+to allow more light to enter her eyes.								1m
+If the size of pupils is larger than the central transparent parts of the contact lenses,													1m
+the vision will become blurred.									1m	
+---------------------------------------------------
+
+[10273638]
+// Communication // Schematic diagram // Basic concepts //
+	The diagram below shows the front view of a human eye.
+	
+
+a	Identify P, Q and R.										(3 marks)
+b	Q contains two groups of muscles. What are they? How do they control the size of R and what is the significance of this action?			(6 marks)
+-- answer --
+a	P: sclera												1m
+Q: iris												1m
+R: pupil												1m
+b	Radial muscles and circular muscles							1m x 2
+When the radial muscles contract and the circular muscles relax, the pupil dilates.															1m
+On the contrary, when the circular muscles contract and the radial muscles relax, the pupil constricts.										1m
+Dilation of the pupil allows more light to enter the eyeball in dim light condition.															1m
+Constriction of the pupil limits the amount of light entering the eye in bright light condition.												1m	
+---------------------------------------------------
+
+[10273647]
+// Schematic diagram // Applying concepts //
+	The diagram below shows the structure of an eyeball.
+	
+a	Identify structures P, Q, R and S.							(4 marks)
+b	Structures T, U and V are important for eye accommodation. How do they focus an image of the following objects on the retina?
+i	A flying bird in the sky								(3 marks)
+ii	The watch on your wrist								(3 marks)
+-- answer --
+a	P: sclera													1m
+Q: choroid													1m
+R: retina													1m
+S: yellow spot												1m
+b	i	The ciliary muscles (V) relax.								1m
+The tension in the suspensory ligaments (U) is increased.			1m
+The lens (T) becomes less convex / thinner. Light is refracted less.	1m
+ii	The ciliary muscles (V) contract. 							1m
+The tension in the suspensory ligaments (U) is reduced.			1m
+The lens (T) becomes more convex / thicker. Light is refracted more.	1m	
+---------------------------------------------------
+
+[10273675]
+// Drawing // STSE connections // Schematic diagram // Applying concepts //
+**	Tony had suffered from short sight for many years and he decided to undergo laser eye surgery. This surgery is a procedure that permanently changes the shape of the cornea using a laser beam. The diagram below shows how the surgery was carried out. 
+	
+a	Name X and Y.										(1 mark)
+b	How does the shape of Z cause short sight?					(1 mark)
+c	i	Why is the shape of cornea but not the shape of lens changed in the laser eye surgery?									(1 mark)
+ii	Explain briefly how changing the shape of the cornea can correct the vision of Tony.										(2 marks)
+d	Draw a ray diagram to show the path of light rays entering Tony's eye
+i	before the surgery									(3 marks)
+ii	after the surgery									(3 marks)
+when Tony focuses a distant object.
+e	Suggest one potential risk involved with laser eye surgery.		(1 mark)
+-- answer --
+a	X: conjunctiva; Y: cornea 										1m
+b	Z (the lens) is too convex / too thick.								1m
+c	i	The cornea is located nearer to the surface of the eyeball. It is more accessible by the laser beam.								1m
+ii	The refractive power / curvature of the cornea is changed,			1m
+so that the image of an object can be focused onto the retina again.	1m
+d	i	
+
+Correct title											1m
+Parallel light rays from a distant object (with arrows)				1m
+Continuous light rays focus in front of the retina					1m
+ii	
+
+Correct title											1m
+Parallel light rays from a distant object (with arrows)				1m
+Continuous light rays focus onto the retina						1m
+e	The eyes may get inflamed. /
+Short sight is over-corrected or under-corrected. 
+(or other reasonable answers)									1m	
+---------------------------------------------------
+
+[10273691]
+// Graph interpretation // Applying concepts //
+**	Visual acuity is the degree of sharpness of details seen by an eye. The graph below shows the visual acuity of a light-adapted eye and a dark-adapted eye.
+
+	
+
+a	State the differences in visual acuity between a light-adapted eye and a dark-adapted eye.										(4 marks)
+b	With reference to your answer to a, explain the differences in terms of the distribution of rod cells and cone cells in the retina.			(2 marks)
+c	What is region X? Explain how you can identify it. 			(2 marks)
+
+-- answer --
+a	A light-adapted eye has the highest visual acuity at the yellow spot, 		1m
+and the visual acuity is the lowest at the sides of the eye.				1m
+A dark-adapted eye has uniform visual acuity at the sides of the eye,		1m	
+and the visual acuity is the lowest at the yellow spot.					1m
+b	Cone cells are sensitive to light of high intensity and they are concentrated at the yellow spot.												1m
+Rod cells are sensitive to light of low intensity and they are concentrated at the sides of the retina.											1m
+c	Blind spot													1m
+There are no cone cells nor rod cells in the region.					1m	
+---------------------------------------------------
+
+[10273698]
+// Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of a human ear.
+	
+
+a	Name structures P and Q.								(2 marks)
+b	Name the structure which connects the ear bones to R.			(1 mark)
+c	Briefly describe how a person hears.						(7 marks)
+d	The photograph below shows a hearing aid. The hearing aid works by amplifying sound waves and transmitting them to P.
+	
+Explain whether the hearing aid can still help if R of the person is damaged.													(2 marks)	
+
+-- answer --
+a	P: auditory canal											1m
+Q: eardrum												1m
+b	Oval window												1m
+
+c	The pinna collects and directs sound waves along the auditory canal / P to the eardrum / Q. 												1m
+Sound waves cause the eardrum / Q to vibrate. 						1m
+The ear bones amplify and transmit vibrations from the eardrum / Q to the oval window. 													1m
+The oval window vibrates, making the perilymph of the cochlea / R vibrate. 	1m
+Vibrations in the perilymph are transmitted to the endolymph of the central canal. 																1m
+Hairs of sensory hair cells in the central canal are bent and the cells send out nerve impulses. 											1m
+Nerve impulses travel along the auditory nerve to the auditory centre in the brain to produce the sensation of hearing. 	 							1m
+d	No. 
+If R is damaged, vibrations cannot be transmitted to R / cannot be detected by the sensory hair cells.											1m
+No nerve impulses can be sent to the auditory centre in the brain. 		1m	
+---------------------------------------------------
+
+[10273700]
+// Applying concepts //
+	In mammals, the ear is an organ for hearing as well as detecting head movements.
+a	List the parts of the ear involved in hearing and those involved in the detection of head movements respectively.					(4 marks)
+b	As an aeroplane took off, a passenger felt pain in the ears. Another passenger who was chewing gum felt less uncomfortable. Explain.																(4 marks)
+-- answer --
+a	Hearing: pinna, auditory canal, eardrum, ear bones, cochlea and auditory nerve (any 3)												1m x 3
+Detecting head movements: semicircular canals					1m
+b	The air pressure in the surroundings became lower than that in the middle ear.															1m
+The eardrum bulged outwards and caused pain.					1m
+When a person was chewing gum, the Eustachian tube was opened to allow air to enter and leave the middle ear.								1m
+Air pressure on both sides of the eardrum was equalized.			1m	
+--------------------------------------------------- 
+
+[10273701]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows an investigation of the action of auxins on the growth of plant shoots.
+
+	
+
+a	i	Name the most common naturally occurring auxin.		(1 mark)
+ii	The shoot bends in the investigation. Explain why.		(4 marks)
+iii	Suggest where auxins are synthesized in a shoot.			(1 mark)
+b	Suggest one application of auxins in agriculture.				(1 mark)
+
+-- answer --
+a	i	Indoleacetic acid										1m
+ii	Auxins diffuse from the shoot tip to the agar block.				1m
+Then auxins diffuse to the cut shoot.							1m
+High concentration of auxins promotes elongation of the shoot.		1m
+The side of the shoot with higher auxin concentration grows faster.	1m
+iii	Shoot tip												1m
+b	Auxins can be used in rooting powder for cutting. / Auxins can promote growth of roots of the cutting.											1m 	
+---------------------------------------------------
+
+[10273711]
+// Data handling // Calculation // Communication // Schematic diagram //
+**	In an experiment designed to study the effect of auxins on the growth of coleoptiles, 10 mm sections of coleoptiles were obtained from a number of grass seedlings.
+	
+
+Auxin solutions of different concentrations were prepared, and one coleoptile section was put into each solution. The solutions were kept in darkness for two days. The length of each coleoptile section was then measured. The table below shows the results. 
+Auxin concentration (ppm)	Length of coleoptile section (mm)	% stimulation or inhibition of growth	
+0 (distilled water)	12.5	0	
+10-3	13.0		
+10-2	14.0		
+10-1	15.0		
+1	17.0		
+10	18.0		
+102	12.0		
+
+a	Calculate the values for the third column of the table.			(3 marks)
+b	In another experiment, two sets of agar blocks were prepared. One set contained 10-3 ppm of auxins and the other set contained 10 ppm. An agar block was placed on the left side of the cut end of a decapitated coleoptile. Five coleoptiles were treated similarly for each auxin concentration. These ten coleoptiles were kept in darkness for two days.
+i	Describe and explain the results you expect.				(5 marks)
+ii	Why should the coleoptiles be kept in darkness?			(1 mark)
+iii	What results do you expect with another batch of decapitated coleoptiles treated with agar blocks immersed in distilled water?															(1 mark)
+c	Using the results in b, explain phototropism in coleoptiles. 		(2 marks)
+-- answer --
+a	Compared with the growth of the coleoptile section in distilled water, i.e. 2.5 mm in length, the percentage stimulation or inhibition of growth caused by different concentrations of auxins is as follows.
+Auxin concentration (ppm)
+Length of coleoptile section (mm)
+% stimulation or inhibition of growth
+
+0 (distilled water)
+12.5
+0
+
+10-3
+13.0
++20%
+
+10-2
+14.0
++60%
+
+10-1
+15.0
++100%
+
+1
+17.0
++180%
+
+10
+18.0
++220%
+
+102
+12.0
+(20%
+
+																3m
+b	i	For coleoptiles with agar blocks containing 10-3 ppm of auxins, the coleoptiles would bend slightly to the right.						1m
+For coleoptiles with agar blocks containing 10 ppm of auxins, the coleoptiles would also bend to the right. The degree of bending would be larger.	1m
+The auxins in the agar blocks would travel down the side of the coleoptiles directly under the agar blocks. 								1m
+The higher auxin concentration on the left side would stimulate a faster growth. This would result in bending.							1m
+Auxin concentration of 10 ppm would have a greater stimulating effect on the growth of coleoptiles than 10-3 ppm. This would result in a larger degree of bending. 												1m
+ii	Presence of unilateral light would affect auxin distribution within the coleoptiles.											1m
+iii	There would be no bending and the length of coleoptiles would remain unchanged.											1m
+c	Presence of unilateral light causes more auxins to be present on the shaded side of a coleoptile.												1m
+Higher auxin concentration on the shaded side results in a faster growth and the coleoptile bends towards the unilateral light.						1m	
+---------------------------------------------------
+
+[10273718]
+// Graph plotting // Graph interpretation // Experiment // Comparison // Applying concepts //
+*	A seedling with a straight plumule and radicle was exposed to unilateral light for 30 hours. The angles of curvature of the plumule and the radicle were measured every 6 hours. The results are shown in the following table. 
+Duration of exposure to light (hour)	Angle of curvature	
+	Plumule	Radicle	
+0	0°	0°	
+6	+5°	(2°	
+12	+12°	(5°	
+18	+15°	(9°	
+24	+17°	(12°	
+30	+20°	(14°	
+a	Plot a graph to show the results.							(4 marks)
+b	What is the angle of curvature of the plumule after 15 hours of illumination?
+															(1 mark)
+c	Compare the responses of the plumule and the radicle.			(3 marks)
+d	Suggest how the responses of the plumule and the radicle are important to the growth of the seedling.								(2 marks)
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line								1m
+b	Between +13° and +14°										1m
+c	The plumule is positively phototropic / grows towards the light. 			1m
+The radicle is negatively phototropic / grows away from the light.			1m
+The angle of curvature of the plumule is greater than that of the radicle.	1m
+d	This ensures that the leaves of the shoot get as much light as possible for photosynthesis												1m
+and the roots grow deep into the soil to get better anchorage.			1m	
+---------------------------------------------------
+
+[10273732]
+// Experiment // Communication // Applying concepts //
+*	In an experiment to find out how auxins affect shoots, some maize coleoptiles were grown in three pots, P, Q and R. Some IAA (auxins) was mixed with lanolin. The mixture was then smeared on one side of each coleoptile in pot P. The procedure was repeated with the coleoptiles in pot Q, but using pure lanolin. The coleoptiles in pot R received no treatment. All three pots were put onto moving clinostats in the laboratory for 24 hours. 
+a	What is the purpose of setting up pot Q in this experiment?		(1 mark)
+b	Why were the pots put onto moving clinostats?				(1 mark)
+c	Explain the results you expect to observe for coleoptiles in pots P, Q and R. 
+															(5 marks)
+d	Explain the growth response of a shoot under unilateral light with respect to the effects of auxins.									(3 marks)
+-- answer --
+a	This is to see whether pure lanolin has any effect on the growth of shoots.	1m
+b	This is to cancel out any effects of unilateral light.					1m
+c	For coleoptiles in pot P, the presence of IAA would stimulate growth.		1m
+The side with IAA would grow faster than the side without IAA.			1m
+So the coleoptiles would bend towards the side without IAA.				1m
+For coleoptiles in pot Q, pure lanolin had no effect on the growth rate. So the coleoptiles would grow straight.									1m
+For coleoptiles in pot R, there were no extra chemicals to affect the growth rate and the coleoptiles would grow straight.							1m
+
+
+
+d	Unilateral light causes an uneven distribution of auxins in the region behind the shoot tip.													1m
+There are more auxins on the shaded side.							1m
+The shaded side grows faster and so the shoot bends towards the light.	1m	
+---------------------------------------------------
+
+[10273737]
+// Scientific investigation // Design experiment // Communication // Schematic diagram //
+**	A student drew the diagram below to describe an experiment used for showing a chemical from the shoot tip is responsible for the bending of shoots towards light.
+	
+a	Name the chemical that is responsible for the bending of shoots towards light in this experiment.									(1 mark)
+b	State one precaution that should be taken when performing this experiment.														(1 mark)
+c	Suggest two control set-ups for this experiment.				(2 marks)
+d	What was wrong in the results of Q and R drawn by the student?																	(2 marks)
+e	Design one other experiment to investigate the effect of light on the distribution of the chemical in the shoot tip. Briefly describe the steps with the help of a diagram and predict the results.					(6 marks)
+-- answer --
+a	Auxins												1m
+b	The decapitated shoots should be put in darkness. 				1m
+c	Set-up 1: A shoot with the tip removed and without an agar block.		1m
+Set-up 2: Put an agar block that does not contain the chemical on top of a shoot with the tip removed.										1m
+d	The fully grown portions of the shoots should not have bent.			1m
+Bending should occur just below the cut ends / at the region of elongation.																1m
+e	
+
+Correct drawing											1m 
+Correct steps											1m x 3
+Shoots X and Y will bend towards the right.						1m
+The degree of bending in shoot X is larger than that in shoot Y.		1m	
+---------------------------------------------------
+
+
+[10273741]
+// Design experiment // Communication // Applying concepts //
+**	You are given the following: some germinated maize coleoptiles in two pots, a blackened cardboard box and a table lamp.
+a	Set up one experiment to show that the coleoptile tip is responsible for detecting the presence of unilateral light. State the expected results.																(3 marks)
+b	With some agar blocks and an auxin solution, set up one other experiment to show that bending of coleoptile is due to an uneven distribution of auxins in the coleoptile.										(5 marks)
+c	State the terms given to the different growth responses of roots and shoots towards unilateral light respectively.						(2 marks)
+-- answer --
+a	Cut a hole on one side of the box. Put the box next to the table lamp with the hole facing the lamp.												1m
+Cut off the tips of the coleoptiles in one of the pots. Place the pot of decapitated coleoptiles and the pot of intact coleoptiles inside the box.				1m
+Only the coleoptiles with tips will bend towards the light. There is no bending in the cut coleoptiles.												1m
+b	Immerse some agar blocks in the auxin solution. Cut off the tips of the coleoptiles. Divide the decapitated coleoptiles into two groups. 					1m	
+For one group of coleoptiles, put an agar block that contains auxins on one side (e.g. the left side) of the cut end.									1m
+For another group of coleoptiles, put an agar block that does not contain auxins on the same side of the cut end.									1m
+Only the coleoptiles with agar blocks that contain auxins will bend away from the side with the agar blocks (i.e. to the right).							1m
+There should be no bending in the coleoptiles with agar blocks that do not contain auxins.													1m
+c	Roots: negatively phototropic									1m
+Shoots: positively phototropic									1m	
+---------------------------------------------------
+
+
+[10273805]
+// Scientific investigation // Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows four set-ups of an experiment, which is carried out to study phototrophism in plant shoots. The set-ups are put in darkness.
+	
+a	Why are the set-ups put in darkness?						(1 mark)
+b	Describe how the shoots will grow (if any) after two days. Give an explanation in each case.									(8 marks)
+
+c	From the results of set-ups Q and R, what conclusion can be drawn?																(1 mark)
+d	From the results of set-ups R and S, what conclusion can be drawn?																(1 mark)
+
+-- answer --
+a	To eliminate the effect of light on the growth of shoots.					1m
+b	P: The shoot grows straight upwards								1m
+because auxins produced from the shoot tip diffuse through the agar block to the region of elongation of the shoot. The auxins are evenly distributed in the shoot and they stimulate uniform growth of all sides of the shoot.				1m
+Q: The shoot does not grow									1m
+because auxins produced from the shoot tip cannot diffuse through the mica plate to the region of elongation of the shoot.							1m
+R: The shoot grows straight upwards								1m
+because auxins produced from the shoot tip travel down to the region of elongation of the shoot. The auxins are evenly distributed in the shoot and they stimulate uniform growth of all sides of the shoot.							1m
+S: The shoot bends towards the left								1m
+because auxins produced from the shoot tip travel down to the right side of the region of elongation of the shoot. The right side with a higher auxin concentration grows faster than the left side.									1m
+c	Auxins produced in the shoot tip move down from the tip and cause growth below the tip. 													1m
+d	The bending of the shoot is caused by an uneven distribution of auxins in the shoot.													1m	
+---------------------------------------------------
+
+
+Essays
+
+[10273893]
+// Scientific investigation // Design experiment // Communication //
+*	Peter put a pot of seedlings by the window. A few days later, he found that the seedlings bent towards the window. He thought that the seedlings were growing towards light.
+
+	
+
+Design an investigation to prove Peter's idea. List the procedure and describe the results of the investigation. State clearly what the independent variable, dependent variable and controlled variables are.					(12 marks)
+
+-- answer --
+Prepare two pots of similar seedlings that are growing upright.				1m
+Put one of the pots under unilateral light and the other pot in darkness.			1m
+Leave both pots for the same number of days. Water the seedlings regularly.	1m
+After a few days, the seedlings kept under unilateral light will bend towards the light,																	1m
+while the seedlings kept in the dark will grow straight upwards.				1m
+Independent variable: presence of unilateral light							1m
+Dependent variable: the direction of growth of the seedlings					1m
+Controlled variables: the type of plants, the number of days of leaving the plants to grow
+(or other correct answers)											2m
+Communication													3m	
+---------------------------------------------------
+
+[10273903]
+// Communication // Applying concepts //
+*	Describe how the eye and the ear of humans detect stimulus. Give an account of how the structures of the eye and the ear are adapted for detecting stimuli.																(12 marks)
+
+-- answer --
+The eye is the sense organ for detecting light. The ear is the sense organ for detecting sound. 														1m
+In the eye, the cornea, aqueous humour, lens and vitreous humour are transparent. They are responsible for refracting light rays that enter the eye. 				1m
+Light rays are focused on the retina, where light-sensitive cells (rod cells and cone cells) are located. 													1m
+When the light-sensitive cells are stimulated by light, they send nerve impulses to the brain through the optic nerve for interpretation. 							1m
+In the ear, sound waves are collected by pinna. 							1m
+The sound waves cause the eardrum to vibrate. 							1m
+Ear bones are responsible for amplifying and transmitting the vibrations. 		1m
+When the vibrations reach the fluids in the cochlea, sensory hair cells are stimulated. 																	1m
+The sensory hair cells send nerve impulses to the brain through the auditory nerve for interpretation. 													1m
+Communication													3m	
+---------------------------------------------------
+
+
+[10273905]
+// Communication // Basic concepts //
+*	Describe what eye accommodation is. Illustrate this with daily-life examples.															(12 marks)
+
+-- answer --
+Eye accommodation is the ability of the eye to focus on objects at different distances.																	1m
+It is brought about by the action of the ciliary muscles, which contract or relax to change the tension in the suspensory ligaments,								1m
+thereby changing the curvature of lens for focusing light rays onto the retina.		1m
+For example, when we are reading a book (or other suitable examples), we are focusing on a near object.												1m
+Ciliary muscles contract. This reduces the tension in the suspensory ligaments and makes them slacken.												1m
+Since the lens is elastic, it becomes more convex (thicker) and refracts light more.																	1m
+When we are looking at the buildings across the harbour (or other suitable examples), we are focusing on distant objects.									1m
+Ciliary muscles relax. This increases the tension in the suspensory ligaments and they become tightened. 												1m
+As a result, the lens is pulled. The lens becomes less convex (thinner) and refracts light less.															1m
+Communication													3m	
+---------------------------------------------------
+
+
+[10273906]
+// Communication // Basic concepts //
+*	A person looks at a distant object and then a near object. Describe how the actions of different structures in a human eye help focus the light rays from a distant object and then the light rays from a near object onto the retina.																(12 marks)
+
+-- answer --
+The light rays from a distant object are parallel. /
+The light rays first pass through the transparent cornea. /
+The cornea and aqueous humour help refract the light rays. /
+The light rays then pass through the pupil. The size of the pupil is controlled by the circular muscles and radial muscles of the iris. /
+The ciliary muscles relax. /
+The tension in the suspensory ligaments is increased. /
+The lens becomes less convex. /
+The lens refracts and focuses the light rays onto the retina. /
+The choroid contains a black pigment which absorbs light. This reduces the reflection of light within the eye. /
+The light rays from a near object are diverging. /
+When the eye focuses on a near object, the ciliary muscles contracts. /
+The tension in the suspensory ligaments is reduced. /
+The lens becomes more convex. /
+The light rays are refracted more and focused onto the retina. 
+(any 9)													1m x 9
+Communication												3m	
+---------------------------------------------------
+
+[10273913]
+// Communication // Basic concepts //
+*	How can we detect sound? Write an essay on the processes involved in the detection of sound waves in the ear and the generation of nerve impulses.																(10 marks)
+
+-- answer --
+The pinna collects and directs sound waves along the auditory canal to the eardrum.																	1m
+Sound waves cause the eardrum to vibrate.								1m
+The ear bones amplify and transmit vibrations from the eardrum to the oval window.																	1m
+The oval window vibrates, making the perilymph of the cochlea vibrate.		1m
+Vibrations in the perilymph are transmitted to the endolymph of the central canal.	1m
+Hairs of sensory hair cells in the central canal are bent and the cells send out nerve impulses.														1m
+Nerve impulses travel along the auditory nerve to the auditory centre of the brain to produce the sensation of hearing.									1m
+Communication													3m	
+---------------------------------------------------
+

@@ -1,0 +1,1296 @@
+( Chapter 30		Evolution II
+
+Multiple-choice questions
+
+[10278206]
+// Comparison //
+(*	Darwin and Lamarck proposed their theories to explain the mechanism of evolution. Which of the following is stated in both theories?
+A	Variations exist among individuals of the same species.
+B	Individuals can develop new characters in response to the environmental changes.
+C	The environment selects those individuals with favourable characters to survive.
+D	The characters of individuals would be passed on to their offspring.
+D	
+---------------------------------------------------
+
+[10278209]
+// Graph interpretation //
+(**The Galapagos Islands contain many different species of finches with different beak sizes. A scientist suggested that the finches have evolved beaks of different sizes to reduce the competition for food. To find out whether he was correct, he calculated the ratios of beak depths in pairs of different finch species in the same habitat and the percentage similarities of their diets. The photographs below show how the beak depth of a finch was measured.
+	
+
+
+Which of the following is most likely to be the experimental result if the hypothesis of the scientist is correct?
+A								B
+	
+C								D
+	
+
+A
+Note:
+A higher ratio of beak depths means there is a larger difference in the beak sizes. The graph in option A shows that two finches with a larger difference in beak sizes have a smaller similarity in their diets and hence a smaller competition.
+
+	
+---------------------------------------------------
+
+
+[10278221]
+// Applying concepts //
+(**Evolution of species is likely to be faster in a changing environment than in a stable environment because
+A	more individuals are produced in the changing environment.
+B	variations among individuals in the changing environment are larger.
+C	the environment keeps selecting individuals with different characters in the changing environment.
+D	mutations in the changing environment are more frequent.
+C	
+---------------------------------------------------
+
+[10278222]
+// Basic concepts //
+(	When the theory of natural selection was first put forward by Darwin, it was 	based on
+A	Lamarck's findings.
+B	the knowledge of genes and variations.
+	C	the results from many controlled experiments.
+	D	the observations of the natural world.
+D	
+---------------------------------------------------
+
+[10278223]
+// Comparison // Applying concepts //
+(*	In which of the following ways are the explanations for the mechanism of evolution by Darwin and Lamarck similar?
+(1)	Evolution involves environmental changes which create variations among individuals.
+(2)	Evolution relies on the passing on of characters from parents to offspring.
+(3)	Individuals with acquired characters survive and reproduce.
+	A	(2) only				B	(1) and (2) only
+	C	(1) and (3) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10278251]
+// Basic concepts //
+(	According to Darwin's theory of natural selection, what is the cause of the struggle for existence within a population?
+A	variations between individuals 
+B	overproduction of offspring
+	C	inheritance of favourable characters in offspring
+	D	adaptation to the environment 
+B	
+---------------------------------------------------
+
+[10278258]
+// Applying concepts //
+(*	Which of the following supports the theory of natural selection?
+A	Selective breeding of domesticated animals can cause species to change.
+B	Mice with their tails cut off give birth to offspring with tails.
+	C	Offspring produced by sexual reproduction are genetically different.
+	D	Giraffes have long necks. 
+A	
+---------------------------------------------------
+
+[10278259]
+// Applying concepts //
+(*	A certain area once supported a wide range of large animals and they have been displaced by a variety of small tree-climbing mammals. According to Darwinism, which of the following is the best explanation for the change?
+A	Large animals could not cope with environmental changes and became sterile.
+B	Environmental changes forced animals to learn tree-climbing skills.
+C	Larger tree-climbing mammals reduced their size to cope with environmental changes.
+D	Small tree-climbing mammals coped better with environmental changes and survived to produce offspring.
+D	
+---------------------------------------------------
+
+
+[10278264]
+// Applying concepts //
+(*	Which of the following processes tends to reduce variety within a population?
+A	mutation						B	speciation
+	C	natural selection				D	gene flow
+C	
+---------------------------------------------------
+
+[10278268]
+// Data handling // Applying concepts //
+(*	The table below shows if mating between six members of the canine family can produce fertile offspring.
+	Dog	Coyote	Dingo	Side-striped jackal	Black-backed jackal	Golden jackal		Dog	(	(	(	(	(	(		Coyote	(	(	(	(	(	(		Dingo	(	(	(	(	(	(		Side-striped jackal	(	(	(	(	(	(		Black-backed jackal	(	(	(	(	(	(		Golden jackal	(	(	(	(	(	(			Key: ( = can produce fertile offspring; ( = cannot produce fertile offspring
+How many species are there in the table?
+A	2							B	3
+	C	4							D	5
+B	
+---------------------------------------------------
+
+[10278275]
+// Applying concepts //
+(*	Why do bacteria in general evolve more rapidly than plants?
+(1)	Bacteria reproduce by binary fission.
+	(2)	Bacteria have a shorter life cycle.
+(3)	Bacteria mutate more readily.
+	A	(1) and (2) only				B	(1) and (3) only
+	C	(2) and (3) only				D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10278277]
+// Graph interpretation // Calculation // Applying concepts //
+(*	Directions: The following two questions refer to the graph below, which shows the change in the percentage of rabbits resistant to a certain viral disease in a population from 1964-1974. The viral disease is fatal in non-resistant rabbits.
+
+	How many rabbits in the population were not resistant to the viral disease in 	1972?
+A	45
+B	810
+	C	990
+	D	1800
+C	
+---------------------------------------------------
+
+
+[10278282]
+// Graph interpretation // Calculation // Applying concepts //
+(*	How do the results suggest that the virus underwent mutations during 1964-1974?
+A	The percentage of resistant rabbits increased from 1964-1972.
+B	The percentage of resistant rabbits decreased from 1972-1974.
+C	Less than 50% of the population was resistant to the viral disease throughout the period.
+	D	The population of rabbits stopped increasing from 1970
+B	
+---------------------------------------------------
+
+[10278284]
+// Basic concepts //
+(	According to Lamarckism,
+(1)	organisms develop new features to meet the needs created by environmental changes.
+	(2)	variations already exist among individuals of a species.
+	(3)	acquired characters are passed on to offspring.
+	A	(1) and (2) only	
+	B	(1) and (3) only
+	C	(2) and (3) only	
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10278290]
+// Basic concepts //
+(	Both Lamarckism and Darwinism are theories that explain the mechanism of
+	A	natural selection.
+	B	adaptation.
+	C	evolution.
+	D	genetic variation.
+C	
+---------------------------------------------------
+
+
+[10278294]
+// Applying concepts //
+(*	According to the explanations for long necks in modern giraffes by Darwinism and Lamarckism, which of the following statements are suggested by both theories?
+
+	(1)	Giraffes with a short neck once appeared on earth.
+(2)	Having a long neck is an adaptation of giraffes to the new environment.
+(3)	The character of 'long-neck' developed by the ancestor of giraffes was passed on to their offspring.
+	A	(1) and (2) only	
+	B	(1) and (3) only
+	C	(2) and (3) only	
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10278300]
+// Scientific investigation // Applying concepts //
+(	Which of the following steps is not involved in Darwin's study of the Galapagos finches?
+	A	Making observations
+	B	Asking questions
+	C	Doing experiments
+	D	Drawing conclusions
+C	
+---------------------------------------------------
+
+
+[10278305]
+// Basic concepts //
+(	In the theory of natural selection, the phrase 'survival of the fittest' means that
+	A	only organisms that are able to modify their existing structures can survive.
+	B	healthy individuals have a higher chance of survival.
+	C	individuals with favourable characters have a higher chance of survival.
+D	individuals that are less adapted to the changing environment cannot breed and die.
+C	
+---------------------------------------------------
+
+[10278310]
+// Applying concepts //
+(*	Which of the following is/are not necessary in speciation?
+	(1)	environmental changes
+	(2)	variations among individuals of a species
+	(3)	gene flow between two groups of a population
+A	(1) only			B	(2) only
+	C	(3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10278323]
+// Basic concepts //
+(	Before the Industrial Revolution, white peppered moths were the main type of moth in England. Black peppered moths are the mutant type.
+	
+The number of black peppered moths increased greatly during the Industrial Revolution. This is an example of
+	A	natural selection.		B	isolation.
+	C	speciation.			D	evolution.
+A	
+--------------------------------------------------
+[10278356]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows two species of tortoises which evolved from a common ancestor living in the forest.
+
+	
+
+Which of the following statements about the two species of tortoises is incorrect?
+	A	The two species of tortoises cannot interbreed to produce fertile offspring.
+B	The mountain range prevented gene flow between the two populations of tortoises.
+C	Species 1 is more similar to the common ancestor in terms of their genetic make-up.
+D	Species 1 is less adapted to the changing environment.
+D	
+---------------------------------------------------
+
+
+[10278360]
+// Applying concepts //
+(*	Variation is important in a population because
+(1)	it prevents the whole population from becoming extinct when the environment changes drastically.
+	(2)	it allows the population to explore a wider range of habitats.
+	(3)	the weak individuals will sacrifice themselves for the population.
+	A	(1) only				
+	B	(1) and (2) only
+	C	(2) and (3) only		
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10278372]
+// Basic concepts //
+(	Which of the following is/are essential for natural selection to occur?
+	(1)	organisms
+	(2)	variations
+	(3)	change of environment
+	A	(1) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10278387]
+// Basic concepts //
+(	The population change of peppered moths in England after the Industrial Revolution is an example of
+	A	speciation.
+	B	natural selection.
+	C	differentiation.
+	D	variation.
+B	
+---------------------------------------------------
+
+[10278390]
+// Basic concepts //
+(	Indiscriminate use of antibiotics may
+	(1)	reduce the survival chance of antibiotic resistant bacteria.
+	(2)	cause the release of toxic substances by bacteria.
+	(3)	speed up the evolution of antibiotic resistant bacteria.
+	A	(1) only
+	B	(3) only
+	C	(1) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10278391]
+// Basic concepts //
+(	Which of the following statements about Lamarck's theory is not correct?
+	A	Variation already exists within species.
+	B	Environmental change creates a need for organisms to change.
+	C	Individuals can develop new features in order to survive.
+	D	Newly acquired characters can be passed on to later generations.
+A	
+---------------------------------------------------
+
+[10278394]
+// Applying concepts //
+(*	A new insecticide was developed and has been widely used to kill insects. Several years later, a large proportion of insects became resistant to this insecticide. Which of the following is/are illustrated in this phenomenon?
+(1)	formation of new species due to the changes in the environment
+(2)	evolution of a species due to the changes in the environment
+(3)	adaptation of an individual to the changes in the environment
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10278395]
+// Applying concepts //
+(**Scientific investigations show that marine organisms evolved more slowly than organisms living on land. Which of the following is most probably the reason?
+A	Predation is more intense on land than in the sea.
+B	Marine organisms have a longer life span than organisms living on land.
+C	The marine environment is more stable than the land environment.
+D	Mutations occur at a higher rate in organisms living on land. 
+C	
+---------------------------------------------------
+
+[10278409]
+// Basic concepts //
+(	In the theory of natural selection, what is the raw material for evolution?
+A	behavioural variations
+B	genetic variations
+C	climate changes
+D	geographical changes
+B	
+---------------------------------------------------
+
+[10278419]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows four species of birds (P, Q, R and S) on two islands (X and Y).
+	
+
+Which of the following are involved in the formation of species Q and R?
+(1)	natural selection
+(2)	isolation
+(3)	inheritance of favourable characters
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10278430]
+// Schematic diagram // Applying concepts //
+(*	After migration to island Y, species Q gradually evolved into species S. Which of the following cause(s) this?
+(1)	isolation between species Q and R
+(2)	difference in environmental conditions between islands X and Y
+(3)	inheritance of new characters acquired by species Q on island Y
+A	(1) only				B	(2) only
+C	(3) only				D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10278442]
+// Basic concepts //
+(	Which of the following statements about natural selection is not correct?
+A	The existence of variations within species is essential for natural selection to work.
+B	When the environment changes, individuals with favourable characters have a higher chance to survive.
+C	Acquired characters can be passed on to the offspring and make the individuals in the later generations quite different from their ancestor. 
+D	The theory of natural selection is known as Darwinism.
+C	
+---------------------------------------------------
+
+[10278485]
+// Applying concepts //
+(*	Which of the following statements about variations within a species is/are correct?
+(1)	Mutation is one of the causes of these variations. 
+(2)	These variations reduce the chance of extinction of the entire species.
+(3)	These variations allow the species to survive in adverse conditions.
+A	(1) only				B	(1) and (2) only
+C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10278490]
+// Applying concepts //
+(*	A population of rats P was divided by a new highway into two sub-populations Q and R. Many years later, Q had more new characters than R. This shows that
+A	the environmental conditions changed much faster in the habitat of Q than in that of P.
+B	the environmental conditions changed much faster in the habitat of Q than in that of R.
+C	mutations occurred at a higher rate in Q than in P.
+D	mutations occurred at a higher rate in Q than in R.
+B	
+---------------------------------------------------
+
+[10278497]
+// Graph interpretation // Applying concepts //
+(*	A species of moths living in a forest has three variations. They have brown, grey and white bodies and wings respectively. Because of a fungal infection, the tree trunks in a forest became grey in colour. Many years later, the numbers of the three varieties of moths would most probably be
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10278498]
+// Applying concepts //
+(*	A farmer has used a pesticide to kill insect pests in a crop field for a long time. More and more insect pests in the crop field have become resistant to the pesticide because
+A	the pesticide has induced the production of the pesticide resistance gene.
+B	the pesticide has activated the expression of the pesticide resistance gene.
+C	the offspring of the pesticide-resistant pests are all resistant to the pesticide.
+D	the pesticide acts as a force for the evolution of the pests.
+D	
+---------------------------------------------------
+
+[10278499]
+// Basic concepts //
+(*	Which of the following statements about isolation is/are correct?
+(1)	Isolation happens only when groups of organisms are located on two separate islands.
+(2)	Isolation is necessary for speciation. 
+(3)	Isolation stops the gene flow between different groups of organisms. 
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10278500]
+// Applying concepts //
+(*	Charles Darwin found that each island of the Galapagos Islands was occupied by a species of finches. The species on all islands were similar, but each species had a different beak. Which of the following statements about the finches are correct?
+(1)	The formation of different species on each island was due to isolation.
+(2)	The alleles that were present in the population on each island were different.
+(3)	Variations among the populations on different islands would become greater and greater.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3) 
+D	
+---------------------------------------------------
+
+[10278503]
+// Basic concepts //
+(	According to Darwin and Wallace, the process of evolution can be explained by
+A	heredity.			B	reproduction.
+C	mutation.			D	natural selection.
+D	
+---------------------------------------------------
+
+[10278513]
+// Graph interpretation // Applying concepts //
+(**Due to mutation, a new allele, G, arose in a population of an organism. It is dominant to another allele in the same locus, g. The graph below shows the percentage of organisms in the population having allele G over 100 generations after the appearance of this allele.
+	
+Which of the following statements is correct?
+A	Allele g was completely eliminated after 100 generations as a result of natural selection.
+B	Individuals with genotype GG have a higher chance of survival than individuals with genotype Gg.
+C	A new species formed after 100 generations.
+D	Allele G is an allele for a character that favours the survival of the organisms.
+D	
+---------------------------------------------------
+
+[10278515]
+// Comparison // Applying concepts //
+(* 	Which of the following are stated in both Lamarck's theory and Darwin's theory of evolution?
+(1)	Environmental changes are needed for evolution to occur.
+(2)	Variations exist between individuals of the same species.
+(3)	Evolution is an accumulative process.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10278536]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows how a population of zebras was separated into two groups, P and Q, by a river millions years ago.
+
+	
+
+The environment in which group P lives has changed drastically while the environment in which group Q lives has kept nearly the same after the separation of the population. Which of the following correctly describe the two groups of zebras millions years after the separation?
+(1)	The two groups became two different species.
+(2)	The body structure of the zebras in group Q is similar to those lived millions years ago while the body structure of the zebras in group P is very different from them.
+(3)	The number of zebras in group P is larger than that in group Q.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3) 
+A	
+---------------------------------------------------
+
+[10278537]
+// Applying concepts //
+(*	There are two kinds of turtles on an island. Some of them have webs between their toes while others do not. 
+Many years ago, the numbers of the two kinds of turtles were nearly equal. When the weather became dry, the turtles had to search for food in the sea. The proportion of turtles with webs in the population has greatly increased since then.
+Which of the following is an explanation for the change in the proportion of the two kinds of turtles in the population?
+A	Some turtles developed webs to meet the need.
+B	Having webs became a favourable character for the survival of the turtles.
+C	Webs were developed in the turtles because they swam frequently.
+D	Mutations that led to the development of webs occurred in different turtles in the population at the same time.
+B	
+---------------------------------------------------
+
+[10278549]
+// Comparison //
+(*	Which of the following comparisons between Lamarck's theory and Darwin's theory of evolution is not correct?
+	Lamarck's theory	Darwin's theory	
+A	Environmental changes create needs that cause the organisms to change.	Variation already exists within species.	
+B	Individuals can develop new characters in order to survive.	The environment selects those individuals with favourable characters to survive.	
+C	Newly acquired characters can be passed on to their offspring.	Individuals with favourable characters have a higher chance to survive and pass their characters on to their offspring.	
+D	The development of new characters is due to behaviour of the organisms.	The development of new characters is due to mutations in genetic material.	
+
+D	
+---------------------------------------------------
+
+[10278550]
+// Basic concepts //
+(	Which of the following concepts are included in the theory of natural selection?
+(1)	struggle for existence
+(2)	survival of the fittest
+(3)	speciation
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10278568]
+// Basic concepts //
+(*	Which of the following are included in Darwin's theory of evolution?
+(1)	Individuals modify their body structures in response to environmental changes.
+(2)	Natural selection acts on individuals of the same species.
+(3)	Individuals with characters that make them more likely to survive can pass their characters on to their offspring.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10278569]
+// Applying concepts //
+(*	Indiscriminate use of antibiotics can speed up the development of antibiotic resistance in bacteria because
+A	antibiotics can induce mutations in bacteria.
+B	antibiotic-resistant bacteria are more likely to survive and reproduce in the presence of antibiotics.
+C	antibiotics can cause bacteria to modify their genetic material.
+D	bacteria can learn to avoid antibiotics.
+B	
+---------------------------------------------------
+
+[10278591]
+// Basic concepts //
+(	The increase in the number of black peppered moths after the Industrial Revolution is an example of 
+A	mutation.					
+B	growth.
+C	natural selection.			
+D	speciation.
+C	
+---------------------------------------------------
+
+[10278612]
+// Applying concepts //
+(*	Which of the following is not stated in Darwin's theory of evolution?
+A	Evolution is resulted from the accumulation of favourable characters over many generations.
+B	Genetic variations provide the raw material for evolution.
+C	The diversity of life is resulted from the inheritance of acquired characters.
+D	A change in the environment is the driving force of evolution.
+C	
+---------------------------------------------------
+
+[10278647]
+// Applying concepts //
+(*	Which of the following statements about the process of speciation is not correct?
+A	Speciation is due to the accumulation of acquired characters.
+B	Separation of a population into isolated groups is needed.
+C	Gene flow between different groups of organisms has to be stopped.
+D	Two isolated groups must face different environmental conditions.
+A	
+---------------------------------------------------
+
+
+[10278667]
+// Basic concepts //
+(	The theory of natural selection was proposed by
+A	Watson and Crick.				
+B	Mendel.
+C	Darwin and Wallace.			
+D	Lamarck.
+C	
+--------------------------------------------------
+
+[10278706]
+// Applying concepts //
+(*	Which of the following statements best describes evolution?
+A	It is the process by which new species form.
+B	It is the process by which acquired characters are passed on to the offspring.
+C	It is the process by which genetic variations arise in a population.
+D	It is the process by which the genetic composition of a population changes.
+D	
+---------------------------------------------------
+
+[10278709]
+// Applying concepts //
+(*	All races of humans around the world belong to the same species because
+A	all races look alike.
+B	all races have evolved from a common ancestor.
+C	all races have high intelligence.
+D	all races can interbreed and produce fertile offspring.
+D	
+---------------------------------------------------
+
+
+[10278715]
+// Applying concepts //
+(*	Which of the following statements about evolution are correct?
+(1)	Evolution takes place only when the environment is unstable.
+(2)	Evolution makes the body structure of the organisms different from their ancestors.
+(3)	Evolution occurs only when the resources needed for the survival of organisms are limited.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10278721]
+// Applying concepts //
+(*	Which of the following statements about natural selection is correct?
+A	Natural selection increases the genetic variations within a species.
+B	Natural selection involves the inheritance of acquired characters.
+C	Natural selection allows individuals with favourable characters to survive.
+D	Natural selection causes individuals to develop adaptive features to meet the needs of the environment.
+C	
+---------------------------------------------------
+
+Short questions
+
+[10278781]
+// Cross-topic // Graph interpretation // Communication //
+(*	There are different species of finches on Galapagos Islands. They feed on different sizes of seeds depending on their beak depths.
+
+	
+
+	A drought occurred on the islands. Many species of plants that the finches fed on died. Only one species of plant which produced large seeds survived. The graphs below show the beak depths of finches before and after the drought.
+
+
+
+	
+
+a	Which type of variation does the beak depth of finches show?	(1 mark)
+b	Describe the change in the mean beak depth of finches after the drought. Based on the theory of natural selection, suggest an explanation for the change.												(5 marks)
+
+
+
+-- answer --
+a	Continuous variation											1m
+b	The mean beak depth increased after the drought.					1m
+There were variations in beak depth among the finches.				1m
+When the drought occurred, only one species of plant which produced large seeds survived.													1m
+A large beak allowed the finches to eat large seeds. The finches with a large beak had a higher chance of survival and reproduction. The finches with a small beak lacked food and died.											1m
+Therefore, the proportion of finches with a large beak increased in subsequent generations.												1m	
+---------------------------------------------------
+
+[10278795]
+// Data handling // High order thinking // Schematic diagram //
+(**Around old copper mines, soil is contaminated with copper ions and few plants can grow on it. However, a variety of a species of grass is tolerant to copper ions and can grow in such habitats. In an investigation, a transect was placed along the slope of an old copper mine as shown. 
+	
+		Seeds were collected from that grass species at 10 m intervals and germinated in the laboratory. Then 60 seedlings were selected from each group of seeds and grown in a medium with all the necessary nutrients for healthy growth. Half of the seedlings were watered with a dilute solution of copper ions and the other half with distilled water daily. The table below shows the number of surviving seedlings after 10 days and their mean height.
+
+
+Distance of the site of seed collection from the mine (m)	Number of surviving seedlings [Mean height (cm)]	
+	Watered with copper solution	Watered with distilled water	
+10	30 [3.5]	30 [3.6]	
+20	30 [3.6]	30 [3.5]	
+30	20 [3.4]	30 [5.0]	
+40	8 [3.4]	30 [5.2]	
+50	4 [3.5]	30 [5.1]	
+
+a	Describe the difference in height between the seedlings watered with the dilute solution of copper ions and distilled water. 				(2 marks)
+b	Explain why there were more surviving seedlings in the dilute solution of copper ions when the seeds were collected closer to the mine than when the seeds were collected further away from the mine. 			(3 marks)
+
+
+-- answer --
+a	When the seeds were collected closer to the mine, the seedlings watered with the dilute solution of copper ions was as tall as those watered with distilled water.																1m
+	When the seeds were collected further away from the mine, the seedlings watered 	with the dilute solution of copper ions was much shorter than those watered with 	distilled water. 												1m
+b	Soil closer to the mine contains a higher level of copper ions.			1m
+	Only the variety of the grass species tolerant to copper ions is selected to grow 	there. 													1m
+	The grass produces seeds which contain the allele for copper ion tolerance.	1m	
+---------------------------------------------------
+
+[10278805]
+// NOS // Comparison //
+(*	Jean-Baptiste Lamarck was a French botanist who proposed a theory of evolution prior to the theory of natural selection published by Charles Darwin in 1859.
+Lamarck considered that, if an environmental change occurred, individual organisms would adapt in order to survive. For example, he suggested that if a giraffe stretched its neck to obtain leaves higher in a tree, this would directly result in its neck growing longer, i.e. the need to reach higher would cause the growth of the neck. Offspring from this giraffe would then inherit the longer neck and, over several generations, continued stretching would further enhance the length of the neck. Lamarck's theory has now been largely discarded, because of our increased scientific knowledge.
+a	Describe two ways in which Lamarck's theory differs from the present theory of evolution by natural selection. 					(2 marks)
+b	Suggest how the above account of the theory of evolution illustrates the tentative nature of scientific knowledge. 					(1 mark)
+						CCEA GCE (AS) Biology Module 2 Jun 2013 Q4b-c
+
+-- answer --
+a	In Lamarck's theory, acquired characters are passed on to the offspring. In the present theory, genes are passed on to the offspring. /
+Lamarck's theory takes no account of the genetic variability. The present theory relies on the genetic variability. /
+In Lamarck's theory, the environment causes the changes. In the present theory, the environment selects the best adapted individuals. /
+Lamarck's theory operates at an individual level. The present theory operates at a population level. (any 2)									1m x 2
+b	One theory is replaced by another when new evidence is considered. 	1m	
+---------------------------------------------------
+
+[10278814]
+// Overseas exam question // Schematic diagram // Applying concepts //
+(*	The diagram below shows how antibiotic-resistant bacteria develop.
+
+	
+
+Use the diagram and your knowledge to explain how antibiotic resistance in bacteria demonstrates:
+a	natural selection in action.								(3 marks)
+b	evolution taking place. 									(1 mark)
+   CCEA GCSE Science: Single Award Higher Tier Module 2 May 2008 Q6a i-ii
+
+-- answer --
+a	Antibiotic-resistant bacteria have mutation.							1m
+They are able to survive in the presence of antibiotic.					1m
+Antibiotic-resistant bacteria are able to produce similar offspring that can also survive in the presence of antibiotic.								1m
+b	Over time there are more antibiotic-resistant bacteria / fewer normal bacteria in the bacterial population.											1m	
+---------------------------------------------------
+
+
+[10278819]
+// Overseas exam question // Cross-topic // Data handling //
+(*	Most biologists believe that evolution is the best explanation for the development of life on earth. Evolution is brought about by natural selection favouring particular individuals in a population due to them having phenotypes that make them more likely to survive.
+An example can be seen in copper tolerance in some plants. Some plants have a mutation that makes them copper-tolerant. However, copper-tolerant plants do not grow as quickly as normal plants.
+a	Explain what is meant by the term mutation. 				(2 marks)
+b	The following table shows the distribution of normal plants and copper-tolerant plants in an area of land. 
+Ground conditions	Normal plants (%)	Copper-tolerant
+plants (%)	
+Non-contaminated ground	98	2	
+Copper-contaminated ground	0	100	
+Use your knowledge and the information given to explain these results.														(4 marks)
+	CCEA GCSE Science: Single Award Higher Tier Module 2 Nov 2007 Q6a-b
+
+-- answer --
+a	Mutation is a change in the number / structure 						1m
+of DNA / gene / chromosome.									1m
+b	In non-contaminated ground, normal plants grow better. 				1m
+Some copper-tolerant plants are present in non-contaminated ground due to mutation.													1m
+In copper-contaminated ground, copper-tolerant plants have an advantage / are able to survive.												1m
+Normal plants are unable to survive. 								1m	
+---------------------------------------------------
+
+[10278822]
+// Cross-topic // Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Australian birds appear to have smaller size over the past century because of global warming. Australian biologist Janet Gardner said modern birds were up to 4% smaller than their ancestors. 'Birds, like other animals, tend to be smaller in a warmer climate in adaptation to heat stress,' she said.	
+a	State the advantage of birds having a smaller size in a warmer climate.															(2 marks)
+b	Explain how Australian birds have become smaller in size in terms of natural selection.										(3 marks)
+-- answer --
+a	Birds of smaller size have a larger surface area to volume ratio,			1m
+so they lose heat more quickly than birds with larger size.				1m
+b	There was a variation in body size among their ancestors.				1m
+When the climate became warmer, birds of smaller size had a higher chance of survival and reproduction. 										1m
+After many generations, birds of smaller size predominated in the population. 																1m	
+---------------------------------------------------
+
+[10278837]
+// Applying concepts //
+(*	Monarch butterfly tastes very unpleasant to bird predators. Birds have learnt to avoid eating it. Viceroy butterfly escapes a considerable amount of predation by copying the size and colour pattern of monarch butterfly. It is believed that this similarity in appearance (mimicry) has arisen through natural selection.
+		
+Monarch butterfly	Viceroy butterfly	
+a	Explain how mimicry of the viceroy butterfly has arisen through natural selection.												(3 marks)
+b	Explain why humans undergo evolutionary changes much more slower than butterflies.											(2 marks)
+-- answer --
+a	There were variations in size and colour pattern among the ancestors of viceroy butterflies. 												1m
+The viceroy butterflies with mimicry had a higher chance of survival and reproduction. 												1m
+	After many generations, viceroy butterflies with mimicry predominated in the population.												1m
+b	Selection pressure on humans is relatively small						1m
+because there is no predator feeding on humans and advances in medical technology help save lives when humans are attacked by diseases.		1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10278841]
+// Applying concepts //
+(*	A fossil of Sinosauropteryx (中華龍鳥) was found in China in 1996. Sinosauropteryx shows both features of birds and reptiles. For example, some of its bones have air space inside like birds, while some do not have air space like reptiles. Scientists believe that it is the ancestor of birds.
+	
+
+a	Explain why having air space in bones is a favourable character for birds.															(1 mark)
+b	Suggest how evolution has led to the formation of air space in the bones of birds.												(3 marks)
+	
+-- answer --
+a	Presence of air space makes the bones lighter. Lighter bones facilitate flying of  the birds.													1m
+b	There were variations among the birds.							1m
+The birds having air space in their bones have a higher chance of survival and reproduction. 												1m
+After many generations, birds having air space in their bones predominated in the population.												1m	
+---------------------------------------------------
+
+[10278844]
+// Cross-topic // Applying concepts //
+(*	a	Using Darwin's theory of evolution, explain why many bacteria are now resistant to antibiotics.									(3 marks)
+b	Suggest two measures to slow down the development of antibiotic resistance in bacteria. 									(2 marks)
+-- answer --
+a	There is a variation in antibiotic resistance among the bacteria.			1m
+When antibiotics are used, antibiotic-resistant bacteria have a higher chance of survival and reproduction.										1m
+When antibiotics are used repeatedly, the proportion of the antibiotic-resistant bacteria increases in subsequent generations. Many bacteria are resistant to antibiotics after many generations. 								1m
+b	Use antibiotics only when they are truly needed.						1m
+Complete the course of antibiotics as advised by doctors.				1m	
+---------------------------------------------------
+
+[10278856]
+// Reading comprehension // Basic concepts //
+(	Read the following paragraph and answer the questions.
+	Before 1800, white peppered moths were the main type of moth in England. Black peppered moths were rare. During the Industrial Revolution, smoke and soot darkened the tree trunks. Black peppered moths became abundant and white peppered moths became rare. By 1886 black peppered moths dominated in the population. This illustrates rapid evolutionary change.	
+a	Why were black peppered moths rare before 1800?			(2 marks)
+b	Using the theory of natural selection, explain the dominance of black peppered moths by 1886.								(4 marks)
+-- answer --
+a	Black peppered moths were easily seen on the light-coloured tree trunks	1m
+and eaten by birds.											1m 
+b	During the Industrial Revolution, the tree trunks were darkened by smoke and soot.														1m
+White peppered moths became easier for birds to see and eat, while black peppered moths were well camouflaged.							1m
+Black peppered moths had a higher chance of survival and reproduction. 	1m
+After many generations, black peppered moths predominated.			1m	
+---------------------------------------------------
+
+[10278872]
+// Applying concepts //
+(*	Two species of fish with similar features are found in two nearby lakes. Scientists believe that the two lakes were formed by splitting a large lake thousands years ago.
+a	Describe how the splitting of the lake led to the formation of two different species of fish.											(4 marks)
+b	Suggest how scientists can obtain evidence to prove that the two species of fish have arisen from a common ancestor.					(2 marks)
+
+-- answer --
+a	The isolation / splitting of the lake prevented the two groups of fish from interbreeding.												1m
+Mutations took place independently within the two groups to produce different genetic variations.											1m
+As the two groups faced different environmental conditions, natural selection acted on them in different ways. 										1m
+After many generations, the two groups had such diverse variation that they could no longer interbreed to produce fertile offspring. The two groups of fish became two different species.											1m
+b	By comparing the base sequence of the DNA of the two species.			1m
+The more similar the base sequence of their DNA, the more likely they have arisen from a common ancestor.										1m	
+---------------------------------------------------
+
+
+[10278873]
+// Calculation // Schematic diagram // Basic concepts //
+(	Indiscriminate use of antibiotics may speed up the development of antibiotic-resistant bacteria in the bacterial population.
+A bacterium reproduces by splitting itself into two. The diagram below shows the reproduction of bacteria.
+
+	
+
+a	i	Name the form of reproduction carried out by bacteria.		(1 mark)
+ii	State what happened during the formation of Z from X.	(1 mark)
+b	If the bacteria in the third generation further reproduced, state the expected proportion of antibiotic-resistant bacteria in the population in the later generations. 											(1 mark)
+c	Explain why in an environment of heavy antibiotic use, the proportion of antibiotic-resistant bacteria in the population is much higher than that stated in the answer to b after many generations.					(3 marks)
+
+-- answer --
+a	i	Binary fission											1m
+ii	Mutation												1m
+b	1/2														1m
+c	When antibiotics are used, the bacteria that are not resistant to the antibiotics are likely to be killed.											1m
+The antibiotic-resistant bacteria have a higher chance of survival and reproduction.															1m
+With the repeated use of antibiotics, the proportion of the antibiotic-resistant bacteria increases in subsequent generations. The proportion of antibiotic-resistant bacteria in the population is much higher after many generations. 												1m	
+---------------------------------------------------
+
+[10278878]
+// Basic concepts //
+(	Complete the following sentences using suitable words selected from the list below.													(3 marks)
+Darwin		Lamarck		Both Lamarck and Darwin	
+a	                     suggested that parents can pass the acquired characters on to their offspring. 
+b	                     suggested that parents can pass the traits they born with on to their offspring.
+c	                     suggested that organisms keep on changing.
+
+-- answer --
+a	Lamarck													1m
+b	Darwin													1m
+c	Both Lamarck and Darwin										1m	
+---------------------------------------------------
+
+Structured questions
+
+[10279008]
+// Cross-topic // Graph plotting // High order thinking //
+(**A high concentration of copper in soil is toxic to plants. A student carried out an experiment to investigate the copper tolerance of a species of plant. He obtained some seeds from plants in a site without copper contamination and grew them in soil containing a high concentration of copper. After a period of time, he measured the height of the plants developed. The table below shows the results obtained.
+Plant height (mm)	0-9	10-19	20-29	30-39	40-49	100-109	
+Number of plants	2	15	39	21	18	2	
+
+a	Use the graph paper below, draw a histogram to show the results of the experiment.											(4 marks)
+	
+b	Two of the plants grew much better than the others in soil containing a high concentration of copper. These two plants may be tolerant to copper. Suggest two possible ways how their tolerance to copper may have been obtained.												(2 marks)
+c	The student repeated the experiment using seeds collected from plants of the same species growing in a copper mine. He found that the mean height of these plants was higher than that of the plants in the first experiment. Based on your understanding about natural selection, explain the difference.														(4 marks)
+-- answer --
+a	Correct title												1m
+	Correct choice of axes										1m
+	Axes with labels and units										1m
+	Correct bars												1m
+
+
+Note:
+Histograms are usually used to represent continuous data. The adjacent bars are touching each other.
+Bar charts are usually used to represent discrete data. The bars are separated.
+
+b	These plants may obtain the allele for copper tolerance through mutation.	1m
+	These plants may be produced from cross-pollination with a copper-tolerant plant.																1m
+c	Genetic variations existed among the plants in their tolerance to copper.	1m
+	Since a high concentration of copper was toxic to plants, in a copper mine where the soil contained a high concentration of copper, plants that were tolerant to copper had a higher chance of survival and reproduction. Plants that were not tolerant to copper were more likely to die.							1m
+	As a result, the proportion of plants with copper tolerance increased in subsequent generations in the copper mine.									1m
+
+
+	As there was a higher proportion of plants being copper tolerant in the copper mine, a higher proportion of seeds obtained from the copper mine grew better in soil containing a high concentration of copper during the experiment. Therefore, the mean height of the plants was higher.							1m	
+---------------------------------------------------
+
+[10279013]
+// Cross-topic // Graph interpretation // Experiment //
+(**The grove snail is a common species of land snail in Europe. The pattern of the shell is variable. The diagrams below show an unbanded snail and a banded snail.
+	
+
+	The song thrush is a bird that feeds on grove snails by breaking them open with a stone to eat the soft parts. The remains of the shell can be found on the ground near the stones.
+
+	
+
+
+In an investigation, equal numbers of unbanded and banded snails were put into an area of a woodland after clearing all snails in the woodland. After two weeks, remains of shells were collected near the stones and the numbers of dead unbanded and banded snails were estimated. The graph below shows the results.
+
+	
+
+a	Based on the information provided and your knowledge of natural selection, predict the changes in the proportion of living unbanded and banded snails in the woodland after many generations. Explain your answer.	(4 marks)
+b	Describe how the number of living snails in a woodland can be estimated using a quadrat.										(3 marks)
+
+-- answer --
+a	After many generations, the proportion of living unbanded snails will increase, while the proportion of living banded snails will decrease.				1m
+The graph shows that banded snails are more likely to be eaten by song thrushes.															1m
+The unbanded snails have a higher chance of survival and reproduction.	1m
+The proportion of the unbanded snails will increase in subsequent generations. After many generations, the proportion of unbanded snails will increase significantly.												1m
+b	Throw the quadrat randomly for several times (N) and let it fall at different positions on the ground.												1m
+Count the number of living snails in the area enclosed by the quadrat each time (n1, n2, n3 … etc.).											1m
+Estimated number of living snails can be calculated as follows:
+						1m	
+---------------------------------------------------
+
+[10279020]
+// Cross-topic // Data handling // Communication //
+(**A scientist investigated the relationships of four species of lizards, W, X, Y and Z, which are found in different places in Caribbean Sea (加勒比海). The map below shows the distribution of W, X, Y and Z.
+
+	
+
+	The scientist took samples of DNA from W, X, Y and Z and compared the base sequences of a region of DNA. The table below shows the results.
+Species	Difference between base sequences of
+a region of DNA (arbitrary unit)	
+W and X	12.1	
+W and Y	16.7	
+W and Z	11.1	
+X and Y	15.0	
+X and Z	8.6	
+Y and Z	13.2	
+
+a	Lizards belong to a group of vertebrates.
+i	Name the group that lizards belong.					(1 mark)
+ii	State one common feature that all members of this group have.
+													(1 mark)
+b	The scientist suggested that W, X and Y may have arisen separately from Z. Based on the results of the study, comment on the scientist's statement.															(3 marks)
+c	Describe how W may have evolved from Z.					(4 marks)
+
+-- answer --
+a	i	Reptiles												1m
+ii	They have dry, hard scales covering their skin.					1m
+b	The scientist's statement is probably correct.						1m
+The differences between the base sequences of W, X and Y with Z are smaller than those of them with one another.								1m
+This indicates that the phylogenetic relationships of W, X and Y are closer with Z than with one another. Thus, it is likely that W, X and Y have arisen separately from Z.														1m
+c	A population of Z spread from Cuba to the island where X is located. As the population was separated from the population in Cuba by the ocean, the two populations could not meet and interbreed.							1m
+Mutations took place independently to produce different genetic variations within the two populations.											1m
+As the populations faced different environmental conditions, natural selection acted on them in different ways.									1m
+After many generations, the two populations had such diverse variation that they could no longer interbreed to produce fertile offspring. W became a different species.													1m	
+---------------------------------------------------
+
+[10279022]
+// Graph interpretation // NOS // Communication //
+(*	Warfarin can make rats bleed to death and is used as a poison to control rat populations. The graph below shows the change in the percentage of warfarin-resistant rats in a population over 4 years. A high level of warfarin was applied in the second year.
+	
+a	How can resistance to warfarin suddenly appear in an isolated population of rats which has never been exposed to warfarin before?			(1 mark)
+b	Using the theory of natural selection by Darwin, explain the process which led to the change in the percentage of warfarin-resistant rats during the second year.											(4 marks)
+c	Suggest whether warfarin-resistant or non-resistant rats can survive better in an environment without warfarin. Support your answer using data from the graph.												(2 marks)
+d	When Darwin first put forward his theory of natural selection, there was much opposition from scientists. Suggest one reason for this opposition.															(1 mark)
+
+-- answer --
+a	As a result of mutation										1m
+b	Genetic variations existed among rats in their resistance to warfarin.		1m
+	In an environment with a high level of warfarin, the resistant rats had a 			higher chance of survival and reproduction.							1m
+	They passed the resistance on to their offspring.						1m
+	The percentage of warfarin-resistant rats in the population increased in 	subsequent generations.										1m
+c	Non-resistant rats											1m
+	The percentage of warfarin-resistant rats in the population decreased after 2 years when warfarin was not used.									1m
+d	The theory conflicted with the deeply held religious beliefs. /
+	No one knew how inheritance worked at that time. 
+	(or other reasonable answers)									1m	
+---------------------------------------------------
+
+[10279068]
+// Data handling // High order thinking // Experiment // Calculation //
+(**	There are about 400 different species of cichlid fish in Lake Malawi in Africa. They show a variety of colour patterns.
+
+
+Cichlid fish	
+ 
+a	In the past, there were long periods during which the water level of Lake Malawi was very low and separate smaller lakes were formed. Explain how the splitting up of Lake Malawi may have led to speciation of cichlid fish.															(4 marks)
+b	Suggest how the variety of colour patterns shown by cichlid fish may help to maintain the fish as separate species.						(2 marks)
+c	In an investigation, cichlid fish of the same species but taken from different populations (X, Y and Z) were allowed to mate with one another. The table below shows the number of times mating occurred between individuals in different populations.
+
+	Female fish from X	Female fish from Y	Female fish from Z	
+Male fish from X	25	0	6	
+Male fish from Y	0	32	0	
+Male fish from Z	4	0	18	
+
+i	Calculate the percentage of mating that involves individuals from the same population. Show your working.					(2 marks)
+ii	Describe the mating preferences shown by the cichlid fish from the three populations.									(3 marks)
+iii	Suggest which population is most likely to become a separate species.														(1 mark)
+
+
+-- answer --
+a	Groups of cichlid fish were isolated in separate lakes					1m
+	and so they could not interbreed.								1m
+	Each group evolved independently by natural selection.				1m
+	After many generations, genetic variations accumulated to a point where cichlid 	fish of different isolated groups could no longer interbreed to produce fertile 		offspring. The isolated groups became different species.				1m
+b	The selection of mates depends on the colour patterns.				1m
+	The different colour patterns help prevent interbreeding.				1m
+c	i	[(25 + 32 + 18) ( 100% ] / (25 + 32 + 18 + 6 + 4)					1m
+	= 88.2%												1m
+ii	The cichlid fish prefer to mate with individuals from the same population.															1m
+	The cichlid fish from population Y mates exclusively within the same 	population. 											1m
+	Some cichlid fish from population X mate with cichlid fish from population Z.															1m
+iii	Population Y											1m	
+---------------------------------------------------
+
+
+[10279092]
+// Cross-topic // Graph interpretation // Communication //
+(*	TTT is an insecticide used for killing an insect pest of rice plants. It works by inactivating enzyme Z involved in respiration. A farmer used it repeatedly in his rice field for a year. The number of insect pests dropped sharply initially. However, after using TTT for three months, TTT-resistant insect pests were found and their number increased continuously despite using TTT of higher concentrations.
+
+	
+
+The diagram below shows the activity of enzyme Z in resistant and non-resistant insect pests at different concentrations of TTT.
+	
+a	Which curve (A or B) indicates the activity of enzyme Z in TTT-resistant insect pests and which curve indicates that in non-resistant insect pests?															(1 mark)
+b	Suggest a mechanism by which TTT inactivates enzyme Z.		(1 mark)
+c	Describe the effect of concentration of TTT on the activity of enzyme Z in resistant and non-resistant insect pests.						(4 marks)
+d	Explain why the number of TTT-resistant insect pests increased despite using TTT of higher concentrations based on the theory of natural selection.														(4 marks)
+
+
+-- answer --
+a	Curve A: TTT-resistant insect pests; curve B: non-resistant insect pests	1m
+b	TTT may change the shape of the active site of enzyme Z. 				1m
+(or other reasonable answers)
+c	For TTT-resistant insect pests, the activity of enzyme Z does not change when the 	concentration of TTT increases from 0.02 mol dm-3 to 0.04 mol dm-3.		1m
+It drops slightly when the concentration of TTT increases from 0.04 mol dm-3 to 
+	0.14 mol dm-3.												1m
+	For non-resistant insect pests, the activity of enzyme Z drops quickly at 	concentrations of TTT higher than 0.02 mol dm-3.					1m
+	It reaches nearly 0% at 0.14 mol dm-3 of TTT.						1m
+d	Genetic variations exist among insect pests in their resistance to insecticide TTT.																1m
+	When TTT is applied, it kills most non-resistant insect pests while the resistant 	insect pests survive.											1m
+	The resistant insect pests have a higher chance of reproduction.			1m
+	Hence, the number of TTT-resistant insect pests increased despite using TTT of 	higher concentrations.										1m	
+---------------------------------------------------
+
+
+[10279101]
+// Reading comprehension // Communication //
+(*	Read the article below and answer the questions.
+In 1831, Charles Darwin visited the Galapagos Islands near South America. He met different kinds of finches on the islands. He observed the body features of the finches and studied their feeding behaviour.
+Darwin found that the finches on the islands were very similar to the finches living on the mainland of South America which fed on seeds		
+except for the shape of the beak. It seemed that the beaks of the Galapagos finches were designed to eat different kinds of food.
+Darwin suggested that the Galapagos finches all originated from a single species on the mainland of South America. These finches showed adaptations to the different food sources on individual islands.
+	
+
+a	State the observations made by Darwin in his study of the finches.																(2 marks)
+b	Explain the idea of 'survival of the fittest' based on Darwin's observation of the finches.											(3 marks)
+c	In the 1940s, Ernst Mayr put forward a hypothesis to describe the process of speciation. It could explain how different kinds of finches were formed on the Galapagos Islands. According to Mayr's hypothesis, 
+i	state the physical barrier that isolated different groups of finches.															(1 mark)
+ii	what was the environmental pressure that acted on the finches, causing different groups of finches to develop beaks of different shapes?															(1 mark)
+iii	how were different species of finches formed?			(5 marks)
+
+
+-- answer --
+a	Darwin observed that the finches on the Galapagos Islands were very similar to 	the species he had observed on the mainland of South America 			1m
+	except for the shape of the beak.								1m
+b	When the original seed-eating finches reached the Galapagos Islands from the 	mainland, there were not enough seeds on the islands for them.			1m
+	Finches with slightly different beaks were able to eat other types of food available 	on the islands.												1m
+	These finches survived to breed and passed their favourable characters on to their 	offspring.													1m
+c	i	The ocean												1m
+ii	The food sources on the islands								1m
+iii	Individuals from the mainland of South America arrived in the different 		islands of Galapagos. They were isolated from one another by the ocean. 															1m
+	Mutations result in genetic variations in beak shape within different groups of 	the finches.											1m
+	Natural selection acted on them in different ways on different islands. 	1m
+	On some islands, finches with a beak adapted for feeding on a certain food 	source available on the islands were more likely to survive and reproduce.															1m
+	After many generations, the isolated groups had such diverse variation that 	they could no longer interbreed to produce fertile offspring. They became 	different species.										1m	
+---------------------------------------------------
+
+[10279119]
+// Cross-topic // Data handling // STSE connections //
+(*	Penicillin has become widely used in hospitals since 1946. The table below shows the change in the percentage of patients infected with penicillin-resistant bacteria among the cases of bacterial infection between 1946 and 1948. 
+Year	Percentage of patients infected with penicillin-resistant bacteria	
+1946	14	
+1947	38	
+1948	58	
+a	Explain the results in terms of evolution.					(3 marks)
+b	Explain how the method of reproduction of bacteria allows the bacteria to evolve rapidly. 										(3 marks)
+c	Suggest three measures to slow down the evolution of penicillin-resistant bacteria.												(3 marks)
+-- answer --
+a	There was a variation in penicillin resistance among the bacteria.			1m
+When penicillin was used, penicillin-resistant bacteria had a higher chance of survival and reproduction.										1m
+When penicillin was used repeatedly, the proportion of penicillin-resistant bacteria increased in subsequent generations.								1m
+b	Bacteria reproduce by binary fission.								1m
+A certain gene of the parent can be passed on to the next generation directly, so all the offspring have that gene. 									1m
+Binary fission in bacteria occurs at a very high rate.					1m
+c	Use penicillin only when it is truly needed.							1m
+Complete the course of penicillin as advised by doctors.				1m
+Use penicillin and other antibiotics alternately to kill the bacteria. 			1m	
+---------------------------------------------------
+
+
+[10279125]
+// Communication // Schematic diagram // Applying concepts //
+(*	The diagram below shows an island with two mouse populations, which were brought to the island by ships years ago.
+	
+a	Most of the households on the island keep cats to control mouse population X while there are no natural enemies of mouse population Y. Scientists believe that speciation will occur. Describe the process. 	 	(5 marks)
+b	How can we determine whether the two mouse populations are of two different species?										(2 marks)
+
+-- answer --
+a	The two mouse populations are isolated by mountains / physical barriers.	1m
+The two populations cannot interbreed.							1m
+Mutations take place within different populations to produce different genetic variations. 												1m
+As the two populations face different environmental conditions, natural selection acts on them in different ways.									1m
+After many generations, the two populations will have such diverse variation that they become two separate species.								1m
+b	If mice from the two populations cannot interbreed to produce fertile offspring when they come into contact, they are of two different species.			2m	
+---------------------------------------------------
+
+[10279132]
+// Reading comprehension // Communication // STSE connections //
+(*	Read the following paragraph and answer the questions.
+	There were 13 different species of finches on the Galapagos Islands. Some of them had beaks adapted for eating large seeds, others had beaks for small seeds. Some had beaks for feeding on buds and fruits, and some had beaks for feeding on small insects. It appeared that each was slightly modified from an original finch on the mainland of South America.	
+
+a	Based on Darwin's theory of evolution, suggest how the 13 different species of finches appeared on the Galapagos Islands.				(5 marks)
+b	Using the SARS-causing virus as another example, explain how a new strain of virus appears when the original strain is transmitted from wildlife animals to humans.										(3 marks)
+
+-- answer --
+a	Groups of finches from the mainland of South Africa reached different islands.																1m
+Due to isolation, mutations took place independently in finches on different islands to produce different genetic variations.							1m
+As finches on different islands faced different environmental conditions, natural selection acted on them in different ways.							1m
+On each island, individuals with favourable characters were more likely to survive and reproduce.												1m
+After many generations, the groups had such diverse variation that they could no longer interbreed to produce fertile offspring. They became different species.																1m
+b	There are variations among the original population of SARS-causing viruses.																1m
+When the strain is transmitted from wildlife animals to humans, those viruses with favourable characters for survival in human bodies survive.				1m
+They multiply to give a new strain. 								1m	
+---------------------------------------------------
+
+
+[10279155]
+// Schematic diagram // Applying concepts //
+(*	Malaria is a common disease in Africa. It is caused by infection of malaria parasites. The parasites reproduce in human liver and red blood cells. 
+Sickle-cell anaemia is a genetic disease caused by a recessive allele. Red blood cells of the patients become sickle-shaped. People with one recessive allele are described as having sickle-cell trait. They have far fewer sickle-shaped red blood cells in their blood and therefore they show no symptom of sickle-cell anaemia. 
+It is known that malaria parasites cannot infect the sickle-shaped red blood cells.
+The diagrams below show the distribution of malaria parasites and people having sickle-cell anaemia in Africa.
+
+	
+a	By comparing the two diagrams, state how the presence of malaria parasites affects the distribution of people having sickle-cell anaemia.	(1 mark)
+b	i	Explain why people with sickle-cell trait are most likely to survive in Africa.											(4 marks)
+ii	Sickle-cell anaemia is rare in other parts of the world. Explain why the proportion of people having sickle-cell anaemia in Africa is much higher.											(3 marks)
+c	To stop malaria from spreading, pesticides like DDT were used to kill mosquitoes, which are vectors of malaria. However, DDT soon became ineffective in killing mosquitoes. Explain why.				(3 marks)
+
+
+
+
+
+
+
+
+
+-- answer --
+a	The area with malaria parasites is more likely to have people with sickle-cell anaemia. 													1m
+b	i	Having at least one allele for sickle-cell anaemia increases people's resistance to malaria.										1m
+People without the allele for sickle-cell anaemia have a higher chance of infecting malaria and may die. 								1m
+However, people with two alleles for sickle-cell anaemia develop sickle-cell anaemia and may die due to the blockage of blood vessels by sickle-shaped red blood cells.											1m
+People with sickle-cell trait remain alive because they have far fewer sickle-shaped red blood cells.								1m
+ii	In places without malaria parasites, people carrying an allele for sickle-cell anaemia do not have survival advantage.						1m
+People carrying an allele for sickle-cell anaemia have an advantage surviving in places with malaria parasites like Africa.						1m
+They have a higher chance of survival and reproduction. The proportion of people having one or two alleles for sickle-cell anaemia increases in subsequent generations. Therefore, the proportion of people having sickle-cell anaemia is much higher after many generations. 			1m
+c	There was a variation in DDT resistance among the mosquitoes.			1m
+When DDT was used, the DDT-resistant mosquitoes had a higher chance of survival and reproduction.										1m
+When DDT was used repeatedly, the proportion of DDT-resistant mosquitoes increased in subsequent generations. DDT became ineffective as a result.	1m	
+--------------------------------------------------- 
+
+[10279163]
+// Graph interpretation //
+(*	The Industrial Revolution began in around 1880. As the use of fossil fuels increased, air was polluted by the smoke and soot given out.
+The diagrams below show the percentage of black peppered moths and white peppered moths in a country in 1850 and 1950.
+		
+a	i	Describe the effects of the Industrial Revolution on the population of peppered moths.									(2 marks)
+ii	Explain the effects described in a i by natural selection.	(4 marks)
+b	A clean air campaign was launched by the government in 1960. Since 
+then, air has become much less polluted. State the expected effect of the clean air campaign on the population of peppered moths.		(1 mark)
+c	Explain why variations between individuals are beneficial to the continuation of the species.								(1 mark)
+-- answer --
+a	i	The proportion of white peppered moths in the population decreased.	1m
+The proportion of black peppered moths in the population increased.	1m
+ii	During the Industrial Revolution, the tree trunks were darkened by smoke and soot given out.										1m
+White peppered moths became easier for birds to see and eat, while black peppered moths were well camouflaged.						1m
+Black peppered moths had a higher chance of survival and reproduction. 															1m
+Therefore, the proportion of the black peppered moths increased in subsequent generations. After many generations, the proportion of the peppered moths changed significantly. 						1m
+b	The proportion of white peppered moths in the population would increase.	1m
+c	When there is a change in the environment, individuals with characters which allow them to better adapt to the environment can survive.				1m	
+---------------------------------------------------
+
+[10279167]
+// Communication // Applying concepts //
+(*	The table below shows the coat colour in samples of three populations of a species of mouse found in different habitats.
+
+Population	Coat colour	Habitat	
+X	Nearly white	White sand with low density of plants	
+Y	Pale to dark brown	From white sand with low density of plants to darker soil with high density of plants	
+Z	Dark brown	Dark soil with high density of plants	
+
+a	State and explain the mechanism that is operating to maintain the coat colour difference between populations X and Y.				(4 marks)
+b	If the three populations cannot come into contact for many generations, each population may evolve into a new species. Describe how this may occur.												(4 marks)
+
+-- answer --
+a	The habitat of population X has white sand with low density of plants. 		1m
+	Mice with nearly white coat are less easily seen by predators, so they are less likely to be eaten by predators. They can pass their characters on to the offspring. 															1m
+The habitat of population Y includes places ranging from white sand with low density of plants to darker soil with high density of plants. 				1m
+Mice with pale coat are less easily seen by predators in white sand, while mice with dark brown coat are less easily seen in darker soil. Therefore, mice with different coat colours can pass their characters on to the offspring. 		1m
+b	There is no gene flow between the three populations.					1m
+Mutations take place within different populations to produce different genetic variations. 												1m
+As the three populations face different environmental conditions, natural selection acts on them in different ways.									1m
+After many generations, the three populations will have such diverse variation that they can no longer interbreed to produce fertile offspring even if they come into contact again. The three populations become separate species.			1m	
+---------------------------------------------------
+ 
+
+[10279207]
+// High order thinking // Communication // STSE connections // Schematic diagram //
+(**Bacillus thuringiensis is a bacterium in soil. It can produce a pest-killing protein. Genetically modified pest-resistant crops called Bt crops were produced by introducing the gene for this pest-killing protein into the crops. Some environmental concern groups warned that the widespread planting of Bt crops may speed up the development of Bt resistance in the population of pests.
+a	Based on the theory of natural selection, explain how the widespread planting of Bt crops may speed up the development of Bt resistance in the population of pests.										(4 marks)
+b	The diagram below shows a possible solution that may alleviate the problem. By planting non-Bt crops near the Bt crop field, the Bt-resistant pests can go to the non-Bt crop field in which most pests are non-resistant. Explain why this method is effective.						(4 marks)
+
+	
+
+-- answer --
+a	There is a variation in Bt resistance in the pest population. 				1m
+Under the widespread planting of Bt crops, non-resistant pests are more likely to be killed. 													1m
+The Bt-resistant pests have a higher chance of survival and reproduction. 	1m
+Therefore, the proportion of Bt-resistant pests increases in subsequent generations.												1m
+b	By planting non-Bt crops near the Bt crop field, the Bt-resistant pests are encouraged to mate with non-resistant pests.						1m
+Only some of the offspring resulting from the mating of Bt-resistant pests with non-resistant pests are Bt-resistant.								1m
+
+The non-resistant pests may have other favourable characters that make them more likely to survive in the non-Bt crop field. They reproduce and pass their genes on to the offspring. 										1m
+The increase in the proportion of the Bt-resistant pests can then be slowed down.																1m	
+---------------------------------------------------
+ 
+[10279216]
+// Cross-topic // Graph interpretation // Applying concepts //
+(*	A species of plant has two forms, X and Y. X grows in shaded regions while Y grows in sunny places.
+Scientists carried out an investigation. They grew same number of X and Y in an area with many tall trees. Two years later, they cut down all the trees. The graph below shows how the numbers of X and Y changed during the investigation.
+	
+
+a	Suggest two adaptive features that may be present in X for the growth in shaded regions.										(2 marks)
+b	Explain the change in the numbers of plants by natural selection
+i	before cutting down the trees.							(3 marks)
+ii	after cutting down the trees.							(3 marks)
+
+-- answer --
+a	X may have large leaves / a large number of leaves.					1m
+The leaves of X may contain a large number of chloroplasts / palisade mesophyll cells.														1m
+(or other reasonable answers)
+b	i	The number of X increased and the number of Y decreased.		1m
+Before cutting down the trees, the area in which X and Y grew was shaded by the trees and thus little light could reach the plants. 				1m
+The plants of form X have structures that favour the growth in shaded regions. They had a higher chance of survival and reproduction in shaded environment. Thus their number increased.						1m
+ii	The number of X decreased and the number of Y increased.		1m
+After cutting down the trees, the amount of light reaching the plants increased.												1m
+The plants of form Y have structures that favour the growth in sunny places. They had a higher chance of survival and reproduction in sunny places. Thus their number increased. 									1m	
+---------------------------------------------------
+
+[10279219]
+// Communication // Basic concepts //
+(	a	Briefly describe what natural selection is.					(2 marks)
+b	Darwin illustrated the evolution of the neck of giraffes by his theory of natural selection. According to his theory, explain how the giraffes evolved to become long-necked.									(6 marks)
+
+-- answer --
+a	Natural selection is the preservation of favourable characters and the elimination of unfavourable characters in a population.							1m
+It allows those organisms with favourable characters to survive and reproduce.																1m
+b	The ancestors of modern giraffes had variation in neck length. Some had long necks and some had short necks. 								1m
+When there was a shortage of grass,								1m
+a long neck became a favourable character for survival.				1m
+It allowed the giraffes to get leaves from treetops.					1m
+Long-necked giraffes survived and reproduced. They passed on the character of long neck to their offspring.										1m
+After many generations, giraffes with long necks predominated in the population. 																1m 	
+---------------------------------------------------
+
+
+Essay
+
+[10279320]
+// Communication // Basic concepts //
+(*	Describe how isolation leads to the formation of new species. 		(10 marks)
+
+-- answer --
+Isolation is the separation of a population into different groups so that they cannot interbreed. 													1m
+There is no gene flow between the two groups. 							1m
+Mutations take place within different groups to produce different genetic variations.																	1m
+Since the isolated groups may face different environmental conditions, natural selection acts on them in different ways. 										1m
+Organisms with favourable characters will be more likely to survive and reproduce. They pass the favourable characters on to their offspring. 						1m
+As the environment continually changes, different genetic variations will be selected. 																	1m
+After many generations, the isolated groups will have such diverse variation that they can no longer interbreed to produce fertile offspring even if they come into contact again. They become different species. 								1m
+Communication													3m	
+---------------------------------------------------

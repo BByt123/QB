@@ -1,0 +1,1048 @@
+( Chapter 2		Applications in biotechnology
+
+Multiple-choice questions
+
+[10285090]
+// Basic concepts //
+(	Compared with extracting human growth hormone (HGH) from dead people, which of the following is/are the advantage(s) of producing HGH using biotechnology?
+(1)	The production cost is lower.
+(2)	The HGH produced is less likely to be contaminated with pathogens.
+(3)	The HGH produced is more effective in stimulating growth in children. 
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10285107]
+// Basic concepts //
+(	Which of the following statements about monoclonal antibodies is/are correct?
+(1)	Monoclonal antibodies are produced by cell clones derived from a single parent T cell.
+(2)	Monoclonal antibodies are highly specific to a particular antigen.
+(3)	Monoclonal antibodies in pregnancy test strips are used to test for the presence of a particular hormone in urine.
+A	(1) only	
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10285111]
+// Basic concepts //
+(	Vegetarians are concerned about the ethical issues arising from the production of genetically modified (GM) food because
+(1)	GM food may cause allergic reactions.
+(2)	GM food may contain gene products from animals. 
+(3)	GM food usually takes a longer time to digest.
+A	(2) only			B	(1) and (2) only
+C	(2) and (3) only	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+ 
+[10285119]
+// Basic concepts //
+(*	Which of the following is/are the characteristic(s) of stem cells?
+(1)	They are unspecialized cells.
+(2)	They can undergo differentiation.
+(3)	All of them have unlimited developmental potential.
+A	(1) only			B	(1) and (2) only
+C	(1) and (3) only	D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10285122]
+// Comparison //
+(*	Which of the following comparisons between genetic engineering and traditional breeding in crop production is/are correct?
+(1)	Both genetic engineering and traditional breeding involve the transfer of genes between organisms.
+(2)	Genetic engineering can work on unrelated crops whereas traditional breeding works only on closely related crops.
+(3)	A desirable characteristic is achieved more quickly by genetic engineering than by traditional breeding.
+A	(2) only			B	(1) and (3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10285125]
+// Basic concepts //
+(	Which of the following statements about human reproductive cloning is/are correct?
+(1)	It aims at cloning human reproductive cells.
+(2)	It may lower the value of life.
+(3)	It is banned in many countries.
+A	(1) only				B	(1) and (2) only
+C	(1) and (3) only		D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10285139]
+// Basic concepts //
+(	Human embryos produced by cloning could be a source of stem cells for therapeutic uses. Why is the cloning of human embryos controversial?
+A	The technique may be used in human reproductive cloning.
+B	The stem cells obtained can lead to rejection in later transplant.
+C	The stem cells obtained have limited developmental potential.
+D	The embryos are not living until they are born.
+A	
+---------------------------------------------------
+
+[10285151]
+// Applying concepts //
+(*	Cystic fibrosis is a genetic disease caused by a defective gene. In a trial of gene therapy, a viral vector carrying the normal gene was introduced into a patient's lungs. After the trial, the symptoms of the patient disappeared for a few weeks, but reappeared afterwards. 
+Which of the following is a possible reason for the reappearance of the symptoms?
+A	The viral vector did not work.
+B	The normal gene did not enter the lung cells. 
+C	The lung cells containing the normal gene were replaced by new cells.
+D	The normal gene in the lung cells was destroyed by the body's immune responses. 
+C	
+---------------------------------------------------
+[10285152]
+// Applying concepts //
+(*	Which of the following is not a method to increase the yield of crops?
+A	Spray the crops with pesticides. 
+B	Insert a herbicide resistance gene into the genome of the crops.
+C	Introduce a bacterial toxin gene into the crops.
+D	Spray viral surface proteins on the crops.
+D	
+---------------------------------------------------
+
+[10285156]
+// Basic concepts //
+(*	Which of the following is not a problem caused by somatic cell gene therapy?
+A	Patients may be infected by the viral vector.
+B	Cancer may develop in the patients. 
+C	Severe immune responses may be induced by the viral vector.
+D	Human embryos are destroyed when obtaining cells for the therapy.
+D	
+---------------------------------------------------
+
+[10285159]
+// Basic concepts //
+(*	Which of the following are the potential applications of human stem cells in medicine?
+(1)	replace damaged cells in the treatment of diseases
+(2)	act as a vector to transfer a normal gene to somatic cells in gene therapy
+(3)	provide human cells for drug toxicity tests
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10285161]
+// Basic concepts //
+(*	Some traditional vaccines are produced using weakened live virus. Nowadays vaccines can be produced using recombinant DNA technology. The genes coding for viral surface antigens are inserted into host cells for antigen production. The antigens produced can be used as active ingredients of recombinant vaccines. 
+Which of the following is/are the advantage(s) of recombinant vaccines over the traditional ones?
+(1)	They are more effective.
+(2)	They are safer to use.
+(3)	They can be used to treat diseases. 
+A	(1) only			B	(2) only
+C	(3) only			D	(1) and (2) only
+B	
+---------------------------------------------------
+
+[10285165]
+// Basic concepts //
+(*	Antigenic viral surface proteins produced by genetic engineering can be used to
+A	treat infectious diseases.
+B	treat cancer.
+C	enhance the immunity of humans against infections caused by viruses.
+D	test for pregnancy.
+C	
+---------------------------------------------------
+
+[10285167]
+// Comparison //
+(*	Which of the following statements about embryonic stem cells and adult stem cells is not correct?
+A	Both of them can carry out unlimited mitotic cell division.
+B	Embryonic stem cells are obtained from blastocysts while adult stem cells are obtained from body tissues like blood.
+C	Embryonic stem cells can differentiate into almost any cell types while adult stem cells can only differentiate into a limited range of cell types.
+D	The therapy using embryonic stem cells has a longer therapeutic effect than that using adult stem cells.
+D	
+---------------------------------------------------
+[10285170]
+// Basic concepts //
+(*	The steps involved in the production of vaccines using biotechnology are shown below.
+(1)	Prepare recombinant plasmid.
+(2)	Obtain the gene for viral surface protein.
+(3)	Introduce recombinant plasmid into yeast.
+(4)	Culture the yeast on a large scale.
+Which of the following is the correct order of these steps? 
+A	(2) → (1) → (3) → (4)
+B	(2) → (1) → (4) → (3)
+C	(4) → (2) → (1) → (3)
+D	(4) → (3) → (2) → (1)
+A	
+---------------------------------------------------
+
+[10285182]
+// Basic concepts //
+(	Which of the following was the first pharmaceutical product produced using genetic engineering and approved for clinical use?
+A	penicillin	
+B	hepatitis B vaccine
+C	human growth hormone	
+D	human insulin
+D	
+---------------------------------------------------
+
+[10285183]
+// Basic concepts //
+(	Which of the following are the possible sources of stem cells that can be used in the treatment of blood cancer?
+(1)	bone marrow
+(2)	cord blood 
+(3)	blastocysts
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10285200]
+// Comparison // Applying concepts //
+(*	In the past, human growth hormone (HGH) was extracted from the pituitary glands of dead people. Now HGH can be produced by genetically modified (GM) bacteria. Which of the following is not an advantage of producing HGH using GM bacteria over the extraction of HGH from pituitary glands of dead people?
+A	The recombinant HGH produced is pure.
+B	The recombinant HGH produced can be administered orally.
+C	A larger amount of recombinant HGH can be produced.
+D	The production cost of recombinant HGH is lower.
+B	
+---------------------------------------------------
+
+[10285220]
+// Applying concepts //
+(*	Which of the following are the reasons for using stem cells in medical treatment?
+(1)	Stem cells can keep dividing.
+(2)	Stem cells can differentiate into different types of cells.
+(3)	Stem cells can be obtained easily.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10285225]
+// Applying concepts //
+(*	A company is now developing a genetically modified (GM) maize with improved protein content. The company is planning to plant this GM maize on a large scale. Which of the following are possible criticisms of planting this GM maize?
+(1)	Planting this GM maize may cause genetic pollution. 
+(2)	Planting this GM maize may increase the proportion of pesticide-resistant pests in the pest population. 
+(3)	Planting this GM maize may produce 'superbugs'. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10285231]
+// Basic concepts //
+(*	Genetically modified organisms (GMOs) pose threats to the environment because
+(1)	they may modify the genetic make-up of organisms in nature.
+(2)	they may speed up the development of pesticide-resistant populations of pests.
+(3)	they may out-compete the organisms in nature.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10285234]
+// Basic concepts //
+(	The criticisms of genetically modified (GM) food include
+(1)	GM crops pose threat to the environment.
+(2)	GM food poses threat to human health.
+(3)	production of GM food affects the livelihood of poor farmers.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10285241]
+// Basic concepts //
+(	Which of the following is not a criticism of genetically modified (GM) food?
+A	GM crops may disturb the ecological balance.
+B	Vegetarians may not like to eat food containing genes from animals.
+C	The genes in GM food may cause allergic reactions in some people.
+D	Antibiotic resistance genes may be transferred from GM food to humans.
+D	
+---------------------------------------------------
+
+[10285244]
+// Basic concepts //
+(	Which of the following are issues raised by the Human Genome Project?
+(1)	difficulty in deciding who is the owner of personal genetic information
+(2)	difficulty in deciding who can gain access to personal genetic information
+(3)	causing anxiety to the patients who are carrying a defective gene that may cause a disease
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+[10285247]
+// Basic concepts //
+(	Which of the following is/are banned in many countries due to ethical considerations?
+(1)	human reproductive cloning
+(2)	somatic cell gene therapy
+(3)	the Human Genome Project
+A	(1) only			B	(2) only
+C	(3) only			D	(1) and (2) only
+A	
+---------------------------------------------------
+ 
+[10285257]
+// STSE connections // Applying concepts //
+(*	What can scientists do to prevent the spreading of genes from genetically modified (GM) plants to plants in nature when conducting experiments involving GM plants?
+A	Conduct the experiments using herbicide-resistant plants.
+B	Conduct the experiments in rural areas.
+C	Insert antibiotic resistance gene into the GM plants.
+D	Use sterile plants.
+D	
+---------------------------------------------------
+
+[10285259]
+// Basic concepts //
+(	There is concern about the use of embryonic stem cells in stem cell therapy because 
+(1)	human embryos are destroyed to obtain embryonic stem cells. 
+(2)	the therapy is not useful in treating human diseases.
+(3)	the technique can be used in human reproductive cloning.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10285262]
+// Basic concepts //
+(	Which of the following are the criticisms of gene therapy?
+(1)	It can be used to create 'designer babies'.
+(2)	It may cause cancer.
+(3)	It may widen the social class gap.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10285285]
+// Applying concepts //
+(*	Which of the following is/are the criticism(s) of clinical trials of somatic cell gene therapy?
+(1)	Human embryos are destroyed in the process.
+(2)	Informed consent cannot be obtained from patients who are seriously ill.
+(3)	They may affect the public perception of the patients.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+B	
+---------------------------------------------------
+
+
+
+
+Short questions
+
+[10285348]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows the steps in recombinant DNA technology.
+
+	
+
+a	Give two reasons why bacterial plasmids are commonly used in step 2.															(2 marks)
+b	Give two reasons why bacterial cells are commonly used as the host cell in step 5.												(2 marks)
+
+
+
+
+
+
+
+-- answer --
+a	They can pick up foreign DNA easily. / 
+They can be picked up by host cells because of its small size. / 
+They can replicate independently of the host cell's chromosome. / 
+They usually carry antibiotic resistance genes which allow the selection of transformed cells. (any 2)									1m × 2
+b	They can be transformed easily with recombinant plasmids. / 
+They can grow in inexpensive culture media. / 
+They do not need large areas of land to grow. / 
+They reproduce very quickly. This allows the gene products to be produced in a short time. / They are efficient at converting raw materials into gene products as they do not waste energy in other life processes. / 
+The gene products can be easily extracted and purified. (any 2)		1m × 2	
+---------------------------------------------------
+
+[10285350]
+// Basic concepts //
+(	Somatic cell gene therapy involves the introduction of genes into a patient's somatic cells to treat a disease. The most common approach is to supplement a defective gene with a normal one using a vector.
+a	Suggest what can be used as a vector in somatic cell gene therapy. 																(1 mark)
+b	Why may cancer be treated using gene therapy?				(2 marks)
+c	Suggest one potential hazard of gene therapy.				(1 mark)
+
+
+-- answer --
+a	A harmless virus (or other reasonable answers)					1m
+b	If a new gene or its gene product can inhibit the activity of cancer cells,		1m
+cancer can be treated by introducing the gene into the body using gene therapy.																1m
+c	There is a possibility that the viral vectors may regain the ability to cause diseases during gene therapy. / 
+Viral vectors may cause severe immune responses. / 
+The insertion of new genes may affect the expression of existing genes. / 
+The new genes may be wrongly carried to non-target cells. They may also be overexpressed or expressed at the wrong time, resulting in health problems.																	1m	
+---------------------------------------------------
+
+[10285370]
+// Comparison // Schematic diagram //
+(	The diagram below shows a possible way to treat type 1 diabetes. 
+
+	
+
+a	State the source of embryonic stem cells.					(1 mark)
+b	Stem cells can also be obtained from cord blood. State one difference between stem cells in cord blood and embryonic stem cells. 	(2 marks)
+c	Suggest one ethical concern of using embryonic stem cells to treat type 1 diabetes.												(1 mark)
+
+
+-- answer --
+a	Embryonic stem cells can be obtained from four to five days old embryos / blastocysts.												1m
+b	Stem cells in cord blood can only differentiate into blood cells. 			1m
+Embryonic stem cells can differentiate into almost any cell type found in the body. 															1m
+c	The isolation of embryonic stem cells involves the destruction of embryos.	1m	
+---------------------------------------------------
+
+
+[10285378]
+// Applying concepts //
+(	Scientists have developed fast-growing GM salmon by inserting a growth-hormone regulating gene from a Pacific Chinook salmon to the genome of an Atlantic salmon. The GM salmon can grow to market size in 16 to 18 months, whereas the wild type takes three years.
+a	Describe briefly how the growth-hormone regulating gene from a Pacific Chinook salmon could be inserted to the genome of an Atlantic salmon.															(1 mark)
+b	Suggest one advantage of the production of fast-growing GM salmon to the environment.											(1 mark)
+c	Suggest two potential hazards of the production of fast-growing GM salmon to the environment.										(2 marks)
+
+
+-- answer --
+a	Use a vector / plasmid / harmless virus.							1m
+b	It can prevent overfishing of wild salmon.							1m
+c	GM salmon may transfer their genes to the wild type (i.e. causing genetic pollution). These genes may have unexpected and dangerous effects.		1m
+GM salmon may out-compete the wild type if they are released into the environment. This would reduce biodiversity and upset the ecological balance.																1m	
+---------------------------------------------------
+
+[10285408]
+// Basic concepts //
+(	Scientists have produced a GM soya bean plant which is resistant to a herbicide. When farmers apply the herbicide to a field, weeds in the field are killed while the GM soya bean plants remain alive. In the production of the GM soya bean plant, plasmids carrying an antibiotic resistance gene are used as vectors.
+a	Why are plasmids carrying an antibiotic resistance gene used as vectors in the production of the GM soya bean plant?					(1 mark)
+b	Some people are concerned about the safety of using plasmids carrying an antibiotic resistance gene. Why?							(2 marks)
+c	Some people are worried that the production of the GM soya bean plant would upset the ecological balance. Give two reasons for it.		(2 marks)
+
+
+-- answer --
+a	The antibiotic resistance gene enables selection of transformed cells from 	untransformed cells.											1m
+b	The antibiotic resistance gene may be accidentally transferred from genetically modified organisms to pathogens to produce 'superbugs'.				1m
+The 'superbugs' may lead to outbreaks of incurable diseases.			1m
+c	The GM soya bean plant may out-compete the wild types if it is released to the environment.												1m
+Farmers growing the GM soya bean plant are more likely to use a single herbicide. The long-term use of a single herbicide may speed up the evolution of resistant populations of weeds.										1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10285414]
+// Cross-topic // Communication //
+(*	The risk of hepatitis B infection can be reduced by injecting hepatitis B vaccines. Recombinant DNA technology is used in the production of the vaccines. To produce a vaccine, a gene from hepatitis B virus is introduced into yeast.
+a	Describe how injecting the vaccines protects the body against hepatitis B.															(4 marks)
+b	What gene is introduced into the yeast?						(1 mark)
+c	Traditional hepatitis B vaccines contain whole hepatitis B viruses. State the advantage of recombinant vaccines over the traditional vaccines.	(2 marks)
+-- answer --
+a	When a vaccine is introduced into the body, the antigen in the vaccine stimulates the body to develop a primary response.							1m
+The memory cells remember the type of antigen.						1m
+If the body is later invaded by the same antigen, the body will develop a secondary response.													1m
+A larger number of plasma cells, killer T cells and memory cells will be produced in a shorter time. / The secondary response gives enhanced immunity to hepatitis B.																1m
+b	A gene that codes for a viral surface antigen						1m
+c	Traditional vaccines contain the whole viruses which may become active and infectious.													1m
+Recombinant vaccines contain only the viral surface antigens and are thus safer to use.														1m	
+---------------------------------------------------
+[10285423]
+// Applying concepts //
+(*	Caffeine is a chemical that is naturally present in coffee plants. It can be removed from the coffee beans using chemical methods, but this may change the flavour of the coffee. Coffee plants with low caffeine content have also been produced using traditional breeding method. Scientists are trying to produce caffeine-free transgenic coffee plants by genetic engineering.
+
+	
+a	State how coffee plants with low caffeine content can be produced by traditional breeding method. 								(2 marks)
+b	Suggest how caffeine-free transgenic coffee plants can be produced by genetic engineering.									(1 mark)
+c	Describe two advantages and two disadvantages of altering the characters of plants by genetic engineering over the traditional breeding method.																(4 marks)
+
+-- answer --
+a	Select plants with the lowest caffeine content in the population and breed.																1m
+Repeat the process for several generations.					1m
+b	Remove the gene for an enzyme that is involved in the process of caffeine synthesis in coffee plants.									1m
+
+
+
+
+
+c	Advantages:
+It is a quicker method. /
+A particular character can be altered without affecting other characters. / The results are more predictable. /
+Characters from non-related species can be introduced into plants.	
+(any 2 or other reasonable answers)							1m x 2
+Disadvantages:
+The long-term effects of consuming transgenic plants on human health are still unknown. / 
+New genes introduced into the plants or their products may cause allergic reactions in some people. /
+New genes introduced into the plants may be transferred to other species in nature, causing undesirable effects. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10285435]
+// Applying concepts //
+(*	Crops can be genetically engineered to produce a toxin which is highly effective in killing pests. The toxin is produced in nature by the bacterium Bacillus thuringiensis. The photograph below shows the effects of pests on a non-transgenic crop and a transgenic crop that can produce this toxin. 
+	
+The toxin is specific in killing pests and is harmless to other organisms. Moreover, the toxin easily degrades in the environment.
+a	Concerning the effects on the environment, state two advantages of using transgenic crops to reduce the damage by pests over the use of pesticides.															(2 marks)
+b	State two other improvements that can be made to crops using genetic engineering.											(2 marks)
+-- answer --
+a	The toxin produced by transgenic crops is specific in killing pests / harmless to other organisms.										1m
+The toxin produced by transgenic crops easily degrades and will not have a long-term effect on the environment.							1m
+b	Herbicide resistance / 
+Disease resistance / 
+Tolerance to cold / drought / soil with high salinity / 
+Delayed softening / ripening of fruits / 
+Improved nutritional value 
+(any 2 or other reasonable answers) 							1m x 2	
+---------------------------------------------------
+
+[10285446]
+// Basic concepts //
+(	Cystic fibrosis is a genetic disease caused by a mutation in a gene called the CFTR gene. Patients of cystic fibrosis produce thick and sticky mucus which blocks the respiratory tract. Gene therapy is a possible cure for this disease. A copy of normal CFTR gene is inserted into a vector. The vector is then brought into lungs of the patient and transfers the normal CFTR gene into the lung cells. 
+a	Suggest a vector for transferring the normal CFTR gene into the lung cells.															(1 mark)
+b	Is the gene therapy ex vivo or in vivo? Explain your answer.		(2 marks)
+c	The patient needs to receive gene therapy again after a period of time. State two reasons to explain why.								(2 marks)
+
+-- answer --
+a	Harmless virus												1m
+b	In vivo													1m
+The lung cells are genetically modified inside the body by direct transfer of normal CFTR gene into them.										1m
+c	The lung cells containing the normal CFTR gene die and are replaced by new lung cells which do not contain the normal CFTR gene.					1m
+The normal CFTR gene transferred into the lung cells degrades.			1m	
+---------------------------------------------------
+
+
+[10285458]
+// Communication // Schematic diagram //
+(	The diagram below shows the treatment of a lung disease by gene therapy.
+
+	
+
+a	i	What is gene therapy?								(1 mark)
+ii	Describe the process of this type of gene therapy.			(4 marks)
+b	Is this type of gene therapy ex vivo or in vivo?				(1 mark)
+
+-- answer --
+a	i	Gene therapy is the introduction of genes into a patient's cells to treat a disease.												1m
+ii	The normal gene is identified and obtained.						1m
+The gene is cloned and inserted into vectors such as harmless viruses.															1m
+The vectors are introduced into the body and they transfer the normal gene into cells inside the body.									1m
+The normal gene in the cells is then expressed.					1m
+b	In vivo													1m	
+---------------------------------------------------
+
+[10285473]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.				(4 marks)
+Stem cells are a                      cells. They can carry out unlimited 
+b                      cell division and differentiate into various types of specialized cells. c                      stem cells can be obtained from blastocysts, while d                      stem cells can be isolated from tissues like bone marrow, blood and skeletal muscles.
+
+-- answer --
+a	undifferentiated												1m
+b	mitotic													1m
+c	Embryonic													1m
+d	adult														1m	
+---------------------------------------------------
+
+
+[10285483]
+// Basic concepts //
+(*	State two potential benefits and two potential hazards of developing genetically modified (GM) food.										(4 marks)
+
+-- answer --
+Potential benefits:
+The quality / nutritional value of food can be improved. 					1m
+Food supplies can be increased. 									1m
+(or other reasonable answers)
+Potential hazards:
+The long-term effects of GM food on human health are still unknown. 			1m
+New genes or their products in GM food may cause allergic reactions in some people. 																	1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10285493]
+// STSE connections // Applying concepts //
+(*	The photograph below shows some rice plants.
+	
+Scientists produced a variety of rice called Golden Rice by transferring genes from maize and bacteria to rice plants. The grains of Golden Rice are rich in β-carotene. 
+a	Suggest how Golden Rice can help people living in the remote areas.																(2 marks)
+b	Some people suggested that instead of producing Golden Rice, nutrient supplement pills can be given to people living in the remote areas. Suggest two advantages of producing Golden Rice over giving nutrient supplement pills to them.											(2 marks)
+c	Some environmental concern groups warned that planting genetically modified (GM) crops may harm the environment. State one possible harmful effect of planting Golden Rice on the environment.		(1 mark)
+-- answer --
+a	β-carotene can be converted to vitamin A inside the human body.		1m
+Eating Golden Rice provides vitamin A that is deficient in their diet / helps prevent deficiency of vitamin A.									1m
+b	It is difficult to transport a large amount of pills to the remote areas. / 
+Children may not like to take pills. / 
+People may not remember to take the pills. 
+(any 2 or other reasonable answers)							1m x 2
+c	Golden Rice may transfer its genes to the wild types. These genes may have unexpected and dangerous effects. 							1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+Structured questions
+
+[10285589]
+// Cross-topic // High order thinking // Schematic diagram //
+(**Cystic fibrosis is a disease that affects mostly the lungs. The lumens of bronchioles are blocked by thick and sticky mucus produced by mucus-secreting cells. The disease is caused by a mutation of a gene called the CFTR gene. The CFTR gene codes for a channel protein that controls the movement of chloride ions across the cell membrane of mucus-secreting cells. The diagram below shows the movements of chloride ions and water in a normal bronchiole.
+
+	
+
+a	Based on the information provided, suggest why the movements of chloride ions and water are reduced in patients with cystic fibrosis.		(3 marks)
+b	Patients with cystic fibrosis are more likely to have bacterial infections of the lungs. Suggest why.									(2 marks)
+c	Gene therapy is a possible way to treat cystic fibrosis. It can be done by delivering a normal gene into mucus-secreting cells in lungs using a virus as a vector.
+i	Suggest how the normal gene can be delivered into mucus-secreting cells in lungs using a virus.							(2 marks)
+ii	Explain why the gene therapy described above does not offer a permanent cure for cystic fibrosis.						(2 marks)
+iii	Explain why patients treated by the gene therapy described above would not be able to pass the normal gene on to their children.
+													(2 marks)
+
+
+
+-- answer --
+a	As a mutation occurs in the CFTR gene, the shape of the channel protein produced is changed.											1m
+The channel protein may become non-functional. Chloride ions cannot be transported from the mucus-secreting cells to the outside of the cells.		1m
+As a result, more chloride ions remain in the cells. The water potential of the cells becomes lower. Less water moves out of the cells by osmosis.			1m
+b	As the mucus of the patients is thick and sticky, it is difficult to be removed by the beating action of cilia.											1m
+The mucus remains in the bronchioles for a longer time. Thus, the bacteria trapped by the mucus can grow in the lungs.						1m
+c	i	The normal gene is inserted into the virus.						1m
+The virus is then introduced into the patients' body. It transfers the normal gene into the cells inside the body.							1m
+ii	The normal gene will be lost when the mucus-secreting cells with the gene inserted die.											1m
+New mucus-secreting cells for replacement do not have the normal gene.
+Thus, the gene therapy does not offer a permanent cure for cystic fibrosis.
+														1m
+iii	The normal gene is delivered into somatic cells only.				1m
+Their gametes still have the defective gene.						1m	
+---------------------------------------------------
+
+[10285591]
+// Scientific investigation // Data handling //
+(**In an investigation, the chance of genetically modified (GM) plants persisting in the wild when they escape from the growing sites was assessed. Four types of GM plants (oilseed rape, maize, sugar beet and potato) were grown in 12 different natural habitats. Non-GM plants were also grown as controls. The numbers of mature plants were then counted regularly. The table below shows the mean percentages of survival of the plants in all 12 habitats at the end of the first growing season. 
+	Percentage of survival (%)	
+	GM plant	Non-GM plant	
+Oilseed rape	2.0	2.3	
+Maize	3.1	3.0	
+Sugar beet	3.6	4.0	
+Potato	2.8	3.5	
+
+a	Among the four GM plants used in this investigation, some are genetically modified to be resistant to herbicide, and some are genetically modified so that they produce an insecticide in their cells. State the advantages of growing these GM plants to the farmers.					(2 marks)
+b	Explain why the investigation was carried out at 12 different natural habitats.												(2 marks)
+c	Compare the mean percentages of survival of GM plants and non-GM plants in the 12 habitats at the end of the first growing season.	(3 marks)
+d	After 4 years, no more GM plants could be found in all the 12 habitats.
+i	Based on the information provided, state one conclusion about the 	potential danger of these GM plants to natural habitats.		(1 mark)
+ii	Give two arguments against the production of GM plants about safety 	issues.											(2 marks)
+
+-- answer --
+a	Growing GM plants that are resistant to herbicide can reduce crop loss due to the use of herbicides. Thus, the yield of the crop increases.				1m
+Growing GM plants that produce an insecticide in their cells can reduce crop loss due to pests. Thus, the yield of the crop increases.					1m
+b	Climates in the 12 habitats are different.							1m
+Carrying out the investigation at different habitats can increase the reliability of the results.													1m
+c	The mean percentages of survival of both GM plants and non-GM plants are very low.														1m
+The mean percentages of survival of non-GM oilseed rape, non-GM sugar beet and non-GM potato are higher than those of GM oilseed rape, GM sugar beet and GM potato.												1m
+Only the mean percentage of survival of GM maize is higher than that of non-GM maize.													1m
+d	i	The potential danger of these GM plants to natural habitats is very low.	
+														1m
+ii	The history of GM plants is short. Their long-term effects on human health 	are still unknown.										1m
+	New genes or their products in GM plants may cause allergic reactions in 
+	some people.											1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10285608]
+// Reading comprehension // Critical thinking // STSE connections //
+(**Read the following paragraph and answer the questions.
+	The Human Genome Project (HGP) was started in 1990. One of its aims was to determine the base sequence that makes up the human genome. With the data obtained from the HGP, scientists may be able to build a computer model of humans. In the future, most research on drug development might be carried out on computer models, rather than on tissues grown in culture or on living animals.
+	Some people suggest that with the data obtained from the HGP, the government can establish a compulsory screening programme for all citizens to find out if they have a high risk of developing a particular disease such as cancer. However, some people are against using the data in this way.	
+
+a	Give two advantages of doing research on computer models rather than on living animals.											(2 marks)
+b	Give two reasons why finding out people having a high risk of developing a particular disease may be beneficial to them.					(2 marks)
+c	Give three benefits to society if the compulsory screening programme is carried out.											(3 marks)
+d	State three reasons why some people are against the compulsory screening programme.											(3 marks)
+-- answer --
+a	Results can be obtained more quickly.								1m
+We need not kill animals for research.								1m
+(or other reasonable answers)
+b	The people can adopt a healthy lifestyle such as not smoking and doing exercise regularly to reduce the risk of the disease.							1m
+The people can have health checks more frequently to monitor their health conditions.													1m
+(or other reasonable answers)
+c	Knowing that they have a high risk of developing a particular disease, people may have health checks more frequently. This may help early diagnosis of the disease. Early treatment of the disease may help save health resources.			1m
+The health department can estimate the number of people having a high risk of developing a particular disease so that the government can decide how much resources should be allocated for the treatment of the disease.			1m
+Scientists can use the data to determine medical research priorities.		1m
+(or other reasonable answers)
+d	The privacy of personal genetic information is concerned.				1m
+People may feel anxious after knowing they have a high risk of developing a particular disease.											1m
+People having a high risk of developing a particular disease may be discriminated. 															1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10285619]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+Mesenchymal stem cells (MSC) are adult stem cells which are found in human bone marrow. They can be extracted from the bone marrow and used to produce different types of cells. One of the potential uses of MSC is to treat patients with damaged liver tissues. This may be an alternative treatment for patients who are waiting for a liver transplant.	
+a	What are adult stem cells?								(2 marks)
+b	Suggest how MSC can be used to treat patients with damaged liver tissues.	
+														(2 marks)
+c	Give two advantages of treating liver damage using the patients' own MSC over a liver transplant from a donor.						(2 marks)
+d	Give two limitations of using MSC to treat damaged tissues.		(2 marks)
+e	Apart from adult stem cells, embryonic stem cells may also be used in the treatment of diseases. Give one reason why some people object to the use of embryonic stem cells.									(1 mark)
+
+-- answer --
+a	Adult stem cells are undifferentiated cells that can be found in childhood or adult tissues.													1m
+They can differentiate into only a limited range of cell types.				1m
+b	MSC can be induced to differentiate into liver cells.					1m
+The liver cells can then be transplanted into the patients' body to replace the damaged liver tissues.										1m
+c	As the MSC used are taken from the patients' body, the liver cells will not be rejected by the patients' body.									1m
+Patients do not have to wait a long time for a matched liver.				1m
+d	MSC may continue to divide after transplant, leading to cancer.			1m
+MSC can differentiate into only a limited cell types. Only the damage of some types of tissues can be treated.									1m
+(or other reasonable answers)
+e	The isolation of embryonic stem cells involves the destruction of embryos.	1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10285626]
+// Cross-topic // Applying concepts //
+(**A group of scientists investigated the use of gene therapy in treating diabetes. They synthesized a gene which coded for insulin and inserted it into a virus. Then they injected the virus into the liver of rabbits having type 1 diabetes. The treated rabbits had an increased production of insulin for 6 months. Their blood glucose levels were normal during this period of time.
+a	Give two ways in which the genome of the virus used in this gene therapy was different from that of a normal virus.					(2 marks)
+b	Suggest two advantages of using viruses in gene therapy.		(2 marks)
+c	Why was the liver chosen as the target organ in this gene therapy?															(1 mark)
+d	The rabbits chosen for this gene therapy had type 1 diabetes. Why is this gene therapy probably ineffective in treating rabbits that have type 2 diabetes?											(1 mark)
+e	Discuss the possible benefits and drawbacks of using this gene therapy to treat type 1 diabetes in humans, rather than injecting insulin.	(4 marks)
+
+
+-- answer --
+a	Genes which could cause diseases in rabbits were removed from the virus used in 	this gene therapy.										1m
+	The virus used in this gene therapy contained a synthetic insulin gene.	1m
+b	Viruses can transfer DNA into cells. /
+	Viral infections are specific and can target specific cells. /
+	Viruses can multiply in living cells to produce more copies of the synthetic insulin 		gene. (any 2 or other reasonable answers)						1m ( 2
+c	The insulin produced can stimulate liver cells to convert excess glucose to 			glycogen so that blood glucose level can be regulated.				1m
+d	An increased production of insulin in the body cannot help lower the blood glucose 	level because in type 2 diabetes the body cells are insensitive to insulin. 																1m
+e	Possible benefits:
+	Injections which cause fear or pain can be avoided. /
+	The effect is longer lasting than that of an insulin injection as cells picked up the	synthetic insulin gene can produce insulin. /
+	Regular measurement of blood glucose levels may not be necessary.
+	(any 2 or other reasonable answers)							1m ( 2
+	Possible drawbacks:
+	Rabbits are different from humans and this gene therapy may have side effects on 	humans. /
+	The virus may cause diseases / severe immune responses in humans. /
+	The insertion of the synthetic insulin gene into the human genome may affect the 	expression of existing genes, leading to diseases such as cancer. /
+	The synthetic insulin gene may be overexpressed / expressed at the wrong time, 		resulting in other health problems.
+	 (any 2 or other reasonable answers)							1m ( 2	
+---------------------------------------------------
+
+[10285634]
+// Cross-topic // High order thinking // Communication //
+(**During pregnancy, the placenta secretes a hormone called human chorionic gonadotrophin (HCG). Many home pregnancy tests make use of monoclonal antibodies to detect the presence of HCG in urine. The diagram below shows the design of a pregnancy test strip. It contains 3 types of monoclonal antibodies, X, Y and Z, and each type can bind to a particular antigen only.
+	
+	Three different results can appear on the pregnancy test strip. They are shown in the following diagrams.
+
+	
+a	Why is each type of monoclonal antibodies highly specific to a particular antigen?												(2 marks)
+b	Explain why result I indicates a pregnancy.					(4 marks)
+c	i	Which result, II or III, is a negative result that indicates 'no  pregnancy'? Explain your answer. 					(3 marks)
+ii	Explain what the remaining result indicates.				(1 mark)
+
+
+-- answer --
+a	Each type of monoclonal antibodies has a particular amino acid sequence.	1m
+	Thus, the antigen-binding sites of each type of monoclonal antibodies have a 	specific shape or 3D structure to which only a particular antigen can bind.	1m
+b	HCG is present in the urine of a pregnant woman.					1m
+	As HCG is carried up the strip by the urine, it is bound to the coloured antibody X. 															1m
+	As the coloured HCG-antibody X complex is carried up the strip by the urine, it is 		bound to antibody Y fixed in the large window. This produces a coloured line in the 	large window.												1m
+	As the antibody X unbound to HCG is also carried up the strip by the urine, it is 	bound to antibody Z fixed in the small window. This produces a coloured line in the 	small window.												1m
+c	i	Result II is a negative result that indicates 'no pregnancy'.			1m
+	In the absence of HCG in the urine sample,	there is no binding of antibody X 	to HCG nor binding of antibody Y to HCG-antibody X complex, thus there is 	no coloured line in the large window.							1m
+	As the coloured and mobile antibody X is carried up the strip by the urine, it is 	bound to antibody Z fixed in the small window. This produces a coloured line 	in the small window.										1m
+ii	Result III may indicate a faulty strip. There is no coloured line in the small 	window. That means no antibody X can be carried up the strip by the urine.															1m	
+---------------------------------------------------
+
+[10285643]
+// Cross-topic // High order thinking // Comparison //
+(**Stem cells can be obtained from human embryos, childhood or adult tissues. Their uses in replacing damaged tissues as a result of accidents or diseases have been explored. In several patients with damaged liver tissues, stem cells were obtained from their bone marrow and injected into their liver. There was improvement in their liver functions after the treatment. Although the results were encouraging, doctors are cautious about the new treatment as stem cells may be involved in the development of cancers.
+a	Describe how stem cells obtained from the bone marrow are different from embryonic stem cells.									(2 marks)
+b	Suggest two advantages of using stem cells from a patient's own bone marrow rather than the following in replacing damaged liver tissues.
+i	Embryonic stem cells								(2 marks)
+ii	Liver transplant									(2 marks)
+c	Describe two similarities between stem cells and cancer cells.	(2 marks)
+d	Stem cells can be obtained from human embryos created by cloning. Give two ethical reasons to explain why cloning human embryos is controversial. 														(2 marks)
+
+
+-- answer --
+a	Stem cells obtained from the bone marrow can only differentiate into a limited range of cell types.										1m
+	Embryonic stem cells can differentiate into more cell types.			1m
+b	i	Ethical / legal / social issues associated with the use of embryonic stem cells can be avoided. /
+The patient's own stem cells would not be rejected by the patient's body. /
+Stem cells are easier to obtain from the bone marrow than from human embryos.
+(any 2 or other reasonable answers)						1m x 2
+ii	The problem of shortage of donors' livers can be avoided. /
+The need for finding a donor with antigens matching the patient's can be avoided. /
+This form of stem cell therapy is less invasive than a liver transplant.
+(any 2 or other reasonable answers)						1m x 2
+c	Both can divide continuously.								1m
+	Both can migrate to other parts of the body.						1m
+
+d	It is difficult to ensure that the technique used to clone human embryos will not be used in human reproductive cloning. /
+Cloning human embryos may lower the value of life. /
+Individuals developed from the human embryo clones may be considered 'unnatural' or 'sub-humans'. /
+Individuals developed from the human embryo clones may lack self-identity.
+(any 2 or other reasonable answers)						1m x 2	
+---------------------------------------------------
+
+[10285667]
+// STSE connections // Applying concepts //
+(*	In some developing countries food shortage is particularly serious and many people are starving every day. The main reasons for insufficient local food production include a lack of water, presence of insect pests and poor soil. In an attempt to reduce food shortage, some crop plants have been genetically modified so that they can produce a protein toxic to certain insect pests. The protein is normally produced by the bacterium Bacillus thuringiensis. However, some people argue that the production of the genetically modified (GM) plants is not a solution to food shortage in developing countries and may cause environmental problems.
+a	i	When the gene coding for the toxic protein is introduced into plant cells, antibiotic resistance genes are added as well. What is the use of these antibiotic resistance genes?	 					(1 mark)
+ii	The use of antibiotic resistance genes in the production of the GM plants has caused concern. Why?						(2 marks)
+b	How may the GM plants reduce food shortage?				(1 mark)
+c	Suggest four reasons why the production of the GM plants may not be able to reduce food shortage in developing countries.				(4 marks)
+d	Explain how the production of the GM plants may cause an environmental problem.												(2 marks)
+
+
+-- answer --
+a	i	They are used as the selective marker for the selection of transformed cells. 														1m
+ii	These genes may be transferred from the GM plants to pathogens to produce 'superbugs' that are resistant to multiple antibiotics.		1m
+'Superbugs' may lead to outbreaks of incurable diseases.			1m
+
+b	By reducing the crop loss due to insect pests, food production is increased.	1m
+c	The seeds of the GM plants are too expensive for the poor farmers.		1m
+The crop yield also depends on the availability of water / fertility of soil.		1m
+Other insect pests may not be killed by the GM plants.					1m Insect pests may become resistant to the toxic protein.				1m
+d	The GM plants may out-compete the wild types if they are released into the environment.												1m
+This would reduce biodiversity and upset the ecological balance.			1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10285671]
+// Critical thinking // Applying concepts //
+(*	Cystic fibrosis (CF) is a genetic disease. A defective gene causes malfunctioning of the cells lining the respiratory tract. This leads to an accumulation of thick mucus in the respiratory tract and the patients suffer from respiratory infection easily. The CF gene is identified during the Human Genome Project (HGP) in 1989. In some countries, if a couple finds that their foetus carries the CF gene, the couple can decide to terminate the pregnancy.
+Scientists are developing gene therapy to treat CF. One approach is to supplement the defective gene with a normal one. The normal gene is inserted into a vector. Then the vector carries the gene into the patient's cells.
+a	i	Suggest what can be used as a vector in gene therapy.		(1 mark)
+ii	Name the technology used to insert the normal gene into the vector.														(1 mark)
+b	Gene therapy is a potential treatment for some genetic diseases like CF. However, there is concern about the safety and regulation of gene therapy. State one ethical issue and one legal issue arising from gene therapy.																(2 marks)
+c	The HGP locates all the genes in the human genome. The data is useful in the development of diagnostic tests and treatments for diseases like CF. However, there are ethical, legal and social implications of the project. State one issue in each field. 									(3 marks)
+d	Some people disagree to terminate the pregnancy even if the foetus is found to carry the CF gene. Why? Suggest one reason.				(1 mark)
+
+
+
+
+-- answer --
+a	i	A harmless virus (or other reasonable answers)					1m
+ii	Recombinant DNA technology								1m
+b	Ethical issue:
+It may be difficult to decide when gene therapy should be used. /
+	Gene therapy may be used for purposes other than treating or preventing diseases. /
+	Gene therapy may be used to create 'designer babies'.				1m
+	(or other reasonable answers)
+Legal issue:
+Is informed consent acceptable when the potential research subject is seriously  ill? /
+	How can we prevent the misuse of gene therapy?					1m
+	(or other reasonable answers)
+c	Ethical implication:
+Would the patient feel anxious if the results of genetic tests show that he/she is 	carrying a defective gene? /
+Should parents be allowed to terminate a pregnancy if their foetus is found to carry a defective gene?											1m
+	(or other reasonable answers)
+Legal implication:
+Who is the owner of personal genetic information? /
+	Who can gain access to personal genetic information? /
+How can we prevent discrimination against people carrying a particular gene and the misuse of genetic information? /
+Could the presence of a gene be used as evidence in court to prove that someone is guilty or innocent?											1m
+	(or other reasonable answers)
+Social implication:
+How would personal genetic information affect the public perception of an 	individual?													1m
+	(or other reasonable answers)
+d	Foetuses carrying the CF gene may not develop CF when they are born. /
+Treatment for CF may have been developed when foetuses carrying the CF gene are born. /
+	Destruction of foetuses carrying the CF gene is a murder. /				1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10285676]
+// Reading comprehension // Applying concepts //
+(*	Read the following article and answer the questions.
+A company is thinking of developing bananas with different tastes. A spokesperson for the company said that artificial flavourings would not be used. Instead, the company will produce a transgenic banana plant by genetic engineering. The announcement has been welcomed by people who dislike the original flavour of bananas. However, some people object to introducing this new food to the market.
+	
+a	What are transgenic plants?								(2 marks)
+b	Briefly describe the procedure of producing transgenic banana plants.																(4 marks)
+c	Suggest two difficulties the growers may have in growing the transgenic banana plants.											(2 marks)
+d	Apart from the change in flavour, give two other examples of desirable characters that can be introduced into banana plants.			(2 marks)
+-- answer --
+a	Transgenic plants are plants whose genetic material has been altered through genetic engineering.										2m
+b	Obtain the gene for a desirable character.						1m
+Introduce the gene into banana cells using a vector.				1m
+Select the cells with the gene inserted.						1m
+Culture the banana cells and let them develop into banana plants.	1m
+c	The transgenic banana plants may be destroyed by unknown pests. / 
+The transgenic banana plants may have unknown diseases. / 
+Special growing conditions may be needed. (any 2)				1m x 2
+d	Change in appearance / 
+Herbicide resistance /
+Pest resistance /
+Disease resistance /
+Tolerance to cold / drought / soil with high salinity /
+Delayed softening / ripening of fruits /
+Improved nutritional value (any 2)							1m x 2	
+---------------------------------------------------
+
+[10285684]
+// Communication // Applying concepts //
+(*	Vaccines are widely used nowadays to protect humans against pathogens.
+Using recombinant DNA technology, plants with edible parts such as banana plants can be genetically modified to produce antigenic proteins of pathogens. Our immunity can be enhanced by simply eating plant parts.
+	
+a	Explain how genetically modified (GM) plants containing an antigenic protein can be produced.									(4 marks)
+b	What are the advantages and disadvantages of using GM plants as oral vaccines?												(4 marks)
+
+-- answer --
+a	The gene coding for an antigenic protein is obtained from the pathogen.																1m
+The gene is inserted into a vector.							1m
+The gene is introduced into plant cells using the vector.			1m
+Plant cells are cultured to grow into whole plants.					1m
+b	Advantages: 
+No special medical equipment is needed in taking the plant-based vaccines. /
+Producing vaccines by growing plants is cheaper and easier. /
+Storage and transport of the plant-based vaccines are easier. 
+(any 2 or other reasonable answers)							1m x 2
+Disadvantages:
+Not all parts of the plants produce the antigenic proteins. /
+The antigenic proteins taken into the body orally may be digested. /
+It is hard to control the dosage.
+(any 2 or other reasonable answers) 							1m x 2	
+---------------------------------------------------
+
+[10285691]
+// Communication // Schematic diagram //
+(*	Cystic fibrosis is a genetic disease caused by a defective gene. In some patients, three nucleotides in the gene are deleted. Functional form of an important protein cannot form, leading to an excessive production of thick mucus in the lungs. The diagram below shows an attempt in treating cystic fibrosis by gene therapy.
+	
+a	Describe how copies of normal human gene can be cloned in bacteria.																(6 marks)
+b	What is the vector used in transferring the normal gene to human cells?															(1 mark)
+c	Give two drawbacks of this treatment for cystic fibrosis.		(2 marks)
+d	Will the normal gene of the patient be passed to the patient's offspring? Explain your answer.									(3 marks)
+
+
+-- answer --
+a	Cut the DNA fragment containing the normal gene and a plasmid with the same restriction enzyme.										1m
+Join the DNA fragment and the plasmid with a DNA ligase. 			1m Introduce the recombinant plasmid into bacteria.					1m
+Select the transformed bacteria, e.g. growing them on an agar plate containing an antibiotic.												1m
+Culture the transformed bacteria on a large scale.				1m
+Copies of the gene are produced as the bacteria divide and the recombinant plasmid replicates.										1m
+b	Harmless virus											1m
+c	It takes a long time to replace all the defective lung cells with cells containing a copy of the normal gene. /
+It has a short therapeutic effect because the lung cells are constantly being replaced with new cells. / 
+Repeated gene therapy is required. / 
+The viral vectors used may cause diseases. /
+The viral vectors used may cause severe immune responses. / 
+Insertion of genes may affect the expression of existing genes, leading to diseases. / 
+The new genes may be wrongly carried to non-target cells / overexpressed / expressed at the wrong time, resulting in health problems. 
+(any 2)												1m x 2
+d	The normal gene will not be passed to the offspring.				1m
+The gene therapy corrects only the genetic material of somatic cells.	1m
+The gametes still contain the defective genes. / The genetic correction is not inheritable.											1m	
+---------------------------------------------------
+
+
+[10285695]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Read the following article and answer the questions.
+A biotechnology company has got approval from the US Food and Drug Administration for selling GM salmon for human consumption. The GM salmon can grow at twice the rate of the wild type because they contain genes from other fish which allow them to produce a growth hormone throughout the year. The GM salmon are made sterile. Despite the advantages of producing the GM salmon, opponents have expressed concerns over its potential risks to human health and the environment.	
+a	Suggest two advantages of producing the GM salmon.			(2 marks)	
+b	Suggest two potential risks posed by the GM salmon on human health and on the environment respectively. 							(4 marks)
+c	Why are the GM salmon made sterile?						(1 mark)
+d	Suggest one preventive measure that should be taken to minimize the environmental risks posed by the GM salmon.				(1 mark) 
+-- answer --
+a	It can help increase the yield of salmon. /
+It can help reduce the resources required for aquaculture. /
+It can help prevent the overfishing of wild salmon. 
+(any 2 or other reasonable answers)							1m x 2
+b	Potential risks on human health:
+New genes or their products in the GM salmon may cause allergic reactions in some people. 											1m
+The GM salmon may transfer the antibiotic resistance genes to pathogens, producing 'superbugs' that are resistant to multiple antibiotics. 'Superbugs' may lead to outbreaks of incurable diseases. 						1m
+(or other reasonable answers)
+Potential risks on the environment:
+The GM salmon may out-compete the wild types if they are released into the environment. This would reduce biodiversity and upset the ecological balance. 															1m
+The GM salmon may transfer their genes to the wild types. These genes may have unexpected and dangerous effects. 							1m
+(or other reasonable answers)
+c	This can prevent them from transferring genes to the wild types. 		1m
+d	The GM salmon should be raised in tanks in inland areas.			1m
+(or other reasonable answers)	
+---------------------------------------------------
+[10285702]
+// Basic concepts //
+(	The Human Genome Project (HGP) is a research project started in 1990. It is the first large-scale scientific project that has taken its ethical, legal and social implications into serious consideration. 
+a	Apart from addressing the ethical, legal and social implications, state two other goals of the HGP.									(2 marks)
+b	State two benefits that this project may bring us.				(2 marks)
+c	Discuss the possible problems related to the use of personal genetic information obtained in the HGP.							(4 marks)
+
+-- answer --
+a	Determine the base sequence that makes up the human genome. / Sequence the human DNA. / 
+Locate all the genes in the human genome. / Map all the genes in the human genome. /
+Store the information in a database which is open to the public. /
+Develop related new technologies and improve tools for data analysis.
+(any 2)												1m x 2
+b	The data obtained may help scientists better understand genetics. /
+The data obtained may help improve diagnoses and treatment of diseases. /
+The data obtained may help scientists better understand evolution.
+(any 2 or other reasonable answers)							1m x 2
+c	It is difficult to decide who is the owner of personal genetic information.																	1m
+It is difficult to decide who can gain access to personal genetic information. 																1m
+Some people may be discriminated for they are carrying a particular gene.																1m
+Genetic information may be misused by insurance companies, employers and schools, etc. 											1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10285703]
+// Reading comprehension // High order thinking // STSE connections //
+(**Read the following article and answer the questions.
+Some people concern that genes from genetically modified (GM) crops may be transferred to the wild types and cause environmental problems. Genetic use restriction technology (GURT) is one of the proposed methods to solve the problem. GURT engineered GM crops produce seeds that cannot germinate. This prevents the transfer of genes from GM crops to the wild types. However, some people warned that GURT may have a great economical impact on the farmers in the developing countries as it enables the seed companies to control the seed market.	
+
+a	State how the genes from GM crops can be transferred to the wild types.															(2 marks)
+b	State one possible problem caused by the transfer of genes from the GM crops to the wild types.									(1 mark)
+c	The farmers in developing countries keep a portion of their seeds in one season and grow them in the next season, so that they have a continuous supply of seeds. The use of GURT will terminate this cycle. Describe the possible economical impact of GURT on these farmers if they switch to growing GM crops.										(3 marks)
+d	Describe one other way GM crops may harm the poor farmers in developing countries economically.						(2 marks)
+
+-- answer --
+a	The pollen grains of GM crops are carried to the stigma of the wild types. / GM crops may cross-pollinate with the wild types.						1m
+The seeds produced contain the genes of the GM crops.				1m
+b	The transfer of herbicide resistance genes to weeds in nature would result in 'superweeds' that are difficult to control. 							1m
+(or other reasonable answers)
+c	The GURT engineered crops produce sterile seeds. The farmers cannot grow the plants by using the seeds from the previous season.					1m
+They have to purchase seeds from seed companies every season.		1m
+This leads to a dependence of the farmers on the seed companies. / The seed companies can control the price of the seeds.						1m
+
+
+d	Some poor farmers may not be able to afford the seeds of transgenic crops which are more expensive, so they are unable to switch to growing transgenic crops.																1m
+The development of GM crops may reduce their competitiveness and affect their livelihood.													1m	
+---------------------------------------------------
+
+[10285711]
+// Reading comprehension // STSE connections //
+(*	Read the following article and answer the questions.
+The government has introduced a voluntary genetically modified (GM) food labelling scheme in 2006. GM foods with their composition or nutritional value significantly different from the conventional ones, or containing antigens that are not found in conventional ones should be labelled. Some environmental concern groups urge that all foods containing GM materials be labelled because genetically modified organisms (GMOs) may cause harm to humans and the environment.	
+a	State two possible harmful effects of GMOs on 
+i	the human health.									(2 marks)
+ii	the environment.									(2 marks)
+b	State two argument for the implementation of a mandatory GM food labelling scheme. 										(2 marks)
+c	Give two possible difficulties the government may encounter in introducing a mandatory GM food labelling scheme.					(2 marks)
+
+-- answer --
+a	i	New genes or their products in GMOs may cause allergic reactions in some people. 											1m
+GMOs may transfer the antibiotic resistance genes to pathogens, producing 'superbugs' that are resistant to multiple antibiotics. 'Superbugs' may lead to outbreaks of incurable diseases. 						1m
+(or other reasonable answers)
+ii	GMOs may out-compete the wild types if they are released into the environment. This would reduce biodiversity and upset the ecological balance. 											1m
+GMOs may transfer their genes to the wild types. These genes may have unexpected and dangerous effects. 						1m
+(or other reasonable answers)
+b	Consumers have the right to know whether their foods contain GM materials.															1m
+Consumers who avoid some foods due to ethical / religious reason can choose the foods according to the information on the labels.					1m
+(or other reasonable answers)
+c	Food traders may object to the introduction of the scheme because this poses an additional cost to them. / 
+It is difficult to distinguish GM foods from non-GM foods because they look the same. / 
+It is difficult to identify the source of raw materials for the imported / processed foods. / 
+It is difficult to test whether the foods contain GM materials, especially the processed foods. (any 2 or other reasonable answers)				1m x 2	
+---------------------------------------------------

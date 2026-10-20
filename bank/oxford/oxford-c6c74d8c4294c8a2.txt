@@ -1,0 +1,1676 @@
+Chapter 11		Cell cycle and division
+
+Multiple-choice questions
+[10258382]
+// Photomicrograph // Applying concepts //
+*	Photomicrograph I shows a cell undergoing a certain type of cell division, which produces the daughter cells shown in photomicrograph II. 
+	
+
+Which of the following statements about the above cells are correct?
+(1)	The parent cell was undergoing meiotic cell division.
+(2)	The daughter cells are haploid.
+(3)	The daughter cells are genetically identical to each other.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+
+A	
+---------------------------------------------------
+
+[10258395]
+// Schematic diagram // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows some stages of meiotic cell division.
+	
+
+	Which of the following correctly identifies stages X, Y and Z?
+	X	Y	Z	
+A	prophase I	metaphase I	metaphase II	
+B	prophase I	anaphase I	anaphase II	
+C	metaphase I	anaphase I	anaphase II	
+D	metaphase I	anaphase I	metaphase II	
+
+C	
+---------------------------------------------------
+
+[10258396]
+// Schematic diagram // Applying concepts //
+**	Genetic variations can arise from the events in
+A	stages X and Y.
+B	stages X and Z.
+C	stages Y and Z.
+D	stages X, Y and Z.
+
+A	
+---------------------------------------------------
+
+[10258399]
+// Photomicrograph //
+*	The photomicrographs below show four stages in mitotic cell division of plant cells. 
+	
+
+	Which of the following is the correct sequence of the stages?
+A	W → X → Z → Y
+B	X → W → Z → Y
+C	Y → Z → W → X
+D	Z → W → Y → X
+
+C	
+---------------------------------------------------
+
+[10258407]
+// Schematic diagram //
+*	The diagram below shows a cell undergoing mitotic cell division.
+	
+	Which of the following is likely to be the nucleus of the daughter cell near the end of mitotic cell division?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+
+
+[10258421]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows a plant cell at a certain stage of cell cycle.
+	
+Which of the following statements about the cell is/are correct?
+(1)	The chromosomes are lining up in the middle of the cell.
+(2)	The rate of protein synthesis of the cell is much higher than the same cell at interphase.
+(3)	The spindle fibres are contracting.
+A	(2) only					B	(3) only
+C	(1) and (2) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10258431]
+// Photomicrograph // Graph interpretation // Applying concepts //
+**	The graph below shows the change in the amount of DNA in an onion root tip cell during a cell cycle.
+	
+	The photomicrographs below show two onion root tip cells.
+	
+	Which of the following correctly shows the stages which the two onion root tip cells are in?
+	P		Q
+A	X		Y
+B	X		Z
+C	Y		X
+D	Z		Y
+C	
+---------------------------------------------------
+
+[10258454]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the masses of a cell and the DNA in the cell during two consecutive cell cycles.
+ 
+Which of the following conclusions can be drawn from the graph?
+	(1)	It takes 24 hours for this cell to complete a cell cycle.
+	(2)	The cell mass doubles before cytokinesis occurs.
+	(3)	DNA replication takes place during the first half of the cell cycle.
+A	(1) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10258479]
+// Data handling // Applying concepts //
+*	The table below shows the mass of DNA in some human cells.
+Cell	Mass of DNA ((10-12 g)	
+X 	3.3	
+Kidney cell	6.6	
+Y	0	
+	Cells X and Y are most likely
+		Cell X					Cell Y
+	A	liver cell					white blood cell
+	B	neurone					mature red blood cell
+	C	ovum					mature red blood cell 
+	D	ovum					sperm	
+C	
+---------------------------------------------------
+
+[10258480]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the distance between two sister chromatids in a cell since the start of metaphase in mitosis. 
+ 	
+
+	How long did the anaphase in mitosis of this cell last?
+A	14 minutes				
+B	15 minutes
+	C	16 minutes			
+	D	31 minutes
+B	
+---------------------------------------------------
+
+[10258490]
+// Comparison // Basic concepts //
+*	The diploid number of an organism is 28. Which of the following comparisons between a diploid cell and a haploid cell of the organism is correct?
+	Diploid cell	Haploid cell	
+A	Its chromosomes are of the same size.	Its chromosomes are different in size.	
+B	It contains 28 sets of chromosomes.	It contains 14 sets of chromosomes.	
+C	It contains homologous chromosomes.	It contains non-homologous chromosomes only.	
+D	It contains both maternal and paternal chromosomes.	It contains maternal chromosomes only.	
+
+C	
+---------------------------------------------------
+
+
+[10258513]
+// Schematic diagram // Basic concepts //
+	Which of the following diagrams best represents the whole process of meiotic cell division in a parent cell with 64 chromosomes? (The number in each circle shows how many chromosomes are present in one cell.)
+A			B		
+C			D		
+
+C	
+---------------------------------------------------
+
+[10258525]
+// Basic concepts //
+	Which of the following events occurs first in meiotic cell division?
+A	lining up of homologous chromosomes along the equator
+B	formation of chiasmata
+	C	separation of members of each pair of homologous chromosomes
+D	formation of new nuclear membrane
+B	
+---------------------------------------------------
+
+
+[10258526]
+// Schematic diagram // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows the chromosomes in a dividing cell.
+	
+	Which of the following combinations correctly shows the type and stage of cell division of this cell?
+		Type of cell division			Stage of cell division
+	A	mitotic cell division 			metaphase
+	B	meiotic cell division 			metaphase I
+	C	meiotic cell division 			anaphase I 
+	D	meiotic cell division 			metaphase II
+D	
+---------------------------------------------------
+
+[10258530]
+// Schematic diagram // Applying concepts //
+**	What is the diploid number of this cell?
+A	3						B	6
+	C	12						D	24
+B	
+---------------------------------------------------
+[10258541]
+// Basic concepts //
+	What is the significance of formation of chiasmata in cell division?
+A	It results in independent assortment of chromosomes.
+B	It halves the number of chromosomes.
+	C	It allows the restoration of the diploid number of chromosomes.
+D	It allows the exchange of genetic material in a pair of homologous chromosomes.
+D	
+---------------------------------------------------
+[10258547]
+// Comparison //
+*	Which of the following is/are the correct comparison(s) of mitosis and meiosis?
+(1)	Both mitosis and meiosis are nuclear division.
+	(2)	Crossing over occurs in both mitosis and meiosis.
+	(3)	DNA replication takes place in both mitosis and meiosis.
+A	(1) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10258556]
+// Basic concepts //
+	Which of the following statements about the two members of a pair of homologous chromosomes is/are correct?
+	(1)	They come from different parents.
+	(2)	They have the same shape and size.
+	(3)	They carry the same genetic material.
+	A	(1) only			
+	B	(1) and (2) only
+	C	(2) and (3) only	
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10258558]
+// Basic concepts //
+	Which of the following processes involve(s) mitotic cell division?
+	(1)	A bacterium divides to form two bacteria.
+	(2)	Some cells in the skin divide to produce new cells to replace the dead ones.
+	(3)	Some cells in the root tip grow in size to increase the length of the root.
+	A	(1) only				
+B	(1) and (2) only
+	C	(2) and (3) only		
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10258567]
+// Photomicrograph //
+*	The photomicrograph below shows some cells in an onion root tip.
+
+	
+
+Which of the following correctly shows the stages of the cell cycle of the labelled cells? 
+		Cell X		Cell Y		Cell Z
+A	anaphase		telophase		metaphase
+	B	prophase		interphase	anaphase
+C	interphase	metaphase	prophase
+D	telophase		interphase	metaphase
+D	
+---------------------------------------------------
+
+[10258580]
+// Basic concepts //
+	Which of the following events does not take place during mitosis?
+A	The two members of each pair of homologous chromosomes separate and move to opposite poles of the cell.
+	B	The nuclear membrane breaks down and then reforms.
+	C	The chromosomes line up along the equator.
+	D	Chromatin fibres coil up.
+A	
+---------------------------------------------------
+
+
+[10258581]
+// Basic concepts //
+	Which of the following events does not take place during interphase of a cell cycle?
+	A	The amount of DNA in the cell doubles.
+	B	The amount of mitochondria in the cell increases.
+	C	The number of chromosomes in the cell doubles.
+	D	The size of the cell increases.
+C	
+---------------------------------------------------
+
+[10258588]
+// Basic concepts //
+	In which part(s) of the human body does meiotic cell division take place?
+	(1)	testis
+	(2)	ovary
+	(3)	bone marrow
+	A	(1) only				
+B	(1) and (2) only
+	C	(2) and (3) only		
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10258593]
+// Basic concepts //
+	Which of the following statements correctly state(s) the importance for reducing the chromosome number during meiotic cell division? 
+	(1)	It prevents doubling of the chromosome number in the offspring.
+(2)	It reduces genetic variations in the offspring.
+(3)	It provides a larger number of cells for reproduction.
+	A	(1) only
+B	(2) only
+	C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10258599]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows an animal cell at early prophase of meiotic cell division. Only two pairs of homologous chromosomes are shown.
+
+	
+
+Which of the following shows the cell produced at the end of the first meiotic division?
+
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+
+[10258605]
+// Basic concepts //
+	The haploid number of a species is 10. How many chromatids are there in telophase I of meiotic cell division in the nucleus of a dividing cell of this species?
+	A	5
+	B	10
+	C	20
+	D	40
+C	
+---------------------------------------------------
+
+[10258650]
+// Schematic diagram //
+**	The diagram below shows a certain stage of cell division.
+	
+
+	What is this stage of cell division?
+A	anaphase in mitotic cell division
+B	telophase in mitotic cell division
+C	anaphase I in first meiotic division
+D	anaphase II in second meiotic division
+D	
+---------------------------------------------------
+
+
+[10258656]
+// Photomicrograph //
+*	The photomicrograph below shows different stages of the cell cycle in an onion root tip.
+	
+
+	Which of the following is the correct sequence of the different stages?
+A	(4)  (2)  (6)  (5)  (3)  (1) 
+B	(3)  (4)  (2)  (1)  (6)  (5)
+C	(6)  (3)  (1)  (4)  (5)  (2)
+D	(5)  (2)  (3)  (1)  (4)  (6)
+B	
+---------------------------------------------------
+
+[10258662]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the amount of DNA in a cell which is undergoing a type of cell division.
+	
+
+
+	During which time period(s), P1 to P5, does separation of sister chromatids take place?
+	A	P4 only
+	B	P1 and P3 only
+	C	P2 and P4 only
+	D	P3 and P5 only
+A	
+---------------------------------------------------
+
+[10258699]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the amount of DNA in a cell during one cell cycle.
+
+	
+
+Which of the following statements about the events that occur in periods X, Y and Z is/are correct?
+(1)	During period X, new organelles are synthesized. 
+(2)	During period Y, crossing over may occur. 
+(3)	During period Z, homologous chromosomes separate and move to the opposite poles of the cell.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (3) only
+A	
+---------------------------------------------------
+
+
+[10258723]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the amount of DNA in a cell which is undergoing a type of cell division. 
+	
+
+Which of the following descriptions of the cell in different periods of time is correct?
+	Period	Description	
+A	P	DNA replicates. 	
+B	Q	Sister chromatids of chromosomes separate. 	
+C	R	Exchange of genetic material between non-sister chromatids of homologous chromosomes may occur. 	
+D	S	Cytoplasm divides to form four genetically different daughter cells. 	
+
+D	
+---------------------------------------------------
+
+[10258725]
+// Comparison //
+*	Which of the following events occur only in meiotic cell division but not in mitotic cell division?
+(1)	replication of DNA
+(2)	separation of homologous chromosomes
+(3)	formation of chiasmata between non-sister chromatids of homologous chromosomes
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10258733]
+// Schematic diagram // Applying concepts //
+**	The diagram below shows crossing over occurring between chromatids of two chromosomes in a cell which is undergoing meiosis.
+	
+Which of the following statements about this process is/are correct?
+(1)	P and Q are a pair of homologous chromosomes. 
+(2)	X and Y are sister chromatids.
+(3)	This process may occur at prophase I or prophase II. 
+A	(1) only					B	(3) only
+C	(1) and (2) only			D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10258738]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the change in a cell during mitotic cell division.
+	
+
+Which of the following statements about the amounts of DNA in cells X and Y is correct?
+A	The amount of DNA in cell X is four times that of cell Y. 
+B	The amount of DNA in cell X is double that of cell Y. 
+C	The amount of DNA in cell X is the same as that of cell Y.
+D	The amount of DNA in cell X is half of that of cell Y.
+B	
+---------------------------------------------------
+
+[10258743]
+// Graph interpretation //
+*	The graph below shows the change in the distance between sister chromatids in a cell at a certain stage of meiotic cell division. 
+	
+The cell is at 
+A	metaphase I.
+B	anaphase I.
+C	metaphase II.
+D	anaphase II.
+D	
+---------------------------------------------------
+
+[10258747]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows one of the daughter cells formed after a cell underwent a type of cell division. 
+	
+Which of the following statements is/are correct?
+(1)	The parent cell is a gamete.
+(2)	The parent cell has 6 chromosomes.
+(3)	This daughter cell carries the same genetic information as other daughter cell(s) formed in the same cell division.
+A	(1) only					B	(2) only
+C	(3) only					D	(1) and (3) only
+B	
+---------------------------------------------------
+
+[10258761]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a cell at a certain stage of meiotic cell division. 
+
+	
+Which of the following statements about the cell is/are correct?
+(1)	The cell is at anaphase I. 
+(2)	P and Q are sister chromatids.
+(3)	P and Q must carry the same genetic information. 
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10258767]
+// Basic concepts //
+	Some events in meiotic cell division are shown below. 
+(1)	Pairing up of homologous chromosomes
+(2)	Separation of sister chromatids
+(3)	Separation of homologous chromosomes
+(4)	Replication of DNA
+
+Which of the following shows the correct sequence of the events?
+A	(1) → (4) → (3) → (2)
+B	(4) → (1) → (2) → (3)
+C	(4) → (1) → (3) → (2)
+D	(4) → (2) → (1) → (3)
+C	
+---------------------------------------------------
+
+[10258806]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagrams below, which show four cells at different stages of the cell cycle.
+	
+Which of the following shows the correct sequence of the stages?
+A	(2) → (3) → (1) → (4)
+B	(2) → (3) → (4) → (1)
+C	(3) → (2) → (1) → (4)
+D	(3) → (4) → (1) → (2)
+A	
+---------------------------------------------------
+
+[10258808]
+// Schematic diagram // Applying concepts //
+*	At the end of mitotic cell division, two daughter cells are formed. How many chromosomes does each daughter cell contain?
+A	2			B	4
+C	8			D	16
+B	
+---------------------------------------------------
+
+[10258811]
+// Basic concepts //
+*	Which of the following statements about interphase of the cell cycle is incorrect?
+A	Genetic material replicates during interphase.
+B	Chromosomes are visible under the light microscope during interphase.
+C	Cellular metabolism is extraordinarily active during interphase.
+D	Interphase occupies the majority of time in a cell cycle.
+B	
+---------------------------------------------------
+
+[10258837]
+// Data handling // Comparison // Applying concepts //
+*	Directions: The following two questions refer to the table below, which shows the numbers of chromosomes in four cells (P, Q, R and S) taken from two different species (X and Y).
+
+Species	Cell	Number of chromosomes	
+X	P	4	
+	Q	8	
+Y	R	16	
+	S	8	
+
+Which of the following shows the possible cell types of cells P, Q, R and S?
+P			Q			R			S
+A	ovum		neurone		liver cell		sperm
+B	sperm		liver cell		ovum		neurone	 
+C	sperm		ovum		liver cell		neurone
+D	neurone		ovum		sperm		liver cell
+A	
+---------------------------------------------------
+
+[10258855]
+// Data handling // Comparison // Applying concepts //
+*	Which of the following comparisons between cells R and S must not be correct?
+	R	S	
+A	It contains two sets of chromosomes.	It contains one set of chromosomes.	
+B	It is formed by mitotic cell division.	It is formed by meiotic cell division.	
+C	It contains DNA from both the father and the mother.	It contains DNA from either the father or the mother only.	
+D	It is a diploid cell.		It is a haploid cell.	
+
+C	
+---------------------------------------------------
+
+
+[10258865]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a cell containing 6 chromosomes.
+	
+Which of the following is a possible daughter cell formed from the meiotic cell division of the above cell?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+[10258880]
+// Comparison // Applying concepts //
+*	Anaphase I in meiosis is different from anaphase in mitosis, because anaphase I involves
+A	replication of chromosomes to form sister chromatids.
+B	replication of chromosomes to form homologous pairs.
+C	separation of sister chromatids which then move to opposite poles of the cell.
+D	separation of homologous chromosomes which then move to opposite poles of the cell.
+D	
+---------------------------------------------------
+
+[10258882]
+// Basic concepts //
+*	Which of the following statements about mitotic cell division and meiotic cell division is incorrect?
+A	Mitotic cell division occurs in body cells.
+B	Mitotic cell division forms cells for growth, repair and asexual reproduction.
+C	Meiotic cell division occurs in gametes.
+D	Meiotic cell division forms cells for sexual reproduction.
+C	
+---------------------------------------------------
+
+[10258902]
+// Schematic diagram // Basic concepts //
+*	A student observed cells in an onion root tip under a light microscope and sketched diagrams of the cells. Which of the following diagrams was not correctly sketched?
+A			B			
+C			D			
+
+C	
+---------------------------------------------------
+
+[10258903]
+// Calculation // Applying concepts //
+*	If the amount of DNA in a body cell of an organism at prophase of cell division is 1 unit, what is the amount of DNA in a sperm of this organism?
+A	1 unit				B	1/2 unit
+C	1/3 unit				D	1/4 unit
+D	
+---------------------------------------------------
+
+[10258911]
+// Schematic diagram // Applying concepts //
+*	The cell cycle consists of two main stages. The diagram below represents the relative lengths of these two stages. 
+	
+Which of the following statements about the two stages in the cell cycle is correct?
+A	During stage X, chromosomes are visible under a light microscope. 
+B	During stage Y, new organelles are synthesized.
+C	During stage Y, chromosomes in a cell are separated into two groups.
+D	The amount of DNA in a cell at the end of stage X is half of that in a cell at the end of stage Y.
+C	
+---------------------------------------------------
+
+[10258912]
+// Schematic diagram // Basic concepts //
+	The diagram below shows how an embryo is formed from two gametes. 
+	
+Which of the following cells has/have the same number of chromosomes as the cells in the embryo?
+(1)	gamete P
+(2)	gamete Q
+(3)	cell S
+A	(3) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10258915]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows different stages of the cell cycle.
+
+	
+
+During which stage in the cell cycle does DNA replication occur?
+A	interphase
+B	mitosis
+C	cytokinesis
+D	none of the above
+A	
+---------------------------------------------------
+
+[10258921]
+// Schematic diagram // Basic concepts //
+	During which stage in the cell cycle does the separation of sister chromatids occur?
+A	interphase
+B	mitosis
+C	cytokinesis
+D	none of the above
+B	
+---------------------------------------------------
+
+
+[10258927]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows an animal cell at a certain stage of mitosis.
+
+	
+
+Which of the following is the name of this stage?
+A	prophase
+B	metaphase
+C	anaphase
+D	telophase
+C	
+---------------------------------------------------
+
+[10258969]
+// Data handling // Applying concepts //
+*	In an investigation, the numbers of cells at different stages of the cell cycle in a piece of onion root tip tissue were counted. The table below shows the results.
+Stage of the cell cycle	Number of cells	
+Interphase	150	
+Metaphase	20	
+Anaphase	4	
+Telophase	29	
+
+Which of the following stages lasts for the longest time in the cell cycle?
+A	interphase
+B	metaphase
+C	anaphase
+D	telophase
+A	
+---------------------------------------------------
+
+[10258971]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows a gamete-producing cell.
+	
+
+What would the cell become after the first meiotic division?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10258974]
+// Applying concepts //
+*	Which of the following statements about the second meiotic division is correct?
+A	Independent assortment of chromosomes occurs.
+B	Pairing of homologous chromosomes occurs.
+C	Each chromosome consists of a pair of chromatids during prophase II.
+D	Chromosomes become visible at the end of telophase II.
+C	
+---------------------------------------------------
+
+[10258984]
+// Schematic diagram // Applying concepts //
+*	Directions: The following three questions refer to the diagrams below, which show different stages of mitotic cell division (P, Q, R and S) in an animal cell.
+
+	
+
+Which of the following shows the correct sequence of the stages?
+A	Q → P → R → S
+B	Q → R → S → P
+C	R → P → Q → S 
+D	R → S → Q → P
+B	
+---------------------------------------------------
+
+[10258986]
+// Schematic diagram // Applying concepts //
+*	Which of the following describes the event that is occurring during stage R?
+A	The chromosomes uncoil. 
+B	The chromatids start to separate from each other.
+C	The chromosomes line up in the middle of the cell.
+D	The chromatids move to the opposite poles of the cell.
+C	
+---------------------------------------------------
+
+[10258996]
+// Schematic diagram // Applying concepts //
+*	Cytoplasmic division occurs at stage
+A	P.				B	Q.
+C	R.				D	S.
+A	
+---------------------------------------------------
+
+[10259004]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagrams below, which show cells at different stages of a type of cell division.
+	
+
+Which of the following shows the correct sequence of the stages?
+A	(1) → (3) → (2) → (4)
+B	(1) → (4) → (2) → (3)
+C	(3) → (1) → (2) → (4)
+D	(3) → (2) → (4) → (1)
+C	
+---------------------------------------------------
+
+[10259007]
+// Schematic diagram // Applying concepts //
+*	What is the significance of the type of cell division shown above?
+(1)	It increases the number of cells for growth.
+(2)	It maintains a constant number of chromosomes after cell division.
+(3)	It prevents doubling of the number of chromosomes after fertilization.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10259010]
+// Basic concepts //
+	Before mitosis, a plant cell produces
+A	a thicker cell wall.			B	more DNA.
+C	less cytoplasm.			D	more nuclei.
+B	
+---------------------------------------------------
+
+[10259019]
+// Basic concepts //
+	Directions: The following two questions refer to the events that occur during the cell cycle below.
+(1)	DNA replicates.
+(2)	Cytoplasm divides.
+(3)	Chromatids separate.
+(4)	Chromosomes thicken and become visible.
+(5)	Chromosomes line up in the middle of the cell.
+
+Which of the following shows the correct sequence of the events in the cell cycle?
+A	(1) → (2) → (3) → (5) → (4) 
+B	(1) → (4) → (5) → (3) → (2)
+C	(4) → (1) → (5) → (3) → (2)
+D	(4) → (2) → (1) → (5) → (3)
+B	
+---------------------------------------------------
+
+[10259026]
+// Basic concepts //
+	During which stage in the cell cycle does the event described in (5) occur?
+A	anaphase 
+B	interphase 
+C	metaphase
+D	prophase
+C	
+---------------------------------------------------
+
+[10259040]
+// Basic concepts //
+	What will be formed from the meiotic cell division of a cell?
+A	two new cells which are genetically identical
+B	two new cells which are genetically different 
+C	four new cells which are genetically identical
+D	four new cells which are genetically different
+D	
+---------------------------------------------------
+
+[10259076]
+// Schematic diagram // Basic concepts //
+*	The diagrams below show three types of cells in the human body. 
+			
+X	Y	Z	
+How many chromosomes are present in these cells?
+X		Y		Z
+A	23		46		0
+B	46		23		0
+C	46		23		46
+D	46		46		23
+B	
+---------------------------------------------------
+
+[10259078]
+// Basic concepts //
+*	Which of the following statements about chromosomes is correct?
+A	Chromosomes of the same size and shape in a cell may carry different genetic information.
+B	Two chromosomes join together to form a chromatid.
+C	All animal cells have 23 pairs of chromosomes.
+D	All chromosomes consist of two identical DNA molecules. 
+A	
+---------------------------------------------------
+
+[10259080]
+// Basic concepts //
+	Which of the following is not the significance of mitotic cell division?
+A	It is important for the growth of plants and animals.
+B	It produces new cells to replace the damaged ones.
+C	It allows some organisms to produce offspring by asexual reproduction.
+D	It enables some species of organisms to have genetic variations.
+D	
+---------------------------------------------------
+[10259085]
+// Basic concepts //
+*	Independent assortment is important in meiotic cell division because
+A	it limits the variations of genetic information in gametes.
+B	it halves the number of chromosomes in gametes.
+C	it produces different combinations of genetic information in gametes.
+D	it preserves the number of chromosomes from generation to generation.
+C	
+---------------------------------------------------
+
+[10259113]
+// Basic concepts //
+	Which of the following are not daughter cells of meiotic cell division?
+(1)	sperms
+(2)	skin cells
+(3)	red blood cells
+A	(3) only
+B	(1) and (2) only 
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+Short questions
+[10259170]
+// Comparison // Schematic diagram //
+*	The diagram below shows three cells (X, Y and Z) obtained from different tissues of a multicellular organism. Each of them is in a stage of either mitotic cell division or meiotic cell division.
+
+	
+
+a	i	What is the diploid number of chromosomes of the organism?															(1 mark)
+ii	Which of the cell(s) is/are undergoing meiotic cell division? Support your answer with evidence from the diagram.			(3 marks)
+b	With reference to the genetic make-up of the daughter cells, explain the importance of mitotic cell division to the organism.			(2 marks)
+
+-- answer --
+a	i	4													1m
+ii	Cells Y and Z											1m
+	Homologous pairs line up along the equator in cell Y.				1m
+	The number of chromosomes is halved in cell Z. / Cell Z is a haploid cell.															1m
+b	The daughter cells are genetically identical to the parent cell, thus they have the same structure and perform the same functions as the parent cell.		1m
+	This provides new cells that are needed for growth of the organism / for replacing worn-out cells or repairing damaged tissues.						1m	
+---------------------------------------------------
+
+[10259174]
+// Graph interpretation // Comparison //
+*	The graph below shows the change in the DNA content of a mammalian cell over a period of time, during which two different types of cell division (X and Y) occurred. P and Q represent the events that cause changes in the DNA content of the cell.
+	
+
+a	Identify events P and Q.									(2 marks)
+b	State whether the cell is haploid or diploid after the occurrence of Q1 and Q2 respectively.											(2 marks)
+c	How would the cells produced by type X cell division differ from those produced by type Y cell division? State two differences.		(2 marks)
+
+-- answer --
+a	P: DNA replication											1m
+	Q: cytokinesis												1m
+b	After Q1: haploid											1m
+	After Q2: haploid											1m
+c	The cells produced by type X cell division are diploid, whereas those produced by type Y cell division are haploid.									1m
+	The cells produced by type X cell division are genetically the same as the parent cell and as each other, whereas those produced by type Y cell division are genetically different from the parent cell and from each other.			1m	
+---------------------------------------------------
+
+
+
+[10259180]
+// Schematic diagram // Applying concepts //
+*	The diagrams below show four stages of a cell cycle.
+
+	
+
+	a	Arrange the stages in the correct sequence.					(1 mark)
+b	Describe what happens when a cell is at
+i	stage R.											(2 marks)
+ii	stage S.											(2 marks)
+c	Cisplatin and docetaxel are drugs used to treat cancer. They work in different ways.
+Drug	Way of action	
+Cisplatin	It inhibits the synthesis of DNA.	
+Docetaxel	It stops spindle fibres contracting.	
+
+Using the letters in the diagrams, state which stage in the cell cycle is most affected by
+i	cisplatin.											(1 mark)
+ii	docetaxel.										(1 mark)
+
+-- answer --
+a	Q → R → S → P											1m
+b	i	Chromosomes shorten and thicken. They become visible.			1m
+	The nuclear membrane breaks down.							1m
+ii	The chromosomes line up in the middle of the cell.				1m
+	Spindle fibres attach to the chromosomes.						1m
+c	i	Q													1m
+ii	P													1m	
+---------------------------------------------------
+
+[10259205]
+// Data handling // Experiment // Calculation //
+*	To find out the relative time a cell spends in each stage of the cell cycle, a student examined 400 cells from a squash of the root tip of a plant. He counted the number of cells at different stages of the cell cycle and recorded the results in the table below.
+
+Stage	Number of cells	
+Interphase	336	
+Prophase	22	
+Metaphase	12	
+Anaphase	10	
+Telophase	20	
+
+a	It takes 13 hours 20 minutes for a root tip cell in this plant to complete one cell cycle. Calculate the time taken up by mitosis. Show your working.														(2 marks)
+b	What is the assumption made in the calculation in a?			(1 mark)
+c	Why did the student examine 400 cells instead of 20 cells?		(1 mark)
+d	The student also examined cells from a different part of the root of the 
+plant. Suggest one reason why all the cells in this part were in interphase. 														(1 mark)
+
+
+-- answer --
+	a	
+	b	The number of cells undergoing mitosis in the sample is proportional to the 				time spent in mitosis.											1m
+	c	To increase the reliability of the results.							1m
+	d	The cells in this part of the root could not divide.						1m	
+---------------------------------------------------
+
+
+[10259220]
+// Drawing // Schematic diagram // Applying concepts //
+*	a	Explain how independent assortment of chromosomes can result in genetic variations in gametes.									(2 marks)
+b	The diagram below shows a pair of homologous chromosomes in a gamete-producing cell undergoing meiotic cell division.
+	
+Draw all the chromosomes that would be present in the gametes at the end of this meiotic cell division if crossing over occurs as shown.	(4 marks)
+
+
+
+
+-- answer --
+	a	Homologous chromosomes line up randomly along the equator and the 				members of each homologous pair then separate independently of the 				other pairs of chromosomes.								1m
+		This produces different combinations of paternal chromosomes and 					maternal chromosomes in the gametes.						1m
+	b														1m ( 4
+	
+---------------------------------------------------
+
+
+[10259243]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the amount of DNA in a cell which undergoes a type of cell division.
+
+	
+a	State the type of cell division the cell undergoes. Support your answer with evidence from the graph.									(2 marks)
+b	An organism has a chromosome number of 13. Explain why the organism cannot undergo the type of cell division shown in the graph. Suggest the method of reproduction of the organism.					(3 marks)
+
+
+-- answer --
+	a	Meiotic cell division											1m
+		The amount of DNA in the cell is halved after cell division.				1m
+	b	With an odd number of chromosomes, the pairing of homologous 					chromosomes is impossible.									2m
+		The organism reproduces asexually / by mitotic cell division.			1m	
+---------------------------------------------------
+
+
+[10259245]
+// Basic concepts //
+	Complete the paragraph below with the correct words.				(5 marks)
+The body cells of humans have 46 chromosomes. This number is described as
+a _____________ (2n). Sperms are the male gametes of humans. Each sperm has b _____________ chromosomes. 
+This number is described as c _____________ (n).
+After a body cell of humans has undergone mitotic cell division, d ____________ daughter cell(s) is/are produced. Each daughter cell contains e ____________ chromosomes.
+
+
+-- answer --
+	a	diploid													1m
+	b	23														1m
+	c	haploid													1m
+	d	two														1m
+	e	46														1m	
+---------------------------------------------------
+
+[10259270]
+// Schematic diagram // Basic concepts //
+	A student examined an onion root tip under a microscope. He drew the diagram below to show some of the cells he examined.
+
+a	Arrange the labelled cells in the correct sequence of a cell cycle.	(1 mark)
+	(		(		(		
+
+b	Describe the events that are occurring in the cell labelled (3).	(3 marks)
+c	What does the dotted line in the cell labelled (1) represent?		(1 mark)
+
+
+
+-- answer --
+	a	(4) ( (2) ( (3) ( (1)											1m
+	b	The spindle fibres contract.									1m
+		The sister chromatids of each chromosome separate 					1m
+		and move to opposite poles of the cell.							1m
+	c	The cell plate												1m	
+---------------------------------------------------
+
+[10259275]
+// Schematic diagram // Basic concepts //
+	The diagrams below show some of the stages in meiotic cell division.
+
+Stage W	Stage X
+	
+
+Stage Y	
+Stage Z	
+
+a	Identify the stage(s) that belong(s) to the first meiotic division and the second meiotic division respectively.						(4 marks)
+	i	First meiotic division
+ii	Second meiotic division
+	b	Discuss the importance of stage X. 						(3 marks)
+
+
+
+
+
+
+-- answer --
+	a	i	Stages X and Y											2m
+		ii	Stages W and Z											2m
+	b	Pairs of homologous chromosomes line up randomly along the equator of the cell.																1m
+		Then the members of each homologous pair separate independently of the other 		pairs of chromosomes.										1m
+		This produces various genetic combinations /genetic variations in the gametes.																	1m	
+---------------------------------------------------
+
+[10259276]
+// Comparison //
+*	a	State two similarities between mitotic cell division and meiotic cell division in humans.											(2 marks)
+b	State two differences between mitotic cell division and meiotic cell division in terms of homologous chromosomes.						(2 marks)
+
+-- answer --
+	a	Both processes involve replication of DNA before the beginning of the processes. / 
+		Both processes involve nuclear division and cytoplasmic division. /
+		Both processes involve the movement of chromosomes and the distribution of 			chromosomes among daughter cells. (any 2)						2m
+	b	Pairing of homologous chromosomes does not occur in mitotic cell division but it 			occurs in meiotic cell division. 									1m
+		Separation of homologous chromosomes does not occur in mitotic cell division but 		occurs in meiotic cell division. 									1m	
+---------------------------------------------------
+
+
+[10259278]
+// Overseas exam question // Graph interpretation // Applying concepts //
+**	The graph below shows changes in both cell mass and DNA mass per nucleus during several mitotic cell cycles in a mammalian embryo.
+	
+a	State what is occurring during the phase indicated by X on the graph.															(1 mark)
+b	Explain the changes in the DNA mass per nucleus during one cell cycle.														(3 marks)
+c	The DNA mass per nucleus during a meiotic cell cycle follows a similar pattern to that shown above, but with one major difference. Describe and explain this difference.									(2 marks)
+CCEA GCE (AS) Biology (New Specification) Module 1 Jun 2009 Q4b-d
+
+-- answer --
+a	Cytokinesis is taking place. / 
+The cell is splitting into two. 									1m
+b	DNA replication which takes place between 12 and 16.8 hours 			1m
+doubles the mass of DNA. 									1m
+DNA mass per nucleus is halved when daughter nuclei are formed during telophase. 												1m
+c	DNA mass per nucleus will further decrease to 0.5 arbitrary units during meiotic cell division 												1m
+since there are two divisions in meiotic cell division. 					1m	
+---------------------------------------------------
+
+[10259294]
+// Overseas exam question // Schematic diagram // Applying concepts //
+*	The diagrams below represent some important stages (labelled W to Z) during mitotic cell cycle in an animal cell.
+	
+
+a	Identify stage X.										(1 mark)
+b	The diagrams are not in the correct sequence. Rearrange the letters to illustrate the correct sequence of the stages.					(1 mark)
+c	Give one piece of evidence which suggests that the diagrams represent animal cells and not plant cells.							(1 mark)
+d	Give two pieces of evidence from the diagrams which suggest that the stages take place during mitosis and not meiosis.				(2 marks)
+CCEA GCE (AS) Biology Module 1 Jun 2010 Q2
+
+-- answer --
+a	Metaphase											1m
+b	Y → X → Z → W										1m
+c	The cells have no cell wall. 								1m
+d	The chromosomes are not in homologous pairs. /
+Only two cells are produced in stage W. /
+No chiasmata are formed between chromosomes. (any 2)			1m x 2	
+---------------------------------------------------
+
+
+[10259305]
+// Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows a plant cell which is undergoing cell division.
+	
+a	Explain why the cell is likely to be taken from the pollen sac of a flower but not from the root tip. 									(4 marks)
+b	State the significance of this type of cell division.				(2 marks)
+
+-- answer --
+a	In the diagram, the two members of each homologous pair separate from each other.													1m
+This indicates that the cell is undergoing meiotic cell division.			1m
+Meiotic cell division only occurs in gamete-producing cells, such as certain cells in the pollen sac of a flower. 										1m
+Cells in the root tip of a plant do not undergo meiotic cell division.			1m
+b	For the formation of haploid gametes.								1m
+Producing genetic variations in gametes.							1m	
+---------------------------------------------------
+
+
+[10259329]
+// Basic concepts //
+	Complete the following paragraph using suitable words selected from the list below.													(4 marks)
+fertilization		chromatin		centromere
+cell growth		mitotic cell division		DNA
+chromatids		homologous chromosomes	
+
+The appearance of chromosomes changes during the cell cycle. During a                     , chromosomes in a cell are in the form of b                     , which is a mass of long and thin fibres. The chromosomes become visible under the light microscope just before c                     , during which they are duplicated and exist as two thread-like structures called d                     . 
+
+-- answer --
+a	cell growth													1m
+b	chromatin													1m
+c	mitotic cell division											1m
+d	chromatids												1m	
+---------------------------------------------------
+
+
+[10259358]
+// Drawing // Graph interpretation //
+**	The graph below shows the change in the DNA content of a plant cell during the first meiotic division.
+	
+a	Although the process of mitosis is different from the first meiotic division, the graph showing the change in the DNA content of a cell during mitosis has a shape similar to the graph shown above. Explain why.		(2 marks)
+b	Assume that the DNA content of a cell at the end of the first meiotic division is N, sketch a graph to show the change in the DNA content of a cell during the second meiotic division.						(3 marks)
+c	If the number of chromosomes in a palisade mesophyll cell of this plant is 48, state the number of chromosomes in a daughter cell formed by meiotic cell division.											(1 mark)
+-- answer --
+a	The first meiotic division involves the separation of homologous chromosomes followed by cytokinesis while mitosis involves the separation of sister chromatids followed by cytokinesis.										1m
+As both processes reduce the DNA content of the cell by half, the graphs showing the changes in the DNA content of a cell during mitosis and the first meiotic division have a similar shape.									1m
+b	
+Title 														1m
+No doubling in the DNA content									1m
+DNA content is further decreased by half							1m
+c	24														1m	
+---------------------------------------------------
+
+[10259359]
+// Comparison // Schematic diagram // Applying concepts //
+*	a	At which stage of the cell cycle does the cell grow to its maximum size?														(1 mark)
+b	The diagrams below show five stages of the cell cycle.
+	
+List stages P to T in the correct sequence.					(2 marks)
+c	State three differences between mitotic cell division and meiotic cell division.												(3 marks)
+-- answer --
+a	Interphase / Cell growth									1m
+b	Q → T → S → R → P									2m
+c	Only one cell division occurs in mitotic cell division but two cell divisions occur in meiotic cell division. /
+Two daughter cells are produced in mitotic cell division but four daughter cells are produced in meiotic cell division. /
+Diploid daughter cells are produced in mitotic cell division but haploid daughter cells are produced in meiotic cell division. /
+The daughter cells produced in mitotic cell division have the same genetic make-up as their parent cell but the daughter cells produced in meiotic cell division have genetic make-up different from their parent cell's. /
+Pairing of homologous chromosomes occurs in meiotic cell division but not in mitotic cell division. / 
+Crossing over may occur in meiotic cell division but not in mitotic cell division. 
+(any 3 or other correct answers)								1m x 3	
+---------------------------------------------------
+
+[10259362]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows different stages of mitosis.
+
+	
+
+a	Name stages P, Q and R.									(3 marks)
+b	Describe what happens when the cell is at stage S.			(2 marks)
+c	State what will happen immediately after stage R. 			(1 mark)
+
+-- answer --
+a	P: metaphase												1m
+Q: prophase												1m
+R: anaphase												1m
+b	The sister chromatids of each chromosome separate					1m
+and move to the opposite poles of the cell.							1m
+c	New nuclear membranes will form around each group of chromosomes. /
+The chromosomes will uncoil to become chromatin again. 				1m	
+---------------------------------------------------
+
+
+[10259363]
+// Drawing // Schematic diagram // Basic concepts //
+*	The diagram below shows a cell taken from an organism. It has a diploid number of 8.
+	
+a	Draw a diagram to show 
+i	a cell of the same organism at anaphase during mitotic cell division.													(2 marks)
+ii	a cell of the same organism produced by meiotic cell division.														(2 marks)
+b	Explain why meiotic cell division is important.				(2 marks)
+
+-- answer --
+a	i	
+													2m
+ii	
+													2m
+b	Meiotic cell division produces haploid gametes						1m
+and produces genetic variations in them.							1m	
+---------------------------------------------------
+
+[10259372]
+// Comparison // Basic concepts //
+	a	Describe what happens to the chromosomes during each of the following stages of mitosis.
+i	Prophase											(1 mark)
+ii	Metaphase										(1 mark)
+iii	Anaphase											(1 mark)
+iv	Telophase										(1 mark)
+b	Complete the table below to show two differences between mitotic cell division and meiotic cell division.							(2 marks)
+Mitotic cell division	Meiotic cell division	
+
+
+	
+
+	
+
+
+	
+
+	
+
+-- answer --
+a	i	The chromosomes shorten and thicken. 					1m
+ii	The chromosomes line up in the middle of the cell.			1m
+iii	The sister chromatids separate and move to opposite poles of the cell.														1m
+iv	The chromosomes uncoil to become chromatin. 				1m
+b	
+Mitotic cell division
+Meiotic cell division
+
+Chromosome number in the daughter cells remains the same. / Two diploid daughter cells are produced.
+Chromosome number in the daughter cells is halved. / Four haploid daughter cells are produced.
+
+The daughter cells produced are genetically identical to the parent cell.
+The daughter cells produced are genetically different from the parent cell.
+
+Only one cell division occurs.
+Two cell divisions occur.
+
+(any 2 rows or other correct answers)							1m x 2	
+---------------------------------------------------
+
+[10259379]
+// Basic concepts //
+	Complete the following paragraph with suitable words.			(5 marks)
+During prophase, the a                      breaks down and 
+b                      are joined together at the centromere. During c                     , the chromosomes line up in the middle of the cell. During d                     , the two chromatids separate and move to the opposite poles of the cell. During e                     , new nuclear membranes form around each group of chromosomes.
+
+-- answer --
+a	nuclear membrane											1m
+b	chromatids												1m
+c	metaphase												1m
+d	anaphase													1m
+e	telophase													1m	
+---------------------------------------------------
+
+
+
+Structured questions
+[10259460]
+// Overseas exam question // Cross-topic // Photomicrograph // Drawing //
+*	Cells at different stages of mitosis can be observed in plant root tips under a microscope. In order to allow chromosomes in individual cells to be seen clearly, the root tips undergo a series of treatments.
+a	Describe how to prepare a microscope slide of a root tip, for the purpose of observing stages of mitosis. Your answer should include how to obtain suitable tissue.											(5 marks)
+b	The photograph below shows a plant cell undergoing mitosis.
+	
+Source: Dr Robert Calentine, Visuals Unlimited/Science Photo Library
+
+i	Draw the large central cell undergoing mitosis. Label three structures visible in this cell. (Your drawing should not include the other surrounding cells.)									(4 marks)
+ii	Identify the stage of mitosis shown.					(1 mark)
+CCEA GCE (AS) Biology Unit AS 3 May 2017 Q6
+
+
+-- answer --
+a	Cut out the tip of the root of a germinating seed / an onion. Put it on a microscopic slide.														1m
+	Add aceto-orcein stain to the root tip.								1m
+Use needles or a pair of fine forceps to tear the root tip into small pieces. Then cover the torn tip with a cover slip.								1m
+	Tap the cover slip gently with the rubber end of a pencil.				1m
+	Warm the slide over a hot water bath to intensify the stain.				1m
+b	i	Title													1m
+	Resemblance of drawing									1m
+	Correct shape of chromosomes								1m
+	Correct labels: cell wall / cell membrane / cytoplasm / chromosome / cell plate (any 3)											1m
+ii	Telophase												1m	
+---------------------------------------------------
+
+[10259489]
+// Overseas exam question // Drawing // Schematic diagram // Applying concepts //
+*	The Indian muntjac deer (Muntiacus muntjak) is a small deer that was introduced to England in the early 20th Century. This species has the lowest number of chromosomes recorded for any mammal.
+	The nuclei of diploid cells in the female M. muntjak contain six chromosomes (2n = 6).
+	The simplified diagram below represents a stage of mitosis in such a cell, where the six chromosomes are aligned at the cell equator.
+	
+
+a	State the stage of mitosis represented.						(1 mark)
+b	Complete the diagram below to show how chromosomes align at the equator during the second division of meiosis, in a cell from the same species.												(2 marks)
+	
+
+c	Describe and explain two features of meiosis that contribute to genetic variation.												(4 marks)
+d	Nuclear division by mitosis or meiosis is followed by cytokinesis. Describe precisely how cytokinesis occurs in animal cells.				(1 mark)
+CCEA GCE (AS) Biology Module 1 June 2017 Q4
+
+
+-- answer --
+a	Metaphase												1m
+b
+
+	Correct combination of chromosomes								1m
+	Correct alignment of chromosomes at the cell equator					1m
+c	Independent assortment of chromosomes							1m
+	produces different genetic combinations in the gametes.				1m
+	Crossing over may occur										1m
+	which gives rise to new genetic combinations in the gametes.			1m
+d	The cell membrane constricts inwards until the cell splits into two.		1m	
+---------------------------------------------------
+
+
+[10259495]
+// NOS // Applying concepts //
+**	The table below shows some historical events that contributed to our knowledge of chromosomes.
+Year	Historical events	
+1882	Walther Flemming used a new dye to stain cells and discovered chromosomes. He also described how chromosomes moved during mitotic cell division.	
+1902	Theodor Boveri studied chromosomes in gametes and found that chromosome number was halved during the formation of gametes. He also recognized that the original diploid chromosome number was restored in zygotes after fertilization.	
+1902	Walter Sutton showed that chromosomes occurring in pairs separated during meiosis.	
+
+a	State the stages of mitotic cell division in correct order.		(1 mark)
+b	State where in the human body meiotic cell division occurs.		(1 mark)
+c	Explain why chromosomes are important in inheritance.		(2 marks)
+d	Give two aspects of the nature of science that are demonstrated in the above historical events. Give a brief explanation for each aspect.		(4 marks)
+
+-- answer --
+a	Prophase → metaphase → anaphase → telophase → cytoplasmic division	1m
+b	Testes and ovaries											1m
+c	Chromosomes carry genetic information							1m
+	which is important in determining the characteristics of organisms.		1m
+d	Science is affected by the technology and the types of equipment available at the time.														1m
+Walther Flemming discovered chromosomes by using a new dye.		1m
+Scientists build on the work of other scientists.						1m
+Walther Flemming was the first to stain and observe chromosomes in cells. The stained chromosomes allow scientists to observe their distribution during cell division for further understanding of different stages of mitosis and meiosis.	1m	
+---------------------------------------------------
+
+[10259496]
+// Graph interpretation // High order thinking //
+**	A scientist observed a cell during a cell cycle. He measured the distance between two sister chromatids and the distance between a chromatid and a pole of the cell during the process. The graph below shows the results.
+
+	
+
+a	With reference to the graph, estimate the duration of anaphase. Explain how you arrived at your answer.								(3 marks)
+b	Explain why the scientist was not able to obtain measurements between
+0 and 30 minutes.										(2 marks)
+c	Describe how the chromosomes were arranged in the cell immediately before 50 minutes.										(1 mark)
+d	Explain why mitotic cell division is important to organisms.	(2 marks)
+
+
+
+
+
+
+
+
+
+
+-- answer --
+a	15 minutes												1m
+From 50 to 65 minutes, the distance between the sister chromatids increased,
+and the distance between the chromatid and the pole of the cell decreased.	1m
+This indicates that the sister chromatids were separating and moving to the poles of the cell.													1m
+b	The chromatids could not be seen								1m
+because chromatin had not coiled up tightly.						1m
+c	The chromosomes lined up along the equator.						1m
+d	Mitotic cell division produces daughter cells that are genetically identical to the parent cell.												1m
+It is important for growth, repair and asexual reproduction.				1m	
+---------------------------------------------------
+
+[10259498]
+// Photomicrograph // Applying concepts //
+*	The photomicrographs below show a liver cell at different stages of a cell cycle, but they are not in the correct order.
+						
+P		Q		R		
+						
+S		T		U		
+
+
+
+
+
+a	Rearrange the photomicrographs in the order in which the stages of the cell cycle occur. The first one has been done for you. 				(3 marks)
+R	(		(		(		(		(			b	Besides DNA replication, state two other events at stage R that prepare the liver cell for cell division.								(2 marks)
+c	Describe what happens at stage U to ensure the production of two genetically identical daughter cells.						(2 marks)
+d	Why is the production of new liver cells in the body necessary?																	(2 marks)
+
+
+-- answer --
+	a	All correct													3m
+R
+(
+T
+(
+P
+(
+U
+(
+S
+(
+Q
+
+	b	Synthesis of new organelles / mitochondria / endoplasmic reticulum / 					proteins													1m
+		Cell growth												1m
+	c	Sister chromatids of each chromosome							1m
+		are pulled to opposite poles by the contraction of spindle fibres.			1m
+	d	New liver cells are needed for the growth of the liver.					1m
+New liver cells are needed for replacing worn-out cells or repairing damaged tissues.													1m	
+---------------------------------------------------
+
+[10259526]
+// Experiment // Comparison // Calculation // Schematic diagram //
+*	The diagram below shows the relative time required for different stages of the cell cycle of a root tip cell taken from a plant.
+	
+a	Describe one event that occurs during interphase of the cell cycle.															(1 mark)
+b	A student prepared a root tip squash of this plant by adding aceto-orcein to the root tip cells. He then observed the squash under a light microscope. He saw 32 cells within the field of view. He counted the numbers of cells at different stages of the cell cycle. The table below shows some of the results.
+Stage	Number of cells	
+Metaphase	2	
+Anaphase	1	
+Telophase	4	
+
+i	Explain why aceto-orcein was used in preparing the root tip squash.													(1 mark)
+ii	How can you identify a cell at metaphase and a cell at anaphase?														(2 marks)
+iii	Using the information in the diagram, calculate the numbers of cells at interphase and prophase respectively. Show your workings.	(2 marks)
+c	The student also observed the cell cycle in animal cells under a microscope.
+i	State how the mitotic cell division in animal cells is different from that in plant cells.										(2 marks)
+ii	State two types of cells in humans which are formed by mitotic cell division.											(2 marks)
+
+
+-- answer --
+a	New organelles and proteins are synthesized. /
+DNA replicates. /
+The cell grows to its maximum size. 							1m
+b	i	Aceto-orcein was added to stain the chromosomes so that they could be observed more clearly.								1m
+ii	During metaphase, the chromosomes, each consists of two chromatids, line up in the middle of the cell.								1m
+During anaphase, the sister chromatids separate and the chromosomes exist as two groups. 										1m
+iii	Interphase: 32 × 62.5% = 20							1m
+Prophase: 32 - 20 - 2 - 1 - 4 = 5 						1m
+OR
+32 × 37.5% - 2 - 1 - 4 = 5								1m
+c	i	They are different in cytokinesis / cytoplasmic division. 		1m
+In animal cells, two daughter cells are formed by constriction of cell membrane, while in plant cells, two daughter cells are formed by formation of a cell plate between two new nuclei.						1m
+ii	Cheek cells / Muscle cells / Liver cells / Skin cells 
+(any 2 or other correct answers)							1m x 2	
+---------------------------------------------------
+
+[10259538]
+// Schematic diagram // Applying concepts //
+*	a	The diagram below shows the relative lengths of the two main stages of the cell cycle.
+
+	
+
+
+i	Name stages X and Y.								(2 marks)
+ii	List three biochemical activities that occur during stage X.	(3 marks)
+b	The diagrams below show the nuclei of two root tip cells taken from two different plant species. The cells are at prophase of stage Y.
+	
+i	In the nucleus of the cell taken from species P, one member of a pair of homologous chromosomes has been shaded. Shade the other member of the pair. 										(1 mark)
+ii	State the number of chromosomes in the following cells.
+1	A diploid cell of species P						(1 mark)
+2	A haploid cell of species Q						(1 mark)
+iii	Name the phase that occurs immediately after prophase. Describe the behaviour of chromosomes during this phase.			(2 marks)
+-- answer --
+a	i	X: cell growth / interphase 							1m
+Y: mitotic cell division									1m
+ii	DNA replication / 
+Protein synthesis / 
+Organelle synthesis / 
+Cell growth to maximum size (any 3) 						1m x 3
+b	i	
+												1m
+ii	1	6											1m
+2	6											1m
+iii	Metaphase										1m
+Chromosomes line up in the middle of the cell.				1m	
+---------------------------------------------------
+
+[10259558]
+// Photomicrograph // Applying concepts //
+**	The photomicrographs below show some cells taken from the anthers of Regal Lily.
+	
+a	Using the letters in the photomicrographs, arrange the stages of meiotic cell division into correct order.								(3 marks)
+b	i	Compare the DNA content of a nucleus at stage M and a nucleus at stage R. 											(1 mark)
+ii	Explain your answer in b i with reference to the changes that occur during meiotic cell division.							(3 marks)
+c	State the significance of meiotic cell division.				(2 marks)
+
+
+
+
+
+-- answer --
+a	Q ( S ( N ( P ( R ( M									3m
+b	i	The DNA content of a nucleus at stage M is half of that of a nucleus at stage R.													1m
+ii	Each chromosome in a nucleus at stage R consists of two chromatids.	1m
+After stage R, the two chromatids separate, forming the four nuclei at stage M.													1m
+As chromosomes are made up of DNA, separation of chromatids reduces the DNA content of a nucleus by half.							1m
+c	To produce haploid gametes for sexual reproduction.					1m
+To produce genetic variations in gametes. 							1m	
+---------------------------------------------------
+
+[10259560]
+// Photomicrograph // Applying concepts //
+**	The photomicrograph below shows some cells in an onion root tip.
+	
+a	Using the letters in the photomicrograph, arrange the stages of mitotic cell division into correct order.								(3 marks)
+b	The cell at stage R is about to undergo mitotic cell division. Compare the DNA content of this cell with a cell at stage P. Explain any difference.														(4 marks)
+c	State the significance of mitotic cell division.				(3 marks)
+-- answer --
+a	R ( S ( Q ( T ( P											3m
+b	The DNA content of the cell at stage R is double that in a cell at stage P.	1m
+After stage R, the chromosomes in the cell separate into two equal groups 	1m
+and each group goes to a daughter cell. 							1m
+As chromosomes are made up of DNA, mitotic cell division reduces the DNA content of the cell at stage R by half. 								1m
+c	To produce new cells for growth.									1m
+To produce new cells for replacing worn-out or damaged cells.			1m
+For asexual reproduction in some organisms to produce offspring.		1m	
+---------------------------------------------------
+
+[10259567]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the amount of chromosomal material in a mammalian cell which is undergoing a type of cell division. 
+	
+a	What is a chromosome made of?							(1 mark)
+b	Which type of cell division is the cell undergoing? How do you know?														(2 marks)
+c	What brings about the changes in the amount of chromosomal material at P, Q and R?												(3 marks)
+d	What is the significance of this type of cell division?			(2 marks)
+e	Does this type of cell division occur in all kinds of organisms? Explain.														(2 marks)	
+
+-- answer --
+a	DNA and proteins											1m 
+b	Meiotic cell division											1m
+The chromosomal material in a daughter cell is half of that in a parent cell. 	1m
+c	P: DNA replication											1m
+Q: Separation of the cell into two / Cytoplasmic division after the homologous chromosomes separate 										1m
+R: Separation of the two cells into four / Cytoplasmic division after the sister chromatids separate 											1m
+d	Meiotic cell division produces haploid gametes. This ensures the diploid number of chromosomes can be restored when two gametes fuse at fertilization. 	1m
+Meiotic cell division produces genetic variations in gametes by independent assortment of chromosomes and crossing over.						1m
+e	No. 														1m
+Meiotic cell division only occurs in organisms which reproduce sexually. It does not occur in organisms which reproduce asexually.						1m	
+---------------------------------------------------
+
+[10259587]
+// Graph interpretation // Schematic diagram // Applying concepts //
+**	During the cell cycle, DNA replicates. The two identical chromatids in each chromosome are held together at the centromere.
+The graph below shows the behaviour of chromatids during mitotic cell division.
+
+	
+
+a	i	How long after interphase do the chromatids start to move towards the opposite poles of the cell?							(1 mark)
+ii	Name the stage of mitotic cell division described in a i.	(1 mark)
+
+b	The diagrams below show the arrangements of chromatids at different stages of the cell cycle. 
+
+	
+
+Which diagram correctly shows the arrangement of chromatids at 
+10 minutes after interphase? Explain your answer.			(3 marks)
+c	At what time does anaphase end? Explain.					(3 marks)
+
+-- answer --
+a	i	15 minutes after interphase								1m
+ii	Anaphase 											1m
+b	R														1m
+The distance between the replicated chromatids is zero at 10 minutes after interphase.												1m
+The chromatids have not separated yet. 							1m
+c	25 minutes after interphase									1m
+The distance between the chromatids and the poles of the cell is zero.		1m
+That means the chromatids have moved to the poles.					1m	
+---------------------------------------------------
+
+[10259610]
+// Basic concepts //
+	a	What is the significance of mitotic cell division?				(3 marks)
+b	What preparation for mitotic cell division has to be made during interphase?													(3 marks)
+c	Name the stage of mitosis during which each of the following events occurs.
+i	The sister chromatids separate.						(1 mark)
+ii	Chromosomes become visible.						(1 mark)
+iii	New nuclear membranes form.						(1 mark)
+
+-- answer --
+a	It provides new cells for the growth of multicellular organisms.			1m
+It provides new cells for replacing worn-out cells or repairing damaged tissues.															1m
+It occurs in some organisms to produce offspring.					1m
+b	New organelles and proteins are synthesized.						1m
+DNA replicates.												1m
+The cell grows to its maximum size.								1m
+c	i	Anaphase												1m
+ii	Prophase												1m
+iii	Telophase												1m	
+---------------------------------------------------
+
+
+Essays
+
+[10259684]
+// Communication // Basic concepts //
+	Give an account of mitotic cell division which includes mitosis and cytokinesis.															(12 marks)
+
+-- answer --
+Mitosis:
+Mitosis is the nuclear division of mitotic cell division. /
+During prophase, chromosomes shorten and thicken. They become visible. /
+Each chromosome is seen to consist of two chromatids joined at the centromere. /
+The nuclear membrane breaks down. /
+During metaphase, the chromosomes line up in the middle of the cell. /
+During anaphase, the sister chromatids of each chromosome separate and move to the opposite poles of the cell. /
+During telophase, new nuclear membranes form around each group of chromosomes. /
+The chromosomes uncoil to become chromatin again. They become invisible. 
+(any 6)													1m x 6
+Cytokinesis:
+Cytokinesis is the division of the cytoplasm of the parent cell into two equal halves. 															1m
+In animal cells, the cell membrane constricts inwards until the cell separates into two. 															1m
+In plant cells, a cell plate made up of new cell walls and cell membranes is formed between two nuclei.											1m
+Communication												3m	
+---------------------------------------------------
+
+
+[10259690]
+// Communication // Basic concepts //
+	Describe the events that occur in meiotic cell division and explain the importance of meiotic cell division to organisms.							(12 marks)
+
+-- answer --
+Events in the first meiotic division: 
+DNA replicates. /
+Each chromosome consists of two chromatids. /
+Members of each pair of homologous chromosomes pair up. /
+The nuclear membrane breaks down. /
+Crossing over may occur between non-sister chromatids in pairs of homologous chromosomes. /
+Homologous pairs line up along the equator. /
+Independent assortment occurs. /
+The two members of each homologous pair separate and move to opposite poles of the cell. /
+New nuclear membranes form around each group of chromosomes.
+(any 4)													1m x 4
+Events in the second meiotic division: 
+The nuclear membranes break down again. /
+Chromosomes line up along the equator. /
+The sister chromatids separate and move to opposite poles of the cells. /
+New nuclear membranes form around each group of chromosomes. /
+After cytoplasmic division, four haploid daughter cells are formed. (any 3) 	1m x 3
+Importance of meiotic cell division:
+Meiotic cell division produces haploid gametes for sexual reproduction.	1m
+It produces genetic variations in gametes.							1m
+Communication												3m	
+---------------------------------------------------

@@ -9,8 +9,8 @@
     "index": "node scripts/index-bank.mjs",
     "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
-    "test:browser": "node tests/browser.mjs",
-    "check": "node --check app.mjs && node --check lib.mjs && node --check rendering.mjs && node --check exports.mjs && node --check scripts/index-bank.mjs"
+    "test:browser": "node tests/browser.mjs && node tests/workspace-browser.mjs",
+    "check": "node --check app.mjs && node --check lib.mjs && node --check rendering.mjs && node --check exports.mjs && node --check preferences.mjs && node --check taxonomy.mjs && node --check scripts/index-bank.mjs && node --check scripts/import-oxford.mjs"
   },
   "engines": { "node": ">=20" }
 }

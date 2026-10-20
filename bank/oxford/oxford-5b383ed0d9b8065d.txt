@@ -1,0 +1,2125 @@
+Chapter 6		Nutrition in humans
+
+
+Multiple-choice questions
+
+[10246960]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which 	shows the structures in the human digestive system.
+	
+	When a bolus travels from position X to position Y,
+A	the amount of starch in the bolus decreases.
+B	the amount of starch in the bolus increases.
+C	the amount of proteins in the bolus decreases.
+D	the amount of proteins in the bolus increases.
+A	
+---------------------------------------------------
+
+[10246968]
+// Schematic diagram // Applying concepts //
+*	Physical digestion does not occur in
+A	structure P.			B	structure Q.
+C	structure R.			D	structure S.
+C	
+---------------------------------------------------
+
+[10246972]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows a flowchart which summarizes the fates of amino acids in digestive system.
+	
+Which of the following combinations correctly identifies processes X and Y and substance Z?
+	X				Y				Z
+A	absorption		deamination		amino group
+B	assimilation		deamination		amino group
+C	absorption		detoxification		carboxyl group
+D	assimilation		deamination		carboxyl group
+B	
+---------------------------------------------------
+
+[10246978]
+// Applying concepts //
+**	The diagram below shows an X-ray photograph of the teeth of a person.
+
+	Which of the following is incorrect about the dentition of the person?
+A	It is the dentition of an adult.
+B	One molar is missing in the set of teeth.
+C	The dental formula is .
+D	The teeth shown will not be replaced once they are lost.
+C	
+---------------------------------------------------
+[10246992]
+// Cross-topic // Experiment // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a set-up used to simulate digestion and absorption in humans. 
+	
+	After one hour, maltose and amino acids are found in the water surrounding the tubing in set-up X but not set-up Y. What can we tell about the enzymes added into the tubing?
+(1)	The enzymes are extracted from the pancreatic juice.
+(2)	The optimum temperatures of the enzymes are 30 °C.
+(3)	The optimum pH of the enzymes are pH 7.
+A	(1) only				B	(2) only
+C	(1) and (2) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10246994]
+// Cross-topic // Experiment // Applying concepts //
+*	Which of the following statements about set-up Y is correct?
+(1)	It acts as a control for the experiment. 
+(2)	It is used to confirm that any substances found in the surrounding water after an hour is caused by action of the enzymes. 
+(3)	It must be identical to the experimental set-up except for the presence of enzymes.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10247031]
+// Cross-topic // Schematic diagram // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows part of the human digestive system.
+	
+	A woman has her organ P removed in a surgery. Which of the following foods should she avoid after the surgery?
+A	skimmed milk
+B	banana
+C	steamed rice
+D	full-fat cheese
+D	
+---------------------------------------------------
+
+[10247037]
+// Cross-topic // Schematic diagram // Applying concepts //
+**	Which of the following foods is the most suitable replacement that can provide similar amounts of the other food substances present?
+A	wholemeal bread
+B	tofu
+C	whole milk
+D	beef
+B	
+---------------------------------------------------
+
+
+[10247053]
+// Applying concepts //
+*	The table below lists the dental formulae for some animals.
+Animal	Dental formula	
+P	3142
+3143	
+Q	0033
+3133	
+R	2033
+1023	
+S	1003
+1003	
+
+	Which of the following animals has two canines?
+A	animal P					B	animal Q
+C	animal R					D	animal S
+B	
+---------------------------------------------------
+
+[10247059]
+// Applying concepts //
+*	After passing through a certain organ, blood is found to contain more carbon dioxide and digestion products, but less oxygen. This organ is most probably
+A	the lungs.					B	the heart.
+C	the pancreas.				D	the small intestine.
+D	
+---------------------------------------------------
+
+[10247063]
+// Comparison // Basic concepts //
+*	Which of the following comparisons of gastric juice and pancreatic juice is incorrect?
+		Gastric juice				Pancreatic juice
+A	contains mucus			contains mucus
+B	cannot emulsify lipids		cannot emulsify lipids
+C	contains proteases			contains proteases
+D	is acidic					is alkaline
+A	
+---------------------------------------------------
+
+[10247065]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagrams below, which show four types of teeth and the position of permanent teeth in the jaw of humans. 
+	
+
+Which of the following combinations correctly shows the position of the four types of teeth?
+		W		X		Y		Z
+A	(6)		(5)		(2)		(1)
+	B	(6)		(2)		(3)		(5)
+	C	(7)		(3)		(4)		(6)
+	D	(8)		(2)		(3)		(6)
+B	
+---------------------------------------------------
+
+[10247097]
+// Schematic diagram // Basic concepts //
+*	Which type of teeth is absent in the milk teeth?
+	A	W
+	B	X
+C	Y
+D	Z
+D	
+---------------------------------------------------
+
+[10247105]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the digestive system in humans.
+ 
+	
+
+	Which structures produce enzymes for the digestion of proteins?
+	A	(6) and (7) only
+	B	(1), (2) and (3) only
+	C	(3), (6) and (7) only
+D	(6), (7) and (8) only
+D	
+---------------------------------------------------
+
+[10247108]
+// Schematic diagram // Applying concepts //
+*	Which structure is responsible for the absorption of most minerals in food?
+	A	(4)					B	(5)
+	C	(6)					D	(8)
+D	
+---------------------------------------------------
+
+[10247115]
+// Basic concepts //
+	Which of the following substances can emulsify lipids into small droplets?
+A	lipases				B	sodium hydrogencarbonate
+	C	bile salts				D	bile pigments
+C	
+---------------------------------------------------
+
+[10247129]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the digestion of 3 types of food substances (X, Y and Z) along the alimentary canal. The width of each band indicates the amounts of the food substances.
+	
+	Digestion of which food substance(s) takes place in the stomach?
+	A	X only					B	Y only
+	C	X and Y only				D	X, Y and Z
+A	
+---------------------------------------------------
+
+[10247134]
+// Graph interpretation // Applying concepts //
+*	Food substances X, Y and Z are
+		X			Y			Z
+A	starch		protein		lipids
+	B	proteins		starch		lipids
+	C	proteins		lipids		starch 
+	D	lipids		starch		proteins
+B	
+---------------------------------------------------
+
+[10247147]
+// Applying concepts //
+*	After a high protein diet, fluid in which of the following vessels would have the highest concentration of urea?
+	A	hepatic vein
+	B	hepatic portal vein
+	C	capillary in the intestinal villus
+	D	lymph vessel
+A	
+---------------------------------------------------
+
+
+[10247154]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a section of a certain part of the alimentary canal.
+	
+Which of the following processes is/are facilitated by the presence of structure X?
+(1)	peristalsis
+	(2)	secretion of lipase
+	(3)	absorption of glucose
+A	(1) only
+B	(3) only
+	C	(1) and (2) only
+	D	(1) and (3) only
+B	
+---------------------------------------------------
+
+[10247171]
+// Basic concepts //
+Which of the following substances are normally found in the faeces of a healthy person?
+(1)	red blood cells 
+	(2)	bacteria
+	(3)	water
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+[10247180]
+// Basic concepts //
+*	Which of the following statements about nutrition in humans is incorrect?
+	A	Nutrition in humans takes place in the digestive system.
+	B	Digestion of food starts in the mouth cavity.
+	C	Assimilation of food refers to the uptake of food molecules into the blood.
+D	Egestion refers to the removal of undigested and unabsorbed materials from the body.
+C	
+---------------------------------------------------
+
+[10247188]
+// Schematic diagram // Basic concepts //
+*	Diagram I below shows the teeth in a set of permanent teeth. Diagram II below shows a type of tooth in humans.
+	
+
+Which of the labelled teeth in diagram I belong to the type of tooth in diagram II?
+ 	A	P and Q only
+	B	Q and R only
+	C	Q and S only
+	D	R and S only
+D	
+---------------------------------------------------
+
+[10247213]
+// Applying concepts //
+*	The X-ray photograph below shows some teeth in human. The brighter parts were decayed and repaired with fillings.
+ 	
+	Which part(s) of tooth X was/were repaired with fillings?
+	(1)	dentine
+	(2)	enamel
+	(3)	pulp cavity
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10247227]
+// Basic concepts //
+*	Which of the following statements about bile is incorrect?
+	A	It is an alkaline fluid.
+B	It is produced by the liver.
+	C	It contains a pigment which helps break down lipids into small droplets.
+D	It does not contain digestive enzymes.
+C	
+---------------------------------------------------
+
+
+[10247228]
+// Basic concepts //
+*	In which of the following digestive juices is/are lipase present?
+	(1)	saliva
+	(2)	pancreatic juice
+	(3)	intestinal juice
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10247237]
+// Cross-topic // Basic concepts //
+*	Which of the following statements about food absorption in humans is/are correct?
+(1)	Absorption only takes place in the ileum.
+(2)	All absorbed food molecules eventually enter the blood.
+(3)	Absorption involves passive and active processes.
+A	(1) only
+B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10247259]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the cross section of a villus of the ileum.
+	
+	What kinds of food substances are absorbed into parts X and Y respectively?
+		X				Y
+	A	vitamin C			vitamin A
+	B	glucose			fatty acid
+	C	amino acid		glycerol
+	D	iron				calcium
+A	
+---------------------------------------------------
+
+[10247265]
+// Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows the route of transport of absorbed food in our body.
+
+	
+
+	What are vessels P, Q and R?
+	P					Q					R
+A	hepatic vein			hepatic artery			vena cava
+	B	hepatic portal vein		hepatic artery			hepatic vein
+	C	hepatic vein			hepatic artery			hepatic portal vein
+	D	hepatic portal vein		hepatic vein			vena cava
+D	
+---------------------------------------------------
+
+[10247291]
+// Schematic diagram //
+*	Which of the following food substances is not transported along the above route? 
+A	vitamin D			B	glucose
+	C	galactose				D	water
+A	
+---------------------------------------------------
+[10247294]
+// Basic concepts //
+*	Which of the following statements about the role of the liver in nutrition is incorrect?
+A	It produces bile.
+	B	It produces enzymes that help digest proteins.
+	C	It converts glucose to glycogen.
+	D	It breaks down alcohol into harmless substances.
+B	
+---------------------------------------------------
+
+[10247307]
+// Schematic diagram //
+The diagram below shows the structure of a tooth.
+
+	The tooth is
+	A	an incisor because it is chisel-shaped.
+	B	an incisor because it has only one root.
+	C	a canine because it is pointed and curved.
+	D	a premolar because it has only one root.
+C	
+---------------------------------------------------
+
+
+[10247318]
+// Cross-topic // Graph interpretation // Applying concepts //
+*	The diagram below shows the effect of pH on the activities of two enzymes, X and Y, in the alimentary canal.
+	
+Which of the following are most probably the main sites of action of these enzymes?
+		X					Y
+	A	stomach				colon
+	B	stomach				duodenum
+	C	duodenum			colon
+	D	duodenum			stomach
+B	
+---------------------------------------------------
+
+[10247321]
+// Applying concepts //
+*	The table below shows the amounts of carbohydrates, proteins and lipids in 10 g of rice and fish.
+Food	Carbohydrates (g)	Proteins (g)	Lipids (g)	
+Rice	2.79	0.27	0.028	
+Fish	0	1.78	0.092	
+What would be the main end products of digestion of a meal containing rice and fish?
+	A	glycerol and amino acids
+	B	simple sugars and amino acids
+	C	simple sugars and fatty acids
+	D	glycerol and simple sugars
+B	
+---------------------------------------------------
+[10247337]
+// Schematic diagram //
+*	The diagram below shows the human digestive system.
+	
+	Which structures are responsible for producing secretions that help the digestion of lipids?
+	A	(1) and (4) only
+	B	(2) and (5) only
+	C	(3) and (5) only
+	D	(4) and (6) only
+B	
+---------------------------------------------------
+
+
+[10247339]
+// Comparison // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows the teeth on the lower jaw of an adult human.
+	
+Which of the following correctly identifies teeth 3 and 5? 
+		Tooth 3		Tooth 5
+A	incisor		canine
+B	canine		premolar
+C	canine 		molar
+D	premolar		molar
+B	
+---------------------------------------------------
+
+[10247352]
+// Comparison // Schematic diagram //
+*	Which teeth are absent in the teeth set of a 4-year-old child?
+A	teeth 3, 4 and 5
+B	teeth 4, 5 and 8
+C	teeth 4, 6 and 7
+D	teeth 6, 7 and 8
+B	
+---------------------------------------------------
+
+[10247367]
+// Schematic diagram //
+*	Directions: The following three questions refer to the diagram below, which shows part of the human digestive system.
+
+	
+
+At which locations are sphincters found?
+A	P, Q and R
+B	P, Q and T
+C	Q, R and S
+D	Q, R, S and T
+B	
+---------------------------------------------------
+
+[10247373]
+// Schematic diagram //
+*	In which organs are the proteins in food digested? 
+A	W and Y only
+B	X and Y only
+C	W, X and Y only
+D	W, Y and Z only
+A	
+---------------------------------------------------
+
+[10247376]
+// Schematic diagram //
+*	Which organ absorbs most of the water in the food?
+A	W				B	X
+C	Y				D	Z
+C	
+---------------------------------------------------
+
+[10247397]
+// Basic concepts //
+*	Which of the following combinations of the digestive juices in human digestive system and their sites of production is incorrect?
+		Digestive juice		Site of production
+A	saliva 				salivary gland
+B	gastric juice			gastric glands on the stomach wall 
+C	bile					gall bladder
+D	pancreatic juice		pancreas
+C	
+---------------------------------------------------
+
+[10247405]
+// Basic concepts //
+*	Which of the following events does not occur in the stomach?
+A	Proteins are broken down into peptides.
+B	Bacteria in food are killed by hydrochloric acid.
+C	Food is digested by the churning action.
+D	Lipids are emulsified into small droplets.
+D	
+---------------------------------------------------
+
+[10247406]
+// Basic concepts //
+	Which of the following is the fate of the excess amino acids in the human body?
+A	stored in the body
+B	excreted directly in urine
+C	broken down through deamination  
+D	egested in the faeces
+C	
+---------------------------------------------------
+
+[10247422]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the transverse section of a villus in the human ileum.
+
+	
+
+Food substances are absorbed into structures P and Q and then transported to other parts of the body. Which organs would the food substances absorbed into structures P and Q be first transported to?
+		P				Q
+A	heart				liver	
+B	heart				heart
+C	liver				heart
+D	large intestine		liver
+A	
+---------------------------------------------------
+
+[10247425]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Cell X contains many mitochondria. Which of the following correctly describes the function of the mitochondria in cell X?
+A	To produce digestive enzymes for secretion.
+B	To produce mucus for the protection of ileum.
+C	To release energy for the absorption of food molecules.
+D	To release energy for the recombination of fatty acids and glycerol.
+C	
+---------------------------------------------------
+
+[10247429]
+// Basic concepts //
+*	Which of the following digestive juices contain amylase?
+(1)	saliva
+(2)	pancreatic juice
+(3)	intestinal juice
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10247442]
+// Comparison // Basic concepts //
+*	Which of the following comparisons between incisors and molars in humans is incorrect?
+	Incisors	Molars	
+A	have flat sharp edges	have a broad top with cusps	
+B	the number is different in the milk teeth set and the permanent teeth set	the number is the same in the milk teeth set and the permanent teeth set	
+C	have one root	have two or three roots	
+D	for biting and cutting food	for crushing and grinding food	
+
+B	
+---------------------------------------------------
+
+[10247448]
+// Basic concepts //
+	Which of the following substances is/are present in pancreatic juice?
+(1)	bile salts
+(2)	proteases
+(3)	lipase
+A	(3) only					B	(1) and (2) only
+C	(1) and (3) only			D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10247460]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the transverse section of a villus in the human small intestine.
+	
+Which of the following shows the food substances absorbed into structures X and Y respectively?
+		X			Y
+A	fatty acids	proteins
+B	calcium		vitamin A
+C	lipids		vitamin C
+D	vitamin B 	glucose
+C	
+---------------------------------------------------
+
+[10247464]
+// Schematic diagram // Applying concepts //
+*	Which of the following are the adaptive features of the villus shown in the diagram?
+(1)	The epithelium of the villus is one-cell thick.
+(2)	Microvilli are present on the cell membrane of the epithelial cells.
+(3)	The villus is a finger-like projection.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10247503]
+// Experiment // Schematic diagram //
+*	The diagram below shows the set-up of three test tubes.
+	
+How would the pH in the three tubes change after 15 minutes?
+A	The pH in all test tubes would increase.
+B	The pH in all test tubes would decrease.
+C	The pH in tubes Y and Z would increase and that in tube X would remain unchanged.
+D	The pH in tubes X and Y would decrease and that in tube Z would remain unchanged.
+D	
+---------------------------------------------------
+
+[10247515]
+// Basic concepts //
+	The table below shows the pH of the digestive juices produced in three organs of the human digestive system.
+Organ	pH of the digestive juice	
+Salivary gland	7	
+Stomach	2	
+Pancreas	X	
+Which of the following is most probably the value of X?
+A	2
+B	4
+C	7
+D	8
+D	
+---------------------------------------------------
+
+[10247541]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the structure of a tooth.
+
+	
+
+Which of the following parts of the tooth does not contain living cells?
+A	P
+B	Q
+C	R
+D	S
+A	
+---------------------------------------------------
+
+[10247554]
+// Schematic diagram // Basic concepts //
+*	Which of the following combinations of the structures and their descriptions is incorrect?
+	Structure	Description	
+A	P	It is the hardest part of the tooth.	
+B	Q	It supplies nutrients to the tooth.	
+C	R	It contains nerve fibres for sensations.	
+D	S	It fixes the tooth to the jawbone. 	
+
+B	
+---------------------------------------------------
+
+[10247557]
+// Basic concepts //
+	Which of the following is not a kind of physical digestion?
+A	chewing 
+B	churning 
+C	emulsification of lipids into small droplets
+D	breakdown of polypeptides into amino acids
+D	
+---------------------------------------------------
+
+[10247572]
+// Basic concepts //
+*	The emulsification of lipids facilitates the breakdown of lipids. Which of the following is the reason?
+A	Emulsification lowers the activation energy of the breakdown of lipids. 
+B	Emulsification increases the surface area for the action of enzymes.
+C	Emulsification decreases the mass of the lipids.
+D	Emulsification increases the pH for the action of enzymes.
+B	
+---------------------------------------------------
+
+[10247584]
+// Basic concepts //
+	Which of the following combinations of the types of teeth and their functions is correct?
+	Type of tooth	Function	
+A	canine	biting food	
+B	incisor	tearing flesh	
+C	premolar	cutting food	
+D	molar	grinding food	
+
+D	
+---------------------------------------------------
+
+
+[10247591]
+// Basic concepts //
+	What is the purpose of chewing food into smaller pieces?
+A	To facilitate chemical digestion.
+B	To allow direct absorption.
+C	To speed up assimilation.
+D	To speed up egestion.
+A	
+---------------------------------------------------
+
+[10247592]
+// Basic concepts //
+	Which of the following is the hardest structure of a tooth?
+A	gum					B	enamel
+C	dentine				D	pulp cavity
+B	
+---------------------------------------------------
+
+[10247601]
+// Applying concepts //
+*	In which of the following parts of the alimentary canal does the chemical digestion of rice begin?
+A	mouth cavity			B	stomach
+C	duodenum			D	ileum
+A	
+---------------------------------------------------
+
+[10247616]
+// Basic concepts //
+	Which of the following is the function of the cardiac sphincter of the stomach?
+A	To secrete gastric juice.
+B	To shape food into a bolus.
+C	To control the entry of food into the stomach.
+D	To control the exit of food from the stomach.
+C	
+---------------------------------------------------
+
+
+[10247627]
+// Basic concepts //
+*	Which of the following digestive juices contains a substance for the physical digestion of food?
+A	saliva
+B	gastric juice
+C	pancreatic juice
+D	bile
+D	
+---------------------------------------------------
+
+[10247637]
+// Basic concepts //
+	Which of the following shows the correct sequence in which food passes through different parts of the digestive system?
+A	mouth cavity → oesophagus → duodenum → stomach → ileum 
+B	mouth cavity → oesophagus → stomach → ileum → duodenum
+C	mouth cavity → oesophagus → stomach → duodenum → ileum 
+D	mouth cavity → stomach → oesophagus → ileum → duodenum
+C	
+---------------------------------------------------
+
+[10247648]
+// Basic concepts //
+	In which part of the digestive system is digestion of food completed?
+A	stomach			B	duodenum
+C	ileum			D	colon
+C	
+---------------------------------------------------
+
+[10247651]
+// Basic concepts //
+	Which of the following is the significance of villi in the small intestine?
+A	The villi help push the food in the small intestine forward.
+B	The villi speed up blood circulation.
+C	The villi increase the surface area for absorption.
+D	The villi secrete bile which helps the digestion of lipids.
+C	
+---------------------------------------------------
+[10247652]
+// Basic concepts //
+	Glucose absorbed in the small intestine is transported to the liver via
+A	the hepatic vein.
+B	the hepatic artery.
+C	the hepatic portal vein.
+D	the hepatic portal artery.
+C	
+---------------------------------------------------
+
+[10247658]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the upper part of the human alimentary canal. 
+
+	
+
+Which structure is responsible for the physical breakdown of food?
+A	P
+B	Q
+C	R
+D	S
+A	
+---------------------------------------------------
+
+
+[10247666]
+// Schematic diagram // Basic concepts //
+*	Which of the following correctly shows the structure that secretes mucus and the structure that carries out peristalsis?
+		Secretes mucus	Carries out peristalsis
+A	Q				T	
+B	R				Q
+C	R				T
+D	S				R
+C	
+---------------------------------------------------
+
+[10247672]
+// Basic concepts //
+*	Which of the following actions help(s) move food through the alimentary canal?
+(1)	contraction of cardiac sphincter
+(2)	movement of villi
+(3)	peristalsis
+A	(2) only
+B	(3) only 
+C	(2) and (3) only
+D	(1), (2) and (3) 
+B	
+---------------------------------------------------
+
+[10247673]
+// Basic concepts //
+	Which of the following statements about the stomach and its contents is incorrect?
+A	Acid is present to change pepsin to protease.
+B	Mucus is present to protect the stomach wall from being damaged.
+C	Pepsin catalyses the breakdown of proteins.
+D	Food is churned by the movement of the stomach wall.
+A	
+---------------------------------------------------
+
+
+[10247694]
+// Basic concepts //
+*	Which of the following statements about the enzymes in the human small intestine is/are correct?
+(1)	The enzymes catalyse the emulsification of lipids. 
+(2)	The enzymes catalyse the breakdown of large food molecules into soluble products.
+(3)	The enzymes catalyse the absorption of food molecules into the capillaries. 
+A	(1) only 
+B	(2) only 
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10247696]
+// Experiment // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a model used to demonstrate a process that occurs in a part of the human alimentary canal. 
+	
+
+The distilled water outside the dialysis tubing represents 
+A	the water in the saliva.
+B	the water surrounding the villi.
+C	the blood supplied to the small intestine.
+D	the blood supplied to the oesophagus.
+C	
+---------------------------------------------------
+
+
+[10247720]
+// Experiment // Schematic diagram // Applying concepts //
+*	After 1 hour, the distilled water outside the dialysis tubing would contain
+A	glucose only.
+B	starch only.
+C	both glucose and starch.
+D	neither glucose nor starch.
+A	
+---------------------------------------------------
+
+[10247735]
+// Basic concepts //
+	Which of the following is not a function of the liver? 
+A	regulation of blood glucose level
+B	storage of glycogen
+C	storage of calcium
+D	breakdown of excess amino acids
+C	
+--------------------------------------------------- 
+
+[10247745]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the longitudinal section of a structure in the human small intestine.
+
+	
+
+
+What is structure X?
+A	a villus
+B	a lacteal
+C	epithelium
+D	a capillary
+B	
+---------------------------------------------------
+
+[10247777]
+// Schematic diagram // Applying concepts //
+*	Which of the following correctly describes the fate of the products from the digestion of lipids?
+A	The products enter the circulatory system through route (1).
+B	The products enter the circulatory system through route (2).
+C	The products enter the lymphatic system through route (1).
+D	The products enter the lymphatic system through route (2).
+D	
+---------------------------------------------------
+
+[10247779]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the longitudinal section of a tooth.
+
+	
+
+Which labelled part is richest in calcium salts?
+A	P
+B	Q
+C	R
+D	S
+A	
+---------------------------------------------------
+
+[10247797]
+// Schematic diagram // Applying concepts //
+*	We would feel pain from tooth decay when
+A	a layer of plaque is formed on the surface of P.
+B	P is dissolved by acids.
+C	Q is damaged.
+D	the bacteria reach R.
+D	
+---------------------------------------------------
+
+[10247828]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows the structure of human ileum. X is a structure present in the inner wall of ileum.
+
+	
+What is X?
+A	hair 			B	villus
+C	cilium			D	microvillus
+B	
+---------------------------------------------------
+[10247833]
+// Schematic diagram // Basic concepts //
+	Which of the following shows the function and structural adaptation of this structure?
+	Function		Structural adaptation	
+A	for digestion	It is a gland that secretes digestive juices.	
+B	for digestion	It has a lacteal to produce lymph to help digestion.	
+C	for absorption	It has a network of capillaries for efficient absorption.	
+D	for absorption	Its epithelium consists of several layers of cells to increase the time for absorption.	
+
+C	
+---------------------------------------------------
+
+[10247841]
+// Basic concepts //
+	The table below shows the sites of action and the actions of three digestive juices (X, Y, and Z). 
+Digestive juice	Site of action	Action 	
+X	Mouth cavity	Starch → maltose	
+Y	Stomach	Proteins → peptides	
+Z	Duodenum	Starch → maltose	
+
+What are X, Y and Z?
+		X				Y				Z
+A	gastric juice		saliva			pancreatic juice
+B	saliva			bile				gastric juice
+C	saliva			gastric juice		pancreatic juice
+D	saliva			gastric juice		intestinal juice
+C	
+---------------------------------------------------
+
+
+Short questions
+[10247928]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows an epithelial cell of a villus. 
+	
+a	Explain how the small intestine is adapted to absorption of food molecules with reference to structures X and Y.						(3 marks)
+b	People suffering from coeliac disease do not grow as quickly as healthy people. The diagram below shows an epithelial cell of a person with coeliac disease.
+	
+	Suggest how the coeliac disease may lead to growth problems.	(3 marks)
+-- answer --
+a	The large number of X increases the surface area for absorption.			1m
+The large number of Y provides energy for the active transport of food molecules, 														1m
+which increases the rate of absorption of food molecules.				1m
+b	The surface area for absorption of food molecules is reduced.			1m
+	Less food molecules are absorbed into the capillaries and lacteal in the villi of the small intestine.												1m
+Less food molecules are available for uptake by cells for metabolism.		1m	
+---------------------------------------------------
+
+[10247944]
+// STSE connections // Applying concepts //
+*	The pancreatic duct of people with cystic fibrosis is often blocked by thick mucus. Enzymes from pancreas cannot be released to the small intestine through these ducts. This has serious implications on the digestion of these patients.
+	a	Give two examples of enzymes in pancreatic juice.			(2 marks)
+b	Doctors may prescribe pancreatic enzymes to cystic fibrosis patients with digestive problems. The enzymes are packaged into beads with acid-resistant coating. Explain why.						(3 marks)
+-- answer --
+a	Pancreatic amylase / pancreatic lipase / proteases (any 2)				2m
+b	The enzymes must reach the small intestine without alteration in conformation.															1m
+	The acid-resistant coating can prevent the enzymes from denaturing in the acidic medium of the stomach.										1m
+	Also, this can prevent the enzymes from being broken down by pepsin in the stomach. 													1m	
+---------------------------------------------------
+
+[10247976]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the structures of the oesophagus wall.
+	
+	a	Name the type of muscles in layers X and Y.					(2 marks)
+b	Describe how the muscles in layers X and Y work together to push the food towards the stomach.									(4 marks)
+-- answer --
+a	Layer X: longitudinal muscles									1m
+Layer Y: circular muscles										1m
+b	Behind the bolus, muscles in layer Y contract and muscles in layer X relax.	1m
+	The lumen becomes smaller to squeeze the food forward.				1m
+	In front of the bolus, muscles in layer Y relax and muscles in layer X contract.															1m
+	The lumen becomes larger to allow the food to slide through the lumen.	1m	
+---------------------------------------------------
+[10247981]
+// STSE connections // Schematic diagram // Applying concepts //
+*	A feeding tube is often used to provide extra nutrition to a malnourished patient. It is inserted through the nostril. As the tube is passing into the throat, the patient is given some water to swallow. This helps the tube move more easily towards the stomach. To check whether the tube is placed correctly in the stomach, contents are withdrawn from the body through the tube and their pH is found using the pH paper.
+	
+a	Explain why swallowing water during the placement procedure can help the feeding tube move more easily towards the stomach.			(2 marks)
+b	If the position of the feeding tube is placed correctly in the stomach, what would the pH of the contents withdrawn be? Explain your answer.															(2 marks)
+
+
+-- answer --
+a	Swallowing promotes peristalsis and this helps push the feeding tube down the  oesophagus.												1m
+	Water lubricates the alimentary canal and this helps the feeding tube move more easily.													1m
+b	The pH would be about 2										1m
+	due to the presence of hydrochloric acid in the gastric juice.				1m	
+--------------------------------------------------
+
+[10247982]
+// Basic concepts //
+	Complete the following paragraph with suitable words.				(4 marks)
+	The crown of each tooth is covered in a layer of a                  , the hardest part in our body. It is made mainly of calcium salts and can protect the tooth from wearing down. Around the root, the b                   and the periodontal membrane fix the tooth to the jawbone. The innermost part of a tooth is called the c                  . It contains living cells, blood vessels and 
+d                   which detect temperature and pressure.
+-- answer --
+	a	enamel													1m
+	b	cementum													1m
+	c	pulp cavity													1m
+	d	nerve fibres												1m	
+---------------------------------------------------
+
+[10247990]
+// Cross-topic // Data handling // Applying concepts //
+*	An experiment was carried out to investigate the absorption of sugars in the ileum. The rate of absorption of different sugars was measured before and after the addition of a respiratory inhibitor. The table below shows the results.
+
+Sugar	Rate of absorption in the ileum (arbitrary unit)	
+	Before addition of the respiratory inhibitor	After addition of the respiratory inhibitor	
+Glucose	3.18	0.98	
+Xylose	0.51	0.51	
+Fructose	2.54	0.68	
+
+a	Which of the sugars in the table is/are absorbed by diffusion only in the ileum? Support your answer with evidence from the results.	(2 marks)
+b	The concentrations of different sugars in the lumen of the ileum were the same at the beginning of the experiment. Suggest two reasons for the difference in the rate of absorption of glucose and fructose in the ileum.														(2 marks)
+
+
+
+
+-- answer --
+	a	Xylose												1m
+		The rate of absorption before and after the addition of the respiratory inhibitor is 			the same.												1m
+	b	There are more carrier proteins in the ileum for the active transport of glucose. /
+		The carrier proteins for the active transport of glucose work faster than those of 			fructose. /
+		The concentration gradient of glucose is steeper than that of fructose. (any 2)																1m × 2	
+---------------------------------------------------
+
+[10247994]
+// High order thinking // Experiment //
+**	In 1822, Alexis St Martin survived a gunshot but his body was left with a permanent hole which led to the inside of his stomach. Through this hole, Dr William Beaumont performed a number of experiments to study digestion in the stomach. Below are some of his experiments on St Martin.
+
+	Experiment I
+	Dr Beaumont pushed a piece of cabbage tied to a string into the stomach of St Martin. The cabbage was not digested.
+
+Experiment II
+Dr Beaumont pushed a chunk of corned beef tied to a string into the stomach of St Martin. The beef was completely digested in 2 hours.
+
+	Experiment III
+	Dr Beaumont extracted some gastric juice from the stomach of St Martin. He put another chunk of corned beef, which was of the same size as that in experiment II, and the gastric juice into a test tube and incubated it at 37 °C. The beef was completely digested in 10 hours.
+
+a	Explain the results of experiment I.						(2 marks)
+b	Why did Dr Beaumont incubate the test tube at 37 °C in experiment III?														(1 mark)
+c	Explain the difference in the results of experiments II and III.	(2 marks)
+
+
+-- answer --
+	a	Cabbage contained mainly dietary fibre and other carbohydrates. 		1m
+		The gastric juice in the stomach did not contain enzymes for the digestion of these 		food substances.											1m
+	b	To keep the same temperature as that of the stomach.					1m
+	c	In experiment II, the churning of the stomach broke down the chunk of corned beef 		into smaller pieces.											1m
+The surface area of the beef in contact with the gastric juice was increased and hence digestion was completed in a shorter time.					1m	
+---------------------------------------------------
+
+[10247998]
+// Schematic diagram // Basic concepts //
+	The diagram below shows some structures in the abdomen of humans.
+
+	
+
+a	Describe the function of structure W in digestion. 			(1 mark)
+
+b	Complete the table below to show the role of structures X, Y and Z in chemical digestion of food.								(3 marks)
+
+Structure	Role in chemical digestion	
+X	
+
+	
+Y	
+
+	
+Z	
+
+	
+
+-- answer --
+	a	It stores bile temporarily.										1m
+	b
+Structure
+Role in chemical digestion
+
+X
+Digestive enzymes on its epithelium help break down disaccharides and peptides.
+
+Y
+It produces digestive enzymes that help break down starch, proteins and lipids.
+
+Z
+It produces a digestive enzyme that helps break down proteins.
+
+																3m	
+---------------------------------------------------
+
+[10248004]
+// Cross-topic // Data handling // Experiment // Applying concepts //
+*	An experiment was carried out to investigate the factors affecting the activity of pancreatic lipase. The table below shows the contents of four test tubes in the experiment. The tubes were put under different temperatures for 30 minutes. Then the pH values of the contents of each tube were measured. It is known that pancreatic lipase works best at pH 8 and around body temperature.
+
+Test tube	Contents	Temperature	pH value after 30 minutes	
+A	Peanut oil + pancreatic lipase + 
+sodium hydrogencarbonate (pH 8)	35 °C	5	
+B	Peanut oil + pancreatic lipase + 
+sodium hydrogencarbonate (pH 8)	60 °C	8	
+C	Peanut oil + pancreatic lipase + 
+hydrochloric acid (pH 4)	35 °C	4	
+D	Peanut oil + pancreatic lipase + 
+hydrochloric acid (pH 4)	60 °C	4	
+
+a	What substance caused a drop in pH value in tube A? Suggest how it was formed.												(2 marks)
+b	Which two tubes should we compare if we want to find out the effect of temperature on the activity of pancreatic lipase? What did the results show?													(2 marks)
+c	Which two tubes should we compare if we want to find out the effect of pH on the activity of pancreatic lipase? What did the results show?	(2 marks)
+
+-- answer --
+	a	Fatty acid													1m
+		It was formed from the breaking down / hydrolysis of triglycerides in the peanut oil.																1m
+	b	Tubes A and B												1m
+		Pancreatic lipase is inactive at 60 °C.								1m
+	c	Tubes A and C												1m
+		Pancreatic lipase is inactive at pH 4.								1m	
+---------------------------------------------------
+
+[10248006]
+// Photomicrograph // Calculation // Applying concepts //
+*	The diagram below shows a photomicrograph of a section of the small intestine.
+	
+a	State one adaptive feature for absorption of the small intestine that can be observed in the photomicrograph.							(1 mark)
+b	Calculate the length of structure X. Show your working.		(1 mark)
+c	Describe how the muscle layers in the wall of the small intestine facilitate absorption. 											(3 marks)
+-- answer --
+	a	There are numerous villi on the inner wall of the small intestine.			1m
+b	(1.8 / 20) cm
+	= 0.09 cm													1m
+c	Alternate contraction and relaxation of the muscles bring about peristalsis,	1m
+which brings newly digested food molecules into close contact with the villi for absorption.												1m
+Peristalsis also keeps a steep concentration gradient of food molecules across the wall of the small intestine to increase the rate of diffusion of food molecules.	1m	
+---------------------------------------------------
+
+
+
+[10248008]
+// Experiment // Applying concepts //
+*	The set-up below can be used to simulate digestion and absorption in the small intestine. The water outside the dialysis tubing is first tested with Benedict's test and iodine test. Then the set-up is put into a water bath at 37 °C. One hour later, the water outside the tubing is tested with Benedict's test and iodine test again.
+
+ 	
+
+a	Which parts of the body do the following parts of the set-up represent?
+	i	dialysis tubing										(1 mark)
+	ii	water surrounding the dialysis tubing					(1 mark)
+b	Complete the table below to show the results of the Benedict's test and iodine test before and after the set-up is put into the water bath at 37 °C.														(2 marks)
+
+	Benedict's test	Iodine test	
+Before putting into the water bath	
+		
+After putting into the water bath for one hour	
+		
+
+c	State one limitation of the set-up in simulating digestion and absorption in the small intestine.										(1 mark)
+
+
+
+
+
+-- answer --
+	a	i	The epithelium of the small intestine							1m
+	ii	The blood												1m
+b	
+
+Benedict's test
+Iodine test
+
+Before putting into the water bath
+The Benedict's solution remains blue.
+The iodine solution remains brown.
+
+After putting into the water bath for one hour
+A brick-red precipitate is formed.
+The iodine solution remains brown.
+
+															2m
+c	The small intestine can absorb digested food by active transport but the dialysis tubing cannot. / 
+	The food molecules have to pass through more than one layer of cells in the small intestine instead of only one layer of the dialysis tubing. / 
+	The blood is enclosed in capillaries in the small intestine. 				1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10248019]
+// High order thinking // STSE connections // Schematic diagram //
+**	Richard noticed that his skin and sclera of the eyes turned yellow and his faeces turned white. He then went to see a doctor.
+Ultrasound scanning showed that some stones were formed at position X, as shown in the diagram below. The doctor advised him to undergo a surgery to remove organ P.
+	
+a	Why did Richard's skin and sclera turn yellow?				(3 marks)
+b	State and explain the effect of removal of organ P on the digestion of food.														(3 marks)
+
+-- answer --
+a	The stones blocked the bile duct.								1m
+The bile could not be released into the duodenum.					1m
+The bile pigments in the bile were reabsorbed into the blood, causing the yellowing of skin and sclera.											1m
+b	The efficiency of lipid digestion is reduced. 						1m
+Bile cannot be stored after the removal of organ P. Thus only a small volume of bile can be released when fatty food reaches the duodenum.				1m
+Most lipids in the food cannot be emulsified. The surface area for lipase to act on is small. The lipids become more difficult to be digested.					1m	
+---------------------------------------------------
+
+[10248021]
+// Comparison // Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows the liver of a person and the major blood vessels connected to it.
+	
+a	The person has just eaten a bowl of rice. Compare the concentration of glucose in the blood of blood vessels X and Y. Explain briefly.	(5 marks)
+b	Explain why the liver can be regarded as a digestive gland.		(1 mark)
+-- answer --
+a	The concentration of glucose in the blood in Y is higher than that in X. 	1m
+Glucose from the breakdown of starch in the rice is absorbed into the capillaries in the villi of the small intestine and transported to the liver via the hepatic portal vein (Y). 														1m
+Thus, the concentration of glucose in the blood in Y increases.			1m
+The excess glucose in the blood is converted to glycogen in the liver. 		1m
+Therefore, the concentration of glucose in the blood in the hepatic vein (X) does not change after the person ate the rice. 							1m
+b	Liver produces bile, which is a digestive juice. 						1m	
+---------------------------------------------------
+[10248028]
+// Basic concepts //
+	Describe how food is digested in the mouth cavity.				(3 marks)
+-- answer --
+Food is chewed into small pieces by teeth.								1m
+Salivary glands produce saliva.	 									1m
+Saliva contains salivary amylase, which catalyses the breakdown of starch into maltose.															1m	
+---------------------------------------------------
+
+[10248031]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the arrangement of teeth on the lower jaw of a human.
+
+	
+
+a	Using the letters in the diagram, state which labelled tooth is 
+i	a canine.											(1 mark)
+ii	a molar.											(1 mark)
+iii	an incisor.										(1 mark)
+b	What is the function of a molar?							(1 mark)
+c	State how canines and incisors are adapted to their functions in humans.														(2 marks)
+
+
+
+-- answer --
+a	i	Q													1m
+ii	S													1m
+iii	P													1m
+b	It is for crushing and grinding food. 								1m
+c	Canines are pointed and curved for tearing flesh.					1m
+Incisors are chisel-shaped / with flat sharp edges for biting and cutting food.																1m	
+---------------------------------------------------
+
+[10248032]
+// Basic concepts //
+	Ivy is having a meal. The dish is rich in proteins and lipids.
+	
+Complete the following paragraph with suitable words selected from the list below.													(5 marks)
+amino acids		stomach		lipids		peptides
+mouth cavity 		duodenum	glycerol		ileum	
+
+When the food enters Ivy's a                     , pepsin catalyses the breakdown of proteins into b                     . In her c                     , d                      in the food are broken down into fatty acids and e                     .
+
+-- answer --
+a	stomach													1m
+b 	peptides													1m
+c	duodenum													1m
+d	lipids														1m
+e	glycerol													1m	
+---------------------------------------------------
+[10248055]
+// Applying concepts //
+*	a	What is the purpose of mastication in the process of digestion?	(2 marks)
+b	After masticating some rice for some time, a person found that the rice tastes sweet. Explain why. 								(3 marks)
+
+-- answer --
+a	Mastication breaks down food into smaller pieces.					1m
+This increases the surface area of food in contact with the digestive juices. 	1m
+b	Rice contains starch.											1m
+During mastication, salivary amylase in the saliva catalyses the breakdown of starch in the rice into maltose.									1m
+The maltose gives the sweet taste.								1m	
+---------------------------------------------------
+
+[10248074]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a section of a part of the intestinal wall of a cow.
+
+	
+
+a	i	Name structure X.									(1 mark)
+ii	Describe the function of the layer of muscles.			(1 mark)
+b	Describe and explain two features of the intestine shown in the diagram that facilitate the absorption of food molecules.					(4 marks)
+
+
+
+-- answer --
+a	i	Villus													1m
+ii	It contracts and relaxes alternatively to push the food along the intestine.														1m
+b	Many villi are present on the inner wall of the intestine. 				1m
+This increases the surface area for absorption of food molecules.			1m
+A network of capillaries is present in the villi. 						1m
+This allows the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient across the wall for rapid diffusion. 		1m	
+---------------------------------------------------
+
+[10248080]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the human digestive system.
+	
+
+a	Name parts X and Y.									(2 marks)
+b	Indicate on the diagram by 
+i	writing a letter 'P' where ingestion occurs.				(1 mark)
+ii	writing a letter 'Q' where absorption of digested food occurs.														(1 mark)
+
+The diagram below shows a bolus inside a section of the alimentary canal.
+	
+c	Describe how the bolus is pushed along the alimentary canal.	(4 marks)
+
+-- answer --
+a	X: oesophagus												1m
+Y: stomach												1m
+b	i	P written in mouth cavity									1m
+ii	Q written in ileum										1m
+c	The circular muscles in the wall of the alimentary canal behind the bolus contract, while the longitudinal muscles relax.								1m
+	The lumen of the alimentary canal behind the bolus becomes smaller. The bolus is squeezed forward. 											1m
+	The circular muscles in the wall of the alimentary canal in front of the bolus relax, while the longitudinal muscles contract.							1m
+The lumen of the alimentary canal becomes larger. This allows the food to slide through the lumen.											1m	
+---------------------------------------------------
+
+[10248102]
+// Comparison // Basic concepts //
+	a	State, with one example, what physical digestion is.			(3 marks)
+b	Using the digestion of lipids as an example, explain the difference of physical digestion and chemical digestion.					(4 marks)
+
+-- answer --
+a	Physical digestion is the breaking down of food into smaller pieces by physical actions.													1m
+It increases the surface area of food.								1m
+Example: chewing in the mouth cavity / mastication / churning in the stomach / emulsification of lipids by bile salts								1m
+b	Emulsification of lipids is a kind of physical digestion. The bile salts in the bile emulsify lipids into small droplets.								1m
+It involves no enzymes and the chemical structure of lipids does not change.															1m
+Breaking down of lipids into fatty acids and glycerol in the small intestine is a kind of chemical digestion. 										1m
+It is a chemical reaction in which large, complex lipid molecules are broken down into small, soluble forms. It is catalysed by the enzyme pancreatic lipase. 	1m	
+---------------------------------------------------
+
+[10248108]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the blood supply of a part of the digestive system.
+
+	
+
+a	Name blood vessel Y.									(1 mark)
+b	After a meal, which labelled blood vessel contains blood with the highest   concentration of 
+i	urea?											(1 mark)
+ii	glucose?											(1 mark)
+c	Describe two ways by which the liver assimilates glucose.		(2 marks)
+d	Explain why urea is an excretory product.					(2 marks)
+
+-- answer --
+a	Hepatic portal vein											1m
+b	i	Z													1m
+ii	Y													1m
+c	Liver cells use glucose for releasing energy by respiration. 				1m
+The liver converts excess glucose into glycogen or lipids.				1m
+d	Urea is harmful to the body.									1m
+It is a by-product of metabolism.									1m	
+---------------------------------------------------
+
+[10248109]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the structure of a villus in the human small intestine.
+
+	
+
+a	State two adaptive features of the villus for the absorption of soluble food substances.											(2 marks)
+b	Name two food substances that enter the capillaries in the villus.	(1 mark)
+c	Name one food substance that enters the lacteal in the villus. 	(1 mark)
+d	After absorption, glucose is transported around the body. What will be the fate of glucose?										(2 marks)
+e	After absorption, some amino acids are used to make different types of proteins for growth and repair. What will be the fate of the excess amino acids?												(1 mark)
+
+
+-- answer --
+a	It is a finger-like projection. It increases the surface area for absorption. /
+Its epithelium is only one-cell thick. This provides a short distance for diffusion of food molecules into the blood or the lymph. /
+The cell membrane of its epithelial cells has a large number of microvilli / brush borders. This increases the surface area for absorption. /
+It has a lacteal and a network of capillaries. This allows the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient across the wall for rapid diffusion. (any 2)						1m x 2
+b	Monosaccharides / glucose / fructose / galactose / amino acids / minerals / water-soluble vitamins / vitamin B / vitamin C (any 2 or other correct answers) 														1m
+c	Lipids / lipid-soluble vitamins / vitamin A / vitamin D (or other correct answers) 														1m
+d	Some glucose is used by the body cells for releasing energy by respiration.															1m
+Excess glucose is converted to glycogen or lipids in the liver.		1m
+e	Excess amino acids will be deaminated in the liver.				1m	
+---------------------------------------------------
+
+[10248110]
+// Experiment // Applying concepts //
+*	Kelvin was given three unknown digestive enzymes (X, Y and Z). He carried out an experiment to find out what they are. He first added equal volume of the three enzyme solutions to different food substances. After 24 hours, he carried out food tests to check if the food substances were still present. 
+The table below shows the results of the food tests. 
+Enzyme solution added	Proteins	Starch	Lipids	
+X	+	-	+	
+Y	+	+	-	
+Z	+	+	+	
+(Key: '+' represents the presence of the food substance, '-' represents the absence of the food substance)
+
+
+
+
+a	i	What types of digestive enzymes were X, Y and Z?		(3 marks)
+ii	Write the word equations for the actions of X, Y and Z respectively.													(3 marks)
+b	Where can X be found in our alimentary canal?				(1 mark)
+
+-- answer --
+a	i	X: amylase											1m
+Y: lipase												1m
+Z: protease											1m
+ii	X: starch → maltose										1m
+Y: lipids → fatty acids + glycerol								1m
+Z: proteins → peptides									1m
+b	Mouth cavity and duodenum									1m	
+---------------------------------------------------
+
+[10248115]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the longitudinal section of a villus in the small intestine.
+	
+
+a	Name structures X and Y.								(2 marks)
+b	What kind(s) of food molecules is/are absorbed into structure X?																(1 mark)
+c	With reference to the diagram, state and explain two features of a villus that facilitate the absorption of food molecules.					(2 marks)
+d	What happens to the excess amino acids if too much of them are absorbed into the body?											(2 marks)
+-- answer --
+a	X: lacteal												1m
+Y: capillary											1m
+b	Lipids and lipid-soluble vitamins								1m
+c	It is a finger-like projection. It increases the surface area for absorption. /
+Its epithelium is only one-cell thick. This provides a short distance for diffusion of food molecules into the blood or the lymph. /
+It has a lacteal and a network of capillaries. This allows the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient across the wall for rapid diffusion. (any 2)						1m x 2
+d	Excess amino acids are deaminated in the liver. / The amino groups of the excess amino acids are removed and converted to urea. 				1m
+The remaining parts are converted to carbohydrates or lipids. 		1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10248234]
+// Overseas exam question // Schematic diagram // Applying concepts //
+*	The ileum is adapted for absorption by having villi which provide a large surface area.
+	a	Give two other ways the ileum is adapted to provide a large surface area.															(2 marks)
+	b	The diagrams show normal and diseased villi from the ileum.
+		The diagrams are drawn to the same scale.
+	
+i	Name part A and describe its role in the absorption of digested food molecules.										(2 marks)
+ii	Describe and explain how layer B helps in the absorption of digested food molecules.									(2 marks)
+c	Describe how the disease has changed the structure of the villi and suggest how this would affect their function.						(3 marks)
+								CCEA Biology Higher Tier Unit 1 2018 Q7
+-- answer --
+a	The ileum is very long.										1m
+	The inner wall of ileum is highly folded.							1m
+b	i	Lacteal												1m
+		It absorbs lipids and lipid-soluble food molecules.				1m
+	ii	Layer B is only one-cell thick.								1m
+		This provides a short distance for diffusion of food molecules.		1m
+		or
+		Layer B has a large number of microvilli.						1m
+		This increases the surface area for the absorption of food molecules.	1m
+c	The villi become smaller / flatter.									1m
+	This reduces the surface area for the absorption of food molecules.		1m
+	Therefore, the villi absorb food molecules less effectively.				1m	
+---------------------------------------------------
+
+[10248256]
+// Schematic diagram //
+*	The diagram below shows the digestion and absorption of lipids in the small intestine. 
+	
+	a	Name the substance that leads to the formation of lipid droplets shown in the diagram above.										(1 mark)
+	b	Describe how the lipid droplets are digested and absorbed into the epithelial cell of the small intestine.								(2 marks)
+	c	What happens to the digestive products of lipids in the epithelial cell before they enter the lacteal?									(1 mark)
+	d	Describe two ways in which our body uses the absorbed lipids. State the fate of excess lipids absorbed. 								(3 marks)
+-- answer --
+a	Bile salts.													1m
+b	Lipid droplets are broken down into fatty acids and glycerol by pancreatic lipase in the pancreatic juice.											1m
+	Fatty acids and glycerol then enter the epithelial cell by diffusion.			1m
+c	They recombine into fine lipid droplets.							1m
+d	Lipids are used by cells to make cell membranes and some hormones.	1m
+	Lipids act as an energy reserve to release energy for cellular activities when the body is short of glycogen.										1m
+	Excess lipids are stored in the adipose tissue around the internal organs and under the skin.												1m	
+---------------------------------------------------
+
+[10248257]
+// Scientific investigation // Data handling // Applying concepts //
+*	An experiment was carried out to compare the amount of lipids in three types of milk (milk X, milk Y and skimmed milk). The following substances were added to each of three test tubes:
+(	5 cm3 of a kind of milk
+(	1 cm3 of lipase solution
+(	7 cm3 of sodium carbonate solution
+(	a few drops of phenolphthalein 
+The time required for the reaction mixture in each tube to change from pink to colourless was then measured. (Note: Phenolphthalein is pink at a pH above 10 and is colourless at a pH below 8.4.) 
+The table below shows the results.
+	Milk X	Milk Y	Skimmed milk	
+Time required to change from pink to colourless (mins)	3	8	(	
+Note: '(' indicates that the solution remained pink after 30 minutes.
+a	State the independent and dependent variables of this experiment.															(2 marks)
+b	Explain the difference in the time required for the reaction mixture to change from pink to colourless between
+i	the tubes with milk X and skimmed milk.				(1 mark)
+ii	the tubes with milk X and milk Y.						(4 marks)
+c	It is suggested that a small amount of bile salt solution can be added to the reaction mixtures to speed up the reaction. Explain the biological principle behind.												(2 marks)
+d	Apart from adding bile salt solution, suggest one method which can speed up the reaction.										(1 mark)
+
+
+
+
+
+
+
+
+
+
+-- answer --
+a	Independent variable: the type of milk								1m
+	Dependent variable: time required for the reaction mixture to change from pink to colourless													1m
+b	i	Milk X contains lipids, whereas skimmed milk contains no lipids.		1m
+	ii	The amount of fatty acids needed to lower the pH of the reaction mixture to 8.4 is constant.											1m
+		Milk X probably contains more lipids than milk Y,					1m
+		and the rate of breakdown of lipids into fatty acids is higher.			1m
+		Less time is required for the reaction mixture to reach pH 8.4 such that colour change can be observed.									1m
+c	Bile salts emulsify lipids into small droplets							1m
+	and increase the surface area of lipids for lipase to act on.				1m
+d	Increase the temperature of the reaction mixture / increase the concentration of the lipase solution.											1m	
+---------------------------------------------------
+
+[10248268]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows part of the alimentary canal.
+	
+a	For people with obesity, part of structure Y may need to be removed through surgery. Suggest how removing part of structure Y may help people lose weight.												(3 marks)
+b	For patients diagnosed with colorectal cancer, part of structure X may need to be removed through surgery.
+i	Suggest the effect of the surgery on the faeces of the patients.														(2 marks)
+ii	After this kind of surgery, patients are advised to maintain a low-fibre diet for around four weeks to avoid dehydration. Explain why.														(2 marks)
+-- answer --
+a	Removing structure Y can reduce the digestion and absorption of food.	1m
+	This reduces the energy input of the body.							1m
+	If the energy input is less than the energy output of the body, the body will break down food reserves like stored fat to provide energy.					1m
+b	i	The faeces of the patients will become more watery				1m
+		because less water is absorbed / a large portion of water remains in the faeces.												1m
+ii	Low-fibre diet will not stimulate the peristalsis of structure Y too much.	1m
+	Hence, more time is allowed for the absorption of water to compensate for the loss of a part of structure Y.								1m	
+---------------------------------------------------
+
+[10248286]
+// Scientific investigation // Data handling // High order thinking //
+**	A student carried out an experiment to investigate the effects of bile salts and lipase on the digestion of lipids. He prepared 25 test tubes containing the same amounts of whole milk and phenol red. Phenol red changes from red to yellow when the pH of a solution changes from above 8.2 to below 6.8. He varied the amounts of bile salt solution and lipase solution in each tube and added distilled water to make up to the same volume. Then he measured the time required for the solution in each tube to change from red to yellow. The table below shows the time in minutes.
+		Amount of bile salt solution (cm3)	
+		0	0.5	1	1.5	2		Amount of lipase solution (cm3)	0	(	(	(	(	(			0.5	29	22	17	11	9			1	13	9	6	4	3			1.5	6	4	2	1	0.5			2	6	4	2	1	0.5		Remarks: '(' indicates that the solution remained red after 30 minutes
+
+a	What was the dependent variable in the above experiment and how was it measured?											(2 marks)
+b	Explain why the solution in some tubes changed from red to yellow.															(2 marks)
+c	Draw three conclusions from the results. 					(3 marks)
+	d	Explain the effect of bile salts on the digestion of lipids.		(2 marks)
+-- answer --
+a	The rate of digestion of lipids								1m
+	It was measured by the time required for the solution to change from red to yellow.													1m
+b	When lipids in the milk were broken down, fatty acids and glycerol were produced.													1m
+	The fatty acids lowered the pH of the solution from above 8.2 to below 6.8, thus phenol red in the solution changed from red to yellow.				1m
+c	Bile salts alone could not cause the breakdown of lipids into fatty acids and glycerol. /
+	In the presence of lipase, the larger the amount of bile salts, the higher the rate of breakdown of lipids into fatty acids and glycerol. /
+	Lipase alone could cause the breakdown of lipids into fatty acids and glycerol. /
+	In the presence of 2 cm3 of the lipase solution, the amount of lipase was not a limiting factor of the rate of digestion of lipids into fatty acids and glycerol.
+	(any 3 or other correct answer)								1m x 3
+d	Bile salts emulsify lipids into small droplets.						1m
+	This increases the surface area for the lipase to act on.			1m	
+---------------------------------------------------
+
+[10248289]
+// Graph plotting // Experiment // Applying concepts //
+*	A student carried out the following experiment to simulate the process of digestion of steamed rice in the human body.
+(1)	Chew 20 g of steamed rice for one minute in the mouth cavity.
+(2)	Mix the rice with water, hydrochloric acid and pepsin in a test tube and leave the mixture at 37 °C for 30 minutes.
+(3)	Adjust the pH of the mixture to 8 and add amylase to it. Leave the mixture at 37 °C for 120 minutes.
+(4)	Draw samples from the mixture at 15-minute intervals for measurement of the amount of reducing sugar.
+(5)	Repeat steps (2) to (4) with steamed rice that has been chopped up in a blender for one minute.
+
+
+	The table below shows her results.
+Time (minute)	Amount of reducing sugar (arbitrary unit)	
+	Chewed rice	Chopped rice	
+0	14	0	
+15	49	30	
+30	66	46	
+45	75	56	
+60	78	62	
+75	80	68	
+90	80	74	
+105	80	80	
+120	80	80	
+a	What was the purpose of mixing the rice with water, hydrochloric acid and pepsin in step (2)?										(1 mark)
+b	Suggest one way to adjust the pH of the mixture in step (3).		(1 mark)
+c	Using the graph paper below, plot a graph to show the results.	(5 marks)
+	
+d	Why was reducing sugar present in chewed rice but not in chopped rice at the beginning of the 120-minute?							(3 marks)
+
+
+-- answer --
+a	To simulate the role of gastric juice in the digestion of steamed rice in the stomach.														1m
+b	Add a buffer to the mixture to bring the pH to 8.						1m 
+c	
+
+
+	Correct title												1m
+	Choice of axes												1m
+	With labels and units											1m Correct plotting and joining of lines								2m
+d	During chewing in the mouth cavity, salivary amylase from the saliva		1m
+	digested starch in steamed rice into maltose (a reducing sugar).			1m
+	No amylase was present to digest starch in chopped rice into reducing sugar before the beginning of the 120-minute.							1m	
+--------------------------------------------------
+
+[10248295]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of a villus in the ileum.
+	
+a	Identify part X and describe its function in the ileum.			(2 marks)
+b	Explain how cell Y is adapted for the absorption of glucose. 	(3 marks)
+c	When the amount of glucose absorbed in the ileum is in excess, what would happen to the excess glucose?							(3 marks)
+-- answer --
+	a	Lacteal													1m
+		It is for the absorption of lipids.									1m
+	b	There are microvilli on cell Y to increase the surface area for absorption of 				glucose.													1m
+There are many mitochondria in cell Y to provide energy for the active transport of 	glucose.													1m
+There are carrier proteins for the active transport of glucose in the cell membrane 	of cell Y.													1m
+	c	Excess glucose is converted to glycogen or lipids in the liver.			1m
+		Glycogen is stored in the liver and muscles.						1m
+		Lipids are stored under the skin or around the internal organs.			1m	
+---------------------------------------------------
+
+
+[10248336]
+// Overseas exam question // Graph interpretation // Data handling //
+*	In the digestive system, the carbohydrate starch is broken down into sugar.
+	This begins in the mouth and uses the enzyme amylase.
+a	The graph shows how the rate of breakdown of starch by amylase changes as the pH increases.
+	
+
+Look at the graph. 
+i	Describe how the rate of breakdown of starch changes as the pH increases.											(2 marks)
+ii	Write down the optimum pH of amylase.				(1 mark)
+iii	Food passes from the mouth to the stomach and then to the small intestine.
+The table shows the pH at these different parts of the digestive system.
+
+Part of the digestive system	Typical pH	
+Mouth	7	
+Stomach	2	
+Small intestine	6	
+
+Some amylase is made in the mouth.
+Amylase is also made in the pancreas and passed into the small intestine.
+Suggest why more amylase has to be made in the pancreas.	(2 marks)
+
+b	Sugar is absorbed from the small intestine into the blood.
+i	Write down the name of this absorption process. What causes sugar to be absorbed by this process?							(2 marks)
+ii	Which part of the blood transports sugar?				(1 mark)
+			OCR GCSE Additional Science B Higher Tier Unit 1 Jun 2010 Q1
+
+-- answer --
+a	i	The rate of breakdown of starch increases until pH reaches 7.		1m
+At pH above 7, the rate decreases as pH increases.				1m
+ii	pH 7													1m
+iii	Amylase made in the mouth is denatured in the stomach by the low pH / acid in the stomach.											1m
+It cannot catalyse the digestion of starch in the small intestine. 		1m
+b	i	Diffusion												1m
+The concentration of sugar in the small intestine is higher / in the blood is lower.												1m
+ii	Plasma												1m	
+---------------------------------------------------
+
+[10248344]
+// Applying concepts //
+*	The diagram below shows the change in pH of the food as it passes along the human alimentary canal.
+
+	
+
+a	Name parts X and Y.									(2 marks)
+b	Explain how the changes in pH are brought about in the following parts of the alimentary canal. 
+i	X												(2 marks)
+ii	Y												(2 marks)
+c	What is the significance of the variation of pH along the alimentary canal?														(1 mark)
+d	Ileum is the main site for the absorption of food molecules. Explain how the structure of ileum is adapted for absorption.					(4 marks)
+-- answer --
+a	X: stomach											1m
+Y: duodenum											1m
+b	i	Gastric juice produced by the gastric glands on the stomach wall	1m
+contains hydrochloric acid, making the food acidic.			1m
+ii	Bile produced by the liver, pancreatic juice produced by the pancreas and intestinal juice produced by glands in the wall of small intestine	1m
+contain sodium hydrogencarbonate, thus the pH of the food increases.														1m
+c	Such variation provides suitable pH for the enzymes in different parts of the alimentary canal to act on.									1m
+d	Ileum is very long. This allows sufficient time for complete absorption. / 
+The inner wall of the ileum is highly folded / has many finger-like projections / villi. This increases the surface area for absorption. / 
+The epithelium of villi is very thin / only one-cell thick. This provides a short distance for diffusion of food molecules into the blood and lymph. / 
+The cell membrane of the epithelial cells of the villi has a large number of  microvilli / brush borders. This increases the surface area for absorption. /
+Villi have lacteals and capillaries. They allow the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient to increase the rate of diffusion. /
+Peristalsis brings food molecules into close contact with the villi. This helps keep a steep concentration gradient to increase the rate of diffusion.
+(any 2)												2m x 2	
+---------------------------------------------------
+
+
+[10248356]
+// Scientific investigation // Experiment // Applying concepts //
+**	An experiment was carried out to study the action of bile salts in the digestion of lipids. Milk, which contains lipids, was used as the substrate in the experiment. Two test tubes (P and Q) were set up according to the table below.
+
+	Volume of solution added (cm3)	
+	P	Q	
+Milk	5	5	
+Lipase solution	1	1	
+Bile salts solution	1	0	
+Sodium hydrogencarbonate solution	1	1	
+Phenol red solution	0.2	0.2	
+Distilled water	2	3	
+
+Fatty acids produced by the breakdown of lipids are acidic. The phenol red solution was used to detect the change of pH in each tube. The colour changes of phenol red are shown below.
+
+	
+The tubes were kept at 35 °C for 30 minutes. The colour of the contents in each tube at the beginning and at the end of the experiment was recorded. The results are shown in the table below.
+Test tube	Colour of the contents	
+	At the beginning	At the end 	
+P	Red	Yellow	
+Q	Red	Pink	
+a	Explain why sodium hydrogencarbonate solution was added to each tube.														(1 mark)
+b	Explain why different volumes of distilled water were added to tubes P  and Q.												(2 marks)
+c	Explain the results of
+i	tube P.											(3 marks)	
+ii	tube Q.											(3 marks)	
+
+d	If another tube similar to tube P is set up but boiled lipase solution is used instead of fresh lipase solution, what would be the colour of the contents at the end of the experiment? Explain your answer.				(3 marks)
+-- answer --
+a	To make the solutions alkaline for the detection of acidic products.		1m
+b	To keep the total volume in each tube the same						1m
+so that the concentration of lipase / milk / substrate in each tube was the same.															1m
+c	i	The lipase catalysed the breakdown of lipids into fatty acids and glycerol. 														1m
+The bile salts emulsified lipids into small droplets to increase the surface area for the lipase to act on. 									1m
+Large amounts of acidic fatty acids were produced and thus the pH of the contents in tube P was lowered to a value below 6.8.				1m
+ii	Without bile salts, lipids were not emulsified into small droplets.		1m
+The surface area for lipase to act on was small.					1m
+Therefore, the enzymatic action was slow. Only a small amount of fatty acids was produced.											1m
+d	The colour of the contents of this tube would be red at the end of the experiment.															1m
+Lipase is denatured after boiling.								1m
+It loses its function in catalysing the breakdown of lipids and thus no colour change would be observed.											1m	
+---------------------------------------------------
+
+[10248369]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows the transverse section of the mammalian small intestine. 
+	
+a	Complete the following paragraph with suitable words.		(4 marks)
+Digested food substances including monosaccharides, i                     , minerals and vitamins are absorbed into the 	 ii                      in X by iii                      and active transport. These food substances are then carried by the blood to the liver through the iv                     .
+b	With reference to the photomicrograph, state and explain two features of the mammalian small intestine that facilitates the absorption of food molecules.													(4 marks)
+-- answer --
+a	i	amino acids											1m
+ii	capillaries												1m
+iii	diffusion 												1m
+iv	hepatic portal vein										1m
+b	The inner wall of the small intestine has many finger-like projections / villi.	1m
+This increases the surface area for absorption. 						1m
+Muscles in the wall of the small intestine contract and relax alternatively to produce wave-like movement. 										1m
+This movement brings food molecules into close contact with the villi. This helps keep a steep concentration gradient to increase the rate of diffusion. 		1m	
+---------------------------------------------------
+
+[10248372]
+// Drawing // Reading comprehension // STSE connections // Applying concepts //
+*	Read the following article and answer the questions.
+	Tooth discomfort triggered by hot, cold, sweet or sour foods and drinks in one or more teeth is called sensitive teeth. 
+	Dentine is the middle region of the tooth which is covered by enamel. It has fine dental tubules which extend to the pulp cavity. The pulp cavity contains nerve fibres which can detect temperature and pressure.
+	If enamel is damaged and the dentine is exposed, changes in temperature, pH or pressure brought by the consumption of different foods will stimulate the nerve fibres in the pulp cavity through the dental tubules, resulting in tooth discomfort.	
+
+a	Draw a diagram of the longitudinal section of a molar. Label the structures enamel, dentine and pulp cavity.							(3 marks)
+b	Give two bad habits that can cause damage to the enamel.		(2 marks)
+c	Suggest two ways to reduce the chance of having sensitive teeth.																(2 marks)
+
+-- answer --
+a	Correct drawing											1m
+Correct title											1m
+Correct labels											1m
+b	Brushing the teeth too hard. /
+Brushing the teeth with a toothbrush which has hard bristles. /
+Teeth grinding. 
+(or other reasonable answers)								1m x 2
+c	Brush the teeth gently. /
+Use a toothbrush with soft bristles. /
+Have sufficient sleep and do exercise to relieve stress to avoid grinding teeth. / 
+Eat less sugary foods to reduce the risk of tooth decay. 
+(or other reasonable answers)								1m x 2	
+---------------------------------------------------
+
+
+[10248375]
+// Data handling // Schematic diagram // Applying concepts //
+**	The diagram below shows the human digestive system.
+
+	
+
+a	The table shows the percentage of undigested food substances in three different parts (X, Y, and Z) of the alimentary canal.
+	Proteins	Starch	Lipids	
+X	100	85	100	
+Y	0	0	0	
+Z	60	85	100	
+
+Which parts correspond to structures P and R respectively? Explain your answer.												(4 marks)
+b	What will happen if the digestive juice produced by structure Q is mixed with oil?												(1 mark)
+c	The duct connecting structure S to duodenum is blocked in a patient. Explain why the faeces of this patient contains large amounts of lipids.	 													(2 marks)
+d	With reference to the diagram, state and explain one feature that facilitates the absorption of food molecules in structure T. 				(2 marks)
+
+
+-- answer --
+a	Structure P: X												1m
+Structure R: Z												1m
+It is because saliva present in structure P (mouth cavity) contains salivary amylase, which catalyses the breakdown of starch into maltose. Saliva does not contain enzymes for the breakdown of proteins and lipids.				1m
+Gastric juice present in structure R (stomach) contains pepsin, which catalyses the breakdown of proteins into peptides. Gastric juice does not contain enzymes for the breakdown of carbohydrates and lipids.							1m
+b	The oil will be emulsified into small droplets.						1m
+c	Due to the blockage of the pancreatic duct, pancreatic lipase cannot reach the duodenum. 												1m
+Lipids cannot be completely digested. Some of them cannot be absorbed and thus appear in the faeces.											1m
+d	Structure T is very long. 										1m
+This allows sufficient time for complete absorption.					1m	
+---------------------------------------------------
+
+[10248376]
+// Graph interpretation // Schematic diagram // Applying concepts //
+**	a	The diagram below shows the route through which glucose in the lumen of the ileum is absorbed into the blood. 
+
+	
+
+i	Name structures X and Y. 							(2 marks)
+ii	Explain how their structure facilitates the absorption of glucose into the blood.											(2 marks)
+
+b	A piece of the ileum wall was placed in a glucose solution. The concentration of glucose in the solution was lower than that inside the epithelial cells. The graph below shows the concentration of glucose in the epithelial cells over 40 minutes.
+
+	
+With reference to the graph, explain how glucose was absorbed into the epithelial cells.										(4 marks)
+
+-- answer --
+a	i	X: microvillus											1m
+Y: capillary											1m
+ii	X increases the surface area for absorption of glucose. 			1m
+The wall of Y is one-cell thick. This provides a short distance for diffusion of glucose.												1m
+b	From the graph, we can see that the concentration of glucose inside the cells increased with time.											1m
+The rate of uptake was constant.								1m
+These indicated that glucose was absorbed against the concentration gradient															1m
+by active transport.											1m	
+---------------------------------------------------
+
+[10248386]
+// Cross-topic // Experiment // Communication //
+**	To study the effects of digestive enzymes on food substances, a student extracted digestive juices (X, Y and Z) from three different organs in the digestive system of a mammal. Each digestive juice was incubated with a mixture of starch, proteins and lipids in a test tube. The changes in the contents of the test tubes were examined after 1 hour. 
+The results are summarized in the table below.
+Digestive juice	Result 	
+X	Peptides and amino acids are formed.	
+Y	Reducing sugars, peptides, amino acids and fatty acids are formed.	
+Z	Reducing sugars are formed.	
+a	From the results, deduce the organ from which each digestive juice was extracted. Explain your answer.							(9 marks)
+b	Biological washing powders can remove food stains from clothes more effectively than ordinary washing powders. They usually contain proteases and lipases. 
+i	What are the functions of the proteases and lipases in the biological washing powders?									(1 mark)
+ii	When using biological washing powders, we should use water of suitable temperature. Explain why. 					(2 marks)
+-- answer --
+a	X was extracted from the stomach.								1m
+Experiment results show that X caused the breakdown of proteins but not starch and lipids. 												1m
+This indicates that X contains proteases but no amylase and lipases. It is gastric juice. 													1m
+Y was extracted from the pancreas.								1m
+Experiment results show that Y caused the breakdown of starch, lipids and proteins.													1m
+This indicates that Y contains amylase, lipases and proteases. It is pancreatic juice. 													1m
+Z was extracted from salivary glands.								1m
+Experiment results show that Z caused the breakdown of starch, but not lipids and proteins.													1m
+This indicates that Z contains amylase but no lipases and proteases. It is saliva. 															1m
+b	i	They catalyse the breakdown of insoluble proteins and lipids in stains into soluble products, which can be removed by water easily.			1m
+ii	The water we use should not be too hot or too cold.				1m
+Enzymes may become denatured if the temperature is too high, and they may become inactive if the temperature is too low.				1m	
+---------------------------------------------------
+
+[10248387]
+// Schematic diagram // Basic concepts //
+	The diagram below shows some structures in the head and neck of humans.
+
+	
+
+a	How is structure P involved in digestion?					(2 marks)
+b	Using the letters in the diagram, state the part which produces digestive juice for chemical digestion of food. Name the enzyme that is present in this digestive juice and state its function.						(3 marks)
+c	Using the letters in the diagram, state the part which leads to the stomach. Name the process which moves the food along this part.		(2 marks)
+d	Choking would result if food enters the trachea accidentally during swallowing. 			
+i	Explain why food can enter the trachea during swallowing.	(1 mark)
+ii	Explain how the epiglottis helps prevent the food from entering the  trachea.											(1 mark)
+-- answer --
+a	Solid food is chewed into small pieces by P.						1m
+This increases the surface area of food for the action of enzymes.		1m
+b	Q														1m
+Salivary amylase											1m
+It catalyses the breakdown of starch into maltose.					1m
+c	T														1m
+Peristalsis													1m
+d	i	The pharynx leads to both the oesophagus and trachea.			1m
+ii	During swallowing, the opening to the trachea is covered by the epiglottis. 														1m	
+---------------------------------------------------
+
+[10248404]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the longitudinal section of a human tooth.
+
+	
+
+a	Name the type of tooth shown in the diagram. What is the function of this type of tooth in humans?									(2 marks)
+b	Using the letters in the diagram, state the hardest part of the tooth. What is the major composition of this part?						(2 marks)
+c	Using the letters in the diagram, state the parts that attach the tooth to the jawbone.												(2 marks)
+d	Using the letters in the diagram, state the part that causes pain when stimulated in tooth decay.								(1 mark)
+e	Why leaving the decayed tooth untreated can be detrimental to health?														(2 marks)
+f	Give one practice that helps prevent tooth decay.				(1 mark)
+
+-- answer --
+a	Premolar / molar										1m
+It crushes and grinds food.									1m
+b	P													1m
+It is mainly made of calcium salts.							1m
+c	T and V												1m x 2
+d	U													1m
+
+
+
+e	Bacteria may enter the blood through the blood vessels in the teeth.	1m
+They may attack important organs such as the brain.				1m
+f	Brush the teeth at least twice a day. /
+Brush the teeth in the correct way. /
+Improve brushing style with the help of dental disclosing agents. /
+Use toothpaste that contains fluoride. /
+Use dental floss. /
+Do not eat too much sugary foods. /
+Have a balanced diet with adequate calcium, phosphorus and vitamin D. /
+Do not bite very hard materials. /
+Have a dental check-up at least twice a year. (or other reasonable answers)															1m	
+---------------------------------------------------
+
+[10248410]
+// Graph plotting // Experiment // Applying concepts //
+*	The table below shows the time taken for the complete breakdown of the starch in a sample of starch suspension in the presence of an enzyme at different pH.
+pH	Time (minute)	
+5	6	
+5.5	4.5	
+6	3	
+6.5	2	
+7	1.25	
+7.5	1.25	
+8	3	
+8.5	5	
+
+a	What can be done to prevent the results from being affected by any change in the temperature of the reaction mixtures during the experiment?															(1 mark)
+b	How do we know when the starch in the sample is completely broken  down?												(2 marks)
+c	Plot the results on a graph.								(4 marks)
+d	State the range of pH within which this enzyme works best. 	(1 mark)
+e	The enzyme used in this experiment can be found in the mouth cavity. Name the enzyme.										(1 mark)
+
+f	Where in the alimentary canal can an enzyme with function similar to this enzyme be found?										(1 mark)
+g	The action of this enzyme stops when this enzyme reaches the stomach. Explain why.											(1 mark)
+
+-- answer --
+a	Place all the reaction mixtures in a water bath of constant temperature.	1m
+b	Transfer a drop of reaction mixture to an iodine drop at fixed time intervals. 	1m
+When the iodine solution remains brown, the starch in the sample is completely broken down.												1m
+c
+		
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line								1m
+d	pH 7-7.5													1m
+e	Salivary amylase											1m
+f	Duodenum												1m
+g	The enzyme is denatured by the low pH in the stomach. 				1m	
+---------------------------------------------------
+
+
+[10248414]
+// Graph interpretation // Applying concepts //
+*	The diagram below shows the changes in the amounts of different food substances as they pass along the human alimentary canal. The width of each band represents the amount of the food substance.
+	
+
+a	Identify organ X. Explain your answer.						(2 marks)
+b	Describe what happens to the lipids, starch and proteins in the small intestine.												(4 marks)
+c	i	Which food substance remains undigested as it passes along the alimentary canal?									(1 mark)
+ii	Suggest one food that is rich in the food substance stated in c i.
+													(1 mark)
+d	What happens to vitamins and minerals in our alimentary canal after they are ingested? Explain your answer.							(2 marks)
+
+-- answer --
+a	Stomach	 												1m
+Only proteins are digested in organ X.								1m
+b	Lipids are broken down into fatty acids and glycerol. The reaction is catalysed by pancreatic lipase in the pancreatic juice. 							1m
+Starch is broken down into maltose. The reaction is catalysed by pancreatic amylase in the pancreatic juice.									1m
+Maltose is then broken down into glucose. The reaction is catalysed by carbohydrases on the cell membranes of the specialized cells in the epithelium. 															1m
+Proteins are broken down into peptides and then into amino acids. The reactions are catalysed by proteases in pancreatic juice and proteases on the cell membranes of the specialized cells in the epithelium.					1m
+c	i	Dietary fibre											1m
+ii	Vegetables / fruits / cereals (or other correct answers)				1m
+d	Vitamins and minerals remain unchanged in the alimentary canal.		1m
+They are small enough to be absorbed directly into the blood.			1m	
+---------------------------------------------------
+
+[10248433]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows a set-up which is used to demonstrate the need of digestion for absorption in the mammalian alimentary canal. The tubing allows only monosaccharides but not disaccharides to pass through. After 1 hour, the distilled water was tested for reducing sugars. The result was positive.
+
+	
+
+a	What does distilled water represent in the process of food absorption?															(1 mark)
+b	How does the set-up explain the need of digestion?			(2 marks)
+c	i	Name the part of the alimentary canal where most food molecules are absorbed. 										(1 mark)
+ii	State and explain two features of the part stated in c i which facilitate absorption.										(4 marks)
+d	A person is eating a cheese sandwich. Name two food molecules other than monosaccharides which can pass through the wall of the alimentary canal after the food is completely digested. 						(2 marks)
+
+-- answer --
+a	Blood												1m
+b	Only small food molecules can pass through the wall of alimentary canal and being absorbed.												1m
+Large food molecules have to be broken down into small molecules.	1m
+c	i	Ileum											1m
+ii	Ileum is very long. This allows sufficient time for complete absorption. / 
+The inner wall of the ileum is highly folded / has many finger-like projections / villi. This increases the surface area for absorption. /
+The epithelium of villi is very thin / only one-cell thick. This provides a short distance for diffusion of food molecules into the blood and lymph. / 
+The cell membrane of the epithelial cells of the villi has a large number of  microvilli / brush borders. This increases the surface area for absorption. /
+Villi have lacteals and capillaries. They allow the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient to increase the rate of diffusion. /
+Peristalsis brings food molecules into close contact with the villi. This helps keep a steep concentration gradient to increase the rate of diffusion.
+(any 2)											2m x 2
+d	Amino acids, fatty acids, glycerol, vitamins and minerals (any 2)		1m x 2	
+---------------------------------------------------
+
+
+
+Essays
+
+[10248549]
+// Overseas exam question // Communication //
+*	Microscopy has enabled extensive study of the tissue layers of the ileum. Describe the structure and function of each of the tissue layers of the ileum.															(9 marks)
+						CCEA GCE (AS) Biology Unit AS 1 May 2018 Q8b
+-- answer --
+Villi are present on the inner wall of the ileum. This increases the surface area for absorption.													1m
+Epithelial cells of the villi have a large number of microvilli. This increases the surface area for absorption.												1m
+There are many mitochondria in the epithelial cells. This provides energy for active transport of food molecules.										1m
+Villi have a rich network of capillaries which maintains a steep concentration gradient of food molecules between the lumen and the blood.						1m
+Lacteal is present in the villi for the absorption of lipids and lipid-soluble food molecules.															1m
+The circular and longitudinal muscles contract alternatively (peristalsis). This brings the digested food molecules into close contact with the villi for absorption.			1m
+(or other reasonable answers)
+Communication													3m	
+---------------------------------------------------
+
+
+[10248563]
+// Comparison // Communication // Applying concepts //
+*	Compare and contrast how starch in potato and proteins in egg white are digested in the human digestive system. 								(10 marks) 
+
+-- answer --
+Both potato and egg white are broken down into smaller pieces physically during mastication in the mouth cavity.										1m
+Both potato and egg white are broken down into smaller pieces physically during churning in the stomach. 											1m
+Starch in potato is digested into maltose by the salivary amylase from the saliva in the mouth cavity, while proteins in the egg white are not.						1m
+Proteins in egg white are digested into peptides by the pepsin from the gastric juice in the stomach, while starch in the potato is not.							1m
+The remaining starch in potato is digested into maltose by the pancreatic amylase from the pancreatic juice in duodenum.									1m
+The maltose is further digested into glucose by the maltase in the cell membrane of the specialized cells in the epithelium of the small intestine.					1m
+Peptides from egg white are further digested into amino acids by the proteases from the pancreatic juice in the duodenum and proteases in the cell membrane of the specialized cells in the epithelium of the small intestine. 							1m
+Communication		 											3m	
+--------------------------------------------------
+
+[10248577]
+// Communication // Applying concepts //
+*	Describe the structural adaptations of villi for the absorption of food molecules. Explain why people with a breakdown of villi sometimes suffer from deficiency diseases.													(10 marks)
+-- answer --
+Structural adaptations of villi:
+Villi are finger-like projections. They increase the surface area for absorption. 	1m
+The epithelium of villi is very thin / only one-cell thick. This provides a short distance for diffusion of food molecules into the blood and lymph. 						1m
+The cell membrane of the epithelial cells of the villi has a large number of microvilli / brush borders. This increases the surface area for absorption. 				1m
+Villi have lacteals and capillaries. They allow the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient to increase the rate of diffusion. 														1m
+Effect of breakdown of villi:
+Breakdown of villi reduces the surface area for absorption of different food molecules.																1m
+Some food molecules cannot be absorbed and are lost.					1m
+Without adequate amounts of nutrients, deficiency diseases may develop.		1m
+Communication													3m	
+---------------------------------------------------
+
+[10248591]
+// Communication // Applying concepts //
+*	Describe how lipids are digested and absorbed and describe the fate of the absorbed lipids in our body.									(10 marks)
+-- answer --
+The process of digestion and absorption: 
+Physical actions such as chewing in the mouth cavity and churning in the stomach break down the food into smaller pieces. /
+In the duodenum, bile salts in the bile emulsify lipids into small droplets. /
+This facilitates chemical digestion of the lipids by increasing the surface area for lipases to act on. /
+Pancreatic lipase in the pancreatic juice catalyses the breakdown of emulsified lipids into fatty acids and glycerol. /
+Fatty acids and glycerol enter the epithelial cells of the villi in the ileum by diffusion. /
+They recombine into fine lipids droplets in the epithelial cells. /
+Lipids enter the lymph in the lacteals. /
+Lipids are transported to the main lymph vessels and then to bloodstream near the neck region. They are then carried to all parts of the body. (any 5)			1m x 5
+The fate of absorbed lipids:
+The absorbed lipids act as energy reserves in the body. / 
+They are stored in adipose tissues in our body. /
+They can be used by cells to make cell membranes. / 
+They can be used to make hormones. (any 2)						1m x 2
+Communication 											3m	
+---------------------------------------------------
+
+[10248599]
+// Communication // Applying concepts //
+*	Explain how the structure of the walls of the stomach and ileum is related to their functions.													(11 marks)
+-- answer --
+Stomach:
+Muscles are present in the stomach wall. /
+The muscles contract to churn the food. /
+This increases the surface area of food for chemical digestion. /
+Gastric glands are present on the stomach wall. /
+Gastric glands produce gastric juice for chemical digestion. /
+Gastric juice contains mucus, which protects the stomach wall from being digested and damaged. (any 4)											1m x 4
+Ileum:
+The inner wall of the ileum is highly folded. / 
+Many finger-like projections / villi are present on the inner wall. /
+The cell membrane of the epithelial cells of the villi has a large number of microvilli / brush borders. / 
+These features increase the surface area for absorption. /	
+The epithelium of villi is very thin / only one-cell thick. / 
+This provides a short distance for diffusion of food molecules into the blood and lymph. / 
+Villi have lacteals and capillaries. /
+They allow the absorbed food molecules to be carried away rapidly, thus keeping a steep concentration gradient to increase the rate of diffusion. /
+Muscles in the wall of the ileum contract and relax alternatively to produce wave-like movement. This movement brings food molecules into close contact with the villi. / 
+This helps keep a steep concentration gradient to increase the rate of diffusion. 
+(any 4)													1m x 4
+Communication												3m	
+---------------------------------------------------
+

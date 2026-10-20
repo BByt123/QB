@@ -1,0 +1,725 @@
+( Chapter 3		Harmful effects of 											microorganisms
+
+Multiple-choice questions
+
+[10286838]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of a pathogen.
+	
+Which labelled structure enables the pathogen to attach itself to human tissues?
+A	plasmid
+B	surface molecule
+C	capsule
+D	cell wall
+B	
+---------------------------------------------------
+
+[10286859]
+// Basic concepts //
+(	Food poisoning is caused by
+A	pathogenic microorganisms multiplying in our body.
+B	the gas produced by microorganisms in our body.
+C	ingestion of food containing microbial toxins.
+D	digestion of food by microorganisms.
+C	
+---------------------------------------------------
+
+[10286864]
+// Basic concepts //
+(	The photograph below shows a lemon spoiled by microorganisms.
+	
+The spoilage is caused by
+A	bacteria.				B	yeast.
+C	moulds.				D	algae.
+B	
+---------------------------------------------------
+
+[10286869]
+// Basic concepts //
+(	Which of the following can be used to kill bacteria inside food during food processing?
+(1)	X-ray
+(2)	chlorine gas
+(3)	UHT treatment
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10286875]
+// Applying concepts //
+(*	If the electricity supply of a refrigerator was accidentally cut off, which of the following food in the refrigerator would most likely cause food-borne infection if it was eaten?
+A	honey
+B	lemon pickled in salt
+C	freeze-dried peach 
+D	pasteurized milk
+D	
+---------------------------------------------------
+
+[10286883]
+// Basic concepts //
+(	In which of the following conditions does food spoil most rapidly?
+Temperature		Humidity
+A	5 °C				high
+B	5 °C				low
+C	20 °C			high
+D	20 °C			low
+C	
+---------------------------------------------------
+
+[10286897]
+// Applying concepts //
+(*	Which of the following statements about food-borne infection and food poisoning is incorrect?
+A	Food-borne infection is caused by consuming food containing pathogens.
+B	Food-borne infection mainly affects the alimentary canal.
+C	Food poisoning may happen even if we cook food thoroughly before eating.
+D	All food poisoning can be treated with antibiotics.
+D	
+---------------------------------------------------
+
+[10286914]
+// Basic concepts //
+(*	Which of the following correctly shows the methods for controlling the growth of microorganisms in nutrient broth and plasma separated from donated blood?
+	Nutrient broth	Plasma separated from donated blood	
+A	autoclaving	irradiation	
+B	autoclaving	freezing	
+C	freezing	autoclaving	
+D	irradiation	freezing	
+
+B	
+---------------------------------------------------
+
+[10286924]
+// Basic concepts //
+(	The photograph below shows a can of food. 
+	
+
+The food does not need refrigeration before the can is opened because
+(1)	the food has been heated to kill the microorganisms before being put into the can.
+(2)	the food is canned to prevent the entry of microorganisms.
+(3)	the food is irradiated before canning.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10286929]
+// Applying concepts //
+(*	Directions: The following two questions refer to an outbreak of a disease. All the patients have eaten the food shown below in a restaurant.
+	
+Which of the following microorganisms is/are least likely to cause the outbreak of the disease?
+A	Salmonella
+B	Staphylococcus aureus
+C	Aspergillus
+D	dinoflagellates
+C	
+---------------------------------------------------
+
+[10286930]
+// Applying concepts //
+(*	Which of the following is least likely to be a sign or symptom of the patients?
+A	vomiting			B	diarrhoea
+C	fever			D	coughing
+D	
+---------------------------------------------------
+
+[10286955]
+// Basic concepts //
+(	After being left at room temperature for two days, milk turned sour. Which of the following is the best explanation for the souring of the milk?
+A	Microorganisms grew rapidly in the milk.
+B	The warmth caused the breakdown of proteins in the milk.
+C	Toxins were produced by bacteria in the milk.
+D	Acids were produced by the bacteria in the milk.
+D	
+---------------------------------------------------
+
+[10286963]
+// Comparison // Applying concepts //
+(*	The photographs below show two bottles of chemicals.
+		
+X	Y	
+
+Which of the following statements about the two chemicals is incorrect?
+A	X can be used as a disinfectant while Y is used as an antiseptic.
+B	X is more toxic than Y.
+C	To kill microorganisms on skin surface, Y instead of X should be used.
+D	X can kill microorganisms while Y can only inhibit the growth of microorganisms.
+D	
+---------------------------------------------------
+
+[10287010]
+// Applying concepts //
+(*	Food poisoning is caused by toxins released by various microorganisms. Which of the following combinations of the microorganisms and the food in which their toxins are often found is incorrect?
+Microorganism		Food in which their toxins are often found
+A	algae				shellfish 
+B	algae				meat products 
+C	bacteria				salad 
+D	fungi				cereals
+B	
+---------------------------------------------------
+
+
+[10287021]
+// Applying concepts //
+(*	Which of the following statements about preservatives is incorrect?
+A	They are used to prevent microbial deterioration.
+B	Some of them can be added to foods.
+C	They are chemicals produced naturally from microorganisms.
+D	Some of them may increase the risk of cancer.
+C	
+---------------------------------------------------
+
+[10287033]
+// Applying concepts //
+(*	Which of the following combinations of pathogens and the ways in which they cause damage to humans is incorrect?
+Pathogen		How they cause damage
+A	bacteria			release destructive enzymes
+B	bacteria			trigger excessive inflammatory responses 
+C	protists			destroy host cells directly 
+D	viruses			engulf host cells 
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10287120]
+// Basic concepts //
+(*	Pineapples are tropical fruits. Fresh pineapples grown in the Philippines are transported long distances to North America for sale.
+a	Suggest a method to keep pineapples fresh during transportation. Explain how the method works.									(2 marks)
+b	Pineapples preserved by different methods are available on the market. The photographs below show two examples.
+
+
+A: Canned pineapple slices	
+B: Freeze-dried pineapple slices	
+
+i	Describe the method used to preserve pineapples in each case.															(2 marks)
+ii	Explain the biological principle of the methods in b i.		(1 mark)
+
+
+-- answer --
+a	Keep the pineapples refrigerated / at 2-4 ºC.						1m
+Low temperatures can slow down enzyme activities of the microorganisms and hence inhibit microbial growth.									1m
+b	i	A: The pineapple slices are immersed in concentrated sugar solution. Water inside any microorganisms present in the pineapple is drawn out by osmosis.													1m
+B: The pineapple slices are first kept frozen. Then the surrounding pressure is reduced and enough heat is added to allow the frozen water in the pineapple to sublime.										1m
+ii	The microorganisms in the pineapple lack water for metabolism and therefore microbial growth is inhibited.						1m	
+---------------------------------------------------
+
+[10287121]
+// Basic concepts //
+(	The photographs below show two cartons of milk (X and Y). Milk X can be stored for a few days in a refrigerator while milk Y can be stored at room temperature for up to six months. 
+
+
+X	
+Y	
+
+a	Name the methods used to preserve milk X and milk Y respectively.															(2 marks)
+b	Explain why the shelf life of milk X and Y is different.			(1 mark)
+
+
+-- answer --
+a	Milk X: Pasteurization										1m
+Milk Y: Ultra high temperature (UHT) treatment						1m
+b	Some microorganisms are still present in milk X while milk Y is sterilized.	1m	
+---------------------------------------------------
+
+[10287124]
+// Overseas exam question // Basic concepts //
+(	a	Complete the table.
+Method to prevent food spoilage	Treatment	Example of food treated this way	
+	Food kept at -18 °C	Ice cream	
+Refrigeration			
+	Heated to high temperature (72 °C) 
+and cooled quickly	Milk	
+													(4 marks)
+b	Describe how drying preserves food.						(2 marks)
+					 CCEA GCSE Biology Foundation Tier Paper 1 2009 Q7
+
+-- answer --
+a	
+Method to prevent food spoilage
+Treatment
+Example of food 
+treated this way
+
+Freezing
+Food kept at -18 °C
+Ice cream
+
+Refrigeration
+Food kept at 2-4 °C
+Yoghurt / cheese / butter (or other reasonable answers)
+
+Pasteurization
+Heated to high temperature (72 °C) and cooled quickly
+Milk
+
+													1m x 4
+b	Drying removes water from the food, 							1m
+thus microorganisms cannot grow.							1m	
+---------------------------------------------------
+
+[10287126]
+// Basic concepts //
+(	Explain why a salted fish hung in air does not spoil.				(2 marks)
+
+-- answer --
+Water inside any microorganisms present in the food is drawn out by osmosis.	1m
+There is not enough water for the metabolism of microorganisms. Thus they cannot grow. 														1m	
+---------------------------------------------------
+
+[10287128]
+// Experiment // Schematic diagram // Basic concepts //
+(	The diagram below shows an experiment carried out by a student.
+
+	
+
+a	State two reasons to explain why no microorganisms grew in the flask.														(2 marks)
+b	Nutrient broth used in the laboratory should be sterilized. Suggest a method to sterilize the nutrient broth. Explain the principle of this method.															(3 marks)
+
+-- answer --
+a	Boiling killed the microorganisms in the nutrient broth.					1m
+The microorganisms in the air could not enter the flask / were trapped in the curving neck of the flask.										1m
+b	Autoclaving												1m
+In autoclaving, steam and the nutrient broth are heated under high pressure. Water boils at a temperature higher than its usual boiling point. 				1m
+High temperature kills the microorganisms, bacterial endospores and fungal spores.													1m	
+---------------------------------------------------
+
+[10287181]
+// Experiment // Schematic diagram //
+(*	A student carried out an investigation to study the effect of different conditions on food spoilage. The diagram below shows the set-ups.
+	
+The set-ups were observed two days later. Food in set-up X showed signs of spoilage but foods in set-ups Y and Z did not.
+a	Explain the results of this investigation.						(3 marks)
+b	Suggest one sign of spoilage that can be observed in set-up X.	(1 mark)
+c	Name one type of microorganisms that may cause spoilage of food.															(1 mark)
+d	If food is stored in conditions same as set-ups Y and Z, the storage time of the food can become longer. State one kind of food that is stored in each of the conditions for preservation.							(2 marks)
+-- answer --
+a	In set-up X, the conditions were suitable for the growth of microorganisms. Microorganisms grew rapidly in food, causing spoilage. 				1m
+In set-up Y, concentrated sugar solution drew the water inside any microorganisms present in food by osmosis. There was not enough water for the metabolism of microorganisms.											1m
+In set-up Z, low temperature slowed down the growth of microorganisms.	1m
+b	The solution became cloudy. / 
+Bad smell was given off. / 
+Moulds appeared.											1m
+c	Bacteria / yeast / moulds										1m
+d	Stored in concentrated sugar solution: canned fruit (or other reasonable answers)															1m
+Stored at low temperature: milk / cheese / yoghurt (or other reasonable answers) 														1m	
+---------------------------------------------------
+
+[10287208]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+Some chemicals can be used to control the growth of microorganisms.        a                      are chemicals that are applied to non-living objects to kill the microorganisms. An example of these chemicals is b                     , which is added to water in swimming pools. 
+c                      are less toxic. An example of these chemicals is d                     , which can be used to kill microorganisms or inhibit their growth on skin surface.
+
+-- answer --
+a	Disinfectants												1m
+b	chlorine gas												1m
+c	Antiseptics												1m
+d	alcohol / iodine solution										1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10287313]
+// Data handling // Experiment // Schematic diagram // Applying concepts //
+(**The oxygen concentration of milk decreases when bacteria grow in the milk. A dye can be used to detect the oxygen concentration in the milk. As the oxygen concentration deceases, the colour of the dye added to the milk changes as below:
+blue → pink → white
+
+	In an investigation, the growth of bacteria in three milk samples (X, Y and Z) was studied. 10 cm3 of each milk sample was added to a test tube and 1 cm3 of the dye was added to each tube. The three tubes were then sealed and put in a water bath at 30 °C for 120 minutes. The diagram below shows the set-ups of the experiment.
+
+	
+	The colours of the mixtures in the tubes were recorded at 30-minute intervals. The table below shows the results.
+Time (min)	Colour of mixture	
+	X	Y	Z	
+0	Blue	Blue	Blue	
+30	Blue	Blue	Pink	
+60	Blue	Blue	White	
+90	Blue	Pink	White	
+120	Blue	Pink	White	
+
+
+a	Explain why the colours of the mixtures in some of the tubes changed after 120 minutes.											(1 mark)
+b	If a person leaves the three kinds of milk at 30 °C for 120 minutes, drinking which of them is most likely to cause food-borne infection? Explain your answer.												(4 marks)
+c	How would the time taken for the mixture containing Y to turn pink be different if the milk was incubated at 20 °C instead of 30 °C. Explain your answer.												(3 marks)
+d	Cheese is made from milk, but it can be kept for a longer time than milk. Explain why.											(2 marks)
+
+-- answer --
+a	Oxygen was used by the bacteria in the milk for aerobic respiration.		1m
+b	Z														1m
+In the investigation, the colour of the mixture containing Z changed to white after 120 minutes, while the colour of the mixture containing Y changed to pink and the colour of the mixture containing X remained unchanged.				1m
+This means the oxygen concentration in Z was the lowest.				1m
+The number of bacteria in Z would be the highest after the milk is left for 
+120 minutes. Thus, Z is most likely to cause food-borne infection.			1m
+c	The time taken for the mixture to turn pink would be longer.				1m
+The growth rate of the bacteria would become lower at a lower temperature.	1m
+Thus, oxygen in the mixture would be used at a lower rate.				1m
+d	Cheese has a much lower water content than milk.					1m
+The growth of microorganisms that cause spoilage is slowed down when there is insufficient water supply. Thus, cheese can be kept for a longer time than milk.
+														1m	
+---------------------------------------------------
+
+
+[10287321]
+// Cross-topic // Applying concepts //
+(*	Salmonella typhimurium is a bacterium which usually lives in the intestines of chickens. It may lead to food-borne infection when people consume food contaminated with it. There is usually a time interval of several hours between ingesting the contaminated food and the appearance of the signs of infection. Signs of infection include diarrhoea and vomiting.
+a	Explain why there is usually a time interval between ingesting the contaminated food and the appearance of the signs of infection.	(1 mark)
+b	A toxin produced by S. typhimurium causes epithelial cells in the intestines to secrete sodium ions and chloride ions into the lumen. Explain why infection of S. typhimurium would result in diarrhoea.			(3 marks)
+c	Antibiotics are given for only severe cases of S. typhimurium infection. Give two reasons.										(2 marks)
+d	John bought a frozen chicken for dinner. He defrosted the chicken at room temperature for 6 hours and then cooked it medium rare. He suffered from food-borne infection the next day. State two actions of John that may have caused him to develop the food-borne infection. Explain your answer.
+													(4 marks)
+
+-- answer --
+a	It takes time for S. typhimurium to multiply into a sufficient number that causes the signs of infection.											1m
+b	As epithelial cells in the intestines secrete sodium ions and chloride ions into the lumen, the water potential of the cells becomes higher than that of the lumen.
+														1m
+Water moves out of the cells into the lumen by osmosis.				1m
+As a result, faeces become watery.								1m
+c	Antibiotics kill the bacteria in the intestines that are beneficial to our body. The intestines may be infected again by pathogens after recovery.			1m
+The indiscriminate use of antibiotics may speed up the development of antibiotic resistance in the bacteria.										1m
+d	He defrosted the chicken at room temperature for 6 hours.				1m
+Pathogens multiplied to a large number in the chicken during this period.	1m
+He cooked the chicken medium rare.								1m
+Some of the pathogens in the chicken were not killed.					1m	
+---------------------------------------------------
+
+[10287322]
+// Graph interpretation // Basic concepts //
+(*	The graph below shows the numbers of cases of food-borne infection caused by the bacteria Vibrio parahaemolyticus and Salmonella in Hong Kong in a certain year.
+	
+
+a	What is the difference in the causes of food-borne infection and food poisoning?											(2 marks)
+b	Symptoms of food-borne infection caused by V. parahaemolyticus and Salmonella usually appear between 12-24 hours and 12-36 hours after food consumption respectively. Explain why there is a time lag between food consumption and appearance of the symptoms.				(2 marks)
+c	There is a seasonal pattern of these cases of food-borne infection. Based on the graph, determine the peak season of the food-borne infection. Explain why the food-borne infection is more common in that season.	(2 marks)
+d	Suggest two safe practices in the handling of food to prevent food-borne infection. State the principles behind each of these practices.	(4 marks)
+
+
+-- answer --
+a	Food-borne infection is caused by the pathogens present in food,		1m
+while food poisoning is caused by the toxins left in food by microorganisms.	1m
+b	The number of bacteria ingested is small initially.						1m
+It takes time for the bacteria to multiply to a level that can cause harm to the host and for symptoms to appear.									1m
+c	Summer													1m
+The temperature is higher which favours the growth of the bacteria in food. 	1m
+(or other reasonable answers)
+
+d	Separate raw and cooked foods									1m
+to prevent the cooked food from becoming contaminated with pathogens from the raw food.													1m
+Cook food thoroughly											1m
+to kill any pathogens already present in the food.						1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10287323]
+// Data handling // Applying concepts //
+(*	The shelf life of fresh food can be extended by changing the ratios of gases in the air in which the food is stored. In an experiment, 60 fresh strawberries were stored in air containing 3% of oxygen and another 60 were stored in air containing 21% of oxygen at 25 °C for a week. The degree of spoilage was measured by the percentage of strawberries showing visual defects. The table below records the number of strawberries showing visual defects.
+Storage time (day)	Number of strawberries showing visual defects	
+	Air containing 3% of oxygen	Air containing 21% of oxygen	
+0	0	0	
+1	0	0	
+2	0	3	
+3	0	8	
+4	5	15	
+5	9	23	
+6	16	33	
+7	26	52	
+a	Give one type of visual defect on a strawberry that could be taken as a sign of spoilage.											(1 mark)
+b	If 25% or more of the strawberries show visual defects, they will be considered as unfit for sale. Determine the shelf life of the strawberries stored in air containing 3% and 21% of oxygen.				(2 marks)
+c	Explain the effect of oxygen concentration on the shelf life of the strawberries. 											(2 marks)
+d	Why did the strawberries stored in air containing 3% of oxygen eventually spoil?												(2 marks)
+e	Predict the effect on the shelf life of strawberries if they are stored in air containing 3% of oxygen at 4 °C. Explain your answer.		(3 marks)
+
+-- answer --
+a	The strawberry becomes dry / wrinkled / bruised. / Mould is present on the strawberry. 												1m
+(or other reasonable answers)
+b	Strawberries stored in air containing 3% of oxygen: 5 days				1m
+Strawberries stored in air containing 21% of oxygen: 3 days				1m
+c	In air containing 3% of oxygen, less oxygen is available for the respiration of aerobic microorganisms.										1m
+Their growth is inhibited and the shelf life of the strawberries is extended.	1m
+d	Not the growth of all the microorganisms, e.g. anaerobic microorganisms, was inhibited. / Microorganisms were not dead and they were still growing slowly. 															1m
+The microorganisms secreted enzymes which caused the spoilage of the strawberries. 												1m
+e	The shelf life would be further extended.							1m
+At a lower temperature, enzyme activities slow down					1m
+and hence the growth of microorganisms is inhibited / the rate of decomposition slows down.												1m	
+---------------------------------------------------
+
+[10287328]
+// Photomicrograph // Applying concepts //
+(*	Salmonella is a bacterium that causes food-borne infection. It is found in raw or undercooked eggs, products made from raw eggs and undercooked meat. It affects the intestines, causing symptoms such as diarrhoea. The symptoms usually appear 12 to 36 hours after eating contaminated food.
+
+
+Salmonella in intestinal tissues (x15 000)
+(Source: National Institute of Allergy and Infectious Diseases (NIAID))	
+
+a	Suggest how food-borne infection caused by Salmonella leads to diarrhoea.													(2 marks)
+b	Explain why the symptoms appear 12 to 36 hours after eating contaminated food.												(2 marks)
+c	Mandy has prepared the following foods for a party.
+
+Party menu 
+( ( (
+Chicken and egg salad
+Peanut butter sandwiches
+French fries
+Sirloin steak
+Fruit punch
+Fresh fruits	
+
+Suggest two foods in the menu which have a high risk of being contaminated with Salmonella.  							(2 marks)
+
+d	Explain how the following practices can help prevent food-borne infection caused by Salmonella in Mandy's party.
+i	Keep the foods at a safe temperature before eating and eat the food as soon as possible. 									(1 mark)
+ii	Keep kitchen and cooking utensils clean.				(1 mark)
+
+
+-- answer --
+a	Salmonella colonizes the intestinal tissues and induces fluid loss from intestinal cells.														1m
+This produces watery faeces and leads to diarrhoea.					1m
+b	It takes time for the bacteria to multiply to a sufficient number			1m
+and colonize the intestinal tissues. 								1m
+c	Chicken and egg salad										1m
+Sirloin steak												1m
+d	i	To control the growth of any Salmonella already present in food.		1m
+ii	To prevent the spread of Salmonella from the food handling area to food.														1m	
+---------------------------------------------------
+
+[10287331]
+// Overseas exam question // Applying concepts //
+(*	The following is a recipe for making homemade yoghurt.
+1	Warm pasteurized milk to 43 °C.
+2	Add living yoghurt to this milk in a vacuum flask. Replace the lid and leave for 6-8 hours, until the mixture becomes acidic.
+3	Pour the yoghurt into sterile containers and store at 4 °C in a refrigerator.
+4	Eat the yoghurt within 4-5 days.	
+
+a	Describe how pasteurized milk is produced.					(2 marks)
+b	Suggest why pasteurized milk is used instead of unpasteurized milk. 															(1 mark)
+c	Living yoghurt contains the bacteria Lactobacillus bulgaricus. Suggest why the pasteurized milk and living yoghurt mixture
+i	is kept in a vacuum flask.							(1 mark)
+ii	is covered with a lid.								(1 mark)
+iii	becomes acidic.									(2 marks)
+d	Explain why storing the yoghurt at 4 °C slows down decay.		(2 marks)
+e	Suggest why the yoghurt should be eaten within 4-5 days.		(1 mark)
+f	Give two other methods of preserving food and explain how each works.														(4 marks)
+						CCEA GCSE Biology Higher Tier Paper 2 2007 Q3a
+
+-- answer --
+a	Heat the milk to 72 °C for 15 s								1m
+and then cooled quickly. 									1m
+b	Pasteurized milk contains fewer unwanted living bacteria. 			1m
+c	i	To maintain a constant temperature.						1m
+ii	To prevent contamination / prevent bacteria / microorganisms in air from entering the vacuum flask. / 
+To prevent air / oxygen from entering the vacuum flask.		1m
+iii	Lactobacillus uses lactose / respires anaerobically			1m
+to produce lactic acid.								1m
+d	Growth / reproduction of microorganisms is / enzyme activities are slowed down 														1m
+at low temperature.										1m
+e	Microorganisms grow in yoghurt during storage. This may cause food-borne infection or food poisoning. 								1m
+f	Any two methods with explanation:							2m x 2
+Freezing
+Growth / reproduction of microorganisms is / enzyme activities are stopped at low temperature.
+Drying
+Water is not available for the metabolism of microorganisms.
+Adding sugar / syrup / salt
+The water inside any microorganisms present in the food is drawn out by osmosis.
+Canning / UHT treatment
+The food is heated and sealed so that microorganisms cannot enter.
+Irradiation
+High-energy radiations kill microorganisms.	
+---------------------------------------------------
+
+[10287332]
+// Overseas exam question // Schematic diagram // Applying concepts //
+(*	a	Complete the table.
+	Method	How method works	Example	
+20 °C
+		(	No water available
+(	Microorganisms cannot reproduce		
+4 °C
+		(	Low temperature
+(	Slows the growth of microorganisms	Milk	
+-18 °C
+	Freezing	(	
+(	 		
+													(6 marks)
+b	Explain why frozen food which is not properly defrosted before cooking can cause the person who eats it to suffer food poisoning.		(1 mark)
+c	Give two conditions microorganisms need to grow and reproduce.															(2 marks)
+d	The rate of decay of milk is reduced by pasteurization. Explain how milk is pasteurized.											(2 marks)
+e	UHT long-life milk is heated to very high temperatures of around 135 °C. Suggest one disadvantage of heating milk to this temperature.	(1 mark)
+			CCEA GCSE Biology Foundation Tier Paper 2 2008 Q3a i-ii, iv-vi
+
+
+
+
+
+-- answer --
+a	
+
+Method
+How method works
+Example
+
+20 °C
+
+Drying
+˙	No water available
+˙	Microorganisms cannot reproduce
+Cup noodles / dried mushrooms / dried squids (or other reasonable answers)
+
+4 °C
+
+Refrigeration
+˙	Low temperature
+˙	Slows the growth of microorganisms
+Milk
+
+-18 °C
+
+Freezing
+˙	Very cold
+˙	Microorganisms cannot grow / reproduce
+Frozen meat / fish / ice cream (or other reasonable answers)
+
+													1m x 6
+b	If part of the food remains cold during cooking, microorganisms can survive.															1m
+c	Warmth / oxygen / water (any 2)								1m x 2
+d	Milk is heated to 72 °C for 15 s								1m
+and then cooled quickly.									1m
+e	The taste of milk is changed. / 
+The nutritional content of the milk is reduced. / 
+It is an expensive method.									1m	
+---------------------------------------------------
+
+[10287334]
+// Scientific investigation // Applying concepts //
+(*	An experiment was carried out to investigate the effects of various treatments on milk. Six test tubes were set up using the same volume of milk samples, each had been treated differently. 1 cm3 of indicator dye was then added to each test tube. This dye is blue when oxygen is present. It changes through pink to colourless as oxygen is removed from the solution in which it is present. The test tubes were incubated at 35 °C and the colour of the solutions was recorded at 1-hour intervals. 
+
+The results of the experiment are shown in the table below.
+Test tube	Treatment of milk	Incubation time	
+		1 hour	2 hours	
+U	Raw milk (no treatment)	Pink	White	
+V	Pasteurized milk kept in a closed container for 1 day	Blue	Pink	
+W	Pasteurized milk kept in a closed container for 4 days	Blue	White	
+X	Boiled milk kept in a closed container for 1 day	Blue	Blue	
+Y	Boiled milk kept in a closed container for 4 days	Blue	Blue	
+Z	Boiled milk kept in an open jug for 4 days	Blue	Pink	
+a	Explain the colour change in tube U.						(2 marks)
+b	Explain the difference in the results between tubes Y and Z.		(3 marks)
+c	What conclusion can you draw from the difference in the results between tubes V and X? Explain your answer.						(3 marks)
+d	Explain why pasteurization is more preferable than boiling in the treatment of milk.												(2 marks)
+-- answer --
+a	Raw milk contained a lot of microorganisms.						1m
+The microorganisms carried out aerobic respiration, consuming oxygen in the solution. Thus the indicator turned pink and then colourless. 			1m
+b	Boiling killed all the microorganisms in the milk.						1m
+The milk in tube Y was kept in a closed container. Microorganisms in air could not enter the milk. Therefore, the indicator remained blue. 				1m
+The milk in tube Z was kept in an open jug, it was contaminated by the microorganisms in air. The microorganisms carried out aerobic respiration, consuming oxygen in the solution. Therefore, the indicator turned pink. 	1m
+c	In tube V, the indicator turned pink. This indicates that some microorganisms were present in the tube, which carried out aerobic respiration, consuming oxygen in he solution.													1m
+In tube X, the indicator remained blue. This indicates that there were no microorganisms in the tube. 									1m
+In conclusion, boiling kills all the microorganisms in the milk but pasteurization does not.													1m
+
+d	Boiling coagulates milk proteins and changes the flavour of milk.			1m
+Pasteurization kills most of the microorganisms without changing the flavour of milk.														1m	
+---------------------------------------------------
+
+[10287336]
+// Schematic diagram // Applying concepts //
+(*	Bacteria in milk may cause food-borne infection. Therefore, milk is pasteurized before packing for sale. The flow chart below shows how milk is collected and processed.
+	
+a	What is food-borne infection?							(1 mark)
+b	Name one bacterium which commonly contaminates milk and causes food-borne infection. Explain why this bacterium causes food-borne infection in humans but not in other mammals.				(3 marks)
+c	Outline the process of pasteurization of milk.				(3 marks)
+d	Explain why pasteurized milk must be kept refrigerated.		(2 marks)
+-- answer --
+a	Food-borne infection occurs when people consume food contaminated with pathogenic microorganisms or virus. 								1m
+b	Salmonella												1m
+Bacteria attach to tissues via their surface molecules. 	 			1m
+The surface molecules bind specifically to receptors on the cell surfaces of human tissues. 													1m
+c	Heat the milk at a temperature of 72 °C							1m
+for a short period of time (15 seconds).							1m
+Cool it quickly to about 10 °C.									1m
+d	Since some microorganisms are still present in pasteurized milk, 		1m
+it must be kept refrigerated to slow down the growth of the microorganisms.	1m	
+---------------------------------------------------
+
+[10287337]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the number of cases of food-borne infection and food poisoning in Hong Kong caused by different causative agents in 2015.
+	
+[Source of information: Centre for Food Safety, Hong Kong]
+
+a	State two reasons to explain why there are more cases caused by bacteria in summer.												(2 marks)
+b	State one group of microorganisms which produce toxins.		(1 mark)
+c	Toxins are often found in seafood like shellfish and coral reef fish. Explain why.													(2 marks)
+d	Staphylococcus aureus is one of the bacteria that cause food poisoning. 
+i	State two kinds of foods that are often contaminated with Staphylococcus aureus. 								(1 mark)
+ii	State two actions that can be taken to prevent food poisoning caused by Staphylococcus aureus, when buying and handling food.	(4 marks)
+-- answer --
+a	High temperatures in summer favour the growth of bacteria.		1m
+People eat more cold foods / pre-cooked foods in summer. These foods are easily contaminated by bacteria.									1m
+(or other reasonable answers)
+b	Bacteria / fungi / algae									1m
+c	Shellfish feed on algae. Toxins would be present in their bodies if they have eaten toxic algae.											1m
+Coral reef fish feed on small fish, which in turn feed on algae. Toxins can pass along the food chains to the coral reef fish.						1m
+d	i	Pre-cooked meat products / sandwiches / salads (any 2)		1m
+ii	Buying food: 
+Buy food in reliable food stores. / 
+Check the expiry date before buying. / 
+Observe for any signs (e.g. smell, colours, etc.) that indicate spoilage of the food. 
+(any 2 or other reasonable answers)						1m x 2
+Handling food:		
+Keep food at a safe temperature. / 
+Cook the food thoroughly. / 
+Reheat the food before eating. / 
+Separate raw and cooked foods. / 
+Wash the hands before handling food. / 
+Keep kitchen and cooking utensils clean. 
+(any 2 or other reasonable answers) 						1m x 2	
+---------------------------------------------------
+
+[10287343]
+// Schematic diagram // Applying concepts //
+(*	Tuberculosis is caused by the bacillus Mycobacterium tuberculosis. It usually affects the lungs first, and may spread to other parts of the body later.
+a	Explain why the pathogens affect certain types of cells only but not others.														(2 marks)
+b	State two ways in which pathogens spread to other parts of the body.															(2 marks)
+c	State three ways in which pathogens cause damage to the host tissues.														(3 marks)
+Examination of the body fluids is a method of diagnosing tuberculosis. 
+d	The diagrams below show three kinds of bacteria found in the body fluid of  a tuberculosis patient.
+			
+X	Y	Z	
+Which microorganism, X, Y or Z, is most likely M. tuberculosis? Explain your answer.											(2 marks)
+-- answer --
+a	Pathogens attach to human tissues via their surface molecules. 			1m
+The surface molecules bind specifically to receptors on the cell surfaces of certain types of cells.												1m
+b	Pathogens spread to other parts of the body through the bloodstream / circulatory system													1m
+and the lymphatic system.										1m
+c	Pathogens may destroy the cells directly, 							1m
+trigger excessive inflammatory responses in the host, 				1m
+or cause damage indirectly by releasing toxins or destructive enzymes.	1m
+d	X														1m
+M. tuberculosis is a bacillus / is a rod-shaped bacterium.				1m	
+---------------------------------------------------
+
+[10287353]
+// Reading comprehension // Calculation // Applying concepts //
+(*	Read the following article and answer the questions.
+In the United States, eggs contaminated with Salmonella were recalled in 2010. Some of these eggs came from hens that have been infected by the Salmonella bacteria. The number of bacteria in the eggs is relative small when the eggs are newly laid by the hens, but it would increase rapidly if the eggs are not handled properly. Some eggs were contaminated during packaging.
+It is advised to cook the eggs thoroughly before eating. For those with immune problems, pasteurized egg is a better choice.	
+a	Salmonella causes food-borne infection. What is food-borne infection?														(1 mark)
+b	Salmonella doubles every 20 minutes under room temperature. If there are 5 bacteria in a newly laid egg, how long will it take for the number of Salmonella to reach 100, which is the minimum number of Salmonella to cause disease in humans? Show your workings.				(2 marks)
+c	Apart from pasteurization, suggest one other method to slow down the increase in the number of Salmonella in the eggs before selling. State the principle of this method.									(2 marks)
+d	i	Explain why pasteurized eggs are safer for eating. 		(1 mark)
+ii	State one advantage of pasteurization over other methods involving heating in controlling microbial growth in food.			(1 mark)
+e	State two other foods that are commonly contaminated by Salmonella. 														(2 marks)
+-- answer --
+a	Food-borne infection occurs when people consume food contaminated with pathogenic microorganisms or viruses.						1m
+b	5 × 2n = 100, n = 4.31 ≃ 5									1m
+5 × 20 = 100 minutes										1m
+c	Store the eggs at low temperatures. / Refrigerate the eggs.			1m
+Low temperatures slow down the growth of Salmonella.			1m
+d	i	Pasteurization kills most Salmonella in eggs. Thus it takes a longer time for the number of Salmonella in the eggs to reach the level that can cause disease.											1m
+ii	Pasteurization causes little change in the flavour of the food.	1m
+e	Undercooked meat / pre-cooked meat products that are eaten cold / products made from raw eggs (any 2)								1m x 2	
+---------------------------------------------------
+

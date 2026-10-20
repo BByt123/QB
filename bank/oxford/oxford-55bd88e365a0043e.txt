@@ -1,0 +1,978 @@
+( Chapter 2	  Regulation of body temperature
+
+Multiple-choice questions
+
+[10280361]
+// Applying concepts //
+(*	Which of the following statements about the ways of heat gain or heat loss of our body is incorrect?
+A	Heat is removed from the body when sweat evaporates.
+B	In windy conditions, the body loses heat to the surroundings by convection more quickly.
+C	The body gains heat from the sun by convection.
+D	The body gains heat by conduction when we touch a warm object.
+C	
+---------------------------------------------------
+
+[10280374]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of the brain.
+	
+In which labelled part of the brain is the thermoregulatory centre located?
+A	part P			B	part Q
+C	part R			D	part S
+A	
+---------------------------------------------------
+
+[10280376]
+// Schematic diagram // Basic concepts //
+(	Directions: The following questions refer to the diagram below, which shows the structure of the human skin.
+	
+Which of the following combinations about the functions of structures P, Q, R and S is incorrect?
+	Structure	Function
+A	P			Detects stimuli 
+B	Q			Controls the position of the hair 
+C	R			Produces a substance that keeps hair supple
+D	S			Produces a substance that keeps the skin waterproof
+D	
+---------------------------------------------------
+
+[10280399]
+// Schematic diagram // Basic concepts //
+(	Which layer(s) of the skin contain(s) living cells?
+A	I only
+B	I and III only
+C	II and III only
+D	I, II and III
+C	
+---------------------------------------------------
+
+[10280407]
+// Applying concepts //
+(*	Which of the following will occur when a person walks from a room of 25 °C into a room of 10 °C and stays there for 1 hour without additional clothing?
+(1)	The sweat secretion increases. 
+(2)	The rate of respiration of muscle cells increases.
+(3)	The layer of subcutaneous fat in the skin becomes thicker.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10280409]
+// Graph interpretation // Applying concepts //
+(*	Directions: The following two questions refer to the graph below, which shows the change in skin temperature of a person when he bathes in water.
+	
+When the person is in water, more heat is lost from the body by
+A	exhalation.
+B	convection.
+C	radiation.
+D	evaporation.
+B	
+---------------------------------------------------
+
+[10280434]
+// Graph interpretation // Applying concepts //
+(*	Which of the following occur when the person is in water?
+(1)	constriction of the capillaries near the skin surface
+(2)	contraction of erector muscles
+(3)	decrease in sweat secretion
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10280440]
+// Schematic diagram // Basic concepts //
+(*	The flow chart below shows the regulation of body temperature in humans.
+
+	
+
+Responses P and Q can be
+	P	Q	
+A	contraction of erector muscles	relaxation of erector muscles	
+B	vasoconstriction of arterioles in the skin	vasodilation of arterioles in the skin	
+C	increase in sweat secretion	decrease in sweat secretion	
+D	increase in thyroxine secretion	decrease in thyroxine secretion	
+
+C	
+---------------------------------------------------
+
+[10280506]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the flow chart below, which shows how body temperature is regulated by negative feedback mechanism.
+
+	
+
+X and Y are parts of the brain. Which of the following correctly identifies X and Y?
+X				Y
+A	cerebrum			hypothalamus 
+B	pituitary gland		cerebrum
+C	hypothalamus 	pituitary gland	 
+D	hypothalamus		cerebrum
+D	
+---------------------------------------------------
+
+[10280524]
+// Schematic diagram // Applying concepts //
+(*	Z is another response initiated by Y when the body temperature falls. Z can be
+A	shivering. 
+B	curling up the body.
+C	secreting less sweat.
+D	secreting more thyroxine.
+B	
+---------------------------------------------------
+
+[10280526]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of human skin. 
+
+	
+
+Which of the following are the functions of X?
+(1)	acts as an energy reserve
+(2)	acts as an insulator
+(3)	protects the body against ultraviolet light
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10280527]
+// Cross-topic // Applying concepts //
+(*	What are the roles of hypothalamus in the negative feedback control of body temperature?
+(1)	receptor
+(2)	control centre 
+(3)	effector
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10280555]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows some structures of the human skin.
+	
+
+What are structures X, Y and Z?
+X				Y			Z
+A	hair follicle		capillary		sweat gland 
+B	hair follicle		receptor		sebaceous gland
+C	erector muscle		capillary		sebaceous gland
+D	erector muscle		receptor		sweat gland
+D	
+---------------------------------------------------
+
+[10280586]
+// Basic concepts //
+(	Which of the following structures are involved in body temperature regulation?
+(1)	hypothalamus
+(2)	skin
+(3)	thyroid gland
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10280590]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the structure of the human skin.
+
+	
+
+Which layer(s) of the skin produce(s) cells which contain a dark pigment?
+A	W only
+B	Y only
+C	W, X and Y only
+D	W, X, Y and Z
+B	
+---------------------------------------------------
+
+[10280596]
+// Schematic diagram // Basic concepts //
+(	Which of the following is/are the function(s) of the dark pigment?
+(1)	for camouflage
+(2)	absorbs ultraviolet light
+(3)	produces vitamin D 
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10280605]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the structure of human skin.
+
+	
+
+Which of the following correctly shows the functions of the secretions from X and Y?
+Secretion from X				Secretion from Y
+A	kills microorganisms			keeps hairs waterproof
+B	helps regulate body temperature	keeps skin and hairs supple
+C	acts as a natural antiseptic		acts as an insulator
+D	removes metabolic waste		helps reduce heat loss from the body
+B	
+---------------------------------------------------
+
+[10280607]
+// Basic concepts //
+(	Which of the following shows the name of Z and its function?
+Name			Function
+A	erector muscle		reduces heat loss by evaporation when it contracts
+B	erector muscle		reduces heat loss by convection when it contracts
+C	capillary			reduces heat loss by radiation when it contracts
+D	capillary			supplies oxygen and nutrients to the hair follicle
+B	
+---------------------------------------------------
+
+[10280609]
+// Applying concepts //
+(**Which of the following responses can effectively lower the body temperature when the environmental temperature is above 37 °C?
+(1)	vasodilation of arterioles
+(2)	increase in sweat secretion
+(3)	taking in cold food or drinks
+A	(1) and (2) only 
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10280618]
+// Basic concepts //
+(	Which of the following statements about the epidermis of the skin is not correct?
+A	It consists of dead cells only.
+B	It contains a pigment called melanin.
+C	It reduces water loss by evaporation.
+D	It protects the body from mechanical injury.
+A	
+---------------------------------------------------
+
+[10280631]
+// Applying concepts //
+(*	Which of the following correctly explain(s) why our face becomes red when we are hot?
+(1)	More blood flows near the skin surface when we are hot.
+(2)	Capillaries near the skin surface dilate when we are hot.
+(3)	More heat is lost through the skin surface when we are hot.
+A	(1) only 
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10280632]
+// Basic concepts //
+(	Keeping the body temperature stable is important because 
+A	the heart beats at a normal rate only within a narrow range of temperatures.
+B	the lungs function only within a narrow range of temperatures.
+C	blood cells function only within a narrow range of temperatures.
+D	enzymes function only within a narrow range of temperatures.
+D	
+---------------------------------------------------
+
+[10280638]
+// Basic concepts //
+(*	How do the following structures of the skin respond when the environmental temperature increases from 15 °C to 30 °C?
+Erector muscles		Arterioles
+A	contract				constrict 
+B	contract				dilate 
+C	relax					constrict 
+D	relax					dilate
+D	
+---------------------------------------------------
+
+[10280650]
+// Applying concepts //
+(*	Which of the following is the action that helps reduce heat loss from the body when a person enters a cold room?
+A	contraction of skeletal muscles
+B	decrease in sweat secretion
+C	relaxation of erector muscles
+D	thickening of subcutaneous fat
+B	
+---------------------------------------------------
+
+
+[10280664]
+// Basic concepts //
+(	Which of the following occurs when we feel cold?
+A	thyroxine secretion decreases
+B	sweat secretion decreases
+C	erector muscles relax
+D	blood flow near the skin surface increases
+B	
+---------------------------------------------------
+
+[10280667]
+// Basic concepts //
+(*	Which of the following can be found in the dermis?
+(1)	blood vessels
+(2)	thermoreceptors
+(3)	melanin
+A	(1) and (2) only 
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10280669]
+// Applying concepts //
+(*	Which of the following shows the changes that occur when a person enters a cold room on a hot summer day?
+	Skin temperature	Blood flow near the skin surface	
+A	rises	increases 	
+B	rises	decreases	
+C	falls	increases	
+D	falls	decreases	
+
+D	
+---------------------------------------------------
+
+
+[10280677]
+// Basic concepts //
+(	Our body loses heat by
+(1)	exhalation.
+(2)	evaporation of sweat.
+(3)	urination.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10280772]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the responses of the human skin under cold conditions.
+
+	
+a	Describe how structure A helps reduce heat loss from the body under cold conditions.											(2 marks)
+b	Explain the changes in blood flow in blood vessel B under cold conditions.															(2 marks)
+
+
+-- answer --
+a	Under cold conditions, structure A / erector muscle contracts to pull the hair upright. This traps a thicker layer of still air near the skin surface.			1m
+As air is a good insulator of heat, heat loss to the surroundings by conduction
+and convection is reduced.										1m
+b	Under cold conditions, the arterioles in the skin surface constrict			1m
+so that less blood flows to the capillaries near the skin surface and more blood flows through blood vessel B / the shunt vessel.						1m	
+---------------------------------------------------
+
+[10280775]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows the hormonal control of body temperature regulation in humans.
+
+	
+
+a	Name glands X and Y.									(2 marks)
+b	Describe how hormone 2 works to bring the blood temperature back to normal.					 							(2 marks)
+
+
+-- answer --
+a	X: pituitary gland											1m
+Y: thyroid gland												1m
+b	Hormone 2 increases the metabolic rate of body cells					1m
+so that more heat is generated to keep the body warm.				1m	
+---------------------------------------------------
+
+[10280783]
+// Overseas exam question // Drawing // Schematic diagram //
+(*	The diagrams show sections of skin in different environmental conditions.
+	
+
+a	Complete diagram Y to show how the capillaries would change in warm conditions.											(2 marks)
+b	Describe and explain how the change in the sweat gland helps cool the body in warm conditions.										(2 marks)
+c	Suggest how shivering helps regulate body temperature in cold conditions.															(1 mark)
+						 CCEA GCSE Biology Higher Tier Paper 1 2007 Q7
+
+-- answer --
+a	Less blood flows to shunt vessel									1m
+More blood flows to capillary									1m
+b	The sweat gland secretes more sweat.							1m
+Evaporation of more sweat / water absorbs heat from the skin.			1m
+c	Muscle contraction produces heat.								1m	
+---------------------------------------------------
+
+[10280786]
+// Cross-topic // Schematic diagram // Basic concepts //
+(	The flow chart below shows how homeostatic regulation is brought about.
+	
+
+During exercise, Peter's face becomes red and hot. Identify the following components of the homeostatic regulation in Peter's case.			(4 marks)
+Component	Corresponding part / action of the body	
+Receptor		
+Control centre		
+Effector		
+Corrective mechanism		
+
+-- answer --
+Component
+Corresponding part / action of the body
+
+Receptor
+Thermoreceptors in hypothalamus / skin
+
+Control centre
+Thermoregulatory centre in hypothalamus
+
+Effector
+Arterioles in the skin
+
+Corrective mechanism
+Vasodilation
+
+														1m x 4	
+---------------------------------------------------
+
+[10280848]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows how thyroxine secretion is controlled.
+	
+
+a	What are structures X and Y?								(2 marks)
+b	Describe the role of thyroxine in body temperature regulation.	(2 marks)
+
+-- answer --
+a	X: hypothalamus											1m
+Y: pituitary gland											1m
+b	Under cold conditions, more thyroxine is secreted by the thyroid gland.		1m
+Thyroxine increases the metabolic rate of body cells so that more heat is generated to keep the body warm.								1m	
+---------------------------------------------------
+
+[10280863]
+// Cross-topic // Data handling //
+(*	The table below shows the amount of water lost through the skin and the lungs of a person in two days. On day 1 he was at rest and on day 2 he ran a marathon.
+	Amount of water loss (cm3)	
+	Through skin	Through lungs	
+Day 1	520	420	
+Day 2	5260	550	
+
+a	i	State one response of the person's body during exercise that led to the increase in water loss through the skin on day 2.			(1 mark)
+ii	What is the significance of the response in the answer to a i?															(3 marks)
+b	Explain the difference in the amount of water lost through the lungs in these two days.												(3 marks)
+
+-- answer --
+a	i	The sweat glands secreted more sweat. / Sweating increased.		1m
+ii	During exercise, more heat is generated due to the contraction of skeletal muscles.												1m
+Evaporation of more sweat absorbs more heat from the body.		1m
+This lowers the body temperature during exercise.				1m
+b	More water was lost through the lungs on day 2.						1m
+The rate and depth of breathing increased during exercise.				1m
+More water from the lungs was carried away by the exhaled air.			1m	
+---------------------------------------------------
+
+[10280869]
+// Graph interpretation // High order thinking //
+(**The graph below shows the change in blood temperature of a person who just ate an ice cream on a hot summer day.
+	
+
+a	Which part of the body detects changes in blood temperature?	(1 mark)
+b	Explain why the blood temperature decreased after the person ate an ice cream.												(1 mark)
+c	Estimate from the graph the time needed for the blood temperature to return to normal.											(1 mark)
+d	Given that evaporation of sweat was the main way of heat loss from the body that day, describe and explain how the skin temperature changed immediately after the person ate the ice cream.				(4 marks)
+
+-- answer --
+a	Hypothalamus												1m
+b	Some heat from the body was transferred to the ice cream.				1m
+c	40 minutes												1m
+d	The skin temperature increased after eating ice cream.				1m
+After eating ice cream, the blood temperature decreased. The hypothalamus triggered a decrease in sweat secretion.							1m
+The decrease in sweat secretion reduced the heat loss from the skin surface by evaporation.												1m
+The amount of heat gain from the surroundings exceeded the amount of heat loss, thus the skin temperature increased.								1m	
+---------------------------------------------------
+
+[10280871]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the changes of the skin of a person after he entered a room.
+
+	
+
+a	Was the room colder or hotter than outside? State one evidence shown in the above diagram.										(2 marks)
+b	Explain why hairs do not play an important role in conserving heat in humans under cold conditions.							(3 marks)
+c	In an accident, the epidermis of a person's skin was seriously burnt. Explain why this can be life-threatening.							(2 marks)
+
+-- answer --
+a	The room was colder than outside.								1m
+The hairs were pulled upright / the erector muscles contracted after he entered the room. 										 			1m
+b	The hairs covering the human body are sparse. 						1m
+They cannot trap air effectively.									1m
+Thus the insulating effect is poor.								1m
+c	The person may be infected with pathogens that enter the body through the wound.													1m
+The person may also suffer from excessive water loss through the wound.	1m	
+---------------------------------------------------
+
+[10280872]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+All the body temperature regulation mechanisms are controlled by the thermoregulatory centre in the a                     . The changes in blood and skin temperatures are detected by b                     . Heat loss centre initiates mechanisms like c                      of erector muscles and vasodilation. Heat gain centre initiates mechanisms like 
+d                      of erector muscles and vasoconstriction. 
+
+-- answer --
+a	hypothalamus												1m
+b	thermoreceptors											1m
+c	relaxation													1m
+d	contraction												1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10280986]
+// Graph interpretation // High order thinking //
+(**In an investigation, the effect of drinking iced water on heat loss from the body to the environment was studied. A man was asked to stay in a dry room at 45 (C for 50 minutes and drink a glass of iced water at 25 minutes after the start of the investigation. His internal temperature, skin temperature and heat loss to the environment were measured throughout the investigation. The graphs below show the results.
+
+	
+
+a	There are different methods to measure the internal temperature. One of the methods is to detect the temperature of the eardrum. Suggest why the internal temperature can be measured using this method.		(2 marks)
+b	State the way in which heat was lost from the body of the man to the environment before he drank the iced water. Explain your answer.
+														(2 marks)
+c	Describe and explain the changes in the internal temperature and skin temperature of the man between 25 and 35 minutes.			(4 marks)
+d	State the possible effect of increasing the relative humidity of the room to 95% on the man. Explain your answer.						(2 marks)
+
+-- answer --
+a	The eardrum is very close to the hypothalamus and it shares the blood supply with the hypothalamus.											1m
+Thus, the temperature of the eardrum is similar to the temperature of the blood passing through the hypothalamus.								1m
+b	Evaporation of sweat											1m
+As the temperature of the room was higher than the internal temperature of the man, heat could not be lost by conduction, convection and radiation. Evaporation was the only way of heat loss.									1m
+c	From 25 to 35 minutes, the internal temperature decreased while the skin temperature increased.										1m
+The iced water cooled down the blood. Thus, the internal temperature decreased.																1m
+The hypothalamus detected the decrease in the internal temperature. It sent nerve impulses to the skin to reduce sweating.							1m
+Less heat was lost to the environment by evaporation of sweat. Thus, the skin temperature increased.										1m
+d	Heat cannot be lost effectively by evaporation of sweat. There would be a net gain of heat from the environment.									1m
+The man may become overheated.								1m	
+---------------------------------------------------
+
+[10281008]
+// High order thinking // Schematic diagram //
+(**During a marathon race, runners often need to drink plenty of water.
+a	In terms of regulation of body temperature, explain why runners need to drink plenty of water during the race.						(3 marks)
+b	Even the runners drink enough water, they are still at a high risk of heatstroke shortly after finishing the race. Explain why.		(2 marks)
+c	It is not advised to take a cold shower immediately after finishing the race. Explain why.											(2 marks)
+d	The diagrams below show the body shapes of two runners, M and N. The two diagrams are drawn to the same scale. Explain why the body temperature of N can be kept stable more easily than that of M during a race on a hot day.											(2 marks)
+
+	
+
+-- answer --
+a	Muscle contraction generates a large amount of heat. As a result, the body temperature of the runners increases during the race.					1m
+The sweat glands secrete more sweat.							1m
+As water loss through sweating increases, the runners need to drink plenty of water to replace the water loss.									1m
+b	Since the runners stop running after finishing the race, air flow over the skin surface decreases. The rate of evaporation of sweat becomes lower.		1m
+Heat loss is reduced. The runners may become overheated.			1m
+c	Taking a cold shower causes vasoconstriction of the arterioles near the skin surface. Thus, less blood flows near the skin surface.					1m
+Heat loss is reduced. The runners may become overheated.			1m
+d	As N is taller than M, the surface area to volume ratio of N is higher than that of M.															1m
+Heat is lost more easily in N. Thus, the body temperature of N can be kept stable more easily during a race on a hot day.							1m	
+---------------------------------------------------
+
+[10281015]
+// Data handling // Communication // Applying concepts //
+(*	In an investigation of the effect of drinking iced water on heat loss from the  body, a man was asked to sit in a hot dry room for one hour and drink a glass of iced water after the first half hour. His internal body temperature, skin temperature and energy loss by evaporation of sweat were measured at 5-minute intervals. The table below shows the results.
+Time
+(min)	Internal body temperature 
+(°C)	Skin temperature 
+(°C)	Energy loss by evaporation of sweat 
+(J min-1)	
+0	37.5	36.8	12 840	
+5	37.6	36.9	13 600	
+10	37.6	36.9	13 600	
+15	37.6	36.9	13 600	
+20	37.5	36.8	12 840	
+25	37.5	36.8	12 540	
+30	37.6	36.9	12 960	
+Iced water drunk	
+35	37.4	37.1	12 000	
+40	37.1	37.6	6000	
+45	37.2	37.4	9000	
+50	37.4	37.2	11 200	
+55	37.5	37.1	12 000	
+60	37.6	37.0	12 540	
+
+a	Suggest one way to measure the internal body temperature indirectly.																(2 marks)
+b	Explain why the internal body temperature is usually higher than the skin temperature.											(2 marks)
+c	Describe and explain the relationship between the internal body temperature and skin temperature of the man between the 30th and 40th minutes.																(6 marks)
+
+
+-- answer --
+a	Measure the oral temperature / rectal temperature / temperature of the eardrum																1m
+with a thermometer.											1m
+b	Heat is generated inside the body.								1m
+Heat is lost from the skin to the environment.						1m
+c	The skin temperature increased as the internal body temperature decreased between the 30th and 40th minutes.								1m
+The iced water cooled down the blood at the stomach wall				1m
+and caused a decrease in the internal body temperature.				1m
+The hypothalamus detected a decrease in temperature of the blood reaching the brain from the stomach wall.									1m
+The hypothalamus sent signals to the skin to reduce sweating.			1m
+There was less energy loss by the evaporation of sweat and the skin warmed up.																1m	
+---------------------------------------------------
+
+[10281017]
+// Graph interpretation // Applying concepts //
+(*	Hypothermia occurs if our body temperature falls below 35 °C. It can make a person sleepy and confused. It can also cause an irregular heartbeat leading to heart problems and death. Old people and infants are particularly at risk of hypothermia.
+a	Explain how a low body temperature makes a person sleepy and confused.															(1 mark)
+b	Why are old people and infants particularly at risk of hypothermia?																(2 marks)
+A person suffering from hypothermia can be warmed by giving the person warm air, saturated with water vapour, to inhale, or wrapping the person in blankets. The graph below shows the change in the internal body temperature of two persons suffering from hypothermia when they are treated by the two methods.
+	
+
+c	Explain why inhaling warm air, saturated with water vapour, can help warm a person suffering from hypothermia.						(3 marks)
+d	Explain why wrapping the person suffering from hypothermia in blankets leads to a fall in the internal body temperature in the first few minutes.															(4 marks)
+
+
+-- answer --
+a	A low body temperature slows down enzyme activity and hence the metabolic rate.															1m
+b	Old people are less active / have a lower metabolic rate. / The regulatory mechanisms of old people are deteriorating.						1m
+Infants have a larger surface area to volume ratio. / The regulatory mechanisms of infants are not well-developed.									1m
+c	The warm air lowers the temperature gradient between the air in the lungs and the blood.													1m
+The air saturated with water vapour reduces evaporation from the lungs.	1m
+These reduce heat loss from the body.							1m
+d	The blankets reduce heat loss from the skin and the skin temperature rises.	1m
+The rise in skin temperature stimulates the thermoreceptors in the skin to send nerve impulses to the thermoregulatory centre (the heat loss centre) in the hypothalamus.												1m
+The hypothalamus then sends signals to the skin to cause erector muscles to relax and hairs to lie down / increase sweating / cause vasodilation of arterioles that supply blood to capillaries near the skin surface to promote heat loss.		1m
+More heat is lost than that is gained and a fall in the internal body temperature results.													1m	
+---------------------------------------------------
+
+
+[10281020]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows the regulation of body temperature by the thermoregulatory centre.
+
+	
+
+a	What does the 'internal temperature' refer to? 				(2 marks)
+b	What does the 'external temperature' refer to? 				(1 mark)
+c	What are X and Y?										(2 marks)
+d	Is Z the heat gain centre or the heat loss centre?				(1 mark)
+e	To bring the body temperature back to normal, are heat gain and heat loss promoted or decreased in the situation shown in the flow chart?	(2 marks)
+
+
+-- answer --
+a	The 'internal temperature' refers to the temperature of the blood 			1m
+passing through X / the hypothalamus.							1m
+b	The 'external temperature' refers to the skin temperature.				1m
+c	X is the hypothalamus. 										1m
+Y is the skin. 												1m
+d	Z is the heat loss centre. 										1m
+e	Heat gain is decreased 										1m
+while heat loss is promoted.									1m	
+---------------------------------------------------
+
+[10281052]
+// Overseas exam question // Graph interpretation // Applying concepts //
+(*	The metabolism of endotherms (homoiotherms) and ectotherms (poikilotherms) is influenced by the temperature of the external environment, though in different ways. The graph below shows how the metabolic rate of both groups is influenced by changes in environmental temperature.
+
+	
+
+a	Explain why the metabolic rate of an endotherm increases as the environmental temperature falls below 20 °C.				(2 marks)
+b	Suggest explanations for the metabolic rate of an endotherm remaining steady between 25 °C and 40 °C.							(2 marks)
+c	Explain why the metabolic rate of an ectotherm increases as the environmental temperature increases.						(2 marks)
+d	At a low temperature, the metabolic rate of an endotherm is many times that of an ectotherm. Suggest one advantage and one disadvantage of this.																(2 marks)
+						   CCEA GCE (A) Biology Module 4 May 2007 Q4
+
+-- answer --
+a	The metabolic rate increases to generate more heat					1m
+to compensate for the heat loss / to maintain a stable body temperature.	1m
+b	At 25 °C to 40 °C, the body temperature can be maintained by physical means.																1m 
+The metabolic rate is at minimum. This is the metabolic rate needed to maintain the basal activity of the body.									1m 
+c	The body temperature of an ectotherm increases as the environmental temperature increases.										1m
+As the body temperature increases, enzyme activity also increases.		1m
+d	Advantage:
+Endotherms remain active in very cold environments. / 
+Endotherms can colonize areas with colder climates.					1m
+Disadvantage:
+Endotherms have a high dietary requirement at low temperatures.		1m	
+---------------------------------------------------
+
+[10281056]
+// Overseas exam question // Data handling // Applying concepts //
+(*	Mammals maintain a high body temperature, generally within the range 35 to 
+40 °C, and heat is lost to the external environment by 
+˙	radiation
+˙	conduction and convection
+˙	evaporation
+The relative amount of heat loss by each of these processes changes at different environmental temperatures. The table below shows data for the percentage contribution of each of the processes to the total heat loss at three temperatures.
+
+	Percentage contribution to the total heat loss	
+Environmental
+temperature (°C)	Radiation	Conduction and
+convection	Evaporation	
+25	67	10	23	
+30	41	33	26	
+35	4	6	90	
+
+a	At which environmental temperature will the total amount of heat loss by the mammal be greatest? Explain your answer.				(2 marks) 
+b	The actual amount of heat loss by radiation was the same at each of the three environmental temperatures. Explain the differences in heat loss by radiation shown in the table.								(2 marks)
+
+c	Explain two physiological processes by which the body may lose heat at higher environmental temperatures.						(4 marks)
+						   CCEA GCE (A) Biology Module 4 May 2008 Q4
+
+-- answer --
+a	35 °C												1m
+because a large amount of heat is lost by evaporation.				1m
+OR
+25 °C												1m
+because the temperature gradient between the body and the environment is the greatest.												1m
+b	The table shows the percentages relative to the total heat loss.		1m
+At lower environmental temperatures, heat loss by other processes is reduced, therefore radiation contributes more to the total heat loss. / At higher environmental temperatures, evaporation contributes more to the total heat loss, therefore the percentage contribution by radiation is reduced.		1m
+c	Any two processes with descriptions:							2m x 2
+Vasodilation
+More blood flows near the skin surface. / More heat is lost by conduction, convection and radiation.
+Sweating
+Heat is lost by evaporation.
+Relaxation of erector muscles
+A thinner layer of air is trapped, so more heat can be lost.	
+---------------------------------------------------
+
+[10281072]
+// Applying concepts //
+(*	Amy went jogging on a hot summer day. The environmental temperature was 
+40 °C and the relative humidity was 60%. 
+a	Amy's body temperature increased slightly during jogging. Explain why.															(2 marks)
+b	Describe the main way by which Amy's body lost heat in order to prevent the body temperature from rising too much during jogging. Explain briefly. 														(4 marks)
+c	If the relative humidity increased to 90%, the risk that Amy suffers from heatstroke would be much higher. Explain why.				(4 marks)
+
+-- answer --
+a	During jogging, muscle contraction generated heat. 					1m
+The amount of heat produced was greater than the amount of heat loss, so her body temperature increased.									1m
+b	Amy's body lost heat mainly by evaporation of sweat. 					1m
+As the environmental temperature was higher than the body temperature, 	1m
+heat could not be lost by conduction, convection and radiation. 			1m 
+Evaporation of sweat absorbed heat from the body surface. 			1m
+c	Sweat could not evaporate effectively due to the high relative humidity. 	1m
+The amount of heat loss by evaporation of sweat would decrease. 		1m
+The amount of heat gain would be larger than the amount of heat loss, so the body temperature would rise.										1m
+Heatstroke would result if the body temperature became too high. 		1m	
+---------------------------------------------------
+
+[10281078]
+// Schematic diagram // Applying concepts //
+(*	The diagrams below show the changes in the skin when a person goes from indoors to outdoors on a hot summer day.
+	
+
+a	i	Describe and explain two ways, shown in the diagrams, the skin helps keep the body temperature stable when the person goes outdoors.															(4 marks)	
+ii	What happens to the hairs of the skin when the person goes outdoors? Explain how this response helps keep the body temperature stable. 														(2 marks)
+b	The thermoregulatory centre in the brain initiates the responses of the skin in the answer to a.
+i	State the location of the thermoregulatory centre in the brain.															(1 mark)
+ii	Describe how the responses are initiated.				(3 marks)
+-- answer --
+a	i	Sweating increases. / The sweat glands secrete more sweat.		1m
+The evaporation of more sweat absorbs more heat from the body surface so more heat is lost to the surroundings.							1m
+Vasodilation occurs. / Arterioles in the skin dilate.					1m
+More blood flows to the capillaries near the skin surface and more heat is lost from the skin to the surroundings by conduction, convection and radiation.															1m
+ii	Hairs lie flat.											1m
+This traps a thinner layer of still air close to the skin surface. Heat is lost more quickly from the body to the surroundings by conduction and convection as a result. 												1m
+b	i	Hypothalamus											1m
+ii	Thermoreceptors in the skin detect a rise in skin temperature. / Thermoreceptors in the hypothalamus detect a rise in blood temperature.															1m
+The heat loss centre of the thermoregulatory centre is stimulated.		1m
+It sends nerve impulses to initiate the responses. 				1m	
+---------------------------------------------------
+
+[10281097]
+// Photomicrograph //
+(*	The photomicrograph below shows the longitudinal section of human skin.
+	
+a	Name structures P, Q, R, S, and layers X and Y.				(6 marks)
+b	Describe how structures P and R help regulate the body temperature under cold and hot conditions.									(4 marks)
+
+-- answer --
+a	P: erector muscle											1m
+Q: sebaceous gland											1m
+R: hair 													1m
+S: hair follicle												1m
+X: epidermis												1m
+Y: dermis													1m
+b	Under cold conditions, P contracts to pull R upright. 					1m
+This traps a thicker layer of still air close to the skin surface to reduce heat loss to the surroundings by conduction and convection. 						1m
+Under hot conditions, P relaxes and R lies flat. 						1m
+This traps a thinner layer of still air close to the skin surface. Heat is lost to the surroundings by conduction and convection more quickly. 				1m	
+---------------------------------------------------
+
+[10281100]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a section of human skin.
+	
+
+a	Name structures W, X and Y.								(3 marks) 
+b	How do structures W, X and Y help regulate body temperature when we feel
+i	cold? 											(4 marks) 
+ii	hot?												(4 marks) 
+c	State one function of structure Z.							(1 mark) 
+
+-- answer --
+a	W: sweat gland												1m
+X: hair													1m
+Y: erector muscle											1m
+b	i	Y contracts to pull X upright.								1m
+This traps a thicker layer of still air close to the skin surface to reduce heat loss to the surroundings by conduction and convection.			1m
+W secretes less sweat.									1m
+This reduces heat loss by evaporation.						1m
+ii	Y relaxes and X lies flat.									1m
+This traps a thinner layer of still air close to the skin surface, thus heat is lost more quickly from the body to the surroundings by conduction and convection.											1m
+W secretes more sweat.									1m
+Evaporation of more sweat absorbs more heat from the body surface.	1m
+c	Z insulates the body to reduce heat loss. /
+Z acts as an energy reserve.									1m	
+---------------------------------------------------
+
+[10281107]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows how the body temperature is regulated by the nervous system under cold conditions.
+	
+a	Where are the thermoreceptors located in the body?			(2 marks)
+b	Which part of the brain controls all the mechanisms of body temperature regulation?											(1 mark)
+c	Describe two responses made by the skin under cold conditions.	(2 marks)
+d	Cerebrum of the brain also plays an important role in body temperature regulation.
+i	What is the difference between the responses initiated by the cerebrum and the responses in the answer to c in nature?			(1 mark)
+ii	Give two responses that can be initiated by the cerebrum under cold conditions as examples.								(2 marks)
+e	The endocrine system is also involved in long-term regulation of body temperature. Name one hormone involved and state how it helps regulate the body temperature.									(3 marks)
+
+-- answer --
+a	In the skin												1m
+In the hypothalamus										1m
+b	Hypothalamus											1m
+c	Contraction of erector muscles / 
+Reduction of sweating / 
+Vasoconstriction (any 2)									1m x 2
+d	i	Responses in the answer to c are involuntary, while responses initiated by the cerebrum are voluntary.							1m
+ii	Wear more clothes / 
+Take in more warm food or drinks /
+Turn on the heater / 
+Hold a hand warmer /
+Curl up (any 2 or other correct answers)					1m x 2
+
+e	Thyroxine												1m
+More thyroxine is secreted by the thyroid gland when humans are exposed to low temperatures for a long time.								1m
+Thyroxine increases the metabolic rate of body cells so that more heat is generated to keep the body warm.							1m	
+---------------------------------------------------
+
+[10281120]
+// Communication //
+(*	Prolonged exposure to very cold temperatures or very hot temperatures can be harmful. Hypothermia occurs when the body temperature falls below 35 °C and heatstroke occurs when the body temperature rises to 41 °C or above. 
+a	Why is it dangerous when the body temperature falls or rises too much? 															(2 marks) 
+b	Describe two ways in which skin reduces heat loss to prevent the body temperature from falling too much under cold conditions.		(4 marks)
+c	Describe two ways in which skin promotes heat loss to prevent the body temperature from rising too much under hot conditions.		(4 marks)
+
+-- answer --
+a	Metabolic activities in humans are controlled by enzymes 			1m
+which only work efficiently within a narrow range of temperatures.		1m
+b	Under cold conditions, the arterioles in the skin constrict / vasoconstriction occurs. Less blood flows to the capillaries near the skin surface. This reduces heat loss from the skin to the surroundings by conduction, convection and radiation. /
+Sweating reduces so that less heat is lost by evaporation of sweat. /
+Erector muscles contract to pull hairs upright. This traps a thicker layer of still air close to the skin surface. Heat loss to the surroundings by conduction
+and convection is reduced. 
+(any 2)												2m x 2
+c	Under hot conditions, the arterioles in the skin dilate / vasodilation occurs. More blood flows to the capillaries near the skin surface. This increases heat loss from the skin to the surroundings by conduction, convection and radiation. /
+Sweating increases so that more heat is lost by evaporation of sweat. /
+Erector muscles relax and hairs lie flat. This traps a thinner layer of still air close to the skin surface. Heat is lost more quickly to the surroundings by conduction
+and convection.
+(any 2)												2m x 2	
+---------------------------------------------------
+
+[10281131]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of human skin.
+	
+
+
+a	State which layer of the skin, P, Q, R, S or T, 
+i	contains actively dividing cells.						(1 mark)
+ii	consists of dead cells.								(1 mark)
+iii	contains cells that can produce vitamin D.				(1 mark)
+iv	brings about a long-term response to the change in environmental temperature.										(1 mark)
+b	i	Name the secretions from structures X and Y.			(2 marks)
+ii	Give one function of each secretion stated in b i.			(2 marks)
+-- answer --
+a	i	R													1m
+ii	P													1m
+iii	R													1m
+iv	T													1m
+b	i	Secretion from X: sebum									1m
+Secretion from Y: sweat									1m
+ii	Secretion from X: 
+It keeps the skin and hair supple. / 
+It waterproofs hairs and the skin. / 
+It acts as a natural antiseptic which suppresses the growth of microorganisms on the skin.								1m
+Secretion from Y:
+It absorbs heat from the body surface when it evaporates. / 
+It removes metabolic waste from the body.						1m	
+---------------------------------------------------
+
+[10281142]
+// Data handling // Applying concepts //
+(*	A student did exercise on two hot summer days.
+a	State two reasons to explain why heat loss by radiation increases during exercise.												(2 marks)
+b	The table below shows the temperature, relative humidity and wind speed of the two days. 
+	Temperature 
+(°C)	Relative humidity (%)	Wind speed (km/h)	
+Day 1	38	50	5	
+Day 2	38	88	5	
+
+
+i	What was the main way of heat loss on day 1? Explain briefly.															(3 marks)
+ii	Hence explain why drinking plenty of water is important when doing exercise on hot summer days.							(2 marks)
+iii	Explain why heatstroke is more likely to occur on day 2.	(3 marks)
+
+-- answer --
+a	Vasodilation occurs at the arterioles. More blood flows to the capillaries near the skin surface.												1m
+As body temperature increases during exercise, temperature gradient between the body and the environment increases.								1m
+b	i	Heat was mainly lost by evaporation of sweat.					1m
+On day 1, the environmental temperature was higher than the body temperature. The body could not lose heat effectively by radiation.	1m
+The wind speed was also low, so the body could not lose heat effectively by convection.											1m
+ii	Drinking plenty of water allows sweat to be produced continuously.	1m
+Thus the body can be cooled down by evaporation of sweat.		1m
+iii	The relative humidity is higher on day 2.						1m
+The sweat secreted cannot evaporate quickly. 					1m
+Heat produced during exercise cannot be lost effectively by evaporation of sweat. The body temperature may become too high.				1m	
+---------------------------------------------------
+
+[10281163]
+// Graph interpretation // Communication //
+(*	The graph below shows the rate of blood flow in the capillaries near the skin surface at different environmental temperatures.
+	
+
+a	Describe the response of the skin that increases the rate of blood flow in the capillaries when the environmental temperature is above 30 °C.	(2 marks)
+b	What is the significance of this response to the body?			(2 marks)
+c	Body temperature regulation is under the nervous control of the body. Describe the nervous pathway that leads to the response in the answer to a.															(4 marks)
+
+-- answer --
+a	The arterioles in the skin dilate / vasodilation occurs at the arterioles.		1m
+Less blood flows through the shunt vessels and more blood flows to the capillaries.															1m
+b	As more blood flows near the skin surface,							1m
+more heat can be lost to the surroundings by conduction, convection and radiation.											 				1m
+c	A rise in blood temperature is detected by thermoreceptors in the hypothalamus. A rise in skin temperature is detected by thermoreceptors in the skin. 		1m	
+The thermoreceptors send nerve impulses to the thermoregulatory centre in the hypothalamus.												1m
+The heat loss centre of the thermoregulatory centre is stimulated. 		1m
+It sends nerve impulses to the muscles on the wall of arterioles in the skin to initiate vasodilation.											1m	
+---------------------------------------------------
+
+[10281170]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Hypothermia is a condition in which the body temperature of the patient falls below 35 °C. The signs include shivering, pale skin, slow breath and heart rate, and loss of coordination. To prevent hypothermia, we should wear enough clothes, take in enough food, keep away from windy places, keep our body dry, and never drink alcoholic drinks under cold conditions.	
+
+a	Why does the skin look pale when the body temperature is low?	(2 marks)
+b	What is the importance of shivering when the body temperature is low?															(1 mark)
+c	Explain why we should do the following to prevent hypothermia.
+i	Keep away from windy places.						(1 mark)
+ii	Keep our body dry.									(1 mark)
+d	Alcohol can cause dilation of blood vessels. Explain why drinking alcoholic drinks will increase the risk of hypothermia.					(3 marks)
+
+-- answer --
+a	The arterioles in the skin constrict. / Vasoconstriction occurs at the arterioles.																1m
+Less blood flows to the capillaries near the skin surface, thus the skin looks pale.																1m
+b	Shivering generates more heat to keep the body warm.				1m
+c	i	Wind can speed up heat loss from the body by convection.			1m
+ii	Evaporation of water from the skin absorbs heat from the body surface.															1m
+d	Alcohol in alcoholic drinks can cause dilation of arterioles in the skin.		1m
+More blood flows to the capillaries near the skin surface.				1m
+More heat is lost from the blood to the environment by conduction, convection and radiation.													1m	
+---------------------------------------------------
+

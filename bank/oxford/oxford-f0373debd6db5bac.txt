@@ -1,0 +1,1146 @@
+Chapter 18		Homeostasis
+
+Multiple-choice questions
+
+[10270633]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the regulation of blood glucose level in the human body.
+	
+	In the regulation of blood glucose level, does organ X act as the receptor, the control centre or the effector?
+A	the receptor and the control centre only
+B	the receptor and the effector only
+C	the control centre and the effector only
+D	the receptor, the control centre and the effector
+A	
+---------------------------------------------------
+
+[10270636]
+// Schematic diagram // Applying concepts //
+*	Which of the following comparisons of substances P and Q is/are incorrect?
+(1)	Both substances P and Q are enzymes.
+(2)	Both substances P and Q are released through ducts.
+(3)	Substances P and Q produce the same effect.
+A	(3) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10270637]
+// Graph interpretation // Basic concepts //
+	Which of the following graphs shows the changes in a parameter of the internal environment controlled by a negative feedback mechanism?
+	A		B	
+		
+	C	
+		D		
+		
+
+B	
+---------------------------------------------------
+
+[10270641]
+// High order thinking // Schematic diagram //
+*	The flow chart below shows the interactions between two glands and the hormones they secrete.
+	
+	The secretion of hormone N is controlled by a negative feedback mechanism when arrows (1), (2) and (3) represent
+
+		(1)				(2)				(3)
+A	stimulation		stimulation		inhibition
+	B	stimulation		inhibition			stimulation
+C	inhibition			stimulation		inhibition
+D	inhibition			inhibition			stimulation
+C	
+---------------------------------------------------
+
+[10270657]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows part of the negative feedback mechanism that regulates water content in blood in humans.
+	
+	Which of the following statements about hormone Y is incorrect?
+A	Hormone Y is a chemical messenger.
+B	Hormone Y is the effector in this mechanism.
+C	Hormone Y acts on kidney cells.
+D	The production of more hormone Y helps increase the water content in blood.
+B	
+---------------------------------------------------
+
+[10270680]
+// Schematic diagram // Applying concepts //
+*	If the water content in blood increases, the kidney will produce
+A	even more hormone Y.
+B	less hormone Y.
+C	an even smaller volume of concentrated urine. 
+D	a larger volume of dilute urine.
+D	
+---------------------------------------------------
+
+[10270681]
+// Basic concepts //
+*	Which of the following must be involved in a negative feedback mechanism?
+	(1)	receptors
+	(2)	the nervous system
+	(3)	effectors
+	A	(1) only					
+	B	(1) and (3) only
+	C	(2) and (3) only			
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10270694]
+// Basic concepts //
+	The chemoreceptors responsible for detecting changes in blood glucose level in our body are present in
+	A	the brain.					
+	B	the liver.
+	C	the hepatic portal vein.		
+	D	the pancreas.
+D	
+---------------------------------------------------
+
+
+[10270699]
+// Basic concepts //
+	Which of the following is/are the homeostatic response(s) of a non-diabetic person when his/her body detects a rise in the blood glucose level above the normal level?
+	(1)	excretes glucose in urine
+	(2)	stops eating sugary food
+	(3)	produces more insulin
+	A	(3) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10270734]
+// Cross-topic // Comparison //
+*	Which of the following comparisons between amylase and glucagon is incorrect? 
+	Amylase						Glucagon
+A	produced by exocrine glands		produced by endocrine glands
+	B	released through ducts			diffuses directly into blood after release
+C	catalyses the conversion of		catalyses the conversion of
+	starch into maltose				glycogen into glucose
+	D	protein in nature				protein in nature
+C	
+---------------------------------------------------
+
+[10270749]
+// Basic concepts //
+	Some diabetics cannot produce insulin in their body. They need regular injections of insulin to 
+A	stimulate the production of glucagon.
+B	increase the sensitivity of their liver cells to glucose.
+C	raise their blood glucose level.
+D	lower their blood glucose level.
+D	
+---------------------------------------------------
+
+
+[10270755]
+// Basic concepts //
+	Under which of the following conditions would the secretion of glucagon in the body increase? 
+A	after fasting overnight
+	B	when the body is at rest
+C	when the body fails to reabsorb all glucose
+	D	when the water potential of blood decreases
+A	
+---------------------------------------------------
+
+[10270763]
+// Basic concepts //
+Which of the following is/are parameter(s) of the internal environment in humans?
+	(1)	water potential of the blood
+	(2)	blood pressure
+	(3)	skin temperature	
+	A	(1) only
+	B	(2) only
+	C	(1) and (2) only
+	D	(1), (2) and (3)	
+C	
+---------------------------------------------------
+
+[10270767]
+// Basic concepts //
+	Which part(s) of our body is/are responsible for regulating our body temperature?
+	(1)	the tongue
+	(2)	the lungs
+	(3)	the skin
+	A	(1) only
+	B	(3) only
+	C	(1) and (3) only
+	D	(1), (2) and (3)	
+B	
+---------------------------------------------------
+
+[10270774]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the urinary system in humans.
+	
+
+	Which structure(s) is/are responsible for regulating the water content in blood?
+	A	P only
+	B	P and R only
+	C	Q and R only	
+	D	P, Q, R and S
+A	
+---------------------------------------------------
+
+[10270790]
+// Basic concepts //
+Maintaining a stable water content in blood is important because
+(1)	body cells will become flaccid if they lose too much water.
+(2)	a stable concentration of ions in blood is required for cells to function properly.
+	(3)	water is required in some metabolic reactions.
+	A	(3) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)	
+C	
+---------------------------------------------------
+
+[10270801]
+// Applying concepts //
+*	Which of the following is brought about by negative feedback mechanism?
+A	When we enter a bright room from a dark room, the pupil constricts.
+B	During labour, uterine muscles contract more and more strongly to expel the foetus out of the mother's body.
+C	When there is an increase in the concentration of carbon dioxide in blood, the rate of contraction of the intercostal muscles increases.
+	D	The hand touches a sharp pin accidentally and withdraws immediately.
+C	
+---------------------------------------------------
+
+[10270805]
+// Applying concepts //
+*	The operation of the thermostat in an iron can be taken as an analogy of the negative feedback mechanism. 
+
+Which of the following correctly shows the component of the negative feedback mechanism that different parts of the iron represent?
+		Thermostat of the iron			Heating system of the iron
+	A	receptor, effector				control centre	
+	B	control centre					receptor, effector
+	C	control centre, effector			receptor		
+	D	receptor, control centre			effector
+D	
+---------------------------------------------------
+
+[10270807]
+// Graph interpretation // Applying concepts //
+*	Hormones P and Q are involved in the regulation of blood glucose level. The graph below shows the changes in the rate of secretion of hormones P and Q at different blood glucose levels.
+	
+	What are the roles of hormones P and Q?
+	Hormone P	Hormone Q	
+A	decreasing blood glucose level	increasing blood glucose level	
+B	increasing blood glucose level	decreasing blood glucose level	
+C	decreasing blood glucose level	decreasing blood glucose level	
+D	increasing blood glucose level	increasing blood glucose level	
+
+B	
+---------------------------------------------------
+
+
+[10270812]
+// Applying concepts //
+*	Which of the following statements about the hormones involved in the regulation of blood glucose level are correct?
+	(1)	They are released from the same organ.
+	(2)	They both act on liver.
+(3)	They are produced only when there is a change in blood glucose level.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)	
+A	
+---------------------------------------------------
+
+[10270827]
+// Graph interpretation //
+*	The graph below shows the blood glucose concentration of Tom before and after he has swallowed 50 g of glucose.
+	
+
+	How long did it take for his blood glucose concentration to rise to its maximum after the intake of glucose?
+	A	1 hour			
+	B	2 hours
+	C	3 hours			
+	D	4 hours
+A	
+---------------------------------------------------
+
+[10270837]
+// Graph interpretation // Basic concepts //
+	The graph below shows the blood glucose concentration of Joe before and after he has swallowed 50 g of glucose.
+	
+
+	Joe is a healthy person. When his blood glucose concentration rose above 
+normal, the pancreas produced
+	A	less insulin but more glucagon.
+	B	less insulin and less glucagon.
+	C	more insulin but less glucagon.
+	D	more insulin and more glucagon.
+C	
+---------------------------------------------------
+
+
+[10270842]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the blood glucose level of a person after having a meal. 
+	
+During which of the following periods of time is the amount of glucagon produced by the pancreas of this person the largest?
+A	12:00-13:00
+B	13:00-14:00
+C	14:00-15:00
+D	15:00-16:00
+B	
+---------------------------------------------------
+
+[10270848]
+// Basic concepts //
+	Which of the following correctly shows the responses of our body when the blood glucose level decreases?
+	Amount of insulin produced	Amount of glycogen stored in liver	
+A	decreases	decreases	
+B	decreases	increases	
+C	increases	decreases	
+D	increases	increases	
+
+A	
+---------------------------------------------------
+
+[10270851]
+// Basic concepts //
+	Which of the following actions will cause the pancreas to produce a larger amount of glucagon?
+(1)	fasting
+(2)	having a meal rich in starch
+(3)	doing physical exercise
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10270854]
+// Basic concepts //
+	Which of the following parameters in our body should be kept stable?
+(1)	amount of glycogen in the liver
+(2)	gas content in blood
+(3)	water content in tissue fluid
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10270858]
+// Basic concepts //
+	Which of the following statements about homeostasis in humans is correct?
+A	Homeostasis is brought about by reflex actions.
+B	Homeostasis is the control of the blood glucose level.
+C	Homeostasis is the maintenance of a stable internal environment.
+D	Homeostasis involves only the endocrine system.
+C	
+---------------------------------------------------
+
+[10270859]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the flow chart below, which shows how organ X is involved in the regulation of gas content in blood.
+
+	
+
+Which of the following statements about the regulation of gas content in blood is/are correct?
+(1)	Process P is breathing.
+(2)	Process Q involves diffusion and active transport.
+(3)	Organ X is the lungs.
+A	(2) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10270913]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	What is the importance of regulating gas content in blood?
+(1)	To maintain a stable pH for the enzymes to work efficiently.
+(2)	To provide sufficient oxygen to the cells for respiration.
+(3)	To keep a stable water potential in the cells.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10270914]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows some organs in the body of a person.
+
+	
+
+Which of the following correctly shows the roles of organs P and Q when the blood glucose level of the person is lower than normal?
+P								Q
+A	converts more glucose to glycogen 	produces more insulin
+B	converts more glucose to glycogen 	produces more glucagon 
+C	converts more glycogen to glucose 	produces more insulin
+D	converts more glycogen to glucose 	produces more glucagon
+D	
+---------------------------------------------------
+
+[10270931]
+// Schematic diagram // Applying concepts //
+*	When the blood glucose level is too high, organ Q lowers the blood glucose level by
+(1)	catalysing the conversion of glucose into glycogen.
+(2)	promoting the uptake and consuming of glucose in body cells.
+(3)	slowing down the absorption of glucose in the ileum.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10270952]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in the glucose level in the urine of a person suffering from a certain disease.
+	
+Which of the following statements about the disease is incorrect?
+A	This patient is suffering from diabetes mellitus.
+B	The disease is caused by malfunctions of the urinary bladder.
+C	The gradual decrease after the peak is due to a decrease in blood glucose level. 
+D	The disease may be controlled by injection of insulin.
+B	
+---------------------------------------------------
+
+[10270978]
+// Graph interpretation // Applying concepts //
+*	Directions: The following three questions refer to the graph below, which shows the concentration of substance X in the blood of a person in 5 hours. During this period, the person only drank a can of soft drink.
+	
+What is substance X?
+A	insulin					B	glucagon
+C	carbohydrase				D	glycogen
+A	
+---------------------------------------------------
+
+[10270984]
+// Graph interpretation // Applying concepts //
+*	At what time did the person drink the can of soft drink?
+A	12:30			B	13:00
+C	13:30			D	14:00
+A	
+---------------------------------------------------
+
+[10270990]
+// Graph interpretation // Applying concepts //
+*	Which of the following graphs shows the change in the blood glucose level of the person in the same period of time?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10271021]
+// Basic concepts //
+	What is/are the role(s) of the pancreas in the regulation of blood glucose level?
+(1)	receptor
+(2)	control centre
+(3)	effector
+A	(3) only			B	(1) and (2) only
+C	(2) and (3) only	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10271035]
+// Schematic diagram // Applying concepts //
+*	Directions: The following three questions refer to the diagram below, which shows some organs in humans.
+
+	
+
+In homeostasis, cells of organ P 
+A	convert glycogen to glucose when there is a decrease in the level of glucagon.
+B	convert glucose to glycogen when there is a decrease in the level of insulin.
+C	store more glycogen when there is an increase in the level of insulin.
+D	store less glucose when there is a decrease in the level of glucagon.
+C	
+---------------------------------------------------
+
+[10271060]
+// Schematic diagram // Applying concepts //
+*	Which of the following happen if organ Q of a man is removed?
+(1)	Glucose is present in his urine.
+(2)	His blood glucose level remains low after he has a carbohydrate-rich meal.
+(3)	The fluctuation of his blood glucose level is much greater than normal.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10271062]
+// Schematic diagram // Applying concepts //
+*	Which of the following is regulated by organ R?
+A	oxygen concentration in blood
+B	plasma protein level in blood 
+C	blood glucose level
+D	water content in blood
+D	
+---------------------------------------------------
+
+[10271063]
+// Basic concepts //
+	Which of the following organs is/are involved in the regulation of blood glucose level in humans?
+(1)	liver
+(2)	pancreas
+(3)	spleen
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10271067]
+// Basic concepts //
+	Which of the following statements about homeostasis is correct?
+A	Homeostasis is the process by which organisms maintain their body temperature.
+B	Homeostasis is the process by which organisms maintain a stable internal and external environment. 
+C	Homeostasis is the process by which organisms maintain a stable external environment.
+D	Homeostasis is the process by which organisms maintain a stable internal environment.
+D	
+---------------------------------------------------
+
+[10271070]
+// Basic concepts //
+	Insulin promotes the uptake of glucose into body cells, resulting in
+A	the breakdown of glycogen.
+B	an increase in blood glucose level.
+C	a decrease in blood glucose level.
+D	an increase in insulin production.
+C	
+---------------------------------------------------
+
+[10271085]
+// Basic concepts //
+	Which of the following are examples of homeostasis in humans?
+(1)	regulation of water potential of tissue fluid by the kidneys 
+(2)	regulation of blood glucose level by the pancreas
+(3)	regulation of body temperature by the skin
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10271092]
+// Basic concepts //
+*	Which of the following is/are the response(s) to an increase in blood glucose level?
+(1)	More glucose is converted to glycogen.
+(2)	The liver produces more insulin.
+(3)	More glucagon is produced. 
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10271110]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the blood glucose level of a diabetic patient in a period of time.
+
+	
+
+Which of the following correctly identifies P and Q?
+P				Q
+A	carbohydrates		glucagon
+B	carbohydrates		insulin
+C	vitamins			glucagon
+D	vitamins			insulin
+B	
+---------------------------------------------------
+
+[10271130]
+// Graph interpretation // Applying concepts //
+*	If too much Q is injected into the patient, which of the following will most likely happen?
+A	The patient will feel faint.
+B	More glucose will be present in the urine of the patient.
+C	The patient will urinate more frequently.
+D	The body cells of the patient will lose water. 
+A	
+---------------------------------------------------
+
+[10271131]
+// Graph interpretation // Basic concepts //
+	Which of the following graphs shows the change in a parameter being controlled by negative feedback mechanism?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10271134]
+// Basic concepts //
+	Which of the following statements best describes the negative feedback mechanism?
+A	It results in actions that increase the degree of changes.
+B	It results in actions that decrease the degree of changes.
+C	It results in actions that maintain the degree of changes.
+D	It does not result in any actions in response to the changes. 
+B	
+---------------------------------------------------
+
+
+Short questions
+
+[10271223]
+// Graph interpretation // Communication // Applying concepts //
+*	A man suspected of having diabetes mellitus had a glucose tolerance test. The man was given a glucose solution to drink after he has fasted for 12 hours. Then blood samples were taken at 15-minute intervals for measuring the blood glucose levels. The graph below shows the results.
+	
+a	Why was it important for the man to fast for 12 hours before the test?															(1 mark)
+b	How do the results in the graph show that the man did not have diabetes mellitus?												(1 mark)
+c	Explain how the processes in the body of the man produced the results in the graph.												(5 marks)
+
+-- answer --
+a	Glucose contained in food / from the digestion of food would affect the results.															1m
+b	The blood glucose level rose and then returned to the original level in a short time.														1m
+
+
+
+c	Glucose from the solution was absorbed into the blood and thus the blood glucose level rose initially.											1m
+	The pancreas detected a rise in blood glucose level					1m
+	and it produced more insulin and less glucagon.						1m
+	Insulin stimulated the liver cells and muscle cells to convert the excess glucose to glycogen. 													1m
+	Insulin also stimulated body cells to take in more glucose from the blood. Thus the blood glucose level returned to the original level.						1m	
+---------------------------------------------------
+
+[10271262]
+// Data handling // Experiment // Applying concepts //
+*	In an experiment, 6 non-diabetic men of different ages fasted overnight. The blood glucose level of each man was measured the next morning and then they drank a concentrated glucose solution. 30 minutes later, when all the glucose was absorbed into the bloodstream, their blood glucose levels were measured again. The measurement was repeated at 120 minutes after drinking the solution. The table below shows the results.
+Age (year)	Blood glucose level (mg / 100 cm3)	
+	Before drinking	30 minutes after drinking	120 minutes after drinking	
+30	92	140	100	
+40	94	142	103	
+50	95	141	105	
+60	93	143	109	
+70	90	144	115	
+80	90	142	124	
+a	Why did the men in the experiment need to fast overnight?		(1 mark)
+b	Using information from the table, state the effect of age on the rate of decrease in blood glucose level. 							(2 marks)
+c	Suggest two explanations for the effect answered in b.			(2 marks)
+
+-- answer --
+	a	To ensure that the increase in blood glucose is due to the concentrated 				glucose solution only.											1m
+	b	As the age increases, the rate of decrease in blood glucose level becomes 				lower.													1m
+		At the age of 30 and 80, the rates are 0.4 mg and 0.2 mg of glucose in 				100 cm3 of blood per minute respectively. 							1m
+	c	Decrease in insulin production by the pancreas						1m
+		Decrease in sensitivity of liver cells / body cells to insulin				1m	
+---------------------------------------------------
+
+[10271263]
+// Graph interpretation // Experiment // Applying concepts //
+*	Two types of insulin injections are available for diabetics to control their blood glucose level. One of the types, P, is injected once a day. The other type, Q, is usually injected at each mealtime. In an experiment, the two types of insulin were injected into a diabetic at the same time, and the concentration of each type of insulin in her blood was recorded during the next 24 hours. The graph below shows the results.
+	
+a	Why is it important to control the blood glucose level?			(2 marks)
+b	Give three differences in the changes in concentration of each type of insulin during the 24 hours.								(3 marks)
+c	Explain why diabetics are advised to inject both types of insulin.	(2 marks)
+
+-- answer --
+a	To keep the blood glucose level stable so that sufficient glucose can be supplied to cells for respiration										1m
+	and the water potential in blood can be kept stable.				1m
+b	The increase in the concentration of type Q insulin was faster than that of type P insulin. / 
+	The concentration of type Q insulin reaches the maximum sooner than that of type P insulin. / 
+	The decrease in the concentration of type Q insulin was faster than that of type P insulin. / 
+	Type Q insulin was present in the blood for a shorter period of time than type P insulin.
+	(any 3)												1m ( 3
+c	Type Q insulin can lower the very high levels of blood glucose immediately after meals.												1m
+	Type P insulin can lower the blood glucose levels between meals / at night when the blood glucose levels are not very high.						1m	
+---------------------------------------------------
+
+[10271271]
+// Reading comprehension // Applying concepts //
+*	Read the article below and answer the questions.
+Some women develop a type of diabetes called gestational diabetes during pregnancy. This type of diabetes usually occurs at about the 24th week of pregnancy and disappears after the baby is born. The human placental lactogen and some other hormones produced by the placenta can block the effects of insulin. Gestational diabetes develops if the body cannot produce enough insulin to counter this effect. If the blood glucose level of the mother is not controlled, the foetus may grow too large and birth may become difficult. 	
+	
+a	Describe and explain the effects of the human placental lactogen on the blood glucose level of pregnant women.					(3 marks)
+b	Why is the baby born from a mother with gestational diabetes usually large?														(1 mark)
+c	Suggest one way for the control of blood glucose level in a mother with gestational diabetes.									(1 mark)
+
+-- answer --
+a	Human placental lactogen decreases the sensitivity of liver cells, muscle cells and other body cells to insulin.										1m
+	Less glucose is converted to glycogen in liver cells and muscle cells. / Less glucose is taken into body cells and broken down.					1m
+		The blood glucose level becomes very high, especially after a meal.		1m
+	b	More glucose is supplied to the foetus for growth as the maternal blood 				glucose level is high. 										1m
+	c	Have low-sugar diets. /
+		Inject insulin into the body. /
+		Exercise regularly.											1m	
+---------------------------------------------------
+
+[10271274]
+// Basic concepts //
+	State the importance of homeostasis using body temperature as an example.																(2 marks)
+
+-- answer --
+	Enzymes work within a narrow range of temperatures.						1m
+	Maintaining a stable body temperature can keep the enzyme activity and hence the 	metabolic rate steady.											1m	
+---------------------------------------------------
+
+[10271284]
+// High order thinking // Applying concepts //
+**	Mary felt dizzy after having a big meal. She went to see a doctor.
+The doctor found that a tumour developed in the pancreas of Mary due to uncontrolled division of the cells. The doctor advised Mary to undergo a surgery to remove the affected part of the pancreas. After the surgery, Mary has to reduce the amount of food taken in each meal.
+a	Why did Mary feel dizzy after having a big meal?				(3 marks)
+b	Explain why Mary has to reduce the amount of food taken in each meal after the surgery.										(2 marks)
+-- answer --
+a	The blood glucose level of Mary increased after she had the big meal. This stimulated the pancreas to produce more insulin.						1m
+The number of insulin-secreting cells in her pancreas had increased due to uncontrolled cell division. Thus, the amount of insulin produced was larger than the normal amount.												1m
+The large amount of insulin caused her blood glucose level to fall to an abnormally low level. Her brain therefore could not obtain enough glucose for metabolism and thus Mary felt dizzy.											1m
+b	After the surgery, Mary's pancreas may not produce enough insulin when her blood glucose level is too high. 									1m
+Having small meals can prevent too much glucose from absorbing into the blood. This helps prevent her blood glucose level from rising too much.			1m	
+---------------------------------------------------
+
+[10271292]
+// Schematic diagram // Basic concepts //
+	The diagram below shows two fluids, X and Y, in the human body.
+	
+
+a	Name X and Y.										(2 marks)
+b	Explain why the water potential of X has to keep fairly constant.																(4 marks)
+
+-- answer --
+a	X: blood													1m
+Y: tissue fluid												1m
+b	The water potential of X (blood) affects the water potential of Y (tissue fluid).																1m
+If the water potential of Y is different from that of the cells, water will enter or leave the cells by osmosis.											2m
+If too much water is gained or lost, the cells cannot function properly and may even die.														1m	
+---------------------------------------------------
+
+[10271294]
+// Schematic diagram // Applying concepts //
+*	The flow chart below shows how the kidneys regulate the water content in blood.
+	
+
+
+a	Explain why regulating the water content in blood by the kidneys is an example of negative feedback mechanism.					(2 marks)
+b	State the receptor and effector in the regulation of the water content in 
+blood.												(2 marks)
+
+-- answer --
+a	It is because the change in the parameter (the increase in water content in blood) results in a response that has an opposite effect to the change in the parameter (more water enters the urine in the kidneys, causing a decrease in water content), so that the level of the parameter is restored to normal.				2m
+b	Receptor: hypothalamus										1m
+Effector: kidneys											1m	
+---------------------------------------------------
+
+[10271355]
+// Graph interpretation // Communication //
+*	The graph below shows the changes in the blood glucose level of a person who has been fasting for a period of time.
+	
+
+Explain how a stable blood glucose level is maintained by negative feedback mechanism during fasting.									(6 marks)
+
+-- answer --
+The changes in blood glucose level are detected by the pancreas. 			1m
+When the blood glucose level falls, more glucagon is produced by the pancreas to increase the blood glucose level. 									1m
+Glucagon stimulates the liver cells and muscle cells to convert the stored glycogen to glucose. More glucose is released into the blood. 						1m
+When the blood glucose level rises, more insulin is produced by the pancreas to decrease the blood glucose level.									1m
+Insulin stimulates the liver cells and muscle cells to convert more glucose to glycogen for storage.													1m
+Insulin also stimulates body cells to take in more glucose from the blood.		1m	
+---------------------------------------------------
+
+[10271356]
+// High order thinking // Schematic diagram // Applying concepts //
+**	The diagram below shows how the secretion of hormone X is regulated in humans.
+	
+
+a	Name the type of mechanism that regulates the secretion of hormone X.														(1 mark)
+b	Name the three components in the named mechanism.			(3 marks)
+c	Describe how the mechanism can increase the level of hormone X in blood when the level of hormone X in blood is low.				(3 marks)
+
+-- answer --
+a	Negative feedback mechanism									1m
+b	Receptor													1m
+Control centre												1m
+Effector													1m
+c	When the level of hormone X is low, its inhibitory effects on the brain and the gland in the brain decrease.										1m
+More hormones are secreted by them.							1m
+These hormones finally stimulate the secretion of hormone X from the gland in the neck and hence the level of hormone X increases.					1m	
+---------------------------------------------------
+
+[10271358]
+// Cross-topic // Data handling // Communication // Applying concepts //
+*	In an investigation, the blood flow in the hepatic artery of a mouse was prevented by blocking the artery.
+The blood glucose levels in the hepatic portal vein and hepatic vein were then measured at 10-minute intervals. Insulin was injected into the mouse at the 25th minute. The results are shown below.
+Time (minute)	Blood glucose level (arbitrary unit)	
+	Hepatic portal vein	Hepatic vein	
+0	2022	2062	
+10	2034	2077	
+20	2010	2056	
+Insulin injected at the 25th minute	
+30	1500	1200	
+40	1580	1320	
+
+a	In the first 20 minutes, the blood glucose level in the hepatic vein was higher than that in the hepatic portal vein. Explain why.		(2 marks)
+b	What is the effect of insulin on the cells in the body?			(4 marks)
+c	The effect of insulin on the blood glucose level in the hepatic vein was greater than that on the blood glucose level in the hepatic portal vein. Give one explanation for it.									(1 mark)
+
+-- answer --
+a	Glucose was released from the liver into the hepatic vein.				1m
+No glucose was absorbed in the small intestine. / Some glucose was consumed by the small intestine so less glucose was present in the hepatic portal vein.	1m
+b	Insulin stimulates liver cells and muscle cells to convert excess glucose to glycogen.													1m
+The glycogen is then stored.									1m
+Insulin also stimulates body cells to take in more glucose from the blood. 	1m
+The glucose is then broken down into carbon dioxide and water in the cells.	1m
+c	Insulin acted on the liver and the hepatic vein carried blood out of the liver.	1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10271427]
+// Cross-topic // Graph interpretation // High order thinking // Communication //
+**	The control of blood glucose level in mice is similar to that in humans. A scientist measured the blood glucose levels of 10 normal mice and 10 mutated mice when they were fasting for 48 hours. The mutated mice could not convert glycogen into glucose in their liver. The graph below shows the results.
+	
+a	Briefly describe how the normal mice maintained a stable blood glucose level during the first 6 hours of fasting.						(4 marks)
+b	Explain why the blood glucose level of the mutated mice decreased during the first 6 hours of fasting.								(2 marks)
+c	The scientist found that the liver of the mutated mice was heavier than that of the normal mice after 6 hours of fasting. Suggest why.		(2 marks)
+To find out why the blood glucose level of the mutated mice was similar to that of the normal mice after 30 hours of fasting, the scientist measured the amounts of mRNA that codes for a protein called PCK1 in kidney cells and intestinal cells of the mutated mice and the normal mice. PCK1 is an enzyme involved in the synthesis of glucose. The graph below shows the results obtained.
+	
+
+d	Based on the results shown above, suggest why the blood glucose level of the mutated mice was similar to that of the normal mice after 30 hours of fasting.												(3 marks)
+
+-- answer --
+a	During fasting, the pancreas detected a decrease in blood glucose level.	1m
+	The pancreas produced more glucagon and less insulin.				1m
+	Glucagon stimulated liver cells and muscle cells to convert the stored glycogen to glucose.													1m
+	More glucose was released into the blood. As a result, the blood glucose level rose and returned to normal level.									1m
+b	The liver of the mutated mice could not convert glycogen to glucose.		1m
+	Glucose taken in from the blood by body cells for metabolism therefore could not be replenished.												1m
+c	The liver of the normal mice converted the stored glycogen to glucose. The amount of stored glycogen decreased.							1m
+	The liver of the mutated mice could not convert glycogen to glucose. The amount of stored glycogen remained unchanged. Therefore, comparatively more glycogen was present in the liver of the mutated mice after 6 hours of fasting and thus the liver was heavier.											1m
+d	The graph shows that the amounts of PCK1 mRNA in the kidney cells and intestinal cells of the mutated mice were much larger than those in the kidney cells and intestinal cells of the normal mice.							1m
+	This indicates that there might be an increase in the synthesis of PCK1 in the kidney cells and intestinal cells in the mutated mice.					1m
+	The mutated mice might have synthesized more glucose in the kidney cells and intestinal cells and released it into the blood.						1m
+Note:
+mRNA carries genetic information from the nucleus to the cytoplasm for the synthesis of proteins. A higher level of a certain mRNA in the cytoplasm is a sign of an increased production of the protein.
+
+	
+---------------------------------------------------
+
+[10271428]
+// Cross-topic // High order thinking // Schematic diagram //
+**	Hormone X is involved in the regulation of blood glucose level. It binds to a receptor protein in the cell membrane of the target cell, causing more transport protein to be placed in the cell membrane to transport glucose into the cell. The binding also leads to activation of an enzyme which catalyses the conversion of glucose into glycogen. The diagram below summarizes the action of hormone X.
+	
+a	Identify hormone X.									(1 mark)
+b	Why can only hormone X bind to the receptor protein?			(2 marks)
+c	Explain why glucose can only enter the cell through the transport protein.														(3 marks)
+d	An abnormality of the receptor protein can result in diabetes mellitus. Explain how the presence of abnormal receptor protein affects the blood glucose level after a meal.								(4 marks)
+
+
+-- answer --
+a	Insulin													1m
+b	The binding site of the receptor protein has a specific shape			1m
+	and only hormone X / insulin can fit into it.							1m
+c	The phospholipid bilayer in the cell membrane is permeable to small, non-polar molecules only.												1m
+	Glucose is a polar molecule and cannot move across the cell membrane through the phospholipid bilayer.										1m
+	The transport protein spans the cell membrane and has a water-filled channel through which glucose can pass through.							1m
+d	Hormone X / insulin cannot bind to abnormal receptor protein in the cell membrane of the target cell.											1m
+	Without the binding, only a few transport proteins are present in the cell membrane to transport glucose into the cell.									1m
+	Most glucose from the digestion of food is not taken into the cell			1m
+	and thus the blood glucose level remains high.						1m	
+---------------------------------------------------
+
+[10271430]
+// Scientific investigation // Data handling // Applying concepts //
+**	A scientist investigated the use of an amylase inhibitor in the control of blood glucose level. She divided diabetic and non-diabetic mice into three groups.
+	Group X: 10 diabetic mice were fed with food and amylase inhibitor every day
+Group Y: 10 diabetic mice were fed with food every day
+	Group Z: 10 non-diabetic mice were fed with food every day
+	The scientist measured the blood glucose level of each mouse one hour after feeding for two weeks. The table below shows the mean blood glucose levels of the three groups of mice.
+Group	Mean blood glucose level one hour after feeding (mg/100 cm3)	
+X (Diabetic mice fed with food and amylase inhibitor)	195	
+Y (Diabetic mice fed with food)	250	
+Z (Non-diabetic mice fed with food)	130	
+
+
+a	What were the purposes of using groups Y and Z?			(2 marks)
+b	Give two reasons why it was important to feed the three groups of mice with the same type and the same amount of food every day.			(2 marks)
+c	Describe and explain the effect of the amylase inhibitor on the blood glucose level.											(3 marks)	
+d	Explain why these results may not support the use of the amylase inhibitor in controlling the blood glucose level in diabetic humans.		(2 marks)
+
+-- answer --
+a	Group Y was used to show the effect of the amylase inhibitor on blood glucose levels in diabetic mice.									1m
+	Group Z was used to show the normal blood glucose level in mice one hour after feeding.												1m
+b	The type and the amount of food affects blood glucose levels.		1m
+	Feeding the three groups of mice with the same type and the same amount of food allows a valid comparison of their blood glucose levels.			1m
+c	In the presence of the amylase inhibitor, less starch is digested into maltose.
+														1m
+	Thus less maltose is available for digestion into glucose.			1m
+	Less glucose is absorbed into the blood and thus the blood glucose level is lowered.												1m
+d	Only 10 mice were used in each group and the sample size may not be large enough to be representative. /
+	The investigation only lasted for two weeks and the long-term effect of the amylase inhibitor on the blood glucose level / health was unknown. /
+	The investigation was carried out on mice. The effect in mice may be different in humans.												1m x 2
+	(any two or other reasonable answers)	
+---------------------------------------------------
+
+
+[10271461]
+// Graph interpretation // Communication // Applying concepts //
+*	An experiment was carried out to investigate how the type of bread eaten affects the rate of increase in blood glucose level. A non-diabetic person ate 100 g of wholemeal bread and the increase in his blood glucose level was measured over the next 120 minutes. The experiment was repeated with 100 g of brown bread and 100 g of white bread. The graph below shows the results.
+	
+a	Describe and explain the changes in the blood glucose level of the person when he ate the wholemeal bread.							(5 marks)
+b	Which type of bread is most suitable for a diabetic? Explain your choice.															(3 marks)
+
+-- answer --
+a	The blood glucose level started to increase 12 minutes after the consumption of the wholemeal bread										1m
+as the bread was digested and glucose was absorbed into the blood.	1m
+The blood glucose level began to fall 50 minutes after the consumption of the wholemeal bread										1m
+as more insulin and less glucagon were produced.				1m
+Insulin decreased the blood glucose level by stimulating the liver cells and muscle cells to convert the excess glucose to glycogen and by stimulating the body cells to take in more glucose from the blood.							1m
+	b	Wholemeal bread										1m
+The increase in blood glucose level is slower. / The maximum blood glucose level is lower. / Wholemeal bread is less likely to cause a large deviation of blood glucose level from the normal range. (any 2)					1m ( 2	
+---------------------------------------------------
+
+[10271467]
+// Data handling // Experiment // Applying concepts //
+*	The table below shows the breathing rate of a student when he was asked to inhale different gas mixtures.
+
+Gas mixture	Concentration of oxygen in gas mixture 
+(%)	Concentration of carbon dioxide in gas mixture (%)	Breathing rate 
+(breaths per minute)	
+W	15	0.03	15	
+X	15	3.00	32	
+Y	21	0.03	15	
+Z	21	3.00	32	
+
+a	Which gas mixture has the same concentration of oxygen and carbon dioxide as that of the air in the Earth's atmosphere?			(1 mark)
+b	Comparing with the gas mixture in a, describe the effect of the concentration of carbon dioxide in inhaled air on the breathing rate.															(1 mark)
+	c	Explain why the change in breathing rate in b is important.		(3 marks)
+d	i	According to the results in the table, does the concentration of oxygen in inhaled air affect the breathing rate?					(1 mark)
+ii	Is it important to keep the concentration of oxygen in blood stable? Why?											(1 mark)
+e	Name two main systems in the body that are involved in maintaining a stable concentration of oxygen and carbon dioxide in blood. 	(2 marks)
+
+-- answer --
+	a	Gas mixture Y											1m
+	b	When the concentration of carbon dioxide in inhaled air was higher than that in 			atmospheric air (as in gas mixture Z), the breathing rate increased. 	1m
+	c	Carbon dioxide dissolves in blood and lowers the pH of the blood and the tissue 			fluid.													1m
+		Since enzymes can only function within a narrow range of pH, the carbon dioxide 		concentration in blood must be kept stable.						1m
+		Increasing the breathing rate allows the extra carbon dioxide to be removed from 		the body so as to keep the pH of the blood and the tissue fluid stable.	1m
+	d	i	No												1m
+ii	Yes. It is because body cells need a sufficient supply of oxygen for respiration.													1m
+	e	The breathing system and the circulatory system					1m × 2	
+---------------------------------------------------
+
+[10271474]
+// Graph interpretation // Communication // Basic concepts //
+*	The graph below shows the changes in blood glucose level of a diabetic within a day.
+
+	
+
+a	Explain why the blood glucose level dropped during exercise.	(2 marks)
+b	Name two main organs that are responsible for regulating the blood glucose level.												(2 marks)
+c	Explain how the organs in b help restore the blood glucose level in a healthy person when the blood glucose level falls below the normal range.														(2 marks)
+d	Suggest what the diabetic did at time X. 					(1 mark)
+	e	Describe and explain the change in the blood glucose level after time X.																(4 marks)
+
+
+
+-- answer --
+	a	During exercise, muscle cells require more energy for muscle contraction.
+															1m
+		More glucose in blood is transported to muscle cells for carrying out respiration to 		release more energy.										1m
+	b	Pancreas and liver										1m × 2
+	c	When the blood glucose level falls below the normal range, the pancreas produces 		more glucagon and less insulin. 							1m
+		This stimulates the liver cells and muscle cells to convert stored glycogen to 			glucose. More glucose is released into the blood. 				1m
+	d	Having a meal rich in carbohydrates/sugars					1m
+	e	The blood glucose level increased rapidly						1m
+		because glucose/sugar was absorbed into the blood after the meal. 	1m
+		The blood glucose level remained high as no/not sufficient insulin was produced 			by the pancreas to convert excess glucose to glycogen.			1m
+		The blood glucose level then decreased slowly as excess glucose passed out of 			the body in urine.										1m	
+---------------------------------------------------
+
+[10271478]
+// Overseas exam question // Schematic diagram // Basic concepts //
+	The diagram shows part of the mechanism that controls blood glucose concentration.
+	
+a	Name organ X.										(1 mark)
+b	Explain why the blood glucose concentration becomes high after eating a meal.												(1 mark)
+c	Describe how insulin reaches the liver.						(1 mark)
+d	Explain how insulin causes the liver to reduce the blood glucose concentration.											(3 marks)
+
+e	Use the information in the diagram to help explain how the control of blood glucose concentration involves a feedback mechanism.			(2 marks)
+Some people are unable to control their blood glucose concentration.
+f	Name this condition.									(1 mark)
+						CCEA GCSE Biology Higher Tier Paper 1 2010 Q18
+-- answer --
+a	Pancreas													1m
+b	Glucose is absorbed in the intestine. 								1m
+c	It is carried by / transported in the blood. 							1m
+d	The liver cells take in glucose from the blood. 						1m
+They convert glucose to glycogen. 								1m
+The glycogen is stored in the liver. 								1m
+e	The blood glucose concentration is monitored by the pancreas (organ X). 	1m
+It releases insulin to bring about changes that have an opposite effect. 	1m
+f	Diabetes mellitus											1m	
+---------------------------------------------------
+
+[10271503]
+// Overseas exam question // Graph interpretation // Applying concepts //
+*	a	Transport of glucose to all cells is a key function of the blood circulation. In humans, the normal level of blood glucose is about 90 mg/100 cm3 of blood, but this can vary. For example, during an extended period without food, or after prolonged and heavy physical activity, the blood glucose level may drop to as low as 70 mg/100 cm3. After a meal rich in carbohydrate has been digested, the blood glucose level may rise to 150 mg/100 cm3.
+i	Explain why it is important that the blood glucose should not drop to too low a level.									(1 mark)
+ii	What would be the consequences of glucose rising to too high a level in the blood?										(1 mark)
+b	Two hormones are involved in the regulation of blood glucose levels, insulin and glucagon. The concentrations of blood glucose and of each of these hormones were measured in a group of people over a period of 
+5 hours, during which time a carbohydrate-rich meal was ingested.
+
+The results are shown in the graphs below.
+	
+
+i	Describe the trends evident in the graphs.				(3 marks)
+ii	Changes in blood glucose determine the levels of insulin and glucagon in the blood. What is the effect on each hormone of an increase in blood glucose? Explain how the information shown in the graph provides an example of negative feedback.				(3 marks)
+					   CCEA GCE (A) Biology Module 6A May 2007 Q1a-b
+-- answer --
+a	i	Glucose is needed by the cells in the body as a respiratory substrate / energy source. / 
+Dropping of the blood glucose to a level too low may lead to unconsciousness.										1m
+ii	Rising of the blood glucose to a level too high would decrease the water potential of the blood / cause water to be drawn out of the cells.		1m
+b	i	The blood glucose concentration increases after the meal and then decreases.											1m
+The glucagon concentration in blood decreases after the meal, and then increases. 											1m
+The insulin concentration in blood increases after the meal, and then decreases.											1m
+ii	An increase in the blood glucose results in an increase in the level of insulin 													1m
+and a decrease in the level of glucagon.						1m
+The changes in the levels of hormones cause the blood glucose level to return to normal. 										1m	
+---------------------------------------------------
+
+[10271506]
+// Graph plotting // Graph interpretation // Applying concepts //
+*	The table below shows the blood glucose levels of two people, Peter and David, after drinking the same volume of glucose solution.
+Time after drinking
+glucose solution (minute)	Blood glucose level (mg/100 cm3 of blood)	
+	Peter	David	
+0	89	82	
+15	110	125	
+30	138	172	
+45	115	190	
+60	76	210	
+90	75	200	
+120	72	146	
+150	86	125	
+a	Plot a graph to show the changes in the blood glucose levels of Peter and David after drinking the glucose solution.					(4 marks)
+b	Describe how the blood glucose levels of Peter and David change from 
+30 to 60 minutes after drinking the glucose solution.			(2 marks)
+c	Account for the changes in the answer to b.					(4 marks)
+d	Suggest a possible reason for the decrease in David's blood glucose level 
+60 minutes after drinking the glucose solution. 				(1 mark)
+
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes 												1m 
+With labels and units											1m 
+Correct plotting and joining of line								1m
+b	The blood glucose level of Peter decreases rapidly from 138 to 76 mg/100 cm3 of blood.													1m
+The blood glucose level of David continues to rise from 172 to 210 mg/100 cm3 of blood.													1m
+c	After drinking the glucose solution, the high blood glucose level of Peter stimulates his pancreas to produce more insulin and less glucagon.				1m
+Insulin stimulates the liver cells and muscle cells to convert more glucose to glycogen and the body cells to take in more glucose. Thus his blood glucose level falls.														1m
+David is a diabetic. 											1m
+His pancreas cannot produce sufficient insulin / his body cannot respond to insulin. Thus his blood glucose level continues to rise to an abnormally high level.	1m
+d	Glucose is excreted in urine.									1m	
+---------------------------------------------------
+[10271518]
+// Reading comprehension // Applying concepts //
+*	Read the following article and answer the questions.
+	Water is necessary to all lives on earth. Humans can survive for a few weeks without food, but for only several days without water. Therefore, keeping the amount of water in the body more or less constant is important to life. Controlling the amount of water in the human body is an example of homeostasis. 
+	The input of water relies mainly on ingestion. When the amount of water in the body is lower than normal, receptors in blood vessel will send signals to the brain. This makes the person feel thirsty.
+	Water leaves the body mainly through urination and exhalation. The amount of water lost during exhalation cannot be easily regulated but the body has a well-developed mechanism to regulate the amount of water lost in urine.	
+
+a	Water is important to humans. Give three functions of water in the human body.												(3 marks)
+b	The input of water in the human body is regulated by negative feedback mechanism. Identify the receptor, control centre and effector. Explain their roles. 												(3 marks)
+c	Explain why the amount of water lost during exhalation cannot be easily regulated.												(1 mark)
+d	Name the organ involved in the regulation of the amount of water lost in urine.												(1 mark)
+-- answer --
+a	It is a reactant in some chemical / metabolic reactions. / 
+It provides a medium for chemical reactions to take place. /
+It acts as a transport medium. /
+It acts as a cooling agent to help regulate body temperature. (any 3)	1m x 3
+b	Receptor: receptors in blood vessels. 
+They detect the changes in the amount of water in the body. 		1m
+Control centre: brain
+The brain processes the information from the receptors, gives the feeling of thirsty and sends nerve impulses to bring about actions.				1m
+Effector: muscles 
+The muscles contract to allow the person to go and find / drink water.	1m
+c	The rate of breathing depends on the level of physical activity.		1m
+d	Kidney												1m	
+---------------------------------------------------
+
+[10271527]
+// Communication // Basic concepts //
+	a	i	Describe the effect of eating a piece of chocolate on the blood glucose level.											(1 mark)
+ii	Name two hormones that are produced to regulate the blood glucose level.											(2 marks)
+iii	Name the organ that produces the two hormones.			(1 mark)
+iv	How do the two hormones work together to regulate the blood glucose level?											(5 marks)
+b	i	Name a disease caused by failure to produce a hormone involved in regulating the blood glucose level.						(1 mark)
+ii	Suggest one method to control the disease.				(1 mark)
+
+-- answer --
+a	i	It increases the blood glucose level.						1m
+ii	Insulin and glucagon									1m x 2
+iii	Pancreas											1m
+iv	When there is an increase in blood glucose level, the pancreas produces more insulin and less glucagon. 						1m
+Insulin stimulates liver cells and muscle cells to convert more glucose to glycogen. The glycogen is then stored.					1m
+Insulin also stimulates body cells to take in more glucose from the blood. 													1m
+As a result, the blood glucose level decreases.
+When there is a decrease in blood glucose level, the pancreas produces more glucagon and less insulin. 						1m
+Glucagon stimulates liver cells and muscle cells to convert the stored glycogen to glucose. More glucose is released into the blood. 	1m
+As a result, the blood glucose level increases.
+b	i	Diabetes mellitus									1m
+ii	Careful monitoring of the blood glucose level at regular time intervals. /
+Injection of insulin after meals or when the blood glucose level is high.		
+(or other reasonable answers) 							1m	
+---------------------------------------------------
+
+[10271554]
+// Drawing // Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows some organs in the human body and some blood vessels connected to them.
+	
+a	State which blood vessel, X or Y, has a higher blood glucose level
+i	before a meal.
+ii	after a meal. 
+Explain in terms of the effects of insulin and glucagon on the liver.															(6 marks)
+b	How do body cells help lower the blood glucose level when the blood glucose level is too high?								(1 mark)
+c	Sketch a graph to show the blood glucose level of a healthy person and a diabetic after having a meal.								(4 marks)
+
+-- answer --
+a	i	X												1m
+Before a meal, blood glucose level is low. More glucagon and less insulin are produced by the pancreas. 							1m
+Glucagon stimulates the liver to convert the stored glycogen to glucose. Glucose is released to the blood. The glucose-rich blood leaves the liver via X, therefore X has a higher blood glucose level. 				1m
+ii	Y												1m
+After a meal, blood glucose level is high due to the absorption of glucose from food. More insulin and less glucagon are produced by the pancreas.													1m
+Insulin stimulates the liver to convert the excess glucose to glycogen. Less glucose is present in the blood leaving the liver in X. Therefore Y has a higher blood glucose level. 	 								1m
+b	Body cells take up more glucose from the blood when they are stimulated by insulin. 												1m
+c	
+
+Correct title											1m
+Choice of axes 											1m 
+Correct curves											1m x 2	
+---------------------------------------------------
+
+
+Essays
+
+[10271623]
+// Communication // Basic concepts //
+*	Describe how homeostasis is brought about by negative feedback mechanism.															(9 marks)
+-- answer --
+Negative feedback mechanism results in responses that have opposite effects on the changes in the level of the parameter, so that the level of the parameter can be restored to normal. 													1m
+The mechanism involves three components: a receptor, a control centre and an effector. 															1m
+The receptor detects changes in the level of the parameter. 				1m
+The control centre compares the level of parameter with the set point. 		1m
+It is usually part of the nervous system or the endocrine system. 				1m
+The control centre sends messages to an effector to initiate a response that has an opposite effect on the original change. 								1m
+Communication													3m	
+---------------------------------------------------
+
+[10271645]
+// Communication // Applying concepts //
+*	Explain the roles of the pancreas, liver and body cells in the regulation of blood glucose level.												(12 marks)
+-- answer --
+When the pancreas detects an increase in blood glucose level, it produces more insulin and less glucagon. 												1m
+Insulin stimulates liver cells to convert the excess glucose to glycogen. 		1m
+The glycogen is then stored in the liver. 								1m
+Insulin also stimulates body cells to take in more glucose from the blood. 		1m
+As a result, the blood glucose level falls and returns to normal. 				1m
+When the pancreas detects a decrease in blood glucose level, it produces more glucagon and less insulin. 											1m
+Glucagon stimulates liver cells to convert the stored glycogen to glucose. 		1m
+The glucose is then released to the blood. 								1m
+As a result, the blood glucose level rises and returns to normal. 				1m
+Communication													3m	
+---------------------------------------------------

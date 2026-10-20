@@ -1,0 +1,768 @@
+( Chapter 3		Regulation of gas content 								in blood
+
+Multiple-choice questions
+
+[10281253]
+// Basic concepts //
+(	It is important to regulate the gas content in blood because
+(1)	body cells need a steady supply of oxygen for respiration.
+(2)	carbon dioxide dissolved in blood affects the pH of blood.
+(3)	enzymes only function in the presence of oxygen.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10281258]
+// Basic concepts //
+(	The control of the rate and depth of breathing works by a negative feedback mechanism. What is/are the role(s) of the respiratory centre in this mechanism?
+(1)	receptor
+(2)	control centre
+(3)	effector
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+[10281269]
+// Graph interpretation //
+(*	Directions: The following two questions refer to the diagram below, which shows the pressure changes in the left ventricle, left atrium and aorta in a cardiac cycle.
+	
+	Which of the following statements about the states of the left atrium and the left ventricle at different time is incorrect?
+	A	The left atrium is contracting while the left ventricle is relaxing at 0.05 s.
+B	The left atrium is relaxing while the left ventricle is contracting at 0.3 s.
+C	Both the left atrium and the left ventricle are contracting at 0.5 s.
+D	Both the left atrium and the left ventricle are relaxing at 0.7 s.
+C	
+---------------------------------------------------
+
+[10281276]
+// Graph interpretation //
+(*	At what time are the semilunar valves open?
+A	0.1 s	
+B	0.2 s
+C	0.5 s	
+D	0.8 s
+B	
+---------------------------------------------------
+
+[10281302]
+// Data handling // Applying concepts //
+(**The table below shows the pressure, volume of blood and the condition of bicuspid valve in the left ventricle of the heart at four instants during a cardiac cycle.
+	Pressure
+(kPa)	Volume of blood 
+(cm3)	Condition of 
+bicuspid valve	
+W	1.5	124	open	
+X	14.1	79	closed	
+Y	11.9	105	closed	
+Z	2.0	70	open	
+Which of the following correctly shows the sequence of the instants?
+A	Z → W → X → Y
+B	Z → W → Y → X
+C	Z → X → Y → W
+D	Z → Y → X → W
+B	
+---------------------------------------------------
+
+[10281304]
+// Applying concepts //
+(*	Which of the following changes occur during exercise?
+(1)	The diaphragm muscles contract faster and more strongly. 
+(2)	The vagus nerve linking the brain and the heart becomes more active.
+(3)	The decrease in blood pH is detected by chemoreceptors in carotid bodies. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10281306]
+// Graph interpretation //
+(*	Directions: The following two questions refer to the graph below, which shows the pressure changes in the left atrium and left ventricle in one cardiac cycle. 
+
+	
+
+At which time is the left atrium contracting?
+A	W only
+B	Z only
+C	W and X only 
+D	X and Y only
+A	
+---------------------------------------------------
+
+[10281311]
+// Graph interpretation //
+(*	At which time is the bicuspid valve closed?
+A	W only
+B	Y only
+C	X and Y only
+D	W, X and Y only
+C	
+---------------------------------------------------
+
+[10281314]
+// Cross-topic // Graph interpretation // Calculation //
+(*	Directions: The following two questions refer to the graph below, which shows the change in the volume of air in the lungs of a person.
+
+	
+
+The rate of breathing of this person is 
+A	12 breaths per minute.
+B	15 breaths per minute.
+C	18 breaths per minute.
+D	20 breaths per minute.
+D	
+---------------------------------------------------
+
+[10281327]
+// Cross-topic // Graph interpretation // Calculation //
+(*	Which of the following statements about the condition of the lungs and intercostal muscles at time X is not correct?
+A	The pressure inside the lungs is higher than the atmospheric pressure.
+B	The intercostal muscles are contracting.
+C	The intercostal muscles are receiving nerve impulses from the respiratory centre. 
+D	Air is entering the lungs.
+A	
+---------------------------------------------------
+
+[10281332]
+// Schematic diagram // Applying concepts //
+(*	Figure I below represents the cardiac cycle of a healthy person. Figure II shows a section of the heart at an instant during the cardiac cycle.
+	
+	
+Which period of the cardiac cycle does figure II show?
+A	0 to 0.1 s				B	0.1 to 0.4 s 
+C	0.4 to 0.6 s			D	0.6 to 0.8 s
+B	
+---------------------------------------------------
+
+[10281333]
+// Basic concepts //
+(	Which of the following structures does not contain chemoreceptors that detect changes in the pH in the body?
+A	lung 
+B	aorta
+C	carotid artery 
+D	medulla oblongata
+A	
+---------------------------------------------------
+
+[10281343]
+// Cross-topic // Schematic diagram //
+(*	The diagram below shows a section of the human head.
+	
+
+Which parts of the brain are responsible for the control of the rate and depth of breathing and the regulation of body temperature respectively?
+	Control of the rate and depth 
+of breathing		Regulation of body 
+temperature	
+A	X	Z	
+B	Y	X	
+C	Z	X	
+D	Z	Y	
+
+C	
+---------------------------------------------------
+
+[10281352]
+// Basic concepts //
+(*	Our cardiac output increases when we are doing exercise. Which of the following shows the nerve that becomes more active during exercise and the neurotransmitter it releases?
+Nerve that becomes more active		Neurotransmitter released 
+A	vagus nerve						acetylcholine 
+B	vagus nerve						noradrenaline 
+C	sympathetic nerve					acetylcholine
+D	sympathetic nerve					noradrenaline
+D	
+---------------------------------------------------
+
+[10281378]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the change in the volume of air in the lungs when the carbon dioxide concentration in blood is at a normal level.
+	
+
+Which of the following graphs shows the change in the volume of air in the lungs within the same period of time if the carbon dioxide concentration in blood was higher?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10281389]
+// Data handling // Applying concepts //
+(*	Directions: The following two questions refer to the table below, which shows the heart rate of four healthy people (W, X, Y and Z) when they are at rest.
+	W	X	Y	Z	
+Heart rate (beats/min)	86	80	75	62	
+
+Which of them is most likely a trained runner?
+A	W
+B	X
+C	Y
+D	Z
+D	
+---------------------------------------------------
+
+[10281409]
+// Data handling // Applying concepts //
+(*	Trained runners have a heart rate different from other people at rest because
+A	they need more oxygen to pay oxygen debt.
+B	their body cells need less glucose.
+C	their heart can pump blood more strongly.
+D	they can breathe faster.
+C	
+---------------------------------------------------
+
+[10281424]
+// Basic concepts //
+(*	During exercise, our cardiac output increases because
+(1)	the sympathetic nerve linking the brain and the heart releases more noradrenaline.
+(2)	the vagus nerve linking the brain and the heart releases more acetylcholine.
+(3)	more adrenaline is released into the blood.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10281426]
+// Basic concepts //
+(*	Which of the following structures is/are involved in maintaining the basic rhythm of breathing?
+(1)	medulla oblongata
+(2)	hypothalamus
+(3)	chemoreceptors in aortic bodies 
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10281427]
+// Basic concepts //
+(	Which of the following changes occur when we are doing exercise?
+(1)	The number of breaths per unit time increases.
+(2)	The volume of air we breathe in during an inhalation increases.
+(3)	The volume of blood pumped by our heart in one heart beat increases.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10281562]
+// Schematic diagram // Basic concepts //
+(	The flow chart below summarizes the nervous and hormonal control of cardiac output.
+
+	
+
+a	The concentration of which chemical(s) (X, Y or Z) in the blood will increase during exercise? 								(1 mark)
+b	Describe the effect of the chemical(s) in a on the cardiac output.																	(1 mark)
+
+
+-- answer --
+a	Chemicals X and Z											1m
+b	Both chemicals X and Z stimulate the activity of the SA node and cardiac muscle, 	causing the cardiac output to increase. 							1m	
+---------------------------------------------------
+
+
+[10281565]
+// Data handling // Applying concepts //
+(*	The table below shows the depth of breathing and the heart rate of an athlete and a non-athlete before and during running.
+
+	Depth of breathing (cm3/breath)	Heart rate (beats/min)	
+	before running	during running	before running	during running	
+Athlete	750	3200	50	180	
+Non-athlete	500	2000	72	190	
+
+a	Describe and explain the differences in the depth of breathing and the heart rate between the athlete and the non-athlete before running.
+i	depth of breathing									(2 marks)
+ii	heart rate											(2 marks)
+b	State the importance of the increase in the depth of breathing and the heart rate in both the athlete and the non-athlete during running.		(2 marks)
+
+
+-- answer --
+a	i	The depth of breathing of the athlete is greater than that of the non-athlete															1m
+	because the athlete has stronger intercostal muscles and diaphragm 	muscles. 												1m
+ii	The athlete has a lower heart rate than the non-athlete			1m
+	because the heart of the athlete is stronger and it can pump more blood in each beat.												1m
+b	This allows a larger supply of oxygen and nutrients to skeletal muscles and cardiac muscle so that the muscle cells can respire at a higher rate to release more energy for muscle contractions.										1m
+	This also allows faster removal of carbon dioxide from the muscle cells to avoid the accumulation of carbon dioxide and lactic acid in the muscles.			1m	
+--------------------------------------------------- 
+
+[10281594]
+// Overseas exam question // Graph interpretation // Calculation //
+(*	The graph below shows changes in energy used, oxygen uptake and blood lactic acid levels for a person at rest, during and after exercise.
+	
+a	Describe how oxygen intake is increased during exercise.		(1 mark)
+b	Explain the increase in the level of lactic acid during the exercise period.															(2 marks)
+c	Explain why the lactic acid level in the blood continues to rise even after the exercise has stopped.									(1 mark)
+d	The recovery time can be measured as the time taken, after exercise, for the lactic acid level in blood to return to the rest (pre-exercise) value.
+i	What is the recovery time for this individual?			(1 mark)
+ii	If such a study was repeated with an athlete who regularly trains, suggest how the athlete's recovery time would be comparing with your answer above.										(1 mark)
+						   CCEA GCE (AS) Biology Module 2 Jan 2009 Q3
+-- answer --
+a	During exercise, the rate / depth of breathing increases.			1m
+b	There is a limit to the supply of oxygen. /
+Energy used exceeds the energy that can be produced aerobically. /
+Extra energy is supplied anaerobically. /
+Anaerobic respiration produces lactic acid. (any 2)				1m x 2
+c	Lactic acid is still being flushed out of the muscles / is transporting to the liver by blood after exercise.										1m
+d	i	16 - 4 = 12 minutes									1m
+ii	The recovery time would be shorter.						1m	
+---------------------------------------------------
+
+[10281601]
+// Overseas exam question // Schematic diagram //
+(*	The diagram below shows a sectional view of the mammalian heart with the valves labelled.
+	
+a	With reference to blood pressure and heart structure, explain why blood does not flow back into the atria when the ventricles contract.	(2 marks)
+b	The bicuspid and tricuspid valves are part of a sheet of insulating tissue, which prevents the excitation wave passing directly from the atria to the ventricles.
+i	Briefly explain how the excitation wave passes into the ventricles.														(1 mark)
+ii	What is the advantage of the delay caused by this arrangement?															(1 mark)
+c	With reference to blood pressure and structures involved, explain why blood does not flow back into the ventricles when they relax.			(2 marks)
+						   CCEA GCE (AS) Biology Module 2 Jun 2007 Q2
+-- answer --
+a	When the blood pressure in ventricles is higher than that in atria, 		1m
+the bicuspid and tricuspid valves are closed to prevent the backflow of blood.																1m
+b	i	Excitation wave passes to the ventricles via the atrioventricular (AV) node / Purkinji fibres. 											1m
+ii	This ensures that blood flows into the ventricles before they contract.	1m
+c	When the blood pressure in the arteries is higher than that in the ventricles,	1m
+the semilunar valves are closed to prevent the backflow of blood.			1m	
+---------------------------------------------------
+
+[10281608]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the force generated by ventricular contraction of the heart when a man is at rest and during exercise.
+	
+a	Which of the two curves, X or Y, indicates the force generated by ventricular contraction of the heart during exercise? Give reasons to support your answer.											(3 marks)
+b	Describe how the nervous and endocrine systems bring about the change in the force of ventricular contraction during exercise?			(2 marks)
+
+-- answer --
+a	Curve X 													1m
+The maximum force is greater									1m
+and it takes a shorter period of time to generate the force.				1m
+b	The cardiovascular centre sends more nerve impulses via the sympathetic nerve. The sympathetic nerve releases more noradrenaline, which stimulates the cardiac muscle to contract more strongly. 								1m
+The sympathetic nerve stimulates the adrenal glands to release more adrenaline, which stimulates the cardiac muscle to contract more strongly. 			1m	
+---------------------------------------------------
+
+[10281637]
+// Communication // Schematic diagram // Basic concepts //
+(*	The diagram below shows two nerves connecting the brain and the heart.
+	
+
+a	Which part of the brain controls the cardiac output?			(1 mark)
+b	To which parts of the heart are the two nerves connected?		(1 mark)
+c	During exercise, cardiac output increases. With reference to the number of nerve impulses sent along the two nerves, describe how the increase in cardiac output is brought about.							(4 marks)
+
+-- answer --
+a	Cardiovascular centre / medulla oblongata							1m
+b	Sinoatrial (SA) node / pacemaker and cardiac muscle					1m
+c	During exercise, more nerve impulses are sent to the SA node and cardiac muscle along the sympathetic nerve.									1m
+The sympathetic nerve releases more noradrenaline, which stimulates the activity of the SA node and cardiac muscle.								1m
+The cardiac muscle contracts faster and more strongly.				1m
+The heart rate and stroke volume increase. As a result, the cardiac output increases. 												1m	
+---------------------------------------------------
+
+[10281649]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.				(6 marks)
+An increase in carbon dioxide concentration in blood leads to a 
+a                      in blood pH. The change is detected by 
+b                      in the aortic bodies and c                     . They send nerve impulses to the respiratory centre (located in the d                     ), which then sends nerve impulses to cause the intercostal muscles and diaphragm muscles to contract e                     and f                      to restore the normal carbon dioxide concentration in blood.
+-- answer --
+a	decrease													1m
+b	chemoreceptors												1m
+c	carotid bodies												1m
+d	medulla oblongata											1m
+e	faster													1m
+f	more strongly												1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10281781]
+// Cross-topic // Data handling // Calculation // Communication //
+(*	In an investigation, the volumes of blood received by different organs or tissues of a marathon runner when he was at rest and running were studied. The table below shows the results.
+Organ or tissue	Blood volume received (dm3)	
+	At rest	Running	
+Brain	0.7	0.75	
+Heart	0.2	1	
+Kidney	1.1	0.25	
+Liver	1.4	0.5	
+Skin	0.3	4	
+Skeletal muscle	1	17	
+Others	0.3	1.5	
+a	The increase in the volume of blood received by the skeletal muscle was the greatest during running.
+i	Calculate the percentage increase in the volume of blood received by 	the skeletal muscle during running. Show your working.	(2 marks)
+ii	State the significance of the increase.					(2 marks)
+b	Describe the change in the volume of blood received by the skin during
+running. Explain why.									(4 marks)
+c	Describe how the sympathetic nerve brings about the change in the cardiac output during running.									(2 marks)
+
+-- answer --
+a	i	Percentage increase in the volume of blood received by the skeletal muscle
+	=  ( 100%									1m
+	= 1600%												1m
+ii	The increase in the blood received by the skeletal muscle led to an increase 	in oxygen and nutrients supply. The muscle cells can respire at a higher rate to release more energy for muscle contractions.					1m
+It also allowed carbon dioxide and lactic acid produced by the skeletal muscle to be removed at a higher rate during running. This avoids the accumulation of carbon dioxide and lactic acid in the muscles.		1m
+b	The blood received by the skin increased during running.				1m
+Since muscle contraction generated a large amount of heat, the body temperature increased during running. The thermoreceptors in the hypothalamus detected the increase in body temperature.									1m
+The heat loss centre in the hypothalamus was stimulated. It sent nerve impulses to the skin.													1m
+Arterioles in the skin dilated. More blood flowed to the capillaries near the skin surface to promote heat loss.									1m
+c	During running, the sympathetic nerve becomes more active. It releases more noradrenaline.												1m
+Noradrenaline stimulates the activity of the sinoatrial (SA) node and cardiac muscle, causing the heart rate and stroke volume to increase. Thus, the cardiac output increases.											1m	
+---------------------------------------------------
+
+[10281794]
+// Data handling // Experiment // Applying concepts //
+(*	In an investigation, an exercise test was carried out on a man. The man walked continuously for 15 minutes on a treadmill (跑步機) at different speeds and gradients after standing for 3 minutes. The speed and the gradient of the treadmill were adjusted every 3 minutes. At the end of each 3-minute period, his heart rate was measured. The table below shows the results.
+Activity	Walking speed
+(km/h)	Duration (min)	Heart rate (beat/min)	
+Standing	-	3	121	
+Walking up a 10% gradient	2.7	3	131	
+Walking up a 12% gradient	4.0	3	157	
+Walking up a 14% gradient	5.5	3	186	
+Walking up a 16% gradient	6.8	3	195	
+Walking up a 18% gradient	8.0	3	208	
+a	Describe the effect of exercise on the heart rate of the man. State the significance of the change.								(4 marks)
+b	The mean heart rate at rest for his age group is 80 beats per minute. A student guessed that the man is not doing exercise regularly. With reference to the table, suggest why the student is likely to be correct.		(3 marks)
+c	After finishing the exercise test, the breathing rate of the man remained high for a short while. State and explain the importance of this phenomenon to the body.												(3 marks)
+-- answer --
+a	His heart rate increased during exercise.							1m
+The increased heart rate increased the cardiac output.					1m
+This led to a greater supply of oxygen and nutrients to skeletal muscles and
+cardiac muscle so that the muscle cells can respire at a higher rate to release more energy for muscle contractions.								1m
+This also allowed carbon dioxide and lactic acid produced by the muscle cells to be removed at a higher rate. This avoids the accumulation of carbon dioxide and lactic acid in the muscles.										1m
+b	People who do exercise regularly have a thicker cardiac muscle wall. Their heart can contract more powerfully.									1m
+As more oxygen can be transported in each heart beat, they generally have a lower heart rate at rest.										1m
+As the heart rate of the man at rest is much higher than the mean heart rate for his age group, it is unlikely that he is doing exercise regularly.				1m
+c	The high breathing rate increases oxygen uptake.					1m
+The extra oxygen can be used to break down lactic acid formed during exercise or for the conversion of lactic acid to glucose in the liver.					1m
+The blood pH returns to normal as lactic acid is removed.				1m	
+---------------------------------------------------
+
+
+[10281797]
+// Cross-topic // Graph interpretation // Calculation // Communication //
+(*	The graph below shows the pressure changes in the left side of the heart of a man in a cardiac cycle.
+	
+a	What is the heart rate of this man? Show your working and express your answer in beats/min.									(2 marks)
+b	During which period is the bicuspid valve closed? Explain how you arrive at your answer.										(2 marks)
+c	Compare the maximum pressure attained in the left and right ventricles in a cardiac cycle. Account for any difference.					(2 marks)
+d	Describe the roles of the sinoatrial node (SA node) and atrioventricular node (AV node) in coordinating the cardiac cycle.					(4 marks)
+
+
+-- answer --
+a	60 / 0.8													1m
+	= 75 beats/min												1m
+b	0.1-0.5 s													1m
+	The pressure in the left ventricle is higher than that in the left atrium.		1m
+c	The maximum pressure in the left ventricle is higher than that in the right ventricle.															1m
+	This is because the left ventricle has a thicker muscular wall that provides a 	stronger force of contraction to drive blood to all parts of the body.		1m
+d	The SA node automatically generates electrical impulses to initiate a heart beat.																1m
+	The electrical impulses spread from the SA node to both atria and cause them to 	contract at the same time.										1m
+	After the electrical impulses reach the AV node, The AV node generates electrical impulses, which pass to both ventricles and cause them to contract		1m
+	after the contraction of the atria.									1m	
+---------------------------------------------------
+
+[10281798]
+// Graph interpretation // Experiment // Calculation // Communication //
+(*	An investigation was carried out to study the effect of increasing the intensity of exercise on the tidal volume and breathing rate. The tidal volume and breathing rate of an untrained person were measured only after he had been doing exercise at particular intensities for 5 minutes. The graph below shows the results.
+
+	
+a	Why were the tidal volume and breathing rate measured only after the person had been doing exercise for 5 minutes?				(1 mark)
+b	Describe the effect of increasing the intensity of exercise on the tidal volume and breathing rate.								(2 marks)
+c	What is the importance of the changes in the tidal volume and breathing rate answered in b?									(2 marks)
+d	Calculate the ventilation rate of the person when he was doing exercise at an intensity of 45 arbitrary units.							(1 mark)
+
+e	The person then followed an athlete training programme for a year. His tidal volume and breathing rate were measured again when he was at rest. Explain how the values would be different from those obtained a year before.												(4 marks)
+
+
+-- answer --
+a	It was to ensure that the breathing of the person had become steady.		1m
+b	The tidal volume increases abruptly up to an intensity of 30 arbitrary units and then 	increases gradually.											1m
+	The breathing rate increases gradually up to an intensity of 50 arbitrary units and 	then increases abruptly.										1m
+c	The changes in the tidal volume and breathing rate allow a greater supply of 		oxygen to the skeletal muscles so that muscle cells can produce more energy by 		respiration for contraction.										1m
+	The changes in the tidal volume and breathing rate allow a faster removal of 	carbon dioxide from the body.									1m
+d	(1700 ( 20 =) 34 000 cm3/min									1m
+e	His tidal volume would be larger than before						1m
+	because his intercostal muscles and the diaphragm muscles would become 	stronger.													1m
+	His breathing rate would be lower than before						1m
+	because the tidal volume would increase and a lower breathing rate is enough to 		provide his body with sufficient oxygen.							1m	
+---------------------------------------------------
+
+[10281859]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows some structures in the human body that are involved in the control of breathing.
+
+	
+a	State the stimulus detected by the chemoreceptors in the following structures:
+i	respiratory centre 									(1 mark)
+ii	carotid bodies 									(1 mark)
+iii	aortic bodies	 									(1 mark)
+b	State the changes in the rate and depth of breathing when the carbon dioxide concentration in blood rises. Explain the significance of such changes.															(2 marks)
+c	Which structure is responsible for maintaining the basic rhythm of breathing? Describe how it works.							(3 marks)
+
+
+-- answer --
+a	i	Change in the pH of the cerebrospinal fluid						1m
+ii	Change in blood pH										1m
+iii	Change in blood pH										1m
+
+b	Both the rate and depth of breathing increase.						1m
+	This helps remove carbon dioxide from the blood at a higher rate so that the 		carbon dioxide concentration in blood returns to normal.				1m
+c	The respiratory centre										1m
+	It has an intrinsic rhythmic activity that keeps breathing going automatically. 1m
+	When it sends nerve impulses to the intercostal muscles and diaphragm muscles, inhalation occurs. Then it stops sending nerve impulses, exhalation occurs.	1m	
+---------------------------------------------------
+
+[10281864]
+// Overseas exam question // Cross-topic // Graph interpretation //
+(**The graph below shows pressure changes which take place in the left side of the heart during one complete cardiac cycle.
+	
+a	At what time does the bicuspid valve close? Give the reason for your answer.												(2 marks)
+b	At what time does the semilunar valve close? Give the reason for your answer.												(2 marks)
+c	Explain the changes in the atrial pressure from 0.1 to 0.45 seconds.																(2 marks)
+d	The pressure in the right ventricle reaches a maximum of 3.5 kPa. Give reasons for the difference between this pressure and the maximum pressure achieved in the left ventricle as shown in the graph.			(2 marks)
+						   CCEA GCE (AS) Biology Module 2 Jan 2008 Q6
+-- answer --
+a	0.1 s														1m
+The pressure in ventricle exceeds that in the atrium at 0.1 s.				1m
+b	0.4 s														1m
+The pressure in aorta exceeds that in the ventricle at 0.4 s.				1m
+c	From 0.1 to 0.14 s, there is an increase in atrial pressure as the bicuspid valve bulges into the atrium, which reduces the volume of the atrium.			1m
+From 0.2 s to 0.45 s, the atrial pressure increases as blood from the pulmonary veins flows into the atrium.										1m 
+d	The left ventricle has a thicker wall than the right ventricle. 				1m
+The left ventricle pumps blood to all parts of the body (except the lungs) while the right ventricle pumps blood for only a short distance to the lungs.			1m	
+---------------------------------------------------
+
+[10281866]
+// Cross-topic // Data handling // Calculation // Applying concepts //
+(*	The table below shows the heart rate and stroke volume of a student when he is at rest and when he is running on a hot summer day. 
+	Heart rate (beats/min)	Stroke volume (dm3/beat)	
+At rest	63	0.11	
+During running	122	0.12	
+a	Calculate the cardiac output of the student when he is at rest and when he is running. Show your working. 							(2 marks)
+b	When the student is running, his cardiac output changes. Explain how the nervous system brings about the change in cardiac output during running. 															(3 marks)
+c	What is the significance of the change in cardiac output during running?									 						(2 marks)
+d	During running, more blood flows near the skin surface. Explain the significance of this. 									(2 marks)
+
+
+
+
+
+
+
+
+-- answer --
+a	At rest: 63 × 0.11 = 6.93 dm3/min								1m
+During running: 122 × 0.12 = 14.64 dm3/min						1m
+b	During running, the cardiovascular centre sends more nerve impulses via the sympathetic nerve. The sympathetic nerve releases more noradrenaline. 	1m
+Noradrenaline stimulates the activity of the sinoatrial node and cardiac muscle.																1m
+As a result, the heart beats faster and more strongly. Thus the cardiac output increases. 												1m
+c	This enables a greater supply of oxygen and nutrients to the skeletal muscles and cardiac muscle so that the muscle cells can respire at a higher rate to release more energy for muscle contractions.								1m
+This also allows carbon dioxide and lactic acid produced by muscle cells to be removed faster. This avoids the accumulation of carbon dioxide and lactic acid in the muscles.												1m
+d	As more blood flows to the skin surface, more heat can be lost from the body to the surroundings by conduction, convection and radiation. 				1m
+This prevents the body temperature from rising too much. 				1m	
+---------------------------------------------------
+[10281880]
+// Graph interpretation // Calculation // Applying concepts //
+(*	An investigation was carried out to study how the intensity of exercise affects the ventilation rate, cardiac output and stroke volume. Exercise of varying intensity was performed by a man using an exercise bicycle. The intensity of exercise is expressed as the rate of oxygen consumption of the man. The results are shown in the graphs below. 
+
+
+
+	
+
+a	i	With reference to the graphs, describe the changes in ventilation rate and cardiac output when the rate of oxygen consumption changed from 1.2 to 1.6 L/min.									(1 mark)
+ii	Explain how the nervous system brought about the change in the ventilation rate in the answer to a i.					(2 marks)
+iii	Explain how the nervous and endocrine systems brought about the change in the cardiac output in the answer to a i.			(3 marks)
+b	Calculate the heart rate of the man when the rate of oxygen consumption is 2 L/min. Show your working.								(2 marks)
+
+-- answer --
+a	i	Both the ventilation rate and cardiac output increased.				1m
+ii	The respiratory centre sent more nerve impulses via the sympathetic nerve to intercostal muscles and diaphragm muscles, 					1m
+causing them to contract faster and more strongly. 				1m
+
+iii	The cardiovascular centre sent more nerve impulses via the sympathetic nerve. The sympathetic nerve released more noradrenaline.			1m
+The adrenal glands also stimulated by the sympathetic nerve to release more adrenaline. 											1m
+Both actions stimulated the activity of the sinoatrial node and cardiac muscle, causing the heart to beat faster and more strongly. 				1m
+b	Heart rate = cardiac output / stroke volume							1m
+= 16/0.144 = 111.1 beats/min									1m	
+---------------------------------------------------
+
+[10281897]
+// Schematic diagram // Applying concepts //
+(*	Marcus is an athlete under regular training. The diagrams below show a section of his heart at two instants during the cardiac cycle.
+	
+
+a	i	Name structure X shown in figure I.					(1 mark)
+ii	Describe the function of structure X.					(1 mark)
+b	i	Name the stage of the cardiac cycle illustrated by figure II.	(1 mark)
+ii	With reference to figure II, describe what happens during this stage of the cardiac cycle.									(3 marks)
+c	Suggest why Marcus's resting heart rate is lower than that of untrained people.												(3 marks)
+d	How does Marcus's breathing change during exercise?			(1 mark)
+
+-- answer --
+a	i	Semilunar valves									1m
+ii	They prevent the backflow of blood into the ventricles when the ventricles relax.											1m
+
+
+b	i	Ventricular systole									1m
+ii	Ventricles contract. /
+Tricuspid and bicuspid valves are closed. /
+Semilunar valves open. /
+Blood passes into the aorta and pulmonary artery. (any 3) 		1m x 3
+c	Regular training strengthens the cardiac muscle. 				1m
+It can contract more powerfully, so the stroke volume becomes greater.																	1m
+Therefore, a lower resting heart rate is sufficient to pump blood to all parts of the body. 												1m
+d	The rate and depth of breathing increase.						1m	
+---------------------------------------------------
+
+[10281911]
+// Calculation // Communication // Basic concepts //
+(	A student underwent a fitness test. In the test, he did exercise for 30 minutes. 
+a	Describe the changes in the rate and depth of breathing during exercise.															(1 mark)
+b	What is the significance of the changes in the answer to a?		(4 marks)
+c	The cardiac output of the student also changed during exercise.	
+i	What is cardiac output?								(1 mark)
+ii	His maximum stroke volume is 120 mL, while his maximum heart rate is 170 beats/min during exercise. Calculate the maximum cardiac output of the student during exercise. Show your calculation.															(2 marks)
+-- answer --
+a	Both the rate and depth of breathing increased during exercise.			1m
+b	During exercise, energy demand of skeletal muscles increases.			1m
+More oxygen is needed by skeletal muscle cells so that they can carry out aerobic respiration at a higher rate. 									1m
+Carbon dioxide is released from skeletal muscle cells during respiration.	1m
+Increase in the rate and depth of breathing supplies more oxygen to skeletal muscle cells and removes carbon dioxide from them more rapidly.		1m
+c	i	Cardiac output is the volume of blood pumped out of the heart per minute.															1m
+ii	120 × 170												1m
+= 20400 mL/min = 20.4 L/min								1m	
+---------------------------------------------------
+
+[10281913]
+// Graph interpretation // Calculation // Applying concepts //
+(*	The graph below shows the breathing pattern of a man during periods X, Y and Z.
+	
+
+a	The man is at rest during period X. What is the rate of breathing during this period? Show your working.								(2 marks)
+b	The man breathes deeply during period Y. 
+i	Calculate the maximum volume of air the man breathes out after the deepest inhalation. Show your working.					(2 marks)
+ii	How much more air is breathed out in one exhalation in period Y compared to that in one exhalation in period X? Show your working.														(2 marks)
+c	i	State one possible activity the man may be doing during period Z. How are the rate and depth of breathing different from those during period X?											(2 marks)
+ii	State one importance of the changes in the rate and depth of breathing during period Z.									(1 mark)
+
+-- answer --
+a	The man breathes 2 times in 10 seconds.							1m
+Rate of breathing: 2/10 × 60 = 12 breaths/min						1m
+b	i	The volume of air he breathes out: 6000 - 1500 					1m
+= 4500 cm3											1m
+ii	In period X, the volume of air he breathes out: 3000 - 2500 = 500 cm3	1m
+Difference: 4500 - 500 = 4000 cm3							1m
+c	i	He may be doing exercise. 								1m
+Both the rate and depth of breathing increase.					1m
+ii	To supply more oxygen to skeletal muscle cells, so that more energy can be released by respiration for muscle contraction. / 
+To remove carbon dioxide produced by skeletal muscle cells at a higher rate.														1m	
+---------------------------------------------------
+
+[10281924]
+// Drawing // Graph interpretation // Calculation //
+(*	The graph below shows the change in the volume of air in the lungs when a person is at rest.
+	
+a	Calculate the rate of breathing of this person. Show your calculation.																(2 marks)
+b	i	Are the intercostal muscles and diaphragm muscles contracting or relaxing in period X?								(2 marks)
+ii	Describe how the actions stated in b i are initiated.		(2 marks)
+c	Sketch a line, on the above graph, to show how the volume of air in the lungs changes when this person is doing exercise.				(2 marks)
+
+
+-- answer --
+a	The person breathes 4 times in 15 seconds.						1m
+Rate of breathing: 4/15 × 60 = 16 breaths/min						1m
+b	i	The intercostal muscles are contracting.	 					1m
+The diaphragm muscles are contracting.						1m
+ii	The respiratory centre in the medulla oblongata sends nerve impulses to the intercostal muscles and diaphragm muscles. 					1m
+These nerve impulses stimulate the muscles to contract.			1m
+c	
+
+Difference between the maximum value and the minimum value increases	1m
+Time needed to complete one cycle decreases						1m	
+---------------------------------------------------
+
+
+[10281927]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Read the following article and answer the questions.
+For some patients with problems in regulating their heart rate, installing an artificial pacemaker may help. An artificial pacemaker is a small electronic device which can be connected to the heart. When the heart rate becomes too low, the artificial pacemaker sends electrical impulses to stimulate the cardiac muscle to contract, thus a normal heart rate can be maintained. Some artificial pacemakers can detect the rate of breathing and the body activity to adjust the heart rate.
+	
+
+a	Name the group of cells that acts as the pacemaker of the heart.	(1 mark)
+b	Suggest how the artificial pacemaker should adjust the heart rate when the body activity of the patient increases. Explain the significance of this.																(4 marks)
+c	Describe how the change in the answer to b is brought about by the body of a healthy person when the body activity increases.			(3 marks)
+
+-- answer --
+a	Sinoatrial (SA) node											1m
+b	The artificial pacemaker should increase the heart rate.				1m
+The increase in heart rate causes an increase in cardiac output. 			1m
+This enables a greater supply of oxygen and nutrients to the skeletal muscles and
+cardiac muscle so that the muscle cells can respire at a higher rate to release more energy for muscle contractions.								1m
+This also allows carbon dioxide and lactic acid produced by muscle cells to be removed at a higher rate. This avoids the accumulation of carbon dioxide and lactic acid in the muscles.										1m
+
+
+
+c	As the body activity increases, the cardiovascular centre sends more nerve impulses via the sympathetic nerve. The sympathetic nerve releases more noradrenaline. 												1m
+The sympathetic nerve stimulates the adrenal glands to release more adrenaline.																1m
+Both actions stimulate the activity of the sinoatrial node, causing the heart rate to increase. 													1m	
+--------------------------------------------------- 
+
+[10281933]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows a section of the human heart.
+	
+
+a	i	Name the groups of cardiac muscle cells at X and Y.		(2 marks)
+ii	State the role of them in the initiation of heart beat. 		(2 marks)
+b	i	Explain why ventricles contract after the contraction of atria.															(1 mark)
+ii	State the importance of this delayed contraction of the ventricles.															(1 mark)
+c	The ventricles contract from their base. What is the importance of this to the pumping of the blood?									(1 mark)
+
+-- answer --
+a	i	X: sinoatrial (SA) node / pacemaker 							1m
+Y: atrioventricular (AV) node 								1m
+
+ii	The SA node automatically generates electrical impulses that spread to both atria and cause them to contract.							1m
+When the nerve impulses reach AV node, the AV node generates electrical impulses, which pass to both ventricles and cause them to contract.	1m 
+b	i	It is because the transmission of electrical impulses from the SA node to the ventricles takes time.										1m
+ii	This ensures the ventricles do not start contracting until they are filled with blood from the atria.										1m
+c	Contraction from the base forces all the blood out of the ventricles up into the aorta and pulmonary artery.											1m	
+---------------------------------------------------
+
+[10281944]
+// Data handling // Communication // Applying concepts //
+(*	Scientists carried out an investigation to study how the carbon dioxide content in inhaled air affects the breathing of humans. Gases with same oxygen content but different carbon dioxide content were given to different people. The volume of gas inhaled per minute of each person was recorded. The table below shows the results. 
+Carbon dioxide content in gas 
+(%)	Volume of gas inhaled per minute (dm3)	
+0.03	8	
+1	8.8	
+1.5	10.4	
+2	12	
+2.5	13.8	
+3	16	
+a	Describe the effect of increasing carbon dioxide content in the gas on the volume of gas inhaled per minute.							(2 marks)
+b	How is the change in the answer to a brought about?			(2 marks)
+c	The carbon dioxide concentration in blood is regulated by negative feedback mechanism. Describe how the body responds when carbon dioxide content in the inhaled air increases.						(5 marks)
+
+-- answer --
+a	The volume of gas inhaled per minute increases as the carbon dioxide content in the gas increases.											1m
+A greater increase is shown when the carbon dioxide content is high.		1m
+b	The increase in the volume of gas inhaled per minute is brought about by an increase in the rate and depth of breathing.							2m
+c	As carbon dioxide content in the inhaled air increases, the carbon dioxide concentration in blood rises. The pH of blood decreases.				1m
+The decrease in blood pH is detected by chemoreceptors in the aortic bodies and carotid bodies. The chemoreceptors in respiratory centre in the medulla oblongata also detect the decrease in the pH of the cerebrospinal fluid. 			1m
+The chemoreceptors send nerve impulses to the respiratory centre.		1m
+After processing, the respiratory centre sends nerve impulses via the sympathetic nerve to the intercostal muscles and diaphragm muscles, causing them to contract faster and more strongly.										1m
+The rate and depth of breathing increase. Carbon dioxide is removed from blood at a higher rate to restore the normal carbon dioxide concentration in blood.	1m	
+---------------------------------------------------

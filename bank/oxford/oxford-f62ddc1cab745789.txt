@@ -1,0 +1,1777 @@
+( Chapter 17	Movement in humans
+
+Multiple-choice questions
+
+[10275560]
+// High order thinking // Schematic diagram //
+(**The diagram below shows a neuromuscular junction. A drug can be used to compete with the neurotransmitter for the receptors on the muscle fibres in a patient so that the muscles stop to contract during surgery.
+
+	
+
+	The effect of the drug can be reversed by
+	(1)	stopping any nerve impulses from arriving at the synaptic knob.
+	(2)	inhibiting the production of neurotransmitter.
+	(3)	inhibiting the enzyme which removes the neurotransmitter.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10275573]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the structure of a knee joint.
+	
+	Dislocation is most probably caused by the damage in which of the following structures?
+A	(1)			B	(2)
+C	(3)			D	(4)
+D	
+---------------------------------------------------
+
+[10275578]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a human foot.
+	
+	Which of the following structures is/are contracting in this position?
+A	muscle P only
+B	muscle R only
+C	muscle P and tendon Q only
+D	muscle R and tendon S only
+B	
+---------------------------------------------------
+[10275582]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the human skeleton.
+
+	
+
+	Which of the labelled parts does not belong to the axial skeleton?
+A	(1)					
+B	(2)
+	C	(3)					
+	D	(4)
+D	
+---------------------------------------------------
+
+[10275584]
+// Photomicrograph //
+(*	The photomicrograph below shows a section of the head of a long bone in the human leg.
+	
+Which of the following statements about structure X is incorrect?
+A	It contains living cells.
+B	It contains minerals.
+	C	Its cavity is filled with fatty tissue.
+	D	It contains blood vessels. 
+C	
+---------------------------------------------------
+
+[10275593]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the structure of a movable joint.
+
+	Which of the labelled structures secretes fluid X?
+A	(1)			B	(2)
+	C	(3)			D	(4)
+B	
+---------------------------------------------------
+
+[10275608]
+// Graph interpretation // Applying concepts //
+(*		A force of the same size was applied to equal volume of cartilage, synovial fluid and bone. The graph below shows the changes in their volume.
+
+	
+
+The slight change in the volume of cartilage means that it is useful at joints because 
+A	it can lubricate the ends of bones.
+B	it can be bent easily.
+	C	it can absorb shock.
+	D	it does not wear away easily.
+C	
+---------------------------------------------------
+
+
+
+[10275610]
+// Cross-topic // Schematic diagram // Applying concepts //
+(**Directions: The following two questions refer to the diagrams below. Diagram I shows the posture of a dancer and diagram II shows some of the muscles associated with her right leg.
+	
+Which of the following pairs of muscles are opposing muscles? 
+(1)	P and Q
+(2)	P and R
+(3)	Q and R
+A	(1) only			B	(2) only
+C	(3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10275615]
+// Cross-topic // Schematic diagram // Applying concepts //
+(**Which muscles of the right leg of the dancer are contracting when she maintains the posture in diagram I?
+A	P and Q			
+B	P and S
+	C	Q and R			
+	D	R and S
+D	
+---------------------------------------------------
+
+[10275652]
+// Cross-topic // Schematic diagram // Applying concepts //
+(**Which of the following will occur if structure Z of the dancer is broken?
+A	Her knee jerk reflex will be affected.
+B	Her upper leg will not be able to move.
+	C	Muscle P will not be able to contract.
+	D	Muscle P will not be able to relax.
+A	
+---------------------------------------------------
+
+[10275655]
+// Cross-topic // Scientific investigation // Data handling //
+(**Different solutions were added to four muscle strands from a thigh muscle. The table below shows the changes in their lengths.
+
+Muscle strand	Solution	Length of muscle strand (mm)	
+		Start	After 5 minutes	
+W	1% glucose solution	48	48	
+X	1% ATP solution	50	45	
+Y	0.5% ATP solution	48	46	
+Z	1% ATP solution (boiled then cooled)	49	44	
+
+Which of the following conclusions can be drawn from the results? 
+(1)	ATP is produced in muscles when glucose is absent.
+(2)	ATP can cause muscle contraction. 
+(3)	ATP is not a protein.
+A	(2) only
+B	(1) and (2) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+D	
+---------------------------------------------------
+
+
+
+
+[10275665]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows some synapses formed between a motor neurone and some muscle fibres of a striated muscle.
+	
+This kind of muscle can be found in
+(1)	the diaphragm.
+(2)	the walls of arteries and veins.
+(3)	the heart.
+A	(1) only				B	(1) and (2) only
+	C	(1) and (3) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10275679]
+// Schematic diagram // Applying concepts //
+(*	Why does the axon branch off to form synapses with a number of muscle fibres?
+A	To produce a larger nerve impulse for the stimulation of the muscle fibres.
+B	To stimulate the muscle fibres to contract simultaneously.
+	C	To release more neurotransmitters for the transmission of nerve impulses.
+	D	To reduce the demand for energy in muscle contraction.
+B	
+---------------------------------------------------
+
+[10275684]
+// Applying concepts //
+(*	Directions: The following two questions refer to the X-ray photograph below, which shows part of the human skeleton.
+	
+	Which bone(s) belong(s) to the axial skeleton?
+	A	X only			
+	B	Y only
+	C	X and Y only		
+	D	X and Z only
+B	
+---------------------------------------------------
+
+[10275697]
+// Applying concepts //
+(*	Which of the following functions do the bones shown perform?
+(1)	allow movement
+(2)	protect internal organs
+(3)	produce blood cells
+	A	(1) and (2) only	
+	B	(1) and (3) only
+	C	(2) and (3) only	
+	D	(1), (2) and (3)	
+D	
+---------------------------------------------------
+
+[10275700]
+// Photomicrograph // Basic concepts //
+(*	Directions: The following two questions refer to the photograph below, which shows a section of the head of a limb bone.
+	
+
+	Which of the following statements about part P is/are correct?
+(1)	It is made up of living cells.
+(2)	It does not contain minerals.
+(3)	It reduces friction between bones during movement.
+	A	(1) only				B	(2) only	
+	C	(1) and (3) only		D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10275720]
+// Photomicrograph // Basic concepts //
+(*	Which of the following statements about parts Q and R is/are correct?
+	(1)	Q contains red bone marrow.
+	(2)	R is only found in limb bones.
+(3)	Q is soft and elastic while R is hard and dense.
+	A	(1) only			
+	B	(2) only	
+	C	(1) and (2) only	
+	D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10275723]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows some structures associated with the elbow joint.
+	
+	Which of the following statements about structures X and Y is/are correct?
+	(1)	Structure X is elastic while structure Y is inelastic.
+(2)	Both structures X and Y are involved in the movement of bones at joints.
+(3)	Structure X relaxes and structure Y contracts to straighten the arm.
+A	(1) only	
+	B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10275761]
+// Basic concepts //
+(	Which of the following statements about muscle fibres is/are correct?
+	(1)	A muscle fibre consists of many muscle cells.
+(2)	A muscle fibre has many nuclei.
+(3)	A skeletal muscle consists of many muscle fibres.
+	A	(1) only	
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10275764]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a muscle in the leg.
+	
+
+	Which of the following statements about muscle M is correct?
+	A	It is a flexor. We can stand on the tiptoe when it contracts.
+	B	It is a flexor. We can stand on the tiptoe when it relaxes.
+C	It is an extensor. We can stand on the ankle when it contracts.
+D	It is an extensor. We can stand on the ankle when it relaxes.
+D	
+---------------------------------------------------
+
+[10275785]
+// Basic concepts //
+(	Which of the following is not a function of the skeleton?
+	A	to provide support
+B	to protect the internal organs
+	C	to produce antibodies
+D	to store calcium
+C	
+---------------------------------------------------
+
+[10275797]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a joint.
+	
+	Which of the following statements about X is correct?
+	A	It provides nutrients for the growth of bones.
+B	It serves as a lubricant to reduce friction.
+	C	It is produced by cartilage.
+D	It connects the muscles to the bones.
+B	
+---------------------------------------------------
+
+[10275804]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a movement of the forearm.
+	
+	Which of the following is correct?
+			Muscle X		Muscle Y
+	A	flexor			extensor
+	B	extensor			flexor
+	C	triceps			biceps
+	D	biceps			biceps
+A	
+---------------------------------------------------
+
+[10275809]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a movement of the forearm.
+	
+
+	Which of the following is correct?
+			Muscle X		Muscle Y
+	A	contracts			contracts
+	B	contracts			relaxes
+	C	relaxes			contracts
+	D	relaxes			relaxes
+B	
+---------------------------------------------------
+
+[10275810]
+// Schematic diagram // Applying concepts //
+(**The photograph below shows a woman doing warm-up exercise. 
+	
+
+The diagram below shows some muscles and bones in her left leg.
+	
+Which of the following correctly shows the states of muscles X and Y in her left leg when she maintains the posture shown in the photograph?
+		X			Y
+A	contracts		contracts	
+B	contracts		relaxes
+C	relaxes		contracts	
+D	relaxes 		relaxes
+A	
+---------------------------------------------------
+
+[10275820]
+// Schematic diagram // Applying concepts //
+(**The photograph below shows a girl dancing. The diagram below shows some muscles and bones in her left leg.
+		
+Which of the following correctly shows the states of muscles X and Y in her left leg when she maintains the posture shown in the photograph?
+		X			Y 
+A	contracts		contracts
+B	contracts		relaxes
+C	relaxes		contracts
+D	relaxes 		relaxes	
+D	
+---------------------------------------------------
+
+[10275839]
+// Basic concepts //
+(*	Which of the following statements about the neuromuscular junctions is/are correct?
+(1)	One motor neurone can stimulate the contraction of several muscle fibres. 
+(2)	Only voluntary muscle contractions involve neuromuscular junctions.
+(3)	The neurotransmitter stimulates the muscle fibres to generate nerve impulses.
+A	(1) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10275841]
+// Applying concepts //
+(*	A man is lifting a weight. The photograph below shows his arm.
+	
+
+Which of the following correctly describes the events that bring about the action?
+A	The axon of a motor neurone releases neurotransmitter to stimulate the biceps to contract. 
+B	The axon of a motor neurone releases neurotransmitter to stimulate the triceps to contract. 
+C	The dendron of a motor neurone releases neurotransmitter to stimulate the biceps to contract.
+D	The dendron of a motor neurone releases neurotransmitter to stimulate the triceps to contract.
+A	
+---------------------------------------------------
+
+[10275854]
+// Applying concepts //
+(*	A man became paralysed from the chest down after an injury on his neck. Which of the following can be a reason for the paralysis?
+(1)	Nerve impulses could not reach the neuromuscular junctions.
+(2)	The spinal cord was damaged.
+(3)	The neuromuscular junctions were blocked.
+A	(1) only 
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10275862]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows part of the human skeleton.
+	
+
+What are the functions of S?
+(1)	It protects the lungs, heart and stomach.
+(2)	It assists breathing.
+(3)	It stores calcium.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10275889]
+// Schematic diagram // Basic concepts //
+(	Which of the following structures are parts of the axial skeleton? 
+A	P and R only 
+B	P, R and S only
+C	P, Q, R and S only
+D	P, Q, R, S and T
+B	
+---------------------------------------------------
+
+[10275898]
+// Comparison // Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows part of the human vertebral column.
+	
+
+What is the function of Q?
+A	It holds the vertebrae in position.
+B	It attaches muscles to the vertebrae.
+C	It absorbs shock during movement.
+D	It provides a surface for muscles to attach.
+C	
+---------------------------------------------------
+
+[10275904]
+// Comparison // Schematic diagram // Applying concepts //
+(*	Which of the following comparisons between P and Q is incorrect?
+A	Both of them are made up of living cells and minerals.
+B	Both of them contain blood vessels which provide nutrients and oxygen to the cells.
+C	Both of them give shape and support to the body.
+D	P is harder and less elastic than Q.
+B	
+---------------------------------------------------
+
+[10275909]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows some muscles and bones in a human arm.
+	
+
+Which of the following statements about muscles X and Y are correct?
+(1)	X is the biceps.
+(2)	Y becomes shorter and thicker when the arm straightens.
+(3)	X and Y are opposing muscles.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10275914]
+// Schematic diagram // Applying concepts //
+(*	Which of the following occurs when the person moves the forearm closer to the shoulder? 
+A	X contracts and Y relaxes.
+B	X relaxes and Y contracts.
+C	Both X and Y contract.
+D	Both X and Y relax.
+A	
+---------------------------------------------------
+
+[10275921]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows some muscles and bones in a human leg.
+	
+
+Which of the following muscles are extensors?
+A	P and R
+B	P and S
+C	Q and R
+D	Q and S
+B	
+---------------------------------------------------
+
+[10275922]
+// Schematic diagram // Applying concepts //
+(*	What will happen when S contracts?
+A	The leg will bend at the knee.
+B	The leg will straighten at the knee.
+C	The leg will bend at the ankle.
+D	The leg will straighten at the ankle.
+D	
+---------------------------------------------------
+
+[10275924]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following three questions refer to the diagram below, which shows some muscles and bones in a human leg. 
+	
+
+Which of the following muscles are flexors?
+A	P and R
+B	P and S 
+C	Q and R
+D	Q and S
+B	
+---------------------------------------------------
+
+[10275929]
+// Schematic diagram // Applying concepts //
+(*	Which of the following statements about structure T are correct?
+(1)	It is tough and elastic.
+(2)	It connects a muscle to a bone.
+(3)	It transmits the pulling force generated by muscle contraction to the bone.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10275932]
+// Schematic diagram // Applying concepts //
+(*	Which of the following is not a function of structure U?
+A	It protects internal organs.
+B	It supports the body.
+C	It produces white blood cells.
+D	It stores calcium.
+A	
+---------------------------------------------------
+
+[10275934]
+// Schematic diagram // Applying concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the structure of a movable joint.
+	
+What is X?
+A	bone					B	cartilage
+C	ligament				D	synovial membrane
+D	
+---------------------------------------------------
+
+[10275940]
+// Schematic diagram // Applying concepts //
+(	Which of the following is a correct description of Y?
+A	It prevents bones from wearing away.
+B	It is elastic so that the bones can move.
+C	It is strong enough to provide support to our body.
+D	It is present only in the axial skeleton.
+B	
+---------------------------------------------------
+
+[10275946]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following three questions refer to the diagram below, which shows some muscles and bones in a human leg.
+	
+
+The degree of movement of the bones at P is similar to that of the bones at 
+A	the shoulder joint.
+B	the elbow joint.
+C	the knee joint.
+D	the joints between bones of the index finger.
+A	
+---------------------------------------------------
+
+[10275950]
+// Schematic diagram // Applying concepts //
+(*	Which of the following structures attaches muscles to bones?
+A	P
+B	Q
+C	R
+D	S
+D	
+---------------------------------------------------
+
+[10275962]
+// Schematic diagram // Applying concepts //
+(*	When R contracts,
+A	the leg bends at the ankle.
+B	the leg bends at the knee.
+C	the leg straightens at the knee.
+D	the femur is pulled forwards.
+C	
+---------------------------------------------------
+
+[10275964]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows some muscles and bones in a human arm.
+
+	
+
+Which of the following statements about X is/are correct?
+(1)	When the forearm is raised, X becomes longer.
+(2)	X can generate a force to raise the forearm.
+(3)	X is a living tissue.
+A	(1) only 
+B	(3) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10275969]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows a neuromuscular junction.
+
+	
+
+What is Y?
+A	ATP
+B	blood platelet
+C	neurotransmitter
+D	vesicle
+C	
+---------------------------------------------------
+
+[10275987]
+// Schematic diagram // Basic concepts //
+(	Cell X secretes Y actively when a nerve impulse reaches the ending of cell X. Which of the following structures is most likely present in cell X for carrying out this function but is missing in the above diagram?
+A	cell wall
+B	mitochondrion
+C	chloroplast
+D	vacuole
+B	
+---------------------------------------------------
+
+[10275991]
+// Schematic diagram // Applying concepts //
+(**Directions: The following two questions refer to the photograph and the diagram below. The photograph shows an athlete who is skating. The diagram shows some muscles and bones in her right leg.
+
+		
+
+Which muscles in her right leg are contracting at the moment shown in the photograph?
+A	P and Q
+B	P and S
+C	Q and R
+D	Q and S
+C	
+---------------------------------------------------
+
+[10275995]
+// Schematic diagram // Applying concepts //
+(**Which of the following are produced in structure T?
+(1)	calcium salts
+(2)	red blood cells
+(3)	white blood cells
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10276029]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following three questions refer to the diagram below, which shows a ball-and-socket joint.
+	
+Which structure(s) can reduce friction during movement?
+A	Q only					B	P and Q only 
+C	P and S only				D	P, Q and S only
+B	
+---------------------------------------------------
+
+[10276033]
+// Schematic diagram // Applying concepts //
+(*	Which of the following is the function of R?
+A	It prevents dislocation during movement. 
+B	It secretes synovial fluid.
+C	It generates a force for movement at the joint.
+D	It contracts and relaxes to bring about movement at the joint.
+A	
+---------------------------------------------------
+
+[10276039]
+// Schematic diagram // Applying concepts //
+(*	Which of the following is an example of this type of joint?
+A	the joint between toe bones
+B	the elbow joint
+C	the knee joint
+D	the hip joint
+D	
+---------------------------------------------------
+
+[10276053]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows some muscles and bones in a human arm.
+
+	
+
+Which of the following shows the actions of X, Y and Z when a person raises his forearm?
+X			Y			Z
+A	contracts		relaxes		bends 
+B	contracts		relaxes		extends
+C	relaxes 		contracts		bends 
+D	relaxes 		contracts		extends
+A	
+---------------------------------------------------
+
+[10276060]
+// Schematic diagram // Applying concepts //
+(*	Which of the following statements about Z is correct?
+A	It allows movement of the bones in one plane only.
+B	At Z, the bones are hold together by tendons. 
+C	Z connects the bone in the upper arm to the pelvic girdle.
+D	The degree of movement of the bones at Z is the same as the degree of movement of the bones at the shoulder joint.
+A	
+---------------------------------------------------
+
+[10276078]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the movement of the forearm.
+	
+Muscles P and Q work in a pair and are called
+A	cardiac muscles.
+B	smooth muscles.
+C	opposite muscles.
+D	opposing muscles.
+D	
+---------------------------------------------------
+
+[10276113]
+// Basic concepts //
+(*	Which of the following statements about cartilage is correct?
+A	It produces blood cells. 
+B	It can be slightly compressed for shock absorption.
+C	It secretes a fluid to reduce friction between the bones.
+D	It is linked with bones by ligaments.
+B	
+---------------------------------------------------
+
+[10276129]
+// Basic concepts //
+(	The ball-and-socket joint is found in the
+A	shoulder.			B	knee.
+C	elbow.			D	ankle.
+A	
+---------------------------------------------------
+
+[10276135]
+// Comparison // Schematic diagram //
+(	The diagram below shows two kinds of tissues, X and Y, in the elbow.
+	
+Which of the following comparisons between X and Y is/are correct?
+(1)	X contains more minerals than Y.
+(2)	X is made up of living cells while Y is made up of dead cells.
+(3)	X is softer than Y.
+A	(3) only					B	(1) and (2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10276137]
+// Basic concepts //
+(	The appendicular skeleton includes
+A	the girdles and the limb bones only.
+B	the girdles and the rib cage only.
+C	the limb bones and the rib cage only.
+D	the girdles, the limb bones and the rib cage.
+A	
+---------------------------------------------------
+
+[10276138]
+// Basic concepts //
+(*	Which of the following correctly describes the biceps and triceps?
+Biceps		Triceps
+A	extensor		extensor 
+B	extensor		flexor
+C	flexor		extensor 
+D	flexor		flexor
+C	
+---------------------------------------------------
+
+[10276142]
+// Schematic diagram // Basic concepts //
+(	Which of the following are parts of the axial skeleton?
+(1)	(2)	(3)	
+			
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10276155]
+// Basic concepts //
+(	Calcium absorbed from the diet is mainly stored in the
+A	cartilage.
+B	bones.
+C	skeletal muscles.
+D	liver.
+B	
+---------------------------------------------------
+
+[10276181]
+// Basic concepts //
+(	Which of the following is part of the appendicular skeleton?
+A	skull
+B	vertebral column
+C	sternum
+D	pectoral girdle
+D	
+---------------------------------------------------
+
+[10276187]
+// Comparison // Schematic diagram //
+(	The diagram below shows some muscles and bones in a human arm.
+
+	
+
+Which of the following comparisons between joints P and Q is correct?
+Joint P							Joint Q
+A	allows movement in many planes		allows movement in one plane only
+B	is a hinge joint						is a ball-and-socket joint
+C	is the elbow joint					is the shoulder joint
+D	is a movable joint					is an immovable joint
+A	
+---------------------------------------------------
+
+[10276194]
+// Basic concepts //
+(	The rib cage is a part of the axial skeleton. Which of the following are the functions of the rib cage?
+(1)	It provides surfaces for muscle attachments.
+(2)	It protects internal organs.
+(3)	It stores minerals.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10276201]
+// Basic concepts //
+(*	Which of the following statements about the functions of the skeleton is/are incorrect?
+(1)	The rib cage protects the heart.
+(2)	The thigh bone produces blood cells.
+(3)	The cartilage acts as a storage of iron.
+A	(2) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10276207]
+// Basic concepts //
+(	Which of the following are parts of the axial skeleton?
+(1)	skull
+(2)	pelvic girdle
+(3)	vertebrae
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10276215]
+// Basic concepts //
+(	Which of the following correctly describes the degrees of movement of the bones at the hip joint and knee joint?
+Hip joint			Knee joint
+A	in one plane		in one plane
+B	in one plane		in many planes
+C	in many planes	in one plane
+D	in many planes	in many planes
+C	
+---------------------------------------------------
+
+[10276229]
+// Basic concepts //
+(	Which of the following correctly describes the functions of ligaments and tendons? 
+A	Ligaments protect the brain and tendons attach the muscles to the bones. 
+B	Ligaments attach the muscles to the bones and tendons protect the joints. 
+C	Ligaments link bones together and tendons protect the muscles. 
+D	Ligaments hold the bones at the joints in position and tendons attach the muscles to the bones. 
+D	
+---------------------------------------------------
+
+[10276250]
+// Basic concepts //
+(	Which of the following structures helps prevent dislocation?
+A	cartilage				B	ligament
+C	tendon				D	synovial membrane
+B	
+---------------------------------------------------
+
+[10276259]
+// Basic concepts //
+(	The end surface of a bone inside a movable joint is covered with
+A	ligaments.			B	tendons.
+C	bone marrow.			D	cartilage.
+D	
+---------------------------------------------------
+
+[10276260]
+// Basic concepts //
+(*	Which of the following actions will cause the forearm to move upwards?
+A	contraction of the biceps and triceps
+B	relaxation of the biceps and triceps
+C	contraction of the biceps and relaxation of the triceps
+D	contraction of the triceps and relaxation of the biceps
+C	
+---------------------------------------------------
+
+[10276281]
+// Applying concepts //
+(*	Which of the following can show that bones are living tissues?
+(1)	Bones can carry out respiration.
+(2)	Bones can repair themselves when they are broken.
+(3)	Bones are strong and rigid.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10276291]
+// Basic concepts //
+(	Which of the following structures can be found in bone tissues?
+(1)	muscle fibres
+(2)	nerve fibres
+(3)	blood vessels
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10276309]
+// Cross-topic //
+(**Cartilage can be found in
+(1)	the nose.
+(2)	the oesophagus.
+(3)	the trachea.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10276318]
+// Applying concepts //
+(	Which of the following is/are the way(s) to keep our skeleton and muscles healthy?
+(1)	To have a diet rich in vitamin D.
+(2)	To avoid wearing unfit clothes and shoes.
+(3)	To keep a correct posture when working.
+A	(2) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10276321]
+// Basic concepts //
+(	Which of the following structures attaches a muscle to a bone?
+A	ligament
+B	tendon
+C	movable joint
+D	cartilage
+B	
+---------------------------------------------------
+
+[10276323]
+// Basic concepts //
+(	Which of the following statements about human skeletal muscles is correct?
+A	Muscles are usually arranged separately and work alone.
+B	Muscles are attached to the bones by elastic tendons.
+C	Tendons reduce the pulling force generated by the contraction of muscles.
+D	Movement of bones is brought about by the contraction and relaxation of muscles.
+D	
+---------------------------------------------------
+
+
+Short questions
+[10276408]
+// High order thinking // STSE connections // Applying concepts //
+(**A bacterial toxin has been licensed for reducing wrinkles since 2002. In the treatment, small amounts of the weakened toxin are injected into facial muscles. The toxin binds to presynaptic membranes of neuromuscular junctions, preventing synaptic vesicles from fusing with the presynaptic membranes. The toxin can reduce wrinkles for 3(4 months and the effect wears off. If the injections are placed improperly or the doses are incorrect, side effects such as droopy eyelids may develop.
+	
+a	Explain how the toxin can reduce wrinkles by acting on neuromuscular junctions.												(3 marks)
+b	Suggest two causes of the loss of the effect of the toxin after a few months.															(2 marks)
+
+-- answer --
+a	The toxin prevents synaptic vesicles from fusing with the presynaptic membrane, and thus no neurotransmitter can be released to the synaptic clefts when nerve impulses arrive.												1m
+	Without the binding of neurotransmitter to the receptors on the postsynaptic membranes, electrical impulses cannot be generated by the muscle fibres of the facial muscles.												1m
+	The facial muscles cannot contract and wrinkles are therefore reduced.	1m
+b	The toxin is destroyed by the immune system of the body.				1m
+	New neuromuscular junctions are formed.							1m
+	(or other reasonable answers)	
+---------------------------------------------------
+[10276418]
+// Drawing // STSE connections // Schematic diagram // Applying concepts //
+(*	The diagram below shows the hip bone and the upper leg bone at the hip joint.
+
+	
+
+a	Draw and label the cartilage and ligament on the above diagram.	(2 marks)
+b	How will the movement at the joint be affected if the cartilage is worn
+	away?												(2 marks)
+c	Suggest one reason why cartilage may be worn away.			(1 mark)
+	d	A damaged hip joint can be replaced with an artificial joint.
+
+	
+	Suggest two properties of the material that is used to make the artificial joint and give reasons for your answers.							(2 marks)
+-- answer --
+a	
+
+	Correct drawing and labels									1m x 2
+b	Friction between the bones in the hip joint increases as the cartilage is worn away.														1m
+	The increase in friction may limit the degree of movement of the upper leg.
+															1m
+c	Overuse of the joint / obesity								1m
+	(or other reasonable answers)
+d	The material must be non-toxic so that it will not damage the health of the patient.
+															1m
+	The material must be strong to support the weight of the body.		1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10276450]
+// Schematic diagram // Applying concepts //
+(*	The diagram on the left shows the side view of a vertebral column in humans. The diagrams on the right show the top views of two of the vertebrae from different regions of the vertebral column, which are drawn to the same scale.
+	
+a	Explain how the S-shape of the vertebral column is important to our movement.											(1 mark)
+b	Name the structure which passes through part Y in the vertebrae.																	(1 mark)
+c	Give one function of part Z in the vertebrae.					(1 mark)
+d	Why is part X in vertebra II larger than that in vertebra I?		(1 mark)
+e	Osteoporosis is caused by the loss of calcium from bones. Explain why osteoporosis in the vertebral column can lead to a reduction in height.																(1 mark)
+
+
+-- answer --
+	a	The S-shaped vertebral column acts as a spring to absorb shock during 				movement.												1m
+	b	Spinal cord												1m
+	c	It is for muscle attachment.										1m
+	d	Part X in vertebra II needs to bear a larger body weight.				1m
+	e	The vertebrae lose strength and the body weight causes the vertebral column to 			bend down.												1m	
+---------------------------------------------------
+
+[10276462]
+// Schematic diagram // Applying concepts //
+(*	In osteoarthritis, the cartilage in a joint wears away. The diagram below shows a healthy hip joint and a hip joint with osteoarthritis.
+	
+a	Suggest one factor which increases the risk of osteoarthritis. 	(1 mark)
+b	Explain how osteoarthritis in a hip joint affects the movement of the upper leg.													(2 marks)
+The hip joint with osteoarthritis can be replaced by an artificial joint. 
+	
+c	Describe the degree of movement allowed by this kind of artificial joint. 															(1 mark)
+d	Besides the hip joint, name one other joint in the human body which can be replaced by this kind of artificial joint.						(1 mark)
+e	Suggest one other form of treatment for osteoarthritis, other than joint replacement.											(1 mark)
+
+
+-- answer --
+	a	Ageing / overuse of the joint / overweight / obesity					1m
+	b	Friction between the bones in the hip joint increases as the cartilage wears away.																	1m
+		The increase in friction may limit the degree of movement of the upper leg.	1m
+	c	The artificial joint allows movement of bones in many planes.			1m
+	d	Shoulder joint												1m
+	e	Exercise / weight loss / injections to stimulate growth of cartilage (or other 				reasonable answers)											1m	
+---------------------------------------------------
+[10276470]
+// Cross-topic // High order thinking // Schematic diagram //
+(**Diagram I on the left shows the normal functioning of a neuromuscular junction. Diagram II on the right shows the different actions of two chemicals, X and Y, on the neuromuscular junction.
+	
+a	Give two similarities in the transmission of nerve impulses across a neuromuscular junction and a synapse between two neurones.	(2 marks)
+b	Which chemical, X or Y, will cause uncontrollable muscle contraction? Explain your answer.									(3 marks)
+
+-- answer --
+	a	Both involve the release of neurotransmitter from the presynaptic neurone. / 
+		Both involve the diffusion of neurotransmitter across the synaptic cleft. /
+		Both involve the binding of neurotransmitter to receptors on postsynaptic 				membrane. /
+		The binding of neurotransmitter to receptors stimulates the generation of an 			impulse in both cases. 
+		(any 2 or other correct answers)								1m ( 2
+	b	Chemical X											1m
+		Chemical X binds with the enzymes and prevents them from breaking down the 			neurotransmitter.										1m
+		The neurotransmitter continues to bind to the receptors and the muscle fibre is 			stimulated continuously to contract.							1m	
+---------------------------------------------------
+
+[10276477]
+// Schematic diagram // Basic concepts //
+(	Diagram I shows the side view of the vertebral column. Diagram II shows the structure of part of the vertebral column.
+	
+a	Which structure is protected by the vertebral column?			(1 mark)
+b	The vertebral column is S-shaped in side view. State the significance of this.														(2 marks)
+c	Name structure X that is found between adjacent vertebrae. State two functions of it.											(3 marks)
+
+-- answer --
+	a	Spinal cord												1m
+	b	The S-shaped vertebral column acts as a spring						1m
+		to absorb shock during movement.								1m
+	c	Intervertebral disc											1m
+		It allows bending of the vertebral column.							1m
+		It acts as a shock absorber.									1m	
+---------------------------------------------------
+
+[10276490]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a hand in which some finger joints are affected by osteoarthritis. The affected joints become less flexible.
+
+	
+
+a	Describe the degree of movement allowed by joint X.			(1 mark)
+b	Besides finger joints, give one joint in the body by which the degree of movement allowed is similar to that allowed by joint X.		(1 mark)
+c	Describe the appearance of the joints affected by osteoarthritis.	(2 marks)
+d	Name one structure of a joint that is not shown in the diagram above.																(1 mark)
+
+
+-- answer --
+	a	Joint X allows movement in one plane only. 						1m
+	b	Elbow joint / knee joint										1m
+		(or other correct answers)
+	c	The cartilage in the joints wears away.							1m
+		The end surfaces of the bones rub against each other.					1m
+	d	Ligament / fibrous capsule / synovial membrane / synovial fluid			1m	
+---------------------------------------------------
+
+[10276493]
+// Drawing // Schematic diagram // Basic concepts //
+(	The diagram below shows part of a bending arm.
+	
+
+a	Complete the diagram to show the position of the triceps.		(2 marks)
+b	Describe the actions of the biceps and the triceps in order to straighten the arm.													(2 marks)
+c	What is the term used to describe a pair of muscles that work in opposite actions in a movement? 									(1 mark)
+
+-- answer --
+	a	
+		Correct drawing to show the triceps being thinner than the biceps			1m
+		The lower end of the triceps attaches to the ulna through a tendon		1m
+	b	The biceps relaxes  											1m
+		and the triceps contracts.										1m
+	c	Opposing muscles / Antagonistic muscles							1m	
+---------------------------------------------------
+
+[10276501]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the connection between a neurone and a skeletal muscle.
+	
+a	State whether neurone R is a sensory neurone, an interneurone or a motor neurone.												(1 mark)
+b	Name junction S.										(1 mark)
+c	Describe what happens when a nerve impulse reaches T.		(3 marks)
+
+-- answer --
+	a	Motor neurone												1m
+	b	Neuromuscular junction / Motor end plate							1m
+	c	The nerve impulse stimulates the release of neurotransmitter from the vesicles in 		T. 														1m
+		The neurotransmitter diffuses across the cleft to the muscle fibre.			1m
+		It stimulates the membrane of the muscle fibre to generate an electrical impulse, 			which spreads along the muscle fibre and the muscle contracts.			1m	
+---------------------------------------------------
+
+[10276504]
+// Cross-topic // Applying concepts //
+(*	Many mitochondria can be found in the ending of the axon of the motor 
+neurones. State the roles of mitochondria in the transmission of nerve impulses across the neuromuscular junctions. 							(4 marks)
+
+-- answer --
+Mitochondria are the main site of respiration. 						1m
+They release energy from the food for various activities in the neuromuscular junctions. 															1m
+Energy is used in the synthesis of neurotransmitter. /
+Energy is used in the formation of vesicles. / 
+Energy is used in the movement of vesicles. / 
+Energy is used in exocytosis / the release of neurotransmitter into the cleft. 
+(any 2)													1m x 2	
+---------------------------------------------------
+
+[10276545]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+Bones, together with a                     , make up the human skeleton. They contain living cells and are rich in b                      ions. The bones provide a surface for the attachment of c                     , which work together with the bones to support the body weight and bring about 
+d                      of different body parts.
+
+-- answer --
+a	cartilage													1m
+b	calcium / phosphate / mineral									1m
+c	muscles / skeletal muscles / striated muscles						1m
+d	movement													1m 	
+---------------------------------------------------
+
+[10276562]
+// High order thinking // Schematic diagram //
+(**A student is stretching his legs. He is standing on his right leg with his left leg in the air. He moves his left foot as shown in the diagram below.
+	
+
+The above movement follows the lever principle. 
+a	What is the load and what provides the effort in the above movement?																(2 marks)
+b	The diagrams below show some types of lever system.
+
+	
+
+Identify the type of lever system involved in the above movement.																(1 mark)
+c	Suggest one advantage of using lever principle in moving the foot.																(1 mark)
+
+-- answer --
+a	The weight of the foot is the load.								1m
+Muscle contraction provides the effort.								1m
+b	Type III													1m
+c	A short contraction of the muscle can bring about a large movement of the foot.																1m 	
+--------------------------------------------------- 
+
+[10276563]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a movable joint.
+
+	
+
+a	Describe the degree of movement this joint allows.			(1 mark)
+b	In which part of the human body can this type of joint be found?	(1 mark)
+c	State one property of structure X and explain how this property facilitates the function of the joint.									(2 marks)
+d	Explain how structures Y and Z help minimize friction during movement.															(2 marks)
+
+-- answer --
+a	This joint allows movement of the bones in many planes / almost all directions.																1m
+b	Shoulders / hip												1m
+c	It is tough.													1m
+It holds the bones in position to prevent dislocation during movement.		1m
+OR
+It is elastic.												1m
+It allows the bones to move.									1m
+d	Y secretes synovial fluid, which acts as a lubricant to reduce friction.		1m
+Z is soft and elastic. It covers the end surfaces of the bones to reduce friction.																1m	
+---------------------------------------------------
+
+[10276580]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows an elbow joint.
+	
+a	Name the type of joint and describe the degree of movement it allows.																(2 marks)
+b	Explain the elasticity of ligaments and tendons in relation to their functions.														(2 marks)
+-- answer --
+a	Hinge joint													1m
+It allows movement of the bones in one plane.						1m
+b	Ligaments are elastic. This allows bending at the joints / allows the bones to move.															1m
+Tendons are inelastic. This allows effective transmission of the pulling force generated by muscle contraction to the bones.						1m	
+--------------------------------------------------- 
+
+[10276582]
+// Basic concepts //
+(	a	The human skeleton provides protection for many parts of the body.
+Give two other functions of the human skeleton and name one structure that is responsible for each of the functions.						(4 marks)
+b	Use lines to link the parts of the skeleton to the organs which they protect.															(3 marks)
+Part of skeleton		Organ	
+Vertebrae		Spinal cord	
+		Heart	
+Skull		Lungs	
+		Kidneys	
+Rib cage		Brain	
+-- answer --
+a	Support: vertebral column / hindlimb
+Movement: limb bones / girdles
+Production of blood cells: red bone marrow
+Storage of minerals: any named bone 
+(any two functions with structure)							2m x 2
+b	Vertebrae: Spinal cord									1m
+Skull: Brain											1m
+Rib cage: Heart and lungs									1m	
+---------------------------------------------------
+
+[10276585]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows an arm of a person. 
+	
+a	Muscles X and Y in the upper arm are antagonistic muscles. Describe the actions of these two muscles when the person lifts his forearm.	(2 marks)
+b	Describe the roles of ligaments and cartilage in the movement of the forearm. 												(4 marks)
+
+-- answer --
+a	X contracts.											1m
+Y relaxes.												1m 
+b	Ligaments are elastic to allow movement at the elbow joint.			1m
+Ligaments hold the bones in the upper arm and forearm together / prevent dislocation.											1m
+Cartilage covers the end surfaces of the bones. / Cartilage absorbs shock. /
+Cartilage reduces friction between the bones / prevents the bones from wearing away. (any 2)											1m x 2	
+---------------------------------------------------
+
+[10276587]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows some muscles and bones in a human leg.
+
+	
+
+
+a	i	What types of joints are joints X and Y?					(1 mark)
+ii	Compare the degrees of movement joints X and Y allow.	(2 marks)
+b	Name structure Z and state two functions of it.				(3 marks)
+c	Using the letters in the diagram, state the muscle(s) that is/are contracting in the girl's right leg when she maintains her posture as shown below.																(1 mark)
+	
+
+-- answer --
+a	i	Joint X: ball-and-socket joint 
+Joint Y: hinge joint										1m
+ii	Joint X allows movement of the bones in many planes / almost all directions.															1m
+Joint Y allows movement of the bones in one plane only.			1m
+b	Tendon													1m
+It attaches the muscles to the bones.								1m
+It transmits the pulling force generated by muscle contraction to the bones.	1m
+c	Muscle Q and muscle R										1m	
+---------------------------------------------------
+
+[10276600]
+// Communication // Schematic diagram // Applying concepts //
+(*	The diagram below shows a cross-section of a striated muscle.
+
+	
+
+a	The contraction of muscles is controlled by the nervous system. Describe how a nerve impulse causes contraction of a muscle.			(4 marks)
+b	Tendons are present at the ends of muscles. Explain why the arm cannot bend if the tendon connecting the biceps is broken.			(2 marks)
+-- answer --
+a	When a nerve impulse reaches the ending of the axon of a motor neurone, it stimulates the release of neurotransmitter from vesicles in the ending. 		1m
+The neurotransmitter diffuses across the cleft to the muscle fibre. 		1m
+It stimulates the muscle fibre to generate an electrical impulse. 			1m
+The electrical impulse spreads along the muscle fibre and the muscle contracts. 																1m
+b	Tendon attaches the biceps to the bone in the forearm.				1m
+If the tendon is broken, the pulling force generated by the contraction of biceps cannot be transmitted to the bone in the forearm, and therefore no bending of the arm occurs.												1m	
+---------------------------------------------------
+
+[10276624]
+// Cross-topic // Reading comprehension // High order thinking //
+(**Read the following article and answer the questions.
+	A muscle relaxant is a drug which affects the function of skeletal muscles. There are two groups of muscle relaxants: the peripherally-acting relaxants and the centrally-acting relaxants, which are defined according to their sites of actions.
+	The peripherally-acting relaxants act by interfering with the transmission of nerve impulses at neuromuscular junctions. As they do not affect the central nervous system, they are often used in surgeries and emergency conditions to cause paralysis temporarily. The centrally-acting relaxants are mainly used to relieve muscle pain and cramps (non-coordinated contractions of a group of muscles).	
+
+a	Suggest one possible way in which the peripherally-acting relaxants cause paralysis.												(2 marks)
+b	State one possible site where the centrally-acting relaxants may act on when they are used to relieve muscle pain and cramps respectively.	(2 marks)
+c	Fruits of some plants contain substances whose chemical structure is similar to that of muscle relaxants. These fruits are toxic and often kill people who eat them. Explain how these fruits can kill.					(2 marks)
+
+-- answer --
+a	It destroys the neurotransmitter released by the ending of axons. 		1m
+The muscle fibres therefore cannot be stimulated to generate electrical impulses that trigger muscle contractions. 								1m
+OR
+It inactivates the muscle fibres. 									1m
+Even when nerve impulses stimulate the release of neurotransmitter from the ending of axons, no electrical impulses are generated by the muscle fibres.	1m
+(or other reasonable answers)
+b	To relieve muscle pain: sensory neurones in the spinal cord				1m
+To relieve cramps: motor neurones in the spinal cord					1m
+c	The substances in these fruits can block the transmission of nerve impulses at the neuromuscular junctions in the intercostal muscles.					1m
+This can stop the breathing process and cause death.					1m	
+---------------------------------------------------
+
+[10276627]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a movable joint. 
+	
+
+a	Identify P, Q and R. What are their functions in a movable joint?	(3 marks) 
+b	Fluid S is found inside the cavity. Name it and give one function of it.																(2 marks) 
+c	Give one specific example of this type of joint and state the degree of movement it allows.									(2 marks) 
+
+-- answer --
+a	P: ligament
+It holds the bones in position / prevents dislocation during movement / allows bones to move at a joint. 										1m
+Q: synovial membrane
+It secretes synovial fluid. 										1m
+R: cartilage
+It absorbs shock / reduces friction between bones during movement / prevents bones from wearing away. 									1m
+b	Synovial fluid												1m
+It reduces friction between the bones during movement / nourishes cartilage cells.																1m
+c	Elbow joint / knee joint (or other correct answers)						1m
+It allows movement of the bones in one plane.						1m	
+---------------------------------------------------
+
+Structured questions
+
+[10276735]
+// Cross-topic // Comparison // Schematic diagram //
+(*	The diagram below shows an upper leg bone in humans.
+	
+a	Explain how the structures of the bones at X and Y are related to their functions.												(2 marks)
+b	The end surfaces of the upper leg bone are covered with cartilage. Give three advantages of being covered with cartilage.				(3 marks)
+c	Describe four differences between bones and cartilage.			(4 marks)
+d	Name two food substances that are essential for the growth of bones and explain their importance.									(2 marks)
+-- answer --
+a	The bone at X is dense and strong to provide great strength for supporting the weight of the body.										1m
+	The bone at Y is porous to provide strength with a minimum of additional weight / contain red bone marrow for producing blood cells.				1m
+b	It absorbs shock during movement at the hip joint and the knee joint.	1m
+	It reduces friction between the hip bone and the upper leg bone, and between the upper leg bone and the lower leg bones during movement at the hip joint and the knee joint respectively.									1m
+	It prevents the ends of the upper leg bone from wearing away.		1m
+c	Bone is rigid while cartilage is softer and more elastic. /
+	Bone contains more minerals / smaller amounts of proteins than cartilage. /
+	Bone has blood vessels while cartilage does not. /
+	Bone has muscles attached to it but cartilage does not.			1m x 4
+	(or other correct answers)
+d	Calcium / phosphorus is essential for the formation of calcium phosphate in bones to keep the bones strong.									1m
+	Vitamin D is essential as it can promote the absorption of calcium and phosphate.															1m	
+---------------------------------------------------
+[10276738]
+// Drawing // Data handling // Calculation // Schematic diagram //
+(	The diagram below shows part of a human arm.
+	
+a	Complete the diagram by drawing the missing tendon of muscle X. 																(1 mark)
+b	Describe how muscles X and Y work together to bring about movement in the elbow joint.										(2 marks)
+	To investigate the elasticity of tendons and ligaments, an increasing number of weights were hung on a piece of tendon and a piece of ligament. The length of each tissue was measured each time a weight was added. The table below shows the results.
+Number of weights	Length of tendon 
+(mm)	Length of ligament (mm)	
+0	60	60	
+1	61	62	
+2	61	63	
+3	62	64	
+4	62	65	
+
+c	Calculate the percentage increase in the lengths of the tissues when 4 weights were hung on each tissue. Show your working.			(4 marks)
+d	With reference to the answers to c, explain how the tendon is adapted to carry out its function.									(2 marks)
+
+
+
+-- answer --
+	a	Tendon connecting muscle X to the head of the ulna				1m
+	b	Contraction of muscle X or Y provides the effort / force for pulling the bones 			to bring about movement.									1m
+		Muscles X and Y cause opposite actions in a movement.			1m
+	c	Tendon: [(62 - 60) / 60] ( 100% = 3.33%						1m ( 2
+		Ligament: [(65 - 60) / 60] ( 100% = 8.33%						1m ( 2
+	d	The elasticity of the tendon is low.							1m
+		This enables the tendon to transmit the pulling force generated by muscle 				contraction to the bones effectively.							1m	
+---------------------------------------------------
+
+[10276754]
+// Communication // Schematic diagram // Applying concepts //
+(*	The diagram below shows some muscles and bones in the left leg of a student.
+	
+
+a	What are antagonistic muscles? Using the letters in the diagram, list two pairs of antagonistic muscles in the leg.						(3 marks)
+b	Name structure X. 										(1 mark)
+c	Explain how the movement of the leg would be affected if structure X is broken.												(4 marks)
+d	The student is sitting on a chair and maintains his posture as shown below.
+	
+
+Which muscle(s), P, Q, R or S, is/are contracting?				(1 mark)
+
+
+
+-- answer --
+a	Antagonistic muscles are a pair of muscles that causes opposite actions in a movement.												1m
+Muscles P and Q											1m
+Muscles R and S											1m
+b	Tendon													1m
+c	If structure X is broken, the leg cannot be straightened at the knee.		1m
+Normally, when muscle P contracts, structure X transmits the pulling force to the bone of the lower leg.											1m
+The leg straightens at the knee upon the pulling force provided by the contraction of muscle P.												1m
+As structure X is broken, the force from muscle P cannot be transmitted to the bone. Thus the leg cannot be straightened.							1m
+d	Muscles P and S											1m	
+---------------------------------------------------
+
+[10276767]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows a neuromuscular junction.
+
+	
+
+a	Which type of nerve fibre is X? Explain briefly.				(2 marks)
+b	Most X is surrounded by a fatty material. Name this material and state two functions of it.											(3 marks)
+c	i	What is the chemical inside Y?						(1 mark)
+ii	Describe what would happen when this chemical reaches the muscle fibre.											(3 marks)
+
+
+-- answer --
+a	X is an axon.												1m
+It contains vesicles of neurotransmitter.							1m
+b	Myelin sheath												1m
+It prevents the transmission of nerve impulses to the surroundings. 		1m
+It speeds up the transmission of nerve impulses.						1m 
+c	i	Neurotransmitter										1m
+ii	The neurotransmitter stimulates the muscle fibre to generate an electrical impulse.												1m
+The electrical impulse spreads along the muscle fibre.				1m
+The muscle contracts.									1m	
+---------------------------------------------------
+
+[10276788]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows some muscles and bones in a human arm. 
+
+	
+
+a	W and X are a pair of opposing muscles. State which one is a flexor and which one is an extensor. Describe their actions when the arm is straightened.											(3 marks)
+b	Name Y and Z.										(2 marks)
+c	Give the functions of Y.									(2 marks)
+d	Name one elastic structure in Z. State one function of this structure in Z.															(2 marks)
+
+
+-- answer --
+a	Flexor: X													1m
+Extensor: W												1m
+W contracts and X relaxes.										1m
+b	Y: tendon													1m
+Z: joint													1m
+c	Y attaches the muscles to the bones. 								1m
+Y transmits the pulling force generated by muscle contraction to the bones.	1m
+d	Ligament													1m
+It holds the bones in position / prevents dislocation during movement.		1m
+OR
+Cartilage													1m
+It absorbs shock / reduces friction between the bones during movement / prevents the bones from wearing away. 									1m	
+---------------------------------------------------
+
+[10276795]
+// Drawing // Schematic diagram // Applying concepts //
+(*	The diagram below shows a model consisting of three pieces of plastic joined by bolts, which represent the bones and joints in the human arm.
+
+	
+a	i	You are now given some rubber bands which represent muscles in the upper arm. Draw on the diagram where you will attach the rubber bands to the pieces of plastic to illustrate how the contractions of muscles in the upper arm lead to the movements of the forearm. 															(2 marks)
+ii	State which rubber bands will shorten when the piece of plastic representing the bone in forearm is lifted and lowered.		(2 marks)
+b	There are two movable joints in the model. Name the joints in the human body they represent. Compare the degrees of movement at the joints in the model and at the joints in the body.							(4 marks)
+
+
+-- answer --
+a	i
+
+Correct positions of rubber bands						1m x 2
+ii	The rubber bands on the left will shorten when the piece of plastic representing the forearm is lifted.						1m
+The rubber bands on the right will shorten when the piece of plastic representing the forearm is lowered. 						1m 
+b	The joint between shoulder bone and upper arm bone: shoulder joint	1m
+The joint between upper arm bone and bone of forearm: elbow joint	1m
+The shoulder joint in the body allows the movement of the bones in many planes / almost all directions but that in the model allows the movement of the pieces of plastic in one plane only. 									1m
+The elbow joint in the body allows the movement of the bones in one plane only, and that in the model also allows the movement of the pieces of plastic in one plane only.												1m	
+---------------------------------------------------
+
+[10276806]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a neuromuscular junction.
+	
+a	i	Name X and Y.									(2 marks)
+ii	State one function of X and one function of Y.			(2 marks)
+b	Explain why Z is abundant in both the ending of the motor neurone and the cytoplasm of the muscle cell.								(2 marks)
+c	The bacterium Clostridium botulinum releases a toxin which can bind to membrane P. This toxin can cause death as it can lead to paralysis of the human breathing system.
+Explain how the binding of the toxin released by Clostridium botulinum to membrane P leads to the paralysis of the human breathing system.																(3 marks)
+-- answer --
+a	i	X: myelin sheath										1m
+Y: vesicle												1m
+ii	X prevents the transmission of nerve impulses to the surroundings / speeds up the transmission of nerve impulses.						1m 
+Y contains neurotransmitter which helps transmit the nerve impulses across the neuromuscular junction. 								1m
+b	Z is abundant in the ending of the motor neurone because energy is needed for the formation of neurotransmitter / formation of vesicles / movement of vesicles / release of neurotransmitter into the cleft.							1m
+Z is abundant in the cytoplasm of the muscle cell because the muscle cell needs energy to contract. 											1m
+c	The toxin binds to membrane P and blocks the release of neurotransmitter.	1m
+When a nerve impulse reaches the ending of the motor neurone, no neurotransmitter is released and thus muscle fibres are not stimulated to contract. 															1m
+If the intercostal muscles cannot contract, the breathing process cannot be carried out.														1m	
+---------------------------------------------------
+
+[10276810]
+// Schematic diagram // Applying concepts //
+(*	a	The diagram below shows a movable joint. 
+	
+Describe how the following conditions would affect the joint.
+i	Dislocation										(1 mark)
+ii	Excessive use of the joint							(1 mark)
+b	A boy is sitting with his feet hanging. The diagram below shows the skeleton of one of his feet. The muscle is contracting at this moment.
+	
+
+Draw a labelled diagram to show a lever system involved in the above movement. Identify the load, fulcrum and effort.				(5 marks)
+-- answer --
+a	i	The bones would not be held in original positions and movement would be affected.												1m
+ii	Cartilage would wear away / become thinner and movement would become difficult.												1m
+b	
+
+Correct diagram												2m
+Load: weight of the foot										1m
+Fulcrum: the ankle joint										1m
+Effort: force generated by the contraction of the muscle				1m	
+--------------------------------------------------- 
+
+[10276812]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a movable joint. 
+	
+a	Name structures P and Q.								(2 marks) 
+b	Using the letters in the diagram, state the parts in the joint that are involved in reducing friction between the bones during movement. Describe how they work.											(4 marks) 
+c	Arthritis is the inflammation of the joint commonly found in old people. The bones rub against each other, causing pain during movement. Suggest one cause of this disease.								(1 mark)
+
+d	Unlike the one in the diagram, joints can be immovable. Give one location in the body where this type of joint can be found.				(1 mark) 
+
+-- answer --
+a	P: ligament											1m
+Q: synovial membrane									1m
+b	R and S												1m x 2
+R is soft and elastic. It covers the end surfaces of bones to reduce friction between the bones. 											1m
+S is a fluid. It acts as a lubricant to reduce friction between the bones.	1m
+c	Cartilage has been worn away. /
+Insufficient secretion of synovial fluid. 						1m
+d	Skull / pectoral girdle / pelvic girdle							1m	
+---------------------------------------------------
+
+[10276841]
+// Basic concepts //
+(	a	Name the two major types of movable joints in humans. Compare the degrees of movement they allow and give one example of each.																	(6 marks)
+b	What are the structures that reduce friction between the bones during movement at the joints?									(2 marks) 
+c	Explain the meaning of opposing muscles.					(2 marks) 
+
+-- answer --
+a	Hinge joint												1m
+Hinge joints allow movement of the bones in one plane only. 		1m
+Example: elbow joint / knee joint / joints between finger bones / joints between toe bones												1m
+Ball-and-socket joint										1m
+Ball-and-socket joints allow movement of the bones in many planes / almost all directions.												1m
+Example: hip joint / shoulder joint							1m
+b	Synovial fluid and cartilage									1m x 2
+c	They are a pair of muscles 								1m
+that causes opposite actions in a movement. 					1m	
+---------------------------------------------------
+
+[10276845]
+// Schematic diagram // Applying concepts //
+(*	a	The diagram below shows some muscles and bones in a human leg.
+
+	
+
+Muscles P and Q work in a pair. Write down a term used to describe them. Describe how the actions of these two muscles bring about the movement of the leg.												(3 marks)
+b	People may develop osteoporosis as they get older. Osteoporosis is caused by a continuous loss of calcium from bones. Explain how osteoporosis leads to difficulty in moving around.							(2 marks)
+c	State and explain one feature of ligaments which facilitates their functions.															(2 marks)
+
+-- answer --
+a	Opposing muscles / antagonistic muscles						1m
+When P contracts and Q relaxes, the leg bends.					1m
+When Q contracts and P relaxes, the leg straightens.				1m
+b	Bones become brittle. /
+Bones can break easily. /
+Pain arises when moving. (any 2)							1m x 2
+c	They are elastic.										1m
+This allows the bones to move.								1m	
+---------------------------------------------------
+
+[10276847]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows some muscles and bones in a bent arm.
+	
+a	Name muscles X and Y.									(1 mark) 
+b	Describe how muscles X and Y act to bring about the bending of the arm.															(2 marks) 
+c	What types of joints are joints P and Q? Apart from the two joints shown in the diagram, give one other example of each type of joint.		(2 marks)
+d	What is the difference between the degrees of movement at joints P and Q? 														(2 marks) 
+
+-- answer --
+a	Muscle X: triceps 
+Muscle Y: biceps											1m
+b	Muscle X relaxes											1m
+and muscle Y contracts.										1m
+c	Joint P : ball-and-socket joint
+Example: hip joint 											1m
+Joint Q: hinge joint
+Example: knee joint / joints between finger bones / joints between toe bones																	1m
+d	Joint P allows movement of the bones in many planes / almost all directions																	1m
+while joint Q allows movement of the bones in one plane only.			1m	
+---------------------------------------------------
+
+[10276859]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a model which represents a tiptoeing leg. 
+
+	
+
+a	The movement of the foot during tiptoeing follows the lever principle. Draw a diagram to show the lever system involved in tiptoeing. 		(3 marks)
+b	What does the string represent? What is its role in tiptoeing? 	(2 marks)
+c	What does the rubber tubing represent? What is its role in tiptoeing?																(2 marks)
+d	State the term which describes the structures represented by rubber tubing P and Q.												(1 mark)
+e	A fluid in human joints enables the bones to move smoothly. Name this fluid. 												(1 mark)
+
+-- answer --
+a	
+
+															3m
+b	Tendon													1m
+It transmits the pulling force generated by muscle contraction to the bone.	1m
+c	Muscle													1m
+It contracts to pull the bone. 									1m
+d	Opposing muscles / antagonistic muscles							1m
+e	Synovial fluid												1m	
+---------------------------------------------------
+
+[10276862]
+// Graph interpretation // Communication // Applying concepts //
+(*	The graph below shows the changes in the lengths of the biceps and muscle X in the upper arm during movement.
+	
+a	Briefly describe the changes in the lengths of the biceps and muscle X during 0-8 s.											(4 marks)
+b	Based on your answer to a, write down a term that describes this pair of muscles and name muscle X.								(2 marks)
+c	Is the biceps contracting or relaxing during
+i	0-3.5 s?											(1 mark)
+ii	3.5-8 s?											(1 mark)
+d	Describe the movement of the forearm during
+i	0-3.5 s.											(1 mark)
+ii	3.5-8 s.											(1 mark)
+
+-- answer --
+a	The length of the biceps increases from 0-3.5 s, reaching its maximum at about 3.5 s and decreases from 3.5-8 s.								2m
+The length of muscle X decreases from 0-3.5 s, reaching its minimum at about 
+3.5 s and increases from 3.5-8 s.								2m
+b	Opposing muscles / antagonistic muscles							1m
+Triceps													1m
+c	i	Relaxing												1m
+ii	Contracting											1m
+d	i	The forearm is lowered.									1m
+ii	The forearm is raised.									1m	
+---------------------------------------------------
+
+[10276865]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a human joint.
+	
+a	Identify the type of the joint shown in the diagram. Give one example of this type of joint.										(2 marks)
+b	Name structures X and Y. Give one function of each of the structures.																(4 marks)
+c	i	Which part of the joint most easily wears away due to the overuse of the joint?											(1 mark)
+ii	How will the movement at the joint be affected if the part in the answer to c i has been worn away?							(1 mark)
+iii	Suggest one treatment for this case.					(1 mark)
+-- answer --
+a	Ball-and-socket joint											1m
+Shoulder joint / hip joint										1m
+b	X: ligament												1m
+It holds the bones in position / prevents dislocation during movement.		1m
+Y: synovial membrane										1m
+It secretes synovial fluid, which reduces friction between the bones during movement and nourishes cartilage cells.							1m
+c	i	Cartilage												1m
+ii	The friction between the bones will increase during movement. 		1m
+iii	Replace the joint with an artificial joint.						1m	
+---------------------------------------------------
+
+[10276883]
+// Drawing // Schematic diagram // Applying concepts //
+(*	Figure I below shows a human arm. Figure II shows the cross-section of the arm along the line PQ.
+		
+a	Name muscles X and Z.									(2 marks)
+b	Redraw diagram II to show the shapes of muscles X and Z when the forearm is lowered to straighten the arm.					(2 marks)
+c	Explain why muscles X and Z are called opposing muscles.		(2 marks)
+d	State two functions of structure Y in the arm.					(2 marks)
+e	Structure Y is easily broken in people suffering from osteoporosis. What kind of mineral is lost from structure Y in people suffering from osteoporosis? 											(1 mark)
+-- answer --
+a	X: biceps												1m
+Z: triceps												1m
+b	
+
+Smaller muscle X										1m
+Larger muscle Z											1m
+c	Muscles X and Z work together to cause opposite actions in a movement. 																1m
+When one contracts, the other relaxes.						1m
+d	It allows movement. / 
+It provides surfaces for the muscles to attach. /
+It acts as a lever during movement. /
+It produces blood cells. /
+It stores minerals. (any 2)									1m x 2
+e	Calcium												1m	
+---------------------------------------------------
+
+[10276886]
+// Basic concepts //
+(	a	What does the skeleton consist of?							(2 marks)
+b	Give five functions of the skeleton.							(5 marks)
+c	What is the major kind of mineral inside bones?				(1 mark)
+d	Is bone a living tissue? Explain.							(2 marks)
+
+-- answer --
+a	Bones and cartilage										1m x 2
+b	It supports our body weight. /
+It allows movement. /
+It protects organs. /
+It produces blood cells. /
+It stores minerals. /
+It provides surfaces for the muscles to attach. /
+It helps bring about breathing actions. (any 5) 					1m x 5
+c	Calcium phosphate / calcium								1m
+d	Yes													1m
+It can respire / grow / repair itself.							1m	
+---------------------------------------------------
+
+
+
+Essays
+
+[10276980]
+// Communication // Basic concepts //
+(*	Describe the events that happen in a neuromuscular junction when a nerve impulse reaches the ending of an axon.							(8 marks)
+
+-- answer --
+When a nerve impulse reaches the ending of an axon, it stimulates the release of neurotransmitter from vesicles.										1m
+The neurotransmitter diffuses across the cleft to the muscle fibre				1m
+and stimulates the muscle fibre to generate an electrical impulse.				1m
+The electrical impulse spreads along the muscle fibre						1m
+and the muscle contracts.											1m
+Communication													3m	
+---------------------------------------------------
+
+[10276992]
+// Comparison // Communication //
+(*	Explain how the difference in the elasticity of ligaments and tendons facilitates their functions.											(9 marks)
+
+-- answer --
+Ligaments are present in the joints.									1m
+They hold the bones in position and prevent dislocation of the joint during movement.																	1m
+The elasticity of ligaments allows the bones to move.						1m
+Tendons are present at the ends of muscles.							1m
+They attach muscles to bones.										1m
+The inelasticity of tendons allows them to transmit the pulling force generated by muscle contraction to the bones effectively. 									1m
+Communication													3m	
+---------------------------------------------------
+

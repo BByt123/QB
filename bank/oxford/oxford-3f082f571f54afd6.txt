@@ -1,0 +1,2242 @@
+Chapter 5		Food and humans
+
+
+Multiple-choice questions
+
+[10245137]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the reaction below which 	involves lactose.
+	
+	Which of the following statements about the reaction is/are correct?
+(1)	Energy is released in the process.
+(2)	This is a condensation reaction.
+(3)	Both sugars 1 and 2 give a positive result in Benedict's test.
+A	(1) only				B	(2) only
+C	(3) only				D	(1) and (3) only
+D	
+--------------------------------------------------
+
+[10245166]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Some people do not have the enzyme that catalyses the reaction. Which of the statements below about those people is correct?
+A	They cannot absorb glucose taken from the diet.
+B	They have problems in digesting milk and cheese.
+C	They cannot take in sugars from the diet.
+D	They have a high risk of scurvy.
+B	
+---------------------------------------------------
+
+[10245171]
+// Applying concepts //
+*	The photograph below shows a health supplement designed for pregnant women.
+	
+	Which of the following is/are the possible benefit(s) of taking this supplement for pregnant women?
+	(1)	To replace the nutrients lost during menstruation
+	(2)	To help protect them from diseases
+	(3)	To provide nutrients for the formation of foetal red blood cells
+A	(1) only				B	(3) only
+C	(1) and (2) only		D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10245175]
+// Schematic diagram // Applying concepts //
+*	A student prepares carrot milkshake by following the steps below.
+	
+	Which of the following deficiency diseases can be prevented by drinking this carrot milkshake?
+	(1)	night blindness
+	(2)	rickets
+	(3)	constipation
+A	(1) only				B	(3) only
+C	(1) and (2) only		D	(2) and (3) only
+C	
+---------------------------------------------------
+[10245182]
+// Applying concepts //
+*	Beans are the popular ingredients in traditional dishes in many nations. Consuming these dishes can help prevent anaemia. The photograph below shows a Turkish dish with beans.
+	
+Which of the following foods would you recommend to eat together with this dish in order to maximize its effect of preventing anaemia?
+(1)	bell peppers
+	(2)	broccoli
+	(3)	cheese
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10245188]
+// Experiment // Basic concepts //
+*	A student carried out food tests on a food sample which contained maltose and lipids only. Which of the following combinations shows the correct results of the tests? (Note: '+' for a positive result, '−' for a negative result)
+	
+	Benedict's test	Grease spot test	Iodine test	
+A	−	−	−	
+B	+	−	+	
+C	+	+	−	
+D	−	+	+	
+
+C	
+---------------------------------------------------
+[10245198]
+// Data handling // Calculation // Applying concepts //
+*	Directions: The following two questions refer to the table below, which shows the percentages of different food substances in four foods (W, X, Y and Z).
+
+Food	Carbohydrates (%)	Proteins (%)	Lipids (%)	Water (%)	
+W	28	5	55	12	
+X	12	20	5	63	
+Y	1	60	20	19	
+Z	70	2	12	16	
+
+Which of the foods provides the greatest amount of energy per gram?
+A	W
+B	X
+C	Y
+D	Z
+A	
+---------------------------------------------------
+
+[10245205]
+// Data handling // Calculation // Applying concepts //
+*	Which of the foods is most likely to be pork meat?
+A	W			B	X
+C	Y			D	Z
+C	
+---------------------------------------------------
+
+[10245214]
+// Comparison // Basic concepts //
+	Which of the comparisons between vitamin A and vitamin D is incorrect?
+	Vitamin A	Vitamin D	
+A	cannot be produced by our body	can be produced by our body	
+B	lipid-soluble	lipid-soluble	
+C	prevents night blindness	prevents rickets	
+D	promotes absorption of iron	promotes absorption of calcium	
+
+D	
+---------------------------------------------------
+[10245228]
+// Data handling // Experiment // Applying concepts //
+*	Directions: The following two questions refer to the table below, which shows the average number of drops of different fruit juices needed to decolourize 1 cm3 of DCPIP solution in an investigation.
+Fruit juice	Average number of drops needed to decolourize 1 cm3 of DCPIP solution 	
+P		14		
+Q	7	
+R	28	
+S	16	
+
+	From the results, which fruit juice is best for preventing scurvy?
+A	fruit juice P				B	fruit juice Q
+C	fruit juice R				D	fruit juice S
+B	
+---------------------------------------------------
+
+[10245236]
+// Data handling // Experiment // Applying concepts //
+*	Why would it have been useful to display all the results before the average number was calculated?
+A	to ensure the results were recorded correctly
+B	to avoid wrong calculation of the average number
+C	to increase the accuracy of the results
+D	to identify any anomalous results
+D	
+---------------------------------------------------
+
+[10245252]
+// Basic concepts //
+Which of the following comparisons between polysaccharides and triglycerides is incorrect?
+	A	Both contain carbon, hydrogen and oxygen atoms. 
+	B	Both are formed by condensation.
+	C	Both are broken down by hydrolysis.
+	D	Both are stored in animal cells but not plant cells.
+D	
+---------------------------------------------------
+[10245272]
+// Data handling // Calculation // Applying concepts //
+*	The table below shows the amounts of proteins, lipids and carbohydrates in 
+100 g of four different types of cheese.
+
+Cheese	Proteins (g)	Lipids (g)	Carbohydrates (g)	
+W	36	26	3	
+X	6	34	4	
+Y	28	5	3	
+Z	20	27	1	
+
+	Which type of cheese has the highest energy value?
+	A	W
+	B	X
+	C	Y
+	D	Z
+A	
+---------------------------------------------------
+
+[10245298]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the changes in the masses of proteins, lipids and glycogen in the body of a man during 4 weeks of starvation.
+
+
+	
+
+
+	Which of the following conclusions can be drawn from the graph?
+(1)	Glycogen is lost at the highest rate among the three substances during the first week of starvation.
+	(2)	More lipids are lost than proteins during the last week of starvation.
+(3)	Proteins are used to provide energy only when glycogen and lipids are used up.
+A	(1) only
+	B	(1) and (2) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10245301]
+// Comparison // Basic concepts //
+Which of the following comparisons of iron and vitamin A is correct?
+	Iron							Vitamin A
+A	lipid-soluble					water-soluble
+B	inorganic food substance			organic food substance
+	C	helps prevent rickets			helps prevent night blindness 
+	D	provides energy				does not provide energy
+B	
+---------------------------------------------------
+
+[10245309]
+// Basic concepts //
+Which of the following eating habits help(s) prevent constipation?
+	(1)	Drink more water.
+	(2)	Eat more fruits.
+(3)	Cook with butter instead of corn oil.
+A	(1) only
+B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10245317]
+// Data handling // Calculation //
+**	A student counted the number of drops of 0.1% vitamin C solution and different vegetable juices needed to decolourize 1 cm3 of DCPIP solution. The table below shows the results.
+
+	Number of drops needed to 
+decolourize 1 cm3 of DCPIP solution	
+0.1% vitamin C solution	12	
+Asparagus juice	68	
+Kale juice	24	
+Cauliflower juice	36	
+
+	The concentration of vitamin C in kale juice is
+	A	0.02%.					B	0.05%.
+	C	0.2%.					D	0.5%.
+B	
+---------------------------------------------------
+
+[10245318]
+// Experiment // Applying concepts //
+*	Food tests were performed on a colourless drink. The table below shows the test results.
+	Test result	
+Iodine test	Solution was brown.	
+Grease spot test	A translucent spot was left on filter paper. The spot disappeared after immersing it in an organic solvent.	
+Benedict's test	A brick-red precipitate was formed.	
+
+	Which of the following substances must be present in the drink?
+	(1)	glucose
+	(2)	lipids
+(3)	starch
+A	(2) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10245324]
+// Applying concepts //
+In Hong Kong, more and more school children are becoming overweight and obese because they
+	(1)	lose heat more slowly than adults.
+	(2)	eat too much foods with high sugar content.
+(3)	do little exercise.
+A	(3) only
+B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10245332]
+// Basic concepts //
+	The diagrams below show some groups of foods.
+
+Which of the following correctly shows the relative amounts of the foods we should include in a balanced diet?
+	A	(1) > (2) > (4) > (3)
+	B	(2) > (1) > (3) > (4)
+	C	(2) > (1) > (4) > (3)
+	D	(4) > (2) > (1) > (3)
+C	
+---------------------------------------------------
+
+[10245337]
+// Data handling // Applying concepts //
+*	The table below shows the recommended daily intakes of calcium and iron for females of 6 months old, 6 years old, 26 years old and 76 years old.
+	Calcium (mg)	Iron (mg)	
+(1)	1000	18	
+(2)	1000	10	
+(3)	1200	8	
+(4)	260	11	
+
+	Which row shows the recommended daily intakes for the 26 years old?
+	A	(1)						B	(2)
+	C	(3)						D	(4)
+A	
+---------------------------------------------------
+
+[10245350]
+// Basic concepts //
+	Which of the following statements about maltose are correct?
+	(1)	It is formed from two monosaccharide molecules of the same type.
+(2)	It is soluble in water.
+(3)	It is a reducing sugar.
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10245358]
+// Basic concepts //
+Which of the following statements about the condensation of three fatty acid molecules and one glycerol molecule is/are correct?
+	(1)	Water is consumed in the reaction.
+	(2)	A triglyceride molecule is formed in the reaction.
+	(3)	The reaction can take place in the human body.
+	A	(1) only					B	(2) only
+	C	(1) and (2) only			D	(2) and (3) only
+D	
+---------------------------------------------------
+[10245364]
+// Basic concepts //
+Which of the following comparisons about carbohydrates and lipids is/are correct?
+(1)	The H : O ratio of lipid molecules is greater than that of carbohydrate molecules.
+(2)	Lipid molecules have a larger number of carbon atoms than carbohydrate molecules.
+	(3)	Lipids can be stored in the human body but carbohydrates cannot.
+	A	(1) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10245371]
+// Basic concepts //
+Which of the following combinations about the food substance and its function is incorrect?
+		Food substance	Function
+	A	iron				for the formation of red blood cells
+	B	calcium			for blood clotting
+	C	vitamin C			for promoting the absorption of iron
+	D	vitamin D		for the formation of bones
+D	
+---------------------------------------------------
+
+[10245379]
+// Basic concepts //
+*	Mrs Wong is suffering from anaemia and night blindness. Which of the following foods is most suitable for her?
+	A	baked potatoes with cheese
+	B	tofu and tomato soup
+	C	egg sandwiches
+	D	pasta with spinach and carrots
+D	
+---------------------------------------------------
+[10245384]
+// Experiment // Applying concepts //
+*	There were three different liquids (P, Q and R). A student put a drop of each liquid on a piece of filter paper. She let the drops dry in the air for 20 minutes and observed if any translucent spot was formed. Then she immersed the filter paper into alcohol, let the paper dry and observed again if any translucent spot remained. The table below shows the results.
+
+Liquid	Any translucent spot after drying?	Any translucent spot after immersing in alcohol and drying?	
+P	No	No	
+Q	Yes	No	
+R	Yes	Yes	
+
+	What may liquids P, Q and R be?
+		P					Q					R
+	A	starch solution			peanut oil				amylase solution
+	B	amylase solution		starch solution			peanut oil	
+	C	starch solution			amylase solution		peanut oil
+	D	amylase solution		peanut oil 			starch solution
+A	
+---------------------------------------------------
+
+[10245398]
+// Basic concepts //
+	Which of the following statements about the food pyramid is/are correct?
+(1)	The relative size of each food group in the food pyramid represents the suggested proportion of the food in a balanced diet.
+(2)	The food pyramid suggests us to eat the most vegetables and fruits in order to stay healthy.
+(3)	The food pyramid suggests us not to eat any fatty or sugary foods.
+A	(1) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10245435]
+// Scientific investigation // Graph interpretation // Experiment //
+*	Directions: The following two questions refer to an experiment for investigating the effect of temperature on the vitamin C content in kiwi fruit juice. Kiwi fruit juices of different temperatures were added to 1 cm3 of DCPIP solution. The graph below shows the number of drops of kiwi fruit juice needed to decolourize the DCPIP solution.
+
+	
+
+	Which of the following statements about the experimental results is incorrect?
+A	The larger the amount of kiwi fruit juice needed to decolourize the DCPIP solution, the smaller the amount of vitamin C is in the kiwi fruit juice.
+B	The vitamin C content in the kiwi fruit juice remained unchanged from 0 °C to 15 °C.
+C	As the temperature increases from 20 °C to 60 °C, more vitamin C in the kiwi fruit juice is lost.
+	D	All the vitamin C in the kiwi fruit juice is lost at 60 °C.
+D	
+---------------------------------------------------
+
+
+[10245439]
+// Scientific investigation // Graph interpretation // Experiment // Applying concepts //
+*	Which of the following are the controlled variables in the experiment? 
+(1)	the number of drops of kiwi fruit juice
+(2)	the concentration of the kiwi fruit juice
+(3)	the amount of DCPIP solution
+(4)	the temperature of the kiwi fruit juice
+A	(1) and (2) only				B	(1) and (4) only
+	C	(2) and (3) only				D	(3) and (4) only
+C	
+---------------------------------------------------
+
+[10245443]
+// Comparison // Basic concepts //
+	Which of the following comparisons of sucrose and glycogen is incorrect?
+			Sucrose						Glycogen
+	A	sweet in taste					not sweet in taste
+	B	soluble in water				insoluble in water
+	C	made up of monosaccharides		made up of monosaccharides
+	D	reducing sugar					non-reducing sugar
+D	
+---------------------------------------------------
+
+[10245445]
+// Basic concepts //
+	The child below is suffering from a deficiency disease. 
+
+(Photo credit: CDC / Dr Lyle Conrad)	
+
+Which of the following groups of foods would you recommend to this child?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+[10245450]
+// Experiment // Applying concepts //
+*	The table below shows the results of food tests on a food sample.
+
+Test	Result	
+Benedict's test	Brick-red precipitate was present	
+Iodine test	Brown colour appeared	
+Using DCPIP solution	The solution was decolourized	
+Grease spot test	Translucent spot was still present after immersing the filter paper into acetone	
+
+	Which of the following food substances were present in the food sample?
+	A	glucose and lipids
+B	glucose and vitamin C
+	C	starch and lipids
+D	proteins and lipids
+B	
+---------------------------------------------------
+
+[10245473]
+// Data handling // Applying concepts //
+*	The table below shows the recommended daily intake of energy and food substances for two women of the same age and similar weight.
+	
+	Energy	Proteins	Vitamin D	Calcium	Iron	
+Jane	8800 kJ	46 g	15 µg	1000 mg	20 mg	
+Clare	10 500 kJ	71 g	15 µg	1000 mg	24 mg	
+
+	Clare is most probably
+	A	suffering from anaemia.
+B	on diet.
+	C	an office worker.
+D	breast-feeding.
+D	
+---------------------------------------------------
+
+[10245485]
+// Graph interpretation // Experiment // Applying concepts //
+*	Directions: The following three questions refer to the diagram below, which shows the percentages of different food substances in four foods.
+
+	
+
+
+Which of the following correctly identifies the foods?
+	P	Q	R	S	
+A	rice		fish	cabbage	beef	
+B	rice		carrot	pork	fish		
+C	carrot	pork	fish		bread	
+D	pork	bread	beef	carrot	
+
+A	
+---------------------------------------------------
+
+[10245492]
+// Graph interpretation // Experiment // Applying concepts //
+*	Excess amino acids are broken down in the liver. People suffering from liver disease should avoid taking in too much
+A	P and Q.
+B	P and R.
+C	Q and S.
+D	R and S.
+C	
+---------------------------------------------------
+
+[10245495]
+// Graph interpretation // Experiment // Applying concepts //
+*	A student performed different food tests on food P. Which of the following results would he get?
+	Iodine test	Grease spot test	
+A	positive	positive	
+B	positive	negative	
+C	negative	positive	
+D	negative	negative	
+
+B	
+---------------------------------------------------
+
+
+[10245505]
+// Data handling // Applying concepts //
+*	The table below shows the daily nutritional requirements per kg of body mass of four people (W, X, Y and Z) aged between 8 and 30. 
+	Energy (kJ)	Proteins (g)	Calcium (mg)	Iron (mg)	
+W	325	0.95	40.0	0.50	
+X	178	0.86	15.4	0.12	
+Y	160	0.84	18.2	0.33	
+Z	176	1.3	18.2	0.50	
+
+Which person is most likely to be an 8-year-old boy?
+A	W
+B	X
+C	Y
+D	Z
+A	
+
+---------------------------------------------------
+
+[10245526]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows an enzymatic reaction.
+	
+
+The reaction is an example of
+A	condensation.
+B	oxidation.
+C	hydrolysis.
+D	hydrogenation.
+C	
+---------------------------------------------------
+
+
+[10245547]
+// Schematic diagram // Basic concepts //
+	If Q is glucose, which of the following is a possible combination of P and R?
+	P	R	
+A	maltose	glucose	
+B	maltose	fructose	
+C	sucrose	glucose	
+D	lactose	fructose	
+
+A	
+---------------------------------------------------
+
+[10245552]
+// Basic concepts //
+	Which of the following food substances most readily provide energy for the body?
+A	lipids
+B	proteins
+C	monosaccharides
+D	vitamins
+C	
+---------------------------------------------------
+
+[10245576]
+// Basic concepts //
+	Which of the following correctly arranges the subunits of proteins, from the simplest form to the most complex form?
+(1)	amino acids
+(2)	polypeptides 
+(3)	dipeptides
+A	(1), (2), (3)
+B	(1), (3), (2)
+C	(2), (1), (3)
+D	(2), (3), (1)
+B	
+---------------------------------------------------
+
+
+[10245622]
+// Basic concepts //
+*	Taking fish liver oils may help people suffering from rickets to obtain the nutrients they are deficient in. This is because fish liver oils are rich in
+A	iron.
+B	lipids.
+C	vitamin D.
+D	vitamin A.
+C	
+---------------------------------------------------
+
+[10245624]
+// Applying concepts //
+*	Which of the following correctly arranges the foods in a meal, from eating most to eating least, in a balanced diet?
+(1)	bread
+(2)	butter
+(3)	ham
+(4)	corn
+A	(1), (3), (2), (4)
+B	(1), (4), (3), (2)
+C	(3), (1), (4), (2)
+D	(4), (1), (2), (3)
+B	
+---------------------------------------------------
+
+
+[10245626]
+// Experiment // Basic concepts //
+*	The diagram below shows a food test on a sample of orange juice. The DCPIP solution changed to colourless at the end of the food test.
+
+	
+
+Which of the following is a possible explanation of the result of the food test?
+A	Orange juice contains vitamin C. 
+B	Orange juice contains sucrose.
+C	Orange juice contains starch.
+D	Orange juice contains proteins.
+A	
+---------------------------------------------------
+
+[10245639]
+// Experiment // Basic concepts //
+*	The diets of vegetarians usually include beans to make up for the lack of
+A	proteins.
+B	carbohydrates.
+C	vitamins.
+D	lipids.
+A	
+---------------------------------------------------
+
+[10245646]
+// Basic concepts //
+*	Different people may have different dietary requirements. Which of the following people requires the largest amount of iron in his/her diet?
+A	a pregnant woman
+	B	a child
+	
+C	an office worker
+	D	an athlete
+	
+
+A	
+---------------------------------------------------
+
+[10245650]
+// Basic concepts //
+	The table below shows three types of vitamins (X, Y and Z) and the symptom that may appear if a person is deficient in each type of vitamin.
+	Symptom	
+X	Soft bones	
+Y	Drying up of cornea and skin	
+Z	Weak and bleeding gums	
+Which of the following correctly identifies the vitamins?
+		X			Y			Z
+A	vitamin A		vitamin C		vitamin D
+B	vitamin C		vitamin D	vitamin A
+C	vitamin D		vitamin A		vitamin C
+D	vitamin D		vitamin C		vitamin A
+C	
+---------------------------------------------------
+
+[10245676]
+// Basic concepts //
+*	Which of the following diet is most suitable for a person suffering from constipation and anaemia?
+A	cheese, wholemeal bread and coffee
+B	fried eggs, white bread and milk
+C	beef, wholemeal bread and milk
+D	sausages, cookies and orange juice
+C	
+---------------------------------------------------
+
+[10245678]
+// Applying concepts //
+*	Why do people need vitamin D to keep bones and teeth strong?
+A	Vitamin D prevents the loss of calcium and phosphate.
+B	Vitamin D stimulates the production of calcium in the body.
+C	Vitamin D is a component of bones and teeth.
+D	Vitamin D promotes the absorption of calcium and phosphate.
+D	
+---------------------------------------------------
+
+[10245707]
+// Basic concepts //
+	Which of the following are monosaccharides?
+A	glucose, galactose and fructose
+B	glucose, galactose and sucrose
+C	glucose, sucrose and lactose
+D	glucose, fructose and lactose
+A	
+---------------------------------------------------
+
+[10245722]
+// Applying concepts //
+*	Which of the following are not a source of energy even under starvation?
+A	carbohydrates			B	lipids
+C	proteins				D	vitamins
+D	
+---------------------------------------------------
+
+[10245739]
+// Basic concepts //
+	People who suffer from bleeding gums may lack
+A	calcium.
+B	iron.
+C	vitamin C.
+D	vitamin D.
+C	
+---------------------------------------------------
+
+[10245781]
+// Basic concepts //
+	People who suffer from anaemia may lack
+A	calcium.
+B	iron.
+C	vitamin C.
+D	vitamin D.
+B	
+---------------------------------------------------
+
+[10245791]
+// Basic concepts //
+	Calcium is important for the formation of
+A	haemoglobin.
+B	bones and teeth.
+C	hair.
+D	skin.
+B	
+---------------------------------------------------
+
+[10245804]
+// Basic concepts //
+	Which of the following can be used to test for the presence of reducing sugars?
+A	Benedict's test
+B	iodine test
+C	DCPIP test
+D	grease spot test
+A	
+---------------------------------------------------
+[10245820]
+// Basic concepts //
+	Which of the following foods is/are rich in dietary fibre?
+A		B		
+C		D		
+
+C	
+--------------------------------------------------- 
+
+[10245825]
+// Basic concepts //
+	Which of the following is the fate of excess carbohydrates in the human body?
+A	They are stored as glycogen in the liver or muscles, or as lipids under the skin.
+B	They are stored as glycogen in the liver or muscles, or as proteins under the skin.
+C	They are stored as proteins in the liver or muscles, or as lipids under the skin.
+D	They are stored as lipids in the liver or muscles, or as glycogen under the skin.
+A	
+---------------------------------------------------
+
+
+[10245844]
+// Basic concepts //
+	A deficiency of vitamin C in humans may lead to 
+A	night blindness.			B	anaemia.
+C	rickets.					D	scurvy.
+D	
+---------------------------------------------------
+
+[10245849]
+// Data handling // Experiment // Calculation // Applying concepts //
+*	Directions: The following two questions refer to the nutrition label below, which shows the nutritional information of a food. 
+Nutrition Facts
+Serving size: 258 g
+Serving per container: 1	
+Amount per serving	
+Energy  1134 kJ			From fat  294 kJ	
+						% Daily value	
+Total fat  8 g						12%	
+	Saturated fat  3.5 g 				15%	
+Cholesterol  30 mg					 9%	
+Sodium  500 mg					20%	
+Total carbohydrates  28 mg 			 9%	
+	Dietary fibre  3 g				13%	
+	Sugars  5 g	
+Proteins  21 g	
+Vitamin A  8%		．	Vitamin C  0%	
+Calcium   35%		．	Iron       6%		
+
+The recommended daily intake of energy of a 5-year-old girl is 6500 kJ. If she eats only this food, how many grams of this food does she need to eat in order to obtain the amount of energy she needs per day?
+A	5.7 g				B	25.2 g
+C	1478.8 g			D	5704.1 g
+C	
+---------------------------------------------------
+
+[10245850]
+// Data handling // Experiment // Calculation // Applying concepts //
+*	In which of the following food tests will the above food give a negative result?
+A	Benedict's test
+B	DCPIP test
+C	iodine test
+D	grease spot test
+B	
+---------------------------------------------------
+
+[10245851]
+// Basic concepts //
+	Which of the following are the functions of proteins in humans?
+(1)	for making enzymes
+(2)	for growth
+(3)	for repairing body tissues
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10245853]
+// Basic concepts //
+*	Which of the following combinations of a food substance and its major food source is correct?
+		Food substance		Major food source	
+A	sugars				beef
+B	proteins				pork
+C	lipids				bread
+D	dietary fibre			cheese
+B	
+---------------------------------------------------
+
+
+[10245862]
+// Basic concepts //
+*	Which of the following food substances cannot be stored in large amounts in the human body?
+(1)	lipids	
+(2)	carbohydrates
+(3)	proteins
+A	(2) only					B	(3) only 
+C	(1) and (3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10245865]
+// Data handling // Applying concepts //
+*	The table below shows the percentages of food substances (by weight) present in a kind of food.
+Food substance	Percentage	
+Carbohydrates	4.7	
+Proteins	3.3	
+Lipids	3.8	
+Dietary fibre	0	
+Water	88.2	
+
+Which of the following is most probably the food?
+A	beef						B	milk
+C	potato					D	bread
+B	
+---------------------------------------------------
+
+[10245891]
+// Basic concepts //
+	Poor vision in dim light is probably due to the deficiency of 
+A	vitamin A.				B	vitamin C.
+C	calcium.					D	iron.
+A	
+---------------------------------------------------
+
+
+[10245911]
+// Basic concepts //
+	Fruit juice is usually rich in
+A	starch.
+B	cellulose.
+C	glycogen.
+D	fructose.
+D	
+---------------------------------------------------
+
+[10245920]
+// Cross-topic // Scientific investigation // Data handling //
+*	Directions: The following three questions refer to the experiment below, which was designed to show the effect of temperature on the activity of enzyme X.
+	Six set-ups (each consisting of a pair of test tubes containing enzyme X and solution Y respectively) were put in beakers of water at different temperatures. After 10 minutes, enzyme X and solution Y in each set-up were mixed. A drop of each mixture was then added to an iodine drop on a spot plate at 2-minute intervals. The iodine drop turned blue-black after each mixture was added to it at time 0. The time taken for the blue-black colour of the iodine drop to disappear was recorded. 	
+
+The results are shown in the table below. 
+Temperature	Time taken for the disappearance of blue-black colour	
+0 (C	The drop still turned blue-black after 10 minutes. 	
+20 (C	10 minutes	
+40 (C	6 minutes	
+60 (C	4 minutes	
+80 (C	The drop still turned blue-black after 10 minutes.	
+100 (C	The drop still turned blue-black after 10 minutes.	
+
+Enzyme X and solution Y are
+A	catalase and sucrose solution respectively.
+B	protease and protein solution respectively.
+C	amylase and starch solution respectively.
+D	lipase and lipid solution respectively.
+C	
+---------------------------------------------------
+[10245937]
+// Cross-topic // Scientific investigation // Data handling //
+*	The blue-black colour of the iodine drops in three of the six set-ups disappeared at the end of the experiment because
+A	enzyme X reacted with a substance in solution Y to form a new substance.
+B	enzyme X catalysed the breakdown of a substance in solution Y into simpler substances.
+C	enzyme X was denatured by a substance in solution Y.
+D	enzyme X combined with a substance in solution Y to form a complex.
+B	
+---------------------------------------------------
+
+[10245943]
+// Cross-topic // Scientific investigation // Data handling //
+*	Which of the following is the best conclusion of this experiment?
+A	Enzyme X cannot work at 20 (C, 40 (C and 60 (C.
+B	Enzyme X is denatured at 0 (C and temperatures above 80 (C.
+C	Higher temperatures favour the activity of enzyme X.
+D	The optimum temperature of enzyme X is about 60 (C.
+D	
+---------------------------------------------------
+
+[10245945]
+// Basic concepts //
+	Directions: The following two questions refer to the photographs below, each of which shows some foods.
+			
+X	Y	Z	
+
+
+What are the main types of food substances present in the foods shown in the above three photographs?
+	X	Y	Z	
+A	carbohydrates	minerals	proteins	
+B	dietary fibre		carbohydrates	lipids	
+C	lipids	carbohydrates	proteins	
+D	proteins	lipids	dietary fibre	
+
+C	
+---------------------------------------------------
+
+[10245950]
+// Basic concepts //
+	If the main food substances of the foods shown in Y are in excess in the body, what kind of substances will they be converted to?
+A	glycogen only				B	lipids only
+C	glycogen and lipids			D	glycogen and starch
+C	
+---------------------------------------------------
+
+[10245953]
+// Basic concepts //
+	Directions: The following two questions refer to the table below.
+Deficiency disease	The food substance that is in deficiency	Food source(s) for supplement	
+Scurvy	R	T	
+P	Vitamin A	Fish liver oils and eggs	
+Anaemia	S	U	
+Q	Dietary fibre	Vegetables	
+
+What are P, Q, R and S?
+	P	Q	R	S	
+A	rickets	constipation	vitamin C	calcium	
+B	night blindness	constipation	vitamin C	iron	
+C	night blindness	osteoporosis	vitamin D	iron	
+D	constipation	rickets	vitamin C		calcium	
+
+B	
+---------------------------------------------------
+[10245957]
+// Basic concepts //
+	What are T and U?
+	T	U	
+A	fresh vegetables and fruits 	liver and spinach	
+B	fresh vegetables and fruits	milk and cheese	
+C	liver and spinach	liver and eggs	
+D	milk and cheese	fish liver oils	
+
+A	
+---------------------------------------------------
+
+[10245969]
+// Basic concepts //
+	Which of the following statements about diet is incorrect?
+A	People at different ages and of different body sizes have different dietary requirements.
+B	A balanced diet consists of three main food substances in the right amounts.
+C	A balanced diet is essential for maintaining health.
+D	Obesity is a health problem caused by improper diets.
+B	
+---------------------------------------------------
+
+[10245982]
+// Experiment // Applying concepts //
+*	Extract of a food sample was prepared and food tests were carried out on it. The table below shows the results of the food tests.
+Food test	Result	
+Using protein test paper	Negative	
+Using glucose test paper 	Positive 	
+Iodine test	Positive	
+
+Which of the following is most probably the food sample?
+A	a steak
+B	an apple
+C	butter
+D	a fish
+B	
+---------------------------------------------------
+[10245994]
+// Basic concepts //
+	Obesity can increase the risk of 
+A	stroke.
+B	rickets.
+C	scurvy.
+D	anaemia.
+A	
+--------------------------------------------------
+
+
+
+Short questions
+
+[10246069]
+// Overseas exam question // Applying concepts //
+*	The body creates vitamin D from direct sunlight on the skin when a person is outdoors. In the UK people make most of their vitamin D in the summer months.
+	Many children in the UK do not obtain the recommended intake of vitamin D.
+a	Suggest two reasons why children in the UK might not obtain the recommended intake of vitamin D.							(2 marks)
+It is essential that pregnant women get 10 μg of vitamin D each day.
+b	i	Suggest why pregnant women in particular need vitamin D.																	(1 mark)
+ii	What advice would you give to a woman who is pregnant over the autumn and winter months in the UK in order to ensure she obtains 
+10 μg of vitamin D each day?							(2 marks)
+CCEA GCE (AS) Human Body Systems May 2019 Q3b, c
+
+-- answer --
+a	They may spend much of their time indoor.							1m
+	They eat less foods that are rich in vitamin D.						1m
+b	i	Vitamin D helps the baby to develop bones.						1m
+	ii	They may consider eating more vitamin D-rich foods.				1m
+			They may consider taking vitamin D supplement.					1m
+			(or other reasonable answers)	
+---------------------------------------------------
+
+[10246074]
+// Applying concepts //
+	According to the World Health Organisation (WHO), red meat (e.g. pork) is classified as a Group 2A carcinogen, which means that it is probably carcinogenic to humans. Processed meat (e.g. bacon) is classified as a Group 1 carcinogen and it is highly related to colorectal cancer.
+
+a	Explain the need for meat in our diet.						(2 marks)
+b	Some people suggest that we should substitute red meat with white meat (e.g. chicken) in our diets. However, white meat contains a smaller amount of a mineral which is essential for making haemoglobin in our body.
+	i	Name the mineral concerned.							(1 mark)
+ii	What deficiency disease may be resulted if a person does not obtain an adequate amount of this mineral?						(1 mark)
+iii	Suggest one plant food that provides this mineral.			(1 mark)
+c	Processed meat is often salted for the purpose of preservation. State the mineral involved in salting. Suggest one disease associated with excessive intake of this mineral.									(1 mark)
+
+-- answer --
+a	Meat is a source of proteins.									1m
+Proteins are used for growth and repair / for producing enzymes, antibodies, haemoglobin and some hormones / as an energy source.				1m
+b	i	Iron													1m
+ii	Anaemia												1m
+iii	Beans / cabbage / spinach / raisins							1m
+c	Sodium
+	Excessive intake of sodium may lead to high blood pressure.			1m	
+---------------------------------------------------
+
+
+[10246085]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the percentages of underweight, normal, overweight and obese Hong Kong people in 2012, 2014 and 2016.
+
+	
+a	Describe the trend of the change in the number of obese and underweight people in Hong Kong.									(2 marks)
+b	i	State one disease associated with obesity.				(1 mark)
+	ii	Overweight people are suggested to include more vegetables in their diets to prevent becoming obese. Explain why eating vegetables can lower the chance of becoming obese.					(3 marks)
+-- answer --
+a	The number of obese people increased							1m
+and the number of underweight people decreased. 					1m
+b	i	Diabetes mellitus / high blood pressure / heart disease / stroke / arthritis															1m
+ii	Vegetables contain large amounts of dietary fibre					1m
+	which adds bulks to the food and gives a sense of fullness.			1m
+	This helps reduce the chance of eating too much / energy input and hence the chance of becoming obese.								1m	
+---------------------------------------------------
+
+[10246095]
+// Data handling // High order thinking //
+**	Proteins from different sources differ in their abilities to promote growth. The biological value is a measure of protein quality and is calculated as follows:
+	
+A protein with a higher biological value has a larger supply of essential amino acids to the body. In determining the biological value, nitrogen is used as an index of proteins.
+a	Express the following in terms of nitrogen intake (I), nitrogen in faeces (F) and/or nitrogen in urine (U).
+i	The amount of protein digested and absorbed				(1 mark)
+ii	The amount of protein used in maintenance and growth		(1 mark)
+b	Why can nitrogen be used as an index of proteins?			(2 marks)
+The table below shows the biological values of proteins from different sources.
+Source of protein	Biological value (%)	
+Egg	98	
+Milk	91	
+Oatmeal	58	
+Wheat	64	
+Beef	80	
+Soya bean	74	
+c	Compare the biological values of proteins from animal sources and plant sources.												(1 mark)
+	
+-- answer --
+a	i	I ( F													1m
+	ii	I ( F ( U												1m
+b	Proteins contain nitrogen.										1m
+	The amount of nitrogen is proportional to the amount of proteins.			1m
+c	The biological values of proteins from animal sources are higher than those of proteins from plant sources.									1m	
+---------------------------------------------------
+
+
+[10246099]
+// Basic concepts //
+*	In the space provided below, suggest one change in the diet to reduce each of the problems and explain your answers.							(6 marks)
+Problem	Dietary change	
+Anaemia	
+
+
+	
+Constipation	
+
+
+	
+Obesity	
+
+
+	
+
+
+-- answer --
+Anaemia:
+Eat more beef / liver / beans / cabbage / spinach / raisins to increase the intake of iron.																1m
+Iron is essential for the production of haemoglobin in red blood cells.			1m
+Constipation:
+Drink more water												1m
+so that faeces are soft and can be passed out of the body more easily.			1m
+OR
+Eat more fruits / vegetables / wholemeal products to increase the intake of dietary fibre.
+																1m
+Dietary fibre adds bulk to food to stimulate peristalsis / Dietary fibre holds a lot of water so that faeces can be passed out of the body more easily.					1m
+Obesity:
+Eat a balanced diet / Choose low-fat food to reduce the energy intake.			1m
+There will be no more weight gain if the energy intake is less than the energy output.
+																1m
+OR
+Eat more fruits / vegetables to increase the intake of dietary fibre.				1m
+High-fibre food is filling and can help control body weight.					1m	
+--------------------------------------------------
+[10246114]
+// Basic concepts //
+	Complete the key below. a to f refer to six different food substances: fructose, lipid, protein, dietary fibre, water and starch.						(6 marks)
+
+(1)	i	It contains carbon atoms.		Go to (2)	
+	ii	It does not contain carbon atoms.		a                  	
+(2)	i	It provides energy to the human body.		Go to (3)	
+	ii	It does not provide energy to the human body.		b                  	
+(3)	i	It is made up of amino acids.		c                  	
+	ii	It is not made up of amino acids.		Go to (4)	
+(4)	i	It is soluble in water.		d                  	
+	ii	It is insoluble in water.		Go to (5)	
+(5)	i	It is involved in transporting and storing vitamin A.		e                  	
+	ii	It is not involved in transporting and storing vitamin A.		f                  	
+
+-- answer --
+	a	water													1m
+b	dietary fibre												1m
+c	protein													1m
+d	fructose													1m
+e	lipid														1m
+f	starch													1m	
+---------------------------------------------------
+
+
+[10246121]
+// Scientific investigation // Data handling // Experiment // Applying concepts //
+*	A student used the following set-up to compare the energy values of two types of foods, X and Y. 
+ 	
+	1 g of each type of food was burnt under a boiling tube containing 20 cm3 of water. The initial and final temperatures of the water were measured using a thermometer. The table below shows the results.
+
+Type of food	Initial water temperature (°C)	Final water temperature (°C)	
+X	18	56	
+Y	18	77	
+a	Suggest one variable, not already mentioned, which should be kept the same to allow a valid comparison.							(1 mark)
+b	Which type of food has a higher energy value? Explain your answer.																(2 marks)
+c	Suggest two possible sources of errors in estimating the energy value of food using the above set-up.								(2 marks)
+
+-- answer --
+	a	Distance between the flame and the boiling tube (or other reasonable answers) 																1m
+b	Food Y												1m
+A larger increase in water temperature shows that more energy is given out from the burning of food Y to heat up the water.						1m
+	c	Some energy given out is lost as heat to the surroundings. / is converted to light 			energy. /
+The food is not completely burnt. (any 2 or other reasonable answers)	1m ( 2	
+---------------------------------------------------
+
+[10246142]
+// Design experiment // High order thinking // Experiment // Communication //
+**	You are given 3 test tubes, each containing starch solution, invertase solution or amylase solution. Describe how you can use Benedict's solution and protein test paper to identify the solution in each test tube. State clearly the principles of your investigation and the procedures of the tests.						(5 marks)
+
+-- answer --
+	Dip the test end of the protein test paper into the three solutions.				1m
+	The solution which gives a negative result does not contain proteins and must be starch 	solution.														1m
+	Mix the two unknown solutions with an equal volume of starch solution and wait for 30 	minutes.														1m
+	Add Benedict's solution to the two mixtures and boil the mixtures for 5 minutes in a 	boiling water bath.												1m
+For the mixture in which a brick-red precipitate is present, the unknown solution in it must be amylase solution as amylase helps break down starch into the reducing sugar maltose. The remaining unknown solution must be invertase solution.			1m	
+---------------------------------------------------
+
+
+[10246167]
+// Experiment // Schematic diagram // Applying concepts //
+	A student mixed some glucose solution and Benedict's solution in a test tube. He shook the mixture gently and then allowed the mixture to stand for five minutes. The student found that there was no observable change in the mixture after five minutes.
+
+	
+
+a	What kind of food substance is the Benedict's solution used to test for?															(1 mark)
+b	What mistake did the student make such that there was no observable change in the mixture after five minutes?					(1 mark)
+c	What would be observed if the mistake in b was corrected? What does it tell about the nature of glucose solution?						(2 marks)
+d	Suggest a food test that is specific to glucose.				(1 mark)
+-- answer --
+	a	Reducing sugars											1m
+b	The student did not boil the mixture after shaking.					1m
+c	A brick-red precipitate would be formed.							1m
+	Glucose is a reducing sugar.									1m
+d	Using glucose test paper										1m	
+---------------------------------------------------
+
+
+[10246170]
+// Data handling // Applying concepts //
+*	The table below shows the dietary requirements of the members in the Wong's family.
+
+		Age 
+(years)	Energy (kJ)	Protein 
+(g)	Calcium (mg)	Iron 
+(mg)	
+Mr Wong (father)	40	11 000	56	1000	8	
+Mrs Wong (mother)	35	8440	46	1000	18	
+Tom Wong (son)	10	8300	34	1300	8	
+
+a	State and explain the difference in the need for protein between Mr Wong and Mrs Wong.										(2 marks)
+b	State and explain the difference in the need for calcium between Mr Wong and his son.											(2 marks)
+c	State and explain the difference in the need for iron between Mr Wong and Mrs Wong.											(2 marks)
+
+-- answer --
+	a	Mr Wong should be more muscular than Mrs Wong.					1m
+			He needs more proteins to build and repair muscles.					1m
+b	Tom Wong is growing actively.									1m
+		He needs more calcium for the formation of bones and teeth.			1m
+c	Mrs Wong loses blood during menstruation regularly.					1m
+She needs more iron to replace the loss of iron.						1m	
+---------------------------------------------------
+
+
+[10246194]
+// Overseas exam question // Scientific investigation // Experiment //
+*	A Petri dish was filled with agar jelly containing blue DCPIP.
+Three holes were cut out of the agar jelly.
+One hole was filled with 1 cm3 of water, one with 1 cm3 of fruit juice X and one with 1 cm3 of fruit juice Y.
+The fruit juices contained different concentrations of vitamin C.
+The Petri dish was left for 60 minutes. 
+
+	
+
+Use the results found after 60 minutes to help answer the following questions.
+a	i	What conclusion can be drawn about the concentration of vitamin C in fruit juice Y compared to fruit juice X?					(1 mark)
+ii	How did you reach this conclusion?					(1 mark)
+iii	Explain the changes shown in the jelly around the fruit juices.															(2 marks)
+b	Why was water added to one of the holes?					(1 mark)
+		CCEA GCSE Biology Foundation Tier Unit 1 2013 Q3
+
+-- answer --
+a	i	Fruit juice Y contains a higher concentration of vitamin C. 			1m 
+ii	Fruit juice Y had a larger circle of clear agar.					1m
+iii	Vitamin C moved to the agar jelly by diffusion 					1m
+and decolourized DCPIP.	 								1m
+b	It acted as a control set-up.										1m	
+---------------------------------------------------
+
+[10246195]
+// Data handling // Calculation // Applying concepts //
+*	The table below shows the recommended daily intake of energy and proteins of three different people.
+	Body weight
+(kg)	Recommended daily intake	
+		Proteins (g per kg of body weight )	Energy (kJ per kg of body weight )	
+Clerk	77	0.91	162	
+Labourer	72	0.95	292	
+Breast-feeding mother	70	1.4	200	
+
+a	Calculate the amount of energy the clerk and the labourer should take in per day. Show your workings. 								(2 marks)
+b	Explain the difference in the daily energy requirements per kg of body weight between the labourer and the clerk.					(2 marks)
+c	Explain the high daily protein requirements per kg of body weight of the breast-feeding mother.									(1 mark)
+-- answer --
+a	The clerk:
+162 × 77 = 12 474 kJ											1m
+The labourer:
+292 × 72 = 21 024 kJ											1m
+b	The labourer is more physically active  							1m
+and needs more energy for muscular activities.						1m
+c	The breast-feeding mother needs an extra supply of proteins for milk production. 																1m	
+---------------------------------------------------
+
+
+[10246199]
+// Applying concepts //
+*	Vegetarians eat only foods of plant origin.
+a	Vegetarians are often recommended to include beans or bean products in their diets. Explain why.									(2 marks)
+b	Foods of plant origin usually contain a lot of dietary fibre. What is the function of dietary fibre in our body?						(2 marks)
+-- answer --
+a	Most foods of plant origin are low in protein content.					1m
+Bean or bean products are rich in proteins. Including them in the diets ensures the vegetarians get enough proteins.								1m
+b	Dietary fibre holds a lot of water. 								1m
+This allows the faeces to remain soft. 							1m
+OR
+Dietary fibre adds bulk to food									1m
+to stimulate its movement along the gut / peristalsis. 					1m	
+---------------------------------------------------
+
+[10246205]
+// Design experiment // High order thinking // Experiment // Communication //
+**	You are given three test tubes, each containing one of the following three solutions but without labelling:
+albumin, sucrose, invertase 
+Albumin is a plasma protein and invertase is an enzyme that catalyses the breakdown of sucrose. 
+Describe how you can use Benedict's solution and protein test paper to identify the solution in each test tube. State clearly the procedures and the results of the tests.													(5 marks)
+-- answer --
+Dip the test ends of the protein test paper into the three solutions. 			1m
+The solution that does not lead to a colour change in the test end of the test paper is sucrose solution.												1m
+Mix the two unknown solutions with an equal volume of sucrose solution and wait for 
+30 minutes.													1m
+Add Benedict's solution to the two mixtures and boil the mixtures for 5 minutes.	1m
+The one that gives a brick-red precipitate with sucrose solution is invertase, while the one that does not give a brick-red precipitate with sucrose solution is albumin. 	1m	
+---------------------------------------------------
+[10246210]
+// Data handling // Calculation // Applying concepts //
+*	The table below shows some nutritional information of two brands of burgers.
+	Mass of food substances (g per 100 g of burger)	
+	'Healthy' burger	Chicken burger	
+Proteins	13.1	30.0	
+Lipids	2.8	13.0	
+Dietary fibre	3.5	0	
+
+a	John is 16 years old. He needs 50 g of proteins per day.
+i	Calculate the amount of 'Healthy' burger John needs to eat in order to obtain the amount of proteins he needs per day.			(1 mark)
+ii	Calculate the amount of chicken burger John needs to eat in order to obtain the amount of proteins he needs per day.			(1 mark)
+b	The manufacturer claimed that the 'Healthy' burger is good for health and less likely to lead to obesity. Use information in the table to give one reason to support their claim.									(1 mark)
+
+-- answer --
+a	i	381.7 g												1m
+ii	166.7 g												1m
+b	'Healthy' burger contains less lipids.								1m	
+---------------------------------------------------
+
+[10246221]
+// Drawing // Schematic diagram // Basic concepts //
+	a	Name the reaction in which two monosaccharide molecules combine to form a disaccharide. 									(1 mark)
+b	The diagram below shows a monosaccharide molecule. 
+	
+Draw a diagram to show how two monosaccharide molecules join together in the reaction answered in a. 							(2 marks)
+c	Name two disaccharides formed by the reaction answered in a. 	(2 marks)
+
+
+-- answer --
+a	Condensation 											1m
+b	
+
+														2m
+c	Maltose / sucrose / lactose (any 2)							1m x 2	
+---------------------------------------------------
+
+[10246240]
+// Experiment // Schematic diagram // Applying concepts //
+*	Sucrose, a disaccharide, is formed from two monosaccharides. The diagram below shows the breakdown of sucrose. 
+
+	
+
+a	Name monosaccharide Y.								(1 mark)
+b	What type of reaction is the breakdown of sucrose?			(1 mark)
+
+c	The breakdown of sucrose is catalysed by an enzyme called invertase. The diagram below shows a column used to break down sucrose. The enzyme invertase is fixed onto the glass beads.
+	
+
+Describe a test to find out whether the solution collected at the other end of the column contains
+i	the products.										(2 marks)
+ii	the enzyme.										(2 marks)
+
+-- answer --
+a	Fructose													1m
+b	Hydrolysis													1m
+c	i	Boil the solution with Benedict's solution.						1m
+If the products, which are reducing sugars, are present in the solution, a brick-red precipitate will be formed.							1m
+ii	Dip the test end of protein test paper into the solution. 			1m
+If the enzyme, which is a protein, is present in the solution, a colour change will be observed.										1m	
+---------------------------------------------------
+
+
+[10246244]
+// Experiment // Applying concepts //
+*	Sucrose, a disaccharide, can be broken down into monosaccharides. The reaction is catalysed by invertase. A student carried out an experiment. He first tested whether sucrose is a reducing sugar. 
+a	i	Describe a test that can be carried out to find out whether a sugar is a reducing sugar.									(3 marks)
+ii	State the result of the test on sucrose.					(1 mark)
+The student then mixed the sucrose solution with invertase. The mixture was left at room temperature for 5 minutes. The test described in a i was carried out on the mixture. 
+b	State and explain the result of the test. 						(2 marks)
+
+-- answer --
+a	i	Mix equal volumes of the sugar solution and Benedict's solution in a test tube.													1m
+Boil the mixture in a water bath for 5 minutes. 					1m
+If the sugar is a reducing sugar, a brick-red precipitate will be formed. 	1m
+ii	No brick-red precipitate is formed.							1m
+b	A brick-red precipitate was formed. 								1m
+Sucrose was broken down into glucose and fructose, which are reducing sugars.																1m	
+---------------------------------------------------
+
+
+[10246249]
+// Data handling // Experiment // Schematic diagram //
+	The diagram below shows an investigation carried out to compare the vitamin C content in three fruit juices (X, Y and Z).
+
+	
+
+The table below shows the results.
+Fruit juice	Volume needed to decolourize 5 ml of DCPIP solution (ml)	
+X	6	
+Y	20	
+Z	12	
+
+a	State the change in the colour of DCPIP solution when fruit juices containing vitamin C are added to it. 						(1 mark)
+b	Arrange the three fruit juices in the ascending order of their vitamin C content.												(1 mark)
+c	If the experiment is repeated using boiled fruit juices, will the results be the same? Explain your answer. 								(2 marks)
+
+-- answer --
+a	The DCPIP solution changes from blue to colourless.					1m
+b	Y, Z, X 													1m
+c	No 														1m
+Boiling destroys vitamin C. Therefore, the colour of the DCPIP solution will not change. 													1m	
+---------------------------------------------------
+
+
+[10246260]
+// Data handling // Calculation // Applying concepts //
+*	The table below shows the amounts of food substances in 100 g of three brands of cornflakes.
+
+	
+
+	Brand X	Brand Y	Brand Z	
+Carbohydrates (g)	65	70	60	
+Lipids (g)	10	2	5	
+Proteins (g)	10	15	10	
+Dietary fibre (g)	5	15	15	
+
+a	Which brand of cornflakes provides the largest amount of energy per 100 g? Show your workings. (Given that 1 g of carbohydrate, lipid and protein provide 17.1 kJ, 38.9 kJ and 18.2 kJ of energy respectively)		(4 marks)
+b	Cornflake manufacturers often claim that their products are good for health. According to the information above, which brand of cornflakes is the healthiest? Explain your answer.							(2 marks)
+
+-- answer --
+a	Brand X 													1m
+Energy of brand X = 17.1 × 65 + 38.9 × 10 + 18.2 × 10 = 1682.5 kJ		1m
+Energy of brand Y = 17.1 × 70 + 38.9 × 2 + 18.2 × 15 = 1547.8 kJ		1m
+Energy of brand Z = 17.1 × 60 + 38.9 × 5 + 18.2 × 10 = 1402.5 kJ		1m
+b	Brand Y 													1m
+Brand Y contains the smallest amount of lipids and more dietary fibre.		1m	
+---------------------------------------------------
+
+
+[10246261]
+// Applying concepts //
+*	The nutrition label below shows the amounts of some food substances in bananas.
+Banana, raw, edible parts 
+Nutritional value per 100 g	
+Energy		370 kJ	
+Carbohydrates	22.84 g	
+-	Sugars 	12.23 g	
+-	Dietary fibre	2.6 g	
+Lipids	0.33 g	
+Proteins	1.09 g	
+Vitamin A	3 μg	
+Vitamin C	8.7 mg	
+Calcium	5 mg	
+Iron	0.26 mg	
+
+a	A person having scurvy is advised to eat more bananas. Explain why.																(2 marks)
+b	The banana is often regarded as a healthy food. Using the information  above, state how the banana is beneficial to our health.			(3 marks)
+
+-- answer --
+a	The person may lack vitamin C. 								1m
+Banana contains a large amount of vitamin C.						1m
+b	It contains dietary fibre, which stimulates peristalsis.					1m
+It contains only a small amount of lipids. Eating it is not likely to increase the risk of heart attack and stroke. 										1m
+It contains various vitamins and minerals, which are necessary to stay healthy.																1m	
+---------------------------------------------------
+
+
+[10246262]
+// Basic concepts //
+	Calcium and iron are two essential minerals.
+a	Calcium is one of the main components of some tissues in our body. Give two examples of these tissues.								(2 marks)
+b	Name the molecule in blood that contains iron.				(1 mark)
+c	What diseases may result if a person is deficient in calcium and iron?																(2 marks)
+-- answer --
+a	Bones and teeth										1m x 2
+b	Haemoglobin											1m
+c	A deficiency in calcium may lead to rickets.						1m
+A deficiency in iron may lead to anaemia.						1m	
+---------------------------------------------------
+
+[10246263]
+// Basic concepts //
+	Women need more energy when they are pregnant or breast-feeding.
+		
+
+a	Why do women need more energy when they are pregnant or  breast-feeding?										(2 marks)
+b	For the healthy growth of the foetus, what types of food substances do pregnant women need in larger amounts? Why?				(3 marks)
+-- answer --
+a	During pregnancy, more energy is needed for the growth of the foetus.		1m
+During breast-feeding, more energy is needed for the production of milk.	1m
+b	Proteins and iron											1m 
+Proteins are needed for the growth of the foetus. 					1m
+Iron is needed for the formation of foetal red blood cells.				1m	
+---------------------------------------------------
+
+[10246271]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of an amino acid, alanine.
+	
+a	Which two substances are formed when two alanine molecules join  together? 											(2 marks)
+b	Name the bond between the joined pair of alanine molecules. 	(1 mark)
+-- answer --
+a	Dipeptide 													1m
+Water 													1m
+b	Peptide bond 												1m	
+---------------------------------------------------
+
+[10246275]
+// Basic concepts //
+a	Give two functions of lipids in the human body. 				(2 marks)
+b	More carbohydrates could be found in liver tissue than in heart tissue. Suggest a reason for this. 								(1 mark)
+c	State one health problem that may arise if we have improper diet. How is the problem caused?									(2 marks)
+
+
+
+-- answer --
+a	Lipids act as energy reserves. /
+Lipids act as an insulator to reduce heat loss. /
+Lipids act as a shock absorber to protect the internal organs. /
+Lipids are involved in the absorption, transport and storage of lipid-soluble vitamins. / 
+Lipids are involved in making some hormones. /
+Phospholipids are a major component of cell membranes. (any 2)		1m x 2
+b	Carbohydrates are stored as glycogen in the liver. 				1m
+c	Overweight / obesity 										1m
+When the energy input is greater than energy output, the excess energy is stored as fats in our body and we gain weight. 						1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10246296]
+// Experiment // Applying concepts //
+	a	Describe how you would test for the presence of lipids in a liquid food sample. 												(4 marks)
+b	Lipids can provide more than twice the amount of energy of carbohydrates per gram. Would you advise people to take in more lipids to replace the carbohydrates to provide energy? Explain your answer.			(2 marks)
+
+-- answer --
+a	Add a drop of the liquid food sample on a piece of filter paper.			1m
+Let the drop dry in the air for 20 minutes and observe any translucent spot. 	1m
+Immerse the filter paper into an organic solvent. Let it dry and observe again. 																1m
+If lipids are present in the liquid food, a translucent spot will be formed on the filter paper. The spot will disappear after the paper is immersed into the solvent.	1m
+b	No. Taking in too much lipids can lead to high blood cholesterol levels.		1m
+High blood cholesterol levels will increase the risk of heart attack and stroke. 																1m	
+--------------------------------------------------- 
+
+
+
+Structured questions
+
+[10246419]
+// Overseas exam question // Data handling // Applying concepts //
+*	A 20-year-old woman attended her doctor complaining of feeling tired. The woman was overweight and she looked pale.
+	The doctor asked the woman to use a food diary to record everything she ate for one week.
+	From her food diary, the doctor calculated the average daily amounts of energy, protein and important vitamins and minerals the woman was eating. He compared these figures with the reference nutrient intakes (RNI).
+	This data is given in the table below.
+	The values given in the table below are per day.
+	Energy
+(kcal)	Protein
+(g)	Fat
+(g)	Vitamin C
+(mg)	Vitamin A
+(μg)	Iron
+(mg)		Woman	3000	50	85	20	400	8		RNI	2000	50	70	40	600	15		a	Comment on the woman's average daily amounts of fat, vitamin C and iron compared to RNI figures.
+	Make three recommendations of food sources which could improve the woman's diet for fats, vitamin C and iron.					(6 marks)
+b	The doctor requested a blood test for the woman. The results showed that the woman had low haemoglobin levels.
+	Explain how low levels of haemoglobin in the blood would result in the woman being pale and tired.								(2 marks)
+CCEA GCE (AS) Human Body Systems May 2017 Q3a, c
+-- answer -
+a	The fat intake of the woman is too high.							1m
+	She should eat boiled foods instead of fried foods.					1m
+	Her vitamin C intake is too low.									1m
+	She should eat more fresh vegetables and fruits.						1m
+	Her iron intake is too low.										1m
+	She should eat more red meat / green leafy vegetables.				1m
+b	Haemoglobin is red in colour. Therefore, the woman looks pale when the level of haemoglobin in her blood is low.									1m
+	She feels tired because her body cells cannot receive enough oxygen.		1m	
+---------------------------------------------------
+[10246430]
+// Data handling // Experiment // Calculation // Applying concepts //
+*	The diagram below shows the nutrition information of a bottle of orange juice. A bottle contains 420 mL orange juice.
+	Nutrition information	
+		per 100 mL	
+	Energy	36 kcal	
+	Protein	0 g	
+	Total fat
+	Saturated fat
+	Trans fat	0 g	
+		0 g	
+		0 g	
+	Carbohydrates
+	Sugars	8.5 g	
+		8.5 g	
+	Sodium	20 mg	
+a	i	If Mary consumes two bottles of orange juice every day, what is the total amount of sugars taken in from the orange juice? Show your working.											(2 marks)
+ii	The recommended daily intake of sugars for a girl of her age is 90 g. What is the percentage of sugar contributed by two bottles of orange juice to her daily intake? Show your working.			(1 mark)
+iii	With reference to your answer in ii, state one health problem that Mary might suffer from if she maintains this habit of drinking two bottles of orange juice every day.								(1 mark)
+b	A student carried out an experiment to determine the vitamin C content of this orange juice. The table below shows the number of drops of this orange juice and fresh squeezed orange juice needed to decolourize 1 cm3 DCPIP solution.
+
+	Number of drops	
+Orange juice	100	
+Fresh squeezed orange juice	30	
+
+i	It is given that 15 drops of 0.1% vitamin C solution are needed to decolourize 1 cm3 DCPIP solution. Calculate the vitamin C content of the bottle of orange juice and fresh squeezed orange juice.	(4 marks)
+ii	Commercial fruit juice is often heated to around 90 °C for 40 seconds to kill off any bacteria in it. With this piece of information, suggest a reason for the difference in the vitamin C content of the bottle of orange juice and fresh squeezed orange juice.			(2 marks)
+
+-- answer --
+a	i	8.5 × (420 / 100) × 2										1m
+		= 71.4 g												1m
+ii	71.4 / 90 × 100% = 79.3%									1m
+iii	She might suffer from obesity. 								1m
+b	i	Vitamin C content of the bottle of orange juice
+			= 15 /100 × 0.1%										1m
+		= 0.015%												1m
+			Vitamin C content of fresh squeezed orange juice
+			= 15 / 30 × 0.1%										1m
+		= 0.05%												1m
+ii	The vitamin C content of fresh squeezed orange juice is much higher than that of the bottle of orange juice because some of the vitamin C in the bottle of orange juice is destroyed by heat. 							2m	
+---------------------------------------------------
+
+[10246438]
+// Cross-topic // Graph interpretation // High order thinking // Experiment //
+**	The photograph below shows kale, which is said to be a superfood. It is a green vegetable rich in vitamin C.
+	
+	a	Describe how you would measure the vitamin C content of kale.	(4 marks)
+	b	The graph below shows the effect of boiling and steaming on the vitamin C content of kale.
+	
+	i	Based on the graph, what conclusions can be drawn?		(2 marks)
+	ii	A scientist suggests that the decrease in vitamin C content is not due to destruction of vitamin C by heat directly, instead it is through another mechanism. Suggest and explain the possible mechanism through which the decrease in vitamin C content in kale after boiling.															(3 marks)
+-- answer --
+a	i	Grind small pieces of kale with a small quantity of cool distilled water.	1m
+		Filter the ground kale by squeezing it through several layers of pre-moistened fine muslin or by using a filter paper.				1m
+		Put 1 cm3 of DCPIP solution into a test tube.					1m
+		Add the kale extract to the DCPIP solution drop by drop with gentle shaking. Stop when the DCPIP solution is decolourized.					1m
+b	i	The longer the cooking time, the lower the vitamin C content in kale.	1m
+		More vitamin C is lost after boiling than after steaming.				1m
+	ii	Boiling damages the cell membrane of the cells of kale,			1m
+		causing it to become fully permeable.							1m
+			Hence, vitamin C leaves the cells by diffusion.					1m	
+---------------------------------------------------
+
+[10246442]
+// Experiment // Schematic diagram // Applying concepts //
+*	a	Sucrose, cellulose and starch are some common carbohydrates found in plants. Complete the table below about the group of carbohydrates they belong to and their constituent sugar units.					(3 marks)
+
+	Group of carbohydrate it belongs to	Constituent sugar units	
+Sucrose			
+Cellulose			
+Starch			
+
+
+	b	The diagram below shows two test tubes (A and B) used to study the effect of invertase on sucrose solution.
+
+	
+	At the beginning, the student extracted 1 cm3 of the reaction mixture from both tubes to perform Benedict's test. Then, both of the tubes were left at room temperature for 30 minutes. After 30 minutes, the student performed Benedict's test on both tubes. Describe and explain the test results at 0 mins and 30 mins.											(5 marks)
+c	After the experiment, the student suggested that the invertase in the tube could be reused. Do you agree? Explain briefly.				(2 marks)
+-- answer --
+a	
+
+Group of carbohydrate it belongs to
+Constituent sugar units
+
+Sucrose
+disaccharide
+a glucose molecule and a fructose molecule
+
+Cellulose
+polysaccharide
+glucose molecules
+
+Starch
+polysaccharide
+glucose molecules
+
+																3m
+b	At 0 mins, no brick-red precipitate is formed in both tubes				1m
+because sucrose is not a reducing sugar.							1m
+At 30 mins, a brick-red precipitate is formed in tube A but not in tube B.		1m
+This is because sucrose is broken down by invertase into glucose and fructose,															1m
+which are reducing sugars.										1m
+c	No, the invertase could not be reused.							1m
+	The invertase had been heated during the experiment and hence was denatured. 														1m	
+---------------------------------------------------
+
+
+[10246466]
+// Calculation // Applying concepts //
+**	Molly is 8-year-old. Most of her daily liquid intake comes from a juice drink diluted from a juice drink concentrate. The diagram below shows the nutritional information of the juice drink concentrate. Molly's mother dilutes 1 part of the concentrate with 4 parts of water and Molly drinks 1.5 L of this diluted juice drink daily.
+
+NUTRITIONAL INFORMATION	
+Serving size: 100 mL (undiluted)	
+Servings per bottle: 10	
+	Per serving	
+Energy	1340 kJ	
+Protein	0 g	
+Total fat	0 g	
+Cholesterol	0 mg	
+Total carbohydrate	78 g	
+	- Sugar	52 g	
+	- Dietary fibre	1.2 g	
+Calcium	0 mg	
+Sodium	70 mg	
+Vitamin C	150 mg	
+
+a	Calculate how much sugar is present in 1.5 L of this diluted juice drink. Show your working.									(2 marks)
+b	The daily energy requirement for a 8-year-old is 6500 kJ. What percentage of Molly's daily energy requirement is provided by 1.5 L of this diluted juice drink?											(1 mark)
+c	Write three possible health risks to Molly if she continues to drink 1.5 L of this diluted juice drink daily.								(3 marks)
+d	Describe and explain how the dietary requirement of Molly would change after she has entered puberty.								(3 marks)
+
+-- answer --
+a	[(1500 mL / 5) / 100 mL] × 52 g									1m
+	= 156 g													1m
+b	{[(1500 mL / 5) / 100 mL] × 1340 kJ × 100%} / 6500 kJ = 61.8%			1m
+
+c	A higher risk of obesity if her total energy intake is more than her energy requirement												1m
+	A higher risk of dental caries									1m
+	Lack of important nutrients, resulting in deficiency diseases if hunger is satisfied by this drink													1m
+	(or other reasonable answers)
+d		She would need more proteins for the growth of muscles.				1m
+	She would need more calcium for bone growth.						1m
+	She would need more iron	due to menstruation.						1m
+	(or other reasonable answers)	
+--------------------------------------------------
+
+[10246483]
+// Calculation // STSE connections // Applying concepts //
+*	The diagram below shows the nutritional information of a box of instant oatmeal.
+
+NUTRITIONAL INFORMATION		
+
+
+
+
+	
+Serving size: 31 g			
+Servings per box: 4			
+	Per serving			
+Energy	500 kJ			
+Protein	3.2 g			
+Total fat	1.9 g			
+	- Saturated fat	0.4 g			
+	- Trans fat	0 g			
+Cholesterol	0 mg			
+Total carbohydrate	22.5 g			
+	- Sugar	2.3 g			
+	- Dietary fibre	1.8 g			
+Calcium	105 mg			
+Sodium	345 mg			
+Iron	0.9 mg			
+a	The recommended daily amount (RDA) of energy required for a woman is 8800 kJ. Calculate the percentage of a woman's RDA provided by 100 g of this oatmeal. Show your working.										(2 marks)
+b	Explain why the percentage of a man's RDA provided by 100 g of this oatmeal is lower than that of a woman's RDA.							(2 marks)
+
+c	A woman requires 1000 mg of calcium daily for the maintenance of health.
+i	If 30% of the woman's daily requirement of calcium is to be provided by this oatmeal, how much oatmeal should the woman eat? Show your working.													(2 marks)
+	ii	Give two functions of calcium in the maintenance of health.		(2 marks)
+d	Nutrition labelling is required for all prepackaged food sold in Hong Kong, unless otherwise exempted. Suggest one way in which customers can benefit from reading nutrition labels.									(1 mark)
+
+-- answer --
+	a	
+															1m
+		= 18.3%												1m
+	b	Men generally have a higher RDA of energy					1m
+because they usually have a higher metabolic rate due to their larger body size and being more muscular.									1m
+	c	I	
+															1m
+	= 88.6 g											1m
+ii	Calcium is a component of bones / teeth. / Calcium is involved in blood clotting / muscle contraction / sending messages in the nervous system. (any 2)												1m ( 2
+d	To make informed food choices so as to achieve a balanced diet and stay healthy.															1m	
+--------------------------------------------------
+
+
+[10246499]
+// Basic concepts //
+	The diagrams below show some common foods.
+
+
+potatoes	
+canned sardines
+	
+ 
+cheese	
+honey	
+
+a	i	Among the four kinds of foods above, which two foods are rich in carbohydrates? 									(2 marks)
+ii	Write down the types of carbohydrates that the foods in a i mainly contain.											(2 marks)
+b	i	Among the four kinds of foods above, which two foods are suitable for children suffering from rickets?						(2 marks)
+ii	Which food substance contained in the foods in b i is important for preventing rickets? Suggest why this food substance can help prevent rickets.											(2 marks)
+c	Some people suggest not to remove the potato skin when preparing meals with potatoes. What kind of food substance does the potato skin mainly provide? What is the function of this kind of food substance? 	(2 marks)
+
+
+
+
+-- answer --
+	a	i	Potatoes and honey										2m
+		ii	Potatoes are rich in starch.									1m
+			Honey is rich in glucose and fructose.							1m
+b	i	Cheese and canned sardines								2m
+ii	Calcium												1m
+		It is essential for the formation and hardening of bones.			1m
+c	Dietary fibre												1m
+It adds bulk to food to stimulate peristalsis of the gut.					1m	
+--------------------------------------------------
+
+[10246523]
+// Overseas exam question // Graph plotting // Experiment // Communication //
+*	Vitamins are an important part of the diet.
+a 	You are provided with:
+-	a sample of fresh orange juice,
+-	a sample of 1-week-old orange juice and
+-	the reagent used to test for vitamin C.
+Describe the steps you would take to compare the amount of vitamin C in the sample of fresh orange juice with that of the 1-week-old orange juice. How would you ensure your results were reliable?			(6 marks)
+b	The table shows the amount of vitamin C in different fruit juices.
+Fruit juice	Mass of vitamin C in 1 cm3 of juice (mg)	
+	Measurement 1	Measurement 2	Average	
+Orange	Fresh	0.4	0.6	0.5	
+	Carton	0.2	0.4	0.3	
+	1-week-old	0.1	0.1	0.1	
+Blackcurrant	Fresh	0.9	0.5	0.7	
+	Carton	0.2	0.8	0.5	
+	1-week-old	0.3	0.5		
+
+i	Complete the table by calculating the average mass of vitamin C in the 1-week-old blackcurrant juice.						(1 mark)
+ii	Explain which juice produced the least reliable results.		(2 marks)
+
+The graph shows the average mass of vitamin C in 1 cm3 of different fruit juices.
+	
+iii 	Complete the graph using the information in the table.		(3 marks)
+iv	Describe the trend shown by the results for fresh juices compared to carton juices.										(1 mark)
+v	Use evidence from the graph to explain why you are advised to use juice within 1 week.								(1 mark)
+An adult is recommended to have a daily intake of 60 mg of vitamin C.
+vi	Calculate the volume of carton orange juice which would provide an adult with their daily recommended intake of vitamin C. Show your workings.											(2 marks)
+vii	Does this investigation provide sufficient evidence to support the conclusion that fresh blackcurrant juice contains more vitamin C than fresh orange juice? Explain your answer.				(1 mark)
+	CCEA GCSE Biology (New Specification) Foundation Tier Unit 1 2012 Q8
+
+-- answer --
+a 	Measure the volume of fresh orange juice							1m
+needed to decolourize a known volume of DCPIP solution.				1m
+Measure the volume of 1-week-old orange juice 						1m
+needed to decolourize the same volume of DCPIP solution.				1m
+Repeat 3 times.												1m
+Calculate the average.										1m
+b	i	0.4 mg												1m
+
+ii 	Carton blackcurrant juice 									1m
+The range of results is the widest.							1m
+iii	Labels on x-axis											1m
+Accurate plots											2m
+iv	There is more vitamin C in fresh juices.						1m
+v	1-week-old orange juice has 0.1 mg vitamin C compared with 0.5 mg in fresh orange juice. / 1-week-old blackcurrant juice has 0.4 mg of vitamin C compared to 0.7 mg in fresh blackcurrant juice.					1m
+vi	There is 0.3 mg vitamin C per cm3 orange juice. 					1m
+60 / 0.3 = 200 cm3 										1m
+vii	Yes. It is because the average amount of vitamin C in fresh blackcurrant juice  is higher.												1m	
+---------------------------------------------------
+
+[10246525]
+// Data handling // Applying concepts //
+*	The table below shows the amounts of different food substances in 100 g of three brands of breakfast cereals.
+	Brand X	Brand Y	Brand Z	
+Energy (kJ)	1515	1600	1511	
+Carbohydrates (g)	75	68.7	77.1	
+Lipids (g)	0	6.4	2.1	
+Proteins (g)	12.8	9.5	6.1	
+Dietary fibre (g)	2.5	8.0	4.8	
+Iron (mg)	8.3	6.6	0	
+
+a	Which food substance(s) shown in the table contribute(s) to the energy of the cereals?											(3 marks)
+b	Brand Y cereal also contains nuts and dried fruits. Name three kinds of carbohydrates that may be found in brand Y cereal.			(3 marks)
+c	A 30-year-old woman is dieting. She replaces all meals in a day with brand Z cereal and skimmed milk to reduce her daily energy intake.
+i	Why can people lose weight by reducing the daily energy intake?														(2 marks)
+ii	State one disease that may result if the woman keeps having this diet for a month. Give one symptom of this disease.			(2 marks)
+
+
+-- answer --
+a	Carbohydrates, lipids and proteins							1m x 3
+b	Fructose / glucose / maltose / starch / cellulose (any 3)			1m x 3
+c	i	If the daily energy intake is lower than the daily energy expenditure, 															1m
+the body will break down the subcutaneous fat to release energy.	1m
+ii	Anaemia											1m
+Dizziness (or other correct answers)						1m	
+---------------------------------------------------
+
+[10246532]
+// Experiment // Communication // Applying concepts //
+*	In a supermarket, Anna saw a can of liquid food that is designed for dieters.
+a	The package of the food states that it contains 'no fats'. Suggest a test to find out if the food really contains no lipids. Describe how the test can be carried out. 											(5 marks)
+b	Even though the food contains no lipids, dieters eating too much of it may still gain weight. Why?									(2 marks)
+c	The protein content of the food is high. Suggest how its high protein content may affect our health if all meals in a day are replaced with this food.																(2 marks)
+d	The food has vitamin C added to it. State two functions of vitamin C in our body.												(2 marks)
+
+-- answer --
+a	Grease spot test	 									1m
+Add a drop of the liquid food sample on a piece of filter paper.		1m
+Let the drop dry in the air for 20 minutes and observe any translucent spot. 																1m
+Immerse the filter paper into an organic solvent. Let it dry and observe again. 															1m
+If lipids are present in the liquid food, a translucent spot will be formed on the filter paper. The spot will disappear after the paper is immersed into the solvent.																1m
+b	The food may contain sugars / carbohydrates / proteins which also provide energy.														1m
+Excess energy will be stored as fats in the body.					1m
+
+c	Excess amino acids cannot be stored in the body. They are deaminated in the liver. 												1m
+Taking food with high protein content increases the workload of the liver. This may cause liver problems. 									1m
+d	Vitamin C is needed for the growth and repair of connective tissues. / 
+	Vitamin C is needed for healing wounds. /
+Vitamin C promotes the absorption of iron from plant foods. /
+Vitamin C helps the immune system work properly to protect the body from diseases. (any 2)										1m x 2	
+---------------------------------------------------
+
+[10246543]
+// Graph interpretation // Applying concepts //
+**	In recent years, more and more people have followed vegetarian diets. According to vegetarianism, people's diets can be generally categorized into three groups as shown in the table below.
+Type of diet	Content of the diet	
+Non-vegetarian diet	All kinds of food	
+Lacto-ovo vegetarian diet	All kinds of food without meat	
+Strict vegetarian diet	Plants only	
+
+The bar chart below shows the percentages of proteins (by mass) in the above three types of diets.
+	
+a	i	From the above bar chart, which type of diet contains the greatest percentage of proteins?								(1 mark)
+ii	Explain why this type of diet contains the greatest percentage of proteins.											(1 mark)
+b	List two kinds of food that can act as a source of proteins in lacto-ovo vegetarian diets but not in strict vegetarian diets.				(2 marks)
+c	Considering the nutritional content, state two benefits of vegetarian diets.															(2 marks)
+d	Why may the strict vegetarian diet not be suitable for young children?																(2 marks)
+e	Vitamin B12 can only be naturally obtained from animal-based food. Suggest how vegetarians can obtain sufficient vitamin B12.		(1 mark)
+
+-- answer --
+a	i	Non-vegetarian diet									1m
+ii	Non-vegetarian diet generally contains meat which is a major source of proteins. 											1m
+b	Dairy products and eggs									1m x 2
+c	Vegetarian diets generally contain more dietary fibre, which can stimulate peristalsis of our alimentary canal and thus prevent constipation.		1m
+Vegetarian diets generally contain less saturated fats / cholesterol. They help reduce the risk of heart attack / stroke. 						1m
+d	The strict vegetarian diet contains less proteins. It may not be able to supply enough proteins for the growth of young children.				1m
+The digestive system of young children is still developing. It may not be able to handle the high dietary fibre content of the strict vegetarian diet.		1m
+e	Take vitamin B12 supplements. / Take cereals or foods with extra vitamin B12 added.							 					1m	
+---------------------------------------------------
+
+[10246573]
+// Data handling // Applying concepts //
+*	The table below shows the amounts of food substances in 100 g of three foods  (X, Y and Z).
+Food	Vitamin (g)	Water (g)	Dietary fibre (g)	
+	A	C	D			
+X	995	0	125	0	0	
+Y	420	0	0	0	0	
+Z	20	100	0	30	30	
+
+
+a	A 15-year-old young boy needs a lot of proteins for growth. In addition to proteins, which vitamin does he require in greater quantity for his growth? Which food in the above table is the most suitable to be a source of this vitamin?												(2 marks)
+b	Peter suffers from constipation. Which food in the above table is the best for him? Explain your choice. 								(3 marks)
+c	State two eye problems that may be caused by the deficiency in vitamin A. 														(2 marks)
+d	Name one disease that is caused by the deficiency in vitamin C. What is the function of vitamin C?									(2 marks)
+
+-- answer --
+a	Vitamin D													1m
+Food X													1m
+b	Food Z													1m
+It contains the largest amount of dietary fibre						1m
+which can stimulate peristalsis.									1m
+c	Poor vision in dim light / night blindness							1m
+Drying up of the cornea		 								1m
+d	Scurvy													1m
+Vitamin C is needed for the growth and repair of connective tissues / needed for healing wounds / promotes the absorption of iron from plant foods / helps the immune system work properly to protect the body from diseases.			1m	
+---------------------------------------------------
+
+
+[10246578]
+// Data handling // Experiment // Applying concepts //
+*	Daniel carried out an experiment to study the diets of two bats. He suspected that one bat fed on blood and the other fed on fruit juice. He took some food samples from their stomachs and performed several food tests.
+	Food sample from bat P	Food sample from bat Q	
+Appearance	Red liquid	Colourless liquid	
+Using protein test paper 	Positive	Negative	
+Benedict's test	Positive	Positive	
+Using DCPIP solution 	Negative	Positive	
+a	There were some solids suspended in the food sample from bat P. What process did Daniel carry out to separate them out from the sample before starting the food tests?									(1 mark)
+b	Describe how we can test the food sample using Benedict's test.	(3 marks)
+c	Describe how we can test the food sample using DCPIP solution.																	(2 marks)
+d	What conclusion about the diets of the bats could he draw from the results of the food tests?										(4 marks)
+
+-- answer --
+a	Filtration / centrifugation										1m
+b	Mix equal volumes of the food sample and Benedict's solution in a test tube.																	1m
+Boil the mixture in a water bath for 5 minutes.						1m
+If reducing sugars are present in the food sample, a brick-red precipitate will be formed. 											 		1m
+c	Add the food sample into DCPIP solution drop by drop with gentle shaking.	1m
+If vitamin C is present in the food sample, DCPIP solution will decolourize.	1m
+d	Food sample from bat P contained proteins and reducing sugars, and had no vitamin C. 												1m
+The composition matched that of blood. Bat P may feed on blood. 		1m
+Food sample from bat Q contained reducing sugars and vitamin C, and had no proteins.													1m
+The composition matched that of fruit juice. Bat Q may feed on fruit juice. 	1m	
+---------------------------------------------------
+
+[10246579]
+// High order thinking // Applying concepts //
+**	Obesity is a common nutritional disorder in wealthy countries. Eating too much will increase our weight to an unhealthy level.
+a	Two people of the same age and sex have been eating the same diet for a year. One becomes overweight but the other is still slim. Explain for such a difference.											(3 marks)
+b	An obese person tried to get slim by eating only protein foods but he did not succeed. 
+i	Suggest a possible reason to explain why he did not succeed.															(2 marks)
+ii	A diet consisting of only protein foods is not good for health. Why? 														(1 mark)
+iii	Suggest a healthy way to get slim.						(1 mark)
+c	Which snack contains less energy, deep-fried potato chips or baked potato chips? Explain.										(2 marks)
+
+-- answer --
+a	Whether we gain weight depends on the relative amount of energy intake and our energy needs.  											1m
+The two people may have different energy needs 					1m
+due to their different body status and different levels of activity. 			1m
+b	i	Proteins also supply energy to the body. 					 	1m
+The person might eat a large amount of food. The excess energy provided by proteins was stored as fats in the body.					 	1m
+ii	The body may not get enough minerals and nutrients that are absent / present in only small amounts in the protein foods.				1m
+iii	Doing physical exercise (or other reasonable answers)				1m
+c	Baked potato chips											1m
+Less oil is used for baking than for deep-frying.						1m	
+---------------------------------------------------
+
+[10246580]
+// Experiment // Applying concepts //
+*	The photograph below shows the teeth of a person who is suffering from a disease. The disease is caused by a deficiency of a kind of vitamin.
+
+	
+
+a	Name the disease. 										(1 mark)
+b	What kind of vitamin is the person probably deficient in? 		(1 mark)
+c	This disease was common in sailors on long journeys in the past. Explain this phenomenon. 										(2 marks)
+d	i	Describe how we can test for the presence of the vitamin answered in b in a liquid food sample. 								(2 marks)
+ii	Explain why there is no common test for all vitamins. 		(1 mark)
+e	State one advantage of taking fruits and vegetables as a source of this vitamin over taking supplementary tablets. 					(1 mark)
+
+-- answer --
+a	Scurvy 													1m
+b	Vitamin C		 											1m
+c	Their diet lacked fresh fruits and vegetables						1m
+which are the main source of vitamin C. 							1m
+	d	i	Add the liquid food sample into DCPIP solution drop by drop with gentle shaking.												1m
+If vitamin C is present in the food sample, DCPIP solution will decolourize.															1m
+ii	The chemical structures of different vitamins are quite different.		1m
+e	Fruits and vegetables contain a large amount of dietary fibre while supplementary tablets do not contain dietary fibre. 								1m	
+---------------------------------------------------
+
+
+[10246590]
+// Experiment // Schematic diagram // Applying concepts //
+	The diagram below shows the procedure for testing a type of food substance in milk.
+	
+
+a	Name the test and the type of food substance it tests for. 		(2 marks)
+b	Does milk contain this type of food substance? Explain with reference to the result shown in the diagram.								(2 marks)
+c	State how skimmed milk is different from ordinary milk. Why is it not recommended for babies as food?							(3 marks)
+d	What kinds of vitamins and minerals abundant in milk are essential for the growth of babies? What is their importance?					(3 marks)
+
+-- answer --
+a	Grease spot test											1m
+Lipids													1m
+b	A translucent spot was formed, which disappeared after the filter paper was immersed in the organic solvent. 								1m
+This indicated that milk contains lipids.							1m
+c	Skimmed milk contains less lipids.								1m
+Babies need lipids to make cell membranes for growth.				1m
+Lipids are needed for transporting and storing some essential vitamins.	1m
+d	Calcium and vitamin A										1m
+Calcium is a component of bones and teeth / is involved in blood clotting / muscle contraction / sending messages in the nervous system. 				1m
+Vitamin A is important for keeping the cornea, the skin, the lining of the alimentary canal and the breathing system healthy.							1m	
+---------------------------------------------------
+
+[10246606]
+// Applying concepts //
+	A food company plans to manufacture a synthetic food which contains all the essential food substances for a healthy diet.
+a	What food substances other than water should be included in the food?															(3 marks)
+b	Which of the substances answered in a do not supply energy to the body? What are their functions?								(4 marks)
+c	Even though the food contains all essential food substances in the right proportions, a person depending solely on it may still become too fat or too slim. Why?											(3 marks)
+d	Name two functions of water in the human body.				(2 marks)
+-- answer --
+a	Carbohydrates, lipids, proteins, minerals, vitamins and dietary fibre	3m
+b	Minerals, vitamins and dietary fibre do not supply energy.			1m
+Minerals are important in regulating many metabolic activities and building body tissues.  												1m
+Vitamins are important in regulating many metabolic activities.		1m
+Dietary fibre adds bulk to food to stimulate its movement along the gut / holds a lot of water to allow faeces to remain soft. 						1m
+c	Whether we becomes too fat or too slim depends on the relative amount of energy intake and our energy needs.								1m
+The energy intake is affected by the amount of food taken.			1m
+The energy needs depends on various factors like age, sex, body status and the level of activity. 											1m
+d	It is a reactant in some metabolic reactions. /
+	It serves as a medium of chemical reactions. /
+	It serves as a transport medium. /
+	It acts as a cooling agent to help regulate body temperature. /
+It is a major component of many lubricating fluid. (any 2)			1m x 2	
+---------------------------------------------------
+
+
+[10246612]
+// Basic concepts //
+	a	Explain what is meant by a balanced diet. 					(2 marks)
+b	i	State and explain the difference between males and females in the requirements for iron. 								(3 marks)
+ii	Name one deficiency disease of iron. Explain why deficiency in iron causes this disease. 								(2 marks)
+iii	State two kinds of foods that are rich in iron. 			(1 mark)
+-- answer --
+a	A balanced diet is a diet that consists of all the food substances 			1m
+in the right amounts and proportions.								1m
+b	i	Females aged 11 and 50 need more iron than males of the same age.	1m
+Excess iron is needed to replace the loss of iron during menstruation. 	1m
+They also need more iron during pregnancy for the formation of foetal red blood cells. 											1m
+ii	Anaemia 												1m
+Iron is a component of haemoglobin.							1m
+iii	Beef / liver / beans / cabbage / spinach / raisins (any 2)			1m	
+---------------------------------------------------
+
+
+[10246620]
+// Drawing // Basic concepts //
+	a	Draw a labelled food pyramid.							(3 marks)
+b	State one function of carbohydrates in our body.				(1 mark)
+c	State three functions of lipids in our body.					(3 marks)
+d	In our body, there are body structures or substances that are made up of proteins. State four examples.								(2 marks)
+e	State the function of vitamins in our body.					(1 mark)
+-- answer --
+a	
+
+														3m
+b	They are the main energy source of body activities. / Glycogen acts as energy reserves. / Cellulose acts as a source of dietary fibre. 				1m
+c	They act as energy reserves. /
+They act as an insulator to reduce heat loss. /
+They act as a shock absorber to protect the internal organs. /
+They are involved in the absorption, transport and storage of lipid-soluble vitamins. / 
+They are involved in making some hormones. /
+Phospholipids are the major component of cell membranes. (any 3)	1m x 3
+d	Cell membranes / muscles / skin / enzymes / hormones / haemoglobin / antibodies (any 4)												2m
+e	Vitamins help regulate many metabolic reactions.				1m	
+---------------------------------------------------
+[10246640]
+// Experiment // Applying concepts //
+*	The photograph below shows several pieces of meat. Part X is rich in food substance Y.
+	
+a	Describe how we can test for the presence of food substance Y in a liquid food sample.											(4 marks)
+b	State three functions of food substance Y in our body.			(3 marks)
+c	What are the main products of food substance Y after it is digested in our body?												(2 marks)
+d	Suggest one reason why it is unhealthy to consume meat containing a high proportion of part X.									(1 mark)
+e	Give one other example of food that contains a high level of food substance Y.													(1 mark)
+
+-- answer --
+a	Add a drop of the liquid food sample on a piece of filter paper.		1m
+Let the drop dry in the air for 20 minutes and observe any translucent spot. 																1m
+Immerse the filter paper into an organic solvent. Let it dry and observe again. 															1m
+If lipids are present in the liquid food, a translucent spot will be formed on the filter paper. The spot will disappear after the paper is immersed into the solvent.																1m
+b	It acts as energy reserves. /
+It acts as an insulator to reduce heat loss. /
+It acts as a shock absorber to protect the internal organs. /
+It is involved in the absorption, transport and storage of lipid-soluble vitamins. / 
+It is involved in making some hormones. (any 3)					1m x 3
+c	Glycerol and fatty acids									1m x 2
+
+
+d	Part X is high in cholesterol which increases the risk of heart attack and stroke. /  
+Part X contains lipids that have a high energy value. If we eat too much of it, we may gain weight and become overweight or obese. This increases the risk of diabetes, heart disease, stroke and arthritis.					1m
+e	Seeds / nuts / milk / dairy products (or other correct answers)		1m	
+---------------------------------------------------
+
+[10246643]
+// Experiment // Applying concepts //
+	A student tested three foods (X, Y and Z) for the presence of proteins and starch. The table below shows the results.
+Food	Test for proteins	Test for starch (iodine test)	
+X	Negative 	The iodine solution remains brown	
+Y	Positive 	The iodine solution remains brown	
+Z	Negative	The iodine solution turns blue-black	
+
+a	It is known that the foods under tests are rice, milk and sugar cane. Identify X, Y and Z.											(3 marks)
+b	How did the student test for the presence of proteins and starch in the food respectively?											(4 marks)
+c	Which food, X, Y or Z, is most effective in keeping the bones and teeth healthy? Explain your answer.							(3 marks)
+-- answer --
+a	X: sugar cane												1m
+Y: milk													1m
+Z: rice													1m
+b	Test for proteins:
+Dip the test end of protein test paper into the extracts of the foods.		1m
+If proteins are present, a colour change will be observed.				1m
+Test for starch:
+Add a few drops of iodine solution to the food.						1m
+If starch is present in the food, a colour change from brown to blue-black will be observed. 												1m
+c	Food Y / milk												1m
+It is rich in calcium. 											1m
+Calcium is a component of bones and teeth.						1m	
+---------------------------------------------------
+
+[10246678]
+// Basic concepts //
+	a	Complete the following table. 							(3 marks)
+Food substance	Function in our body	
+	Helps repair of connective tissues	
+	A component of bones	
+	Forms haemoglobin	
+b	i	Explain why a boy aged 7 needs more energy than his grandmother.														(2 marks)
+ii	Suggest two food substances that he needs for growth. Explain your answer.											(2 marks)
+c	Besides the age, state two other factors that affect human dietary requirements.											(2 marks)
+-- answer --
+a
+Food substance
+Function in our body
+
+Vitamin C
+Helps repair of connective tissues
+
+Calcium
+A component of bones
+
+Iron
+Forms haemoglobin
+
+														1m x 3
+b	i	The boy has higher growth rate and higher metabolic rate. 		1m
+He also has a higher rate of heat loss as his surface area to volume ratio is higher.  											1m
+ii	Proteins. They are needed for building muscles. / 
+Calcium. It is a component of bones and teeth. / 
+Iron. It is needed for making haemoglobin. (any 2)			1m x 2
+c	Sex / level of activity / body status (any 2)						1m x 2	
+---------------------------------------------------
+
+
+Essays
+
+[10246806]
+// Communication // Basic concepts //
+	Discuss the structure and functions of lipids in humans.			(10 marks)
+-- answer --
+Structure:
+Lipids are mainly made up of carbon, hydrogen and oxygen atoms.		1m
+One example is triglycerides. They are formed from the condensation of three fatty acid molecules and one glycerol molecule. 							1m
+Functions: 
+Lipids act as energy reserves. /
+Lipids act as an insulator to reduce heat loss. / 
+Lipids act as a shock absorber to protect the internal organs. /
+Phospholipids are the major component of cell membranes. / 
+Lipids are involved in the absorption, transport and storage of lipid-soluble vitamins. /
+Lipids are involved in making some hormones. (any 5)					1m x 5
+Communication												3m	
+---------------------------------------------------
+
+[10246851]
+// Cross-topic // Comparison // Communication //
+*	Contrast the structure and functions of triglycerides and phospholipids. 																(11 marks)
+-- answer --
+A triglyceride molecule consists of glycerol and three fatty acids, while in a phospholipid molecule, one of the fatty acids is replaced by a phosphate group. 			2m
+A triglyceride molecule is non-polar while the phosphate group in a phospholipid molecule is polar. 												2m
+Triglyceride is insoluble in water, while the phosphate group in phospholipid is soluble in water / hydrophilic and the fatty acids are insoluble in water / hydrophobic. 		2m
+A major function of triglycerides is to act as energy reserves, while the major function of phospholipids is to act as a major component of cell membranes. 			2m
+Communication													3m	
+---------------------------------------------------
+
+[10246854]
+// Communication // Basic concepts //
+	Discuss the structure of carbohydrates as well as their functions in human body.																(10 marks)
+
+-- answer --
+Structure:
+Carbohydrates are made up of carbon, hydrogen and oxygen atoms. /
+They can be classified into monosaccharides, disaccharides and polysaccharides. /
+Monosaccharides are the simplest form of carbohydrates. /
+Disaccharides are formed when two monosaccharide molecules combine by condensation. /
+Polysaccharides are long chains of monosaccharides joined together by condensation. /
+Starch, glycogen and cellulose are polysaccharides made up of glucose. /
+The arrangement of the glucose molecules in these molecules are different. 
+(any 3)													1m x 3
+Functions:
+Carbohydrates are the main energy source of body activities. 			1m
+Glucose is directly broken down in respiration to release energy. 			1m
+Glycogen is stored in the liver or muscles as energy reserves. 			1m
+Cellulose is not digested in our body. It is a source of dietary fibre that stimulates peristalsis of the alimentary canal. 								1m
+Communication												3m	
+---------------------------------------------------

@@ -1,0 +1,1991 @@
+( Chapter 24		Body defence mechanisms
+
+Multiple-choice questions
+[10256907]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows some events involved in the immune response of B cells when a person is first exposed to a pathogen.
+	
+Which of the following statements about cells X and Y is/are correct?
+(1)	Cell X has a longer lifespan than cell Y.
+(2)	Upon second exposure to the same pathogen, cell X may differentiate into killer T cells.
+(3)	Cell Y circulates in blood after the infection and releases antibodies upon second exposure to the same pathogen.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10256910]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the changes in the antibody levels in the blood of three persons (P, Q and R) after they received injections of a vaccine or antibodies against a pathogen.
+	
+Which of the following combinations correctly states the injections received by persons P, Q and R?
+	P	Q	R	
+A	second dose of a vaccine	antibodies	first dose of a vaccine	
+B	second dose of a vaccine	first dose of a vaccine	antibodies	
+C	antibodies	second dose of a vaccine	first dose of a vaccine	
+D	antibodies	first dose of a vaccine	second dose of a vaccine	
+
+B	
+---------------------------------------------------
+
+[10256915]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the structure of the human skin.
+	
+Which of the following statements about the labelled structures is/are correct?
+(1)	Structure X is tough and impermeable, preventing the entry of pathogens.
+(2)	Pathogens on the skin surface are removed when structure Y is shed.
+(3)	Structure Z secretes a substance to the skin surface to trap pathogens.
+A	(1) only					B	(3) only
+C	(1) and (2) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10256933]
+// Comparison // Applying concepts //
+(*	To develop treatment for poisoning caused by the venom of a snake species, a scientist injected the snake venom into a horse. After a few weeks, he collected the serum of the horse containing the antibodies against the venom. The serum can then be injected into patients for treatment. Which of the following correctly states the types of immunity acquired by the horse and by the patients?
+	Horse	Patient	
+A	artificial active	artificial passive	
+B	artificial active	natural active	
+C	natural passive	artificial active		
+D	natural passive	natural passive		
+
+A	
+---------------------------------------------------
+[10256936]
+// Graph interpretation // High order thinking //
+(**A vaccine against a certain virus was produced. In an investigation, a group of healthy mice were injected with the vaccine. Four weeks later, the virus was injected into these mice. The graph below shows the changes in the levels of two antibodies (X and Y) in the blood of the mice.
+	
+
+Which of the following statements is/are correct?
+(1)	The vaccine was ineffective against the virus.
+(2)	Only part of the virus was used to produce the vaccine.
+(3)	Y was produced by the mice to act against X.
+A	(1) only					B	(2) only
+C	(1) and (3) only			D	(1), (2) and (3)
+B
+Note:
+-	A large amount of X was produced quickly after the injection of virus. This indicates that secondary immune response was developed. Thus, the vaccine was effective against this virus.
+-	No Y was produced after the vaccine was injected into the mice. This indicates that the antigen that causes the production of Y was not present in the vaccine. Therefore, only part of the virus was used to produce this vaccine.
+-	If Y was produced by the mice to act against X, Y should also be produced soon after the injection of vaccine.
+
+	
+---------------------------------------------------
+
+
+[10256938]
+// Photomicrograph // Applying concepts //
+(*	The electron micrograph below shows part of the inner wall of the human trachea.
+
+	
+
+How does structure X prevent the entry of pathogens into the human body?
+A	It filters the pathogens in the inhaled air.
+B	It traps the pathogens in the inhaled air.
+C	It engulfs the pathogens in the inhaled air.
+D	It removes mucus with pathogens from the respiratory tract.
+D	
+---------------------------------------------------
+
+[10256964]
+// Graph interpretation // High order thinking //
+(**A person was infected with a virus. He was infected with the same virus again after 45 days. The graph below shows the change in concentration of antibody in his blood from days 0 to 70.
+	
+
+
+Assuming the quantity of virus invading the body in both infections was the same, which of the following graphs best represents the change in concentration of the virus in the blood?
+	A								B
+	
+	C								D
+	
+
+B	
+---------------------------------------------------
+
+[10256973]
+// Basic concepts //
+(	Which of the following substances is not a chemical barrier in the first line of defence of the body? 
+	A	saliva in the mouth
+B	mucus in the respiratory tract
+	C	gastric juice in the stomach
+	D	secretion in the vagina
+B	
+---------------------------------------------------
+
+
+[10256986]
+// Basic concepts //
+(	In the process of blood clotting, which of the following is the correct order in which the different components are involved?
+A	red blood cells ( blood platelets ( fibrin ( fibrinogen
+B	red blood cells ( blood platelets ( fibrinogen ( fibrin	
+	C	blood platelets ( fibrin ( fibrinogen ( red blood cells
+	D	blood platelets ( fibrinogen ( fibrin ( red blood cells
+D	
+---------------------------------------------------
+
+[10256995]
+// Basic concepts //
+(	In an inflammatory response, which of the following is/are due to the accumulation of tissue fluid at the wound? 
+	(1)	The wound is hot.
+	(2)	The wound is swollen.
+	(3)	There is pain in the wound.
+A	(2) only						B	(1) and (3) only
+	C	(2) and (3) only				D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10257002]
+// Comparison // Basic concepts //
+(	Which of the following comparisons between T cells and B cells is correct?
+	T cells						B cells
+A	formed in the thymus gland		formed in the bone marrow
+B	can produce memory cells		cannot produce memory cells
+	C	can carry out phagocytosis		cannot carry out phagocytosis
+	D	can kill pathogens directly		can kill pathogens indirectly
+D	
+---------------------------------------------------
+
+
+[10257010]
+// Cross-topic // Comparison //
+(*	Which of the following correctly shows the difference between antibiotics and antibodies?
+	Antibiotics						Antibodies
+A	produced by lymphocytes			produced by microorganisms
+B	cannot 'remember' the pathogens		can 'remember' the pathogens	
+	C	cannot act against viruses			can act against viruses
+	D	specific in action					non-specific in action
+C	
+---------------------------------------------------
+
+[10257012]
+// Data handling // Applying concepts //
+(*	Four persons, (1)-(4), had a test for the presence of hepatitis B antigen and the level of antibody against the antigen in their blood. The table below shows the test results.
+	(1)	(2)	(3)	(4)	
+Hepatitis B antigen in the blood	Absent	Present	Absent	Present	
+Level of antibody against the hepatitis B antigen in the blood (unit per dm3)	457	0	0	125	
+
+	Which person should receive hepatitis B vaccination to obtain immunity against hepatitis B?
+A	(1)
+B	(2)
+C	(3)
+D	(4)
+C	
+---------------------------------------------------
+
+
+[10257015]
+// Applying concepts //
+(*	The MMR vaccine is a live, attenuated combination vaccine that protects against measles, mumps and rubella. Two doses of this vaccine are needed for complete protection. To eradicate measles in developing countries, which of the following development in vaccine production is most important? 
+A	a vaccine for measles only
+B	a vaccine without the need for a booster
+	C	a vaccine containing killed pathogens
+	D	a combination vaccine for more diseases
+B	
+---------------------------------------------------
+
+[10257021]
+// Cross-topic // Applying concepts //
+(*	Compared with smallpox, the control of AIDS is more difficult. Which of the following are the probable reasons? 
+(1)	HIV attacks T cells.
+	(2)	HIV produces new viruses inside host cells.
+	(3)	HIV undergoes mutations easily.
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10257024]
+// Graph interpretation // Comparison // Basic concepts //
+(*	Marie has had 2 shots of a vaccine against a disease. The graph below shows the change in the antibody level in her blood.
+	
+Which of the following differences between the immune responses to the first and second shots of the vaccine can be observed in the graph?
+(1)	More antibodies are produced in the immune response to the second shot is faster.
+(2)	More memory cells are produced in the immune response to the second shot lasts longer.
+	(3)	The latent period in the immune response to the second shot is shorter.
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10257025]
+// Applying concepts //
+(*	Injecting tetanus antitoxin into the body can provide
+A	artificial passive immunity. 
+B	artificial active immunity.
+	C	natural passive immunity.
+	D	natural active immunity.
+A	
+---------------------------------------------------
+
+[10257031]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of the human skin.
+
+	
+
+Which labelled structures act as physical barriers and chemical barriers in body defence respectively?
+		Physical barrier		Chemical barrier
+	A		W					X
+	B		W					Z
+	C		Y					X
+	D		Y					Z
+B	
+---------------------------------------------------
+
+
+[10257035]
+// Basic concepts //
+(	Which of the following secretions contain enzymes for killing pathogens or inhibiting the growth of pathogens?
+	(1)	tears
+	(2)	sebum
+	(3)	saliva
+	(4)	gastric juice 
+	A	(1) and (3) only
+	B	(2) and (4) only
+	C 	(1), (3) and (4) only
+	D	(1), (2), (3) and (4)
+A	
+---------------------------------------------------
+
+[10257038]
+// Basic concepts //
+(	Which of the following processes involve the action of white blood cells?
+	(1)	blood clotting
+	(2)	phagocytosis
+	(3)	inflammatory responses
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C 	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10257072]
+// Basic concepts //
+(	Which of the following prevents the entry of pathogens into our body?
+	A	the skin and blood clotting
+	B	the skin and phagocytosis
+	C	phagocytosis and blood clotting
+	D	phagocytosis and inflammatory responses
+A	
+---------------------------------------------------
+
+[10257098]
+// Basic concepts //
+(	Which of the following statements about antigens is/are correct?
+	(1)	All antigens are protein in nature.
+	(2)	Only pathogens have antigens on their surface.
+	(3)	Some antigens do not stimulate immune responses in our body.
+	A	(1) only
+	B	(3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10257103]
+// Basic concepts //
+(	Which of the following statements about antibodies are correct?
+	(1)	Antibodies are protein in nature.
+	(2)	Antibodies act on specific antigens.
+	(3)	Antibodies cannot act against viruses.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10257106]
+// Basic concepts //
+(	Which of the following statements about B cells and T cells are correct?
+	(1)	Both B cells and T cells are produced in the bone marrow.
+	(2)	Both B cells and T cells can differentiate into memory cells.
+	(3)	Both B cells and T cells can kill pathogens directly.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10257115]
+// Comparison // Applying concepts //
+(*	Both vaccination and breast feeding can provide immunity against diseases.
+
+		
+vaccination	breast feeding	
+
+Which of the following correctly compares the immunity provided by vaccination and breast feeding? 
+	Vaccination 	Breast feeding	
+A	Start of immunity is fast	Start of immunity is slow	
+B	Lasts a shorter period of time	Lasts longer	
+C	Antibodies are produced by the person's own body	Antibodies are transferred to the baby who is breast-fed	
+D	Antigens are transferred to the person who receives injection	Antigens are produced by the mother's body	
+
+C	
+---------------------------------------------------
+
+
+[10257125]
+// Basic concepts //
+(	Which of the following are the physical barriers in our body defence?
+	(1)	skin
+	(2)	inner wall of respiratory tract
+	(3)	sebum
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10257136]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a type of immune response.
+	
+
+	Blood cell Y matures in
+	A	the breast.
+	B	the bone marrow.
+	C	the thymus gland.
+	D	the thyroid gland.
+B	
+---------------------------------------------------
+
+[10257138]
+// Graph interpretation // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the concentration of antibodies in the blood of a person during the first and second exposures to the same pathogen.
+	
+
+	The primary response lasted for
+	A	1 week.
+	B	2 weeks.
+	C	3 weeks.
+	D	more than 3 weeks.
+C	
+---------------------------------------------------
+
+[10257139]
+// Graph interpretation // Basic concepts //
+(	What is period X?
+	A	primary period	
+	B	latent period
+	C	memory period
+	D	response period
+B	
+---------------------------------------------------
+
+
+[10257167]
+// Basic concepts //
+(	Which of the following are suitable for making a vaccine?
+(1)	live and active pathogens
+(2)	live and attenuated pathogens
+(3)	subunits of pathogens
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10257168]
+// Applying concepts //
+(*	A person who has recovered from measles is unlikely to be attacked by measles again but a person may suffer from influenza several times in a month because
+A	influenza viruses will not stimulate an immune response against them.
+B	only B cells respond to influenza viruses but not T cells.
+C	only T cells respond to influenza viruses but not B cells.
+D	influenza viruses mutate much more rapidly than measles viruses.
+D	
+---------------------------------------------------
+
+[10257194]
+// Cross-topic // Comparison // Applying concepts //
+(*	Which of the following comparisons between vaccines and antibiotics is correct?
+	Vaccines	Antibiotics	
+A	provide active immunity		provide passive immunity	
+B	used to prevent diseases		used to cure diseases	
+C	prepared from pathogens		produced by activated B cells	
+D	cannot be taken orally	can be taken orally	
+
+B	
+---------------------------------------------------
+
+
+[10257196]
+// Basic concepts //
+(	Which of the following body defence mechanisms is/are considered as the first line of defence?
+(1)	expelling the pathogens out of the respiratory tract by the ciliated epithelium
+(2)	killing the pathogens by gastric juice
+(3)	binding of the antibodies to the pathogens
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10257213]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Directions: The following three questions refer to the news report below.
+	People who have recovered from human swine flu (H1N1) are asked to donate blood for a research. Researchers will extract certain components of their blood and then inject them into human swine flu patients to see if these components are useful in curing the disease. Besides developing an effective treatment, researchers are also hurrying to develop a preventive measure for human swine flu before the peak season of the disease arrives in winter.	
+
+Which of the following were probably extracted from the blood of the donors in the research?
+(1)	human swine flu antigens
+(2)	human swine flu antibodies
+(3)	memory B cells and memory T cells for human swine flu
+A	(1) only
+B	(2) only
+C	(1) and (3) only 
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+
+[10257251]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Injecting the components extracted from the blood of the donors into human swine flu patients is expected to result in
+A	a natural active immunity.
+B	a natural passive immunity.
+C	an artificial active immunity.
+D	an artificial passive immunity.
+D	
+---------------------------------------------------
+
+[10257296]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Researchers worry that before the peak season of human swine flu, they will not be able to produce an effective
+A	vaccine.			B	antibody.
+C	antigen.			D	antibiotic.
+A	
+---------------------------------------------------
+
+[10257346]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows a molecule involved in body defence.
+	
+
+Which of the following statements about this molecule is not correct?
+A	It is a protein molecule.
+B	It is produced by a plasma cell.
+C	It can bind to a specific antigen.
+D	It can activate killer T cells to carry out phagocytosis.
+D	
+---------------------------------------------------
+
+[10257355]
+// Basic concepts //
+(	Which of the following is/are chemical barriers in body defence?
+(1)	sebum
+(2)	mucus
+(3)	saliva
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10257358]
+// Basic concepts //
+(	An inflammatory response involves
+(1)	an increase in the permeability of the capillaries near the wound.
+(2)	an increase in blood flow to the wound.
+(3)	constriction of arterioles near the wound.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10257362]
+// Applying concepts //
+(*	An allergy is an overreaction of the immune system to foreign substances. A high level of antibodies can be detected in the blood of a person during an allergic reaction. Which of the following cells are probably present in a large amount in the body during an allergic reaction?
+A	phagocytes 
+B	plasma cells
+C	memory B cells
+D	killer T cells
+B	
+---------------------------------------------------
+[10257363]
+// Comparison // Applying concepts //
+(*	Which of the following comparisons between B cells and T cells is incorrect?
+	B cells	T cells	
+A	mature in bone marrow	mature in thymus gland	
+B	give rise to plasma cells and memory B cells	give rise to killer T cells and memory T cells	
+C	differentiate into plasma cells which release antibodies	differentiate into killer T cells which kill infected cells	
+D	activated by antigens and helper T cells	activated by antigens and plasma cells	
+
+D	
+---------------------------------------------------
+
+[10257371]
+// Basic concepts //
+(*	Which of the following is a response of B cells in an immune response?
+A	They kill the infected cells.
+B	They activate killer T cells.
+C	They are activated by antigens on pathogens.
+D	They secrete lymphokines to activate phagocytes.
+C	
+---------------------------------------------------
+
+[10257387]
+// Basic concepts //
+(	Which of the following substances can stimulate the body to develop an immune response?
+(1)	bacterial toxins
+(2)	dead pathogens
+(3)	live pathogens
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+[10257388]
+// Basic concepts //
+(	In mammals, bacteria in food are killed by
+A	saliva.
+B	gastric juice.
+C	bile.
+D	mucus.
+B	
+---------------------------------------------------
+
+[10257398]
+// Basic concepts //
+(	Our skin prevents the entry of pathogens with the help of 
+A	mucus-secreting cells.
+B	ciliated epithelial cells.
+C	dead cells.
+D	sweat.
+C	
+---------------------------------------------------
+
+[10257435]
+// Basic concepts //
+(	Which of the following kills specific pathogens only?
+A	tear					B	antibody
+C	phagocyte			D	gastric juice
+B	
+---------------------------------------------------
+
+[10257439]
+// Basic concepts //
+(*	Antibodies take part in body defence by 
+(1)	causing lysis of the pathogens indirectly.
+(2)	neutralizing toxins released by the pathogens.
+(3)	engulfing the pathogens.
+A	(1) only				B	(2) only
+C	(1) and (2) only		D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10257442]
+// Basic concepts //
+(	Which of the following is not a chemical barrier that prevents pathogens from entering the body? 
+A	sebum
+B	gastric juice
+C	antibody
+D	saliva
+C	
+---------------------------------------------------
+
+[10257444]
+// Basic concepts //
+(	Most pathogens that enter the respiratory tract are 
+(1)	trapped by mucus.
+(2)	removed by the beating action of cilia.
+(3)	killed by lysozyme.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10257445]
+// Comparison // Applying concepts //
+(*	Which of the following comparisons between primary and secondary responses is incorrect?
+	Primary response	Secondary response	
+A	lasts a shorter period of time	lasts longer	
+B	produces a smaller amount of antibodies	produces a larger amount of antibodies	
+C	effected by activation of B cells and T cells	effected by activation of memory B cells and memory T cells	
+D	shorter latent period	longer latent period	
+
+D	
+---------------------------------------------------
+
+[10257453]
+// Basic concepts //
+(*	Which of the following statements about an inflammatory response is/are correct?
+(1)	Arterioles near the wound dilate and tissue fluid accumulates in the wound.
+(2)	The permeability of the capillaries near the wound decreases.
+(3)	Pus is secreted to digest pathogens.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+A	
+---------------------------------------------------
+
+[10257455]
+// Basic concepts //
+(	The formation of a blood clot over a wound
+(1)	cuts off the supply of oxygen to the invading pathogens.
+(2)	prevents excessive blood loss.
+(3)	blocks the entry of pathogens through the wound.
+A	(2) only
+B	(3) only
+C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10257459]
+// Basic concepts //
+(	Which of the following are white blood cells?
+(1)	memory cells
+(2)	lymphocytes
+(3)	phagocytes
+A	(2) only					B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10257502]
+// Schematic diagram // Basic concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows a white blood cell killing a pathogen by substance X.
+	
+Substance X is
+A	enzymes.			B	antibodies.
+C	antitoxins.		D	antibiotics.
+A	
+---------------------------------------------------
+
+[10257505]
+// Schematic diagram // Basic concepts //
+(*	This white blood cell is
+A	a killer T cell.
+B	a memory B cell.
+C	a plasma cell.
+D	a phagocyte.
+D	
+---------------------------------------------------
+
+[10257511]
+// Applying concepts //
+(*	People with severe burns suffer from infections easily because
+A	antibodies are lost from the body.
+B	no more cells are available for the production of antibodies.
+C	the sebaceous glands can no longer produce sebum.
+D	pathogens can enter the body easily through the open wounds.
+D	
+---------------------------------------------------
+
+[10257513]
+// Basic concepts //
+(	Which of the following happen in an inflammatory response?
+(1)	More blood flows to the wound.
+(2)	Pus forms inside the wound.
+(3)	Tissue fluid accumulates in the wound.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10257524]
+// Graph interpretation // Applying concepts //
+(*	The diagram below shows the concentration of antibodies in the blood in two consecutive immune responses induced by the same antigen.
+
+	
+
+Which of the following statements about the two responses is correct?
+A	The antibodies produced in the first response are more powerful.
+B	The first response cannot kill the pathogens.
+C	The first response is caused by vaccination.
+D	The second response provides a stronger immunity against pathogens.
+D	
+---------------------------------------------------
+
+[10257527]
+// Basic concepts //
+(* Which of the following statements about vaccination is correct?
+A	Vaccination can result in natural immunity. 
+B	Vaccination can result in active immunity. 
+C	Vaccination is always effective in preventing a disease.
+D	Vaccination is the injection of a small amount of active pathogens into our body.
+B	
+---------------------------------------------------
+
+[10257531]
+// Graph interpretation // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows the change in the concentration of antibodies in the blood of a person after injection of a vaccine.
+	
+Referring to the diagram, which of the following probably occurred after the injection of the vaccine?
+(1)	activation of B cells
+(2)	formation of plasma cells
+(3)	release of lymphokines
+A	(2) only					B	(3) only
+C	(1) and (2) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10257539]
+// Graph interpretation // Applying concepts //
+(*	Which of the following graphs correctly shows the change in the concentration of antibodies after injection of a booster?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10257556]
+// Basic concepts //
+(*	Which of the following statements about the defence mechanisms of our body is correct?
+A	Phagocytosis is an example of specific defence mechanisms.
+B	Mucus lining the respiratory tract is a chemical barrier. 
+C	Sebum secreted by sweat glands is a natural antiseptic.
+D	Hydrochloric acid in gastric juice can kill pathogens.
+D	
+---------------------------------------------------
+
+[10257559]
+// Basic concepts //
+(	Antibodies are produced by
+	A	phagocytes.			B	plasma cells.
+	C	killer T cells.			D	helper T cells.
+B	
+---------------------------------------------------
+
+[10257565]
+// Graph interpretation // Applying concepts //
+(**The diagram below shows the concentration of antibodies in the blood of a person infected with the same pathogen twice.
+
+	
+
+What can be deduced from the diagram?
+A	The pathogens in the first infection were inactivated before entering the body.
+B	More pathogens were involved in the second infection.
+C	More phagocytes were involved in the second infection.
+D	Plasma cells were produced faster in the second infection.
+D	
+---------------------------------------------------
+
+[10257566]
+// Basic concepts //
+(	Which of the following statements about the actions of antibodies is/are correct?
+(1)	They clump the pathogens together.
+(2)	They prevent the pathogens from secreting toxins.
+(3)	They lead to lysis of the pathogens.
+A	(1) only					B	(2) only
+C	(1) and (3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10257595]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a process. 
+
+	
+
+Which of the following statements about the process is incorrect?
+A	The process is called phagocytosis.
+B	The process is carried out by killer T cells.
+C	The process occurs when a pathogen gets into a wound. 
+D	A pathogen is digested by enzymes produced by the cell in the process.
+B	
+---------------------------------------------------
+
+[10257602]
+// Applying concepts //
+(*	Which of the following statements about vaccination is incorrect?
+A	Some vaccines contain attenuated or killed pathogens.
+B	Vaccination is not effective against viral infections.
+C	Vaccination makes use of the specificity and immunological memory of specific defence mechanisms.
+D	Vaccination stimulates the body to produce an immune response.
+B	
+---------------------------------------------------
+
+
+Short questions
+[10257643]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows some events involving phagocytes and helper T cells during the invasion of a pathogen.
+	
+a	Name molecule X.										(1 mark)
+b	Describe how the phagocyte at stage II is formed.				(2 marks)
+c	With reference to the diagram, briefly explain how non-specific defence mechanisms and specific defence mechanisms work together to fight against the pathogen.									(3 marks)
+
+
+
+
+-- answer --
+a	Antigen													1m
+b	The pathogen is engulfed and digested by the phagocyte.				1m
+Antigens of the pathogen are displayed on the cell membrane of the phagocyte.															1m
+c	The phagocyte kills the pathogen by phagocytosis (non-specific defence mechanism) and presents the antigens of the pathogen to the helper T cell.	1m
+The helper T cell with a complementary receptor binds to the antigen and becomes activated (specific defence mechanism).							1m
+The activated helper T cell secretes lymphokines, which activate other phagocytes to carry out phagocytosis (non-specific defence mechanism).			1m	
+---------------------------------------------------
+
+[10257645]
+// Data handling // Communication // Applying concepts //
+(*	The table below shows the levels of antibody in the blood of a person before vaccination and at different times after receiving the first dose and second dose of a vaccine against a pathogen.
+
+	Before vaccination	First dose of vaccine	Second dose of vaccine	
+		After one week	After two weeks	After one week	After two weeks	
+Antibody level in blood (arbitrary unit)	0	0	14	20	50	
+
+Account for the differences in the antibody levels before vaccination and at different times after the person received the first dose and second dose of the vaccine.													(6 marks)
+
+
+
+
+
+
+
+-- answer --
+Before vaccination, the antibody level was zero because the person had not been exposed to the antigen of the pathogen yet.							1m
+At one week after the first dose of the vaccine, the antibody level was still zero because it took time for the few specific lymphocytes in the body to encounter the antigens in the vaccine, divide and differentiate into plasma cells to produce antibodies.		1m
+At two weeks after the first dose of the vaccine, plasma cells were producing antibodies. Thus the antibody level became higher.								1m
+At one week after the second dose of the vaccine, the antibody level increased sharply. It continued to rise and reached a level much higher than that after receiving the first dose for two weeks.												1m
+This is because memory cells produced in response to the first dose recognized the antigens in the second dose.										1m
+They divided and differentiated into a larger number of plasma cells within a shorter time.															1m	
+---------------------------------------------------
+
+[10257666]
+// Overseas exam question // Applying concepts //
+(*	The body has defence mechanisms against microbes.
+a	Describe how the body defends itself in each of the following situations.
+i	Eating a burger which has bacteria on it					(1 mark)
+ii	Breathing in dust particles and microorganisms in the air	(1 mark)
+iii	A small cut										(1 mark)
+b	Describe one way by which white blood cells help us to fight disease.															(2 marks)
+CCEA GCSE Science (Double Award) Paper 1 Higher Tier May 2008 Q3
+-- answer --
+a	i	Lysozyme in saliva / Hydrochloric acid in the stomach kills the bacteria.														1m
+ii	Mucus on the inner wall of the respiratory tract traps dust particles and microorganisms in the air. Cilia of ciliated epithelial cells sweep the mucus away.												1m
+iii	Blood clots to seal the wound to prevent the entry of pathogens into the body.													1m
+b	White blood cells produce antibodies,								1m
+which help clump pathogens together / agglutination to facilitate phagocytosis of the pathogens.												1m	
+---------------------------------------------------
+[10257668]
+// Cross-topic // Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+Rheumatoid arthritis is a condition in which the immune system attacks the synovial membrane of movable joints in the body. Certain molecules on the synovial membranes are recognized by the immune system as 'foreign'. Antibodies are produced, which destroy the synovial membranes. Bones, cartilage, ligaments and tendons around the joints may also be damaged.	
+
+a	What is the function of the synovial membrane of a movable joint?
+													(1 mark)
+b	Describe how antibodies against the synovial membranes are produced in rheumatoid arthritis.									(2 marks)
+c	Suggest what would happen to the movement at a movable joint if the ligaments and tendons are damaged. Explain briefly.			(4 marks)
+
+-- answer --
+a	The synovial membrane secretes synovial fluid which reduces friction between bones during movement and nourishes cartilage cells.					1m
+b	B cells are activated. They divide and differentiate into plasma cells.		1m
+These plasma cells release antibodies.							1m
+c	If the ligaments are damaged, they cannot hold the bones in the correct positions.
+														1m
+Dislocation may result during movement.							1m
+If the tendons are damaged, they cannot transmit the force generated by muscle contraction to the bones.										1m
+The joint cannot be straightened or bent.							1m	
+---------------------------------------------------
+
+[10257680]
+// Data handling // Applying concepts //
+(*	The table below shows the percentages of people infected with four different strains of influenza virus among all the influenza cases in a population in a particular year.
+
+Strain of influenza virus	Percentage of people infected (%)	
+P	78	
+Q	12	
+R	6	
+S	4	
+
+a	It is known that different strains of influenza virus have different antigens. Explain why a person may have influenza twice within a short period of time.												(2 marks)
+b	Influenza vaccines have to be changed every year. Explain why.	(2 marks)
+c	It is recommended that elderly people should receive influenza 
+vaccinations. Explain why.								(1 mark)
+
+-- answer --
+a	If a person infects with different strains of virus in the two infections, the memory cells produced in the immune response against the first infection cannot recognize the antigens on the virus in the second infection.						1m
+Secondary response, which is faster, stronger and lasts longer than primary response, will not occur. Thus, the person may have influenza again within a short period of time.												1m
+b	Influenza virus undergoes mutations frequently to form new strains.		1m
+The strains of virus that are predominant may vary in different years.		1m
+c	The immune system of elderly people is weak. /
+Elderly people are more difficult to recover from diseases.				1m	
+---------------------------------------------------
+
+[10257681]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a white blood cell which is about to engulf some bacteria. 
+
+	
+
+a	Name the type of lymphocytes that produce molecule P.	(1 mark)
+b	Explain how molecule P helps the white blood cell engulf the bacteria.													(2 marks)
+c	Describe what happens after the white blood cell has engulfed the bacteria.												(3 marks)
+
+
+-- answer --
+a	B cells / B lymphocytes / plasma cells								1m
+b	The antigen-binding sites of molecule P bind to the antigens on the bacteria.																	1m
+	Bacteria are clumped together in a process called agglutination. This facilitates phagocytosis of the bacteria by the white blood cell.					1m
+c	In the white blood cell, the vesicle containing enzymes fuses with the vesicle containing the bacteria.										1m
+	The bacteria are digested by the enzymes.							1m
+	The white blood cell releases the waste materials from digestion.			1m	
+---------------------------------------------------
+
+
+[10257682]
+// Cross-topic // Applying concepts //
+(*	The flow chart below shows the steps involved in the production of a vaccine. 
+	
+	a	Explain one step in the flow chart that ensures the use of the viral vaccine is safe.													(1 mark)
+b	Jack was given the viral vaccine and was given a second shot as a booster one year later.
+i	Why did it took more than one week for antibodies to appear in the blood of Jack after the first vaccination?				(2 marks)
+ii	Why did the antibody level in the blood increase immediately after the second vaccination? 								(2 marks)
+iii	What was the purpose of receiving the booster? 			(1 mark)
+
+
+-- answer --
+a	Discarding the nucleic acid from the virus ensures that the virus cannot multiply in the body.												1m
+b	i	It took time for the protein coat / antigens in the vaccine to be recognized. /
+It took time for the B cell to multiply. /
+			It took time for plasma cells to produce antibodies. (any 2)		1m × 2
+ii	Memory cells for the protein coat / antigens in the vaccine were present after the first vaccination.									1m
+The memory cells could respond immediately when Jack received the second vaccination. 									1m
+iii	To help keep up the antibody level in blood so as to maintain a person's immunity.											1m	
+---------------------------------------------------
+
+[10257700]
+// Cross-topic // Reading comprehension // Applying concepts //
+(*	Read the following paragraphs and answer the questions.	
+	Multiple sclerosis is a disease in which the T cells incorrectly attack and destroy the myelin sheath around neurones in the body. This results in poor coordination, balance problems, vision loss and paralysis.
+	A therapy for multiple sclerosis is now under clinical trial. In the therapy, some myelin-specific T cells are taken from the patient. After treating with radiation, these T cells become inactive and are reintroduced into the patient. The immune system of the patient recognizes these inactive T cells as damaged cells, and organizes an attack against them. This prepares the immune system to destroy all myelin-specific T cells in the body.	
+
+a	How may the destruction of myelin sheath lead to poor coordination and paralysis?												(2 marks)
+b	Suggest one method by which T cells can be taken from a patient.															(1 mark)
+c	How may radiation make the T cells inactive?				(1 mark)
+d	Explain why not all T cells in the body are destroyed in this therapy.															(1 mark)
+
+
+-- answer --
+	a	When the myelin sheath is destroyed, insulation of the nerve fibres is lost.	1m
+Nerve impulses may be incorrectly transmitted to other neurones. / The transmission of nerve impulses slows down.						1m
+	b	They can be separated from a blood sample of the patient.				1m
+	c	Radiation may make the T cells inactive by damaging the DNA of the T cells.																	1m
+	d	It is because not all T cells in the body are myelin-specific.				1m	
+---------------------------------------------------
+
+[10257713]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows some cells on the inner wall of the trachea.
+
+	
+
+	a	What are cells A and B?									(2 marks)
+	b	Describe the roles of cells A and B in body defence.			(2 marks)
+c	Do the structures shown in the diagram form a physical barrier or a chemical barrier against pathogens?						(1 mark)
+
+
+-- answer --
+	a	Cell A is a mucus-secreting cell.									1m
+		Cell B is a ciliated epithelial cell.									1m
+	b	Cell A secretes mucus which traps dust particles and pathogens in the incoming 			air.														1m
+		The beating action of the cilia on cell B sweeps the mucus towards the pharynx.																	1m
+	c	A physical barrier											1m	
+---------------------------------------------------
+
+
+[10257716]
+// Basic concepts //
+(	A woman cut her finger with a knife accidentally and the wound started to bleed. A few minutes later, a blood clot was formed and the wound became red and swollen. 
+
+	
+
+a	State the importance of forming a blood clot on the wound.		(2 marks)
+b	Explain why the wound became red and swollen.				(4 marks)
+
+
+-- answer --
+	a	The blood clot seals the wound to prevent the entry of pathogens			1m
+		and stops bleeding.											1m
+	b	When the skin was damaged, the damaged cells released certain chemicals which 		caused dilation of nearby arterioles.								1m
+		An increased blood flow to the capillaries around the wound caused the wound to 		become red.												1m
+		The chemicals also increased the permeability of capillaries.			1m
+Increased permeability of capillaries results in the formation of more tissue fluid. Its accumulation causes the wound to become swollen.					1m	
+---------------------------------------------------
+
+
+[10257723]
+// Basic concepts //
+(	The flow chart below shows some events in an immune response.
+
+	
+
+a	What are substance A and cell X?							(2 marks)
+b	What are substance B and cell Y?							(2 marks)
+c	Describe one way in which cell X and substance B work together to act against pathogens that entered the blood.					(2 marks)
+
+
+-- answer --
+	a	Substance A is lymphokines. 									1m
+		Cell X is a phagocyte.										1m
+	b	Substance B is antibody.										1m
+		Cell Y is a plasma cell.										1m
+	c	Substance B may clump the pathogens together						1m
+		to facilitate phagocytosis of the pathogens by cell X.					1m	
+---------------------------------------------------
+
+
+[10257757]
+// Graph interpretation // Applying concepts //
+(*	Two persons, P and Q, took part in a study about the effectiveness of different types of immunization against pathogen X. The graph below shows the changes in antibody levels in their bodies after receiving different injections.
+	
+
+a	Identify which person was given an injection of antibodies against pathogen X and which person was given an injection of the surface proteins of pathogen X.											(1 marks)
+b	Explain the changes in the antibody level in person Q.			(2 marks)
+c	Explain why a second injection is required for person P to provide immunity against pathogen X. 							(2 marks)
+
+-- answer --
+	a	Person Q was given an injection of antibodies against pathogen X. Person P was 		given an injection of the surface proteins of pathogen X.				1m
+	b	The antibody level increased sharply when antibodies were injected into the body.																1m
+		The antibody level maintained high for a few days and then decreased quickly as 		the antibodies broke down.										1m
+	c	When pathogen X is introduced in the second injection, memory cells produced in 		the primary response 										1m
+		cause the production of a larger amount of antibodies and killer T cells in a shorter 		time. This provides immunity against pathogen X.					1m	
+---------------------------------------------------
+[10257765]
+// Overseas exam question // Schematic diagram // Basic concepts //
+(	a	The following diagram shows phagocytosis in action.
+
+	
+
+Name the cells labelled P and Q on the diagram.				(2 marks)
+b	i	Give one way active immunity can be produced. 			(1 mark)
+ii	Give one advantage of active immunity. 				(1 mark)
+CCEA GCSE Science (Single Award) Module 2 Higher Tier Nov 2008 Q3
+
+-- answer --
+a	P: phagocyte 												1m
+Q: microorganisms / bacteria / fungi / pathogens						1m
+b	i	Vaccination / have had a disease							1m
+ii	Active immunity is permanent / long-lasting.					1m	
+---------------------------------------------------
+
+[10257797]
+// Basic concepts //
+(	Name the following:
+a	the defence mechanism that seals the wounds to prevent the entry of pathogens.											(1 mark)
+b	the defence mechanism that is characterized by redness, swelling and pain. 													(1 mark)
+c	the type of white blood cells that carry out a non-specific defence mechanism.											(1 mark)
+-- answer --
+a	Blood clotting												1m
+b	Inflammatory response										1m
+c	Phagocytes												1m	
+---------------------------------------------------
+
+[10257803]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the number of pathogens in the body during the course of a disease.
+	
+a	What are pathogens?									(1 mark)
+b	On the graph, mark an 'X' at where the symptoms of the disease start to appear.												(1 mark)
+c	Using the letters shown in the graph (M, N, O and P), indicate the period(s) when the pathogens are destroyed by the body's immune system more rapidly than they multiply.								(1 mark)
+d	If the same pathogen invades the body again after the person has recovered, how will the number of pathogens and days of disease be different? Explain your answer.											(2 marks)
+-- answer --
+a	Pathogens are viruses or organisms which cause diseases.				1m
+b	
+														1m
+c	O and P													1m
+d	Both the number of pathogens and days of disease will be reduced. 		1m
+The body will develop a secondary immune response to fight against the pathogen in its second invasion.											1m	
+---------------------------------------------------
+
+[10257829]
+// Cross-topic // Applying concepts //
+(*	The virus causing AIDS attacks the immune system which defends us against diseases. The virus primarily infects the helper T cells and eventually the number of helper T cells drops to a very low level. Thus AIDS patients contract diseases easily. Doctors often give antibiotics to AIDS patients.
+a	Explain why the low level of helper T cells causes AIDS patients to contract diseases easily.										(3 marks)
+b	Explain why doctors often give antibiotics to AIDS patients.	(2 marks)
+
+-- answer --
+a	Helper T cells help activate B cells and T cells to carry out immune responses to fight against pathogens. 										1m
+With a low level of helper T cells, only small numbers of plasma cells and killer T cells are produced.											1m
+This results in a weakened immunity. 							1m
+b	The immune system of AIDS patients is damaged by the virus causing AIDS.															1m
+The patients have to take antibiotics to kill bacteria which may cause diseases.															1m	
+---------------------------------------------------
+
+[10257831]
+// Applying concepts //
+(*	In the rhesus blood group system, human blood can be classified into rhesus positive and rhesus negative. Rhesus positive people have rhesus antigens on their red blood cells. Rhesus negative people have no rhesus antigens. To find out whether a person is rhesus positive or negative, a sample of blood is mixed with rhesus antibodies.
+a	Explain why clumping of red blood cells occurs when rhesus positive blood is mixed with rhesus antibodies.							(2 marks)
+
+b	If rhesus positive blood gets into the bloodstream of a rhesus negative person, rhesus antibodies will be produced in the rhesus negative person. Describe how these antibodies are produced.					(3 marks)
+-- answer --
+a	The rhesus antibodies bind to the rhesus antigens on the red blood cells.	1m
+This causes agglutination of the red blood cells.						1m
+b	The rhesus antigens on the red blood cells of the rhesus positive blood fit in the receptors of B cells and activate the B cells of the rhesus negative person.	1m
+The activated B cells divide and some of them differentiate into plasma cells.															1m
+These plasma cells produce the rhesus antibodies.					1m	
+---------------------------------------------------
+
+[10257838]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraphs and answer the questions.
+	After reproducing in the human liver, malarial parasites infect red blood cells and stay inside. They synthesize a protein that appears on the surface of red blood cells so that the infected red blood cells can adhere to the wall of blood vessels. This prevents them from being destroyed by the spleen. 
+	This surface protein can stimulate an immune response. To deal with this problem, the parasite frequently changes the structure of the protein.	
+a	Describe how the surface protein on the infected red blood cells stimulates an immune response of B cells. 							(4 marks)
+b	Explain why the malarial parasites can prevent the infected red blood cells from being destroyed by frequently changing the structure of the surface protein. 												(3 marks)
+-- answer --
+a	The surface protein on the infected red blood cells fit in the receptors of B cells. 															1m
+B cells are activated.											1m
+B cells divide and differentiate into plasma cells and memory B cells.		1m
+Plasma cells release antibodies to act against the surface protein.		1m
+b	Memory cells remember the type of antigen. 						1m
+As the structure of the surface protein is changed, memory cells can no longer recognize the protein. 										1m
+A secondary response which is faster, stronger and lasts longer will not occur. Therefore, the parasites are less likely to be destroyed. 				1m	
+---------------------------------------------------
+
+[10257868]
+// Schematic diagram // Basic concepts //
+(	a	State two differences between active and passive immunity.		(2 marks)
+b	The diagram below shows the structure of an antibody.
+	
+i	Name region X. 									(1 mark)
+ii	With reference to the structure of antibodies, explain why each antibody only acts against one type of antigen.			(2 marks)
+
+-- answer --
+a	Active immunity lasts longer while passive immunity lasts a shorter period of time. /
+The start of active immunity is slow while the passive immunity starts  immediately. /
+Active immunity involves antigens / the production of memory cells / immune responses while passive immunity does not. (any 2)				1m x 2
+b	i	Antigen-binding site									1m
+ii	The antigen-binding sites of an antibody molecule are specific to one type of antigen.											1m
+Each antibody can only bind to a specific type of antigen to form an antigen-antibody complex.								1m	
+---------------------------------------------------
+
+[10257880]
+// Communication // Basic concepts //
+(	Describe how B cells take part in immune responses.				(4 marks)
+-- answer --
+B cells are activated by antigens and helper T cells.						1m
+They divide and differentiate into plasma cells and memory B cells.			1m
+Plasma cells release antibodies into the blood to act against the antigens.		1m
+Memory B cells remain in the body for a long time for secondary responses.		1m	
+---------------------------------------------------
+
+[10257901]
+// Graph interpretation // Schematic diagram // Applying concepts //
+(*	The diagram below shows the changes of a lymphocyte in response to the invasion of measles virus.
+	
+
+a	i	Name the processes carried out by X that lead to the formation of Y and Z.											(1 mark)
+ii	Y is responsible for long-term immunity to measles. What is Y?														(1 mark)
+iii	What is Z?										(1 mark)
+iv	Name molecule P produced by Z.						(1 mark)
+b	Some people claimed that there was a link between MMR vaccine and autism (自閉症). The diagram below shows the number of children developed autism in a country from 1988 to 1996. MMR vaccine was given to children between 1990 and 1993.
+
+	
+
+
+Using the data shown in the diagram, determine whether MMR vaccine is related to the development of autism. Explain briefly.			(2 marks)
+
+-- answer --
+a	i	Mitotic cell division and differentiation							1m
+ii	Memory B cell 	 										1m
+iii	Plasma cell											1m
+iv	Antibody												1m
+b	There is no relationship between MMR vaccine and autism. / Receiving MMR vaccine does not cause the development of autism.					1m
+The number of children developed autism did not show a sharp increase from 1990 to 1993. / The number of children developed autism was higher from 1994 to 1996 during which vaccination was stopped.						1m	
+---------------------------------------------------
+
+[10257903]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Immune responses are normally directed against invading pathogens. However, in patients suffering from autoimmune diseases, the immune system mistakes the antigens on the patient's own cells as 'foreign' and produces antibodies against them. Many of the patients receive immunosuppressive medications to control their diseases.	
+
+a	Name the lymphocyte that is responsible for the production of antibodies.														(1 mark)
+b	Suggest two ways in which antibodies attack the patient's own cells.															(2 marks)
+c	Suggest one side effect of immunosuppressive medications.		(1 mark)
+
+-- answer --
+a	Plasma cell												1m
+b	Antibodies bind to antigens on the cells and cause lysis of the cells.		1m
+Antibodies help clump the cells together and facilitate phagocytosis of the cells.															1m
+c	As the immune system is suppressed, the patients will be easily infected by pathogens. 												1m	
+---------------------------------------------------
+
+[10257904]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of the human skin. 
+
+	
+
+a	What are X and Y?										(2 marks)
+b	State one way in which X and Y are involved in defending the body against invasion by pathogens.									(2 marks)
+
+-- answer --
+a	X: layer of dead cells / outermost layer of epidermis					1m
+Y: sebaceous gland											1m
+b	X is a tough and impermeable barrier that prevents the entry of pathogens. / The pathogens on the skin surface are removed when the dead cells in X are constantly shed and replaced by new cells from underneath. 			1m 
+Y secretes sebum, a natural antiseptic that can kill pathogens.			1m	
+---------------------------------------------------
+
+[10257922]
+// Applying concepts //
+(*	Smallpox vaccines contain live cowpox viruses. Explain why injecting cowpox viruses enhance immunity to smallpox.							(3 marks)
+
+-- answer --
+Cowpox viruses have antigens similar to those of smallpox viruses.			1m
+Memory cells that remember cowpox viruses are produced after vaccination.	1m
+A secondary response can be developed if the person is later invaded by smallpox viruses.														1m	
+---------------------------------------------------
+
+[10257927]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows how the immune system responds when a pathogen enters the body of a person. 
+	
+a	Identify cells P, Q, R, S and U.							(5 marks)
+b	Apart from S and U, state two other types of white blood cells that are produced by P and R in the immune response.				(2 marks)
+-- answer --
+a	P: B cells													1m
+Q: helper T cells											1m
+R: T cells													1m
+S: plasma cells												1m
+U: killer T cells												1m
+b	Memory B cells												1m
+Memory T cells												1m	
+---------------------------------------------------
+
+[10257934]
+// Basic concepts //
+(	State one example of how the following types of immunity can be acquired. 
+a	Natural active immunity									(1 mark)
+b	Artificial active immunity								(1 mark)
+c	Natural passive immunity								(1 mark)
+d	Artificial passive immunity								(1 mark)
+-- answer --
+a	Recovery from an infection										1m
+b	Vaccination												1m
+c	A foetus obtaining antibodies from maternal blood through the placenta of its mother / A baby obtaining antibodies from its mother via breast-feeding 	1m
+d	Injection of antibodies										1m	
+---------------------------------------------------
+[10257942]
+// Basic concepts //
+(	Complete the following paragraph using suitable words selected from the list below.													(4 marks)
+antibodies		antigen			passive
+active			short			long	
+
+Newborn babies are immune to certain infectious diseases if they are fed with breast milk which contains a                      from the mother. This is an example of b                      immunity. Since no               c                      is introduced, the body does not develop immune response. Therefore, this kind of immunity is of d                      duration.
+-- answer --
+a	antibodies													1m
+b	passive													1m
+c	antigen													1m
+d	short														1m	
+---------------------------------------------------
+
+[10257944]
+// Basic concepts //
+(	To find out the functions of T cells in humans, a group of scientists used a type of mice that cannot generate mature T cells in an investigation. These mice cannot carry out some immune responses.
+a	Where do T cells mature in the human body? 				(1 mark)
+b	When T cells are activated, they divide and differentiate into two other types of cells. Name the two types of cells and give a function of each.														(4 marks)
+-- answer --
+a	Thymus gland												1m
+b	Memory T cells												1m
+They remember the type of antigens / are responsible for secondary responses.															1m
+Killer T cells 												1m
+They bind to infected cells and kill them directly by making holes in their cell membranes. 												1m	
+---------------------------------------------------
+
+[10257952]
+// Basic concepts //
+(	Complete the table below, which shows some non-specific defence mechanisms in humans.												(7 marks)
+Physical barriers	a                      that covers the whole body	
+	Cilia and b                      lining the respiratory tract	
+Chemical barriers	c                      secreted by sebaceous glands	
+	d                      secreted by the stomach	
+	e                      secreted by tear glands and 
+f                      secreted by salivary glands	
+	Secretions from the g                      	
+
+-- answer --
+a	Skin														1m
+b	mucus													1m
+c	Sebum													1m
+d	Gastric juice												1m
+e	Tears													1m
+f	saliva													1m
+g	vagina													1m	
+---------------------------------------------------
+
+[10257956]
+// Applying concepts //
+(**Vaccines against influenza are needed to be injected every year, while only a single shot of pneumonia vaccine is needed in a person's lifetime. Suggest two reasons for the difference. 									(2 marks)
+
+-- answer --
+There are many different strains of influenza viruses while there are only a few strains of pneumonia bacteria. / 
+Antigens on different strains of influenza viruses are very different while antigens on different strains of pneumonia bacteria are similar. /
+Influenza viruses have a high mutation rate but pneumonia bacteria have a low mutation rate. (any 2)												1m x 2	
+---------------------------------------------------
+
+[10257982]
+// Communication // Applying concepts //
+(*	Certain medical treatments can help our bodies defend against pathogens.
+a	Antibodies can be injected into our bodies to fight against pathogens. Is this method specific or non-specific? Why?						(2 marks)
+b	How does vaccination help protect us from diseases? Why is this a better method than the method in a?								(5 marks)
+
+-- answer --
+a	It is specific.												1m
+An antibody binds only to a specific antigen and acts only against the pathogens with that antigen.											1m
+b	Vaccination is the introduction of a vaccine into the body.				1m
+The antigen in the vaccine stimulates a primary response.				1m
+Memory cells that remember the type of antigen are produced.			1m
+When the body is later invaded by the same antigen, the body will develop a secondary response to destroy the pathogen quickly.					1m
+The immunity resulted from vaccination lasts longer when compared with the immunity resulted from injection of antibodies.						1m	
+---------------------------------------------------
+
+
+Structured questions
+[10258003]
+// Graph interpretation // Critical thinking // Applying concepts //
+(*	Two types of immunization are available to people who plan to travel to countries where a certain infectious disease is prevalent. In one type, people will receive an injection of the weakened pathogen causing the disease and in the other type, people will receive an injection of antibodies against the pathogen. The graph below shows the change in the antibody levels in the blood of Andy and Betty who received the two types of immunization separately.
+	
+a	A doctor recommends Betty to return home before day 25. Explain why.														(2 marks)
+b	Which type of immunization did Andy receive? Give three pieces of evidence from the graph to support your answer.				(4 marks)
+c	Carrie thinks that if Andy plans to revisit those countries in the future, he may not need to receive immunization again before departure. Do you agree with her? Explain your answer.							(2 marks)
+
+-- answer --
+a	The antibody level in the blood of Betty after day 25 will fall below the minimum level needed to provide immunity.								1m
+She may contract the disease if she does not return home before day 25.	1m
+b	Injection of weakened pathogens.								1m
+There is a latent period of 5 days before a rise in the antibody level.		1m
+The antibody level reaches its peak 30 days after injection.				1m
+The antibody level decreases slowly after the peak.					1m
+c	I agree with Carrie.
+Andy has the memory cells that 'remember' the type of antigen on the pathogens.														1m
+Andy may be able to produce a secondary response if he is invaded by the same pathogen again. Thus he may not need to receive immunization again.		1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10258005]
+// Overseas exam question // Schematic diagram //
+(*	The diagram shows a lymphocyte cell producing antibodies in response to bacteria entering the blood.
+
+© Chief Examiner	
+a	Name protein A.										(1 mark)
+b	Lymphocytes bring about immunity by producing antibodies.
+Name this type of immunity.								(1 mark)
+c	Suggest why there are different types of antibodies already present in the blood.												(1 mark)
+d	Use the diagram to help describe and explain the action of the antibodies on the bacteria.											(3 marks)
+After the action of the antibodies, another type of white blood cell destroys the bacteria.
+e	Name this type of white blood cell and describe how it destroys the bacteria.													(3 marks)
+f	Give two ways the body can prevent bacteria entering the blood.	(2 marks)
+CCEA GCSE Biology Unit 2 Higher Tier Jun 2016 Q7
+
+
+-- answer --
+a	Antigen												1m
+b	Active immunity											1m
+c	Different types of antibodies are produced in response to different / previous bacterial infections.										1m
+d	The shape of the antigen-binding site of antibodies is complementary to the antigens. /
+The antibody binds to the antigen / bacterium. /
+This clumps bacteria together /
+and prevents the spread / reproduction of bacteria / facilitates phagocytosis of the bacteria. (any 3)										1m x 3
+e	Phagocyte												1m
+Phagocyte engulfs bacteria / clumps of bacteria					1m
+and digests them.										1m
+f	Skin /
+Hairs in nostrils / cilia in the inner wall of the respiratory tract /
+Mucus /
+Tears / lysozyme /
+Hydrochloric acid in gastric juice /
+Vaginal secretion /
+Blood clotting (any 2)										1m x 2	
+---------------------------------------------------
+
+[10258007]
+// Overseas exam question // Graph interpretation // Data handling //
+(*	a	There are many different strains (types) of virus that cause flu. Flu viruses mutate easily making many new virus strains that cause flu.
+i	Explain the term 'mutation'.							(2 marks)
+Many people in the UK get a flu vaccination each year.
+ii	Describe fully what a flu vaccination contains.			(2 marks)
+
+The graph below shows the effect of a flu vaccination on a person's antibody level.
+	
+When developing the flu vaccination in any particular year, scientists have to predict (guess) which strain of virus is likely to infect the most people. They then develop the flu vaccination against this particular strain.
+Using the information provided, answer the questions below.
+iii	Use the graph to suggest why people get the flu vaccination well before they are expected to be infected by the flu virus.	(1 mark)
+iv	Suggest why some people who get the flu vaccination still get flu many months later.										(1 mark)
+
+b	The flow chart below summarizes how the number of children being vaccinated for MMR has changed since 1990.
+	
+i	Describe fully the trend in the number of children being vaccinated for MMR between 2003 and 2015. Use data from the flow chart to support your answer.										(2 marks)
+ii	Suggest why there are still some parents who do not have their children vaccinated for MMR.								(1 mark)
+CCEA GCSE Science (Single Award) Unit 1 Higher Tier May 2016 Q2
+
+
+-- answer --
+a	i	Sudden and permanent change								1m
+in gene / chromosome / DNA								1m
+ii	Weakened / dead / modified								1m
+flu viruses												1m
+iii	It takes a long time / weeks before immunity is achieved / antibodies reach a high enough level.										1m
+iv	The vaccination was for a different strain. /
+The two strains were different.								1m
+b	i	The number of children being vaccinated for MMR increased		1m
+from 80% in 2003 to 95% in 2015.							1m
+ii	They may worry about the safety of the vaccine.					1m	
+---------------------------------------------------
+
+[10258019]
+// Overseas exam question // Drawing // Graph interpretation // Schematic diagram //
+(*	a	When microbes enter our body some blood cells produce antibodies. The antibodies work by clumping the microbes together and immobilizing them. This is called active immunity.
+i	Complete the diagram to show how the antibodies cause the microbes to clump together.									(1 mark)
+	
+ii	Name the process by which the clumped microbes are destroyed.														(1 mark)
+iii	Suggest why we have different antibodies for each type of disease.													(1 mark)
+b	We can also protect ourselves by having antibodies injected directly into the body. This will give us passive immunity.
+The following graph shows how the number of antibodies in the blood changes during passive immunity. 
+	
+Use the graph and your knowledge to describe two ways in which passive
+immunity differs from active immunity.						(2 marks)
+c	Many people in Britain have an annual flu vaccination at the start of winter. This is to prevent them catching the flu over the winter season.
+Explain fully why a vaccination is used rather than having the antibodies injected directly into the body.							(2 marks)
+CCEA GCSE Science (Single Award) Module 2 Higher Tier Feb 2011 Q2
+
+-- answer --
+a	i	Antibodies are linked accurately to microbes / antigens		1m
+ii	Phagocytosis										1m
+iii	Each disease-causing microbe / antigen has a different shape.	1m
+b	Passive immunity acts faster. /
+Passive immunity lasts for a short period of time. /
+Antibodies are not produced by the body.
+(any 2)												1m x 2
+c	Vaccination lasts throughout the winter / longer.					1m
+Flu could strike at any time over the winter.						1m	
+---------------------------------------------------
+
+[10258024]
+// High order thinking // Applying concepts //
+(**Human papillomavirus (HPV) is a virus that can be transmitted through sexual contact. There are many different types of HPV. At least 13 types are known to cause cervical cancer. Different vaccines are available for the prevention of infections by certain types of HPV. The leaflet below shows some information on a particular HPV vaccine.
+
+HPV vaccine
+Target HPV types:
+HPV types 6, 11, 16 and 18
+
+Indicated age:
+From the age of 9 years (both females and males)
+
+It helps prevent:
+cervical cancer
+genital warts (a sexually transmitted disease)	
+a	HPV vaccines contain viral proteins. Explain how HPV vaccination helps protect females from cervical cancer.						(3 marks)
+b	HPV vaccines work best for people who have never been exposed to HPV infection. Suggest why it would be better for people to receive HPV vaccination before teenage years.							(1 mark)
+c	Suggest two reasons why HPV vaccines are also recommended to males even though they will not get cervical cancer.				(2 marks)
+d	Suggest two reasons why females who have received HPV vaccination should still have regular checks for cervical cancer.			(2 marks)
+
+-- answer --
+a	When a HPV vaccine is introduced into the body of the females, the viral proteins in the vaccine stimulate the immune system to produce memory cells that remember the types of antigens.									1m
+When the females are later invaded by the same antigens, their body will develop a secondary response.										1m
+As a larger amount of specific antibodies and killer T cells are produced in a shorter time, the HPV is destroyed quickly and cervical cancer cannot develop.
+														1m
+b	People before teenage years are not yet sexually active. They have not been exposed to HPV. Thus, HPV vaccines work best for them.				1m
+c	Males who have received HPV vaccination are less likely to spread HPV to their partners.													1m
+HPV vaccination helps prevent males from getting genital warts.			1m
+d	HPV vaccination does not protect against all types of HPV.				1m
+People may have been infected with HPV before vaccination.			1m	
+---------------------------------------------------
+
+
+[10258027]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a section of the human skin with a wound.
+
+	
+
+a	Describe two ways by which undamaged skin prevents the entry of pathogens into the blood and other tissues.					(4 marks)
+b	With reference to the diagram, describe two ways by which our immune system prevents the entry of pathogens through the wound.		(4 marks)
+
+
+-- answer --
+a	The dead cells in the outermost layer of the epidermis form a tough and impermeable barrier. / 
+	Pathogens on the skin surface are removed when the dead cells in the outermost layer of the epidermis are constantly shed and replaced by new cells from underneath. /
+	Sebum secreted by the sebaceous glands can kill pathogens on the skin.
+(any 2)												2m × 2
+b	Blood platelets are attracted to the wound to start off a series of reactions. A blood clot is formed, sealing the wound to prevent the entry of pathogens.	2m
+	The permeability of the capillary increases. More phagocytes come out of the capillary to engulf and digest the pathogens.						2m	
+---------------------------------------------------
+
+
+[10258032]
+// Overseas exam question // Applying concepts //
+(*	The human body has different lines of defence against bacteria and viruses. These range from natural barriers preventing their entry to specific reactions once entry is gained.
+a	i	Describe how tears act as a barrier to entry.				(1 mark)
+ii	Antibodies are produced which specifically react with the type of bacterium or virus which has entered the body. Antibodies are made of protein. Using your understanding of protein structure, explain why protein is suitable for this role.						(3 marks)
+b	In the winter of 2010-2011, many of the patients occupying hospital intensive care beds were suffering from swine flu (a viral infection). Most of these patients were young while it appeared that many older people were less affected. It is suggested that many older people have gained immunity through coming into contact with similar viruses many years ago.
+Suggest how previous infection with similar viruses may have made older people immune to swine flu, so preventing them becoming ill.	(4 marks)
+							CCEA GCE (A) Biology Module 1 May 2011 Q7
+
+-- answer --
+a	i	Tears contain lysozyme, an enzyme that can kill bacteria by breaking down their cell walls. 										1m
+ii	Proteins have a 3D structure.							1m
+Each protein has a specific shape.						1m
+It can bind to a specific antigen.							1m
+b	The older people's body recognized the antigens on the viruses in previous infections. These antigens are similar to those on swine flu viruses. /
+Memory cells were produced in response to these viruses. /
+If these people are infected with swine flu, the swine flu viruses will stimulate a secondary response. /
+Antibodies that can bind to the antigens of swine flu viruses are produced. / Killer T cells are produced. /
+The rapid response prevents illness. (any 4)					1m x 4	
+---------------------------------------------------
+
+
+[10258033]
+// Overseas exam question // Graph interpretation // Applying concepts //
+(*	Poliomyelitis (polio) is a highly infectious viral disease that may attack the motor neurones of the central nervous system, and cause paralysis and death. Although polio has plagued humans since ancient times, its most extensive outbreak occurred during the middle of the past century. The graph below shows the incidence of polio in Britain over a fifty-year period.
+	
+
+a	Vaccination was introduced in 1955. Calculate the percentage decrease in the number of cases in the first year of vaccination. Show your working.
+														(2 marks)
+b	The vaccine contains weakened (attenuated) virus particles. Explain how this may result in long-term immunity.						(3 marks)
+c	The vaccination programme involves a first dose shortly after birth, and then three further doses prior to school entry. Explain why more than one dose of the vaccine is necessary.							(2 marks)
+
+d	The last naturally-occurring case of polio in Britain was in 1982 though it remained common in many other countries. Then, in 1988 the World Health Organization commenced a worldwide vaccination programme in an attempt to eradicate polio. As a consequence, the incidence of polio has dropped by over 99% and the disease is now naturally found in only six countries. Explain why it is still necessary to vaccinate all children in Britain.												(2 marks)
+							CCEA GCE (A) Biology Module 4 Jan 2010 Q4
+
+-- answer --
+a	(6400 - 3200) / 6400 × 100%								1m
+= 50%												1m
+b	Antigens on the virus are recognized by B cells.					1m
+They divide to produce memory B cells and plasma cells. 			1m
+On subsequent exposure, a secondary response occurs. 			1m
+c	Booster doses activate the memory cells. 						1m
+This provides a longer term of immunity.						1m
+d	Infected people may visit Britain. / People in Britain may visit an infected area.														1m
+If people in Britain are unvaccinated, the disease would be able to spread throughout the population.									1m	
+---------------------------------------------------
+
+[10258039]
+// Overseas exam question // Graph interpretation // Applying concepts //
+(*	The following graph shows how antibodies in John's blood increase when he is infected with a disease such as measles.
+	
+a	Use the information provided to explain why:
+i	John's immunity is active.							(1 mark)
+ii	Active immunity is described as being permanent. 		(1 mark)
+iii	The symptoms of measles do not disappear immediately. 	(1 mark)
+b	Describe how antibodies combat microorganisms. 			(2 marks)
+c	Antibody levels can also be raised by vaccinations, e.g. MMR.
+Most doctors and the government encourage its use, while some parents object. Give one medical reason for using MMR and one against.															(2 marks)
+d	John's sister Mary is to visit Africa for the first time. Explain why she should have a number of new vaccinations before travelling. 	(2 marks)
+CCEA GCSE Science (Single Award) Module 2 Foundation Tier Nov 2007 Q7
+-- answer --
+a	i	Antibodies are produced by the body.							1m
+ii	The level of antibody remains high. / 
+The immunity lasts long. /
+Memory cells remain in the body.							1m
+iii	It takes time for the number of antibodies to rise to a level that is enough to kill all the pathogens. 									1m
+b	Microorganisms are clumped together. / Antibodies attach to the microorganisms to help phagocytes engulf the microorganisms. 						1m
+Antibodies cause lysis of the microorganisms.						1m
+c	For: Vaccination can help prevent infections.						1m
+Against: Vaccination may cause side effects.						1m
+d	Africa may have diseases that Mary was not previously exposed to.		1m
+No antibodies are present in Mary's body to combat these diseases.		1m	
+---------------------------------------------------
+
+[10258041]
+// Overseas exam question // Drawing // Applying concepts //
+(*	a	The MMR vaccine protects against mumps, measles and rubella.
+However, in 1998 it was reported that there could be a link between the MMR vaccine and autism (自閉症). By 2004 this was disproved and the following year showed the use of MMR vaccine rising to 1998 levels.
+i	Suggest how the report in 1998 may have affected the number of children using the vaccine. 							(1 mark)
+ii	Suggest one way in which the Health Service encourages parents to have their children vaccinated with the MMR vaccine. 	(1 mark)
+b	MMR and some other vaccinations are given in two stages - an initial vaccination followed by a booster some time later. The following diagram shows the antibody level following an initial vaccination.
+	
+i	Complete the diagram to show the effect of the booster on antibody levels. 											(2 marks)
+ii	Explain why the immunity produced by vaccinations is active immunity.										(2 marks)
+iii	Vaccines contain modified microorganisms. Why must they be modified? 										(1 mark)
+c	John went to his doctor with a pain in his chest. The doctor told him he had a chest infection and prescribed him an antibiotic.
+Give one reason why an antibiotic will be more effective than a vaccine to combat the chest infection. 								(1 mark)
+CCEA GCSE Science (Single Award) Module 2 Foundation Tier May 2008 Q6
+
+-- answer --
+a	i	The number of people receiving MMR vaccine may have decreased.	1m
+ii	By advertising / by offering free vaccinations / to give vaccinations in school.													1m
+b	i	The level of antibody rises faster than the initial vaccination			1m
+The level of antibody reaches the level of immunity and remains above the level of immunity										1m
+ii	The body produces antibodies to act against antigens in the vaccines.	1m
+The body possesses memory cells after vaccination.				1m
+iii	The microorganisms are modified so that they become harmless to the body.													1m
+c	Antibiotics can kill the pathogens faster / combat wider range of infections.	1m	
+---------------------------------------------------
+
+[10258042]
+// Graph interpretation // Applying concepts //
+(*	Two people were vaccinated against the same pathogen, one of them was injected with only one dose of vaccine (X) while the other was injected with two doses (Y). The graph below shows the changes in the levels of antibodies in the blood of the two people.
+	
+a	How long did it take for the body of Y to acquire immunity?	(1 mark)
+b	State one possible component of the vaccine that causes the increase in the level of antibodies. 									(1 mark)
+c	With reference to the graph, what is the danger of not receiving the second dose of vaccine?										(2 marks)
+d	From the change in the antibody level of Y after the eighth week, suggest what action should be taken to maintain immunity after one year. Explain your answer.											(3 marks)
+e	What are the advantages of giving two smaller injections instead of a single large injection? Explain your answer.						(3 marks)
+
+-- answer --
+a	5 weeks									 				1m
+b	Live, attenuated pathogens / killed pathogens / inactivated bacterial toxins / viral proteins 													1m
+c	If a person does not receive the second dose of vaccine, he/she cannot develop immunity to the disease.										1m
+Once infected, he/she will suffer from the disease.					1m
+d	After one year, the level of antibodies may drop below the minimum level needed to provide immunity. 											1m
+The body will no longer be immune to the disease.					1m
+The person should receive a third dose of vaccine to boost the level of antibodies to maintain the immunity.										1m
+e	The second injection, even small, will initiate a secondary response		1m
+and result in a much higher level of antibodies and more killer T cells.		1m
+This gives stronger and longer immunity against the disease.			1m	
+---------------------------------------------------
+
+[10258049]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Severe acute respiratory syndrome (SARS) is a respiratory illness caused by a virus. In a clinical trial, some healthy volunteers received a vaccine containing inactivated SARS-causing viruses. None of the volunteers had abnormal reactions and antibodies against SARS-causing viruses were detected in their blood.	
+
+a	Explain why antibodies against SARS-causing viruses were detected in the blood of the volunteers.									(3 marks)
+b	How may the vaccines mentioned above provide protection against SARS?													(4 marks)
+c	Apart from inactivated SARS-causing viruses, suggest one other active ingredient for making vaccines against SARS.				(1 mark)
+d	Explain why the volunteers chosen for the clinical trials must not be sick at the time of vaccination.									(2 marks)
+
+-- answer --
+a	Antigens of the inactivated SARS-causing viruses in the vaccines fitted in the receptors of B cells. 											1m
+The activated B cells divided and some of them differentiated into plasma cells.															1m
+Plasma cells released antibodies against SARS-causing viruses. 		1m
+
+
+
+
+b	Memory cells are produced after the injection of vaccines. Memory cells remember the antigens on the SARS-causing viruses.							1m
+When the SARS-causing viruses enter the body again, the memory cells quickly divide and differentiate into a large number of plasma cells, killer T cells and memory cells. 												1m
+The secondary response is faster, stronger and lasts longer than the primary response. 												1m
+Therefore, the body will show an enhanced immunity to SARS. 			1m
+c	Surface protein of the SARS-causing virus							1m
+d	When people are sick, their immunity is weak.						1m
+They may be infected by the inactivated viruses in the vaccines. 			1m	
+---------------------------------------------------
+
+[10258061]
+// Cross-topic // Graph interpretation // Applying concepts //
+(*	The MMR vaccine can protect children against three diseases caused by viruses. One of these diseases is rubella.
+a	Rubella cannot be treated with antibiotics. Why?				(1 mark)
+b	Some parents are concerned about the risk of receiving the vaccine.
+i	Explain why children may develop disease symptoms after vaccination.												(3 marks)
+ii	State one other risk of vaccination.						(1 mark)
+c	The MMR vaccine was introduced in 1988. The diagram below shows the number of children infected with rubella in a country after the introduction of MMR vaccine.
+
+	
+
+
+i	Using the data shown in the diagram, comment on the effectiveness of the MMR vaccine.									(2 marks)
+ii	State how the number of children infected with rubella may change if the parents refused to let their children receive the MMR vaccine.													(1 mark)
+
+-- answer --
+a	Antibiotics are not effective against viruses. 						1m
+b	i	Vaccines may contain live, attenuated pathogens. The pathogens may multiply in the children's body.								1m
+The antigen of the pathogens stimulates a primary response. The response is slow. 												1m
+Disease symptoms may develop before the body produces enough antibodies to act against the pathogens.						1m
+ii	The vaccine may cause allergic reactions. / 
+The vaccine may cause side effects like redness and swelling in the skin.														1m
+c	i	The MMR vaccine is effective in enhancing the immunity of the children against rubella.											1m
+The number of children infected with rubella decreased after the introduction of the MMR vaccine.										1m
+ii	The number of children infected with rubella may increase.			1m	
+---------------------------------------------------
+
+[10258128]
+// Cross-topic // Graph interpretation // Communication // Applying concepts //
+(*	The graph below shows the number of deaths from tuberculosis in a country.
+	
+
+Invention of vaccine and antibiotics effectively decreased the number of deaths from tuberculosis from 1900 to 1990.
+a	In relation to the use of antibiotics, explain the trend from 1990 to 2000.														(3 marks)
+b	Describe how vaccination enhances the immunity to tuberculosis.															(5 marks)
+
+-- answer --
+a	The number of deaths increased from 1990 to 2000.					1m
+The indiscriminate use of antibiotics speeded up the development of antibiotic resistant strains of tuberculosis bacteria.							1m
+Infection of these strains of tuberculosis bacteria could not be treated, thus the number of deaths increased.									1m
+b	The vaccine against tuberculosis contains an antigen of tuberculosis bacteria.															1m
+When the vaccine is introduced into the body, the antigen stimulates a primary response.													1m
+Memory cells are produced. They remain in the body after the primary response.															1m
+If the body is later invaded by tuberculosis bacteria, the body will develop a secondary response.											1m
+A larger amount of specific antibodies and killer T cells are produced in a shorter time, and the body shows an enhanced immunity. 					1m	
+---------------------------------------------------
+
+[10258130]
+// Reading comprehension // Communication // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Chickenpox is an infectious disease caused by a virus called Varicella zoster. The virus mainly affects the skin and the lining of the mouth and throat. After the entry of the virus into the body, there is an incubation period of about 14 to 21 days. Groups of small, red, itchy and fluid-filled spots appear on many parts of the body. After a few days the spots break open and scabs form. It takes 7 to 10 days for recovery.	
+
+a	The virus enters the body through the respiratory tract or digestive tract. Describe the body defence mechanisms at these two sites.		(4 marks)
+b	If the spots are scratched, pus may form and the wounds may become painful. Explain why.									(4 marks) 
+c	Although antibiotics cannot kill viruses effectively, they are sometimes given to children with chickenpox. Suggest one reason for this.	(2 marks) 
+
+-- answer --
+a	Cells in the inner wall of the respiratory tract are closely packed to form a physical barrier against the entry of pathogens.							1m
+Mucus traps pathogens in the incoming air.							1m
+Cilia lining the trachea and bronchi sweep the mucus with the trapped pathogens towards the pharynx by the beating action.							1m
+Hydrochloric acid in gastric juice in the stomach kills pathogens.			1m
+b	An inflammatory response is initiated by the damaged cells. 			1m
+Nearby arterioles dilate and the capillaries there increase their permeability.	1m
+Accumulation of tissue fluid causes swelling of the wound. The pressure built up in the swollen tissue stimulates pain receptors in the skin. 				1m
+More phagocytes come out of the capillaries to engulf and digest the pathogens. The pus is the remains of killed pathogens and worn-out phagocytes.		1m
+c	Bacteria may enter the body through the wounds if the spots are scratched.	1m 
+Antibiotics are used to prevent bacterial infections.					1m	
+---------------------------------------------------
+
+
+[10258141]
+// Basic concepts //
+(	By testing for the presence of a particular antibody in the blood, we will know whether a person has infected with a certain disease before.
+a	What are antibodies?									(1 mark)
+b	Name the type of cells that produce antibodies.				(1 mark)
+c	Describe how the antibodies act against pathogens and their toxins.															(3 marks)
+d	Why is the antibody test an accurate method?				(2 marks)
+e	If a pathogen that the body was previously exposed to invades the body, how will the antibody level in the blood change? How can this prevent the person from getting the disease again?						(2 marks)
+
+-- answer --
+a	Antibodies are Y-shaped protein molecules that are involved in body defence.															1m
+b	Plasma cells												1m
+c	Antibodies bind to the antigens on the pathogens and cause the pathogens to lyse.														1m
+Antibodies help clump the pathogens together. This facilitates phagocytosis.	1m
+Antibodies neutralize the toxins by binding to them. This facilitates phagocytosis. 														1m
+d	When a pathogen enters the body, antigens on its surface stimulates the body to produce antibodies.											1m
+The antibodies produced are specific to the antigens on the pathogen.		1m
+e	The level of antibodies will increase to a high level rapidly.				1m
+The rapid production of a large amount of antibodies can kill the pathogens quickly before they reproduce and attack the body cells.						1m	
+---------------------------------------------------
+
+
+[10258160]
+// Basic concepts //
+(*	A person was bitten by a dog. Blood immediately came out from the wound. A scab was formed on the wound after some time.
+a	Describe how the scab was formed.						(2 marks)
+b	State two other changes that could be observed at the wound.	(2 marks)
+c	Describe how these two changes occurred.					(2 marks)
+d	The person got an infection from the bite and was given an injection as a treatment. Suggest what may be present in the injection for treating the infection. 											(1 mark)
+
+-- answer --
+a	Blood platelets started off a series of reactions, converting the soluble fibrinogen in plasma into a net of insoluble fibrin. 							1m
+Blood platelets, red blood cells and white blood cells were trapped in the net and a blood clot was formed. The blood clot dried up and became a scab. 	1m
+b	The wound became red. / 
+The wound became swollen. / 
+Yellowish liquid (pus) was formed. (any 2)						1m x 2
+c	Any two (should match with answer in b): 						1m x 2
+Became red: 
+The nearby arterioles dilated, thus blood flow to the capillaries around the wound increased. 
+OR
+Became swollen:
+Arterioles dilated and the permeability of capillaries increased, thus tissue fluid accumulated in the wound.
+OR
+Yellowish liquid (pus) formed:
+The remains of killed pathogens and dead phagocytes formed pus.
+d	Antibodies / antibiotics									1m	
+---------------------------------------------------
+
+
+[10258164]
+// Basic concepts //
+(	a	Without protection by the skin, serious burnt victims may suffer from serious infections and probably die eventually. Explain how the skin protects the body from infections.							(2 marks)
+b	If our tissue is damaged, an inflammatory response may be produced. Describe and explain the events that occur during an inflammatory response.													(5 marks)
+c	Besides wounds, list three other sites through which pathogens may enter the body.												(3 marks)
+
+-- answer --
+a	The skin covers the whole body.								1m
+The outermost layer of the epidermis consists of dead cells, which form a tough and impermeable barrier to prevent the entry of pathogens. / 
+Sebaceous glands in the skin secrete sebum, a natural antiseptic that can kill pathogens. 											1m
+b	The damaged cells release certain chemicals, which initiate the response. 															1m
+The chemicals cause dilation of nearby arterioles				1m
+and increase the permeability of capillaries.						1m
+Blood flow to the capillaries around the wound increases. 			1m
+More phagocytes come out of the capillaries to engulf and digest the pathogens.														1m
+c	Through the respiratory tract / digestive tract / eyes / reproductive tract / urinary tract (any 3)											1m x 3	
+---------------------------------------------------
+
+
+[10258191]
+// Comparison // STSE connections // Applying concepts //
+(*	a	Describe how an injection of a vaccine causes the body to produce antibodies.											(3 marks)
+b	X was vaccinated for a certain disease but Y was not. State two differences in the immune responses of X and Y when they are invaded by the antigen same as the one in the vaccine later.						(2 marks)
+c	Under the immunization programme in Hong Kong, vaccines like BCG vaccine and MMR vaccine are compulsory for the children. 
+i	Suggest two advantages of compulsory vaccination for the community.												(2 marks)
+ii	Suggest two disadvantages of compulsory vaccination for the individual.										(2 marks)
+-- answer --
+a	The antigen in the vaccine stimulates a primary response.			1m
+Activated B cells divide and some of them differentiate into plasma cells.															1m
+Plasma cells produce antibodies.							1m
+b	The immune response of X is faster / is stronger / lasts longer. (any 2)	1m x 2
+c	i	Fewer people are infected with / died from the diseases. /
+This can prevent the spread of the diseases in the community / eliminate the diseases. /
+It is cheaper to prevent than to treat the diseases. (any 2)		1m x 2
+ii	This eliminates the freedom to choose. 					1m
+Some people may experience side effects after injecting the vaccines.														1m	
+---------------------------------------------------
+
+
+[10258201]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows some structures of the human body.
+
+	
+
+a	State the chemical barrier at W.							(1 mark)
+b	Describe the defence mechanisms at 
+i	X.												(3 marks)
+ii	Y.												(1 mark)
+c	An inflammatory response occurs at Z. Explain why this area is red, hot and swollen.												(3 marks)
+d	Are the defence mechanisms in a, b and c specific or non-specific?															(1 mark)
+-- answer --
+a	Tears													1m
+b	i	Cells in the inner wall of the respiratory tract are closely packed to prevent the entry of pathogens.									1m
+Mucus lining the respiratory tract traps the pathogens in the incoming air.														1m
+Cilia lining the respiratory tract sweep the mucus with the trapped pathogens towards the pharynx, where they are swallowed or coughed up.		1m
+ii	Saliva contains lysozyme, which can kill certain bacteria by breaking down their cell walls.											1m
+c	It is red because the blood flow to this area increases due to the dilation of arterioles.													1m
+It is hot due to an increased blood flow to the skin surface / because metabolism in this area is increased.										1m
+It is swollen due to the accumulation of tissue fluid.					1m
+d	They are non-specific defence mechanisms.						1m	
+---------------------------------------------------
+
+[10258221]
+// Communication // Applying concepts //
+(*	A man caught a cold and he transmitted the disease to his wife. He recovered a week later, but his wife was still quite ill. However, he did not get the disease from his wife anymore. 
+a	Explain why the man did not catch a cold from his wife.		(4 marks)
+b	Explain why the man may catch a cold again later.			(2 marks)
+c	The cold virus enters human bodies through the respiratory tract and digestive tract. State the defence mechanisms in these two tracts that prevent the entry of pathogens.							(4 marks)
+
+-- answer --
+a	When the cold virus first entered his body, the antigens stimulated a primary response.													1m
+Memory cells which remember the antigens of the cold virus were produced.															1m
+When the same virus entered the body for the second time, a larger amount of antibodies were produced in a much shorter time.					1m
+The virus was killed before the disease developed.					1m
+b	He may be invaded by other types of cold viruses with different antigens.	1m
+The body will not develop a secondary response because the immune system is not exposed to the antigens before.								1m
+c	Cells in the inner wall of the respiratory tract are closely packed to prevent the entry of pathogens.											1m
+Mucus lining the respiratory tract traps the pathogens.					1m
+Cilia lining the respiratory tract sweep the mucus with the trapped pathogens towards the pharynx, where the pathogens are swallowed or coughed up.	1m
+Gastric juice in the stomach contains hydrochloric acid which can kill most of the pathogens.												1m	
+---------------------------------------------------
+
+[10258227]
+// Cross-topic // Reading comprehension // Communication // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	Hepatitis B is caused by hepatitis B viruses, which are present in the blood and other body fluids of infected people. Vaccines for hepatitis B have been available since 1982. Three shots of vaccines are required to provide adequate immunity to the disease.	
+
+a	What substance in the vaccines provides immunity to hepatitis B?															(1 mark)
+b	Explain how people acquire immunity to hepatitis B through vaccination.														(4 marks)
+c	People who are ill should not receive vaccines. Explain why.	(2 marks)
+d	Apart from vaccination, suggest two other measures to prevent the transmission of hepatitis B.								(2 marks)
+
+-- answer --
+a	Proteins of hepatitis B viruses								1m
+b	The vaccines contain antigens which stimulate a primary response.	1m
+Memory cells that remember the type of antigens are produced.		1m
+If the body is later invaded by hepatitis B viruses, the body will develop a secondary response.										1m
+A large amount of specific antibodies and killer T cells will be produced in a shorter time to destroy the viruses.									1m
+c	The immunity is weak when people are ill.						1m
+Live, attenuated pathogens in some of the vaccines may cause diseases.															1m
+d	Wear gloves when handling wounds. /
+Cover any wound with a dressing. /
+Never share injection needles. /
+Screen blood used in blood transfusion. /
+Stay with one sexual partner. /
+Always use a condom correctly during sexual intercourse. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+
+[10258228]
+// Drawing // Communication // Basic concepts //
+(*	a	Draw a curve on the graph below to show the change in antibody level in the blood during primary and secondary responses. Label the periods of the two responses on the graph.								(2 marks)
+	
+
+b	Explain the shape of the graph.							(4 marks)
+c	Explain how vaccination makes use of primary and secondary responses to prevent infectious diseases from developing.					(3 marks)
+d	State one other method of developing artificial immunity apart from vaccination. 											(1 mark)
+-- answer --
+a	
+
+Correct shape: longer latent period and a lower antibody level in the primary response													1m
+Correct labelling of the periods of primary and secondary responses		1m
+b	When the body is first attacked by the pathogen, the antigen on the surface of the pathogen stimulates a primary response. Antibodies are produced. 		1m
+Memory cells which remember the type of antigen are also produced. 		1m
+When the body is invaded by the same antigen again, memory cells quickly divide. Some of them differentiate into plasma cells. 						1m
+The larger number of plasma cells produces much more antibodies in a much shorter time in the secondary response.							1m
+c	Antigen in the vaccine stimulates a primary response.					1m
+If the body is later invaded by the same antigen, the body will develop a secondary response.													1m
+A larger amount of specific antibodies and killer T cells are produced in a shorter time to destroy the pathogen.									1m
+d	Injection of antibodies into the body								1m	
+---------------------------------------------------
+
+
+
+Essays
+
+[10258283]
+// Communication // Basic concepts //
+(*	Discuss the advantages and disadvantages of vaccination.			(11 marks)
+
+-- answer --
+Advantages: 
+Vaccination can completely eliminate diseases from the community. /
+Vaccination can reduce suffering / the cost of treatment. /
+Vaccination can lower the death rate / reduce the number of people with disabilities due to diseases. /
+Vaccination can enhance the immunity of the public against diseases. /
+Vaccination can prevent the outbreak of epidemics. (any 4)				1m x 4
+Disadvantages:
+Each vaccine is specific to a few types of diseases only.				1m
+The immunity may not be life-long.								1m
+Some people may infect diseases from the vaccine.					1m
+Vaccination may cause side effects or allergic reactions.				1m
+Communication												3m	
+---------------------------------------------------
+
+[10258284]
+// Communication // Applying concepts //
+(**Discuss the problems associated with the use of influenza vaccines. 	(10 marks)
+
+-- answer --
+Pathogens in some vaccines can cause diseases.						1m
+Some vaccines may cause side effects or allergic reactions.				1m
+Some people are not suitable to have an injection, e.g. people infected with HIV.	1m
+The vaccines are effective only if the mutation rate of the viruses is low.		1m
+The cost of development is high as new vaccines are needed each year. 		1m
+It is difficult to persuade healthy people to inject.							1m
+It is difficult to predict which strains of influenza viruses are to be vaccinated against.																1m
+Communication													3m	
+---------------------------------------------------
+[10258305]
+// Communication // Basic concepts //
+(	Describe how vaccination enhances the immunity of an individual.	(9 marks)
+ 
+-- answer --
+Vaccines contain live, attenuated pathogens, killed pathogens, inactivated bacterial toxins or viral proteins.											1m
+When a vaccine is introduced into the body, the antigen in the vaccine stimulates a primary response.												1m
+Memory cells which remember the type of antigen are produced. 			1m
+If the body is later invaded by the same antigen, the body will develop a secondary response. 													1m
+Memory cells respond quickly by dividing and differentiating into a larger number of plasma cells and killer T cells. 										1m
+The secondary response is faster, stronger and lasts longer, and is thus more effective in killing the invading pathogens.									1m
+Communication													3m	
+---------------------------------------------------
+
+[10258307]
+// Comparison // Communication // Basic concepts //
+(	State the similarities and differences between the primary and secondary responses.												(9 marks)
+
+-- answer --
+Similarities: 
+Both responses show a latent period.									1m
+Both responses cause an increase of antibody level in the blood.				1m
+The antibody level in the blood decreases after both responses.				1m
+Differences: 
+Secondary response shows a shorter latent period.						1m
+Secondary response shows a higher antibody level in the blood.				1m
+Antibody remains in the blood for a longer time in the secondary response.		1m
+Communication													3m	
+---------------------------------------------------

@@ -1,0 +1,1956 @@
+Chapter 4		Enzymes and metabolism
+
+
+Multiple-choice questions
+
+[10243549]
+// Data handling // Experiment //
+*	Directions: The following two questions refer to the table below, which shows the time taken for the starch to completely break down in a mixture of 5 cm3 starch solution and 1 cm3 amylase at different temperatures.
+Temperature (°C)	Time taken for the starch to break down completely (min)	
+10	15	
+20	9	
+30	5	
+40	4	
+50	8	
+	Which of the following can be deduced from the results?
+	(1)	The amylase becomes denature at 50 °C.
+	(2)	The amylase has the highest activity at about 40 °C.
+	(3)	The amylase becomes inactive at low temperature.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10243550]
+// Data handling // Experiment //
+*	To determine the time at which the starch breaks down completely, a sample is obtained from the mixtures at regular time intervals and tests are carried out. Which of the following results indicates that the starch is completely broken down?
+A	Red precipitate starts to form in Benedict's test.
+B	Benedict's solution starts to remain blue in Benedict's test.
+C	Iodine solution starts to turn blue-black in iodine test.
+D	Iodine solution starts to remain brown in iodine test.
+D	
+---------------------------------------------------
+[10243560]
+// Graph interpretation // Experiment // Schematic diagram //
+*	A student investigated the effect of pH on the activity of pepsin, a protease extracted from stomach. The student prepared cooked egg white cubes of the same size and mass. He then incubated the egg white cubes with pepsin solution at different pH for 10 minutes. After 10 minutes, the student measured the remaining mass of the egg white cubes.
+	
+
+	Which of the following graphs correctly shows the mass of the remaining egg white cubes at different pH?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10243566]
+// Graph interpretation // Basic concepts //
+*	Directions: The following two questions refer to the graph below, which shows the energy profile for an enzyme-catalysed reaction.
+	
+	What does (Q ( P) indicate?
+A	the amount of energy needed to start the enzyme-catalysed reaction
+B	the amount of energy released during the enzyme-catalysed reaction
+C	the amount of energy absorbed during the enzyme-catalysed reaction
+D	the amount of energy stored in the products
+B	
+---------------------------------------------------
+
+
+[10243599]
+// Graph interpretation // Basic concepts //
+*	Which of the following graphs correctly shows the energy profile of the reaction if the enzyme is absent?
+
+A
+	B
+	
+C
+	D
+	
+
+C	
+---------------------------------------------------
+
+[10243607]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to graph below, which shows the energy profile for an enzyme-catalysed reaction.
+ 	
+	This graph probably shows the energy profile of
+A	digestion of lipids in the small intestine.
+	B	absorption of water in the small intestine.
+	C	synthesis of DNA in the nucleus.
+	D	production of glucose in a plant cell during photosynthesis.
+A	
+---------------------------------------------------
+
+[10243610]
+// Graph interpretation // Applying concepts //
+*	How will the energy change if this reaction is not catalysed by an enzyme?
+	A	Only P will decrease.
+	B	Only S will decrease.
+	C	Only Q will increase.
+	D	Only Q and R will increase.
+D	
+---------------------------------------------------
+
+
+[10243613]
+// Basic concepts //
+	The actions of enzymes are specific because
+	A	their activity is easily affected by temperature and pH.	
+	B	each enzyme has its unique active site.
+	C	each enzyme has only one active site.
+	D	enzymes are not used up.
+B	
+---------------------------------------------------
+
+[10243656]
+// Graph interpretation // Basic concepts //
+*	The graph below shows the time taken for the completion of an enzymatic reaction at different temperatures.
+ 	
+
+Which of the following conclusions can be drawn from the graph?
+A	The optimum temperature for this enzymatic reaction is 55 °C.
+	B	This enzymatic reaction will complete faster at 60 °C.
+	C	This enzyme works faster at 30 °C than at 20 °C.
+	D	This enzyme is found in the human body.
+C	
+---------------------------------------------------
+
+
+[10243657]
+// Experiment // Basic concepts //
+*	Test tubes containing 5 cm3 of starch solution and the following substances are prepared and incubated at 50 °C. After one hour, the mixture is tested for the presence of starch.
+Test tube	Substance		Test tube	Substance	
+(1)	Alkali		(4)	Amylase + Alkali	
+(2)	Amylase		(5)	Boiled amylase	
+(3)	Amylase + Acid		(6)	Distilled water	
+	The results from which two test tubes should be compared to show the effect of temperature on amylase?
+	A	(2) and (5)					B	(2) and (6) 
+	C	(3) and (4)					D	(4) and (5)
+A	
+---------------------------------------------------
+
+[10243676]
+// Graph interpretation // Experiment // Basic concepts //
+An enzyme works best at 50 °C and becomes denatured at 70 °C. Which of the following graphs correctly shows the activity of this enzyme?
+A			B		
+C			D		
+
+B	
+---------------------------------------------------
+
+[10243708]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the activity of an enzyme at different pH.
+ 	
+
+	Which of the following actions can stop this enzyme from working?
+	(1)	adding a strong acid to the reaction mixture
+	(2)	adding an inhibitor of the enzyme to the reaction mixture
+	(3)	boiling the reaction mixture
+A	(3) only
+B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10243720]
+// Graph interpretation // Schematic diagram //
+*	The following metabolic reactions are catalysed by three different enzymes. 
+ 	
+If an inhibitor of enzyme Q is added at time T, which of following graphs correctly shows the changes in the concentrations of compounds (2) and (3)?
+A			B		
+C			D		
+
+C	
+---------------------------------------------------
+
+[10243726]
+// Applying concepts //
+*	An enzyme secreted from the tear glands of the eye forms deposits on contact lenses. Which ingredient do contact lens cleaners contain for removing these deposits? 
+	A	lipase			B	cellulase
+	C	pectinase			D	protease
+D	
+---------------------------------------------------
+
+[10243733]
+// Applying concepts //
+*	Some biological washing powder contains cellulase which helps remove 
+	A	bacteria on clothes.
+	B	loose cotton microfibers on clothes.
+	C	blood stains on clothes.
+	D	milk stains on clothes.
+B	
+---------------------------------------------------
+[10243750]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the changes of some molecules in an enzymatic reaction.
+	
+
+	Which part of the diagram represents an enzyme?
+	A
+		B	
+	
+	C
+		D
+		
+
+C	
+---------------------------------------------------
+
+[10243760]
+// Schematic diagram // Basic concepts //
+*	Which of the following statements correctly describe the reaction?
+	(1)	Energy is required.
+	(2)	Energy is released.
+	(3)	It is an anabolic reaction.
+	(4)	It is a catabolic reaction.
+	A	(1) and (3) only		B	(1) and (4) only
+	C	(2) and (3) only		D	(2) and (4) only
+A	
+---------------------------------------------------
+
+
+[10243782]
+// Experiment // Applying concepts //
+*	Directions: The following two questions refer to investigations on invertase. Invertase is an enzyme that catalyses the breakdown of sucrose into fructose and glucose. It works best in a slightly acidic medium at 60 °C.
+	
+
+	A student mixed starch solution and invertase solution in a test tube. He kept the mixture at 60 °C. He found that no fructose and glucose were formed in the mixture after some time. What can be implied from this observation about the property of enzymes?
+	A	Enzymes are biological catalysts.
+	B	Enzymes are specific in actions.
+	C	Enzymes are proteins.
+	D	Enzymes are reusable.
+B	
+---------------------------------------------------
+
+[10243787]
+// Experiment // Applying concepts //
+*	A student mixed sucrose solution and invertase solution in a test tube. He kept the mixture at 60 °C. The test tube was contaminated with sodium hydroxide solution. He found that no fructose and glucose were formed in the mixture after some time. What can be implied from this observation about the property of enzymes?
+	A	Enzymes are biological catalysts.
+	B	Enzymes are specific in actions.
+	C	Enzymes are proteins.
+	D	Enzymes are reusable.
+C	
+---------------------------------------------------
+
+
+[10243801]
+// Graph interpretation // Experiment // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the amount of oxygen collected from a mixture containing hydrogen peroxide and catalase under different conditions. The catalase works best at 
+45 °C, pH 6.8-7.5.
+	
+	If curve X represents the changes in the amount of oxygen collected when the mixture is kept at 35 °C, pH 7, which of the following is the possible condition of the mixture that gives the results in curve Y?
+		Temperature		pH
+	A	0 °C				4
+	B	25 °C			7
+	C	35 °C			4
+D	45 °C			7
+D	
+---------------------------------------------------
+
+[10243807]
+// Graph interpretation // Experiment // Applying concepts //
+*	The amounts of oxygen collected in both curves X and Y reach a maximum and then level off after some time. This is because
+	A	catalase is used up.
+	B	hydrogen peroxide is used up.
+	C	oxygen is accumulated in the mixture.
+	D	catalase is denatured.
+B	
+---------------------------------------------------
+[10243809]
+// Applying concepts //
+*	The diagram below shows an enzyme-controlled metabolic pathway.
+	
+	If an inhibitor of enzyme Y is added to a reaction mixture containing all the above substances, what will happen to the concentrations of compounds P and Q in the mixture?
+		Compound P		Compound Q
+	A	increases			increases
+	B	decreases			decreases
+	C	increases			decreases
+	D	decreases			increases
+D	
+---------------------------------------------------
+
+[10243831]
+// Graph interpretation // Basic concepts //
+*	The graph below shows the effect of pH on the activities of three enzymes.
+	
+Which of the following statements about enzymes 1, 2 and 3 is incorrect?
+A	Enzyme 1 is more active than enzyme 2 below pH 5.
+	B	Enzymes 1, 2 and 3 can work at pH 7.
+	C	Enzymes 2 and 3 are denatured at pH 12.
+	D	Enzymes 1, 2 and 3 have different optimum pH.
+B	
+---------------------------------------------------
+
+[10243840]
+// Basic concepts //
+*	Which of the following statements about enzymes is incorrect?
+	A	Enzymes have a three-dimensional structure.
+	B	All enzymes are proteins.
+	C	Enzymes may slow down the chemical reactions in cells.
+	D	Enzyme can work inside or outside living cells.
+C	
+---------------------------------------------------
+
+[10243841]
+// Basic concepts //
+Which of the following can be explained by the lock-and-key hypothesis?
+	A	the specificity of enzyme actions
+	B	the catabolic action of enzymes
+	C	the anabolic action of enzymes
+	D	the denaturation of enzymes
+A	
+---------------------------------------------------
+
+[10243845]
+// Schematic diagram // Basic concepts //
+The diagram below shows an enzymatic reaction.
+	
+	Which of the following statements about the reaction is/are correct?
+	(1)	W is the enzyme.
+	(2)	Z is the substrate.
+	(3)	It is a catabolic reaction.
+	A	(1) only				B	(2) only
+	C	(1) and (3) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+[10243857]
+// Graph interpretation //
+*	Which of the following is most probably a graph showing the effect of temperature on the activity of an enzyme found in human cells?
+A		
+B		
+C		
+D		
+
+D	
+---------------------------------------------------
+
+[10243859]
+// Graph interpretation // High order thinking // Experiment //
+**	In an experiment, a student set up two test tubes by adding the same amount of an enzyme extracted from the human body into a fixed amount of reactants. He incubated one of the tubes (X) at a constant temperature of 20 °C. He put another tube (Y) in an incubator in which the temperature was gradually increased from 20 °C to 100 °C. Which of the following most probably shows the results?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+
+[10243861]
+// Graph interpretation // High order thinking // Experiment //
+**	Catalase is an enzyme that catalyses the breakdown of hydrogen peroxide (H2O2) into oxygen and water. The graph below shows the amount of oxygen released when catalase solution is added to hydrogen peroxide solution at 20 °C. 
+
+	
+
+Which of the following shows the amount of oxygen released if the experiment is repeated with more hydrogen peroxide solution and the temperature is raised to 25 °C?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10243869]
+// Graph interpretation // Experiment // Applying concepts //
+*	Invertase is an enzyme that catalyses the following reaction. 
+
+	
+
+Invertase solution was added to sucrose solution in a test tube. The tube was then incubated at a constant temperature. The graph below shows the rate of breakdown of sucrose in the reaction mixture over time. 
+
+	
+
+Which of the following statements about the enzymatic reaction is/are correct?
+(1)	In the first 40 minutes, the reaction rate was the highest. 
+(2)	The amount of glucose in the reaction mixture remained constant in the first 40 minutes. 
+(3)	Invertase was used up after 120 minutes.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+A	
+---------------------------------------------------
+
+
+[10243875]
+// High order thinking // Experiment // Applying concepts //
+**	In an experiment, amylase was extracted from human body. Same volume of amylase solution was added to three test tubes, X, Y and Z. The tubes were then treated as follows:
+Tube X: kept at 25 °C
+Tube Y: cooled to 0 °C and then heated up to 25 °C
+Tube Z: heated up to 100 °C and then cooled to 25 °C
+
+Which of the following correctly compares the activities of amylase in the three tubes after the treatments?
+A	X > Y = Z
+B	X = Y > Z 
+C	Z > Y = X
+D	Z = Y > X
+B	
+---------------------------------------------------
+
+[10243883]
+// High order thinking // Experiment // Applying concepts //
+**	In an experiment, amylase was extracted from human body. Same volume of amylase solution was added to three test tubes, X, Y and Z. The tubes were then treated as follows:
+Tube X: kept at 25 °C
+Tube Y: heated up to 100 °C and then cooled to 25 °C 
+Tube Z: cooled to 0 °C and then heated up to 25 °C
+
+After the treatments, the same volume of starch solution was added to each tube. A drop of each mixture was transferred to an iodine drop on a spot plate at fixed time intervals. Which of the following correctly compares the time taken for the blue-black colour to disappear?
+A	X > Y = Z
+B	X = Z > Y 
+C	Y > Z = X
+D	Y = Z > X
+C	
+---------------------------------------------------
+
+
+[10243894]
+// Graph interpretation // Experiment // Applying concepts //
+*	When an enzyme solution was added to an egg white solution at room temperature, the mixture changed from cloudy to clear after several minutes. The optimum temperature of the enzyme is about 37 °C. 
+Which of the following graphs most probably shows the time taken for the mixture to become clear at different temperatures? 
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10243906]
+// Basic concepts //
+	Amylase is an enzyme that catalyses the breakdown of starch into maltose. However, it cannot catalyse the breakdown of cellulose. This is because
+A	amylase is denatured by cellulose.
+B	amylase can only work in a narrow range of pH.
+C	the active site of amylase has a specific shape.
+D	cellulose is an inhibitor of amylase.
+C	
+---------------------------------------------------
+
+
+[10243910]
+// Cross-topic // Experiment // Schematic diagram // Applying concepts //
+	The diagram below shows an experimental set-up. 
+
+	
+
+The liquid level in the capillary tube will rise more rapidly if the temperature of distilled water is increased from 20 °C to 25 °C. This is because 
+(1)	starch is more soluble at 25 °C. 
+(2)	some amylase is denatured at 20 °C. 
+(3)	the activity of amylase is higher at 25 °C.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10243918]
+// Basic concepts //
+	Which property of enzymes can be explained by the lock-and-key hypothesis?
+A	Enzymes are reusable.
+B	Enzymes are proteins.
+C	The actions of enzymes are specific.
+D	Enzymes are biological catalysts.
+C	
+---------------------------------------------------
+
+
+[10243922]
+// Schematic diagram // Applying concepts //
+*	The graph below shows the energy profile of a reaction. Which of the following arrows represents the amount of energy that would be lowered if an enzyme is present?
+	
+A	(1)			B	(2)
+C	(3)			D	(4)
+B	
+---------------------------------------------------
+
+[10243931]
+// Schematic diagram // Basic concepts //
+	Directions: The following three questions refer to the diagram below, which shows the molecules before and after an enzymatic reaction.
+		
+Which of the following correctly identifies the molecules?
+		P			Q			R			S			T
+A	substrate		enzyme 		substrate		enzyme		product
+B	product		enzyme 		enzyme		substrate		substrate
+C	enzyme		substrate		substrate		enzyme		product
+D	enzyme		substrate 	enzyme		product		product
+D	
+---------------------------------------------------
+[10243934]
+// Schematic diagram // Basic concepts //
+Which of the following statements is/are correct?
+(1)	The specificity of the action of P can be explained by the lock-and-key hypothesis.
+(2)	P is the lock in the lock-and-key hypothesis.
+(3)	Q is the key in the lock-and-key hypothesis.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10243935]
+// Schematic diagram // Basic concepts //
+	The reaction is an example of
+(1)	a metabolic reaction.
+(2)	a catabolic reaction.
+(3)	an anabolic reaction.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10243938]
+// Basic concepts //
+	Enzymes are usually needed in small amounts because
+A	their active sites are specific in shape. 
+B	they are denatured at high temperatures.
+C	they are proteins.
+D	they are not consumed in the reactions.
+D	
+---------------------------------------------------
+
+
+[10243945]
+// Cross-topic // Basic concepts //
+*	Which of the following statements about enzymes is incorrect?
+A	Enzymes are proteins that can catalyse biochemical reactions.
+B	Enzymes are formed at ribosomes.
+C	Enzymes are specific in action.
+D	Enzymes are killed at high temperatures.
+D	
+---------------------------------------------------
+
+[10243954]
+// Graph interpretation // Experiment // Applying concepts //
+*	Directions: The following two questions refer to an investigation of the effect of temperature on enzyme activity. In the investigation, an enzyme solution was added to an excess amount of substrate at 0 °C. The mixture was gradually heated up to 80 °C. The concentration of the product in the mixture was recorded. The results are shown in the graph below.
+	
+
+The curve levels off at 50 °C. Which of the following is a possible explanation for this?
+A	All enzymes in the mixture are used up for the reaction.
+B	All enzymes in the mixture are denatured at 50 °C.
+C	The optimum temperature for the enzyme is 50 °C.
+D	The rate of reaction reached a maximum at 50 °C.
+B	
+---------------------------------------------------
+
+
+[10243956]
+// Graph interpretation // Experiment // Applying concepts //
+*	The mixture was then slowly cooled down from 80 °C to 0 °C. Which of the following graphs best represents the change in the concentration of the product in the mixture during the cooling process?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+[10243973]
+// Basic concepts //
+	The equation below represents an enzymatic reaction. 
+	
+X and Y are
+A	catalysts.
+B	conditions.
+C	substrates.
+D	products.
+C	
+---------------------------------------------------
+
+[10243984]
+// Data handling // Experiment // Applying concepts //
+*	In an investigation of the effect of temperature on enzyme activity, four test tubes containing the same volumes of an enzyme solution and milk were kept in water baths of different temperatures. The time taken for the milk in each tube to coagulate was recorded. The results are shown in the table below.
+Temperature of water bath (°C)	10	20	30	40	
+Time taken for the milk to coagulate (min)	X	7.0	4.0	1.5	
+Key: 'X' denotes no coagulation after 30 minutes.
+
+Which of the following can be concluded from the results?
+(1)	The activity of this enzyme is affected by temperature.
+(2)	The optimum temperature for this enzyme is 40 °C.
+(3)	This enzyme is denatured at temperatures higher than 40 °C.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10244015]
+// Experiment // Schematic diagram // Basic concepts //
+	The diagrams below show three set-ups. 
+(1)	(2)	(3)	
+			
+
+After 6 hours, iodine solution was added to each test tube. In which test tube(s) did a blue-black colour appear?
+A	(1) only					B	(1) and (2) only
+C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10244020]
+// Graph interpretation // Basic concepts //
+	Directions: The following two questions refer to the graph below, which shows the rate of an enzymatic reaction at different pH.
+
+	
+
+The optimum pH for this enzyme is 
+A	pH 1.
+B	pH 3.
+C	pH 6.
+D	pH 8.
+B	
+---------------------------------------------------
+
+[10244044]
+// Graph interpretation // Basic concepts //
+	Which of the following can be added to the reaction mixture to stop this reaction?
+A	distilled water	
+B	sucrose solution
+C	citric acid	
+D	baking soda
+D	
+---------------------------------------------------
+
+
+[10244047]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagrams below, which show the set-ups for investigating the effectiveness of washing powders in removing stains.
+(1)		(2)		
+(3)		(4)		
+To investigate the effectiveness of biological washing powder in removing different stains, we should compare the results of
+A	(1) and (2).			B	(1) and (3).
+C	(1) and (4).			D	(2) and (3).
+D	
+---------------------------------------------------
+
+[10244057]
+// Scientific investigation // Schematic diagram // Applying concepts //
+*	Which of the following factors is under investigation when comparing the results of (3) and (4)?
+A	temperature
+B	type of washing powder
+C	type of cloth
+D	type of stain
+A	
+---------------------------------------------------
+
+[10244062]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an enzyme molecule.
+	
+Which of the following molecules is most probably the substrate for this enzyme?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10244074]
+// Basic concepts //
+	Activities of enzymes are usually extremely low at 0 °C because
+A	enzymes are denatured.			B	enzymes are destroyed.
+C	enzymes are inactive.			D	enzymes are frozen.
+C	
+---------------------------------------------------
+
+[10244083]
+// Basic concepts //
+	Amylase can help in the digestion of 
+A	starch into maltose.				B	starch into glucose.
+C	maltose into sucrose.			D	maltose into glucose.
+A	
+---------------------------------------------------
+
+[10244086]
+// Data handling // Experiment //
+	An investigation was carried out to study the effect of pH on the activity of an enzyme. Four test tubes were set up. Each tube contained a mixture of enzyme and starch solutions. Buffer solutions of different pH were added to each tube and the tubes were kept at 30 °C. The time taken for all the starch in different tubes to break down is shown in the table below: 
+pH	Time taken for all the starch to break down (min)	
+3	10.0	
+7	3.5	
+10	8.5	
+12	15.0	
+
+Which of the following is most probably the optimum pH for this enzyme?
+A	pH 3				B	pH 7
+C	pH 10			D	pH 12
+B	
+---------------------------------------------------
+
+[10244103]
+// Basic concepts //
+	What is anabolism?
+A	It refers to all the chemical reactions that take place in an organism.
+B	It refers to all the chemical reactions that take place in a cell. 
+C	It refers to all the building-up reactions in an organism.
+D	It refers to all the breaking-down reactions in an organism.
+C	
+---------------------------------------------------
+
+[10244113]
+// Basic concepts //
+	Which of the following statements about enzymes is incorrect?
+A	Their activities can be affected by temperature and pH.
+B	They only work in the bodies of organisms. 
+C	The specificity of their actions can be explained by the lock-and-key hypothesis.
+D	They help speed up reactions in organisms.
+B	
+---------------------------------------------------
+
+[10244124]
+// Graph interpretation // Applying concepts //
+**	The graph below shows the change in the amount of products in the reaction mixture of an enzymatic reaction. 
+
+	
+
+Which of the following graphs shows the effect of adding an inhibitor into the reaction mixture?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+
+[10244130]
+// Experiment // Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the experiment below, which is designed to investigate the action of an enzyme.
+	
+
+Starch-agar blocks were put into two test tubes, one containing fresh enzyme solution and the other containing boiled enzyme solution. The tubes were incubated at 37 °C for 1 day. The starch-agar blocks were then taken out and iodine solution was added to them. The table below shows the colour of the blocks after adding iodine solution. 
+Tube	Colour of the block after adding iodine solution	
+Fresh enzyme solution	Brown	
+Boiled enzyme solution	Blue-black	
+
+Which of the following is a possible explanation for the results?
+A	The enzyme catalysed the breakdown of starch.
+B	The enzyme catalysed the dissolving of starch.
+C	The enzyme catalysed the breakdown of agar.
+D	The enzyme catalysed the dissolving of agar.
+A	
+---------------------------------------------------
+
+[10244151]
+// Experiment // Schematic diagram // Basic concepts //
+*	The enzyme might be a(n)
+A	lipase.			B	amylase.
+C	catalase.			D	protease.
+B	
+---------------------------------------------------
+
+[10244158]
+// Basic concepts //
+	In very hot water, the enzymes in biological washing powders are
+A	inactive.					B	killed.
+C	the most active.			D	denatured.
+D	
+---------------------------------------------------
+
+[10244167]
+// Basic concepts //
+*	Which of the following is a catabolic reaction?
+A	hydrolysis of lipid molecules
+B	synthesis of glycogen from glucose
+C	polymerization of glucose molecules
+D	synthesis of proteins from amino acids
+A	
+---------------------------------------------------
+
+[10244179]
+// Schematic diagram // Basic concepts //
+	The diagram below shows an enzyme. 
+	
+Which of the following is/are the possible substrate(s) of this enzyme?
+(1)	(2)	(3)	
+			
+
+A	(1) only					B	(1) and (2) only
+C	(1) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10244180]
+// Basic concepts //
+	The photograph below shows a box of contact lens cleaner. It contains an active ingredient that can remove the proteins deposited on contact lenses.
+	
+
+Which of the following correctly describe(s) the active ingredient?
+(1)	It is a lipid.
+(2)	It is reusable.
+(3)	Its action is specific.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10244224]
+// Basic concepts //
+	Which of the following statements about enzymes are correct?
+(1)	Enzymes lower the activation energy of chemical reactions.
+(2)	Enzymes increase the total amount of products formed. 
+(3)	Enzymes are reusable.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10244227]
+// Applying concepts //
+*	Enzymes used in a certain brand of biological washing powder are extracted from bacteria living in alkaline hot springs. Under which of the following conditions would the biological washing powder probably perform the best?
+		pH		Temperature (°C)
+A	7		40
+B	7		60
+C	10		40
+D	10		60
+D	
+---------------------------------------------------
+
+[10244233]
+// Basic concepts //
+	Enzymes are
+A	proteins in nature.
+B	carbohydrates in nature.
+C	minerals in nature.
+D	lipids in nature.
+A	
+---------------------------------------------------
+
+[10244242]
+// Basic concepts //
+	Which of the following reactions is/are catabolic?
+(1)	amino acids → proteins
+(2)	glucose → water + carbon dioxide
+(3)	lipids → glycerol + fatty acids
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+Short questions
+
+[10244341]
+// Graph interpretation // High order thinking // STSE connections //
+**	An increased level in a molecule called angiotensin II in blood can cause high blood pressure. Angiotensin II is produced in our body by removing two amino acids from its inactive form angiotensin I, which is made up of 10 amino acids. The conversion is catalysed by an enzyme called angiotensin converting enzyme (ACE). Angiotensin II then binds to specific receptors on cells, turning on activities that increase blood pressure. 
+
+a	Suggest why angiotensin I is inactive while angiotensin II can turn on the activities that increase blood pressure. 						(2 marks)
+b	Doctors may prescribe a drug called enalapril for the patients having high blood pressure. The diagram below shows the effect of the drug on the activity of ACE. 
+
+With reference to the diagram above, suggest why enalapril is effective in treating high blood pressure. 								(3 marks)
+
+-- answer --
+a	Removing amino acids from angiotensin I changes the shape of the molecule. 															1m
+Angiotensin II has a shape that can fit into the specific receptor, thus it can turn on the reactions.												1m
+
+b	The presence of enalapril decreases the activity of ACE. It is probably an inhibitor of ACE. 													1m
+With the decreased activity of ACE, less angiotensin II is produced. 		1m
+This may decrease the activities that cause an increase in blood pressure.	1m	
+---------------------------------------------------
+
+[10244346]
+// Graph interpretation // Experiment // Applying concepts //
+*	In an investigation, an enzyme isolated from human liver was incubated with its substrate at different temperatures (20 °C or 30 °C). The graph below shows the changes in the amount of substrate over time.
+	
+a	Based on your understanding about enzyme reaction, describe and explain the difference in the shape of the curves at 20 °C and 30 °C.		(3 marks)
+b	How would the shape of the curve differ if the reaction was carried out at 100 °C? Sketch a curve and explain your answer.				(3 marks)
+
+-- answer --
+a	At 20 °C, the enzyme takes a longer time to complete the reaction compare to that at 30 °C.													1m
+	At a lower temperature, the kinetic energy of the enzyme and substrate is lower.															1m
+	Therefore, the molecules move more slowly and the chance of them colliding with each other is lower. As a result, the enzyme takes a longer time to complete the reaction.													1m
+
+b	
+	The enzyme denatures at 100 °C.								1m
+	The substrate can no longer fit into the active site of the enzyme to form the enzyme-substrate complex. Therefore, the amount of substrate remains unchanged.												1m	
+---------------------------------------------------
+
+[10244347]
+// Scientific investigation // Experiment // Schematic diagram //
+*	A student carried out an experiment to investigate the effect of pH on the activity of human amylase. He prepared a starch agar plate with five wells on it. He then added amylase solutions of different pH into the wells and incubated the agar plate at 37 °C for 2 hours. After incubation, the student poured iodine solution over the agar plate. The diagram below shows the results.
+	
+a	Explain why the agar plate was incubated at 37 °C.			(1 mark)
+b	Explain why brown zones are formed around some wells after iodine solution was poured over the plate.							(2 marks)
+c	Based on the results of the experiment, deduce which pH value is the most suitable for the action of human amylase. Explain your answer.	(2 marks)
+-- answer --
+a	This is to provide a suitable temperature for the enzyme to carry out its action.															1m
+b	The human amylase diffused out of the well into the agar and digested the starch around the well into maltose.									1m
+	No starch was present in these regions and therefore they were stained brown after iodine solution was poured over the plate.						1m
+c	The larger the brown zone, the higher the activity of the human amylase.	1m
+	Since the diameter of the brown zone produced by the amylase solution at pH 7 is the largest, pH 7 is most suitable for human amylase.					1m	
+---------------------------------------------------
+
+[10244354]
+// Design experiment // Drawing // Experiment // Communication //
+**	Casein is a milk protein and trypsin is a protease that digests casein. When trypsin is added to a milky-white solution of milk powder, casein is digested and the solution becomes clear.
+	You are provided with the following materials and apparatus:
+trypsin solution, milk powder solution, water bath, test tubes, test tube rack, pipettes, thermometer, stop-watch	
+a	Describe how you would perform an experiment to find out the effect of temperature on the digestion of casein by trypsin.				(5 marks)
+b	Sketch a graph to show the results you would expect to obtain for the experiment answered in a.								(2 marks)
+
+-- answer --
+a	Pipette 10 cm3 of milk powder solution into one test tube and 1 cm3 of trypsin solution into another test tube.									1m
+	Place the two test tubes in a test tube rack inside a water bath at 20 °C. 	1m
+	After 10 minutes, mix the trypsin solution with the milk powder solution. 	1m
+	Record the time taken for the mixture to become clear using a stop-watch.	1m
+	Repeat the steps above at other temperatures (e.g. 30 °C, 40 °C, 50 °C, 60 °C,
+	70 °C and 80 °C). 											1m
+	(or other reasonable answers)
+
+
+
+b	
+
+	Correct title and axes 										1m
+	Correct shape of curve 										1m	
+---------------------------------------------------
+
+[10244374]
+// Cross-topic // STSE connections // Schematic diagram //
+*	Tracy has frequent diarrhoea (watery faeces) and is diagnosed with coeliac disease. Her doctor told her that she lacked the enzyme for digesting gluten, a protein found in wheat, but she could digest proteins in meat using other proteases produced in her body. She was advised not to eat food containing gluten because gluten could damage the villi in her small intestine. Damaged villi result in poor absorption of digested food and this causes diarrhoea.
+	
+
+a	Using your knowledge of enzymes, explain why proteases produced in the body of Tracy can digest proteins in meat but not gluten in wheat.															(3 marks)
+b	How does poor absorption of digested food cause diarrhoea?	(4 marks)
+
+
+-- answer --
+a	Each enzyme has its unique active site.							1m
+	Molecules of proteins in meat and gluten in wheat are different in shape.	1m
+	Proteins in meat can fit into the active sites of the proteases but gluten cannot.															1m
+b	As less digested food is absorbed into the villi, there is more digested food present in the lumen of the small intestine.								1m
+	The water potential in the lumen becomes lower.						1m
+	This causes water to move from the epithelial cells of the villi to the lumen by osmosis. 													1m
+	The intestine cannot absorb so much water, thus watery faeces are produced. 															1m	
+---------------------------------------------------
+
+[10244395]
+// Basic concepts //
+	Complete the following paragraph with suitable words.				(5 marks)
+The sum of the chemical reactions that take place in our body is called a                  . It includes two types of metabolic reactions: 
+b                   and c                  . Our body can produce enzymes. They function as biological d                   which speed up metabolic reactions. Without enzymes, the rate of reactions at body temperature would be too low to support life. Since enzymes are e                   in their actions, many different types of enzymes are needed for various metabolic reactions.
+-- answer --
+a	metabolism											1m
+b, c	catabolism / anabolism									1m × 2
+d	catalysts												1m
+e	specific												1m	
+
+---------------------------------------------------
+
+
+[10244419]
+// STSE connections // Applying concepts //
+	Donated blood is often stored at 2-4 °C to increase the shelf life. At this temperature, it has a shelf life of 28-35 days.
+ 	
+Donated blood in a refrigerator
+
+Blood contains enzymes which catalyse the breakdown of blood components. Explain why storing donated blood at 2-4 °C can help increase the shelf life of the blood.													(3 marks)
+-- answer --
+	At low temperatures, the kinetic energy of enzyme and substrate molecules in the blood 	is low.														1m
+	The molecules move slowly and the chance for them to collide with each other is low.																	1m
+Therefore the enzyme activity / reaction rate in the blood is kept low to slow down the breakdown of blood components.			.						1m	
+---------------------------------------------------
+
+
+[10244420]
+// Cross-topic // High order thinking // STSE connections //
+**	The diagram below shows a metabolic pathway of proteins in humans. 
+	
+a	The lack of a certain enzyme in this pathway leads to the disease phenylketonuria. People with the disease have distinctive odour in their skin and their hair colour is light. Which enzyme do the people with phenylketonuria lack? Explain your answer.					(3 marks)
+	b	To reduce the damage to health, babies found to have phenylketonuria are fed on a special diet. Suggest two ways in which the diet is 'special'. 																(2 marks)
+
+-- answer --
+a	Enzyme P 													1m
+	Without enzyme P, all phenylalanine is finally converted to metabolites of phenylpyruvic acid and thus the people with phenylketonuria have distinctive odour in their skin.												1m
+	Without enzyme P, little tyrosine and hence little melanin is produced. Thus the people with phenylketonuria have light hair colour.					1m
+b	Low in proteins / phenylalanine									1m
+	With tyrosine												1m	
+---------------------------------------------------
+
+[10244424]
+// Drawing // Graph interpretation // Basic concepts //
+*	The diagram below shows the energy profile for an enzymatic reaction.
+	
+a	Is the reaction a catabolic reaction or an anabolic reaction? Explain your answer.												(2 marks)
+b	Sketch a curve on the diagram to show the changes in energy level when the enzyme is absent.										(2 marks)
+c	Describe the role of enzymes in metabolism.					(2 marks)
+-- answer --
+	a	It is an anabolic reaction  										1m
+because the energy level of the products is higher than that of the reactants, showing that energy is absorbed during the reaction.					1m
+b	
+	Curve having a higher peak than the original curve					1m
+	Energy levels of reactants and products remaining the same			1m
+c	Enzymes speed up chemical reactions inside the body 				1m
+by lowering the activation energy of the reactions.					1m	
+---------------------------------------------------
+
+[10244437]
+// Experiment // Schematic diagram // Basic concepts //
+Many animal tissues contain the enzyme catalase, which catalyses the conversion of hydrogen peroxide to oxygen and water. Mary carried out an experiment to study the action of catalase in liver tissue. The diagram below shows the set-ups of her experiment.
+	
+
+	a	Describe a method to test for the gas produced in the reaction.	(2 marks)
+b	State the expected results of the test you suggested in a for tubes A and B.																(2 marks)
+c	Explain the results in b.									(1 mark)
+-- answer --
+	a	Put a glowing splint near the mouth of the test tubes after some time. 		1m
+		Observe whether the glowing splint relights or not.					1m
+	b	The glowing splint does not relight in tube A.						1m
+		The glowing splint relights in tube B.								1m
+	c	Catalase in the liver tissue is denatured by boiling. 					1m
+		(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10244444]
+// Data handling // Experiment //
+*	David carried out an investigation to study the effect of temperature on the activity of amylase. Amylase is an enzyme that catalyses the breakdown of starch into maltose.
+David mixed starch solution and amylase solution and kept them at different temperatures. He carried out iodine test on each mixture at 2-minute intervals for an hour. He recorded the time taken for blue-black colour to disappear. The table below shows the results.
+
+Temperature (°C)	0	20	40	60	80	100		Time taken for blue-black colour to disappear (min)	blue-black colour does not disappear	16	10	4	22	blue-black colour does not disappear		
+a	Explain why the time taken for the disappearance of blue-black colour in iodine test can be used to deduce the amylase activity.			(2 marks)
+b	Explain why the blue-black colour does not disappear at the following temperatures:
+		i	0 °C												(1 mark)
+ii	100 °C											(1 mark)
+c	State one controlled variable in David's investigation. 		(1 mark)
+-- answer --
+a	Starch is the substrate of the enzymatic reaction. It turns iodine solution blue-black.												1m
+The earlier the blue-black colour disappears, the quicker the starch is broken down, indicating a higher amylase activity.							1m
+b	i	Amylase is inactive at 0 °C. The reaction rate is very low.			1m
+		ii	Amylase is denatured at 100 °C. The reaction cannot proceed.		1m
+c	pH of the mixture (or other correct answers)						1m	
+---------------------------------------------------
+
+[10244448]
+// Scientific investigation // Experiment // Schematic diagram //
+*	Biological washing powders contain proteases. Janet carried out an investigation to compare the protease activities in three brands (A, B, C) of biological washing powders. She added solutions of different washing powders into the wells of a milk agar plate as shown in the diagram below. Proteases help digest milk proteins to colourless products.
+	
+a	What should Janet measure so as to compare the protease activities in the washing powders?										(1 mark)
+b	State one controlled variable in Janet's investigation. 			(1 mark)
+c	What should Janet add into the well which served as a control? What was the purpose of setting up a control in this investigation?		(2 marks)
+d	Name another commercial product that contains proteases. Describe the function of the proteases in this product.					(2 marks)
+-- answer --
+	a	The diameter of the clear zones formed around the wells after a period of time
+															1m
+	b	Concentration of washing powder solutions (or other correct answers)	1m
+c	Distilled water											1m
+To show that the formation of clear zones was caused by substances in the washing powders.										1m
+	d	Contact lens cleaners
+		The proteases help remove the proteins deposited on the contact lens.
+		OR
+		Meat tenderizers
+The protease (papain) helps break down proteins in meat so that the meat becomes soft.											1m x 2	
+---------------------------------------------------
+[10244451]
+// Scientific investigation // Graph plotting // Data handling //
+*	In an investigation of the effect of pH on the activity of amylase, five test tubes were prepared, each containing equal volumes of starch solution and amylase solution at different pH. The test tubes were put in a water bath at 30 °C. The time taken for starch to disappear was recorded. The results are shown in the table below.
+Test tube	A	B	C	D	E	
+pH of the reaction mixture	5	6	7	8	9	
+Time taken for starch to disappear (min)	30	17	5	7	15	
+
+a	Using the data in the table, plot a graph to show the effect of pH on the activity of amylase.										(4 marks)
+b	Suggest one control set-up for this investigation to ensure the disappearance of starch is due to the action of amylase.					(2 marks)
+-- answer --
+a 						
+Test tube
+A
+B
+C
+D
+E
+
+1/ time taken for starch to disappear (min-1)
+0.03
+0.06
+0.20
+0.14
+0.07
+
+
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line								1m
+b	The control set-up should be the same as the experimental set-up 		1m
+except using boiled amylase solution instead of amylase solution.		1m	
+---------------------------------------------------
+
+[10244463]
+// Experiment // Applying concepts //
+*	Potato cells can synthesize starch from glucose-1-phosphate through an enzymatic reaction. A student carried out an experiment to demonstrate the synthesis of starch in potatoes. A starch-free potato extract and a glucose-1-phosphate solution were used to set up three test tubes (X, Y and Z). After 30 minutes, the presence or absence of starch in different test tubes was recorded. The results are shown in the table below.
+
+Test tube	Solutions	Results	
+X	Glucose-1-phosphate + potato extract	Starch present	
+Y	Glucose-1-phosphate + boiled potato extract	Starch absent	
+Z	Glucose-1-phosphate + distilled water	Starch absent	
+
+a	Suggest a test for the presence of starch.					(1 mark)
+b	What is the purpose of setting up Z?						(2 marks)
+c	Explain why the result of Y is different from that of X.			(2 marks)
+
+-- answer --
+a	Iodine test 												1m
+b	It is a control set-up 											1m
+to show the synthesis of starch is due to the action of potato extract.		1m
+c	In X, the enzyme in the potato extract catalyses the synthesis of starch from glucose-1-phosphate. Thus starch can be detected in the tube.			1m
+In Y, the enzyme in the potato extract is denatured by boiling. Thus no starch can be detected.												1m	
+---------------------------------------------------
+
+[10244464]
+// Graph interpretation // Experiment // Schematic diagram //
+*	The diagram below shows an investigation of the effect of temperature on the effectiveness of biological washing powder. Six test tubes containing equal volume of washing powder solution were incubated with egg white cubes (with sides of 1 cm) in water baths of different temperatures for 30 minutes.
+	
+The results are shown in the graph below.
+	
+a	What will you measure to indicate the effectiveness of biological washing powder?												(1 mark)
+b	With reference to the graph, describe the effect of temperature on the effectiveness of biological washing powder.					(3 marks)
+c	Suggest one method to shorten the time needed for the investigation.															(1 mark)
+-- answer --
+a 	The change in mass / weight / volume / size of the egg white cubes.		1m
+b	From 0 °C to 40 °C, the effectiveness of biological washing powder increases as temperature increases.										1m
+The effectiveness reaches a maximum at 40 °C.						1m
+At above 40 °C, the effectiveness decreases as temperature increases.	1m
+c	Increase the total surface area of the egg white cubes by cutting them into smaller pieces. / Adjust the pH of the washing powder solution to the optimum pH for the enzyme.													1m	
+---------------------------------------------------
+[10244466]
+// Drawing // Data handling // Experiment //
+**	In an investigation, an enzyme and its substrate were incubated with various concentrations of copper ions or magnesium ions. The initial amount of the substrate in each tube was the same. The time taken to break down all substrates in the tubes was recorded. The results are shown in the table below.
+Concentration of metal ions (M)	Time taken to break down all substrates (min)	
+	With copper ions	With magnesium ions	
+0	0.39	0.39	
+10-8	0.42	0.21	
+10-7	0.80	0.30	
+10-6	3.80	0.49	
+10-5	10.10	0.34	
+10-4	14.80	0.40	
+
+a	Which of the two metal ions is an inhibitor of the enzyme? Explain your answer.												(2 marks)
+b	Sketch a graph to show the changes in the concentrations of substrates in the following two tubes:
+	i	with 10-4 M copper ions added.	
+ii	with 10-4 M magnesium ions added. 					(4 marks)
+-- answer --
+a	Copper ion												1m
+It is because the rate of reaction becomes lower in the tubes with copper ions added.													1m
+b	
+Choice of axes												1m
+With labels and units											1m Correct curves												2m	
+---------------------------------------------------
+
+[10244508]
+// Cross-topic // Graph interpretation //
+*	A kind of ion is absorbed into root hair cells of plants mainly by active transport. Two pieces of root tissues of a plant were placed in two beakers of solution containing the ion. A compound called malonate, which is known to affect the enzymes involved in respiration, was added to one of the beakers. The graph below shows the rate of absorption of the ion by the two pieces of root tissues.
+
+	
+
+With reference to the graph, state how malonate affects the action of enzymes involved in respiration. 										(4 marks)
+
+-- answer --
+In the presence of malonate, the rate of absorption of the ion is much lower. 	1m
+This shows that malonate inhibits the action of enzymes involved in respiration / malonate is an inhibitor of the enzymes involved in respiration. 				1m	
+As respiration is inhibited, less energy is produced by the root tissue. 			1m
+Thus the amount of the ion absorbed by active transport decreases. 			1m	
+---------------------------------------------------
+
+[10244523]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the activity of three enzymes (X, Y and Z) at different pH.
+
+	
+
+a	Which enzyme could be the enzyme working in our mouth?		(1 mark)
+b	Over what pH range would enzymes Y and Z both work?		(1 mark)
+c	Describe the changes in the activity of enzyme X as pH increases from 1   to 5.													(3 marks)
+d	i	Enzymes are biological catalysts. Explain the meaning of 'catalyst'.													(1 mark)
+ii	Which substances are enzymes composed of?			(1 mark)
+
+-- answer --
+a	Enzyme Y													1m
+b	pH 6 to 9													1m
+c	From pH 1 to 3, the activity of enzyme X increases with pH.				1m
+It reaches a maximum at pH 3.									1m
+From pH 3 to 5, it gradually decreases to 0 as pH increases.			1m
+d	i	A catalyst speeds up a chemical reaction and remains unchanged after the reaction.												1m
+ii	Proteins												1m	
+---------------------------------------------------
+
+
+[10244524]
+// Schematic diagram // Basic concepts //
+	Most metabolic reactions in living cells are catalysed by enzymes. The diagram below shows the process of a catabolic reaction.
+	
+a	Label the structures in the diagram using the words shown below.		
+		active site		products			substrate
+													(3 marks)
+b	Describe how enzymes work.								(4 marks)
+-- answer --
+a	
+
+Correct labels											1m x 3
+b	A substrate molecule binds to the active site of an enzyme molecule	1m
+to form an enzyme-substrate complex.	 					1m
+The substrate is converted into products.						1m
+The products dissociate from the enzyme molecule. The enzyme molecule is released in its original form.								1m	
+---------------------------------------------------
+
+[10244533]
+// Basic concepts //
+	a	Define the term 'metabolism'.							(1 mark)
+b	A list of major metabolic processes in an organism is shown below.
+digestion		respiration		deamination		growth	
+repair		synthesis of hormones and enzymes
+i	List two examples of anabolic reactions.				(2 marks)
+ii	List two examples of catabolic reactions.				(2 marks)
+
+-- answer --
+a	It is the sum of the chemical reactions that take place in an organism.	1m
+b	i	Growth / repair / synthesis of hormones and enzymes (any 2)	1m x 2
+ii	Digestion / respiration / deamination (any 2)				1m x 2	
+---------------------------------------------------
+
+[10244549]
+// Graph plotting // Data handling // Calculation //
+*	Peter investigated the effect of temperature on enzyme activity. He added amylase solution to same volume of starch and timed how long it took for all the starch to break down at six different temperatures. The rate of reaction at each temperature was then calculated.
+
+The results are shown in the table below.
+Temperature (°C)	Time taken for all starch to break down (min)	Rate of reaction (min-1)	
+10	5.5	1/5.5 = 0.18	
+25	1.9	1/1.9 = 0.53	
+30	1.2		
+40	0.9	1/0.9 = 1.11	
+55	2.2		
+60	10.0	1/10.0 = 0.10	
+a	Complete the table.										(1 mark)
+b	Using the data above, plot a graph of the rate of reaction against temperature.											(4 marks)
+c	With reference to the graph, explain the effect of temperature on enzyme activity.												(2 marks)
+-- answer --
+a			
+Temperature (°C)
+Time taken for all starch to break down (min)
+Rate of reaction (min-1)
+
+10
+5.5
+1/5.5 = 0.18
+
+25
+1.9
+1/1.9 = 0.53
+
+30
+1.2
+1/1.2 = 0.83
+
+40
+0.9
+1/0.9 = 1.11
+
+55
+2.2
+1/2.2 = 0.45
+
+60
+10.0
+1/10.0 = 0.10
+
+															1m
+b	
+	
+Correct title												1m
+Choice of axes												1m
+With labels and units											1m
+Correct plotting and joining of line								1m
+c	From 10 °C to 40 °C, enzyme activity increases with temperature because the enzyme and substrate molecules have more kinetic energy. 			1m
+From 40 °C to 60 °C, enzyme activity decreases as temperature increases because more and more enzymes are denatured.					1m		
+---------------------------------------------------
+
+[10244554]
+// Experiment // Basic concepts //
+	Hydrogen peroxide is a toxic by-product of some metabolic reactions. An enzyme called catalase can catalyse the breakdown of hydrogen peroxide into harmless substances.
+					hydrogen peroxide → gas X + water
+
+a	i	What is gas X?									(1 mark)
+ii	How can we test for gas X?							(1 mark)
+b	Explain why catalase is able to catalyse this reaction but not other reactions.													(2 marks)
+
+-- answer --
+a	i	Oxygen												1m
+ii	It relights a glowing splint.									1m
+b	The active site of catalase has a specific shape.						1m
+It only binds to hydrogen peroxide which fits the shape of its active site to form an enzyme-substrate complex.									1m	
+---------------------------------------------------
+
+[10244557]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the action of an enzyme on its substrate.
+	
+	
+a	Which labelled structures in the diagram represent substrate(s), enzyme(s) and product(s) respectively?								(3 marks)
+b	Enzymes are specific in their action. What does it mean?		(1 mark)
+c	Why are enzymes specific in their action?					(2 marks)
+d	Name a hypothesis that can explain the specificity of enzyme actions.															(1 mark)
+
+
+-- answer --
+a	Substrate: X												1m
+Enzyme: Q												1m
+Products: Y and Z											1m
+b	Each enzyme catalyses one type of reaction only.					1m
+c	The active site of an enzyme has a specific shape.					1m
+It binds only to a particular type of substrate that fits into it.				1m
+d	The lock-and-key hypothesis									1m	
+---------------------------------------------------
+
+[10244575]
+// Basic concepts //
+	a	Complete the table below to show the applications of enzymes in daily life.													(5 marks)
+Enzyme	Application	Explanation	
+Amylases	Making syrup and fruit juice		
+	As ingredients of washing powders		
+	As an ingredient of meat tenderizers		
+
+b	Why would the effectiveness of an enzyme-containing washing powder reduce in hot water? Give an explanation with reference to the active site.														(2 marks)
+
+-- answer --
+a		
+Enzyme
+Application
+Explanation
+
+Amylases
+Making syrup and fruit juice
+The amylases catalyse the breakdown of starch into maltose, which is sweet.
+
+Proteases and lipases
+As ingredients of washing powders
+The proteases and lipases help break down insoluble proteins and lipids in stains into soluble products. 
+
+Proteases / papain
+As an ingredient of meat tenderizers
+The proteases / papain help(s) break down proteins in meat so that the meat becomes soft. 
+
+														1m x 5
+
+b	The enzymes in the washing powder would be denatured at high temperature.														1m
+The shapes of active sites are changed. The substrate molecules can no longer fit into the active sites. The enzymes cannot work. 					1m	
+---------------------------------------------------
+
+[10244596]
+// Schematic diagram // Basic concepts //
+	A student did the following demonstration to simulate an enzymatic reaction.
+
+	
+
+a	Was the reaction simulated a catabolic reaction or an anabolic reaction?														(1 mark)
+b	What did the pin represent? How do you know?				(2 marks)
+c	The student then used the same pin to burst another balloon. Which property of enzymes was demonstrated?							(1 mark)
+d	State two ways in which the demonstration is inaccurate in representing an enzymatic reaction.										(2 marks)
+
+-- answer --
+a	A catabolic reaction										1m
+b	Enzyme												1m
+It remained unchanged after the reaction. 						1m
+c	Enzymes are reusable.									1m
+
+d	An enzymatic reaction can also be an anabolic reaction. /
+The rate of an enzymatic reaction is affected by temperature. /
+The rate of an enzymatic reaction is affected by pH. (any 2)			1m x 2	
+---------------------------------------------------
+
+
+
+Structured questions
+
+[10244737]
+// Overseas exam question // Graph interpretation // Experiment // Calculation //
+*	Manufacturers use protease enzymes to pre-digest food for babies.
+	a	Suggest why the food is blended to a fine pulp before the enzyme is added.															(2 marks)
+b	A manufacturer carried out an experiment to find out the optimum pH for a protease enzyme.
+Equal volumes of different pH solutions were placed in separate test tubes.
+0.5 g of blended food was placed in each test tube.
+5 ml of 1% protease enzyme solution was added to each test tube.
+The time taken to digest the food was recorded for each test tube.	
+		i	Give one other factor that must be controlled in this experiment.																	(1 mark)
+		ii	Suggest how this factor should be controlled.			(1 mark)
+	c	The results of the experiment are shown in the graph.
+
+		i	What is the optimum pH for this enzyme?				(1 mark)
+ii	The experiment could be improved to find a more accurate value for the optimum pH. Suggest how.						(1 mark)
+iii	The rate at which the enzyme digested the 0.5 g of blended food at pH 2 is 0.02 g per minute. Calculate the rate of digestion at pH 1. Show your working.										(2 marks)
+		iv	Explain the results for pH 1.							(2 marks)
+						CCEA GCSE Biology Higher Tier Unit 1 2015 Q11
+-- answer --
+a	This increases the surface area									1m
+	for the enzyme to act on.										1m
+b	i	Temperature											1m
+	ii	Place the test tubes in a water bath.							1m
+c	i	pH 4													1m
+	ii	Use smaller pH intervals during the experiment.					1m
+	iii	0.5 / 40												1m
+		= 0.0125 g min−1										1m
+	iv	The enzyme may be denatured in the acidic conditions.			1m
+	The substrate can no longer fits into the active site of the enzyme. Therefore, the rate decreases.										1m	
+---------------------------------------------------
+
+[10244753]
+// Graph interpretation // High order thinking // Schematic diagram //
+**	A glycogen molecule is a highly branched polymer that consists of glucose molecules only. In a glycogen molecule, a glucose molecule can be joined with other glucose molecules at three different sites.
+	
+	The joining of glucose molecules between sites I and II and the joining of glucose molecules between sites I and III are catalysed by different enzymes. The diagram below shows the simplified structure of a glycogen molecule.
+	
+a	Explain why two different enzymes are required for the joining of glucose molecules in a glycogen molecule.							(2 marks)
+b	The graph below shows the amount of glucose molecules that has been used in the synthesis of glycogen molecule by the two enzymes in 50 minutes.
+
+	
+
+i	Briefly describe the rate of addition of glucose molecules during the 50-minute period.									(3 marks)
+ii	Explain how the formation of branches increases the rate of addition of glucose molecules to the glycogen molecule.				(2 marks)
+-- answer --
+a	The glucose molecules arrange themselves in different orientations in these two types of joining.												1m
+	Since the active site of an enzyme has specific shape. Therefore, two different enzymes are required for the formation of these two types of joining.		1m
+b	i	In the first 20 minutes, the rate of addition of glucose molecules was low.															1m
+	Between 20 to 40 minutes, the rate of addition of glucose molecules increased rapidly.										1m
+		After 40 minutes, the rate of addition of glucose molecules decreased.																1m
+ii	The joining of glucose molecules between sites I and III creates new sites for the enzyme that catalyses the joining of glucose molecules between sites I and II.												1m
+	As the number of sites increases, the number of glucose molecules that can be added to the glycogen molecule at the same time increases. Hence, the rate of addition of glucose molecules to the glycogen molecule increases.														1m	
+---------------------------------------------------
+
+[10244756]
+// Drawing // Graph interpretation // Experiment // STSE connections //
+**	The cells of many fruits and vegetables such as apples contain the enzyme catechol oxidase and its substrate catechol. Catechol oxidase and catechol are present in the cytoplasm and the vacuole respectively. They are involved in the following reaction which is responsible for the browning in fruits and vegetables.
+	
+a	Explain why an apple would have a bruise if it is dropped onto the ground.														(3 marks)
+b	Explain why the following treatment can prevent browning in fruits and vegetables.
+	i	Mix cut fruits with an antioxidant such as ascorbic acid.	(1 mark)
+	ii	Immerse cut vegetables in boiling water for one minute.	(1 mark)
+In an investigation, 1 cm3 of catechol oxidase solution was added to 5 cm3 of catechol solution in a boiling tube and the mixture was kept in a water bath at  30 °C. A sample of the mixture was removed every two minutes and its colour intensity was measured. The graph below shows the results.
+
+c	Describe and explain the changes in colour intensity of the mixture shown in the graph.											(3 marks)
+d	Draw labelled curves on the graph to show the results you would expect to obtain if the investigation was repeated
+	i	at 20 °C instead of 30 °C.							(1 mark)
+	ii	using 2 cm3 of 1 cm3 of catechol oxidase solution.		(1 mark)
+
+-- answer --
+a	The vacuole membrane is broken when the apple is dropped.			1m
+	Catechol oxidase and catechol come into contact, 					1m
+	leading to the production of benzoquinone and then melanin. Melanin makes the apple bruised. 												1m
+b	i	No oxygen is available for converting benzoquinone into melanin.	1m
+	ii	Catechol oxidase is denatured at high temperatures.				1m
+c	Initially, a large amount of catechol is available. It collides with catechol oxidase more frequently and this increases the chance of forming enzyme-substrate complexes. Thus melanin is produced at a higher rate and the colour intensity increases quickly.											1m
+	As time goes by, catechol is being used and less catechol is available. It collides with catechol oxidase less frequently and the chance of forming enzyme-substrate complexes decreases. Thus melanin is produced at a slower rate and the colour intensity increases more slowly.									1m
+	Finally, catechol is used up in the reaction. No more melanin is formed and the colour intensity remains unchanged.								1m
+d	i	Compared with the graph provided in the question, the increase in colour
+		intensity is more slowly but finally reaches the same colour intensity.	1m
+	ii	Compared with the graph provided in the question, the increase in colour
+		intensity is more quickly but finally reaches the same colour intensity.	1m	
+--------------------------------------------------
+
+
+[10244760]
+// Data handling // Experiment // Schematic diagram //
+*	Many plant and animal tissues contain an enzyme called catalase which catalyses the breakdown of hydrogen peroxide into oxygen and water.
+	
+	A student used the following set-up to investigate the activity of catalase in apple and liver tissues. He added 1 g of apple or liver tissues into 2 cm3 of hydrogen peroxide at room temperature and measured the volume of oxygen released in 5 and 10 minutes.
+ 	
+	The tissues he used were treated differently. Some of them were raw and the others were boiled. Some were left in a whole piece and the others were chopped. The table below lists the results.
+Treatment of tissue	Volume of oxygen released      in 5 minutes (cm3)	Volume of oxygen released      in 10 minutes (cm3)	
+	Apple	Liver	Apple	Liver	
+	5	7.5	7	10	
+	7	10	9.5	13.5	
+	0	0	0	0	
+	0	0	0	0	
+a	Which raw tissue, apple or liver, has a higher catalase activity? Support your answer with evidence from the results.						(2 marks)
+b	Describe and explain the effect of boiling the apple and liver tissues on the catalase activity.										(3 marks)
+c	How does chopping the raw tissues affect the rate of oxygen release? Suggest a reason.										(4 marks)
+d	Why is the catalase activity in the raw tissues not constant during the investigation?											(2 marks)
+-- answer --
+a	Liver tissue has a higher catalase activity.							1m
+The volume of oxygen released in 5 / 10 minutes in raw liver tissue is larger than that released in raw apple tissue having the same treatment.			1m
+b	No catalase activity is detected in boiled apple and liver tissues.			1m
+	Catalase in the tissues is denatured at the boiling temperature.			1m
+Hydrogen peroxide cannot fit into the active site of catalase to form an enzyme-substrate complex										1m
+c	The rate of oxygen release increases.								1m
+In chopped tissues, the total surface area of the tissues increases		1m
+and more catalase can come into contact with hydrogen peroxide.		1m
+This increases the chance of forming enzyme-substrate complexes.		1m
+d	Hydrogen peroxide in the test tube starts to use up. 					1m
+	This limits the catalase activity.									1m	
+---------------------------------------------------
+
+
+[10244762]
+// Overseas exam question // Graph plotting // Experiment //
+*	Powdered milk contains a protein called casein, which forms a milky-white suspension when mixed with water. When a protease enzyme is added to the mixture it digests the casein and the mixture will become clear.
+An experiment was carried out to investigate the effect of temperature on the protease enzyme.
+Two test tubes, one containing 10 cm3 of milk suspension and one containing 10 cm3 of protease enzyme solution were placed in a water bath at 20 °C.
+After 10 minutes, the contents were mixed and the time taken for the mixture to clear was recorded.
+The experiment was repeated at a series of temperatures up to 80 °C. The rate of reaction (min-1) was then calculated.
+The results are shown in the table below.
+
+Temperature (°C)	Rate of reaction (min-1)	
+20	0.95	
+30	2.00	
+40	4.00	
+50	7.50	
+60	8.00	
+70	6.00	
+80	1.00	
+
+a	Using the most appropriate graphical technique, plot the above data on a graph paper.											(4 marks)
+b	i	Using the graph, estimate the optimum temperature for this enzyme. 													(1 mark)
+ii	Describe how the experiment could be extended to obtain a more precise value for the optimum temperature.				(1 mark)
+c	Explain why the enzyme and casein suspension were incubated separately before mixing.											(1 mark)
+						CCEA GCE (AS) Biology Module 1 Jan 2013 Q6
+
+
+
+
+-- answer --
+a	Correct title												1m
+Choice of axes 												1m
+With labels and units											1m
+Correct plotting and joining of line								1m
+b	i	A value between 50 °C and 60 °C							1m
+ii	Carry out the experiment at smaller intervals between 50 °C and 60 °C.														1m
+c	To allow the enzyme and the substrate to reach the temperature before being mixed.													1m	
+---------------------------------------------------
+
+[10244786]
+// Overseas exam question // Graph interpretation // Experiment //
+*	a	Enzymes are biological catalysts.
+Explain the term biological catalyst.						(2 marks)
+b	When the enzyme catalase is added to hydrogen peroxide, the following reaction occurs:
+	
+In an investigation into the effect of temperature on the rate of this reaction, a student set up apparatus as shown in the diagram below, using liquidized celery as a source of catalase.
+	
+The student measured the volume of oxygen produced at five different temperatures using samples of the liquidized celery.
+i	State the other variable that needs to be measured in order to calculate the rate of reaction.									(1 mark)
+ii	Identify one potential problem with using samples of liquidized celery as a source of catalase in this investigation and suggest a way to minimize this problem.								(2 marks)
+iii	The student collected the data shown in the table below.
+Temperature (°C)	Volume of oxygen (cm3)	
+5	4	
+10	7	
+12	10	
+25	28	
+28	32	
+Suggest how the student could check the reliability of the data. 														(2 marks)
+c	Another student carried out a similar procedure and presented his results in the graph below.
+
+	
+
+Describe the data shown in the graph above.					(4 marks)
+  OCR GCE (AS) Molecules, Biodiversity, Food and Health Jun 2011 Q2a, b, c i
+
+-- answer --
+a 	Enzymes are proteins / used in metabolism.					1m
+They increase the rate of reactions by lowering the activation energy / remain unchanged after reactions / are not used up.					1m
+
+
+b	i	Time												1m
+ii	Different samples may have different concentrations of catalase.	1m
+Use the samples from a single source for the whole experiment. / 
+Use samples with known concentration of catalase. /
+Use commercial source of catalase instead.				1m
+iii	Repeat the experiment for a few times. 					1m
+Identify anomalous results.								1m
+c	The rate increases initially. 								1m
+The rate is the highest at 40 °C and then decreases.				1m
+The rate decreases more rapidly than it increases. 				1m
+The rate decreases to 0 at 60 °C.							1m	
+---------------------------------------------------
+
+[10244790]
+// Overseas exam question // Scientific investigation // Graph plotting // Experiment //
+**	This question is about the digestion of jelly by protein-digesting enzymes.
+a	Jelly contains the protein gelatine, which is broken down to amino acids by protein-digesting enzymes. State the type of reaction which takes place during digestion.										(1 mark)
+b	The procedure used for an investigation of the effect of pH on the activity of two protein-digesting enzymes is outlined below.
+1	Five buffer solutions were prepared at pH 4, 6.4, 7.4, 8 and 9.
+2	10 strips of jelly were cut from a jelly block. Each strip was approximately 1 to 2 mm in thickness.
+3	Each strip was trimmed to a rectangle of 10 by 20 mm and the surplus jelly discarded. Trimmed strips were placed in separate Petri dishes.
+4	10 cm3 of each of the five buffer solutions was added to two of the Petri dishes, so that two Petri dishes had pH 4, two had pH 6.4, etc. The Petri dishes were divided into two sets, each set having one dish at each pH.
+5	10 cm3 of enzyme P was added to one set of the Petri dishes and    10 cm3 of enzyme Q was added to the second set of Petri dishes.
+6	All Petri dishes were left at room temperature for 90 minutes.
+
+7	The area of the jelly remaining was measured and the results are shown in the table below. 
+	Area of jelly remaining (mm2)	
+pH	Enzyme P	Enzyme Q	
+4	0	200	
+6.4	100	190	
+7.4	171	98	
+8	190	48	
+9	200	0	
+
+i	Plot the above results on a graph paper, using an appropriate graphical technique.										(5 marks)
+ii	Describe the trends evident in the graph.				(3 marks)
+c	There are several potential problems with the design of this experiment. Suggest four possible problems in the procedure used.			(4 marks)
+					  CCEA GCE (AS) Biology Module 1 Jan 2011 Q7a, b, d
+
+-- answer --
+a	Hydrolysis												1m
+b	i	Correct title										1m
+Choice of axes 										1m
+With labels and units									1m
+Correct plotting 									1m
+Correct joining of line									1m
+ii	For enzyme P, the area of jelly remaining increases as pH increases. / Enzyme P is more effective in acidic conditions. /
+For enzyme Q, the area of jelly remaining decreases as pH increases. / Enzyme Q is more effective in alkaline conditions. / 
+The more jelly remaining, the less digestion has taken place / the lower the activity of the enzyme. / 
+Enzymes P and Q have different optimum pH. / 
+Enzymes P and Q have the same activity / amount of jelly remaining at approximately pH 7. (any 3)							1m x 3
+
+
+
+
+
+c	The strips of jelly were not of uniform thickness. / 
+There was no control experiment to check that the jelly did not dissolve in water or in the different buffer solutions. / 
+Temperature was not controlled. / 
+The range of the pH buffers was not sufficient. / 
+A shorter time period should be used as some strips of jelly were digested at 90 minutes. / 
+More strips of jelly should be included in each Petri dish. / 
+The enzyme should be mixed with the buffer before adding to the jelly. / 
+The mass of the remaining strips of jelly should be measured instead of the area. (any 4)												1m x 4	
+---------------------------------------------------
+
+[10244811]
+// Graph interpretation // Data handling // Experiment //
+*	Catalase catalyses the reaction below.
+	
+
+An experiment was conducted to find out the rate of the above reaction in pig liver. Four test tubes were set up. The rate of reaction was determined by measuring the volume of gases released in 10 minutes. The results are shown in the table below.
+
+Tube	Substance added	Volume of oxygen released (cm3)	
+P	A piece of fresh pig liver	50	
+Q	Ground fresh pig liver	80	
+R	Sand	0	
+S	A piece of pig liver (boiled and then cooled) 	0	
+a	i	Explain the results of tubes P and Q.					(2 marks)
+ii	Explain the results of tubes P and S.					(3 marks)
+b	What is the purpose of tube R?							(1 mark)
+
+c	The graph below shows the energy profiles for the breakdown of hydrogen peroxide.
+	
+Explain, with reference to the energy profiles, why
+i	hydrogen peroxide breaks down at a higher rate when catalase is present.											(1 mark)
+ii	tubes P and Q become hot during the experiment.			(2 marks)
+
+-- answer --
+a	i	Ground liver has a larger surface area for the reaction.			1m
+Grinding causes some liver cells to break. Some catalase is released to catalyse the reaction.										1m
+ii	Catalase is denatured after boiling. 							1m
+High temperature causes conformational change in the active sites of catalase.												1m
+The substrate molecules can no longer bind to catalase.			1m
+b	Tube R is a control set-up to show that any oxygen released is due to the presence of the pig liver.												1m
+c	i	Catalase lowers the activation energy of the reaction.				1m
+ii	The energy level of oxygen and water is lower than the energy level of hydrogen peroxide.										1m
+Energy is released as heat during the reaction.					1m	
+---------------------------------------------------
+
+
+[10244820]
+// High order thinking // STSE connections // Schematic diagram //
+**	The diagram below shows how the presence of glucose in urine is detected using a test paper.
+	
+Two enzymes are present on the test end of the test paper: glucose oxidase and peroxidase. The reactions catalysed by these enzymes are shown below:
+		
+a	i	Explain why only glucose, but not other sugars, is detected using this test paper.										(2 marks)
+ii	Explain why peroxidase is added to the test end of the test paper.														(2 marks)
+b	Suggest two advantages of using the test paper containing enzymes to test for glucose, rather than test it by adding the enzymes into a urine sample.														(2 marks)
+c	State two other applications of enzymes.					(2 marks)
+
+-- answer --
+a	i	The active site of glucose oxidase has a specific shape.		1m
+It only binds to glucose.								1m
+ii	Peroxidase catalyses the conversion of the blue dye to a brown dye. 														1m
+The colour change indicates the occurrence of reactions.		1m
+
+b	No laboratory equipment is needed.							1m
+The test paper is portable.									1m
+(or other reasonable answers)
+c	Biological washing powders / production of stonewashed jeans / contact lens cleaners / meat tenderizers / cheese making / making of fruit juices 
+(any 2 or other correct answers)								1m x 2	
+-------------------------------------------------
+
+[10244822]
+// Scientific investigation // Graph interpretation // Experiment //
+*	A student carried out an investigation to study the effect of temperature on amylase activity. He prepared 5 test tubes, each contained 5 cm3 of starch solution and 1 cm3 of amylase solution. He put the tubes in water baths of different temperatures (0 °C, 20 °C, 40 °C, 60 °C and 80 °C). He recorded the time needed for the starch in the test tubes to disappear. The results are shown in the graph below.
+
+	
+
+a	Suggest a method to test for the presence of starch in the test tube.															(1 mark)
+b	Describe and explain the results at the following temperatures:	
+i	below 60 °C										(3 marks)
+ii	above 60 °C 										(2 marks)
+c	State two variables that should be kept constant in the above investigation.	 													(2 marks)
+d	If concentrated acid is added to the test tubes, starch will not disappear. Why?												(2 marks)
+
+-- answer --
+a	Iodine test												1m
+b	i	At temperatures below 60 °C, the amylase activity increases with temperature and reaches a maximum at about 60 °C.			1m
+At low temperatures, amylase is inactive and the reaction rate is low.														1m
+As the temperature rises, the enzyme and substrate molecules have more kinetic energy. They move around more rapidly and collide with each other more frequently. This increases the chance of forming enzyme-substrate complexes. 										1m
+ii	At temperatures above 60 °C, the amylase activity decreases with temperature. 										1m
+High temperatures cause conformational changes in the active sites of the enzyme molecules. The substrate molecules can no longer fit into the active sites of the enzymes.									1m
+c	Concentration of amylase solution / 	
+Concentration of starch solution / 
+pH of the reaction mixtures (any 2) 							1m x 2
+d	Amylase will be denatured at very low pH.						1m
+Reaction rate becomes very low, so starch remains in the solution.	1m	
+---------------------------------------------------
+
+
+[10244826]
+// Data handling // Experiment // Applying concepts //
+*	Cellulase is an enzyme produced by some microorganisms living in the soil. It catalyses the breakdown of cellulose into simple sugar, which can be used by the microorganisms. Cellulose is present in plant cell walls. 
+
+In an investigation, three different liquids were added to 10 cm3 of cellulose paste and left for 12 hours. The time taken for 5 cm3 of each mixture to run through a syringe was recorded. The results are shown in the table below.
+
+Sample	Liquid added to cellulose paste	Time taken for 5 cm3 of mixture to run through the syringe (s)	
+X	1 cm3 of cellulase solution	130	
+Y	1 cm3 of water	380	
+Z	1 cm3 of soil water	200	
+
+	
+
+a	i	With reference to the results of samples X and Y, describe and explain the effect of cellulase on the thickness of cellulose paste.	(2 marks)
+ii	Describe and explain the results of sample Z.			(3 marks)
+b	i	The mixtures were left in optimum conditions for cellulase. Explain what optimum conditions are.							(2 marks)
+ii	The action of cellulase is specific. Explain what is meant by the term 'specific'.										(1 mark)
+
+
+-- answer --
+a	i	Cellulase reduces the thickness of cellulose paste.				1m
+In the presence of cellulase, the time taken for the mixture to run through the syringe is reduced.										1m
+ii	The time taken for sample Z to run through the syringe is less than that for sample Y.												1m
+Soil water in sample Z contains cellulase.						1m
+But the time taken for sample Z to run through the syringe is more than that for sample X.											1m
+The concentration of cellulase in soil water is lower than that in sample X.														1m
+b	i	They are the pH and temperature at which the activity of enzyme is the highest.												1m
+ii	Cellulase only acts on one substrate, cellulose. /
+Cellulase catalyses one type of reaction only.					1m	
+---------------------------------------------------
+
+[10244835]
+// Graph plotting // Applying concepts //
+*	The table below shows the activity of a protease found in the human stomach at different pH.
+
+pH	Activity of protease (% of maximum)	
+1.0	50	
+1.5	80	
+2.0	98	
+2.5	80	
+3.0	25	
+3.5	8	
+4.0	5	
+4.5	2	
+5.0	0	
+6.0	0	
+7.0	0	
+
+a	Using the data in the table, plot a graph to show the effect of pH on protease activity.												(4 marks)
+b	State the optimum pH for this enzyme based on the table above.	(1 mark)
+c	People suffering from excessive stomach acid may find antacid tablets useful in relieving the discomfort. Antacid tablets work by decreasing the acidity in stomach. How will the digestion of proteins be affected by the antacid tablets taken?									(2 marks)
+d	Besides pH, give two factors that affect enzyme activity.		(2 marks)
+
+-- answer --
+a	
+
+Correct title											1m
+Choice of axes 											1m 
+With labels and units										1m 
+Correct plotting and joining of line							1m
+b	pH 2													1m
+c	It will slow down the digestion of proteins						1m
+because the pH in stomach exceeds the optimum pH of the protease.	1m
+d	Temperature / presence of inhibitor / substrate concentration / enzyme concentration (any 2)										1m x 2	
+---------------------------------------------------
+
+[10244843]
+// Graph plotting // Experiment // Communication //
+*	David carried out an experiment to study the effect of temperature on enzyme activity. He made 7 egg white strips with length of 6 cm and put each of them into a Petri dish containing water, a digestive enzyme and hydrochloric acid. The Petri dishes were then incubated at 0 °C, 10 °C, 20 °C, 30 °C, 40 °C, 50 °C and 60 °C respectively for 4 hours. The table below shows the length of the egg white strips after incubation.
+Temperature (°C)	Length of egg white strips (cm)	
+0	6	
+10	5	
+20	4	
+30	3	
+40	2	
+50	4	
+60	6	
+a	Using the above data, plot a graph to show the relationship between reduction in length of egg white strips and temperature.		(4 marks)
+b	Describe and explain the graph drawn.						(5 marks)
+c	What is the use of hydrochloric acid in the experiment?		(1 mark)
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes 												1m
+With labels and units											1m Correct plotting and joining of line								1m
+b	From 0 °C to 40 °C, the reduction in length of egg white strips increases with temperature. 												1m
+At 40 °C, the reduction in length of egg white strips reaches a maximum.	1m
+From 40 °C to 60 °C, the reduction in length of egg white strip decreases with temperature.												1m
+As temperature increases from 0 °C to 40 °C, the digestive enzyme becomes more and more active.											1m
+At temperatures above 40 °C, the digestive enzyme becomes denatured.	1m
+c	To provide an optimum pH for the digestive enzyme.					1m	
+---------------------------------------------------
+
+[10244850]
+// Experiment // Communication // Schematic diagram //
+*	To investigate the effect of pH on amylase activity, six wells were made on a starch-agar plate and different solution was added to each well as follows:
+(1)	fresh amylase solution
+(2)	fresh amylase solution + dilute hydrochloric acid solution
+(3)	fresh amylase solution + dilute sodium hydroxide solution
+(4)	boiled amylase solution
+(5)	dilute hydrochloric acid solution
+(6)	dilute sodium hydroxide solution
+		
+The plate was incubated at 35 °C for 2 hours. The plate was flooded with iodine solution and then rinsed with water. The appearance of the plate after rinsing is shown below.
+	
+
+Describe and explain the results.								(8 marks)
+-- answer --
+Clear zones were formed around wells (1) and (3). This indicates that no starch was present in the area around these wells after incubation.					1m
+The clear zone around well (3) was larger. 								1m
+Amylase in the fresh amylase solution diffused to the agar and catalysed the breakdown of starch in the agar. 												1m
+Amylase activity was higher at a higher pH in well (3). 					1m
+No clear zone was formed around wells (2), (4), (5) and (6). This indicates that starch was present in the area around these wells. 							1m
+The amylase in the mixture in well (2) was denatured by low pH. 			1m
+The amylase in the mixture in well (4) was denatured by high temperature during boiling. 															1m
+The dilute hydrochloric acid solution and sodium hydroxide solution alone in wells (5) and (6) did not cause the breakdown of starch.							1m	
+---------------------------------------------------
+
+[10244851]
+// Applying concepts //
+*	a	For each of the following statements, state whether it is correct or not. Give a reason if you think it is not correct.
+i	Enzymes are killed at high temperatures.
+ii	The optimum temperature for all enzymes is 37 °C, which is the normal human body temperature.
+iii	Enzymes are denatured at low temperatures.
+iv	The rates of enzymatic reactions decrease with time as enzyme molecules are used up during the reactions.				(4 marks)
+b	Explain why enzyme actions are specific.					(2 marks)
+c	How do you think our lives would change if all our enzymes worked at half of their normal rates?									(2 marks)
+-- answer --
+a	i	Not correct. Enzymes cannot be killed. They are denatured at high temperatures. 											1m
+ii	Not correct. Enzymes in different organisms have different optimum temperatures. 											1m
+iii	Not correct. Enzymes are inactive at low temperatures.			1m
+iv	Not correct. Enzymes remain unchanged after reactions and can be reused. The rates of enzymatic reactions decrease because fewer substrate molecules are available for the reactions as time goes by.			1m
+b	The active site of each enzyme has a specific shape. 					1m
+Enzymes only bind to substrates that fit into their active sites.			1m
+c	All metabolic reactions in our body would slow down.					1m
+And so all our daily activities, like movement, growth and thinking would slow down as well. We would not be as active as we are now.					1m	
+---------------------------------------------------
+
+[10244858]
+// STSE connections // Applying concepts //
+*	A student read the ingredients list on the packet of a brand of washing powder:
+Sodium carbonate			15%
+Soap					50%
+Proteases					5%
+Antifoam agent			9%
+Brightening compounds		12%
+Oxidizing agents			9%	
+
+He told his mother that this was a biological washing powder. 
+a	Do you agree with the student? Explain your answer.			(1 mark)
+b	The washing powder contains only a low concentration of enzymes. Explain why.													(1 mark)
+c	Which type of stains does this washing powder remove better when compared with a non-biological washing powder?			(1 mark)
+d	The instructions on the packet suggests 'Wash at 40 °C'. What will happen if it is used at 70 °C? Explain why.							(1 mark)
+e	Suggest two other applications of enzymes in industrial processes. 															(2 marks)
+f	Give two advantages of using enzymes in the production of commercial products. 											(2 marks)
+-- answer --
+a	Agree. Enzymes (proteases) are added to this washing powder to remove stains.														1m
+b	Enzymes are reusable. They are needed in small amount only. 		1m
+c	The stains that contain proteins.								1m
+d	The effectiveness of the washing powder will be lowered because the proteases are denatured. 											1m
+
+
+e	Production of stonewashed jeans / contact lens cleaners / meat tenderizers / cheese making / making of fruit juices 
+(any 2 or other correct answers)								1m x 2
+f	The production time is shortened. / 
+Using enzymes allows mass production of products. / 
+The production of unwanted products is reduced. /
+The cost of production may be lowered. /
+Extreme conditions are not required. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10244888]
+// Schematic diagram // Basic concepts //
+	The diagram below illustrates the lock-and-key hypothesis about enzyme actions.
+
+	
+
+a	Which labelled structures in the diagram represent substrate(s), product(s) and enzyme(s) respectively?								(3 marks)
+b	Is the above reaction a catabolic reaction or an anabolic reaction?															(1 mark)
+c	How does the hypothesis explain the specificity of enzyme actions?															(2 marks)
+d	State and explain how temperature affects the actions of enzymes.															(4 marks)
+
+
+
+
+
+
+
+-- answer --
+a	Substrates: P and Q											1m
+Product: S													1m
+Enzyme: R												1m
+b	Anabolic reaction											1m
+c	An enzyme binds only to a particular type of substrate, 				1m
+just like a key fits only a particular lock.							1m
+d	At low temperatures, the enzymes are inactive.						1m
+As the temperature rises, both enzyme and substrate molecules have more kinetic energy. They collide with each other more frequently.					1m
+At the optimum temperatures of the enzymes, the enzyme activities reach a maximum. 												1m
+At high temperatures, conformational changes in the active sites of enzyme molecules occur. Enzymes are denatured and their activities decrease.	1m	
+---------------------------------------------------
+
+[10244892]
+// Scientific investigation // Experiment // Basic concepts //
+	The breakdown of hydrogen peroxide into water and oxygen can be catalysed by an enzyme found in various tissues. In an experiment, samples of liver tissues or blood, either fresh or boiled, are added to test tubes containing hydrogen peroxide solution. A chemical, manganese dioxide, is added to a test tube of hydrogen peroxide solution. 
+Test Tube	Content	Results	
+P	Hydrogen peroxide solution 	No oxygen evolved	
+Q	Hydrogen peroxide solution + manganese dioxide	Oxygen evolved	
+R	Hydrogen peroxide solution + fresh liver tissue	Oxygen evolved	
+S	Hydrogen peroxide solution + boiled liver tissue	No oxygen evolved	
+T	Hydrogen peroxide solution + fresh blood	Oxygen evolved	
+U	Hydrogen peroxide solution + boiled blood	No oxygen evolved	
+
+
+a	How can we test for oxygen in the gas evolved?				(2 marks)
+b	What is the purpose of setting up test tube P?				(1 mark)
+c	Explain the results of test tube Q.							(1 mark)
+d	Explain the results of test tubes R and T.					(1 mark)
+e	Explain the results of test tubes S and U.					(2 marks)
+f	State two controlled variables of this experiment.				(2 marks)
+
+-- answer --
+a	Test the gas with a glowing splint.							1m
+If the glowing splint relights, the gas evolved contains oxygen.		1m
+b	It is a control set-up to show that no oxygen is evolved from hydrogen peroxide solution alone.											1m
+c	Manganese dioxide catalyses the breakdown of hydrogen peroxide.	1m
+d	Both fresh liver tissue and blood contain the enzyme that catalyses the breakdown of hydrogen peroxide.									1m
+e	Enzymes are proteins.									1m
+They are denatured after boiling and their catalytic property is lost.	1m
+f	Temperature of the reaction mixtures / pH of the reaction mixtures / volume of hydrogen peroxide (any 2 or other correct answers)				1m x 2	
+---------------------------------------------------
+
+
+
+Essay
+
+[10245062]
+// Cross-topic // Communication // Basic concepts //
+*	Describe the actions of enzymes. Name two enzymes in our body and describe their roles. 												(10 marks)
+-- answer --
+Actions of enzymes: 
+Enzymes are biological catalysts. /
+There is an active site of a specific shape on each enzyme molecule. /
+An enzyme molecule binds to substrate molecules that fit the shape of its active site. /
+The formation of the enzyme-substrate complex greatly lowers the activation energy of the reaction. /
+The substrate(s) are converted into product(s), which dissociate from the enzyme molecule. 	/
+The enzyme molecule is released in its original form. (any 5)			1m x 5
+Examples:
+Salivary amylase in saliva / pancreatic amylase in pancreatic juice catalyses the breakdown of starch into maltose. /
+Carbohydrases on the cell membranes of the epithelial cells in the small intestine catalyse the breakdown of disaccharides into monosaccharides. / 
+Pepsin in gastric juice catalyses the breakdown of proteins into peptides. / Proteases in pancreatic juice / on the cell membranes of the epithelial cells in the small intestine catalyse the breakdown of proteins into peptides / peptides into amino acids. /
+Pancreatic lipase in the pancreatic juice catalyses the breakdown of lipids into fatty acids and glycerol. /
+DNA polymerase catalyses the addition of free nucleotides to a new DNA strand during DNA replication. (any 2 or other correct answers) 					1m x 2
+Communication												3m	
+---------------------------------------------------
+
+

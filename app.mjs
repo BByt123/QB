@@ -1,6 +1,8 @@
 import {TYPES,escapeHtml as e,filterQuestions,sampleQuestions,scoreQuiz,validateBackup,restoreQuiz} from './lib.mjs';
-import {renderQuestion} from './rendering.mjs';
+import {renderQuestion,sourcePage,sourcePageCount} from './rendering.mjs';
 import {exportPaper,downloadBlob,chooseSaveLocation} from './exports.mjs';
+import {CHAPTERS,canonicalTopic,topicLabel,topicOrder} from './taxonomy.mjs';
+import {language,theme,setLanguage,applyTheme,localize,translate} from './preferences.mjs';
 
 const $=selector=>document.querySelector(selector);
 const icon=name=>`<i data-lucide="${name}" aria-hidden="true"></i>`;
@@ -11,29 +13,32 @@ let bank,questionsById,sourcesById;
 let personal={version:1,bookmarks:[],collections:[],overrides:{},history:[]};
 let selected=new Set();
 let filters={search:'',topic:'',type:'',publisher:'',sort:'topic'};
-let page=1,view='library',collectionId='',activeQuestion=null,quiz=null,exporting=false;
+let page=1,view='home',collectionId='',activeQuestion=null,quiz=null,exporting=false,libraryMode='questions';
+let documentState=null,documentToken=0;
+let sourceFilters={search:'',topic:'',publisher:''};
 let toastTimer,searchTimer;
 let paperTitle='Biology practice paper',paperAnswers=false;
 let askSaveLocation=false;
 try{paperTitle=sessionStorage.getItem('biology-paper-title') || paperTitle;}catch{}
 try{askSaveLocation=typeof window.showSaveFilePicker==='function' && localStorage.getItem('biology-ask-save-location')==='true';}catch{}
-const effective=q=>({...q,...Object.fromEntries(Object.entries(personal.overrides[q.id] || {}).filter(([,v])=>v))});
-const icons=()=>window.lucide?.createIcons();
+const effective=q=>{const result={...q,...Object.fromEntries(Object.entries(personal.overrides[q.id] || {}).filter(([,v])=>v))};result.topic=canonicalTopic(result.topic);return result;};
+const icons=()=>{window.lucide?.createIcons();localize();};
 function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').classList.remove('visible'),4500);}
 function save(){try{localStorage.setItem(STORAGE,JSON.stringify({...personal,selected:[...selected]}));}catch{toast('Browser storage is full or unavailable. Export a backup to keep your changes.');}}
 function saveQuiz(){try{if(quiz)localStorage.setItem(QUIZ_STORAGE,JSON.stringify(quiz));else localStorage.removeItem(QUIZ_STORAGE);}catch{toast('Quiz progress could not be saved in this browser.');}}
 function getFiltered(){
  const collection=personal.collections.find(c=>c.id===collectionId);
- const items=filterQuestions(bank.questions,{...filters,savedOnly:view==='saved',bookmarks:personal.bookmarks,collectionIds:view==='collection'?(collection?.ids || []):null,overrides:personal.overrides});
+ const items=filterQuestions(bank.questions,{...filters,topic:'',savedOnly:view==='saved',bookmarks:personal.bookmarks,collectionIds:view==='collection'?(collection?.ids || []):null,overrides:personal.overrides}).filter(q=>!filters.topic || effective(q).topic===filters.topic);
  const order={MC:0,SQ:1,LQ:2,Essay:3};
  return items.sort((a,b)=>{
   const qa=effective(a),qb=effective(b);
   if(filters.sort==='type')return (order[qa.type]-order[qb.type]) || qa.topic.localeCompare(qb.topic) || a.code.localeCompare(b.code);
   if(filters.sort==='source')return a.publisher.localeCompare(b.publisher) || a.code.localeCompare(b.code);
-  return qa.topic.localeCompare(qb.topic) || (order[qa.type]-order[qb.type]) || a.code.localeCompare(b.code);
+  return topicOrder(qa.topic)-topicOrder(qb.topic) || qa.topic.localeCompare(qb.topic) || (order[qa.type]-order[qb.type]) || a.code.localeCompare(b.code);
  });
 }
-function topics(){return [...new Set([...bank.topics,...Object.values(personal.overrides).map(o=>o.topic).filter(Boolean)])].sort();}
+function topics(){return CHAPTERS.map(chapter=>chapter.topic);}
+function topicOptions(selectedTopic=''){return `<option value="">All chapters</option>${topics().map(t=>`<option value="${e(t)}" ${selectedTopic===t?'selected':''}>${e(topicLabel(t,language))}</option>`).join('')}`;}
 function syncNavigation(){
  const mobile=window.matchMedia('(max-width:760px)').matches,open=document.body.classList.contains('nav-open');
  const sidebar=$('.sidebar');if(sidebar)sidebar.inert=mobile && !open;
@@ -43,40 +48,66 @@ function closeNavigation(){document.body.classList.remove('nav-open');syncNaviga
 function navButton(id,label,name,count,extra=''){return `<button class="nav-item ${view===id?'active':''}" data-action="navigate" data-view="${id}" ${view===id?'aria-current="page"':''} ${extra}>${icon(name)}<span>${label}</span>${count!==undefined?`<span class="nav-count">${count.toLocaleString()}</span>`:''}</button>`;}
 function shell(){
  $('#app').innerHTML=`<div class="sidebar-backdrop" data-action="close-nav"></div><aside class="sidebar" aria-label="Main navigation">
-  <a class="brand" href="#library"><span class="brand-symbol">${icon('sprout')}</span><span>Biology Bank<small>DSE STUDY LIBRARY</small></span></a>
-  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology <span class="subject-year">EN</span></div>
-  <div class="nav-label">WORKSPACE</div><nav>${navButton('library','Question library','library',bank.questions.length)}${navButton('saved','Saved questions','bookmark',personal.bookmarks.length)}${navButton('quiz','Practice quizzes','notebook-pen')}${navButton('sources','Source documents','files',bank.sources.length)}</nav>
+  <a class="brand" href="#home"><span class="brand-symbol">${icon('sprout')}</span><span>Biology Bank<small>DSE Study Library</small></span></a>
+  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology</div>
+  <div class="nav-label">WORKSPACE</div><nav>${navButton('home','Home','house')}${navButton('library','Question library','library',bank.questions.length)}${navButton('quiz','Practice quizzes','notebook-pen')}${navButton('saved','Saved questions','bookmark',personal.bookmarks.length)}${navButton('sources','Source documents','files',bank.sources.length)}</nav>
   <div class="nav-label collection-label">COLLECTIONS ${iconButton('new-collection','plus','New collection')}</div><div id="collection-nav">${personal.collections.length?personal.collections.map(c=>`<button class="nav-item ${view==='collection' && collectionId===c.id?'active':''}" data-action="open-collection" data-id="${e(c.id)}">${icon('folder')}<span>${e(c.name)}</span><span class="nav-count">${c.ids.length}</span></button>`).join(''):'<p class="sidebar-empty">No collections yet</p>'}</div>
-  <div class="sidebar-bottom"><div class="library-status">${icon('circle-check')}<span>Library ready<small>${bank.sources.length} source documents</small></span></div>${navButton('settings','Settings & backup','settings-2')}<div class="sidebar-footer">A little progress, every day.</div></div>
- </aside><div class="workspace"><header class="topbar"><div class="breadcrumb">${iconButton('toggle-nav','menu','Open navigation')}<span>Workspace</span>${icon('chevron-right')}<strong>${view==='quiz'?'Practice quizzes':view==='sources'?'Source documents':view==='settings'?'Settings':view==='saved'?'Saved questions':view==='collection'?'Collections':'Question library'}</strong></div><div class="topbar-end"><span class="local-status"><span class="status-dot"></span> Saved on this device</span><span class="avatar">B</span></div></header><main id="main" tabindex="-1"></main><footer class="page-footer"><span>Biology Bank</span><span>HKDSE Biology · English edition</span></footer></div>`;
- if(['library','saved','collection'].includes(view))renderLibrary();
+  <div class="sidebar-bottom"><div class="library-status">${icon('hard-drive')}<span>Saved on this device</span></div>${navButton('settings','Settings & backup','settings-2')}</div>
+ </aside><div class="workspace"><header class="topbar"><div class="breadcrumb">${iconButton('toggle-nav','menu','Open navigation')}<span>Workspace</span>${icon('chevron-right')}<strong>${view==='home'?'Home':view==='quiz'?'Practice quizzes':view==='sources'?'Source documents':view==='settings'?'Settings':view==='saved'?'Saved questions':view==='collection'?'Collections':'Question library'}</strong></div><div class="topbar-end"><label class="preference-control">${icon('languages')}<span class="sr-only">Language</span><select id="language-select" aria-label="Language"><option value="en" ${language==='en'?'selected':''}>English</option><option value="zh" ${language==='zh'?'selected':''}>繁體中文</option></select></label><label class="preference-control">${icon('sun-moon')}<span class="sr-only">Appearance</span><select id="theme-select" aria-label="Appearance">${['light','dark','system'].map(value=>`<option value="${value}" ${theme===value?'selected':''}>${value[0].toUpperCase()+value.slice(1)}</option>`).join('')}</select></label></div></header><main id="main" tabindex="-1"></main><footer class="page-footer"><span>Biology Bank</span><span>HKDSE Biology</span></footer></div>`;
+ if(view==='home')renderHome();
+ else if(['library','saved','collection'].includes(view))renderLibrary();
  else if(view==='quiz')renderQuiz();
  else if(view==='sources')renderSources();
  else renderSettings();
  icons();syncNavigation();
 }
+function renderHome(){
+ const oxford=bank.sources.filter(s=>s.publisher==='Oxford');
+ const tools=[['library','library','Question library','Browse questions','mint'],['quiz','notebook-pen','Practice quizzes','Create a quiz','blue'],['saved','bookmark','Saved questions','Open saved questions','rose'],['sources','files','Source documents','Open documents','lilac']];
+ $('#main').innerHTML=`<section class="home-heading"><div class="eyebrow">HKDSE Biology</div><h1>Your study workspace</h1><div class="home-stats"><span><strong>${bank.questions.length.toLocaleString()}</strong> Quiz questions</span><span><strong>${bank.sources.length}</strong> Full documents</span><span><strong>34</strong> Oxford chapters</span></div></section><section class="hub-section" aria-label="Study tools"><div class="section-title"><h2>Study tools</h2>${quiz && !quiz.finished?'<button class="text-button" data-action="navigate" data-view="quiz">Continue quiz</button>':''}</div><div class="hub-grid">${tools.map(([target,name,title,label,color])=>`<button class="hub-tile" data-action="navigate" data-view="${target}"><span class="hub-icon ${color}">${icon(name)}</span><strong>${title}</strong><span>${label}${icon('arrow-right')}</span></button>`).join('')}</div></section><section class="home-documents"><div class="section-title"><h2>Oxford question banks</h2><button class="text-button" data-action="browse-oxford">Browse Oxford ${icon('arrow-right')}</button></div><div class="book-grid">${[...oxford.filter(s=>/^Ch/.test(s.topic)).slice(0,3),oxford.find(s=>s.topic.startsWith('E1'))].filter(Boolean).map((s,i)=>`<button class="book-item" data-action="view-source" data-id="${e(s.id)}"><span class="book-cover cover-${i}"><span>OXFORD</span><strong>${e(s.topic.split(' · ')[0])}</strong><span>${e(s.title.replace(/^Chapter \d+\s*/,''))}</span>${icon('book-open')}</span><strong class="source-title">${e(topicLabel(s.topic,language))}</strong><span class="quiet">Text preview ${icon('arrow-up-right')}</span></button>`).join('')}</div></section><section class="home-library"><div><h2>Question papers</h2><p class="quiet">PDF & Word</p></div><button class="button secondary" data-action="browse-library">${icon('file-stack')}Open library</button><img src="assets/question-preview.png" alt="A page from the biology question bank" width="148" height="190"></section>`;
+}
 function renderLibrary(){
  const collection=personal.collections.find(c=>c.id===collectionId);
- const title=view==='saved'?'Saved questions':view==='collection'?(collection?.name || 'Collection'):'Your biology question bank';
+ const title=view==='saved'?'Saved questions':view==='collection'?(collection?.name || 'Collection'):'Question library';
  $('#main').innerHTML=`<section class="page-heading"><div><div class="eyebrow">THE STUDY LIBRARY</div><h1>${e(title)}</h1><p>${view==='library'?'One library. A more focused way to practise.':view==='saved'?'Questions worth coming back to.':'Your questions, brought together.'}</p></div><div class="heading-actions">${view==='collection'?iconButton('edit-collection','pencil','Rename collection',`data-id="${e(collectionId)}"`):''}<button class="button primary" data-action="quiz-config">${icon('shuffle')}<span>Create a quiz</span></button></div></section>
- <section class="metrics" aria-label="Library overview"><div><span class="metric-icon mint">${icon('layers')}</span><div><strong>${bank.questions.length.toLocaleString()}</strong><span>Questions in the bank</span></div></div><div><span class="metric-icon apricot">${icon('network')}</span><div><strong>${bank.topics.length}</strong><span>Biology topics</span></div></div><div><span class="metric-icon blue">${icon('files')}</span><div><strong>${bank.sources.length}</strong><span>Source documents</span></div></div><div><span class="metric-icon rose">${icon('bookmark')}</span><div><strong id="saved-metric">${personal.bookmarks.length}</strong><span>Saved for later</span></div></div></section>
+ <section class="metrics" aria-label="Library overview"><div><span class="metric-icon mint">${icon('layers')}</span><div><strong>${bank.questions.length.toLocaleString()}</strong><span>Quiz questions</span></div></div><div><span class="metric-icon lilac">${icon('network')}</span><div><strong>34</strong><span>Oxford chapters</span></div></div><div><span class="metric-icon blue">${icon('files')}</span><div><strong>${bank.sources.length}</strong><span>Full documents</span></div></div><div><span class="metric-icon rose">${icon('bookmark')}</span><div><strong id="saved-metric">${personal.bookmarks.length}</strong><span>Saved for later</span></div></div></section>
  <div class="library-layout"><section class="question-library" aria-label="Question library"><div class="library-section-heading"><h2>Explore questions</h2><span class="quiet">${icon('sliders-horizontal')} Your study, your order</span></div>
- <div class="filter-row"><label class="search-field">${icon('search')}<input id="search" type="search" value="${e(filters.search)}" placeholder="Search questions, keywords or IDs" aria-label="Search questions"></label><label class="topic-select"><span class="sr-only">Topic</span><select id="topic-filter"><option value="">All topics</option>${topics().map(t=>`<option ${filters.topic===t?'selected':''}>${e(t)}</option>`).join('')}</select></label><label><span class="sr-only">Publisher</span><select id="publisher-filter"><option value="">All publishers</option>${[...new Set(bank.sources.map(s=>s.publisher))].map(p=>`<option ${filters.publisher===p?'selected':''}>${e(p)}</option>`).join('')}</select></label></div>
- <div class="type-tabs" role="group" aria-label="Question type"><button data-action="type-filter" data-type="" aria-pressed="${!filters.type}" class="${!filters.type?'active':''}">All questions</button>${Object.entries(TYPES).map(([key,name])=>`<button data-action="type-filter" data-type="${key}" aria-pressed="${filters.type===key}" class="${filters.type===key?'active':''}">${name}</button>`).join('')}</div>
+ <div class="filter-row"><label class="search-field">${icon('search')}<input id="search" type="search" value="${e(filters.search)}" placeholder="Search questions, keywords or IDs" aria-label="Search questions"></label><label class="topic-select"><span class="filter-label">Oxford chapters</span><select id="topic-filter" aria-label="Oxford chapters">${topicOptions(filters.topic)}</select></label><label><span class="filter-label">Publisher</span><select id="publisher-filter"><option value="">All publishers</option>${[...new Set(bank.sources.map(s=>s.publisher))].map(p=>`<option value="${e(p)}" ${filters.publisher===p?'selected':''}>${e(p)}</option>`).join('')}</select></label></div>
+ ${view==='library'?`<div class="library-view-tabs" role="group" aria-label="Library view"><button data-action="library-mode" data-mode="questions" class="${libraryMode==='questions'?'active':''}" aria-pressed="${libraryMode==='questions'}">${icon('list')}Questions <span>${bank.questions.length.toLocaleString()}</span></button><button data-action="library-mode" data-mode="files" class="${libraryMode==='files'?'active':''}" aria-pressed="${libraryMode==='files'}">${icon('files')}Files <span>${bank.sources.length}</span></button></div>`:''}
+ <div class="type-tabs" role="group" aria-label="Question type" ${view==='library' && libraryMode==='files'?'hidden':''}><button data-action="type-filter" data-type="" aria-pressed="${!filters.type}" class="${!filters.type?'active':''}">All questions</button>${Object.entries(TYPES).map(([key,name])=>`<button data-action="type-filter" data-type="${key}" aria-pressed="${filters.type===key}" class="${filters.type===key?'active':''}">${name}</button>`).join('')}</div>
  <div id="results"></div></section><aside class="paper-panel" aria-label="Your question paper"><div id="paper-content"></div></aside></div>`;
  renderResults();renderPaper();
 }
 function renderResults(){
  if(!$('#results'))return;
+ if(view==='library' && libraryMode==='files'){renderLibraryFiles();return;}
  const items=getFiltered();const size=12;const pages=Math.max(1,Math.ceil(items.length/size));page=Math.min(page,pages);
  $('#results').innerHTML=`<div class="results-toolbar"><div><strong>${items.length.toLocaleString()}</strong> questions ${filters.search || filters.topic || filters.type || filters.publisher?`<button class="text-button" data-action="clear-filters">Clear filters</button>`:''}</div><label class="sort-label">Sort by <select id="sort"><option value="topic" ${filters.sort==='topic'?'selected':''}>Topic</option><option value="type" ${filters.sort==='type'?'selected':''}>Question type</option><option value="source" ${filters.sort==='source'?'selected':''}>Publisher</option></select></label></div>
  ${items.length?`<div class="select-page"><label><input type="checkbox" id="select-page" ${items.slice((page-1)*size,page*size).every(q=>selected.has(q.id))?'checked':''}> Select this page</label><span>${(page-1)*size+1}-${Math.min(page*size,items.length)} of ${items.length.toLocaleString()}</span></div><div class="question-list">${items.slice((page-1)*size,page*size).map((q,i)=>questionCard(q,(page-1)*size+i+1)).join('')}</div><div class="pagination"><button class="button secondary" data-action="previous-page" ${page===1?'disabled':''}>${icon('chevron-left')} Previous</button><span>Page <strong>${page}</strong> of ${pages}</span><button class="button secondary" data-action="next-page" ${page===pages?'disabled':''}>Next ${icon('chevron-right')}</button></div>`:`<div class="empty-state">${icon('search-x')}<h3>${view==='saved'?'No saved questions yet':view==='collection'?'This collection is empty':'No matching questions'}</h3><p>${view==='saved'?'Your bookmarked questions will appear here.':view==='collection'?'Add selected questions from the library.':'Try another keyword, topic or question type.'}</p><button class="button secondary" data-action="${view==='library'?'clear-filters':'browse-library'}">${view==='library'?'Reset filters':'Browse question library'}</button></div>`}`;
+ if(view==='library'){
+  const count=matchingSources().length;
+  $('#results').insertAdjacentHTML('afterbegin',`<div class="document-strip"><span>${icon('files')}<strong>${count}</strong> documents</span><button class="text-button" data-action="library-mode" data-mode="files">Open documents ${icon('arrow-right')}</button></div>`);
+ }
+ icons();
+}
+function matchingSources(search=filters.search){
+ const terms=search.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
+ return bank.sources.filter(s=>(!filters.topic || s.topic===filters.topic || s.topics?.includes(filters.topic)) && (!filters.publisher || filters.publisher===s.publisher) && terms.every(term=>`${s.name} ${s.title || ''} ${s.publisher} ${s.topic} ${topicLabel(s.topic,'zh')}`.toLocaleLowerCase().includes(term))).sort((a,b)=>topicOrder(a.topic)-topicOrder(b.topic) || a.name.localeCompare(b.name,undefined,{numeric:true}));
+}
+function sourceCard(source){
+ const downloadLabel=sourceDownloadLabel(source);
+ return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button><a class="icon-button" href="${e(source.downloadPath || source.path)}" download title="${e(downloadLabel)}" aria-label="${e(downloadLabel)}">${icon('download')}</a></div></article>`;
+}
+function sourceDownloadLabel(source){return source.format==='word-text'?(source.name.endsWith('.docx')?'Download original Word file':'Download text file'):'Download source PDF';}
+function renderLibraryFiles(){
+ const sources=matchingSources(),size=16,pages=Math.max(1,Math.ceil(sources.length/size));page=Math.min(page,pages);
+ $('#results').innerHTML=`<div class="results-toolbar"><span><strong>${sources.length}</strong> documents</span><button class="text-button" data-action="clear-filters">Clear filters</button></div>${filters.publisher==='Oxford'?'<p class="source-note">Oxford documents include text previews and original Word downloads.</p>':''}<div class="file-list">${sources.slice((page-1)*size,page*size).map(sourceCard).join('')}</div>${sources.length?`<div class="pagination"><button class="button secondary" data-action="previous-page" ${page===1?'disabled':''}>${icon('chevron-left')}Previous</button><span>Page <strong>${page}</strong> of ${pages}</span><button class="button secondary" data-action="next-page" ${page===pages?'disabled':''}>Next${icon('chevron-right')}</button></div>`:'<div class="empty-history">No matching documents.</div>'}`;
  icons();
 }
 function questionCard(original,number){
  const q=effective(original),saved=personal.bookmarks.includes(q.id);
  const summary=q.text.replace(/\n/g,' ').replace(/^[\s\uF000-\uFFFF]+/,'');
- return `<article class="question-card ${selected.has(q.id)?'selected':''}"><div class="question-card-top"><label class="question-check"><input type="checkbox" data-select="${e(q.id)}" ${selected.has(q.id)?'checked':''} aria-label="Select question ${e(q.code)}"><span class="question-number">${String(number).padStart(2,'0')}</span></label><span class="type-badge ${q.type.toLowerCase()}">${e(TYPES[q.type] || q.type)}</span><span class="source-label">${e(q.publisher)}</span><span class="card-spacer"></span><button class="icon-button bookmark ${saved?'is-saved':''}" data-action="bookmark" data-id="${e(q.id)}" aria-pressed="${saved}" title="${saved?'Remove bookmark':'Save question'}" aria-label="${saved?'Remove bookmark':'Save question'}">${icon('bookmark')}</button></div><button class="question-preview" data-action="view-question" data-id="${e(q.id)}">${e(summary)}</button><div class="question-card-bottom"><span class="question-topic">${icon('folder-open')}${e(q.topic.replace(/^Chapter \d+ · /,''))}</span><span class="question-code">${e(q.code)}</span>${view==='collection'?iconButton('remove-from-collection','x',`Remove ${q.code} from this collection`,`data-id="${e(q.id)}"`):''}<button class="open-question" data-action="view-question" data-id="${e(q.id)}" aria-label="Open question ${e(q.code)}" title="Open question">${icon('arrow-up-right')}</button></div></article>`;
+ return `<article class="question-card ${selected.has(q.id)?'selected':''}"><div class="question-card-top"><label class="question-check"><input type="checkbox" data-select="${e(q.id)}" ${selected.has(q.id)?'checked':''} aria-label="Select question ${e(q.code)}"><span class="question-number">${String(number).padStart(2,'0')}</span></label><span class="type-badge ${q.type.toLowerCase()}">${e(TYPES[q.type] || q.type)}</span><span class="source-label">${e(q.publisher)}</span><span class="card-spacer"></span><button class="icon-button bookmark ${saved?'is-saved':''}" data-action="bookmark" data-id="${e(q.id)}" aria-pressed="${saved}" title="${saved?'Remove bookmark':'Save question'}" aria-label="${saved?'Remove bookmark':'Save question'}">${icon('bookmark')}</button></div><button class="question-preview" data-action="view-question" data-id="${e(q.id)}">${e(summary)}</button><div class="question-card-bottom"><span class="question-topic">${icon('folder-open')}${e(topicLabel(q.topic,language))}</span><span class="question-code">${e(q.code)}</span>${view==='collection'?iconButton('remove-from-collection','x',`Remove ${q.code} from this collection`,`data-id="${e(q.id)}"`):''}<button class="open-question" data-action="view-question" data-id="${e(q.id)}" aria-label="Open question ${e(q.code)}" title="Open question">${icon('arrow-up-right')}</button></div></article>`;
 }
 function renderPaper(){
  const target=$('#paper-content');if(!target)return;
@@ -88,6 +119,7 @@ function renderPaper(){
  icons();
 }
 function openModal(content,className=''){
+ documentToken++;
  const dialog=$('#dialog');const focused=dialog.contains(document.activeElement)?document.activeElement:null;
  const action=focused?.dataset.action,tab=focused?.dataset.tab;
  dialog.className=className;dialog.innerHTML=content;if(!dialog.open)dialog.showModal();
@@ -98,7 +130,50 @@ function modalHeader(title,subtitle=''){return `<header class="dialog-header"><d
 async function showQuestion(id,tab='question'){
  const original=questionsById.get(id);if(!original)return;activeQuestion=id;const q=effective(original);const source=sourcesById.get(q.sourceId);
  openModal(`${modalHeader(TYPES[q.type] || q.type,q.topic)}<div class="question-dialog-meta"><span>${e(q.code)}</span><span>${e(q.publisher)}</span><a class="text-button" href="${e(source.path)}#page=${q.segments[0]?.page || 1}" target="_blank" rel="noopener">Original source ${icon('external-link')}</a></div><div class="dialog-tabs"><button data-action="question-tab" data-tab="question" class="${tab==='question'?'active':''}">Question</button><button data-action="question-tab" data-tab="answer" class="${tab==='answer'?'active':''}">Answer key</button><button data-action="question-tab" data-tab="organize" class="${tab==='organize'?'active':''}">Organize</button></div><div class="dialog-body">${tab==='organize'?`<form data-form="organize"><label>Topic<input name="topic" required maxlength="120" list="topic-options" value="${e(q.topic)}"></label><datalist id="topic-options">${topics().map(t=>`<option value="${e(t)}">`).join('')}</datalist><label>Question type<select name="type">${Object.entries(TYPES).map(([key,name])=>`<option value="${key}" ${q.type===key?'selected':''}>${name}</option>`).join('')}</select></label><label>Tags<input name="tags" maxlength="300" value="${e(q.tags || '')}" placeholder="e.g. revision, difficult"></label><button class="button primary" type="submit">${icon('check')}Save category</button></form>`:'<div id="question-render" class="question-render"></div>'}</div><footer class="dialog-footer"><button class="button secondary" data-action="bookmark" data-id="${e(q.id)}">${icon('bookmark')}${personal.bookmarks.includes(q.id)?'Saved':'Save question'}</button><button class="button primary" data-action="toggle-paper-question" data-id="${e(q.id)}">${icon(selected.has(q.id)?'check':'plus')}${selected.has(q.id)?'Added to paper':'Add to paper'}</button></footer>`,'question-dialog');
+ const sourceLink=$('.question-dialog-meta a');
+ if(sourceLink){const button=document.createElement('button');button.className='text-button';button.dataset.action='view-source';button.dataset.id=source.id;button.dataset.page=q.segments[0]?.page || 1;button.dataset.backQuestion=id;button.innerHTML=`Original source ${icon('book-open')}`;sourceLink.replaceWith(button);}
+ const subtitle=$('.dialog-header p');if(subtitle)subtitle.textContent=topicLabel(q.topic,language);
+ icons();
  if(tab!=='organize')await renderQuestion($('#question-render'),original,source,tab==='answer');
+}
+async function showDocument(id,number=1,backQuestion=''){
+ const source=sourcesById.get(id);if(!source)return;
+ let token;
+ documentState={id,page:Math.max(1,Number(number) || 1),zoom:1,pages:source.pages || 1,backQuestion};
+ openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span><a class="button secondary" download href="${e(source.downloadPath || source.path)}">${icon('download')}${e(translate(sourceDownloadLabel(source)))}</a></div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate('Text preview only. Diagrams are not included; the original files are preserved locally.'))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
+ token=documentToken;
+ icons();
+ try{
+  if(source.format==='word-text'){
+   const response=await fetch(new URL(source.textPath || source.path,document.baseURI));if(!response.ok)throw Error('Document could not be loaded.');
+   const text=source.textPath?await response.text():(await response.json()).text;
+   if(token!==documentToken || !$('#document-content'))return;
+   const sections=text.split(/\n\s*-{8,}\s*\n/);
+   const fragment=document.createDocumentFragment();
+   sections.forEach(text=>{const pre=document.createElement('pre');pre.className='document-text';pre.textContent=text.trim();fragment.append(pre);});
+   $('#document-content').replaceChildren(fragment);
+  }else{
+   const pages=await sourcePageCount(source);if(token!==documentToken)return;
+   documentState.pages=pages;documentState.page=Math.min(documentState.page,pages);
+   $('#document-page').max=pages;$('#document-page-count').textContent=`/ ${pages}`;
+   await renderDocumentPage();
+  }
+ }catch(error){if(token===documentToken && $('#document-content')){$('#document-content').innerHTML='<div class="error-inline"><p>Document could not be loaded.</p><button class="button secondary" data-action="retry-document">Retry</button></div>';icons();}console.error(error);}
+}
+async function renderDocumentPage(){
+ if(!documentState || !$('#document-content'))return;
+ const state=documentState,token=++documentToken,source=sourcesById.get(state.id);
+ state.page=Math.max(1,Math.min(state.pages,state.page));
+ $('#document-page').value=state.page;$('#document-zoom').textContent=`${Math.round(state.zoom*100)}%`;
+ $('[data-action="document-prev"]').disabled=state.page===1;$('[data-action="document-next"]').disabled=state.page===state.pages;
+ $('[data-action="document-zoom-out"]').disabled=state.zoom<=.6;$('[data-action="document-zoom-in"]').disabled=state.zoom>=2;
+ $('#document-content').innerHTML='<div class="loading"><span class="spinner"></span>Loading document...</div>';
+ try{
+  const canvas=await sourcePage(source,state.page,Math.min(devicePixelRatio || 1,2)*state.zoom*1.2);
+  if(token!==documentToken || !$('#document-content'))return;
+  const image=document.createElement('img');image.className='document-page-image';image.src=canvas.toDataURL('image/png');image.alt=`${source.name} · ${translate('Page')} ${state.page}`;image.style.width=`${Math.round(state.zoom*100)}%`;image.width=canvas.width;image.height=canvas.height;
+  $('#document-content').replaceChildren(image);$('#document-content').scrollTop=0;
+ }catch(error){if(token===documentToken && $('#document-content')){$('#document-content').innerHTML='<div class="error-inline"><p>Document could not be loaded.</p><button class="button secondary" data-action="retry-document">Retry</button></div>';icons();}console.error(error);}
 }
 function collectionDialog(id=''){
  const c=personal.collections.find(c=>c.id===id);
@@ -110,6 +185,9 @@ function saveCollectionDialog(){
 }
 function quizConfig(){
  openModal(`${modalHeader('Create a practice quiz','A new set for your next study session.')}<form class="dialog-body" data-form="quiz"><fieldset><legend>Topics</legend><label class="checkbox-label"><input type="checkbox" id="quiz-all-topics" ${!filters.topic?'checked':''}> All topics</label><div class="quiz-topic-list">${topics().map(t=>`<label class="checkbox-label"><input type="checkbox" name="topics" value="${e(t)}" ${!filters.topic || filters.topic===t?'checked':''}>${e(t)}</label>`).join('')}</div></fieldset><div class="form-grid"><label>Question type<select name="type"><option value="">Mixed questions</option>${Object.entries(TYPES).map(([key,name])=>`<option value="${key}" ${filters.type===key?'selected':''}>${name}</option>`).join('')}</select></label><label>Number of questions<input name="count" type="number" min="1" max="50" value="10" required></label><label>Time limit (minutes)<input name="minutes" type="number" min="0" max="180" value="0" required></label><label>Question pool<select name="pool"><option value="all">Entire library</option><option value="saved">Saved questions</option>${selected.size?'<option value="selected">Selected questions</option>':''}${personal.collections.map(c=>`<option value="${e(c.id)}">${e(c.name)}</option>`).join('')}</select></label></div><p class="field-error" id="quiz-config-error" role="alert"></p><button class="button primary full" type="submit">${icon('play')}Start quiz</button></form>`,'quiz-config-dialog');
+ const counts=new Map();bank.questions.forEach(q=>{const topic=effective(q).topic;counts.set(topic,(counts.get(topic) || 0)+1);});
+ document.querySelectorAll('.quiz-topic-list label').forEach(label=>{const input=label.querySelector('input'),count=counts.get(input.value) || 0;input.disabled=!count;if(!count)input.checked=false;label.lastChild.textContent=`${topicLabel(input.value,language)} (${count})`;label.classList.toggle('unavailable',!count);});
+ icons();
 }
 function quizQuestions(){return (quiz?.ids || []).map(id=>questionsById.get(id)).filter(Boolean).map(effective);}
 function updateAnswered(){
@@ -147,16 +225,17 @@ function updateTimer(){
  if(remaining===0){finishQuiz();toast('Time is up. Your quiz has been submitted.');}
 }
 function renderSources(){
- $('#main').innerHTML=`<section class="page-heading"><div><div class="eyebrow">FROM YOUR BOOKSHELF</div><h1>Source documents</h1><p>The original context, always within reach.</p></div><span class="source-total">${bank.sources.length} documents</span></section><label class="search-field source-search">${icon('search')}<input type="search" id="source-search" aria-label="Search source documents" placeholder="Search document names, topics or publishers"></label><div id="source-results"></div>`;
- renderSourceResults('');
+ $('#main').innerHTML=`<section class="page-heading"><div><div class="eyebrow">FROM YOUR BOOKSHELF</div><h1>Source documents</h1></div><span class="source-total">${bank.sources.length} documents</span></section><div class="filter-row source-filters"><label class="search-field">${icon('search')}<input type="search" id="source-search" value="${e(sourceFilters.search)}" aria-label="Search source documents" placeholder="Search document names, topics or publishers"></label><label class="topic-select"><span class="filter-label">Oxford chapters</span><select id="source-topic">${topicOptions(sourceFilters.topic)}</select></label><label><span class="filter-label">Publisher</span><select id="source-publisher"><option value="">All publishers</option>${['Oxford','Aristo'].map(p=>`<option value="${p}" ${sourceFilters.publisher===p?'selected':''}>${p}</option>`).join('')}</select></label></div><div id="source-results"></div>`;
+ renderSourceResults(sourceFilters.search);
 }
 function renderSourceResults(search){
  const terms=search.toLowerCase().trim().split(/\s+/).filter(Boolean);
- const sources=bank.sources.filter(s=>terms.every(term=>`${s.name} ${s.publisher} ${s.topic}`.toLowerCase().includes(term)));
- $('#source-results').innerHTML=`<div class="table-wrap"><table class="sources-table"><thead><tr><th>Document</th><th>Publisher</th><th>Pages</th><th>Questions</th><th><span class="sr-only">Open</span></th></tr></thead><tbody>${sources.map(s=>`<tr><td><div class="source-document">${icon('file-text')}<div><strong>${e(s.name)}</strong><small>${e(s.topic)}</small></div></div></td><td>${e(s.publisher)}</td><td>${s.pages}</td><td>${s.questionCount || '<span class="quiet">Full paper</span>'}</td><td><a class="icon-button" href="${e(s.path)}" target="_blank" rel="noopener" title="Open source PDF" aria-label="Open ${e(s.name)}">${icon('external-link')}</a></td></tr>`).join('')}</tbody></table>${!sources.length?'<div class="empty-history">No matching documents.</div>':''}</div>`;icons();
+ const sources=bank.sources.filter(s=>(!sourceFilters.topic || s.topic===sourceFilters.topic || s.topics?.includes(sourceFilters.topic)) && (!sourceFilters.publisher || s.publisher===sourceFilters.publisher) && terms.every(term=>`${s.name} ${s.title || ''} ${s.publisher} ${s.topic} ${topicLabel(s.topic,'zh')}`.toLowerCase().includes(term)));
+ $('#source-results').innerHTML=`<div class="results-toolbar"><span><strong>${sources.length}</strong> documents</span></div><div class="file-list">${sources.map(sourceCard).join('')}</div>${!sources.length?'<div class="empty-history">No matching documents.</div>':''}`;icons();
 }
 function renderSettings(){
  $('#main').innerHTML=`<section class="page-heading"><div><div class="eyebrow">YOUR WORKSPACE</div><h1>Settings & backup</h1><p>Keep your study library close.</p></div></section><section class="settings-section"><div><h2>Personal library</h2><p>Bookmarks, collections, categories and quiz history.</p></div><div class="settings-actions"><button class="button primary" data-action="backup">${icon('download')}Export backup</button><label class="button secondary file-button">${icon('upload')}Import backup<input id="import-backup" type="file" accept=".json,application/json"></label></div></section><section class="settings-section"><div><h2>Library details</h2><p>${bank.questions.length.toLocaleString()} questions · ${bank.sources.length} source documents · ${bank.topics.length} topics</p><p>Last indexed ${e(new Date(bank.generated).toLocaleDateString())}</p></div><span class="version-label">Version 1.0</span></section><section class="settings-section"><div><h2>Device data</h2><p>${personal.bookmarks.length} saved questions · ${personal.collections.length} collections · ${personal.history.length} completed sessions</p></div><button class="button danger" data-action="reset-data">${icon('trash-2')}Reset personal data</button></section>`;
+ $('#main .page-heading').insertAdjacentHTML('afterend',`<section class="settings-section"><div><h2>Display preferences</h2><p>Question text stays in its original language.</p></div><div class="settings-preferences"><label>Language<select id="settings-language"><option value="en" ${language==='en'?'selected':''}>English</option><option value="zh" ${language==='zh'?'selected':''}>繁體中文</option></select></label><label>Appearance<select id="settings-theme">${['light','dark','system'].map(value=>`<option value="${value}" ${theme===value?'selected':''}>${value[0].toUpperCase()+value.slice(1)}</option>`).join('')}</select></label></div></section>`);
 }
 function navigate(target,id=''){
  closeNavigation();
@@ -164,7 +243,7 @@ function navigate(target,id=''){
  else location.hash=target;
  if(view===target && collectionId===id)shell();
 }
-function route(){const [target,id]=location.hash.slice(1).split('/');view=['library','saved','quiz','sources','settings','collection'].includes(target)?target:'library';try{collectionId=id?decodeURIComponent(id):'';}catch{collectionId='';}if(view==='collection' && !personal.collections.some(c=>c.id===collectionId))view='library';page=1;shell();document.body.classList.remove('nav-open');window.scrollTo(0,0);}
+function route(){const [target,id]=location.hash.slice(1).split('/');view=['home','library','saved','quiz','sources','settings','collection'].includes(target)?target:'home';try{collectionId=id?decodeURIComponent(id):'';}catch{collectionId='';}if(view==='collection' && !personal.collections.some(c=>c.id===collectionId))view='library';page=1;closeNavigation();shell();window.scrollTo(0,0);}
 async function handleExport(format){
  if(exporting)return;const items=[...selected].map(id=>questionsById.get(id)).filter(Boolean);
  const title=$('#paper-title')?.value.trim() || 'Biology practice paper',includeAnswers=$('#include-answers')?.checked;
@@ -179,10 +258,17 @@ document.addEventListener('click',async event=>{
  const {action,id}=button.dataset;
  if(action==='navigate')navigate(button.dataset.view);
  else if(action==='open-collection')navigate('collection',id);
- else if(action==='browse-library')navigate('library');
+ else if(action==='browse-library'){libraryMode='questions';if(filters.publisher==='Oxford')filters.publisher='';navigate('library');}
+ else if(action==='browse-oxford'){libraryMode='files';filters={search:'',topic:'',type:'',publisher:'Oxford',sort:'topic'};navigate('library');}
+ else if(action==='library-mode'){libraryMode=button.dataset.mode;page=1;renderLibrary();icons();}
+ else if(action==='view-source')showDocument(id,button.dataset.page,button.dataset.backQuestion);
+ else if(action==='back-to-question')showQuestion(documentState.backQuestion);
+ else if(action==='retry-document'){if(sourcesById.get(documentState.id).format==='word-text')showDocument(documentState.id,1,documentState.backQuestion);else renderDocumentPage();}
+ else if(action==='document-prev' || action==='document-next'){documentState.page+=action==='document-next'?1:-1;renderDocumentPage();}
+ else if(['document-zoom-out','document-zoom-in','document-fit'].includes(action)){documentState.zoom=action==='document-fit'?1:Math.max(.6,Math.min(2,Math.round((documentState.zoom+(action==='document-zoom-in'?.2:-.2))*10)/10));renderDocumentPage();}
  else if(action==='toggle-nav'){document.body.classList.toggle('nav-open');syncNavigation();if(document.body.classList.contains('nav-open'))$('.sidebar button')?.focus();}
  else if(action==='close-nav'){closeNavigation();$('[data-action="toggle-nav"]')?.focus();}
- else if(action==='close-dialog')$('#dialog').close();
+ else if(action==='close-dialog'){documentToken++;$('#dialog').close();}
  else if(action==='view-question')showQuestion(id);
  else if(action==='question-tab')showQuestion(activeQuestion,button.dataset.tab);
  else if(action==='type-filter'){filters.type=button.dataset.type;page=1;document.querySelectorAll('.type-tabs button').forEach(b=>{b.classList.toggle('active',b.dataset.type===filters.type);b.setAttribute('aria-pressed',String(b.dataset.type===filters.type));});renderResults();}
@@ -225,19 +311,23 @@ document.querySelector('.skip-link').addEventListener('click',event=>{event.prev
 document.addEventListener('input',event=>{
  const target=event.target;
  if(target.id==='search'){filters.search=target.value;page=1;clearTimeout(searchTimer);searchTimer=setTimeout(renderResults,120);}
- else if(target.id==='source-search')renderSourceResults(target.value);
+ else if(target.id==='source-search'){sourceFilters.search=target.value;renderSourceResults(target.value);}
  else if(target.id==='paper-title'){paperTitle=target.value;try{sessionStorage.setItem('biology-paper-title',target.value);}catch{}}
  else if(target.id==='written-answer' && quiz && !quiz.finished){quiz.responses[quizQuestions()[quiz.current].id]=target.value;saveQuiz();updateAnswered();}
 });
 document.addEventListener('change',async event=>{
  const target=event.target;
- if(target.id==='include-answers')paperAnswers=target.checked;
+ if(['language-select','settings-language'].includes(target.id)){setLanguage(target.value);shell();}
+ else if(['theme-select','settings-theme'].includes(target.id)){applyTheme(target.value);document.querySelectorAll('#theme-select,#settings-theme').forEach(select=>select.value=theme);}
+ else if(target.id==='document-page'){const value=Number(target.value);if(Number.isFinite(value)){documentState.page=Math.trunc(value);renderDocumentPage();}}
+ else if(['source-topic','source-publisher'].includes(target.id)){sourceFilters[target.id==='source-topic'?'topic':'publisher']=target.value;renderSourceResults(sourceFilters.search);}
+ else if(target.id==='include-answers')paperAnswers=target.checked;
  else if(target.id==='ask-save-location'){askSaveLocation=target.checked;try{localStorage.setItem('biology-ask-save-location',String(askSaveLocation));}catch{}}
- else if(['topic-filter','publisher-filter','sort'].includes(target.id)){filters[{'topic-filter':'topic','publisher-filter':'publisher',sort:'sort'}[target.id]]=target.value;page=1;renderResults();}
+ else if(['topic-filter','publisher-filter','sort'].includes(target.id)){filters[{'topic-filter':'topic','publisher-filter':'publisher',sort:'sort'}[target.id]]=target.value;page=1;if(view==='library' && target.id==='publisher-filter' && target.value==='Oxford'){libraryMode='files';renderLibrary();icons();}else renderResults();}
  else if(target.dataset.select){target.checked?selected.add(target.dataset.select):selected.delete(target.dataset.select);save();renderPaper();renderResults();}
  else if(target.id==='select-page'){getFiltered().slice((page-1)*12,page*12).forEach(q=>target.checked?selected.add(q.id):selected.delete(q.id));save();renderPaper();renderResults();}
- else if(target.id==='quiz-all-topics')document.querySelectorAll('[name="topics"]').forEach(c=>c.checked=target.checked);
- else if(target.name==='topics')$('#quiz-all-topics').checked=[...document.querySelectorAll('[name="topics"]')].every(c=>c.checked);
+ else if(target.id==='quiz-all-topics')document.querySelectorAll('[name="topics"]:not(:disabled)').forEach(c=>c.checked=target.checked);
+ else if(target.name==='topics')$('#quiz-all-topics').checked=[...document.querySelectorAll('[name="topics"]:not(:disabled)')].every(c=>c.checked);
  else if(target.name==='quiz-answer' && quiz && !quiz.finished){quiz.responses[quizQuestions()[quiz.current].id]=target.value;saveQuiz();document.querySelectorAll('.answer-option').forEach(label=>label.classList.toggle('chosen',label.querySelector('input').checked));updateAnswered();}
  else if(target.id==='import-backup'){
   try{const file=target.files[0];if(!file)return;if(file.size>5*1024*1024)throw new Error('Backup must be smaller than 5 MB.');const restored=validateBackup(JSON.parse(await file.text()),bank.questions.map(q=>q.id));personal={...restored,bookmarks:[...new Set([...personal.bookmarks,...restored.bookmarks])],collections:[...personal.collections.filter(c=>!restored.collections.some(r=>r.id===c.id)),...restored.collections],overrides:{...personal.overrides,...restored.overrides}};save();shell();toast('Backup imported.');}catch(error){toast(error.message);}target.value='';
@@ -272,6 +362,10 @@ setInterval(updateTimer,1000);
 async function start(){
  try{
   const response=await fetch(new URL('bank/index.json',document.baseURI));if(!response.ok)throw new Error('Question index is unavailable.');bank=await response.json();
+  const oxfordResponse=await fetch(new URL('bank/oxford/catalog.json',document.baseURI));if(!oxfordResponse.ok)throw new Error('Oxford catalog is unavailable.');
+  const oxford=await oxfordResponse.json();bank.sources=[...oxford.sources,...bank.sources.filter(s=>s.publisher!=='Oxford')];
+  bank.questions.forEach(q=>{q.sourceTopic=q.topic;q.topic=canonicalTopic(q.topic);});bank.sources.forEach(s=>{if(s.publisher!=='Oxford')s.topic=canonicalTopic(s.topic);});
+  bank.topics=CHAPTERS.map(c=>c.topic);
   questionsById=new Map(bank.questions.map(q=>[q.id,q]));sourcesById=new Map(bank.sources.map(s=>[s.id,s]));
   try{const raw=JSON.parse(localStorage.getItem(STORAGE));if(raw){personal=validateBackup(raw,questionsById.keys());selected=new Set((Array.isArray(raw.selected)?raw.selected:[]).filter(id=>questionsById.has(id)));}}catch(error){console.warn('Personal library could not be restored',error);}
   try{quiz=restoreQuiz(JSON.parse(localStorage.getItem(QUIZ_STORAGE)),questionsById.keys());}catch{}

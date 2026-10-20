@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {createRequire} from 'node:module';
+import {canonicalTopic} from '../taxonomy.mjs';
 const require=createRequire(import.meta.url);
 const {chromium}=require(process.env.PLAYWRIGHT_MODULE || 'playwright');
 const origin=process.env.TEST_URL || 'http://127.0.0.1:4174/';
@@ -119,7 +120,7 @@ try {
  assert.equal(await page.locator('.quiz-navigation>p').textContent(),'1 of 2 answered');
  const writtenQuiz=await page.evaluate(()=>JSON.parse(localStorage.getItem('biology-quiz-v1')));
  const indexedBank=await (await fetch(origin+'bank/index.json')).json();
- assert.ok(writtenQuiz.ids.every(id=>{const q=indexedBank.questions.find(q=>q.id===id);return q.topic===quizTopic && q.type==='SQ';}));
+ assert.ok(writtenQuiz.ids.every(id=>{const q=indexedBank.questions.find(q=>q.id===id);return canonicalTopic(q.topic)===quizTopic && q.type==='SQ';}));
  await page.reload();await page.locator('#written-answer').waitFor();
  assert.equal(await page.locator('#written-answer').inputValue(),'A written practice response.');
  await page.evaluate(()=>{const q=JSON.parse(localStorage.getItem('biology-quiz-v1'));q.deadline=Date.now()-1000;localStorage.setItem('biology-quiz-v1',JSON.stringify(q));});
@@ -142,8 +143,8 @@ try {
  assert.match(await page.locator('main').innerText(),/1 saved questions/);
  await navigate('sources');
  await page.locator('#source-search').fill('ChTest_01');
- assert.equal(await page.locator('.sources-table tbody tr').count(),1);
- assert.ok((await page.locator('.sources-table a').getAttribute('href')).startsWith('bank/sources/'));
+ assert.equal(await page.locator('.file-item').count(),1);
+ assert.ok((await page.locator('.file-item a[download]').getAttribute('href')).startsWith('bank/sources/'));
  await navigate('library');
  await page.locator('[data-select]').first().check();
  await page.evaluate(()=>{window.showSaveFilePicker=async options=>{window.pickerOptions=options;return {createWritable:async()=>({write:async blob=>{window.savedPaperBytes=blob.size;},close:async()=>{window.savedPaperClosed=true;}})};};});
@@ -175,7 +176,7 @@ try {
  const privateContext=await browser.newContext();
  await privateContext.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new DOMException('Unavailable','SecurityError');}});Object.defineProperty(window,'sessionStorage',{get(){throw new DOMException('Unavailable','SecurityError');}});});
  const privatePage=await privateContext.newPage();privatePage.on('pageerror',error=>errors.push(error.message));
- await privatePage.goto(origin);await privatePage.locator('.question-card').first().waitFor();
+ await privatePage.goto(origin+'#library');await privatePage.locator('.question-card').first().waitFor();
  await privatePage.locator('.bookmark').first().click();
  assert.equal(await privatePage.locator('#saved-metric').textContent(),'1','Library works when storage is unavailable');
  await privateContext.close();

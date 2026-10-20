@@ -4,7 +4,7 @@ const destination=path.resolve('dist');
 if(destination!==path.join(process.cwd(),'dist'))throw new Error('Unexpected build destination.');
 await rm(destination,{recursive:true,force:true});
 await mkdir(destination,{recursive:true});
-for(const entry of ['index.html','styles.css','app.mjs','lib.mjs','rendering.mjs','exports.mjs','assets','vendor','bank']) {
+for(const entry of ['index.html','styles.css','app.mjs','lib.mjs','rendering.mjs','exports.mjs','preferences.mjs','taxonomy.mjs','assets','vendor','bank']) {
  await cp(entry,path.join(destination,entry),{recursive:true});
 }
 await writeFile(path.join(destination,'.nojekyll'),'');

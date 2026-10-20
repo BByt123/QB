@@ -1,0 +1,1958 @@
+( Chapter 22		Non-infectious diseases
+
+Multiple-choice questions
+
+[10252261]
+// Graph interpretation // Basic concepts //
+(*	The graph below shows the mortality from coronary heart disease from 2010 to 2019 in city X.
+	
+
+Which of the following can be concluded from the above graph?
+(1)	From 2010 to 2019, the mortality from coronary heart disease in men was always higher than that in women in city X.
+(2)	From 2010 to 2019, the increase in mortality from coronary heart disease in men was larger than that in women in city X.
+(3)	The increase in mortality from coronary heart disease was mainly caused by unhealthy lifestyles of people in city X.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+
+B	
+---------------------------------------------------
+
+[10252274]
+// Graph interpretation // Comparison //
+(*	Amy and Bob were asked to drink a fixed volume of glucose solution after overnight fasting. The changes in their blood glucose levels and blood insulin levels are shown in the graphs below.
+	
+	Which of the following combinations is a correct interpretation of the above graphs?
+	Amy	Bob	
+A	has type I diabetes	normal	
+B	has type II diabetes	normal	
+C	normal	has type I diabetes	
+D	normal	has type II diabetes	
+
+A	
+---------------------------------------------------
+
+[10252290]
+// Data handling // Applying concepts //
+(*	The following shows part of the medical report of Mr Chan.
+
+
+
+
+
+
+
+
+
+
+Which of the following should Mr Chan do to reduce the risk of developing cancer?
+(1)	Lose weight.
+(2)	Avoid eating food that is high in saturated fats.
+(3)	Avoid eating salted fish.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+
+B	
+---------------------------------------------------
+
+[10252291]
+// Comparison // Basic concepts //
+(*	Which of the following comparisons between insulin-dependent diabetes and non-insulin-dependent diabetes is correct?
+	Insulin-dependent diabetes	Non-insulin-dependent diabetes	
+A	higher prevalence rate	lower prevalence rate	
+B	related to family health history	not related to family health history	
+C	can be controlled by regular 
+insulin injections	can be controlled by healthy eating	
+D	blood insulin level rises 
+rapidly after a meal	blood insulin level remains low 
+after a meal	
+
+C	
+---------------------------------------------------
+[10252294]
+// Applying concepts //
+(*	Which of the following statements about coronary heart disease is/are correct?
+(1)	Plaques formed within the wall of the coronary veins cause coronary heart disease.
+(2)	Patients with coronary heart disease should avoid eating internal organs of animals.
+(3)	The blood vessels in patients with coronary heart disease are more elastic.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10252300]
+// Graph interpretation // Applying concepts //
+(*	A scientist investigated the activities of two types of human insulin, X and Y. He divided patients with type 1 diabetes into two groups. One group was injected with X and the other group was injected with Y. The graph below shows the activities of the two types of human insulin in the following 24 hours.
+
+	
+
+
+Which of the following statements about the activities of X and Y are correct?
+(1)	X acts faster than Y after being injected into the body.
+(2)	The activity of X lasts longer than that of Y.
+(3)	X has no effect on blood glucose level 16 hours after injection.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10252305]
+// Data handling // Applying concepts //
+(*	Directions: The following two questions refer to the table below, which shows the mortality from colorectal cancer between 2002 and 2011 in Hong Kong by different age groups. 
+Age	Year	
+	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011		0-19	0	1	0	0	0	1	0	0	0	0		20-44	67	65	67	54	39	51	46	40	41	39		45-64	329	324	342	352	386	361	398	415	425	481		(65	1155	1147	1128	1208	1203	1277	1242	1297	1398	1384		
+	Which of the following conclusions can be drawn from the data?
+(1)	Older people have a higher mortality from colorectal cancer.
+	(2)	Older people consume less dietary fibre than younger people.
+	(3)	Colorectal cancer does not affect teenagers.
+A	(1) only
+B	(3) only
+	C	(1) and (2) only
+	D	(1) and (3) only
+A	
+---------------------------------------------------
+
+
+[10252323]
+// Data handling // Applying concepts //
+(*	Which of the following are the probable reasons for the general upward trend in the total mortality from colorectal cancer?
+(1)	More new cases are found as screening for colorectal cancer has become more popular.
+	(2)	The longer life span of people leads to extended exposure to carcinogens.
+	(3)	People are having an increasingly sedentary lifestyle.
+A	(1) and (2) only
+B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10252324]
+// Graph interpretation // Applying concepts //
+(*	A cancer patient receives 4 doses of drugs in a chemotherapy treatment lasting for 12 weeks. The graph below shows the changes in the number of healthy cells and cancer cells in a part of her body during the treatment.
+ 	
+
+
+What is/are the difference(s) between the effects of the drugs on healthy cells and cancer cells?
+(1)	Cancer cells take longer to recover throughout the treatment.
+(2)	Cancer cells divide more rapidly than healthy cells throughout the treatment.
+(3)	A larger proportion of cancer cells are killed after 12 weeks.
+A	(3) only
+B	(1) and (2) only
+	C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10252333]
+// Basic concepts //
+(	A tumour is malignant
+A	when the tumour is enclosed in connective tissues.
+B	when mutations occur in the tumour cells.
+	C	when the tumour cells divide uncontrollably.
+	D	when the tumour cells spread to another site in the body.
+D	
+---------------------------------------------------
+
+[10252335]
+// Basic concepts //
+(	Which of the following statements about coronary heart disease is/are correct?
+(1)	The disease can cause death.
+	(2)	The disease is more common in developed countries.
+	(3)	The risk of developing the disease increases with age.
+A	(3) only					B	(1) and (2) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10252338]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the relationship between blood cholesterol level and mortality from coronary heart disease.
+ 	
+Which of the following conclusions can be drawn from the graph?
+(1)	As blood cholesterol level increases, the mortality from coronary heart disease increases.
+(2)	Blood cholesterol levels of over 50 arbitrary units cause coronary heart disease.
+(3)	People with blood cholesterol levels between 30 and 50 arbitrary units have a lower chance of dying from coronary heart disease.
+A	(1) only
+B	(2) only
+	C	(3) only
+	D	(1) and (3) only
+C	
+---------------------------------------------------
+
+
+[10252341]
+// Schematic diagram // Applying concepts //
+(	The diagram below shows the heart of a patient who has undergone the coronary bypass surgery.
+	
+Where does the narrowing for which the surgery has been performed occur?
+A	(1)
+B	(2)
+	C	(3)
+	D	(4)
+B	
+---------------------------------------------------
+
+[10252346]
+// Basic concepts //
+(	Some diabetics require regular injections of insulin. What is/are the effect(s) of this external supply of insulin in their body?
+(1)	It stimulates the production of glucagon in the pancreas.
+	(2)	It stimulates the conversion of glucose to glycogen in the liver.
+	(3)	It stimulates the uptake of glucose by body cells.
+A	(1) only
+B	(2) only
+	C	(1) and (3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10252355]
+// Applying concepts //
+(*	Diabetics are advised to have diets consisting of complex carbohydrates rather than simple sugars because
+A	the blood insulin level will not fluctuate sharply.
+B	the blood sugar level will not fluctuate sharply.
+	C	simple sugars will be lost in urine.
+	D	complex carbohydrates cannot be digested in the human body.
+B	
+---------------------------------------------------
+
+[10252361]
+// Basic concepts //
+(	Which of the following is the best way to promote mental health?
+A	eat a balanced diet to obtain essential nutrients
+	B	drink a lot of wine to forget unhappy experience
+	C	play sports to reduce anxiety
+	D	maintain good personal hygiene to prevent infections
+C	
+---------------------------------------------------
+
+[10252374]
+// Basic concepts //
+(	Which of the following statements about cancer are correct?
+	(1)	Cancer is a chronic disease.
+	(2)	Cancer is incurable.
+	(3)	Cancer can be prevented.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10252380]
+// Basic concepts //
+(	What substance in cigarette smoke may cause lung cancer?
+
+	A	carbon monoxide			B	carbon dioxide
+	C	nicotine					D	tar
+D	
+---------------------------------------------------
+
+[10252382]
+// Basic concepts //
+(	Which of the following statements about coronary heart disease are correct?
+	(1)	Coronary heart disease is a kind of cardiovascular disease.
+	(2)	A high cholesterol diet may increase the risk of coronary heart disease.
+	(3)	Diabetics have a higher risk of coronary heart disease.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10252400]
+// Comparison // Basic concepts //
+(*	Which of the following comparisons between type 1 diabetes and type 2 diabetes is correct?
+	Type 1 diabetes	Type 2 diabetes	
+A	can be inherited	cannot be inherited	
+B	higher prevalence rate	lower prevalence rate	
+C	cannot be prevented by exercising regularly	can be prevented by exercising regularly	
+D	cannot be controlled with insulin injections		can be controlled with insulin injections	
+
+C	
+---------------------------------------------------
+
+[10252401]
+// Basic concepts //
+(	Ageing is a risk factor for
+
+(1)	cancer.
+	(2)	coronary heart disease.
+	(3)	diabetes mellitus.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10252414]
+// Basic concepts //
+(	Not smoking or giving up smoking can lower the risk of
+	
+	(1)	lung cancer.
+	(2)	coronary heart disease.
+	(3)	type 2 diabetes.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252441]
+// Basic concepts //
+(	Which of the following combinations about lifestyle changes and the types of cancer they help prevent is incorrect?
+		Lifestyle change				Type of cancer prevented
+	A	eating more vegetables			colorectal cancer
+	B	not drinking too much alcohol	pancreas cancer
+	C	not smoking					lung cancer
+	D	wearing sun protection			skin cancer
+B	
+---------------------------------------------------
+
+[10252445]
+// Basic concepts //
+(	Which of the following is/are the biological factor(s) that cause(s) diseases?
+	(1)	ageing
+	(2)	defect in genes
+	(3)	unbalanced diet
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+[10252474]
+// Basic concepts //
+(	An excess intake of cholesterol may lead to 
+(1)	heart attack.
+(2)	stroke.
+(3)	depression.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252479]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows a tumour.
+	
+	The tumour is
+	A	benign because it is enclosed in connective tissues.
+	B	benign because it has its own blood supply.
+	C	malignant because it can be transmitted from one person to another.
+	D	malignant because its cells can spread to other parts via bloodstream.
+D	
+---------------------------------------------------
+
+
+[10252502]
+// Basic concepts //
+(	Smoking increases the chance of having cardiovascular diseases because
+	A	nicotine is addictive.
+	B	nicotine causes constrictions of blood vessels.
+	C	carbon monoxide damages haemoglobin in blood.
+	D	tar deposits on the inner wall of the coronary arteries.
+B	
+---------------------------------------------------
+
+[10252508]
+// Basic concepts //
+(	Which of the following is a risk factor of type 2 diabetes?
+	A	a lack of rest				B	smoking
+	C	a lack of exercise			D	poor personal hygiene
+C	
+---------------------------------------------------
+[10252552]
+// Graph interpretation // Applying concepts //
+(*	Some scientists carried out a study on the smoking habits of two groups of people:
+Group	Nationality	Age	
+I	British	30-49	
+II	American	50-69	
+
+The results are shown on the graph below.
+	
+
+
+Which of the following can be concluded from the above results?
+(1)	More British die of lung cancer than the Americans.
+(2)	Older people are more likely to develop lung cancer.
+(3)	The more cigarettes a person smokes, the higher the risk of having lung cancer.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+B	
+---------------------------------------------------
+
+[10252563]
+// Basic concepts //
+(	Directions: The following two questions refer to the diseases below.
+(1)	coronary heart disease
+(2)	cervical cancer
+(3)	type 1 diabetes
+
+Which of the diseases is/are related to viruses?
+A	(1) only
+B	(2) only
+C	(2) and (3) only 
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10252565]
+// Basic concepts //
+(	Which of the diseases is/are related to unhealthy fatty diets?
+A	(1) only
+B	(1) and (2) only
+C	(1) and (3) only 
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10252567]
+// Basic concepts //
+(	Which of the following are associated with heart attack?
+(1)	blockage of coronary arteries 
+(2)	reduced blood flow to cardiac muscles
+(3)	death of cardiac muscles
+A	(1) and (2) only
+B	(1) and (3) only 
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10252572]
+// Basic concepts //
+(*	Which carcinogens may cause the following forms of cancer?
+		Lung cancer		Nasopharyngeal cancer	Thyroid cancer
+A	asbestos			tar						nitrosamine
+B	asbestos			nitrosamine				X-ray 
+C	nitrosamine		asbestos					X-ray
+D	X-ray			nitrosamine				asbestos
+B	
+---------------------------------------------------
+
+[10252587]
+// Applying concepts //
+(*	Which of the following statements about type 1 diabetes is/are correct?
+(1)	The blood glucose level of the diabetics can be controlled just by doing exercise regularly.
+(2)	Eating too much sugary foods is a major risk factor for it.
+(3)	It usually occurs at a young age.
+A	(3) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252588]
+// Basic concepts //
+(	Persistent high blood pressure increases the risk of
+(1)	coronary heart disease.
+(2)	stroke.
+(3)	heart attack.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10252592]
+// Applying concepts //
+(*	Which of the following statements about a benign tumour is not correct?
+A	It is an excessive growth of a certain part of the body.
+B	It is surrounded by connective tissues.
+C	It often spreads to other parts of the body through the bloodstream or lymphatic system.
+D	Mutations can cause the formation of a benign tumour. 
+C	
+---------------------------------------------------
+
+[10252602]
+// Basic concepts //
+(	Which of the following foods is/are rich in cholesterol?
+(1)	liver
+(2)	vegetables
+(3)	egg white
+A	(1) only
+B	(3) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10252605]
+// Basic concepts //
+(*	Which of the following are effective ways to reduce exposure to carcinogens?
+(1)	avoid smoking
+(2)	wear sun protection
+(3)	avoid eating salted fish
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10252608]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Directions: The following two questions refer to the paragraphs below.
+	More and more women have been harmed mentally and physically due to the use of slimming drugs, a doctor warned. 'In some cases, these drugs led to depression and suicidal thoughts.'
+	A major study found that sibutramine (西布曲明), a chemical used in many slimming drugs, can increase blood pressure and heart rate. It is not suitable for people with heart diseases.	
+
+According to the above paragraphs, slimming drugs containing sibutramine may increase the risk of 
+(1)	heart attack.
+(2)	stroke.
+(3)	stomach cancer.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3) 
+A	
+---------------------------------------------------
+
+
+[10252615]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Which of the following are suitable ways to lose weight? 
+(1)	eat only protein-rich foods
+(2)	control the quality and quantity of diets
+(3)	do exercise regularly
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3) 
+C	
+---------------------------------------------------
+
+[10252618]
+// Basic concepts //
+(	Which of the following diseases cannot be prevented by having a balanced diet?
+A	obesity
+B	cervical cancer
+C	kwashiorkor
+D	high blood pressure
+B	
+---------------------------------------------------
+
+[10252623]
+// Basic concepts //
+(	Smoking will increase the risk of 
+(1)	hepatitis B.
+(2)	coronary heart disease.
+(3)	emphysema.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+
+[10252624]
+// Basic concepts //
+(	Which of the following diseases is/are related to drinking a very large quantity of alcohol for a long period of time?
+(1)	type 1 diabetes
+(2)	tuberculosis
+(3)	throat cancer
+A	(1) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10252643]
+// Basic concepts //
+(	Regular swimming is good for our health because it can reduce the risk of
+(1)	coronary heart disease.
+(2)	cancer.
+(3)	hepatitis B.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252653]
+// Basic concepts //
+(	Which of the following diseases is not directly related to smoking?
+A	emphysema
+B	lung cancer 
+C	chronic bronchitis
+D	severe acute respiratory syndrome (SARS)
+D	
+---------------------------------------------------
+
+
+[10252671]
+// Basic concepts //
+(	Which of the following statements about cholesterol are correct?
+(1)	Liver and egg yolk are high in cholesterol.
+(2)	Excess cholesterol can block the blood vessels.
+(3)	Cholesterol is always bad for our health.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252700]
+// Basic concepts //
+(	Which of the following is a possible reason that can explain the high incidence of nasopharyngeal cancer in a certain country?
+A	The people there like to smoke.
+B	The people there like to drink alcohol. 
+C	The people there like to eat salted fish.
+D	The people there do not have sufficient sleep.
+C	
+---------------------------------------------------
+
+[10252717]
+// High order thinking // Applying concepts //
+(**Before treating cancer patients, doctors often classify the cancer into different stages. The classification is based on the size of the original tumour, whether the cancer cells have spread to nearby lymph nodes and whether the cancer cells have spread to other parts of the body. 
+What are the purposes of classifying cancer into different stages?
+(1)	To identify the cause of cancer.
+(2)	To decide which kind of treatment to be used.
+(3)	To estimate the chance of survival of the patient.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+[10252718]
+// Basic concepts //
+(	Which of the following can cause lung cancer?
+(1)	tar in cigarette smoke
+(2)	asbestos in construction materials
+(3)	human papillomavirus (HPV)
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10252724]
+// Basic concepts //
+(	Which of the following diseases are related to unhealthy lifestyle?
+(1)	stroke
+(2)	type 2 diabetes
+(3)	nasopharyngeal cancer
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10252742]
+// Applying concepts //
+(	The mortality from cardiovascular diseases in a developing country is much lower than that in the developed countries. Which of the following are possible reasons?
+(1)	Crops are grown there using natural fertilizers.
+(2)	The diets of the people there consist of a large amount of plant foods.
+(3)	The people there need to do a large amount of labour work.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3) 
+C	
+---------------------------------------------------
+
+[10252757]
+// Basic concepts //
+(	Directions: The following two questions refer to the information below.
+	According to the statistics from the Department of Health, cardiovascular diseases are one of the top 10 killer diseases in Hong Kong.	
+
+Which of the following diseases are cardiovascular diseases?
+(1)	heart attack
+(2)	anaemia
+(3)	stroke
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10252761]
+// Basic concepts //
+(	Which of the following are risk factors for cardiovascular diseases?
+(1)	smoking
+(2)	high blood pressure
+(3)	obesity
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3) 
+D	
+---------------------------------------------------
+
+[10252783]
+// Basic concepts //
+(*	Which of the following is not a symptom of diabetes mellitus?
+A	frequent urination
+B	excessive thirst
+C	weight gain
+D	tiredness
+C	
+---------------------------------------------------
+
+[10252787]
+// Comparison //
+(*	Which of the following comparisons between type 1 and type 2 diabetes is correct?
+	Type 1 diabetes	Type 2 diabetes	
+A	represents more than 90% of diabetes cases in Hong Kong	represents less than 10% of diabetes cases in Hong Kong	
+B	caused by genetic factors only	caused by environmental factors only	
+C	affects children only	affects adults only	
+D	can be controlled by injections of insulin	cannot be controlled by injections of insulin	
+
+D	
+---------------------------------------------------
+
+[10252799]
+// Basic concepts //
+(	Which of the following diseases is/are closely related to high blood pressure?
+(1)	anaemia
+(2)	stroke
+(3)	heart attack
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+D	
+---------------------------------------------------
+
+
+[10252806]
+// Graph interpretation // Applying concepts //
+(*	The diagram below shows the annual number of deaths caused by lung cancer per 100 000 people in a country from 1950 to 2000.
+	
+
+Which of the following is/are possible explanation(s) for the trend of lung cancer deaths?
+(1)	The medical technology was improving.
+(2)	The sanitary conditions of the public environment were worsening.
+(3)	More people smoked.
+A	(1) only					B	(3) only
+C	(1) and (2) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+[10252808]
+// Basic concepts //
+(	Which of the following is the best way to prevent liver cancer?
+A	Do not drink alcohol.
+B	Maintain good personal hygiene.
+C	Wear face masks when handling asbestos.
+D	Receive chemotherapy.
+A	
+---------------------------------------------------
+
+
+[10252811]
+// Applying concepts //
+(*	Investigations found that smoking can cause lung cancer because cigarette smoke can
+(1)	destroy air sacs of the lungs.
+(2)	cause allergic reactions of the lungs.
+(3)	induce changes in DNA of the lung cells. 
+A	(1) only
+B	(3) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10252829]
+// Basic concepts //
+(	Which of the following combinations of carcinogens and the forms of cancer they are linked to is correct? 
+	Carcinogen	Form of cancer	
+A	nitrosamine	liver cancer	
+B	X-ray	thyroid cancer	
+C	human papillomavirus (HPV)	blood cancer	
+D	asbestos	nasopharyngeal cancer 	
+
+B	
+---------------------------------------------------
+
+
+[10252839]
+// Basic concepts //
+(	Which of the following diseases is not a non-infectious disease?
+A	lung cancer
+B	high blood pressure
+C	asthma
+D	AIDS
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10252918]
+// Cross-topic // Data handling //
+(*	The following shows the nutrition information of a certain kind of cake.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a	Mrs Wong is a diabetic and her BMI is 32. Explain why this cake is not suitable for Mrs Wong.									(4 marks)
+b	Suggest two ways to modify this cake so that the cake is suitable for 
+Mrs Wong.											(2 marks)
+
+-- answer --
+a	The amount of energy provided by the cake is large. / The cake contains a lot of fats which have a high energy value.								1m
+	The excess energy will be stored as fats in the body. This worsens the problems of overweight of Mrs Wong.										1m
+	The cake contains a lot of sugars which are readily absorbed by the body.	1m
+	The blood glucose level rises sharply, causing problems to diabetics.		1m
+b	Use artificial sweetener to reduce sugar content.						1m
+	Use low-fat dairy products such as yoghurt to reduce fat content.			1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10252941]
+// Overseas exam question // Cross-topic // Comparison //
+(**As part of a study to control Type 2 diabetes by modification of the diet, an investigation was carried out into the effects of different food compounds on the blood glucose and blood insulin concentrations of patients with this type of diabetes.
+	The food compounds, their components and their effect on blood glucose and blood insulin concentrations are summarized in Table 1.
+
+Table 1
+Food compound	Component(s)	Effect on blood glucose concentration	Effect on blood insulin concentration	
+Sucrose	Glucose and fructose	Moderate increase	Moderate increase	
+Lactose	Glucose and galactose	Moderate increase	Moderate increase	
+Starch	Glucose	Substantial increase	Substantial increase	
+Cellulose	Glucose	No effect	No effect	
+Protein	Amino acid	No effect	Moderate increase	
+Fat	Fatty acid and glycerol	No effect	Moderate increase	
+
+a	Suggest an explanation for the differences observed in blood glucose concentration:
+i	between starch and sucrose,							(2 marks)
+ii	between starch and cellulose.							(2 marks)
+b	With reference to the food compounds in Table 1, explain how a person with Type 2 diabetes could control the condition by modifying their diet.
+													(3 marks)
+OCR GCE (A) Communication, Homeostasis and Energy Jun 2010 Q4a, b
+
+
+
+-- answer --
+a	i	Starch contains glucose only while sucrose contains 50% glucose / 
+	glucose and fructose.									1m
+		During hydrolysis, starch releases more glucose / 
+	sucrose releases less glucose.							1m
+	ii	Both starch and cellulose are made up of glucose only. /
+	Starch is digestible / can be broken down while cellulose is indigestible /
+	cannot be broken down.
+	In our body, enzymes for starch digestion are present / 
+	no enzymes for cellulose digestion are present.
+	(any 2)											1m ( 2
+b	Reduce the amount of starch in the diet as starch has the greatest effect on blood glucose concentration. / 
+Could increase the amount of cellulose / fibre / roughage / fat / protein / meat in the diet as they have no effect on blood glucose concentration. /
+Could include moderate amount of sucrose / lactose in the diet. /
+Limit the intake of sucrose / lactose / fat / protein as they can cause an increase
+in insulin concentration and make cells less responsive to insulin.
+(any 3)												1m ( 3	
+---------------------------------------------------
+
+[10252946]
+// Overseas exam question // Cross-topic // Basic concepts //
+(	Cancer can exist in many forms. All forms have a common link with cell division.
+a	Explain the link between cell division and cancer.				(3 marks)
+b	Two ways of treating cancerous growth are:
+(	radiotherapy, in which the cancerous region is treated with controlled doses of radiation
+(	decreasing the diameter of blood vessels leading to the cancerous region.
+	Suggest how these treatments might be effective in treating cancer.																(3 marks)
+OCR GCE (AS) Biology Foundation Jun 2009 Q2
+
+
+
+-- answer --
+a	Uncontrolled cell division / mitosis /
+	produces a mass of cells / a tumour. /
+	The tumour cells cannot carry out normal functions. /
+	They all originate from a single cell. /
+	They are more likely to occur in areas with more cell division. /
+	Mutation is associated with uncontrolled cell division.
+	(any 3)												1m ( 3
+
+b	Radiotherapy affects dividing cells. /
+	Cancer cells are more susceptible to radiation than normal cells. /
+	Radiotherapy damages the DNA / chromosomes. /
+	By decreasing the diameter of blood vessels, the cancer cells are deprived of oxygen / glucose / nutrients. /
+	Respiration in the cancer cells is reduced. /
+	Waste products / Carbon dioxide cannot be removed from the cancer cells. /
+	This will stop the spread of cancer cells /
+	because the cancer cells are lack of energy / ATP for mitosis / DNA replication / cell division. 
+	This will kill the cancer cells.
+	(any 3)												1m ( 3	
+---------------------------------------------------
+
+[10252948]
+// Cross-topic // Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+Scientists found that the level of endostatin in blood increased during exercise. Endostatin is a protein which inhibits the formation of plaques in blood vessels. Scientists are now investigating whether endostatin can be used as a drug to treat coronary heart disease.	
+
+a	Suggest why lack of exercise increases the risk of coronary heart disease.
+													(2 marks)
+b	Apart from lack of exercise, state two other factors that increase the risk of coronary heart disease.									(2 marks)
+c	It is suggested that endostatin should be taken by injection instead of ingestion. Suggest one reason for this.						(2 marks)
+
+-- answer --
+a	When we are lack of exercise, the level of endostatin in blood is lower. Plaques are more likely to form within the wall of the coronary arteries.			1m
+When the plaques harden and narrow the lumen of the arteries, coronary heart disease results.											1m
+
+
+
+	b	Family history of coronary heart disease /
+		Ageing /
+		Smoking /
+		Intake of too much food that is high in cholesterol, saturated fats or trans fats /
+		Obesity /
+		High blood pressure /
+		Diabetes mellitus (any 2 or other correct answers)				1m x 2
+	c	Endostatin is a protein. It can be broken down by proteases in the alimentary 			canal.												1m
+		It may become ineffective when taken by ingestion.				1m	
+---------------------------------------------------
+
+[10252949]
+// Graph interpretation // High order thinking //
+(**The effects of regular exercise on glucose and insulin concentrations in blood were investigated. At the start of the investigation, glucose and insulin concentrations in the blood of a group of patients with type 2 diabetes were measured after fasting and two hours after drinking a glucose solution. The patients then exercised regularly for a year. The glucose and insulin concentrations in their blood were measured again after one year. The graphs below show the results.
+	
+
+a	Describe the changes in glucose and insulin concentrations in the blood after one year. Suggest how regular exercise caused these changes.
+													(4 marks)
+b	A doctor said, 'Patients with type 2 diabetes should avoid eating too much grapes'. Explain why the doctor's statement is correct.		(2 marks)
+
+-- answer --
+a	Glucose concentration in the blood two hours after drinking glucose solution became lower.												1m
+Insulin concentration in the blood two hours after drinking glucose solution became
+lower.													1m
+Regular exercise may have increased the sensitivity of body cells to insulin.	1m
+Thus, glucose was removed more quickly from the blood with less insulin produced.													1m
+b	Grapes are rich in monosaccharides which can be absorbed into the bloodstream directly.													1m
+Eating too much grapes may lead to a rapid increase in blood glucose level.	1m	
+---------------------------------------------------
+
+[10252950]
+// Data handling // Critical thinking // Applying concepts //
+(*		A study of the effect of air pollutants on the incidence of lung cancer was carried out. Men between 50-80 years old who lived between 1970-90 in town X were included in the study. They were divided into groups based on their levels of exposure to different types of air pollutants. The table below shows the incidence of lung cancer in each group.
+
+Type of air pollutant	Level of exposure	Sample size	Incidence of lung cancer 
+(per 1000 people)	
+Radon gas	Low	1223	28	
+	Middle	779	29	
+	High	861	30	
+Diesel exhaust fumes	Low	3195	31	
+	Middle	1596	38	
+	High	113	47	
+Petrol exhaust fumes	Low	2879	29	
+	Middle	221	36	
+	High	95	43	
+
+a	Why were men between 50-80 years old instead of children included in the study?												(1 mark)
+b	After reading the results, a student concluded that exposure to high levels of air pollutants caused cancer. Evaluate her conclusion.			(4 marks)
+
+-- answer --
+a	Older people have a longer time for mutations to accumulate to a level that lung cancer develops.											1m
+b	The incidence of lung cancer increases as the level of exposure to all the different types of air pollutants studied increases. /
+	The positive correlation between the level of exposure to the different types of air pollutants and the incidence of lung cancer does not necessarily mean causation. /
+	Other factors such as smoking may also be involved. /
+	Only three types of air pollutants / men / people of 50-80 years old / people in one town / incidence of lung cancer are included in the study. /
+	The difference in the incidence of lung cancer for radon gas is very small.
+(any 4)												1m × 4	
+---------------------------------------------------
+
+[10252952]
+// Schematic diagram // Basic concepts //
+(	The diagrams below show the cross section of an artery in different stages of a heart surgery.
+
+A	B	C	D	
+
+
+	
+	
+	
+	
+
+	a	Arrange the diagrams in the correct order.					(1 mark)
+	(		(		(		
+
+	b	Write down the name of the surgery.						(1 mark)
+	c	How is a plaque formed in the artery?						(1 mark)
+	d	Describe how this surgery helps reduce the risk of a heart attack.	(3 marks)
+
+
+-- answer --
+	a	D ( A ( C ( B											1m
+	b	Angioplasty												1m
+c	A plaque is formed when fatty substances like cholesterol in blood deposit within the wall of the artery.											1m
+d	A very small balloon introduced into the narrowed lumen of a coronary artery is inflated to flatten the plaques.									1m
+	This widens the artery and restores blood flows.						1m
+	The mesh keeps the artery open after the balloon is removed.			1m	
+---------------------------------------------------
+
+[10252960]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a tumour.
+	
+a	Is it a benign tumour or malignant tumour? Explain your answer according to features observed in the diagram.				(2 marks)
+b	Suggest how radiations may cause the formation of the tumour shown.														(1 mark)
+c	Explain the biological principle behind the use of high-energy radiations to treat cancer.										(1 mark)
+
+
+-- answer --
+	a	It is a malignant tumour										1m
+because the tumour cells are not enclosed in connective tissues. / the tumour has its own blood vessels / the cells are spreading to other parts of the body through the bloodstream.											1m
+b	Radiations may induce mutations in genes that regulate cell division, causing the cells to divide uncontrollably.									1m
+	c	High-energy radiations can kill cancer cells by damaging their DNA.		1m	
+---------------------------------------------------
+[10252983]
+// Overseas exam question // Cross-topic // Schematic diagram //
+(*	The diagram below represents a surface view of the heart showing the coronary arteries as well as other major blood vessels.
+	
+a	i	On the diagram, label one of the pulmonary arteries with the letter P.													(1 mark)
+ii	Identify the blood vessel from which the coronary arteries arise.														(1 mark)
+The development of an atheroma in the coronary arteries may lead to the formation of a clot - a coronary thrombosis - which may lead in turn to a myocardial infarction (heart attack).
+b	i	Describe the sequence of events which leads to the development of an atheroma in the coronary arteries. 						(2 marks)
+ii	Explain how a thrombosis in the coronary arteries would lead to a myocardial infarction. 								(2 marks)
+						CCEA GCE (AS) Biology Module 2 Jun 2011 Q7a, b
+
+-- answer --
+a 	i	Correct label										1m
+ii	Aorta												1m
+b	i	Cholesterol builds up on the wall of the coronary arteries. 		1m
+The cholesterol built up is called an atheroma. 				1m
+ii 	Blood supply to the heart would be blocked. / Cardiac muscles would be short of oxygen. 									1m
+Cardiac muscles would die / stop contracting. 				1m	
+---------------------------------------------------
+
+[10252988]
+// Overseas exam question // Applying concepts //
+(*	Cancer cells in the lungs may form a tumour, which can lead to blockage of the airways.
+a	State three ways in which lung cancer cells are different from normal lung cells.												(3 marks)
+b	Many cases of lung cancer are related to smoking.
+Describe two pieces of epidemiological evidence that link lung cancer to smoking. 											(2 marks)
+OCR GCE (AS) Human Biology Jan 2009 Q1
+
+-- answer --
+a	Lung cancer cells keep dividing. 								1m
+They are not specialized for a function. 							1m
+They can spread to other parts of the body.							1m
+b	The incidence of lung cancer is much higher in smokers compared to non-smokers. 												1m
+The incidence of lung cancer increases with the number of cigarettes smoked.															1m	
+---------------------------------------------------
+
+[10253003]
+// Overseas exam question // Basic concepts //
+(	Skin cancer is caused by a mutation. Kerry is going on holiday to Spain. Suggest two things she could do when in Spain to reduce her chances of getting skin cancer.													(2 marks)
+CCEA GCSE Science (Single Award) Module 2 Higher Tier May 2008 Q3
+
+-- answer --
+Avoid midday sun / wear more clothes / stay in shade / use sunscreen / limit the time in the sun (any 2)												1m x 2	
+---------------------------------------------------
+
+[10253011]
+// Overseas exam question // Schematic diagram // Applying concepts //
+(*	Skin cancer affects many people in Northern Ireland. The following diagram represents skin cancer.
+	
+a	Use the diagram to give two ways in which skin cancer cells differ from normal cells.											(2 marks)
+b	Explain how skin cancer cells develop and suggest one reason why the number of people from Northern Ireland getting skin cancer is increasing.														(3 marks)
+CCEA GCSE Science (Single Award) Module 2 Foundation Tier Nov 2008 Q7
+
+-- answer --
+a	Cancer cells are smaller in size. 								1m
+Nuclei of cancer cells are larger.									1m
+b	Skin cancer cells develop due to mutations / induced changes in DNA. 	1m
+The development of skin cancer cells can be triggered by ultraviolet light in sunlight. 													1m
+The increasing number of people getting skin cancer may be due to an increasing number of people having sunbed tanning.				 			1m	
+---------------------------------------------------
+
+[10253017]
+// Overseas exam question // Applying concepts //
+(*	Cancer of the kidney can occur. The cause is not known but there is some evidence to suggest that cigarette smoking increases the risk.
+The outcome of the disease varies depending on whether cells from the cancer have broken away. Early diagnosis is essential if treatment is to be successful. 
+a	Suggest how smoking may increase the risk of kidney cancer.	(2 marks)
+b	Explain how cells breaking away from the cancer affects the outcome of the disease.												(3 marks)
+c	Suggest an early warning sign that a patient might spot for kidney cancer. 														(1 mark)
+OCR GCE (A) Human Biology Jan 2008 Q5
+-- answer --
+a	Carcinogen (tar) in cigarette smoke enters the bloodstream and circulates to kidney tissues. 												1m
+This may induce uncontrolled mitotic cell division of kidney cells.			1m
+b	Cancer cells may spread to other parts of the body through the bloodstream and lymphatic system											1m
+and divide uncontrollably by mitotic cell division. 					1m
+Secondary tumours are more difficult to treat.						1m 
+c	Blood in urine / abnormal colour of urine / pain / weight loss				1m	
+---------------------------------------------------
+
+[10253024]
+// Overseas exam question // Graph interpretation // STSE connections //
+(*	Breast cancer is a common cancer in women in the UK.
+The diagram below shows the incidence and mortality rate for breast cancer per 100 000 women between 1971 and 2003 in the UK.
+
+	
+
+a	i	Using the information in the above diagram, describe the trends in the incidence and mortality rate for breast cancer between 1971 and 2003. 												(3 marks)
+ii	Suggest reasons for the trends described in a i. 			(2 marks)
+b	State two factors that increase the risk of developing breast cancer. 															(2 marks)
+OCR GCE (AS) Human Biology Jan 2008 Q2
+-- answer --
+a	i	The incidence had increased. /
+The mortality rate had stayed the same until 1988. /
+The mortality rate had decreased slightly after 1988. /
+The incidence was much higher than the mortality rate. /
+The difference between the incidence and mortality rate had widened. 
+(any 3)											1m x 3
+ii	Lifestyle changes resulted in an increase in new cases. /
+Improved diagnostic techniques detected more cases / breast cancer at an earlier stage. /
+The health awareness campaigns were effective / more women were screened for breast cancer. /
+There were more successful treatments available. (any 2) 		1m x 2
+b	Family history of breast cancer / fewer or no children / not breast-feeding / taking contraceptive pills / obesity / heavy alcohol intake / ageing / X-ray or gamma radiation used in medical examination of the chest / have had breast cancer before (any 2)												1m x 2	
+---------------------------------------------------
+
+[10253033]
+// Graph interpretation // Calculation // STSE connections //
+(	The bar chart below shows how the annual death rate from lung cancer is related to their smoking habits.
+	
+a	Calculate the difference in the annual death rate between people who smoked 10 cigarettes per day and non-smokers.				(1 mark)
+b	State how the number of cigarettes smoked per day is related to the death rate from lung cancer.									(1 mark)
+
+c	State two actions that the government has taken to reduce the number of smokers in Hong Kong.									(2 marks)
+
+-- answer --
+a	78 - 10 = 68 deaths per 100 000 people per year				1m
+b	The more cigarettes smoked per day, the more likely the person dies of lung cancer.												1m
+c	Ban smoking in public places. / 
+Increase tobacco tax. / 
+Ban tobacco advertising. (any 2 or other reasonable answers)		1m x 2	
+---------------------------------------------------
+
+[10253042]
+// High order thinking // STSE connections //
+(**Certain segments of DNA can normally suppress uncontrolled cell division in the body. In many forms of cancer, modifications in these segments of DNA have been found. By testing for the presence of these modified segments of DNA in urine samples, screening for the presence of kidney cancer in a population may become possible. Currently, kidney cancer can only be identified by examining kidney tissue under a microscope.
+a	Suggest how modified segments of DNA can lead to cancer.	(2 marks)
+b	State one advantage of this screening method for kidney cancer.	(1 mark)
+c	State two factors that should be taken into account before introducing such a screening programme to a population.						(2 marks)
+
+-- answer --
+a	The modified segments of DNA can no longer carry out their normal function of suppressing uncontrolled cell division. 						1m
+Cells start to divide uncontrollably to form a malignant tumour.		1m
+b	It is non-invasive. / 
+It is simple. / 
+Urine samples can be obtained easily.						1m
+c	The availability of kidney cancer treatments / 
+The accuracy / reliability / safety of the screening method /
+The effectiveness of the screening method in reducing the death rate from kidney cancer /
+The prevalence of kidney cancer in the population 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10253048]
+// Basic concepts //
+(	It is advised that the amounts of saturated fats, sugars and salt in the diet should be controlled.
+State one health risk that is caused by each of the following diets.		
+a	A diet containing too much saturated fats					(1 mark)
+b	A diet with too much sugars								(1 mark)
+c	A diet with too much salt								(1 mark)
+-- answer --
+a	Coronary heart disease / heart attack / stroke 						1m 
+b	Obesity / type 2 diabetes / coronary heart disease / heart attack / tooth decay															1m
+c	High blood pressure 											1m	
+---------------------------------------------------
+
+[10253065]
+// Basic concepts //
+(	Describe the cause of coronary heart disease.					(3 marks)
+-- answer --
+When fatty substances like cholesterol in blood deposit within the wall of a coronary artery, a plaque is formed.											1m
+Over time, the plaque hardens and becomes larger. It narrows the lumen of the artery.																1m
+This reduces the amount of blood flowing to the cardiac muscles and causes coronary heart disease.													1m	
+---------------------------------------------------
+
+[10253074]
+// Applying concepts //
+(*	Describe the relationship between coronary heart disease and diet.	(5 marks)
+-- answer --
+Eating foods high in cholesterol, saturated fats and trans fats can lead to high blood cholesterol level. 												1m
+Excess cholesterol can deposit on the inner wall of coronary arteries, leading to coronary heart disease.											1m
+Excess fats / carbohydrates / sugars / food / energy intake can cause obesity.	1m
+Excess salt intake can cause high blood pressure.						1m 
+Obesity and high blood pressure increase the risk of coronary heart disease.	1m	
+---------------------------------------------------
+[10253084]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a tumour on the skin of a person.
+	
+a	Referring to the diagram, determine whether this tumour is benign or malignant. Explain briefly.								(2 marks)
+b	Explain why tumours are more common in older people. 		(3 marks)
+-- answer --
+a	It is malignant.												1m
+The tumour cells are spreading to other parts of the body through the bloodstream. 														1m
+b	Tumours are caused by an accumulation of mutations. 				1m
+Older people have had a longer time for mutations to accumulate to a level that causes tumour.												1m 
+The immune system of older people is weaker and less effective in destroying tumour cells. 												1m	
+---------------------------------------------------
+
+[10253098]
+// Comparison // Communication //
+(*	Distinguish between benign tumours and malignant tumours.		(6 marks)
+-- answer --
+In benign tumours, the tumour cells are enclosed in connective tissues, 		1m
+while in malignant tumours, the tumour cells are not enclosed in connective tissues.																1m
+Cells of benign tumours do not spread to other parts of the body, 			1m
+while cells in malignant tumours can spread to other parts of the body.			1m
+Benign tumours do not have their own blood supply, 						1m
+while malignant tumours have their own blood supply.						1m	
+---------------------------------------------------
+[10253103]
+// Applying concepts //
+(*	Tom has no friend in school because of his bad temper. At the nights before tests or exams, Tom is usually so frustrated that he is unable to sleep. One day, he caught a cold and suffered from a fever, a sore throat, a runny nose, dizziness and a headache, and coughed and sneezed frequently. After taking medicines prescribed by the doctor, the symptoms disappeared and Tom completely recovered from the cold.
+a	Explain why a cold is considered as a disease.				(2 marks)
+b	According to the World Health Organization (WHO), Tom was not healthy even after his recovery from the cold. 
+i	What is the meaning of health according to the WHO?		(1 mark)
+ii	Explain why Tom was not healthy even after his recovery from the cold according to the WHO.							(2 marks)
+
+-- answer --
+a	Some body parts (e.g. the respiratory tract) cannot function normally as a result of the cold. 													1m
+It gives the patient a series of symptoms.							1m
+b	i	According to the WHO, health is a state of complete physical, mental and social well-being.										1m
+ii	His difficulty in making friends with others shows that he is not in a state of social well-being.										1m
+He is frustrated and cannot sleep before tests and exams, indicates that he may suffer from stress. This shows that he is not in a state of mental well-being.												1m	
+---------------------------------------------------
+
+
+
+Structured questions
+
+[10253176]
+// Scientific investigation // Graph interpretation // Critical thinking //
+(*	A scientist carried out an investigation to study the use of diet in treating type 2 diabetes. Ten volunteers, who had just been diagnosed with diabetes, participated in the investigation. They often ate foods that were high in sugar content.
+
+	The scientist measured the blood glucose levels of the volunteers over 24 hours. Then the volunteers were asked to have a new diet which contained little sugar and starch but a lot of dietary fibres. After one month, the scientist measured the blood glucose levels of the volunteers over 24 hours again. The graph below shows the results.
+	
+a	Explain why the scientist measured the blood glucose levels of the volunteers before giving them the new diet.					(1 mark)
+b	Describe and explain the effect of the new diet on the blood glucose levels of the volunteers.										(5 marks)
+c	Is it valid to conclude that the new diet is successful in treating type 2 diabetes? Explain your answer. 							(3 marks)
+
+-- answer --
+a	This provides a baseline to compare the result of the experiment using the new diet.													1m
+b	The mean blood glucose levels become lower.					1m
+	There is less fluctuation in the mean blood glucose levels.			1m
+	The new diet contains little starch so less starch is digested into glucose.															1m
+	The new diet also contains little sugar. On the whole, less glucose is absorbed
+into the blood.											1m
+	Cellulose in dietary fibres in the new diet is indigestible. It does not affect the 
+blood glucose levels.										1m
+c	No.													1m
+	The sample size is too small. / 
+	The investigation is not repeated. /
+	The age / gender / lifestyle of the volunteers is not known. /
+	The measurement was taken for one day only. /
+	The diet may not work in the long term.
+	(any 2 or other reasonable answers)							1m ( 2	
+---------------------------------------------------
+
+[10253181]
+// Overseas exam question // Cross-topic // Graph interpretation //
+(*	The prevalence of bowel cancer has increased in the UK over the last 40 years.
+	Benzopyrene is a molecule that has been linked to an increased risk of bowel cancer. It can be produced in cigarette smoke and burned food. Research indicates that benzopyrene may affect the p53 gene.
+a	i	Suggest how benzopyrene may affect the p53 gene, leading to an increased risk of cancer.								(3 marks)
+ii	Benzopyrene is a chemical carcinogen. Exposure to chemical carcinogens increases the risk of developing cancer. State two other factors that increase the risk of developing cancer.		(2 marks)
+b	The presence of blood in a person's faeces can be an early sign of bowel cancer.
+	The Faecal Occult Blood Test (FOBT) is a method of screening populations for bowel cancer. The test detects blood in faeces.
+	Figure 1 shows the results of a study that compared the bowel cancer mortality rates of two groups. One group was screened for bowel cancer every two years using the FOBT. Members of the control group were not screened.
+
+	
+Figure 1
+
+	A student looking at the data in Figure 1 made the following statement:
+	'FOBT screening improves the chances of surviving bowel cancer.'
+i	Using the information in Figure 1, suggest one piece of evidence that supports the student's statement.						(1 mark)
+ii	What further information would be needed to assess the validity of the student's statement?								(2 marks)
+iii	If blood is found in faeces using the FOBT, additional tests are needed to confirm the presence of bowel cancer.
+	Suggest why additional tests are needed if blood is found in the faeces.												(1 mark)
+OCR GCE (AS) Human Biology Growth, Development and Disease 
+Jun 2015 Q6a, b
+
+
+
+-- answer --
+a	i	p53 gene is a gene which suppresses tumour formation.		1m
+		Benzopyrene causes mutation of p53 gene.				1m
+		Cells divide uncontrollably, producing a tumour. 				1m
+ii	Heredity / genetic factor / family history of cancer /
+	Viruses / viral infecions /
+	Ageing /
+	Exposure to radiation /
+	Lack of exercise /
+	Overweight
+	(Any 2 or other reasonable answers)						1m ( 2
+
+
+
+b	i	The screened group has lower mortality than the control group after three years.											1m
+ii	Sample size / 
+Whether the participants are randomized / 
+Age / gender / lifestyle / family history of participants (at start of study)
+	(Any 2 or other reasonable answers)						1m ( 2
+iii	Blood could be from sources other than a tumour.			1m	
+---------------------------------------------------
+
+[10253197]
+// Overseas exam question // Cross-topic // Graph interpretation //
+(*	The graph shows the effect of exercise on the pulse rate of three students.
+	
+a	Suggest which student is likely to have trained regularly. Give two reasons for your choice. Include data from the graph with each reason.	(5 marks)
+b	Give one way the heart benefits from regular exercise.			(1 mark)
+
+c	The diagram shows part of a heart after a heart attack.
+	
+i	Name blood vessel X.								(1 mark)
+ii	Suggest which type of chamber is affected by this heart attack.														(1 mark)
+iii	This heart attack was caused by the inside of blood vessel X becoming blocked. Suggest what caused this blockage.				(1 mark)
+iv	Explain what caused the area of dead cells.				(3 marks)
+CCEA GCSE Biology Foundation Tier Unit 2 Jun 2016 Q10
+
+
+
+-- answer --
+a	Louise												1m
+The heart rate at rest (56 beats per minute) is lower. /
+It takes more time (9 minutes) to reach the maximum heart rate. /
+The maximum heart rate (132 beats per minute) is lower. /
+The time taken for the heart to return to the resting rate is shorter (4 minutes).
+(any 2)												2m × 2
+b	Regular exercise helps strengthen heart muscles / increase cardiac output.														1m
+c	i	Coronary artery										1m
+ii	Ventricle											1m
+iii	Blood clot / build up of cholesterol inside blood vessel X.		1m
+iv	No blood flow when blood vessel X is blocked.				1m
+	No oxygen / sugar is supplied to cells.						1m
+	The cells cannot respire / release energy and die.			1m	
+---------------------------------------------------
+
+
+[10253204]
+// Overseas exam question // STSE connections // Applying concepts //
+(*	A health survey was conducted on two women in their mid-twenties by an insurance company. Here is some of the information they provided:
+
+Woman X	Woman Y	
+in full employment	not in employment	
+often eats takeaway 'fast food' such as burgers	usually eats oven-ready meals	
+is slightly overweight (BMI of 26)	is very overweight (BMI of 29)	
+exercises regularly as a member of a ladies squash club	rarely exercises more than walking to the local shop	
+is a non-smoker	is a non-smoker	
+visits a local pub or club once or twice a week with friends	rarely goes out other than for essential shopping trips	
+drinks moderately - two or three alcopops when out with friends	drinks up to a bottle of wine at home each day	
+has no children	has three children under five years old	
+
+a	The insurance company conducting the survey concluded that woman X was probably more healthy than woman Y.
+Use the information above to explain their conclusion.			(3 marks)
+b	Woman Y asserted that she was in good health because she never felt unwell. The insurance company disagreed with her.	
+Use the information provided by woman Y to discuss the statement 'health is more than simply the absence of disease'.					(3 marks)
+c	The results of this survey were added to a long-term epidemiological study.
+Suggest why long-term epidemiological studies are carried out.	(2 marks)
+OCR GCE (AS) Biology Jan 2008 Q3
+
+-- answer --
+a	Woman X is less overweight. / 
+Woman X exercises more. / 
+Woman X drinks less alcohol. / 
+Woman X is likely to be in better mental health. / 
+Woman X has social life. (any 3)								1m x 3
+b	She has no social life, thus she is not in a state of social well-being.	1m
+Her lifestyle suggests that she may be unhappy / depressed (e.g. it may be stressful to look after three young children / she may drink to relieve stress), thus she is not in a state of mental well-being. 						1m
+Her lifestyle increases susceptibility to diseases (e.g. she has unbalanced diet / little exercise), thus she may not be in a state of physical well-being.	1m
+c	It is used to assess the health risks of certain lifestyle. / 
+It is used to assess the linkage of diseases to lifestyle. / 
+It is used to help set appropriate premium for insurance. / 
+It is used to look at the change over time and the regional differences of certain diseases. (any 2)										1m x 2	
+---------------------------------------------------
+
+[10253207]
+// STSE connections // Schematic diagram // Basic concepts //
+(*		The diagram below shows the external view of a human heart. Part of the coronary artery is narrowed by a plaque, resulting in coronary heart disease.
+	
+
+a	From which blood vessel does the coronary artery branch out?	(1 mark)
+b	Describe how a plaque is formed. 						(2 marks)
+c	Explain how a narrowed coronary artery may lead to a heart attack.															(3 marks)
+
+d	A heart attack may be avoided by performing the following surgery on the narrowed artery. How does the surgery work?				(3 marks)
+	
+
+e	Suggest two measures the government can adopt to reduce the number of cases of coronary heart disease.							(2 marks)
+
+
+-- answer --
+	a	Aorta													1m
+b	A plaque is formed when fatty substances like cholesterol in blood	1m
+	deposit within the wall of a blood vessel.						1m
+c	The narrowed coronary artery may be completely blocked by a blood clot.																	1m
+Some cardiac muscles cannot receive enough oxygen and nutrients.	1m		They die and a heart attack occurs.							1m
+d	The inflated balloon flattens the plaque.						1m
+		The blood flow is restored.									1m
+		The metal mesh keeps the artery open after the balloon is removed.	1m
+e	Promote healthy eating / aerobic exercise. /
+	Encourage smokers to quit smoking. /	
+	Provide screening programme for high blood cholesterol or high blood pressure. /
+	Increase tobacco tax. (any 2 or other correct answers)				1m × 2	
+---------------------------------------------------
+
+
+[10253229]
+// Data handling // Applying concepts //
+(*	Two persons, P and Q, had a test for diabetes mellitus. After fasting overnight, their blood glucose levels were measured at 09:00. Then they were asked to drink a glucose solution and their blood glucose levels were monitored over the following 5 hours. The table below shows the test results.
+
+	09:00	10:00	11:00	12:00	13:00	14:00		Blood glucose level of P (mg 100 mL-1)	90	128	95	87	90	90		Blood glucose level of Q (mg 100 mL-1)	144	212	198	186	173	162		
+a	Distinguish type 1 diabetes from type 2 diabetes by their causes.	(2 marks)
+b	Give one symptom of diabetes mellitus. 					(1 mark)
+c	Which person, P or Q, is suffering from diabetes mellitus? Support your answer with two pieces of evidence from the results.			(3 marks)
+d	Why did P and Q need to fast overnight before having the test?	(1 mark)
+e	The diabetic was advised to have regular exercise. Give two ways by which regular exercise can help manage diabetes mellitus.			(2 marks)
+
+
+-- answer --
+	a	Type 1 diabetes is caused by the production of too little or no insulin by the 				pancreas.												1m
+Type 2 diabetes is caused by the insensitivity of body cells to insulin.	1m
+b	Glucose in urine / frequent urination / excessive thirst / tiredness		1m
+c	Q is suffering from diabetes mellitus.							1m
+The (starting) blood glucose level of Q is much higher than that of P. /
+There is a larger increase in the blood glucose level of Q. /
+The blood glucose level of Q decreases slowly / does not return to the starting 	value. (any 2)											1m × 2
+d	To measure the base levels of their blood glucose levels. /
+	To avoid false positive results.								1m
+	e	Regular exercise can increase the sensitivity of body cells to insulin	1m
+and reduce body weight.									1m	
+---------------------------------------------------
+
+
+[10253233]
+// Graph interpretation // High order thinking // STSE connections //
+(*	Colorectal cancer is a cancer of the colon or rectum. The graph below shows the incidence of colorectal cancer in Hong Kong between 1983 and 2013.
+	
+a	Describe the trends in the incidence of colorectal cancer between 1983 and 2013.												(2 marks)
+b	The Colorectal Cancer Screening Programme in Hong Kong began in 2018. People who aged 55-70 years can now join the programme.
+	i	Give two benefits the programme can bring to society.		(2 marks)
+	ii	Explain why the programme targets people aged 55-70 years.															(1 mark)
+c	Bevacizumab is a drug which inhibits the growth of new blood vessels. Suggest why bevacizumab can be used to treat colorectal cancer.
+													(2 marks)
+-- answer --
+a	The incidence of colorectal cancer had an upward trend between 1983 and 2002.															1m
+It became stable between 2002 and 2013.							1m
+b	i	It helps improve cure rate as it allows early diagnosis of colorectal cancer.
+														1m
+	It also helps save health resources by treating the disease before it
+	progresses.											1m
+ii	Older people are more likely to have colorectal cancer because they have had a longer time for mutations to accumulate to a level that the disease develops.														1m
+
+c	The drug may inhibit the growth of new blood vessels from malignant tumour. Thus, the oxygen and nutrient supplies to cancer cells decrease.			1m
+The cancer cells may stop growing or even die.						1m	
+---------------------------------------------------
+
+[10253237]
+// Overseas exam question // Graph interpretation // Data handling //
+(*	Type 2 diabetes accounts for between 85% and 95% of people with diabetes.
+Type 2 diabetes usually appears in people over the age of 40.
+The diagram below shows the changes in blood glucose concentration over two days in an untreated type 2 diabetic person and in a non-diabetic person.
+	
+
+a	i	State the range over which the blood glucose concentration varies in the untreated type 2 diabetic and the non-diabetic person over the two days.											(2 marks)
+ii	One test used to diagnose diabetes is the fasting blood glucose test. Using the information in the diagram, state the most suitable time for a blood sample to be taken for the fasting blood glucose test.	(1 mark)
+iii	As shown in the diagram, the blood glucose concentration of an untreated type 2 diabetic is always higher than that of a non-diabetic person. Explain why.								(2 marks)
+b	The table below shows the prevalence of type 2 diabetes between 1994 and 2001 in England.
+Gender	Prevalence of type 2 diabetes (per 1000)	
+	1994	1995	1996	1997	1998	1999	2000	2001		Female	16	17	17	18	19	20	21	23		Male	18	19	20	21	22	23	25	27		
+i	Using the information in the table, describe the trends in the prevalence of type 2 diabetes between 1994 and 2001. 				(3 marks)
+ii	Suggest three reasons for the trends described in b i. 		(3 marks)
+OCR GCE (AS) Human Biology Growth, Development and Disease Jan 2012 Q5
+
+-- answer --
+a	i	Untreated type 2 diabetic: 
+8-18 mmol L-1 										1m
+Non-diabetic: 
+3-7 mmol L-1										1m
+ii	08:00											1m
+iii	The body tissues of a type 2 diabetic is insensitive to insulin. / 
+Their body cells take in less glucose. /
+Less glucose is converted to glycogen. /
+Therefore, the body cannot lower the blood glucose level.
+(any 2)											1m x 2
+b	i	The prevalence increased in males and females. / 
+The increase was greater in males. /
+The increase was greater after 1998. /
+The prevalence was always higher in males than in females. 
+(any 3)											1m x 3 
+ii	More people were suffering from obesity. / 
+People were taking less exercise. /
+People were living longer. / 
+People were having a diet higher in lipids / sugars. /
+People were having greater awareness so more people were diagnosed with diabetes. (any 3)									1m x 3	
+---------------------------------------------------
+
+[10253248]
+// Overseas exam question // Graph interpretation // Communication //
+(*	a	The diagrams below show the relationship between the mean number of cigarettes smoked per person per year and the incidence of lung cancer for both men and women between 1900 and 1990.
+
+	
+
+	
+
+i	Compare the changes in patterns of smoking in men and women from 1900 to 1990.										(2 marks)
+ii	What evidence from the diagrams suggests that smoking causes lung cancer?											(2 marks)
+b	Describe how smoking contributes to the development of lung cancer.
+													(6 marks)
+c	Name three other diseases associated with smoking.			(3 marks)
+		OCR GCE (AS) Molecules, Biodiversity, Food and Health Jun 2011 Q5
+-- answer --
+a	i	The number of cigarettes smoked for both men and women increased between 1925 and 1960. /
+Men started smoking before 1900. / The number of cigarettes smoked by women started to increase after 1925. /
+The number of cigarettes smoked by men and women became similar by 1990. /
+The number of cigarettes smoked by men levelled off. / The number of cigarettes smoked by women continued to increase. (any 2)	1m x 2
+ii	The number of cigarettes smoked and the incidence of lung cancer showed similar pattern. / 
+The increase in the incidence of lung cancer lagged behind the increase in the number of cigarettes smoked. /
+Once the number of cigarettes smoked levelled off, there is a corresponding levelling off in the incidence of lung cancer. / 
+Men always smoked more and had a higher incidence of lung cancer.
+(any 2)											1m x 2
+b	Tar is carcinogenic. / Cigarette smoke contains carcinogens. 		1m
+These carcinogens enter lung epithelial cells. 					1m
+They enter the nucleus of the cells / are in contact with DNA. 		1m
+They cause mutations. 									1m
+The cells divide uncontrollably. 								1m
+A tumour / mass of cells is formed.							1m 
+c	Mouth / tongue / throat / oesophageal cancer / 
+Bronchitis /
+Coronary heart disease /
+Stroke (any 3)											1m x 3	
+---------------------------------------------------
+
+[10253270]
+// Overseas exam question // Data handling // Schematic diagram //
+(*	In order to promote good health and reduce mortality from coronary heart disease (CHD), a number of large scale studies have been carried out to identify the risk factors for this disease.
+Genetic inheritance, age and gender are three risk factors that have been identified.
+
+
+The table below shows the mortality from CHD in males and females in 2007 in the UK.
+Age (year)	Number of male deaths	Number of female deaths	
+under 35	129	27	
+35-44	783	183	
+45-54	2679	578	
+55-64	6687	1779	
+65-74	11 335	4987	
+a	i	Using the information in the table, describe the effect of age and gender on the risk of death from CHD.					(3 marks)
+ii	Suggest reasons for the effect of age and gender on the risk of death from CHD.										(4 marks)
+b	One symptom of CHD is chest pain called angina.
+i	Explain why people with angina may feel pain when they start to exercise.											(3 marks)
+ii	Angina is often treated by a surgical technique called angioplasty.
+The diagrams below show some of the stages in this surgical technique.
+	
+Using the information in the diagrams, describe how angioplasty is carried out.										(4 marks)
+
+iii	Name two surgical techniques, other than angioplasty, that are used to treat CHD.										(2 marks)
+OCR GCE (AS) Human Biology Growth, Development and Disease 
+	May 2011 Q5
+
+-- answer --
+a	i	As age increases, the number of deaths increases. /
+At all ages, more men die than women. /
+Pairs of comparative figures to show death increases with age / 
+Pairs of comparative figures to show more men die than women
+(any 3)											1m x 3
+ii	Age:
+Older people are more likely to be overweight / obese. /
+Older people are more likely to be inactive. /
+Older people are more likely to have high blood pressure. /
+Older people are more likely to have high cholesterol level. /
+Older people are more likely to have diabetes mellitus. /
+Older people may have been smoking for longer. (any 3)		1m x 3
+Gender:
+Men smoked more in the past.							1m
+b	i	Exercise leads to an increase in heart rate. /
+Cardiac muscles need more oxygen during exercise. / 
+In people with angina, the coronary arteries are narrowed. /
+Less blood is supplied to the cardiac muscles. / 
+Not enough oxygen is supplied for respiration. (any 3)			1m x 3
+ii	A tube is introduced into an artery. / 
+The stent and balloon are pushed into the coronary artery. /
+The balloon is inflated. /
+The stent is expanded. /
+The coronary artery is widened by the inflated balloon. /
+The balloon is then removed. /
+The stent is left in the coronary artery. (any 4)				1m x 4
+iii	Coronary bypass surgery								1m 
+Heart transplant										1m
+(or other correct answers)	
+---------------------------------------------------
+
+
+[10253278]
+// Overseas exam question // Calculation // Applying concepts //
+(*	The prevalence of type 2 diabetes is expected to double by 2050. In many cases, this condition is associated with obesity.
+a	The results of an investigation suggested that large quantities of potatoes in the diet may increase the risk of developing type 2 diabetes.
+-	The portions of potato eaten by 84 555 healthy women were recorded for twenty years.
+-	The number of portions eaten ranged from zero to six portions per day.
+-	During the investigation, 4496 women developed type 2 diabetes.
+-	The development of type 2 diabetes showed a positive correlation with the quantity of potato eaten.
+i	Calculate the percentage of women in the sample who developed type 2 diabetes. Show your working. Give your answer to the nearest whole number.											(2 marks)
+ii	List three variables which should have been controlled in this investigation.										(3 marks)
+b		How does the development of type 1 diabetes differ from the development of type 2 diabetes? 									(3 marks)
+OCR GCE (A) Human Biology Jun 2008 Q2
+
+-- answer --	
+a	i	4496 / 84 555 × 100% 								1m
+= 5%												1m
+ii	Age / 
+	Family history / genetic predisposition / 
+Physical activity / 
+Initial BMI / 
+Other foods in diet / Smoking habit (any 3)					1m x 3
+b	In type 1 diabetes, the pancreas is incapable of secreting enough insulin. 															1m
+The onset of type 1 diabetes is usually early. 					1m
+Type 1 diabetes is not caused by diet / obesity.					1m	
+---------------------------------------------------
+
+[10253283]
+// Overseas exam question // Graph interpretation // Calculation //
+(*	Mary is 16 years old and lately has been feeling unwell. She went to the doctor and was told that she had type 2 diabetes. Mary thought that type 2 diabetes was an illness of older people.
+Mary often went out with her friends and liked nothing better than to round off the evening with a burger and chips and a bottle of fizzy drink. She has been gaining too much weight over the last few years.
+The doctor gave Mary a glucose testing meter to test her blood glucose concentration every morning before breakfast.
+a	Explain why the doctor wanted Mary to:
+i	measure her blood glucose concentration; 				(3 marks)
+ii	measure it every morning before breakfast. 				(2 marks)
+b	The doctor explained to Mary that it was essential that she changed her diet.
+State the changes that Mary should make to her diet. 			(3 marks)
+c	Gross proteinuria is a condition where large quantities of protein appear in the urine. Research has shown that if diabetes is not treated and blood glucose controlled, proteinuria may develop within 10 years of diagnosis of diabetes.
+Gross proteinuria is an indicator of severe kidney damage, which may eventually develop into renal failure.
+The diagram below shows the incidence of diabetes and the incidence of gross proteinuria, 10 years after diagnosis of diabetes.
+	
+
+i	Calculate the percentage increase in the incidence of diabetes from 1988 to 1998. Show your working and give your answer to one significant figure.									(2 marks)
+ii	Describe the relationship between the incidence of diabetes and gross proteinuria, as shown in the diagram.					(3 marks)
+OCR GCE (A) Human Biology Jan 2008 Q6
+-- answer --
+a	i	To increase Mary's awareness of her condition. 				1m
+To monitor the effect of diet changes. 					1m
+The results can help Mary control her blood glucose with diet.	1m
+ii	Measuring blood glucose concentration in the morning can get a fasting blood glucose concentration / can eliminate the effect of food eaten.														1m
+If this measurement is high, there is a real problem.			1m
+b	She should avoid foods that are rich in sugars. /
+She should avoid foods that are rich in saturated fats. /
+She should eat more fibre-rich foods / whole grain foods. /
+She should have a balanced diet. (any 3)						1 m x 3
+c	i	(21.5 - 15) / 15 × 100% 								1m
+= 40%											1m
+ii	As the incidence of diabetes increases, the incidence of gross proteinuria also increases. / The incidences of diabetes and gross proteinuria increase at similar rate. 										1m
+Gross proteinuria affects approximately 1/3 of diabetics. / The incidence of gross proteinuria is less. 								1m
+The graph suggests that diabetes is the cause of gross proteinuria.														1m	
+---------------------------------------------------
+
+[10253285]
+// Overseas exam question // Cross-topic // Applying concepts //
+(*	The human body is a dynamic system existing in a constantly changing environment. If the body is to function well, it must adjust its metabolism in response to these changes, using homeostatic mechanisms.
+a	Describe how homeostatic mechanisms operate.				(3 marks)
+b	If a person with type 1 diabetes experiences low blood sugar his/her condition may become serious.
+i	Suggest three causes of low blood sugar in a person with type 1 diabetes. 										(3 marks)
+ii	Explain why low blood sugar in a person with type 1 diabetes may have serious effects on the body. 						(2 marks)
+OCR GCE (A) Human Biology Jan 2009 Q4
+-- answer --
+a	Homeostatsis is brought about by negative feedback mechanism.	1m
+It maintains a constant internal environment.					1m
+Receptors detect changes in internal or external environment and relay the information to the control centre. The control centre causes effectors to produce responses after processing the information.						1m
+b	i	He/she may have injected too much insulin. /
+He/she may have eaten too little food. / 
+He/she may have done too much exercise. /
+He/she may lack glucagon. (any 3)						1m x 3
+ii	Glucose is the main respiratory substrate. / The brain can use only glucose for respiration. 										1m
+He/she may go into a coma / have a heart attack. 			1m	
+---------------------------------------------------
+
+[10253290]
+// Graph interpretation // STSE connections // Applying concepts //
+(*	The graph below shows the notification rate (呈報率) and death rate of tuberculosis in Hong Kong from 1991 to 2010.
+	
+Source: Department of Health, HKSAR Government
+a	Briefly describe the trends of the notification rate and death rate of tuberculosis in the period shown.							(3 marks)
+b	Suggest one reason for the trend of the death rate of tuberculosis in the period shown.											(1 mark)
+c	Can we deduce any relationship between the notification rate and death rate of tuberculosis according to the graph? Explain briefly.		(2 marks)
+d	Tuberculosis is one of the notifiable infectious diseases required by the Department of Health. Medical practitioners are required to notify the Department of Health of all suspected and confirmed cases of tuberculosis. How does this measure help promote community health?		(2 marks)
+e	Suppose you are an official in the health education sector in the Department of Health, suggest two measures to reduce the cases of tuberculosis in Hong Kong.												(2 marks)
+
+
+-- answer --
+a	The notification rate of tuberculosis decreased from the year 1991 to 1996 and then increased slightly in the next two years.						1m
+	The rate then decreased again from the year 1998 to 2010.				1m
+	The death rate of tuberculosis decreased continuously from the year 1991 to 2010.														1m
+b	Improved personal hygiene among the public. / More effective drugs for treating tuberculosis were developed.									1m
+	(or other reasonable answers)
+c	No.														1m
+	It is because sometimes when the notification rate was increasing, the death rate was decreasing. / There is no positive correlation between the notification rate and the death rate. 												1m
+	(or other reasonable answers)
+d	This allows early diagnosis which improves cure rate, 				1m
+	and helps save health resources by treating tuberculosis before it progresses.															1m
+e	Broadcasting TV advertisement to remind the public to keep good ventilation.															1m
+	Lauching posters about wearing a face mask in crowded places.			1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10253298]
+// Graph interpretation // Applying concepts //
+(*	Leukaemia, also called blood cancer, is a disease in which the bone marrow produces a large number of white blood cells abnormally. The graph below shows the number of deaths from leukaemia per 100 000 people in a country.
+	
+a	Leukaemia patients have more white blood cells than healthy people do, but their immunity is abnormally weak. Explain why.				(3 marks)
+b	Besides weakening the immunity, in what other ways may leukaemia be harmful to the body?									(3 marks)
+c	From the graph, draw two conclusions about the leukaemia cases in the country.												(2 marks)
+d	Bone marrow transplant is the best way to cure leukaemia. Before the bone marrow from a donor is transplanted into the patient's body, the patient has to receive chemotherapy which involves the use of drugs and/or radiation. Give one reason.										(2 marks)
+-- answer --
+a	Leukaemia patients have more white blood cells because cancer cells divide much faster than normal cells.										1m
+The white blood cells produced from the cancerous bone marrow are abnormal. 															1m
+They cannot function normally or provide body defence.				1m
+b	The cancer cells may spread to other parts of the body				1m
+through the bloodstream or lymphatic system.						1m
+At the new sites, the cancer cells may grow into another malignant tumour, causing damage to other organs and even death.					1m
+c	Leukaemia occurs more frequently in males than in females.			1m
+The number of deaths from leukaemia increases from 45 to 84 years of age.															1m
+d	To kill all the cancer cells in the patient's body,						1m
+so that the healthy bone marrow from the donor can function properly after it is transplanted into the patient's body.								1m	
+---------------------------------------------------
+
+[10253305]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the death rate from malignant skin tumours of fair-skinned men in different age groups.
+	
+a	How is a malignant tumour different from a benign tumour?	(2 marks)
+b	Why does the death rate of malignant skin tumour increase in older people? Suggest two reasons for this.								(2 marks)
+c	Fair-skinned and dark-skinned people have different death rate from malignant skin tumours. Suggest a reason for this.			(2 marks)
+d	Screening is an effective way of promoting community health. 
+State the advantages of carrying out a screening programme to the community.											(2 marks)
+
+-- answer --
+a	The cells of a malignant tumour are not enclosed in connective tissues while the cells of a benign tumour are enclosed in connective tissues. 			1m
+Cells of a malignant tumour can spread to other parts of the body through the bloodstream or lymphatic system, while cells of a benign tumour do not.	1m
+b	Older people have had a longer time for mutations to accumulate to a level that a malignant tumour develops. 									1m
+The immune system of older people is weaker and less effective in destroying tumour cells. 	 											1m
+
+
+c	Darker skin contains more melanin, a dark pigment.					1m
+This pigment absorbs harmful ultraviolet light from the sun, thus lowering the risk of developing malignant skin tumours. 							1m
+d	Screening allows early diagnosis of a disease.						1m
+This improves cure rate / helps save health resources by treating the disease before it progresses. 										1m	
+---------------------------------------------------
+
+[10253313]
+// Reading comprehension // Applying concepts //
+(*	Read the following paragraph and answer the questions.
+	A report found that if people do exercise regularly, have a healthy diet and do not smoke, they can greatly reduce their risk of having diabetes mellitus, heart attack, stroke or cancer by 80%. Obese people have a higher risk of heart attack and many chronic diseases, especially diabetes mellitus.	
+
+a	State how diet and exercise are related to obesity.				(2 marks)
+b	Explain how obesity increases the risk of heart attack.			(3 marks)
+c	Apart from reducing the risk of having diseases, suggest three other benefits of regular exercise to health.								(3 marks)
+
+-- answer --
+a	Overeating can lead to obesity.								1m
+Doing exercise regularly can prevent us from being obese.			1m
+b	Obese people usually have a high blood cholesterol level.		 	1m
+Cholesterol deposits on the inner wall of the coronary arteries.		1m
+A narrowed coronary artery is more likely to be blocked by the presence of a blood clot. This leads to a heart attack.								1m
+c	Doing exercise regularly can strengthen the heart and lungs. /
+Doing exercise regularly can keep the bones and muscles strong. /
+Doing exercise regularly can improve suppleness of the body. /
+Doing exercise regularly can promote mental and social well-being. 
+(any 3)												1m x 3	
+---------------------------------------------------
+
+
+[10253322]
+// Cross-topic // Reading comprehension // STSE connections //
+(*	Read the following article and answer the questions.
+	A group of scientists found that people who watched television for more than 4 hours a day had a higher risk of death from cancer, compared to people who watched less than 2 hours. They also had a higher chance of having cardiovascular diseases.
+	When we watch television, we sit down for a long period of time. This prevents us from exercising, and thus less sugars and lipids are respired, a researcher said. 
+	Another group of scientists found that a few days of jogging led to the growth of hundreds of new brain cells, thus improving memories.	
+
+a	Explain why watching television for more than 4 hours a day increases the risk of having cardiovascular diseases.						(4 marks)
+b	On which type of respiration does jogging depend mostly to provide 
+energy? Give a reason.									(2 marks) 
+c	Apart from improving memories, state three other benefits of jogging to health.												(3 marks)
+
+-- answer --
+a	People who watch television for more than 4 hours a day do not have sufficient exercise.												1m
+Their energy output is small. 								1m
+As less sugars and lipids are respired, fats accumulate in their body, leading to obesity. 												1m
+Obesity increases the risk of having cardiovascular diseases.		1m	
+b	Aerobic respiration										1m
+It involves long duration of muscle contractions which require a sustained supply of energy.												1m
+c	Jogging strengthens the heart and lungs. /
+Jogging helps control body weight. /
+Jogging promotes mental and social well-being. /
+Jogging reduces the risk of diseases, e.g. high blood pressure, coronary heart disease, heart attack, stroke, osteoporosis and type 2 diabetes. 
+(any 3)												1m x 3	
+---------------------------------------------------
+
+[10253323]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	Blood glucose level in our body is regulated so that it is maintained at a relatively constant normal level. The regulation mechanism is shown in the diagram below.
+
+	
+
+a	P is the organ that detects the changes in blood glucose level and adjusts the amounts of X and Y secreted. Identify P, X and Y.				(3 marks)
+b	State the processes carried out by liver cells and body cells to lower the blood glucose level.									(2 marks)
+c	A person suffers from diabetes mellitus. He has symptoms like frequent urination, excessive thirst and tiredness. He has to monitor the blood glucose level and inject insulin regularly. The doctor advised him to eat starchy foods instead of foods that are rich in sugars.
+i	Which form of diabetes mellitus, type 1 or type 2, does the person  have? Explain briefly.								(3 marks)
+ii	Explain why the person should eat starchy foods instead of foods that are rich in sugars.									(2 marks)
+
+-- answer --
+a	P: pancreas												1m 
+X: insulin 													1m
+Y: glucagon 												1m
+b	Liver cells convert excess glucose to glycogen.						1m
+Body cells take in more glucose and break them down into carbon dioxide and water.													1m
+c	i	Type 1 diabetes 										1m
+The disease can be controlled by injecting insulin. 				1m
+This indicates that the disease is caused by insufficient production of insulin.													1m
+ii	Starch is a complex carbohydrate that needs to be broken down into sugars before absorption can take place. / Sugars can be quickly absorbed into the bloodstream directly.										1m
+Having starchy foods avoids drastic increases in blood glucose level.	1m	
+---------------------------------------------------
+
+[10253333]
+// Schematic diagram // Applying concepts //
+(*	A person felt a great pain in his chest and had difficulty breathing when he was playing badminton. He was sent to hospital immediately. The diagram below shows part of his coronary artery.
+	
+a	Name the disease that the person suffered from.				(1 mark)
+b	Explain why the person felt a great pain in his chest.			(3 marks)
+c	Explain why the person had difficulty breathing.				(3 marks)
+d	i	Name the major component of the plaque.				(1 mark)
+ii	Explain why a blood clot appeared on the plaque.			(2 marks)
+-- answer --
+a	Coronary heart disease / heart attack								1m
+b	When he was doing exercise, the heart rate increased to supply extra oxygen to the skeletal muscles and to remove the extra carbon dioxide produced.	1m
+The cardiac muscles required a larger amount of blood supply to provide oxygen for the pumping action.										1m
+Chest pain occurred because the amount of blood reaching the cardiac muscles was inadequate to cope with the need. Some cardiac muscle cells died as a result. 														1m
+c	As the cardiac muscles did not have sufficient blood supply, 			1m
+the heart failed to pump sufficient blood to the lungs.					1m
+As the amount of oxygen taken up by the blood in the lungs was reduced, the body tissues did not have sufficient oxygen supply. Difficulty breathing therefore occurred.													1m
+d	i	Fatty substances / Cholesterol								1m
+ii	The plaque slowed down blood flow.							1m
+Blood cells accumulated there, forming a blood clot.				1m	
+---------------------------------------------------
+
+[10253396]
+// Data handling // High order thinking // Applying concepts //
+(*	The tables below show the statistics of the ten leading cancer in Hong Kong females in 2018.
+10 most common cancer	10 major causes of cancer deaths	
+Rank	Cancer	Relative frequency (%)	Rank	Cancer	Relative frequency (%)	
+1	Breast	27.2	1	Lung	21.9	
+2	Colorectal	14.0	2	Colorectal	16.6	
+3	Lung	11.8	3	Breast	12.4	
+4	Uterine	6.9	4	Liver	6.6	
+5	Thyroid	4.7	5	Pancreas	5.2	
+6	Ovarian and peritoneal	3.9	6	Stomach	4.5	
+7	Cervical	3.4	7	Ovarian and peritoneal	4.4	
+8	Stomach	3.2	8	Cervical	2.7	
+9	Skin	3.1	9	Lymph node	2.5	
+10	Lymph node	2.6	10	Leukaemia	2.3	
+
+a	Which two forms of cancer shown in the tables are related to viruses? Name the viruses.											(4 marks)
+b	State one form of cancer shown in the tables that may be prevented by eating a healthy diet. Explain briefly.						(2 marks)
+c	Pancreas cancer was not one of the 10 most common cancer, but it ranked number 6 as causes of cancer deaths. Suggest two possible reasons for this.														(2 marks)
+d	The incidence of skin cancer in New Zealand and Australia is much higher than in Hong Kong. Suggest reasons for the difference.		(3 marks)
+-- answer --
+a	Cervical cancer, liver cancer								1m x 2
+Human papillomavirus (HPV), hepatitis B virus					1m x 2
+b	Colorectal cancer										1m
+Eat more vegetables may help reduce the risk of colorectal cancer.	1m
+OR
+Colorectal cancer / stomach cancer							1m
+Eat less red meat or processed meat may help reduce the risk of colorectal  cancer / stomach cancer.									1m
+c	It is difficult to be detected as it gives no obvious sign.				1m
+The cancer cells spread to other vital organs quickly. 				1m
+d	The level of ultraviolet light is higher in the sunlight reaching these countries due to the thinning of the ozone layer.								1m
+People in these countries like sunbaths.						1m
+People in these countries contain little pigment in the skin, thus they are more likely to be harmed by the ultraviolet light.						1m	
+---------------------------------------------------
+
+[10253406]
+// Reading comprehension // Applying concepts //
+(*	Read the following article and answer the questions.
+	Coronary bypass surgery is a treatment for patients with coronary heart disease. During the surgery, the patient is anaesthetized and connected to a heart-lung machine. The heart is then stopped and a section of a large vein from the thigh is used to connect the aorta and coronary artery across the blockage site.
+	After the surgery, the patient has to stay in hospital to recover for at least a week. The patient is advised to avoid foods with a high cholesterol level after the surgery.	
+
+a	Describe the cause of coronary heart disease.				(3 marks)
+b	Explain why coronary heart disease can be effectively treated with coronary bypass surgery.										(2 marks)
+c	What is the function of the heart-lung machine?				(2 marks)
+d	Why is the patient advised to avoid foods with a high cholesterol level after the surgery? 											(1 mark)
+-- answer --
+a	Fatty substances like cholesterol in blood deposit within the wall of a coronary artery. A plaque is formed.										1m
+The plaque hardens and becomes larger. It narrows the lumen of the artery.	1m
+This reduces the amount of blood flowing to the cardiac muscles and causes coronary heart disease.										1m
+b	During the surgery, a new route connecting the aorta and coronary artery is made, bypassing the blockage site.									1m
+The new pathway allows adequate blood to reach the cardiac muscles.	1m
+c	The heart-lung machine is used to pump blood around the body during the surgery. 														1m
+Gas exchange also occurs in the machine. 						1m
+d	To prevent cholesterol from depositing on the inner wall of the coronary arteries again.													1m	
+---------------------------------------------------
+
+[10253407]
+// Reading comprehension // High order thinking // STSE connections //
+(**Read the following article and answer the questions.
+	The glycemic index (GI) is a measure of the effect of carbohydrates in a particular food on blood glucose level. It is a measure independent of the carbohydrate content in food but is related to the rate in which the sugars in the food enter the bloodstream.
+	To measure the GI value of a food, the carbohydrate content of the food (excluding dietary fibre) is first measured. Ten healthy people are fed with the food (the amounts may be different for different foods). The changes in the blood glucose level of them over the next two hours are recorded. The GI value can be calculated by taking the average value of the changes in the blood glucose level of these 10 people comparing to a reference food. 
+	The glycemic index can help the diabetics choose suitable food.	
+a	Explain why the amounts used in the measurement of GI value may be different for different foods.								(2 marks)
+b	Explain why dietary fibre is not taken into account in the measurement of carbohydrate content of the foods.							(2 marks)
+c	Explain why foods like meat do not have a GI value.			(1 mark)
+d	Suggest two factors that affect the GI value of a food.			(2 marks)
+e	Describe how the glycemic index helps the diabetics choose suitable foods.													(2 marks)
+f	Besides the GI value of the foods, state two other factors that diabetics should consider when having meals in order to prevent a rapid increase in blood glucose level.									(2 marks)
+
+-- answer --
+a	To ensure fair comparisons between different foods, the amounts of carbohydrates (except dietary fibre) in the foods under testing should be the same.	1m
+Different foods have different amounts of carbohydrates, therefore different amounts of foods should be used to ensure the same amounts of carbohydrates.														1m
+b	Dietary fibre cannot be digested by humans.					1m
+It does not affect the blood glucose level.						1m
+c	They contain only very small amounts of carbohydrates.			1m
+d	The types of carbohydrates the food contains (e.g. starch, glucose, sucrose, etc.) / 
+The physical state of the food (liquid or solid) / 
+The lipid / protein / dietary fibre content of the food / 
+The cooking method (any 2)								1m x 2
+e	Diabetics should choose foods with low GI value in everyday diet to prevent a rapid increase in blood glucose level.							1m
+They should choose foods with high GI value when they are suffering from a low blood glucose level in order to increase the blood glucose level quickly.															1m
+f	The amounts of carbohydrates in foods						1m
+The quantity of foods										1m	
+--------------------------------------------------- 
+
+
+
+Essay
+
+[10253549]
+// Communication // Basic concepts //
+(*	State the cause of coronary heart disease and discuss how smoking increases the risk of this disease.											(11 marks)
+
+-- answer --
+Cause:
+For the heart to work properly, the coronary arteries must supply enough nutrients and oxygen to the cardiac muscles continuously.							1m
+If fatty substances like cholesterol in blood deposit within the wall of a coronary artery, a plaque is formed. 												1m
+Over time, the plaque hardens and becomes larger. It narrows the lumen of the artery. 															1m
+This reduces the amount of blood flowing to the cardiac muscles and causes coronary heart disease. 													1m
+How smoking increases the risk of coronary heart disease:
+Nicotine in cigarette smoke causes constrictions of blood vessels. 			1m
+This reduces the amount of blood flowing to the cardiac muscles. 			1m
+Carbon monoxide in cigarette smoke reduces the oxygen carrying capacity of blood. 																1m 
+Less oxygen is supplied to the cardiac muscles. 						1m
+Communication													3m	
+---------------------------------------------------
+

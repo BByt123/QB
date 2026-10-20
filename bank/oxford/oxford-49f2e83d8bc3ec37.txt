@@ -1,0 +1,662 @@
+( Chapter 2		Use of microorganisms
+
+Multiple-choice questions
+
+[10286281]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the structure of a fermenter used to culture microorganisms.
+	
+Which of the labelled parts of the fermenter is responsible for maintaining an aseptic condition in the culture medium?
+A	cooling water jacket	B	stirrers
+C	air filter				D	probes
+C	
+---------------------------------------------------
+
+[10286284]
+// Basic concepts //
+(	Which of the following products is/are made using yeast?
+(1)	bread
+(2)	wine
+(3)	yoghurt
+A	(1) only				B	(1) and (2) only
+C	(2) and (3) only		D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10286293]
+// Basic concepts //
+(	Enzymes are used in industry to produce biological washing powder and fruit juice. Which of the following correctly shows the sources of these enzymes?
+	Enzymes in biological washing powder		Enzymes in fruit juice production	
+A	fungi		bacteria	
+B	fungi		fungi	
+C	bacteria		bacteria	
+D	bacteria		fungi	
+
+D	
+---------------------------------------------------
+
+[10286310]
+// Schematic diagram // Basic concepts //
+(*	The flow chart below summarizes the process of sewage treatment in a sewage treatment works.
+	
+In which part(s) of the sewage treatment works are anaerobic microorganisms involved in the decomposition of organic substances into inorganic substances?
+(1)	the grit channels
+(2)	the aeration tank
+(3)	the digester
+A	(2) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10286337]
+// Applying concepts //
+(*	Microorganisms are used in the production of antibiotics like penicillin. Which of the following are the advantages of using microorganisms in the production of antibiotics?
+(1)	Microorganisms reproduce quickly. 
+(2)	Antibiotics can be obtained from the culture easily. 
+(3)	There is no need to monitor and control the conditions of the culture during the production processes.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10286353]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a label on a waste container. 
+	
+
+The waste most probably contains
+A	living animals.
+B	flammable substances. 
+C	radioactive substances.
+D	genetically modified microorganisms.
+D	
+---------------------------------------------------
+
+[10286368]
+// Basic concepts //
+(	What are the types of microorganisms used in beer-brewing and penicillin production respectively? 
+Beer-brewing		Penicillin production
+A	bacteria			bacteria
+B	bacteria			fungi
+C	fungi			bacteria
+D	fungi 			fungi
+D	
+---------------------------------------------------
+
+[10286374]
+// Basic concepts //
+(*	Which of the following processes of sewage treatment make use of microorganisms?
+(1)	sedimentation
+(2)	decomposition of organic substances in the liquid portion of sewage
+(3)	fermentation of sludge
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10286375]
+// Applying concepts //
+(*	What are the advantages of using microorganisms in enzyme production? 
+(1)	Microorganisms reproduce quickly.
+(2)	All the enzymes produced by microorganisms are more heat-stable.
+(3)	Microorganisms can be genetically modified easily. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10286377]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the changes in the quantities of an organism and two substances in the culture medium during the production of penicillin.
+	
+Curves X, Y and Z indicate the changes in
+	X	Y	Z	
+A	concentration of nutrient 	biomass of Penicillium	concentration of penicillin	
+B	concentration of penicillin	concentration of nutrient	biomass of Penicillium	
+C	concentration of penicillin	biomass of Penicillium	concentration of nutrient	
+D	biomass of Penicillium	concentration of penicillin	concentration of nutrient	
+
+C	
+---------------------------------------------------
+
+[10286396]
+// Basic concepts //
+(	Which of the following shows the products of alcoholic fermentation that are useful in wine-making and bread-making?
+Wine-making			Bread-making
+A	oxygen				carbon dioxide 
+B	carbon dioxide			ethanol
+C	ethanol 				oxygen
+D	ethanol				carbon dioxide
+D	
+---------------------------------------------------
+[10286408]
+// Basic concepts //
+(	Which of the following are the advantages of using biogas produced in digesters as a fuel?
+(1)	The use of other sources of energy can be reduced.
+(2)	The production costs of biogas are low. 
+(3)	Fewer air pollutants are emitted when burning biogas.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10286411]
+// Basic concepts //
+(*	Which of the following correctly shows how sludge is treated by microorganisms in the digesters in sewage treatment?
+Conditions		Treatment
+A	aerobic			decomposition of organic substances
+B	aerobic			decomposition of inorganic substances
+C	anaerobic			decomposition of organic substances
+D	anaerobic			decomposition of inorganic substances
+C	
+---------------------------------------------------
+
+
+Short questions
+
+[10286545]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows the steps in beer-brewing.
+
+	
+
+a	Explain why the malt is crushed and mixed with hot water in step 2.																(2 marks)
+b	Explain why boiling is necessary in step 3.					(1 mark)
+c	What is microorganism X? Describe its role in beer-brewing.	(2 marks)
+
+
+-- answer --
+a	The malt is crushed to increase the surface area for enzymatic actions.	1m
+Hot water provides an optimum temperature for enzymes to break down starch to sugars.													1m
+b	The mixture is boiled to stop the enzymatic actions and kill all microorganisms.																1m
+c	Microorganism X is yeast.										1m
+It carries out alcoholic fermentation to break down sugar into ethanol and carbon dioxide.													1m	
+---------------------------------------------------
+
+[10286556]
+// Cross-topic // Graph interpretation // Applying concepts //
+(*	Penicillin is an antibiotic produced by the mould Penicillium. The graph below shows the changes in biomass of Penicillium and concentration of penicillin in a culture medium.
+
+	
+
+a	Why does Penicillium produce penicillin in nature? 			(1 mark)
+b	Describe what happens to the biomass of Penicillium and the concentration of penicillin in the culture medium after 84 hours of incubation. Explain briefly.												(2 marks)
+
+
+-- answer --
+a	To kill or inhibit the growth of other competing microorganisms.			1m
+b	The biomass of Penicillium reaches a maximum and levels off. This shows that the growth of Pencillium reaches a stationary phase.						1m
+At the stationary phase of growth, Penicillium secretes a large amount of penicillin and the concentration of penicillin increases.						1m	
+---------------------------------------------------
+
+[10286569]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the structure of a digester designed by a farmer.
+
+	
+
+a	State and explain one mistake in the design of this digester.		(2 marks)
+b	Describe how biogas is produced from organic waste.			(2 marks)
+c	Suggest one use of the digested sludge. 					(1 mark)
+
+
+-- answer --
+a	The upper part of the digester is not built underground.				1m
+The temperature in the digester may change with the environment and cannot be maintained for biogas production.								1m
+(or other reasonable answers)
+b	Some anaerobic bacteria in the digester decompose organic waste under anaerobic condition.											1m
+Biogas is produced during the process.							1m
+c	The digested sludge can be used as fertilizer.						1m	
+---------------------------------------------------
+
+[10286582]
+// Basic concepts //
+(	Enzymes in biological washing powder can be produced by GM microorganisms.
+
+	
+
+a	Suggest two enzymes that are commonly present in biological washing powder. State their uses.									(2 marks)
+b	State one potential hazard of using GM microorganisms to produce enzymes in biological washing powder.						(1 mark)
+
+
+-- answer --
+a	Lipases and proteases										1m
+They help remove stains that contain lipids and proteins respectively.		1m
+b	The GM microorganisms may produce unknown substances that contaminate their products and cause allergic reactions in humans. / If the GM microorganisms escape into the environment, they may out-compete the wild types and upset the ecological balance.
+(or other reasonable answers) 									1m	
+---------------------------------------------------
+
+[10286588]
+// Overseas exam question // Schematic diagram // Basic concepts //
+(	The flow chart shows a method used to make yoghurt.
+
+	
+
+a	Suggest why the milk is heated to 72 °C at the start.			(1 mark)
+b	Explain why starter bacteria are not added until after the milk has been cooled to 45 °C. 										(1 mark)
+c	Describe how the bacteria change the milk into yoghurt at 20 °C. 																(3 marks)
+d	Explain why the yoghurt is stored at 4 °C. 					(1 mark)
+					CCEA GCSE Biology Foundation Tier Paper 1 2011 Q14
+
+-- answer --
+a	To kill any harmful microorganisms in the milk.						1m
+b	The starter bacteria will be killed if the temperature is too high. 			1m
+c	The starter bacteria carry out anaerobic respiration. 					1m
+They feed on lactose in the milk and lactic acid is produced in the process.	1m
+The milk proteins coagulate and the milk thickens at low pH.			1m
+d	To slow down the growth of microorganisms in the yoghurt. / 
+To slow down the decay of the yoghurt. 							1m	
+---------------------------------------------------
+
+[10286614]
+// Basic concepts //
+(	Complete the table below.									(3 marks)
+Microorganism	Type	Use	
+Saccharomyces cerevisiae	Yeast		
+		Production of penicillin	
+
+-- answer --
+Microorganism
+Type
+Use
+
+Saccharomyces cerevisiae
+Yeast
+Beer-brewing / wine-making / bread-making
+
+Penicillium
+Mould
+Production of penicillin
+
+														1m x 3	
+---------------------------------------------------
+
+[10286615]
+// Reading comprehension // Applying concepts //
+(**Read the following article and answer the questions.
+Oil spill poses serious threat on marine life. The crude oil that leaks out should be removed as soon as possible. Microorganisms can help the clean-up process. There are thousands of microorganisms that consume hydrocarbons naturally, but not all of them can grow in the sea. Moreover, most of them act on only one or a few chemicals in the oil only. Genetically modified (GM) bacteria have been made by scientists for cleaning up oil spill. Although they are proved more effective than the bacteria found in the wild, they have never been used in practical situation due to their potential hazards to the environment.	
+a	State two criteria for the hydrocarbon-degrading bacteria to be used in cleaning up oil spill at the sea.							(2 marks)
+b	Suggest two characteristics that the GM bacteria possess, which can improve the efficiency of the clean-up process.				(2 marks)
+c	List two potential hazards of introducing GM bacteria to the environment.															(2 marks)
+
+
+
+
+-- answer --
+a	They must be able to survive in seawater, which has a high salt concentration,															1m
+and able to grow at low temperature.							1m
+(or other reasonable answers)
+b	Ability to consume various kinds of chemicals in the oil. / 
+Increase the rate of hydrocarbon degradation. / 
+Produce products that are less toxic during the hydrocarbon degradation process. 
+(any 2 or other reasonable answers)							1m x 2
+c	GM bacteria may transfer their modified genes to the wild types. These genes may have unexpected and adverse effects. 						1m
+GM microorganisms that escape into the environment accidentally may out-compete the wild types and upset the ecological balance, resulting in a decrease in biodiversity.									1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10286619]
+// Graph interpretation // Applying concepts //
+(*	Penicillin is produced on a large scale. The graph below shows the changes in the biomass of Penicillium and the concentration of penicillin in the culture medium during the production process.
+	
+a	Explain why penicillin is produced only after 20 hours. 		(1 mark)
+b	At which 40-hour period is the rate of penicillin production the highest?															(1 mark)
+c	Explain why the production of penicillin is important to the survival of Penicillium.											(2 marks)
+d	State two other types of pharmaceutical products that can be produced by using microorganisms.									(2 marks)
+
+-- answer --
+a	After 20 hours, the nutrients in the culture medium become limited.	1m
+b	60th-100th hours										1m
+c	Penicillin can kill other microorganisms or inhibit their growth.		1m
+This reduces the growth of competitors so that more resources are available for the survival of Penicillium.									1m
+d	Vaccines / hormones / enzymes (any 2 or other reasonable answers)	1m x 2	
+--------------------------------------------------- 
+
+[10286628]
+// Experiment // Schematic diagram // Applying concepts //
+(*	A student carried out an investigation to study the effectiveness of biological washing powder. 
+	
+
+a	Based on the above results, state the active ingredient in the biological washing powder.										(1 mark)
+b	The active ingredient stated in a is obtained from bacteria living in alkaline environments. Explain why.								(2 marks)
+c	Give three advantages of using microorganisms to produce the active ingredient.											(3 marks)
+
+-- answer --
+a	Enzyme / protease										1m
+b	Washing powder dissolves in water to give an alkaline solution.		1m
+Enzymes obtained from bacteria living in alkaline environments work better in alkaline washing powder solution.							1m
+c	Microorganisms reproduce very quickly. / 
+Microorganisms have simple nutritional requirements, so the production costs can be lowered. /
+Microorganisms do not need large areas of land to grow. /
+The products produced by microorganisms can be easily extracted and purified. 
+(any 3 or other reasonable answers)							1m x 3	
+---------------------------------------------------
+
+[10286632]
+// Schematic diagram // Applying concepts //
+(*	The flow chart below shows the industrial production process of yoghurt. 
+
+	
+
+a	Write a word equation to summarize the fermentation process during the production of yoghurt.									(1 mark)
+b	Explain why the milk has to be heated to 90 °C for 20 minutes.	(2 marks)
+c	Why is it necessary to control the temperature during fermentation?																(2 marks)
+d	Why must air be excluded from the fermenter during incubation?																	(1 mark)
+-- answer --
+a	Lactose + water → lactic acid									1m
+b	High temperature kills the microorganisms present in milk.				1m
+These microorganisms may cause spoilage during the production process.	1m
+OR
+This drives away all the dissolved oxygen in milk. 					1m
+This provides an anaerobic condition for fermentation to take place. 		1m
+c	Heat is released when bacteria carry out anaerobic respiration / fermentation, therefore the temperature of the mixture rises.						1m
+Enzymes may be denatured at high temperature. / High temperature may kill the bacteria involved in fermentation.								1m
+d	To provide an anaerobic condition for fermentation to take place.			1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10286739]
+// Cross-topic // Data handling // High order thinking //
+(**Mycoprotein is a meat substitute derived from a fungus. A fermenter can be used for the large-scale production of mycoprotein. The fungus is cultured in the fermenter. Nutrients are added at a constant rate and the culture is harvested at the same constant rate throughout the process. After purifying the fungus from the harvested culture, mycoprotein is obtained. The diagram below shows the production of mycoprotein in the fermenter.
+
+	
+a	Suggest why the production of mycoprotein may become inefficient when the inflow rate of nutrients and the outflow rate of culture are too high or too low. Explain your answer.								(4 marks)
+b	The table below shows the amounts of food substances in 100 g of mycoprotein and beef.
+	Mycoprotein	Beef	
+Carbohydrate (g)	20.6	0	
+Protein (g)	49.0	51.4	
+Lipid (g)	9.2	48.6	
+Dietary fibre (g)	19.5	0	
+
+
+Suggest two reasons why eating mycoprotein is better for health than eating beef. Explain your answer.								(4 marks)
+c	Apart from the nutritional values of the products, give two advantages of providing food for human consumption by growing fungi in a fermenter rather than by rearing cattle.								(2 marks)
+
+-- answer --
+a	When the inflow rate of nutrients and the outflow rate of culture are too high, there is not enough time for the growth of fungus.							1m
+The harvested culture may contain more unused nutrients. Thus, the production cost becomes higher.											1m
+When the inflow rate of nutrients and the outflow rate of culture are too low, the fungus remains in the fermenter for a longer time.					1m
+Waste produced by the fungus may accumulate. Thus, the growth rate of the fungus becomes lower.										1m
+(or other reasonable answers)
+b	Mycoprotein contains less lipid than beef. People eating mycoprotein may have a lower risk of cardiovascular diseases.								2m
+Mycoprotein contains more dietary fibre than beef. People eating mycoprotein may have a lower risk of colorectal cancer.								2m
+c	It is independent of climate.									1m
+It has a lower risk of transmitting diseases to humans.					1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10286747]
+// Cross-topic // Reading comprehension // High order thinking //
+(**Read the following paragraph and answer the questions.
+Antifreeze proteins are proteins found in many fish in the polar regions. An antifreeze protein is now used as a food additive to improve the texture of ice cream. The antifreeze protein for ice cream production can be made by genetically modified (GM) yeast produced using recombinant DNA technology. However, some people are concerned about using GM yeast to produce the antifreeze protein from fish.	
+
+
+a	Explain how antifreeze proteins help the fish in the polar regions survive.
+														(2 marks)
+b	Suggest how the antifreeze protein helps improve the texture of ice cream.
+														(2 marks)
+c	Describe how GM yeast containing the gene for the antifreeze protein can be produced using recombinant DNA technology.				(4 marks)
+d	State two issues of public concern about using GM yeast to produce the antifreeze protein for ice cream production.					(2 marks)
+
+-- answer --
+a	In the polar regions, the temperature of seawater is usually lower than the freezing point of the blood of the fish.									1m
+Antifreeze proteins help prevent their blood from freezing. Thus, the fish can survive.													1m
+b	The antifreeze protein helps prevent water in ice cream from freezing.		1m
+Fewer ice crystals are formed in the ice cream. Thus, the ice cream becomes smoother.													1m
+c	The DNA fragments containing the gene for the antifreeze protein are obtained from the cells of the fish.										1m
+The DNA fragments and plasmids are cut using the same restriction enzyme.
+															1m
+The DNA fragments and the plasmids are joined together using a DNA ligase.
+															1m
+The recombinant plasmids are introduced into yeast cells.				1m
+d	GM yeast may produce unknown substances that cause allergic reactions in humans.													1m
+Antibiotic resistance genes are often used in the production of GM yeast. These genes may be accidentally transferred from the GM yeast to pathogens to produce 'superbugs' that are resistant to multiple antibiotics. 'Superbugs' may lead to outbreaks of incurable diseases.								1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10286760]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	The diagram below shows a fermenter used in the industrial production of penicillin. Penicillin is produced by the filamentous fungus Penicillium chrysogenum.
+	
+
+a	What is the importance of the production of penicillin to P. chrysogenum in nature?												(1 mark)
+b	State and explain the difference between the water entering and leaving the water jacket.											(2 marks)
+c	What are the purposes of adding the following substances to the culture?
+i	Acid or alkali										(1 mark)
+ii	Glucose											(1 mark)
+iii	Ammonia											(1 mark)
+d	Besides providing air to the culture, the diffuser also helps mix the culture.
+i	Why is mixing necessary?							(2 marks)
+ii	Explain how the diffuser helps mix the culture.			(1 mark)
+iii	Explain why a diffuser rather than a stirrer is used for mixing in this production process.									(1 mark)
+
+
+
+-- answer --
+a	It produces penicillin to reduce the growth of other competing microorganisms so 	that more resources (e.g. food, space) are available for its own survival. 																1m
+b	Respiration / metabolic reactions of the fungus generate(s) heat		1m
+	and thus the temperature of the water leaving the water jacket is higher than 	that of the water entering the water jacket.						1m
+c	i	To adjust the pH of the culture to the optimum value for penicillin 		production.										1m
+ii	To act as the carbon source for the fungus to produce carbohydrates / 	lipids / proteins / nucleic acids / enzymes for growth / production of 	penicillin. / To act as the substrate for the respiration of the fungus.															1m
+iii	To act as the nitrogen source for the fungus to produce proteins / 	nucleic acids / enzymes for growth / production of penicillin.		1m
+d	i	To ensure an even distribution of air / nutrients in the culture. /
+	To ensure an even temperature throughout the culture. /
+	To avoid the settling of the fungus to the bottom of the fermenter. /
+To avoid the accumulation of toxic waste in certain areas. (any 2)																1m ( 2
+ii	The culture is stirred as the air bubbles rise to the top from the diffuser.															1m
+iii	The hyphae / mycelia of the fungus would tangle around the stirrer and 	stop it from working.									1m	
+---------------------------------------------------
+
+[10286763]
+// Cross-topic // High order thinking // Schematic diagram //
+(**The production of soya sauce involves two stages of fermentation. The following are the major steps in the production process.
+Step 1: Cook a mixture of crushed soya beans and wheat. When it is cooled, add a starter mould to ferment proteins and starch in the mixture for 3 days.
+	Step 2: Cold brine, salt-tolerant lactic acid bacteria and yeast are added. The mixture is fermented for 3-6 months and then left to age for 5 months.
+	
+Step 3: Filter the mixture.
+	Step 4: Sterilize the filtrate and put it in bottles.
+	
+a	Why is the mixture of crushed soya beans and wheat cooled before starter mould is added in step 1?								(1 mark)
+b	Describe the features of starter mould which make it suitable for fermentation to produce soya sauce. 						(3 marks)
+c	How would crushing the soya beans and wheat in step 1 enhance fermentation? 										(1 mark)
+d	Why is brine added to the mixture in step 2?					(2 marks)
+e	Name the substance produced from the fermentation of lactic acid bacteria. 													(1 mark)
+f	Explain the effect of adding lactic acid bacteria in step 2 on starter mould.													 	(2 marks)
+
+
+-- answer --
+	a	To prevent starter mould from being killed by the high temperature.	1m
+	b	Its hyphae												1m
+ 		can spread over or penetrate the mixture of crushed soya beans and wheat																	1m
+		and secrete extracellular enzymes to ferment proteins and starch in the mixture.																1m
+	c	It would increase the surface area of the soya beans and wheat in contact with the 		enzymes from starter mould.								1m
+	d	To inhibit the growth of other undesirable microorganisms by the high salt 				concentration. /To ensure that only the desired fermentation by the salt-tolerant 			lactic acid bacteria and yeast can be carried out. / To add flavour to the finished 			product. / To extend the shelf life of the finished product. (any 2)		1m ( 2
+	e	Lactic acid												1m
+	f	The activity of the enzymes from starter mould is inhibited			1m
+		by the low pH of the lactic acid produced by lactic acid bacteria.		1m	
+---------------------------------------------------
+
+[10286768]
+// Overseas exam question // Schematic diagram // Basic concepts //
+(	The diagram below shows a biodigester used to manufacture penicillin.
+	
+a	Complete the table.
+Process	Explanation	
+Nutrients are added		
+The culture is stirred		
+Temperature is controlled		
+Air is added		
+														(4 marks)
+b	Explain why the biodigester must be kept sterile.				(1 mark)
+c	What is penicillin?										(1 mark)
+d	What type of organism is used to make penicillin?				(1 mark)
+e	Describe what happens to the penicillin produced in the biodigester.																(2 marks)
+						CCEA GCSE Biology Higher Tier Paper 2 2007 Q5d
+
+-- answer --
+a	
+Process
+Explanation
+
+Nutrients are added
+Supply food for respiration / growth / reproduction of the microorganisms
+
+The culture is stirred
+Mix the nutrients / oxygen with the culture medium / distribute the heat produced
+
+Temperature is controlled
+Maintain an optimum temperature for the growth of microorganisms
+
+Air is added
+Supply oxygen for respiration of microorganisms
+
+													1m x 4
+b	To prevent contamination of the culture / penicillin.				1m
+c	Penicillin is an antibiotic. 									1m
+d	Fungus												1m
+e	Penicillin produced in the biodigester is then filtered 				1m
+and purified.											1m	
+---------------------------------------------------
+
+
+[10286774]
+// Cross-topic // Graph interpretation // Schematic diagram //
+(*	The diagram below shows a fermenter used to brew beer.
+	
+a	i	Describe how the fermenter is sterilized before use.		(1 mark)
+ii	Explain why the growth media should be sterilized.		(1 mark)
+b	What is the role of the yeast in beer-brewing?				(2 marks)	
+c	i	Explain why the mixture becomes hot.					(1 mark)
+ii	Suggest how the heat is removed in the fermenter.			(1 mark)
+d	The graph below shows the percentages of dead cells at different alcohol concentrations for two types of yeast.
+	
+Based on the graph, which type of yeast is more suitable for beer-brewing? Explain your answer.									(3 marks)
+e	Suggest one potential benefit and one potential hazard if genetically modified yeast is used in beer-brewing.						(2 marks) 
+
+-- answer --
+a	i	It is treated with steam. 									1m
+ii	To prevent contamination of the product / production of unwanted products by other microorganisms. /
+To prevent other microorganisms from competing for resources.		1m
+b	It produces ethanol											1m
+by alcoholic fermentation.										1m
+c	i	Yeast carries out respiration and releases heat. 					1m
+ii	The heat is carried away by the cold water in the cooling water jacket.	1m
+d	Type Y													1m
+Type Y has a lower percentage of dead cells at any alcohol concentration. 	1m
+It has a higher tolerance to alcohol. 								1m
+e	Potential benefit:
+The yield may be higher. /
+The alcohol tolerance may be higher. /
+The time required for fermentation may be shorter.
+(or other reasonable answers)									1m
+Potential hazard:
+It may produce unknown substances that contaminate their products and cause allergic reactions in humans. /
+It may transfer the antibiotic resistance genes to pathogens, producing 'superbugs' that are resistant to multiple antibiotics. 'Superbugs' may lead to outbreaks of incurable diseases. /
+It may transfer its genes to the wild types. These genes may have unexpected and adverse effects. /
+It may out-compete the wild types if it is released into the environment. This would upset the ecological balance, resulting in a decrease in biodiversity.
+(or other reasonable answers)									1m	
+---------------------------------------------------
+
+
+[10286782]
+// Photomicrograph // Comparison // Applying concepts //
+(*	The photomicrograph below shows a microorganism commonly used in alcoholic fermentation.
+	
+a	What is this microorganism?								(1 mark)
+b	Write a word equation to show the reaction that occurs during fermentation. Use glucose as a substrate.								(2 marks)
+c	Give one other use of this microorganism in food industry.		(1 mark)
+d	The photographs below show two types of fermenters in wine-making. The process can be regulated more effectively when modern fermenters are used. 
+		
+modern fermenters	wooden fermenters	
+Give three features of the modern fermenters that are absent in the wooden fermenters. State how these features can facilitate the process of fermentation.											(6 marks)
+-- answer --
+a	Yeast													1m
+b	Glucose → ethanol + carbon dioxide								2m
+c	Bread-making												1m
+d	Probe													1m
+To monitor temperature, pH and oxygen concentration of the medium.		1m
+Stirrers													1m
+To mix nutrients and microorganisms and ensure an even temperature throughout the medium.												1m
+Cooling water jacket											1m
+To carry cold water to remove heat produced by microbial activities.		1m	
+---------------------------------------------------
+
+[10286790]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the structure of a digester in a farm.
+	
+
+a	What is the major component of the biogas produced?			(1 mark)
+b	The waste in the digester is at high temperature. Explain why.	(2 marks)
+c	Why are digesters often built underground?					(2 marks)
+d	Nowadays biogas is widely used as a fuel in some countries. State three advantages of using biogas as a fuel.						(3 marks)
+
+-- answer --
+a	Methane												1m
+b	The microorganisms carry out anaerobic respiration in the digester.	1m
+Heat is released in the process.								1m
+c	To maintain an optimum temperature for biogas production. /
+To withstand the pressure built up by biogas. /
+To reduce their visual impact on the environment. (any 2)			1m x 2
+d	It can reduce the use of other sources of energy. /
+Biogas is cleaner than fossil fuels. Smaller amounts of sulphur, carbon and nitrogen are released from burning biogas. /
+Using waste material to produce biogas reduces waste disposal. /
+Biogas is produced from waste material. Its production costs are low. /
+Digested sludge and compost obtained from biogas production can be used as fertilizer. (any 3)											1m x 3	
+---------------------------------------------------
+
+
+[10286800]
+// Comparison // Schematic diagram // Applying concepts //
+(*	The diagram below shows the process of sewage treatment.
+	
+
+Both the processes occurring in X and Y involve microorganisms.
+a	Name X and Y.										(2 marks)
+b	State two differences in the two processes carried out by microorganisms in X and Y.												(4 marks)
+c	What are the fates of the products produced in Y?				(2 marks)
+
+-- answer --
+a	X: aeration tank												1m
+Y: digester													1m
+b	The process in X occurs under aerobic conditions					1m
+while the process in Y occurs under anaerobic conditions.				1m
+Carbon dioxide, ammonium compounds and nitrates are produced in the process in X, 													1m
+while hydrogen, carbon dioxide, organic acids and methane are produced in the process in Y. 												1m
+c	Methane can be used as a fuel.									1m
+The sludge is dried and disposed of in landfill. 						1m	
+---------------------------------------------------
+
+
+[10286807]
+// Schematic diagram // Applying concepts //
+(	The diagram below shows a fermenter. A mixture of nutrients and microorganisms is present in the fermenter to produce a protein for humans. 
+	
+
+a	State the difference between the water that flows into and out of the water jacket of the fermenter. Explain briefly.						(2 marks)
+b	Explain why it is necessary to pump air into the fermenter.		(1 mark)
+c	Why should the air pumped into the fermenter be sterilized?		(1 mark)
+d	What is the use of the stirrer in the fermenter?				(2 marks)
+e	State two environmental conditions that should be monitored and controlled in the fermenter.										(2 marks)
+
+-- answer --
+a	The water that flows out is warmer							1m
+because heat is released by the microorganisms in the fermenter.	1m
+b	To provide oxygen for the microorganisms to respire aerobically.		1m
+c	To avoid contamination of the culture.							1m
+d	To mix nutrients and microorganisms.							1m
+To ensure an even temperature throughout the medium.			1m
+e	Temperature / pH / nutrient supply (any 2)						1m x 2	
+---------------------------------------------------

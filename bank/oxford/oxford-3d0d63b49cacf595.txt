@@ -1,0 +1,1078 @@
+	
+Chapter 25		Basic genetics
+
+Multiple-choice questions
+
+[10290993]
+// Calculation // Applying concepts //
+*	A DNA molecule contains 2000 pairsof bases and20% of which are thymine 
+(T).What is the total number of cytosine(C) in the DNA molecule?
+	A	400				B	600
+C	800				D	1200
+D
+
+---------------------------------------------------
+
+[10291015]
+// Scientific investigation// High order thinking //
+*	Directions: The following two questions refer to the investigation below, which was used to study the chemical nature of genetic material. It was known that a pathogenic bacterialstrain (S strain) can pass its genetic material to a non-pathogenic strain (R strain) and transform it into S strain. The scientists first prepared an extract which containedproteins, RNA and DNA from heat-killed S strain bacteria. The extract was processed by different enzymes to preparethree otherextracts. Theextracts were then mixed with live R strain bacteria to see if the bacteria would be transformed into S strain.
+Experiment
+Extract mixed with R strain
+Transformed into S strain?
+
+I
+Extract containingproteins, RNA and DNA
+Yes
+
+II
+Extract with proteins removed
+Yes
+
+III
+Extract with proteins and RNA removed
+Yes
+
+IV
+Extract with proteins, RNA and DNA removed
+No
+
+
+	Many scientists in those days believed that protein serves as the genetic material. Which of the following sets of experiments provides evidence to reject such a hypothesis?
+	A	I and II
+	B	I and III
+C	II and III
+D	II and IV
+A
+
+---------------------------------------------------
+
+[10291026]
+// Scientific investigation// High order thinking //
+*	Which of the following can be concluded by comparing experimentsIII and IV alone?
+	(1)	DNA is the genetic material of the S strain bacteria.
+	(2)	The genetic material of the S strain bacteria ishighly resistant to heat.
+(3)	Protein is an important structural component of chromosomes.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+
+
+Short question
+
+[10291030]
+// Overseas exam question // Schematic diagram // Applying concepts //
+*		The inheritance of traits in humans can be described as:
+autosomal recessive
+autosomal dominant
+sex-linked recessive
+sex-linked dominant
+Examination of pedigree diagrams can allow the type of inheritance to be determined.
+Tay-Sachs disease is a human disease caused by a mutation in one gene. The inheritance of Tay-Sachs disease in a family group is shown in the pedigree diagram below.	
+a	Identify the most likely genotypes of individuals 4 and 5.
+	(You should only choose symbols from the list: T, t, XT, Xt or Y.)																(2 marks)
+b	Using the pedigree diagram and your knowledge, calculate the probability of individuals 9 and 10 having a son who does not have Tay-Sachs disease.														(1 mark)
+
+
+Fragile X syndrome is another human disease caused by a mutation in one gene. The pedigree diagram below represents how Fragile X syndrome can be inherited in humans.
+
+c	The diagram suggests that fathers with Fragile X syndrome do not pass the condition on to their sons. Using the diagram and your knowledge, suggest an explanation for there being no father-to-son transmission of the condition.											(2 marks)
+d	Identify the type of inheritance shown by Fragile X syndrome, from those listed at the start of the question.							(1 mark)
+e	Although the pedigree diagram provides an example of how Fragile X syndrome was inherited in one family, the presence of Fragile X syndrome in some individuals cannot be explained by genetic inheritance.
+	Suggest an explanation for this.							(1 mark)
+CCEA GCE (A) Biology Unit A2 2 May 2021 Q7c
+
+-- answer --
+a	4: Tt
+	5: TT														1m
+b	3/8 or38%												1m
+c	The allele for the disease must lie on the X chromosome.				1m
+	Since fathers only pass the Y chromosome to their sons, there is no father-to-son transmission.												1m
+d	Sex-linked dominant											1m
+e	The disease in these individuals could becaused bymutation.			1m
+
+---------------------------------------------------
+
+Structured question
+
+[10291043]
+// NOS // High order thinking // Communication //
+**	Before 1900, people didnot know much about the role of chromosomes in inheritance. In the early 20th century, American scientist Thomas Hunt Morgan performed a series of experimentson fruit flies that helped scientistslink the inheritance of a specific trait with a particular chromosome.
+
+	Normally, the eyes of fruit flies are red in colour.In order to study the inheritance of eye colour, Morgan performed differentcrosseson the fruit flies and the results are shown in the diagram below.
+
+
+
+a	Based on the above crosses, deduce which trait, red eyes or white eyes, is dominant. Explain your deduction.							(4 marks)
+		(Note: Marks will not be awarded for genetic diagrams.)
+			b	i	How did the results of the F2 generation confirm Mendel’s Law of Segregation?										(1 mark)
+				ii	How would the results of the F2 generation be different if the gene controlling eye colour was located on the autosomes?		(1 mark)
+
+Around the same time, American scientistsNettie Stevensand E.B. Wilson discovered that an organism’s sex is determined byits ‘accessory chromosomes’, which nowknown as the sex chromosomes.Morgan realized that the inheritance of eye colour was similar to the pattern of sex chromosome inheritance in fruit flies. Hehypothesized that the gene controlling eye colour must lie on the X chromosome.
+c	Morgan crossed a white-eyed female fruit fly with a red-eyed male fruit fly to verify his hypothesis. Draw a genetic diagram to show the result of the cross if Morgan’s hypothesis is correct.						(5 marks)
+	(Note: The sex chromosomes of fruit flies are similar to those of humans.)
+d	Complete the following table to elaborate on the aspects of the nature of science involved in the above discoveries.					(2 marks)
+Nature of science
+Elaboration
+
+Scientists build on the work of other scientists.
+
+
+
+
+
+
+
+
+
+
+Morgan performed a cross between white-eyed female and red-eyed male to verify whether his hypothesis is correct.
+
+
+-- answer --
+a	Red eyes													1m
+	Someflies in the F2generation have white eyes and they must have received at least one allele for white eyesfrom either parent (F1 generation).			1m
+	Since both parents have red eyes, each of them must carry at least one allele forred eyes.													1m
+	Therefore, at least one of the parents is heterozygous.Under heterozygous condition, only the dominant trait is expressed.						1m
+	Thus, red eyestrait is dominant.
+	b	i	Thephenotypic ratio of redeyesto whiteeyes is 3:1, which matchesthe ratio of crossingheterozygous parents predicted using Mendel’s Law of Segregation.											1m
+ii	Half of the white-eyed flies in the F2 generation would be male and the other half would be female. / White-eyed female would be present in the F2generation.											1m
+c	Let Rbe the allele for red eyes and r be the allele for white eyes.			1m
+	
+	Therefore, all the femaleoffspring will have red eyes while all the male offspring will have white eyes.											1m
+d	
+Nature of science
+Elaboration
+
+Scientists build on the work of other scientists.
+Inspired by the finding of Stevens and Wilson, Morgan proposed his hypothesis.
+
+Inquiry procedures are guided by the questions asked / hypotheses made.
+Morgan performed a cross between white-eyed female and red-eyed male to verify whether his hypothesis is correct.
+
+		(or other reasonable answers)									2m
+
+---------------------------------------------------
+
+
+	
+Chapter 26		Molecular genetics
+
+Multiple-choice questions
+
+[10291156]
+// Cross-topic // Graph interpretation // Applying concepts //
+*	Ficolin-3 is a protein that plays a crucial role in our immune system. It is encoded by the FCN3 gene. Ficolin-3 deficiency is a genetic disease caused by a mutation in the FCN3 gene. The base sequences of the normal and mutated alleles of the gene are shown below.
+
+	The graph below shows the ficolin-3 concentration of the individuals in a family.It is known that the mother does not suffer from the disease.
+
+	With reference to the information above, which of the following can be deduced?
+	(1)	The reading frame is shifted in the mutated allele.
+	(2)	The daughter is homozygous for the FCN3 gene.
+	(3)	The disease is inherited in an X-linked dominant manner.
+	A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A
+
+---------------------------------------------------
+
+
+[10291193]
+// High order thinking // Applying concepts //
+**The table below shows the mRNA codons for five different amino acids.The amino acids are represented by their short forms.
+
+Amino acid
+His
+Lys
+Leu
+Pro
+Val
+
+mRNA codons
+CAU
+CAC
+AAA
+AAG
+CUU
+CUC
+CUA
+CUG
+CCU
+CCC
+CCA
+CCG
+GUU
+GUC
+GUA
+GUG
+
+
+The amino acid sequence of part of a polypeptide chain is shown below.
+
+Leu–Pro–Val–Lys–His
+
+Which of the following statements is/are correct?
+(1)	For the gene that encodes the above polypeptide chain, a possible base sequence of the coding strand is CTTCCCGTTAAGCAT.
+(2)	Deletion of the 9th nucleotide in the base sequence would change the third amino acid in the polypeptide chain.
+(3)	Substitution of the 13th nucleotide in the base sequence would shift the reading frame.
+A	(1) only
+B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+
+
+Short question
+
+[10291209]
+// Cross-topic // Reading comprehension // Applying concepts //
+*	Read the passage below and answer the questions that follow.
+	Nowadays, mRNA vaccines are widely used to provide immunity against COVID-19. The vaccines contain mRNA molecules encoding a particular type of spike protein of SARS-CoV-2, the virus that causes COVID-19. These mRNA molecules are packaged in small lipid particles. The lipid particles protect the mRNA molecules from degradation and help deliver the mRNA into the cells of the recipients. After injection, the immune system is stimulated to produce immunity against SARS-CoV-2.
+
+
+a	Explain why people who have received mRNA vaccines against COVID-19 are better protected than those who have not.					(4 marks)
+b	Give one advantage of inoculating mRNA vaccines over attenuated vaccines which contain live, weakened pathogens.			(1 mark)
+
+-- answer --
+a	After the mRNA has entered the recipient’s cell, the mRNA is translated into the spike protein of SARS-CoV-2 using the cell’s own machinery. 			1m
+	When exposed to the spike protein, the immune system is stimulated to produce memory cells for that spike protein.								1m
+	Uponasecond exposure to SARS-CoV-2 with the same spike protein,		1m
+	a large number of antibodies can be produced rapidly to fight against the virus.																1m
+b	mRNA vaccinescannot cause diseases as they do not contain any whole or live pathogens while the pathogens in the attenuated vaccines may become active in the body. 													1m
+	(or other reasonable answers)
+
+--------------------------------------------------
+
+Structured question
+
+[10291212]
+// Overseas exam question // Scientific investigation // High order thinking //
+*	a	The table below shows the amino acids coded for by mRNA codons.
+
+
+i	Using the table, identify the sequence of amino acids coded for by a DNA sequence of ATAGGGCAG.						(2marks)
+ii	Using the table, explain the possible consequence(s) arising from a substitution mutation involving the third base in the base sequence shown (represented as X in the sequence below).
+	ATXGGGCAG									(2 marks)
+
+
+b	By 1960 it was understood that DNA was the molecule that codes for protein, but the number of bases required to code for each amino acid was not yet known.
+	Two scientists, Sydney Brenner and Francis Crick, carried out an investigation which was crucial to our understanding of how DNA codes for amino acids. By adding or removing a known number of base pairs in DNA, they were able to study the effects of this on the polypeptide produced. Their results are summarized in the table below.
+Number of base pairs changed
+Bases – added or deleted
+Result of mutation
+(degree of change to amino acids produced beyond point of mutation)
+
+1
+added
+major change
+
+1
+deleted
+major change
+
+2
+added
+major change
+
+2
+deleted
+major change
+
+3
+added
+no change
+
+3
+deleted
+no change
+
+	State the conclusion that Brenner and Crick were able to draw from this investigation and explain the results shown.					(4 marks)
+CCEA GCE (A) Biology Unit A2 2 May 2021 Q4b-c
+
+-- answer --
+a	i	Tyrosine–Proline–Valine									2m
+ii	The polypeptide produced will not be affected if the substituted base is G because both UAU and UAC code for tyrosine.					1m
+	If the substituted base is T or C, translation will stop prematurely because UAA and UAG are stop codons.								1m
+b	Conclusion: In a strand of DNA, three consecutive bases code for one amino acid. / DNA is a triplet code.										1m
+	Explanation of results: Since the addition or deletion of one to two nucleotides shifts the reading frame, the amino acids produced beyond the point of mutation will differ a lot from those produced by the unmutated base sequence.		1m
+	The addition or deletion of three nucleotides does not shift the reading frame.																1m
+	Therefore, only one amino acid is added or removed and the amino acids produced beyond the point of mutation remain unaffected.				1m
+
+---------------------------------------------------
+
+	
+Chapter 27		Biotechnology
+
+Multiple-choice questions
+
+[10291302]
+// Cross-topic // Schematic diagram // Higher order thinking //
+**	Direction: The following two questions refer to a test for a disease. In the test, blood samples were obtained from a couple and their child. The segments of DNA containing the gene associated with the disease were obtained from the blood sample of each person, and they were cut with a restriction enzyme. The DNA fragments produced were then separated using gel electrophoresis to produce a DNA fingerprint. 
+	The diagram below shows the segments of DNA containing the normal allele and the diseased allele, and the cutting sites of the restriction enzyme on them. 
+Key: 
+cutting site of restriction enzyme
+double-stranded DNA
+167 base pairs
+201 base pairs
+
+72 base pairs
+normal allele
+diseased allele
+Key: 
+cutting site of restriction enzyme
+double-stranded DNA
+167 base pairs
+201 base pairs
+
+72 base pairs
+normal allele
+diseased allele
+
+
+	
+	If the couple are both heterozygous, how many bands can be found in the DNA fingerprint of each of them? 
+A	2
+B	3
+C	4
+D	5
+C
+
+---------------------------------------------------
+
+
+[10291307]
+// Cross-topic // Schematic diagram // Higher order thinking //
+**	Which of the following show the possible patterns of bands in the DNA fingerprint of their childif the couple are both heterozygous?
+(1)
+(2)
+(3)
+
+
+
+
+
+A	(1) and (2) only
+B	(1)and (3) only
+C	(2)and (3) only
+D	(1),(2)and (3)
+A
+
+---------------------------------------------------
+
+[10291308]
+// Applying concepts //
+*	In the development of Golden rice, a gene from daffodil is introduced into a rice plant using recombinant DNA technology. Which of the following is/are necessary for the development of Golden rice?
+(1)	Technique for combining DNA from different sources. 
+(2)	Technique for transferring nucleus from one cell to another. 
+(3)	Technique for transferring pollen grains between different plant species. 
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+A
+
+---------------------------------------------------
+
+
+Short question
+
+[10291311]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	Many plants cannot grow in the soil with high salinity. One of the reasons suggested is that the accumulation of sodium ions in the cytoplasm of the cells affects the biochemical processes in the cells. 
+	Scientists developed a GM plant by introducing a gene from Arabidopsis thaliana into a tomato plant. The gene codes for a carrier protein which transports sodium ions across the membrane of the vacuole. A DNA fragment containing the gene was first inserted into a plasmid to produce a recombinant plasmid, which was then transferred into tomato plant cells. The cells were then developed into tomato plants. The diagram below shows some steps involved in producing the GM plants. 
+
+
+recombinant plasmid 
+cells developed into GM tomato plants
+tomato plant cells with recombinant plasmid introduced 
+gene for carrier protein 
+
+recombinant plasmid 
+cells developed into GM tomato plants
+tomato plant cells with recombinant plasmid introduced 
+gene for carrier protein 
+
+
+
+a	Briefly describe how the DNA fragment containing the gene for carrier protein can be inserted into a plasmid to produce a recombinant plasmid. 															(2 marks)
+b	With reference to the features of genetic code, explain why the tomato plant can produce the carrier protein after the gene from Arabidopsis thalianais introduced into the tomato plant.							(2 marks)
+c	Suggest how the production of the carrier protein in the tomato plant may increase salt tolerance of the plant. 						(3 marks)
+
+
+
+-- answer --
+a	Cut both the DNA fragment containing the gene and the plasmid with the same restriction enzyme. 											1m
+	Join the two together using a DNA ligase. 							1m
+b	Genetic code is universal. 										1m
+The same code codes for the same amino acid in both Arabidopsis thalianaand tomato. 													1m
+c	The carrier protein transports sodium ions from cytoplasm into vacuole. 	1m
+This removes sodium ions from the cytoplasm. 						1m
+	The lower sodium ion concentration in cytoplasm allows the biochemical reactions in the cytoplasm to occur normally. 								1m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10291313]
+// Cross-topic // Schematic diagram // Higher order thinking //
+**	Sickle-cell anaemia is a disease caused by a mutation in β-globin gene, which code for a polypeptide in haemoglobin. Whether a person is carrying an allele for the disease can be determined by a genetic test. 
+	In the test, segments of DNA containing β-globin gene are obtained from blood sample of a person. They are then incubated with a restriction enzyme. The restriction enzyme recognizes a specific sequence on the DNA and cut the DNA. The DNA fragments obtained are separated by gel electrophoresis to produce a DNA fingerprint.The diagram below shows the segments of DNA containing the normal allele and the diseased allele respectively, and the cutting site of the restriction enzyme on them. 
+
+Key: 
+cutting site of restriction enzyme
+segment of DNA containing normal allele
+1200 base pairs
+C
+C
+T
+G
+A
+G
+G
+G
+G
+A
+C
+T
+C
+C
+200 base pairs
+C
+C
+T
+G
+T
+G
+G
+G
+G
+A
+C
+A
+C
+C
+(restriction enzyme does 
+not cut)
+segment of DNA containing diseased allele
+Key: 
+cutting site of restriction enzyme
+segment of DNA containing normal allele
+1200 base pairs
+C
+C
+T
+G
+A
+G
+G
+G
+G
+A
+C
+T
+C
+C
+200 base pairs
+C
+C
+T
+G
+T
+G
+G
+G
+G
+A
+C
+A
+C
+C
+(restriction enzyme does 
+not cut)
+segment of DNA containing diseased allele
+
+
+
+	The diagram below shows the DNA fingerprints of a couple. 
+X (male)
+Y (female)
+X (male)
+Y (female)
+
+
+
+a	Name one kind of cells in the blood from which segments of DNA for the test can be obtained. 									(1 mark)
+b	State the type of mutation that has occurred in the diseased allele.																(1 mark)
+c	It is known that X does not carry a diseased allele. Explain the pattern of bands in his DNA fingerprint.								(2 marks)
+d	Y does not have the disease. Based on the DNA fingerprint, deduce her genotype.												(4 marks)
+e	Deduce whether it is possible that the child of the couple has sickle-cell anaemia. (Marks will not be awarded for genetic diagrams.)		(4 marks)
+
+-- answer --
+a	White blood cells											1m
+b	Substitution of base											1m
+c	The segments of DNA obtained from the cells of X contained the normal allele. They were cut by the restriction enzyme. 							1m
+	DNA fragmentsof 1200 base pairs and 200 base pairswere produced. Therefore there are two bands in his DNA fingerprint.  						1m
+d	Two of the DNA bands in the DNA fingerprint of Y are the same as those in the DNA fingerprint of X. This indicates that she carries a normal allele.		1m
+	The remaining DNA band, which moved the shortest distance, contained the longest DNA fragment. 										1m
+	This band was formed by the segment of DNA containing the diseased allele, which was not cut by the restriction enzyme.						1m
+	Therefore, she carries both normal allele and diseased allele. She is heterozygous. 												1m
+e	X has two normal alleles. He must pass a normal allele on to his child. Therefore, the child must have at least one normal allele. 						1m
+	As heterozygous Y does not have the disease, the normal allele must be dominant. 												1m
+	The dominant normal allele of the child inherited from X must express. 	1m
+	Therefore, it is not possible for the child to have sickle-cell anaemia. 		1m
+
+--------------------------------------------------
+
+
+	
+Chapter 28		Biodiversity
+
+Multiple-choice questions
+
+[10291419]
+// Schematic diagram // Basic concepts //
+*	The diagram below can be used to identify five organisms (P, Q, R, S and T).
+Organisms
+Organism P
+Organism Q
+Organism R
+Organism T
+Organism S
+Cells do not have a nucleus
+Cells have a nucleus
+Cannot photosynthesize
+Can photosynthesize
+Have a cell wall
+Do not have a cell wall
+Unicellular
+Multicellular
+Organisms
+Organism P
+Organism Q
+Organism R
+Organism T
+Organism S
+Cells do not have a nucleus
+Cells have a nucleus
+Cannot photosynthesize
+Can photosynthesize
+Have a cell wall
+Do not have a cell wall
+Unicellular
+Multicellular
+
+
+
+
+		Which of the following correctly identifies organisms R and T?
+	R				T
+A	Escherichia coli	sunflower
+B	mushroom		seaweed
+C	Amoeba			Euglena
+D	Euglena			seaweed
+B
+
+---------------------------------------------------
+
+[10291426]
+// High order thinking // Applying concepts //
+*	Ants and bees belongto the order Hymenoptera (an order of insects). The two organisms should belong to the same
+	(1)	family.
+	(2)	phylum.
+	(3)	class.
+	A	(1) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C
+
+---------------------------------------------------
+
+[10291431]
+// High order thinking // Applying concepts //
+**	Which of the following pairs of organisms belongs to the same kingdom in the six-kingdom system of classification?
+	A	moss and green alga
+	B	bacteria and archaebacteria
+	C	slime mould and bread mould
+	D	yeast and mushroom
+D
+
+---------------------------------------------------
+
+Short question
+
+[10291437]
+// Applying concepts //
+*	Studies of dragonflies in Hong Kong started in the 1850s and Black-banded Gossamerwing (Euphaeadecorata) was the first recorded species. The photograph below shows a Black-banded Gossamerwing.
+
+
+
+a	Complete the table below which shows the classification of Black-banded Gossamerwing.										(4 marks)
+Taxonomic rank
+Name
+Sequence of 
+taxonomic ranks
+
+Class
+Insecta
+
+
+Family
+Euphaeidae
+
+
+Genus
+
+
+
+Kingdom
+Animalia
+
+
+Order
+Odonata
+
+
+Phylum
+Arthropoda
+
+
+Species
+
+7
+
+
+b	When Black-banded Gossamerwing was first recorded in Hong Kong, the taxonomic rank domain had not yet been introduced. What is the domain for Black-banded Gossamerwing according to the modern classification system introduced by Carl Woese in 1990?						(1 mark)
+c	Giveone advantage of using common names over scientific names. With reference to theinformation above,Explain your answer.		(2 marks)
+
+
+
+-- answer --
+	a	
+Taxonomic rank
+Name
+Sequence of 
+taxonomic ranks
+
+Class
+Insecta
+3
+
+Family
+Euphaeidae
+5
+
+Genus
+Euphaea
+6
+
+Kingdom
+Animalia
+1
+
+Order
+Odonata
+4
+
+Phylum
+Arthropoda
+2
+
+Species
+Euphaeadecorata
+7
+
+															4m
+	b	Eukarya													1m
+c	Common names are easier to remember							1m
+as they are often descriptive of the external features of organisms. For example, the ‘black-banded’ part of the common name ‘Black-banded Gossamerwing’ corresponds closely to the dark band on the wings of the dragonfly.		1m
+(or other reasonable answers)
+
+---------------------------------------------------
+
+
+Structured question
+
+[10291447]
+// Scientific investigation // Graph interpretation // Data handling //
+**	Bats make up almost half of the terrestrial mammalian species in Hong Kong. Greater Bamboo Bat (Tylonycterisrobustula) and Lesser Bamboo Bat (Tylonycterispachypus)are two insectivorous bat species. Lesser Bamboo Bat is widely distributed throughout Hong Kong while Greater Bamboo Bat is only recorded in the Plover Cove Country Park.The photograph below shows a specimen of Greater Bamboo Bat.
+	
+
+	
+a	Give two mammalian features of bats observable in the photo.	(2 marks)
+b	Other than bats, give one example of terrestrial mammals that can be observed in the wild of Hong Kong.						(1 mark)
+
+Scientists wanted to demonstrate that Greater Bamboo Bat and Lesser Bamboo Bat compete with each other for food and to estimate the extent of competition. They studied the diet of the two bat species using faecal analysis. Bat droppings of the two species were collected, which were then softened with water and separated into fine pieces. The percentage volumes of different orders of insects were estimated for the faecal samples and presented in the table below.
+
+Order of insect
+Greater Bamboo Bat
+Lesser Bamboo Bat
+
+Hymenoptera
+62.3%
+53.4%
+
+Diptera
+29.6%
+29.0%
+
+Coleoptera
+6.0%
+13.4%
+
+Hemiptera
+1.5%
+2.1%
+
+Homoptera
+0%
+1.1%
+
+Others
+0.5%
+1.0%
+
+
+The graph below shows the size classes of eaten prey of Greater Bamboo Bat and Lesser Bamboo Bat.
+0–3.0
+3.1–3.5
+3.6–4.0
+4.1–4.5
+>4.6
+Greater 
+Bamboo Bat
+Lesser
+Bamboo Bat
+Key:
+size class of prey (mm)
+total prey eaten (%)
+(Source: Zhang et al. (2005). Journal of Mammalogy, 86(1), 61–66)
+
+0–3.0
+3.1–3.5
+3.6–4.0
+4.1–4.5
+>4.6
+Greater 
+Bamboo Bat
+Lesser
+Bamboo Bat
+Key:
+size class of prey (mm)
+total prey eaten (%)
+(Source: Zhang et al. (2005). Journal of Mammalogy, 86(1), 61–66)
+
+
+c	Suggest how faecal analysis can be used to identify the orders to which the preys of the two bat species belong.						(2 marks)
+d	With reference to the aims of the experiment, what conclusions can you draw from the results? Explain your answer.					(4 marks)
+
+-- answer --
+a	The presence of pinnae										1m
+Body covered with hair										1m
+b	Monkey / wild boar / Red Muntjac								1m
+(or other reasonable answers)
+c	The bat droppings samples contain exoskeleton and other indigestible parts of the insects (e.g. wings).											1m
+These parts are then observed (under a dissection microscope) and some of these parts are unique to certain orders of insects.					1m
+d	There is competition for food between the two bat species				1m
+because the types of insects they feed on are similar / there are certain overlaps in the size class of prey.										1m
+However, the competition is not intense							1m
+because Lesser Bamboo Bat primarily eats insects from smaller size classes (e.g. 3.1–3.5 mm) while Greater Bamboo Bat eats insects from larger size classes (e.g. >3.6 mm).													1m
+
+---------------------------------------------------
+	
+Chapter 29		Evolution I
+
+Multiple-choice questions
+
+[10291564]
+// High order thinking // Applying concepts //
+**	Mass extinctions are defined as short periods of earth history during which rates of species extinction reached exceptionally high levels in widespread areas. Most mass extinctions involve catastrophic events, such as large volcanic eruptions and dramatic changes in climatic conditions. After studying the fossils trapped in a piece of sedimentary rock, scientists proposed that a mass extinction event occurred during the geological time to which a particular rock layer, layer N, corresponds. Which of the following changes in the fossil record most probably provides evidence for the occurrence of the mass extinction event?
+A	Most fossils present in layer N are of one species only.
+B	A larger variety of fossils can be found in layer N than in other rock layers.
+C	The fossils present in layer N show no signs of damage from hunting.
+D	A large variety of fossils present in the layer underneath layer N (layer N-1) cannot be found in layer N.
+D
+
+
+---------------------------------------------------
+Note:
+If a mass extinction event occurred, it would wipe out a wide variety of organisms, many of which would not form fossilsin such a short time and under extreme conditions. Hence, the number and variety of fossils found in that particular rock layer would be greatly reduced when compared to the layer underneath.
+
+
+
+
+[10291582]
+// High order thinking // Applying concepts //
+**	The list below shows some descriptions of the phylogenetic relationships among five species (V, W, X, Y and Z).
+
+Species W is an extinct common ancestor of species V, Y and Z.
+Species X is more closely related to species W than to the other species.
+Species Y is the most recent common ancestor of species V and Z.
+
+Which of the following evolutionary trees best illustrates the phylogenetic relationships of the five species?
+A
+
+
+B
+
+
+C
+
+
+D
+
+
+C
+
+---------------------------------------------------
+
+
+Short question
+
+[10291598]
+// Schematic diagram // Applying concepts //
+*	The diagram below is an image from Charles Darwin’s first notebook. It shows the first evolutionary tree drawn by Darwin.Letters A, B, C and D represent four existing species while the circled 1 represents a common ancestor.
+
+
+
+Comment on the phylogenetic relationships of the labelled species in the evolutionary tree.											(3 marks)
+
+
+-- answer --
+Species A, B, C and D evolved from the same earliest common ancestor, species 1.																	1m
+Species B, C and D also have a more recent common ancestor.				1m
+They are thus more closely related to each other than to species A.			1m
+(or other reasonable answers)
+
+---------------------------------------------------
+
+
+Structured question
+
+[10291627]
+//Cross-topic // Data handling // Applying concepts //
+**Immunological analysis can be used to detect differences in protein structure of different species, which provide evidence for the phylogenetic relationship of these species.The diagram below shows the main steps in the immunological analysis carried out to compare serum albumin, a type of plasma proteins, of humans with those in other animals.
+
+❶
+❷
+❸
+❶	Human serum albuminis extracted and injected into a rabbit.
+❷	Serum is extracted from the rabbit. The serum contains antibodies against human serum albumin.
+❸	The rabbit serum is mixed with serum from another animal (e.g. chimpanzee). The relative volume of precipitates in the mixture is measured.
+❶
+❷
+❸
+❶	Human serum albuminis extracted and injected into a rabbit.
+❷	Serum is extracted from the rabbit. The serum contains antibodies against human serum albumin.
+❸	The rabbit serum is mixed with serum from another animal (e.g. chimpanzee). The relative volume of precipitates in the mixture is measured.
+
+
+The table below shows the results of mixing the rabbit serum with the serum from humans and four other primates.
+
+Serum sample
+Relative volume of precipitates (%)
+
+Human
+100
+
+Chimpanzee
+96.1
+
+Gibbon
+82.3
+
+Gorilla
+95.5
+
+Orangutan
+85.4
+
+
+a	Briefly explain the rationale behind the use of differences in protein structure to investigate the phylogenetic relationship between different species.												(2 marks)
+b	Describe the events that led to the production of antibodies against human serum albumin inside the rabbit’s body after the injection.		(3 marks)
+	c	i	What is the importance of testing the rabbit serum with a sample of human serumfirst?									(1 mark)
+		ii	Based on your biological knowledge, explain why precipitates appearedafter the rabbit serum had been mixed with human serum.														(2 marks)
+d	Do the results prove that humans are more closely related to gorillas than to gibbons or orangutans? Explain your answer with supporting evidence from the data.												(3 marks)
+
+-- answer --
+a	The closer the phylogenetic relationship between two species, the more similar their base sequences of DNA will be.								1m
+Since the amino acid sequences / primary structures of protein molecules are determined by the base sequences of DNA, the same protein from two closely related species will have a similar structure.							1m
+b	Human serum albumin is recognized by the rabbit’s immune system as an antigen.													1m
+Helper T cells with the complementary receptor bind to the human serum albumin and are activated. The activated helper T cells secrete lymphokines, which activate B cells to divide and differentiate into plasma cells.				1m
+Plasma cells produce antibodies against human serum albumin and release them into the blood.												1m
+	c	i	To check if antibodies against human serum albumin are present in the rabbit serum or not.										1m
+ii	Each antibody against human serum albumin in the rabbit serum binds with several serum albumin molecules in the human serum,			1m
+forming a big mass / clump.								1m
+d	Yes.														1m
+The higher the relative volume of precipitates in the serum mixture, the closer the phylogenetic relationship between the two species.					1m
+When mixed with the rabbit serum containing antibodies against human serum albumin, the serum of gorilla had a relative volume of precipitates of 95.5%, which is higher than gibbon (82.3%) or orangutan (85.4%).					1m
+
+---------------------------------------------------
+
+	
+Chapter30		Evolution II
+
+Multiple-choice questions
+
+[10291761]
+// High order thinking // Applying concepts //
+*	In 1985, iron-containing wastewater leaked from an iron mine resulted in the death of a large number of fish species in the lower course of a nearby river. Several years later, scientists found that the trout in that river region increased in number. They also discovered that the trout living in that region had a higher concentration of a special protein in their blood that can bind to iron ions and store them in certain body parts.Which of the following can be deduced from the above incident?
+(1)	A mutation occurred in the trout population in 1985.
+(2)	The gene encoding the iron-binding protein already existed in the gene pool before 1985.
+(3)	The trout population living in the lower course of the river became a new trout species.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B
+
+---------------------------------------------------
+
+
+
+
+
+[10291767]
+// Graph interpretation // High order thinking // Applying concepts //
+**In a forest of country X, soapberry bugs feed on the fruits of a native tree species. They use their long mouthpart to penetrate the fleshy fruit and feed on the seed at the centre. However, at a certain point in time, the Golden Rain Tree was introduced from Asia and became the dominant tree species of the forest. The fruits of the Golden Rain Tree are smaller in diameter than those of the native tree species. In a study, scientists measured the mouthpart length of the soapberry bugs. The results are shown in the graph below.
+year
+mouthpart length (mm)
+year
+mouthpart length (mm)
+
+	With reference to the information above, which of the following can be deduced?
+(1)	The Golden Rain Tree had become the dominant tree species of the forest since the 1920s.
+(2)	The alleles for long mouthpart had been eliminated from the gene pool after the introduction of Golden Rain Tree.
+(3)	The diameter of the fruits of the Golden Rain Tree served as a selection pressure on the mouthpart length of soapberry bugs.
+A	(3) only			B	(1) and (2) only
+C	(1) and (3) only	D	(2) and (3) only
+C
+
+---------------------------------------------------
+
+Short question
+
+[10291781]
+// Matching // Basic concepts //
+*	For each of the terms related to the theory of natural selection listed in Column 1, select from Column 2one statementthat correctly describes it. Put the letter in the space provided.											(4 marks)
+	
+Column 1
+Column 2
+
+
+Selection advantage
+________
+A
+Individuals within a population compete for limited resources in the environment.
+
+Struggle for existence
+________
+B
+Individuals better adapted to their environment are more successful in surviving and reproducing.
+
+Selection 
+pressure
+________
+C
+External agents or events which affect an individual’s ability to survive and reproducein a given environment.
+
+Survival of 
+the fittest
+________
+D
+The characteristic of an individual that enables it to survive and reproduce better than other individuals in a population in a given environment.
+
+
+
+-- answer --
+Selection advantage: D											1m
+Struggle for existence: A											1m
+Selection pressure: C												1m
+Survival of the fittest: B											1m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10291796]
+// Cross-topic // Graph interpretation // High order thinking //
+**Cyanide is a highly toxic chemical. Some white clover plants can release hydrogen cyanide after tissue damageand are described as cyanogenic. The distinctive smell of hydrogen cyanide can deter invertebrate herbivores such as slugs and snails from eating the plants. However, not all white clover plants can produce and release hydrogen cyanide. They are non-cyanogenic.
+
+The ability to produce and release hydrogen cyanide in white clover is controlled by genes on two non-homologous chromosomes. The dominant allele, A, of one gene controls the production of enzyme 1 which converts a precursor to cyanogenic glycoside in the cell. The dominant allele, L, of another gene controls the production of enzyme 2, which converts cyanogenic glycoside to hydrogen cyanide so that the cyanide compound can be released from the cell.
+Precursor
+Cyanogenic glycoside
+Hydrogen cyanide
+Enzyme 1
+Enzyme 2
+Allele A
+Allele L
+Precursor
+Cyanogenic glycoside
+Hydrogen cyanide
+Enzyme 1
+Enzyme 2
+Allele A
+Allele L
+
+a	Explain why a white clover plant with the genotype Aall is considered non-cyanogenic.											(3 marks)
+b	In a breeding experiment, scientists allowed a white clover plant with the genotype AaLL to self-pollinate. Write down the possible genotypes for each of the following:
+i	the gametes involved.								(1 mark)
+ii	cyanogenic offspring.								(1 mark)
+
+
+The map below shows four zones (zone I to IV) in country C with their average February temperatures. The proportions of cyanogenic and non-cyanogenic plants in white clover populations are also shown.
+-2 oC
+Zone I
+Zone II
+Zone III
+Zone IV
+0 oC
+4 oC
+8 oC
+Key:
+N
+
+Cyanogenic plants
+Non-cyanogenic plants
+-2 oC
+Zone I
+Zone II
+Zone III
+Zone IV
+0 oC
+4 oC
+8 oC
+Key:
+N
+
+Cyanogenic plants
+Non-cyanogenic plants
+
+	c	i	Describe the overall relationship between the proportion of cyanogenic plants in the white clover population and the average February temperature.										(1 mark)
+ii	Assuming that the average February temperatures of the four zones increase by 2 oC due to global warming, how would the proportion of cyanogenic plants change? Explain your answer using the theory of natural selection.									(5 marks)
+
+-- answer --
+a	Even though the plant carries one dominant allele A and thus can produce enzyme 1 which can catalyse the formation of cyanogenic glycoside,		1m
+it carries two recessive alleles l and cannot produce enzyme 2.			1m
+Without enzyme 2, cyanogenic glycoside cannot be converted into hydrogen cyanide / the cells cannot release hydrogen cyanide.					1m
+	b	i	AL andaL												1m
+ii	AALL andAaLL											1m
+	c	i	The higher the average February temperature, the greater the proportion of cyanogenic plants in the white clover population.					1m
+ii	There are genetic variations among the plants in the white clover population in their ability to produce and release hydrogen cyanide.			1m
+As the average temperature in February increases, the invertebrate herbivores such as slugs and snails become more active and feed on more plants.												1m
+Since those cyanogenic plants can produce and release hydrogen cyanide to deter the invertebrate herbivores, they have a higher chance of survival than non-cyanogenic plants.								1m
+They have a greater chance of reproduction / producing more offspring.															1m
+Thus, the proportions of cyanogenic plants in zones I, II and III increase in the subsequent generations.								1m
+
+---------------------------------------------------
+
+

@@ -1,0 +1,1857 @@
+( Chapter 14		Growth and development	
+
+Multiple-choice questions
+
+[10264573]
+// Cross-topic // Photomicrograph // Applying concepts //
+(*	The photomicrographs below are taken from four different types of tissues. Which of them is most likely to be a meristem?
+
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10264582]
+// Experiment // Schematic diagram //
+(*	Directions: The following two questions refer to the diagram below, which shows a germinating seed used to investigate the growth of its main root. Starting from the root tip, eight lines are marked on the root at 1-mm intervals. 
+	
+
+	After two days, the greatest increase in length probably occurs in
+A	regions 1-3.
+B	regions 2-6.
+C	regions 4-7.
+D	regions 7-8.
+
+B	
+---------------------------------------------------
+
+[10264598]
+// Experiment // Schematic diagram //
+(*	Which of the following can be determined from the results of the above investigation?
+(1)	the growth rate of the main root
+(2)	the root region where active cell division takes place
+(3)	the root region with the greatest increase in length
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+
+A	
+---------------------------------------------------
+
+[10264626]
+// Cross-topic // Applying concepts //
+(**Directions: The following two questions refer to the photograph below, which shows the longitudinal section of a marian plum fruit and the seed inside. 
+	
+
+	Which of the following structures contain(s) food reserves for seed germination?
+A	X only
+B	Y only
+C	X and Y only
+D	Y and Z only
+
+B	
+---------------------------------------------------
+
+[10264647]
+// Cross-topic // Applying concepts //
+(**Which of the following structures have the same genetic make-up?
+A	X and Y
+B	X and Z
+C	Y and Z
+D	X, Y and Z
+
+B	
+---------------------------------------------------
+
+
+
+[10264660]
+// Drawing // Graph interpretation //
+(*	The graph below shows the changes in the average dry mass of two similar batches of mung beans as they germinated and grew into seedlings. One of the batches was germinated under light. The other batch was germinated in the dark.
+	
+	Which of the following is/are the correct explanation(s) for the changes in the average dry mass of the mung beans germinated under light after time P?
+	(1)	The mung beans absorbed a large amount of water.
+	(2)	The rate of photosynthesis increased.
+	(3)	The rate of respiration decreased.
+A	(2) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10264662]
+// Graph interpretation // Calculation // Applying concepts //
+(**The graph below shows the growth curves of the brain, reproductive organs and lymphoid tissues in a male from birth to age 20.
+	
+	What is the ratio of the growth of the brain to the reproductive organs in the male when he was 5 years old?
+A	3:5
+B	5:3
+C	6:1
+D	10:1
+D	
+---------------------------------------------------
+
+
+[10264668]
+// Basic concepts //
+(	Which of the following changes is not an example of development?
+A	from a tadpole to an adult frog
+B	from an 1-day-old human embryo to a 2-day-old human embryo 
+	C	from an ovary to a fruit
+	D	from a seedling to a tree
+B	
+---------------------------------------------------
+
+[10264670]
+// Basic concepts //
+(	The photograph below shows a seedling.
+	
+Which of the labelled parts is the first to emerge during seed germination? 
+A	(1)						B	(2)
+	C	(3)						D	(4)
+D	
+---------------------------------------------------
+
+
+[10264689]
+// Calculation // Applying concepts //
+(*	The table below shows how long certain seeds can be stored at different moisture contents under different temperatures.
+
+Temperature (°C)	Storage time of seeds at different moisture contents (month)	
+	13%	14%	15%	16%	17%	
+5	160.2	75.4	37.2	14.6	9.1	
+10	88.0	37.2	18.6	8.8	5.2	
+15	49.3	18.8	12.4	4.6	2.8	
+20	28.4	10.0	6.2	3.0	1.6	
+25	18	6.5	3.1	1.5	0.4	
+
+A farmer stored his first batch of seeds at a moisture content of 15% under 15 °C, and his second batch of seeds at the same moisture content but the temperature was reduced by 10 °C. How many times longer can the second batch of seeds be stored?
+A	1.5 times
+B	2 times
+	C	3 times
+	D	6 times
+C	
+---------------------------------------------------
+
+
+[10264700]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	In an experiment, a student left the 4 boiling tubes below for 3 days and recorded whether seed germination took place.
+	
+Based on the results, seed germination requires
+A	oxygen.					B	oxygen and warmth.
+	C	warmth and water.			D	oxygen, warmth and water.
+B	
+---------------------------------------------------
+
+[10264701]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a cell in the root of a plant.
+	
+The cell is located in
+A	the root cap.				B	the region of cell division.
+	C	the region of elongation.		D	the region of differentiation.
+D	
+---------------------------------------------------
+
+[10264705]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows the longitudinal section of a shoot tip.
+	
+	Which of the labelled parts serves a similar function as the root cap in a root tip?
+A	(1)						B	(2)
+	C	(3)						D	(4)
+A	
+---------------------------------------------------
+
+[10264708]
+// Schematic diagram // Basic concepts //
+(	Secondary growth in the shoot is mainly the result of the activity in
+A	(3) only.				B	(6) only.
+	C	(2) and (5) only.		D	(3) and (6) only.
+B	
+---------------------------------------------------
+
+[10264719]
+// Comparison // Basic concepts //
+(	Which of the following comparisons of primary growth and secondary growth in woody plants is correct? 
+	Primary growth				Secondary growth
+A	occurs in roots only				occurs in shoots only
+B	produces xylem only			produces phloem only
+	C	increases the length of plants		increases the thickness of plants
+	D	involves cell division only		involves cell differentiation only
+C	
+---------------------------------------------------
+
+[10264739]
+// Graph interpretation // Basic concepts //
+(*	The graph below shows the changes in the dry masses of different parts of a germinating seed since germination begins.
+	
+Curves (1), (2) and (3) represent the changes in the dry masses of 
+	(1)				(2)				(3)
+A	cotyledons		plumule			radicle
+B	plumule			radicle			cotyledons	
+	C	plumule			cotyledons		radicle
+	D	radicle			plumule			cotyledons	
+D	
+---------------------------------------------------
+
+[10264745]
+// Basic concepts //
+(*	Which of the following is a characteristic of growth in humans?
+A	The adolescent growth spurt in boys occurs earlier than that in girls.
+B	All body parts start to grow at the same time. 
+	C	The maximum size of the body is reached at adulthood.
+	D	The size of the head decreases with age. 
+C	
+---------------------------------------------------
+
+
+[10264749]
+// Basic concepts //
+(*	Which of the following is/are example(s) of growth of a plant?
+(1)	Cells in the root tips elongate, leading to an increase in the length of the root.
+(2)	Cells in the root tips divide, leading to an increase in the number of cells.
+(3)	Root hairs develop from the root to increase the surface area for absorbing water and minerals in the soil.
+	A	(1) only
+	B	(2) only
+	C	(1) and (2) only
+	D	(1), (2) and (3)	
+C	
+---------------------------------------------------
+
+[10264762]
+// Basic concepts //
+(*	Differentiation leads to
+(1)	an increase in the variety of cells.
+(2)	an increase in the complexity of cells.
+(3)	the formation of different tissues and organs.
+	A	(1) only
+	B	(2) only
+	C	(1) and (2) only	
+	D	(1), (2) and (3)	
+D	
+---------------------------------------------------
+
+
+[10264774]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	Directions: The following two questions refer to the diagram below, which shows a set-up used to study the conditions necessary for seed germination. Each tube contains three seeds placed on cotton wool.
+
+	
+	Which tubes should we compare if we want to find out whether oxygen is needed for seed germination? 
+A	Tubes P and Q	
+	B	Tubes Q and S
+	C	Tubes P, Q and R
+	D	Tubes Q, R and S
+A	
+---------------------------------------------------
+
+[10264784]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	The seeds in tubes P and S germinate after two days while the seeds in tubes Q and R do not. What does this result show?
+	(1)	Warmth is necessary for seed germination.
+	(2)	Light is not necessary for seed germination.
+	(3)	Oil can kill the seed.
+A	(2) only			B	(1) and (2) only
+	C	(1) and (3) only	D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10264789]
+// Basic concepts //
+(	Which of the following is the most suitable parameter for measuring the growth of a human foetus during prenatal check-up?
+
+	A	fresh mass			B	dry mass
+	C	length				D	volume
+C	
+---------------------------------------------------
+
+[10264796]
+// Basic concepts //
+(	Which of the following is the most suitable parameter for measuring the growth of bacteria on an agar plate?
+
+	A	fresh mass			B	dry mass
+	C	volume				D	surface area
+D	
+---------------------------------------------------
+
+
+[10264805]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the changes in body proportions of a human from foetal stage to adulthood.
+	
+	According to the diagram above, which of the following statements is incorrect?
+	A	As a person grows, the limbs become longer.
+	B	The size of the head decreases with age.
+	C	The relative size of the trunk remains nearly the same.
+	D	Different body parts have different growth rates.
+B	
+---------------------------------------------------
+
+
+[10264813]
+// Graph interpretation //
+(*	Which of the following graphs correctly shows the changes in dry mass of a seed from the time it starts to germinate (X) to the time when green leaves develop on the seedling (Y)?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10264814]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the internal structure of a seed.
+	
+
+	If the seed is soaked and placed under sunlight, what will happen to the fresh mass of structure X on the first day?
+	A	It will decrease because the starch in it is changed to sugar.
+	B	It will decrease because the food stored in it is used in respiration.
+	C	It will increase because the seed makes food under sunlight.
+	D	It will increase because the seed absorbs water.
+D	
+---------------------------------------------------
+
+[10264819]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the internal structure of a seed.
+	
+
+	If the seed is soaked and placed under sunlight, what will happen to the fresh mass of structures X and Y after a week?
+		Fresh mass of X		Fresh mass of Y
+	A	increase				increase
+	B	increase				decrease
+	C	no change			no change
+	D	increase				no change
+B	
+---------------------------------------------------
+
+[10264822]
+// Graph interpretation // Applying concepts //
+(**The photograph below shows a seedling. 
+
+	
+
+Which of the following graphs shows the changes in the dry mass of the whole seedling and the cotyledon from the first day of seed germination to the stage shown above?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10264833]
+// Graph interpretation // Applying concepts //
+(**Which of the following graphs shows the changes in the dry mass and fresh mass of the cotyledon during the first 10 days of seed germination?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10264838]
+// Applying concepts //
+(**A student monitored the change in a growth parameter of a seedling in the first day of seed germination and found that the parameter increased. Which of the following may be the parameter?
+(1)	dry mass of the cotyledon
+(2)	fresh mass of the cotyledon
+(3)	dry mass of the radicle
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10264843]
+// Scientific investigation // Experiment // Applying concepts //
+(*	The table below shows the conditions of some mung beans in two test tubes. The test tubes were set up to investigate the conditions for seed germination.
+Test tube	Water	Temperature	Light	
+P	Present	0 °C	Present	
+Q	Present	30 °C	Present	
+
+After 10 days, all the mung beans in Q germinated, but none in P. What conclusion can be drawn from the results?
+A	Water is necessary for seed germination.
+B	Warmth is necessary for seed germination.
+C	Oxygen is necessary for seed germination.
+D	No conclusion can be drawn from the results.
+B	
+---------------------------------------------------
+
+[10264866]
+// Graph interpretation // Schematic diagram // Applying concepts //
+(**Directions: The following three questions refer to the diagram below, which shows a mung bean seedling.
+	
+How does the fresh mass of structure X change from the first day of seed germination to the stage shown in the diagram?
+A	keeps decreasing
+B	keeps increasing 
+C	decreases and then increases
+D	increases and then decreases
+D	
+---------------------------------------------------
+
+[10264867]
+// Graph interpretation // Schematic diagram // Applying concepts //
+(**Which of the following graphs correctly shows the changes in the amounts of starch and sugar in structure X from the first day of germination to the stage shown in the diagram?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10264868]
+// Graph interpretation // Schematic diagram // Applying concepts //
+(**Which of the following does not occur in the seedling a few days later?
+A	The curved shoot straightens.
+B	Young leaves develop to make food by photosynthesis.
+C	The cotyledons turn green and carry out photosynthesis.
+D	The food synthesized in photosynthesis is transported to the cotyledons for storage.
+D	
+---------------------------------------------------
+
+[10264874]
+// Schematic diagram // Basic concepts //
+(*	Directions: The following three questions refer to the diagram below, which shows a section of a root tip.
+	
+Which of the following correctly identifies regions P, Q and R?
+	P	Q	R	
+A	region of cell division	region of differentiation	region of elongation	
+B	region of elongation	region of cell division	region of differentiation	
+C	region of differentiation	region of cell division	region of elongation	
+D	region of differentiation	region of elongation	region of cell division	
+
+D	
+---------------------------------------------------
+
+[10264889]
+// Schematic diagram // Basic concepts //
+(*	In which region the cells contain the largest vacuoles?
+A	P			B	Q
+C	R			D	S
+A	
+---------------------------------------------------
+
+[10264907]
+// Schematic diagram // Basic concepts //
+(*	Which of the following occur in a cell in region R before it becomes a cell in xylem tissue?
+(1)	Lignin is deposited in the cell wall.
+(2)	Cytoplasm disappears.
+(3)	Cell takes in water to form vacuoles.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10264916]
+// Graph interpretation // Basic concepts //
+(*	The graph below shows the growth curve of an annual plant.
+	
+
+Which of the following are the correct explanations for the decrease in dry mass at time P and Q?
+P							Q
+A	falling off of cotyledons			falling off of leaves 
+B	damage of radicle				dispersal of fruits and seeds
+C	breakdown of food for growth	falling off of old branches
+D	breakdown of food for growth	dispersal of fruits and seeds
+D	
+---------------------------------------------------
+
+[10264921]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	The diagrams below show four test tubes containing mung beans in different conditions. The test tubes were set up to investigate the conditions for seed germination.
+(1)	(2)	(3)	(4)	
+				
+
+Which of the following pairs of test tubes can be used to investigate the effect of temperature on seed germination?
+A	(1) and (2) 		B	(1) and (3)
+C	(2) and (3)		D	(2) and (4)
+B	
+---------------------------------------------------
+
+[10264936]
+// Basic concepts //
+(	Water is essential for seed germination. Which of the following statements about the function of water in seed germination is incorrect?
+A	Water helps transport food from the storage site to the growing regions.
+B	Water softens the seed coat, thus allowing the emergence of a radicle. 
+C	Water is required for the seed coat to carry out photosynthesis.
+D	Water is a reactant in the biochemical reactions that occur during seed germination.
+C	
+---------------------------------------------------
+
+
+[10264945]
+// Comparison // Basic concepts //
+(*	Which of the following comparisons between primary growth and secondary growth in flowering plants is incorrect?
+	Primary growth	Secondary growth	
+A	due to the activity of apical meristem	due to the activity of lateral meristem	
+B	increases the length of roots and shoots	increases the thickness of roots and shoots	
+C	produces xylem, phloem and thin-walled cells	produces xylem only	
+D	occurs in root tips and shoot tips	occurs in the periphery of roots and stems	
+
+C	
+---------------------------------------------------
+
+[10264947]
+// Graph interpretation // Basic concepts //
+(	The graph below shows the growth curves of different organs and the whole body of a person.
+	
+This person enters puberty at age
+A	9.				B	11.
+C	13.				D	15.
+C	
+---------------------------------------------------
+
+[10264950]
+// Basic concepts //
+(	The most suitable parameter for measuring the growth of a leaf is its
+A	length.				B	surface area.
+C	fresh mass.			D	dry mass.
+B	
+---------------------------------------------------
+
+[10264951]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows a seed.
+	
+What are P and Q?
+P			Q
+A	shoot		root
+B	plumule		radicle
+C	root			shoot
+D	radicle		plumule
+B	
+---------------------------------------------------
+
+[10264952]
+// Schematic diagram // Basic concepts //
+(	Why does X become smaller during seed germination?
+A	The content of X reacts with oxygen in air.
+B	The cells in X migrate to P and Q.
+C	The food in X is used for growth.
+D	The water in X evaporates.
+C	
+---------------------------------------------------
+
+[10264974]
+// Basic concepts //
+(	Which of the following statements about the growth of humans is incorrect?
+A	The head grows more rapidly than the rest of the body at the early stage. 
+B	The limbs grow slower than the rest of the body at the early stage.
+C	The trunk grows more rapidly than the rest of the body at the early stage.
+D	The growth rates of males and females are different during adolescence.
+C	
+---------------------------------------------------
+
+[10264975]
+// Graph interpretation // Basic concepts //
+(	Directions: The following two questions refer to the graph below, which shows the growth curve of an annual plant.
+	
+Which of the following correctly explains the decrease in dry mass at stage I? 
+A	The seeds of the plant are dispersed.
+B	The stored food in the seed is used.
+C	The leaves of the plant fall off.
+D	The rate of photosynthesis of the plant is higher than the rate of respiration.
+B	
+---------------------------------------------------
+
+[10264985]
+// Graph interpretation // Basic concepts //
+(	Which of the following probably happens to the plant at time P?
+A	pollination				B	fertilization
+C	flowering					D	dispersal of fruits and seeds
+D	
+---------------------------------------------------
+
+[10265000]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	Directions: The following two questions refer to the diagrams below, which show some Petri dishes set up to investigate the conditions for seed germination. 
+(1)	(2)	(3)	
+			
+(4)	(5)	(6)	
+			
+Which two dishes should be compared to investigate the effect of temperature on seed germination?
+A	(1) and (2)			B	(1) and (4)
+C	(3) and (5)			D	(4) and (6)
+D	
+---------------------------------------------------
+
+[10265002]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	To investigate the effect of spacing on seed germination, we should compare dish (4) with
+A	dish (1).
+B	dish (2).
+C	dish (3).
+D	dish (5).
+C	
+---------------------------------------------------
+
+[10265006]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows a section of a plant root.
+	
+Which of the following statements about part S are correct?
+(1)	It protects the tip of the root.
+(2)	The cells in it are rubbed away continuously.
+(3)	The cells in it divide to replace the cells that are rubbed away.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10265014]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a cell taken from the above root. 
+	
+From which of the following regions is the cell probably taken?
+A	P				B	Q
+C	R				D	S
+C	
+---------------------------------------------------
+
+[10265016]
+// Graph interpretation // Applying concepts //
+(*	Directions: The following two questions refer to the graph below, which shows the growth curve of an annual plant.
+	
+
+Which of the following correctly describes the rates of photosynthesis and respiration of the plant during periods I and II?
+	I	II	
+A	The rate of photosynthesis is zero.	The rate of photosynthesis is higher than the rate of respiration.	
+B	The rate of photosynthesis is equal to the rate of respiration.	The rate of photosynthesis is lower than the rate of respiration.	
+C	The rate of photosynthesis is lower than the rate of respiration.	The rate of photosynthesis is equal to the rate of respiration.	
+D	The rate of photosynthesis is higher than the rate of respiration.	The rate of photosynthesis is lower than the rate of respiration.	
+
+A	
+---------------------------------------------------
+
+[10265051]
+// Graph interpretation // Applying concepts //
+(*	Which of the following probably occurs at time P?
+A	Photosynthesis stops.
+B	Respiration stops.
+C	Flowering stops.
+D	Absorption of water stops.
+C	
+---------------------------------------------------
+
+[10265055]
+// Graph interpretation // Calculation // Applying concepts //
+(*	Directions: The following two questions refer to the bar chart below, which shows the results of an experiment. In the experiment, different mineral ions were added into the soil. One week later, the percentage increases in dry mass of the seedlings were measured.
+	
+What is the main reason for using seedlings instead of mature plants in this experiment?
+A	Seedlings contain less food reserves.
+B	The growth rate of seedlings is higher than that of mature plants.
+C	Seedlings occupy less space than mature plants.
+D	It is easier to measure the dry mass of seedlings than that of mature plants.
+A	
+---------------------------------------------------
+
+[10265084]
+// Graph interpretation // Calculation // Applying concepts //
+(*	What is the net gain in dry mass of the seedlings after adding nitrate?
+A	18%					B	29%
+C	60%					D	70%	
+C	
+---------------------------------------------------
+
+[10265101]
+// Applying concepts //
+(*	The photographs below show a plant and some plant parts. 
+
+			
+X	Y	Z	
+
+Which of the following shows the parameters that are most suitable for measuring the growth of above plant or plant parts?
+X				Y				Z
+A	volume			volume			weight
+B	weight			surface area		surface area
+C	length of root		weight			volume
+D	length of shoot		surface area		volume
+D	
+---------------------------------------------------
+
+[10265102]
+// Applying concepts //
+(*	Which of the following is/are the advantage(s) of measuring growth of an organism by the change in its size?
+(1)	The organism remains alive.
+(2)	The method is easy and convenient.
+(3)	The result is accurate.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10265112]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a section of a plant root.
+	
+Where does the meristem locate?
+A	P				B	Q
+C	R				D	S
+C	
+---------------------------------------------------
+
+[10265133]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a section of a seed.
+	
+The part labelled X
+A	is brown in colour to absorb more sunlight.
+B	protects the radicle as the radicle grows into the soil.
+C	can grow into a new plant.
+D	provides food for the embryo to grow.
+D	
+---------------------------------------------------
+
+[10265134]
+// Applying concepts //
+(*	The photographs below show the change in an organism. 
+
+	
+
+The change is brought about by
+(1)	cell division.
+(2)	cell enlargement.
+(3)	differentiation.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10265146]
+// Basic concepts //
+(	Which of the following cause growth in organisms?
+(1)	cell division
+(2)	cell enlargement
+(3)	differentiation
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10265151]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows a longitudinal section of a root tip.
+
+	
+
+In which region(s) can mitotic cell division be observed?
+A	X only
+B	Y only
+C	Z only
+D	Y and Z only
+C	
+---------------------------------------------------
+
+[10265171]
+// Schematic diagram // Basic concepts //
+(	Which of the following correctly describe(s) what happens in region X?
+(1)	New cells are produced by mitotic cell division. 
+(2)	Cells differentiate into different shapes.
+(3)	More cellulose fibres are made and added to the cell walls.
+A	(1) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10265179]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a transverse section of a stem.
+	
+In which region can meristem be found?
+A	P				B	Q
+C	R				D	S
+D	
+---------------------------------------------------
+
+[10265193]
+// Basic concepts //
+(	Which of the following best describes growth?
+A	It is an irreversible increase in size and dry mass.
+B	It is an increase in food storage.
+C	It is an increase in height and width.
+D	It is an increase in cell size by water uptake.
+A	
+---------------------------------------------------
+
+[10265195]
+// Basic concepts //
+(	Which of the following is the best method for measuring the growth of a human?
+A	By measuring the increase in dry mass.
+B	By measuring the increase in height.
+C	By measuring the increase in length of the finger.
+D	By measuring the increase in size of the foot.
+B	
+---------------------------------------------------
+
+[10265208]
+// Basic concepts //
+(	Which of the following combinations of growth parameter and the pros and cons of using it to measure growth is correct?
+	Growth parameter	Pros and cons	
+A	dry mass		convenient but the specimen has to be killed	
+B	fresh mass	easy but time-consuming	
+C	length	specimen remains alive but may miss some changes	
+D	volume	easy but the specimen has to be killed	
+
+C	
+---------------------------------------------------
+
+[10265209]
+// Scientific investigation // Experiment // Schematic diagram //
+(*	The diagram below shows a set-up used to investigate the conditions for seed germination.
+
+	
+
+The condition being investigated is
+A	temperature.
+B	presence of light.
+C	number of seeds.
+D	presence of water.
+D	
+---------------------------------------------------
+
+[10265211]
+// Graph interpretation // Basic concepts //
+(	Which of the following is the growth curve of an annual plant?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10265219]
+// Basic concepts //
+(	Which of the following is not required for seed germination?
+A	water		B	fertilizer
+C	oxygen		D	warmth
+B	
+---------------------------------------------------
+
+[10265231]
+// Basic concepts //
+(	Root tips are commonly used in the study of mitosis because
+A	root tips contain meristems.
+B	cells in root tips are larger than other plant cells.
+C	cells in root tips have thicker chromosomes in their nuclei.
+D	cells in root tips can be stained easily.
+A	
+---------------------------------------------------
+
+[10265239]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the growth curve of an annual plant. 
+
+	
+
+Which of the following statements about the annual plant are correct?
+(1)	From weeks 1 to 2, the stored food is used for growth.
+(2)	From weeks 2 to 20, there is no consumption of food.
+(3)	From weeks 20 to 25, fruits and seeds are dispersed.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10265252]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows a section of a plant root.
+	
+In which region(s) can xylem vessels be found?
+A	W only
+B	W and X only
+C	X and Y only
+D	W, X and Y only
+A	
+---------------------------------------------------
+
+[10265254]
+// Schematic diagram // Applying concepts //
+(*	Which region has the greatest number of cells per unit area?
+A	W				B	X
+C	Y				D	Z
+C	
+---------------------------------------------------
+
+[10265273]
+// Basic concepts //
+(	Where does cell division take place in plants?
+A	xylem vessels
+B	root caps
+C	meristems
+D	leaves
+C	
+---------------------------------------------------
+
+[10265275]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a plant shoot tip.
+	
+P is
+A	the meristem.
+B	composed of elongated cells.
+C	composed of xylem cells.
+D	composed of phloem cells.
+A	
+---------------------------------------------------
+
+[10265326]
+// Basic concepts //
+(	Which of the following is the correct definition of growth?
+A	Growth is the irreversible increase in the size and dry mass of an organism.
+B	Growth is the irreversible increase in the size and height of an organism.
+C	Growth is the irreversible increase in the height and weight of an organism.
+D	Growth is the irreversible increase in the number of cells of an organism.
+A	
+---------------------------------------------------
+
+[10265347]
+// Basic concepts //
+(	Which of the following parameters do not allow continuous measurement of growth of an organism?
+A	fresh mass				B	dry mass
+C	height					D	volume
+B	
+---------------------------------------------------
+
+[10265380]
+// Schematic diagram // Applying concepts //
+(	Directions: The following two questions refer to the diagram below, which shows an animal used in an experiment about growth.
+	
+A student is going to measure the growth of the above animal over a month. Which of the following methods is not suitable?
+A	To measure its fresh mass.
+B	To measure its dry mass.
+C	To measure the circumference around its body.
+D	To measure the length from the tip of the front to the tip of the end.
+B	
+---------------------------------------------------
+
+[10265385]
+// Schematic diagram // Applying concepts //
+(	The above method is not suitable mainly because
+A	it is very time-consuming.
+B	it is not accurate enough.
+C	it will kill the animal.
+D	only growth in one dimension is measured.
+C	
+---------------------------------------------------
+
+[10265392]
+// Basic concepts //
+(*	Which of the following is/are necessary for seed germination?
+(1)	water
+(2)	sunlight
+(3)	warmth
+A	(1) only					B	(2) only
+C	(1) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10265396]
+// Basic concepts //
+(	The photograph below shows a plant part. 
+	
+Which of the following is the best method for measuring the growth of this plant part?
+A	To measure its length.
+B	To measure its width.
+C	To measure its volume.
+D	To measure its surface area.
+D	
+---------------------------------------------------
+
+[10265402]
+// Applying concepts //
+(*	An organism shows growth when
+(1)	its water content increases.
+(2)	the number and size of cells increase.
+(3)	the cells differentiate.
+A	(1) only				B	(2) only
+C	(2) and (3) only		D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10265404]
+// Comparison // Basic concepts //
+(	Which of the following comparisons of growth and development is correct?
+	Growth 	Development	
+A	irreversible	reversible	
+B	cells become larger in size	cells become smaller in size	
+C	number of cells increases	complexity of the body increases	
+D	must involve mitotic cell division	must involve meiotic cell division	
+
+C	
+---------------------------------------------------
+
+Short questions
+
+[10265512]
+// Cross-topic // Photomicrograph // Applying concepts //
+(* The photomicrograph below shows tissue X of a woody plant. 
+	
+
+a	i	Identify tissue X.									(1 mark)
+	ii	Name the type of meristem from which the cells in tissue X are developed.										(1 mark)
+b	Tissue X is mainly composed of vessels of different diameters. Compare and explain the difference in diameter between vessel P and vessel Q in the photomicrograph.										(3 marks)	
+
+-- answer --
+a	i	Wood / (secondary) xylem									1m
+	ii	Lateral meristem										1m
+b	The diameter of vessel P is smaller than that of vessel Q.				1m
+	Vessel P is formed in autumn and winter (when water becomes scarcer). The xylem cells produced during this period are smaller.					1m
+	Vessel Q is formed in spring and summer (when water is plentiful). The xylem cells produced during this period are larger.							1m	
+---------------------------------------------------
+
+[10265514]
+// Scientific investigation // Schematic diagram // Applying concepts //
+(*	The diagram below shows a set-up used by a student to investigate whether oxygen is necessary for seed germination. The two flasks were kept at 30 oC.
+	
+	After five days, most of the seeds in flask Y germinated while the seeds in flask X did not.
+a	What is the purpose of setting up flask Y?					(1 mark)
+b	Explain the results of flask X.								(2 marks)
+c	In flask Y, one of the seeds failed to germinate. Suggest a possible reason for this.												(1 mark)
+d	The student claims that the results would be the same if he replaced chemical P with soda lime. Do you agree with him? Explain your answer.														(3 marks)
+
+-- answer --
+a	As a control												1m
+b	The seeds in flask X did not germinate due to the absence of oxygen.		1m
+	Oxygen is needed for the seed to carry out respiration which provides energy for the growth of the embryo.										1m
+c	The seed was dead.											1m
+	(or other reasonable answers)
+d	No. Soda lime would absorb carbon dioxide from the air in flask X, instead of oxygen.													1m
+	As carbon dioxide is not necessary for germination,					1m
+	the seeds in flask X would germinate.								1m	
+---------------------------------------------------
+
+
+
+[10265526]
+// Graph interpretation // Applying concepts //
+(**The graph below shows the growth rate of a boy. The growth rate is defined as the yearly increase in height.
+	
+a	Explain the growth rate of the boy at age 14.					(2 marks)
+b	At which two ages was the growth rate of the boy equal to 4 cm per year?														(2 marks)
+c	The relative growth rate is defined as the yearly increase in height divided by the height at the start of the year. Why was the relative growth rate at the two ages answered in b not the same?						(1 mark)
+d	What is the advantage of using the relative growth rate instead of the growth rate to assess how fast a boy is growing?					(2 marks)
+
+-- answer --
+a	At puberty,												1m
+	the increased secretion of growth hormones caused a growth spurt.	1m
+b	Age 12 and age 16										1m x 2
+c	The height at the start of age 12 and age 16 was not the same.		1m
+d	The height at the start of the year is taken into account.			1m
+	Thus the relative growth rate is a truer representation of growth.		1m	
+---------------------------------------------------
+
+
+[10265530]
+// Data handling // STSE connections // Applying concepts //
+(**A number of seed banks have been set up to help conserve rare plants. Seeds chosen for storage are usually dried before they are stored under cold conditions. To study the effect of drying on the germination rate of seeds, seeds of a plant species were collected from six different sites in the wild. Half the number of the 100 seeds from each site was planted immediately after collection. The other half was subject to drying to remove most of the water before planting. The table below shows the results.
+Site of
+seed collection	Germination rate (%)	
+	Planted immediately	Planted after drying	
+(1)	80	55	
+(2)	83	72	
+(3)	79	68	
+(4)	52	40	
+(5)	81	69	
+(6)	77	52	
+
+a	According to the results, the seeds from which three sites should be chosen for storage in the seed bank? Explain your choices.			(2 marks)
+b	Suggest why it is important that the seeds of each species stored in the seed bank should have been collected from different sites in the wild.	(3 marks)
+c	Besides drying and storing under cold conditions, suggest how the seeds may also be treated to improve their survival in the seed banks.	(2 marks)
+-- answer --
+a	Sites (2), (3) and (5)										1m
+	The germination rate of the seeds from these sites was still high after drying was carried out.											1m
+b	This is to maintain genetic variations in the species.				1m
+	Genetic variations may help the species adapt to changes in the environment,														1m
+	reducing the chance of the death of the whole population if changes occur.
+														1m
+c	Sterilize the surface of the seeds. /
+	Store the seeds in a low-oxygen environment. /
+	Store the seeds in a dry environment.
+	(any two or other reasonable answers)						1m x 2	
+---------------------------------------------------
+
+[10265544]
+// Applying concepts //
+(	Daniel bought a packet of seeds. The seeds were sealed in a bag. The instructions on the packet read:
+
+Choose well-drained soil with a pH above 6.0. Sow seeds about 5 cm apart, 2.5 cm deep. The optimum soil temperature for germination is 21-32 °C. 70% of germination is guaranteed.
+	
+	
+a	Why were the seeds sealed in a bag?						(1 mark)
+b	Suggest two reasons why the seeds fail to germinate in waterlogged soil.														(2 marks)
+c	Why is a soil temperature below 21 °C not suitable for seed germination? 																(1 mark)
+d	Why do some of the seeds fail to germinate even the conditions are suitable for seed germination?									(1 mark)
+
+
+-- answer --
+	a	To prevent the seeds from germinating / rotting.						1m
+	b	Waterlogged soil lacks oxygen.									1m
+		The seeds may rot. (or other reasonable answers)					1m
+	c	Enzymes in the seeds cannot work efficiently.						1m
+	d	Some seeds are dead.										1m	
+---------------------------------------------------
+
+
+[10265545]
+// Photomicrograph // Data handling // Communication //
+(*	The photomicrograph below shows the longitudinal section of a root tip.
+	
+
+The mean cell length and mean cell width of 20 cells from each of the 3 areas X, Y and Z were measured. The results are listed in the table below.
+Area	Mean cell length ((m)	Mean cell width ((m)	
+X	178	99	
+Y	115	98	
+Z	88	89	
+
+a	Based on the results, describe the changes in the cell size as cells are moved from area Z to area X.									(3 marks)
+b	Describe how the changes in a are brought about.				(4 marks)
+
+-- answer --
+	a	The mean cell length increases as cells are moved from area Z to area X. 	1m
+		The mean cell width increases as cells are moved from area Z to area Y,	1m
+but the increase becomes much smaller / the mean cell width stays more or less the same as cells are moved from area Y to area X.					1m
+	b	As cells are moved from area Z to area X, the cells take in water by osmosis																	1m
+		to form many small vacuoles within the cytoplasm.					1m
+		The small vacuoles then fuse to form large vacuoles.					1m
+		The cells walls are stretched and the cells elongate.					1m	
+---------------------------------------------------
+
+[10265560]
+// Design experiment // Communication // Applying concepts //
+(*	Design an experiment to find out the effect of pH on seed germination.																	(5 marks)
+
+-- answer --
+	Soak cotton wool in solutions of different pH (e.g. a weak acid, distilled water and a weak alkali) and put the wet cotton wool into 3 Petri dishes.						1m
+	Put 10 of the same batch of seeds into each Petri dish.						1m
+	Leave the Petri dishes undisturbed for 7 days.							1m
+	Keep the temperature / availability of oxygen / amount of light constant during the experiment.													1m
+	At the end of the experiment, calculate and compare the percentage of germinated seeds in each Petri dish.												1m	
+---------------------------------------------------
+
+[10265593]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows a seed at an early stage of seed germination.
+
+	
+
+a	Name parts X, Y and Z of the seed.						(3 marks)
+b	State two functions of part Z in seed germination. 			(2 marks)
+
+
+
+-- answer --
+	a	X: hypocotyl												1m
+		Y: radicle													1m
+		Z: cotyledon												1m
+	b	It contains stored food for the growth of the plumule and the radicle during seed 			germination.												1m
+		It protects the delicate plumule tip on their way out during seed germination.																		1m	
+---------------------------------------------------
+
+[10265616]
+// Schematic diagram // Basic concepts //
+(*	The diagrams below show the structures of the root tip and shoot tip of a plant.
+	
+a	A student observed some cells of the root tip and shoot tip. He found that the cells have thin walls and there are no vacuoles. Using letters in the diagrams above, state the regions of the root tip and shoot tip in which the cells can be found.										(2 marks)
+b	Does primary growth or secondary growth take place in the root tips and shoot tips of the plant? Describe the effect of this kind of growth on the plant.												(2 marks)
+c	Name the tissue that produces new cells which differentiate into secondary xylem and phloem in the stems and roots. Describe the effect of the formation of secondary xylem and phloem on the plant.		(2 marks)
+
+-- answer --
+	a	Region R and												1m
+		region X													1m
+	b	Primary growth												1m
+		This leads to an increase in the length of the plant.					1m
+	c	Vascular cambium											1m
+		The formation of secondary xylem and phloem leads to an increase in the 				thickness of the stems and roots of the plant.						1m	
+---------------------------------------------------
+
+[10265626]
+// Graph interpretation // Basic concepts //
+(	The diagram below shows the growth curve of humans.
+
+	
+a	In which period (I, II, III, IV or V) is the growth rate the highest in humans?  															(1 mark)
+b	In period IV, the height remains steady but cell division still occurs. Why is cell division necessary in this period?						(2 marks)
+c	Explain why the following parameters are not suitable for measuring growth in humans.
+	i	Fresh mass										(1 mark)
+	ii	Dry mass											(1 mark)
+
+
+
+
+
+
+-- answer --
+	a	Period III													1m
+	b	To produce new cells 										1m
+		for replacing the worn-out cells.									1m
+	c	i	Fresh mass is easily affected by activities like feeding and excretion of an 				individual.												1m
+		ii	The individual has to be killed when measuring his/her dry mass.		1m	
+---------------------------------------------------
+
+[10265631]
+// Applying concepts //
+(	A student measures the growth of a potted plant by the change in its height.
+
+	
+
+
+10 months later
+		
+
+a	Explain why it may not be accurate to measure the growth of the plant by the change in height. 									(2 marks)
+	b	Suggest one suitable parameter for measuring the growth of the potted plant.															(1 mark)
+
+
+-- answer --
+	a	The plant grows laterally 										1m
+		with little increase in height.									1m
+	b	Width of the tree crown										1m	
+---------------------------------------------------
+
+[10265641]
+// Graph interpretation // Basic concepts //
+(	The graph below shows the growth curves of different body parts in a person.
+
+	
+a	Which curve (X, Y or Z) represents the growth curve of the reproductive organs?												(1 mark)
+	b	From a, deduce the age when the person enters puberty.		(1 mark)
+	c	State the significance of such pattern of growth of the reproductive organs.																(1 mark)
+
+-- answer --
+	a	Curve Z													1m
+	b	Age 12													1m
+	c	This allows time for a person to mature before giving birth to offspring.		1m	
+---------------------------------------------------
+
+[10265657]
+// Photomicrograph // Applying concepts //
+(*	The photomicrograph below shows the transverse section of a tree stem.
+
+	
+
+a	Name tissues P and Q.									(2 marks)
+b	What is a meristem?									(2 marks)
+c	Meristems can also be found in root tips and shoot tips. State one difference in the growth caused by the meristem shown in the diagram and that caused by meristems in root tips and shoot tips.						(2 marks)
+
+-- answer --
+a	P: phloem													1m
+Q: xylem													1m
+b	A meristem is a group of undifferentiated cells 						1m
+which are able to divide by mitotic cell division throughout the plant's life.	1m
+c	The growth caused by the apical meristem in root tips and shoot tips increases the length of the plant while the growth caused by the lateral meristem shown in the diagram increases the thickness of the plant. / 
+The growth caused by the apical meristem is primary growth while the growth caused by the lateral meristem is secondary growth.					2m	
+---------------------------------------------------
+
+[10265672]
+// Graph interpretation // High order thinking //
+(**The graph below shows how the dry mass to volume ratios of the cells in a plant root changes as the distance from the tip of the root increases. 
+
+	
+
+a	Explain the change in the dry mass to volume ratio of the cells in
+i	region Y.											(2 marks)
+ii	region Z.											(2 marks)
+b	Estimate the minimum distance from the tip of the root where xylem vessels can be found.											(1 mark)
+
+-- answer --
+a	i	The dry mass to volume ratio of the cells decreases as the distance from the tip increases because the cells in this region take in water and elongate. 														1m
+This increases the volume of the cells without increasing the dry mass.														1m
+ii	The dry mass to volume ratio of the cells remains unchanged as the distance from the tip increases. The cells in this region are differentiating. 	1m
+Both the dry mass and the volume of the cells do not change. / The dry mass and the volume change proportionately.						1m
+b	5 mm													1m	
+---------------------------------------------------
+
+[10265673]
+// Basic concepts //
+(	Peter put five mung beans in soil and watered them every day. After a few days, all mung beans germinated and became seedlings.
+a	State two functions of water during seed germination.			(2 marks)
+b	Peter wanted to record the growth rate of the seedlings in two weeks. Suggest one growth parameter he should measure.			(1 mark)
+
+-- answer --
+a	Water softens the seed coat and makes the cotyledons swell. This breaks the seed coat so that the radicle can emerge. /
+Water activates the enzymes in the seed. The enzymes catalyse the hydrolysis of insoluble stored food into simpler and soluble form. This provides nutrients for the growth of the embryo. /
+Water acts as a reactant in the hydrolysis of insoluble food. /
+Water acts as a medium for transporting the soluble food to the growing regions of the embryo. (any 2)		 								1m x 2
+b	The length of the plumule / radicle							1m	
+--------------------------------------------------- 
+
+[10265677]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(5 marks)
+In plants, growth occurs in tissues called meristems in which 
+a                      cell division takes place throughout the plant's life. Apical meristems can be found at the tips of the b                      and c                      in seedlings. Activity of apical meristems results in an increase in length of the seedlings. Similar tissues called 
+d                      at the periphery of the stems and roots of plants produce new cells which will then differentiate into secondary xylem and phloem, resulting in an increase in e                      of the plants.
+-- answer --
+a	mitotic 													1m
+b	plumule / radicle											1m
+c	radicle / plumule											1m
+d	lateral meristems											1m
+e	thickness													1m	
+---------------------------------------------------
+
+[10265681]
+// Schematic diagram // Applying concepts //
+(**Annual rings in tree trunks are formed by secondary xylem. The xylem cells produced in spring and summer have thinner cell walls. They form regions with lighter colour. The xylem cells produced in autumn and winter have thicker cell walls. They form regions with darker colour. 
+The diagram below shows some annual rings in a tree trunk. The tree was cut down in December 2015.
+	
+a	Mark an 'X' on the annual ring that was formed in 2012.		(1 mark)
+b	One of the annual rings is much wider than the others.
+Explain how the high rainfall of that year caused the formation of a wider annual ring.											(2 marks)
+c	Name the meristem that is responsible for the formation of annual rings. 														(1 mark)
+-- answer --
+a	
+														1m 
+b	High rainfall provided the tree with more water. Water is a raw material for photosynthesis. 											1m
+The tree grew faster as a result. More secondary xylem cells were formed in that year.														1m
+c	Lateral meristem											1m	
+--------------------------------------------------- 
+
+[10265685]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	The diagram below shows a section of a seed.
+
+	
+
+a	Name the parts labelled P, Q and R.						(3 marks)
+b	What is the function of S?								(1 mark)
+c	The above seed is found in a fleshy fruit with a bright red colour. Suggest how this kind of seeds is dispersed. Explain your answer.		(3 marks)
+
+-- answer --
+a	P: plumule													1m
+Q: radicle													1m
+R: seed coat												1m
+b	It stores food for the growth of the plumule and the radicle during seed germination.												1m
+c	By animals. 												1m
+The brightly coloured and fleshy fruits attract animals to eat them. 		1m
+The seeds are dispersed when they pass out in the faeces of the animals. 	1m	
+--------------------------------------------------- 
+
+[10265696]
+// Graph interpretation // Experiment // Applying concepts //
+(*	The graph below shows the results of an experiment carried out to investigate the growth of plants under light. Seed germination began on day 0.
+	
+a	During which of the 5-day periods (days 5-10, 10-15, 15-20 or 20-25) the plants showed the greatest increase in average shoot length?	(1 mark)
+b	Explain why the measurement of shoot length alone may not be reliable in determining the plant growth.								(1 mark)
+c	The experiment was repeated with the plants kept in darkness.
+Describe how the average dry mass on day 15 would be different compared with the results shown above. 							(1 mark)
+
+-- answer --
+a	Days 10-15 												1m
+b	Different parts of a plant may grow at different rates. / 
+The measurement in shoot length cannot reflect the growth of the roots / leaves / fruits / lateral growth.											1m
+c	The average dry mass would be smaller.							1m	
+---------------------------------------------------
+[10265708]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the growth curves of different parts of the human body and the whole body.
+
+	
+
+a	Which curve represents the growth of 
+i	the brain and the head?								(1 mark)
+ii	reproductive organs?								(1 mark)
+b	With reference to the graph, state when puberty starts in humans. Explain your answer.											(2 marks)
+c	State one evidence from the graph which shows that curve P does not represent the growth of the whole body.						(2 marks)
+
+-- answer --
+a	i	Q													1m
+ii	S													1m
+b	14 years old												1m
+The reproductive organs start to grow rapidly at this age.				1m
+c	Curve P shows a growth to about 200% of the final size around the age of 11 and then a rapid decrease. 										1m
+This growth pattern does not match that of the whole body in humans. 	1m	
+---------------------------------------------------
+
+
+[10265714]
+// Scientific investigation // Schematic diagram // Applying concepts //
+(**A student carried out an experiment to investigate the growth of a broad bean seedling. Ink markings of equal distance from each other were made on the root as shown below.
+
+	
+
+The student found that the lengths of regions 1 to 6 increased after 3 days. 
+a	What conclusion could the student make from the results?		(2 marks)
+b	The student thought that the growth was due to the tip of the root. Briefly describe how he can show this.							(2 marks)
+c	If there is no increase in length in a region, does it mean there is no growth? Explain your answer.									(2 marks)
+
+-- answer --
+a	When a seedling grows, its root becomes longer. 					1m
+However, such an increase in length only occurs in the some regions of the root.															1m
+b	Take another broad bean seedling and cut off its tip.					1m
+The growth is due to the tip if no growth occurs after cutting off the tip.		1m
+c	No														1m
+There may be an increase in thickness instead of an increase in length.	1m	
+--------------------------------------------------- 
+
+
+[10265720]
+// Graph interpretation // Applying concepts //
+(	The graph below shows the growth curve of an annual flowering plant.
+
+	
+
+a	i	What is the advantage of using dry mass as a parameter for measuring  growth of organisms?								(1 mark)
+ii	State two disadvantages of using dry mass as a parameter for measuring growth of organisms.						(2 marks)
+b	Why does the dry mass of the plant decrease at stage I?		(2 marks)
+c	Account for the increase in dry mass of the plant at stage II.		(2 marks)
+
+-- answer --
+a	i	Measuring dry mass is an accurate method.				1m
+ii	Since the organism is killed in each measurement, continuous measurement of the growth of the same individual is impossible. /
+A large number of specimens are needed. / 
+This method is time-consuming. /
+This method is not suitable for large organisms. (any 2)		1m x 2
+b	Stored food in the seed is broken down						1m
+to provide energy for growth. 								1m
+c	Green leaves have developed in the plant in stage II. Plants make food by photosynthesis. 										1m
+The rate of photosynthesis is higher than the rate of respiration, thus there is a net gain in the amount of organic matter in the plant. 				1m	
+--------------------------------------------------- 
+
+
+[10265722]
+// Applying concepts //
+(*	A student wants to measure the growth of the following organisms. 
+			
+X	Y	Z	
+
+a	State one parameter that is suitable for measuring the growth of X and Y respectively. 											(2 marks)
+b	Explain why measuring dry mass is only suitable for Z, but not for X and Y. 													(2 marks)
+c	Briefly describe how Y increases its height.					(3 marks)
+
+-- answer --
+a	X: weight / fresh mass										1m
+Y: height													1m
+b	All water in an organism has to be removed before its dry mass can be measured.														1m
+It is very time-consuming to remove all the water in large organisms like X and Y. 														1m
+c	The cells in apical meristem at the tip of the stem 					1m
+divide by mitotic cell division to produce new cells.					1m
+The new cells then take in water to elongate in the region of elongation. This increases the length of the tree trunk. 							1m	
+---------------------------------------------------
+
+[10265723]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the growth curves of human males and females.
+	
+
+a	Which curve describes the growth of males and females respectively?															(2 marks)
+b	Explain why curve X is above curve Y between the ages of 11 and 13.														(2 marks)
+c	Briefly describe the growth of humans in adolescence, adulthood and old stage.												(3 marks)
+
+-- answer --
+a	Males: Y													1m
+Females: X												1m
+b	Females enter puberty earlier than males. 							1m
+Thus, the growth rate of females is higher than that of males between the ages of 11 and 13.													1m
+c	The growth is rapid in adolescence.								1m
+The growth then nearly stops during adulthood.						1m
+During the old stage, the growth becomes negative.					1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10265812]
+// Cross-topic // Drawing // Graph interpretation // High order thinking //
+*	The growth at infancy is closely monitored to ensure that babies are growing at normal rates. One of the commonly measured parameters is head circumference.
+a	The graph below shows the growth rate of the head from birth to age 20.
+	
+
+i	State the age at which the head reaches its full size.		(1 mark)
+ii	With reference to the graph, explain why head circumference is commonly used to measure growth at infancy, but not in later stages of growth.											(3 marks)
+b	The growth in childhood and adolescence is commonly measured by height. The graph below shows the height gain per year in boys from birth to age 20.
+	
+
+i	Sketch the curve for girls on the graph above.			(2 marks)
+ii	Give two physical changes that occur in boys between the ages of 12 and 16. Briefly explain how these changes are initiated.	(3 marks)
+iii	State one disadvantage of measuring growth in humans by height.													(1 mark)
+
+
+-- answer --
+a	i	10												1m
+	ii	The head grows rapidly at infancy.						1m
+		A significant change in head circumference can be measured.	1m
+		However, the growth of the head slows down at later stages, and no significant change can be measured during childhood and adolescence.													1m
+
+
+
+
+
+
+
+
+b	i
+
+		Correct shape of curve								1m
+		Correct label										1m
+	ii	Hair grows in armpits and pubic area. /
+		Larynx enlarges and voice deepens. /
+		Shoulders broaden. /
+The body becomes more muscular. /
+		Beard grows. (any 2)									1m x 2
+		The increased production of male sex hormones stimulates the development of these physical changes.								1m
+	iii	Growth in all dimensions may not be taken into account.		1m	
+---------------------------------------------------
+
+
+
+[10265813]
+// Cross-topic // Graph interpretation // Applying concepts //
+(*	The graph below shows the effect of water temperature on the growth of roots in a water plant species.
+	
+a	Describe the roles of enzymes in the growth of roots.			(3 marks)
+b	Based on your knowledge of enzyme activity, describe and explain the effect of water temperature on the growth of roots.			(4 marks)
+c	Besides measuring the length, suggest another parameter which can be used to measure the growth of roots. What is the advantage of using this parameter to measure the growth of roots?					(2 marks)
+-- answer --
+a	Enzymes are involved in mobilizing food reserves for growth.			1m
+	Enzymes are involved in respiration to generate energy for growth.		1m
+	Enzymes are involved in the synthesis of new materials (e.g. cellulose, DNA) for producing new cells in growth.									1m
+	(or other correct answers)
+b	At 10 °C or below, the enzymes were inactive. Thus the roots did not grow.	1m
+	As temperature increased from 10 to 36 °C, both the enzyme and substrate molecules had more kinetic energy. The enzyme activity increased and thus the growth of roots increased.										1m
+	As temperature increased from 36 to 47 °C, the enzymes became denatured. The enzyme activity decreased and thus the growth of roots decreased.		1m
+	At 47 °C or above, all the enzymes were denatured and could not function. Thus the roots did not grow.										1m
+c	Dry mass													1m
+	It is more accurate as it measures the amount of organic matter in the roots.	1m	
+---------------------------------------------------
+[10265819]
+// Graph interpretation // Calculation // Applying concepts //
+(*	The graph below shows the yearly growth in height of a boy.
+	
+a	Based on the graph, describe the changes in the yearly growth in height of the boy from age 1-20.									(5 marks)
+b	At the end of age 14, the height of the boy was 152 cm. How tall is the boy when he is at the end of age 20? Show your working.			(2 marks)
+c	Explain why the graph does not give an accurate indication of the true rate of growth of the boy.									(1 mark)
+
+-- answer --
+	a	The maximum yearly growth in height occurs at age 1.				1m
+		The yearly growth then decreases from age 1 to 12.					1m
+		A growth spurt occurs from age 12 to 14.							1m
+		Then the yearly growth decreases again from age 14					1m
+		and stops at age 19.											1m
+	b	(152 + 7.5 + 5 + 2.5 + 1) cm									1m
+		= 168 cm													1m
+	c	The percentage of the original height is not considered. /
+		Growth in other dimensions is not considered. 
+		(or other reasonable answers)									1m	
+---------------------------------------------------
+
+[10265835]
+// Graph interpretation // Applying concepts //
+(*	In an investigation of the growth of potato plants, some potatoes of similar mass were buried in soil. Two potatoes were dug out every 10 days and the mean dry mass of the potatoes and the shoots was determined. The graph below shows the results.
+	
+a	Describe how the dry mass of a potato can be determined.		(3 marks)
+b	Explain why the dry mass of the potatoes decreased during the 
+investigation.											(2 marks)
+c	With reference to the change in structure during the growth of the plants, explain why the dry mass of shoot increased rapidly after day 28.															(4 marks)
+d	Suggest a reason why measuring dry mass is a more accurate method than measuring fresh mass in monitoring the growth of plants.		(1 mark)
+-- answer --
+a	Heat the potato in an oven at slightly above 100 °C 					1m
+until a constant mass is obtained.								1m
+This constant mass is the dry mass of the potato.					1m
+b	The insoluble stored food in the potatoes was broken down 			1m
+for the growth of the shoots.									1m
+c	Before day 28, the plants depended on the potatoes for food.			1m
+The stored food was in relatively small amount and thus the growth of the shoots was slow.													1m
+On day 28, the first leaves of the plants developed.					1m
+The leaves carried out photosynthesis to make food. Thus, the shoots grew rapidly.													1m
+d	Fresh mass is easily affected by the water content of the plants.			1m	
+---------------------------------------------------
+
+[10265838]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a longitudinal section of a plant root.
+	
+
+a	Identify regions P, Q and R.								(3 marks)
+b	In which of the three regions does growth occur? Describe how growth occurs in each region. 									(4 marks)
+c	State one structural difference between the cells in Q and R.	(2 marks)
+d	The growth of a plant can be measured by the change in length of the root. State one advantage of this method.						(1 mark)
+
+-- answer --
+a	P: region of differentiation										1m
+Q: region of elongation										1m
+R: region of cell division										1m
+b	Growth occurs in Q and R.										2m
+In Q, growth occurs by elongation of cells. The cells take in water by osmosis to form small vacuoles and the cells elongate. 						1m
+In R, growth occurs by cell division. New cells are produced through mitotic cell division.													1m
+c	The cells in Q have many small vacuoles 							1m
+while the cells in R do not have vacuoles. 							1m
+(or other correct answers)
+d	This method is easy and convenient. / 
+Continuous measurement of the same plant is possible. 				1m	
+---------------------------------------------------
+
+[10265844]
+// Photomicrograph // Comparison // Basic concepts //
+(*	The photomicrograph below shows a longitudinal section of an onion root tip.
+
+	
+
+a	Name regions P and Q.									(2 marks)
+b	i	State one structural difference between the cells in P and Q.	(2 marks)
+ii	Explain the differences in b i.							(2 marks)
+c	Name structure R and state its function.						(2 marks)
+
+-- answer --
+a	P: region of elongation										1m
+Q: region of cell division										1m
+b	i	The cytoplasm of the cells in Q is denser than that of the cells in P. / 
+The cells in P have vacuoles while the cells in Q do not. 			2m
+ii	In P, the cells take in water and form vacuoles. 					1m
+The volume of the cells increases.							1m
+c	Root cap													1m
+It protects the tip of the root.									1m	
+---------------------------------------------------
+
+[10265848]
+// Photomicrograph // Basic concepts //
+(	The photomicrograph below shows a longitudinal section of a Coleus shoot tip.
+
+	
+
+a	Name region P, region Q and structure R.					(3 marks)
+b	i	Name the group of cells that produces new cells in P.		(1 mark)
+ii	Apart from shoot tips, where can this group of cells be found in 
+plants?											(1 mark)
+c	Name three types of cells that may appear in the region below Q.															(3 marks)
+
+-- answer --
+a	P: region of cell division									1m
+Q: region of elongation									1m
+R: leaf												1m
+b	i	Meristem											1m
+ii	Root tips / between the xylem and phloem in stems and roots	1m
+c	Xylem vessels, sieve tubes, companion cells					1m x 3
+(or other correct answers)	
+---------------------------------------------------
+
+
+[10265885]
+// Cross-topic // Graph interpretation // High order thinking // Experiment //
+(**The graph below shows the mean cell volume, mean dry mass and proportion of dividing cells of pieces of tissue taken from locations at different distances from the tip of a plant root. The diagrams under the graph show the appearance of some cells of the root tip observed under the light microscope.
+	
+
+a	Suggest how you can determine the dry mass of a piece of tissue.															(3 marks)
+b	Suggest how you can determine the proportion of dividing cells in a piece of tissue.												(4 marks)
+c	Explain the change in the proportion of dividing cells with the distance from the tip of the root.										(2 marks)
+d	According to the graph and diagrams, suggest how a root grows longer.														(3 marks)
+
+-- answer --
+a	Heat the piece of tissue in an oven at slightly above 100 °C				1m
+until a constant mass is obtained.								1m
+This constant mass is the dry mass of the piece of tissue.				1m
+b	Count the total number of cells in a field of view under a light microscope.	1m
+Count the number of cells in which the chromosomes are visible in the same field of view. These cells are dividing cells. 							1m
+Calculate the proportion of dividing cells by: 		1m
+Repeat the counting in several fields of view. Average the results.		1m
+c	Only cells in the region of cell division, which is located near the tip of the root, have the ability to divide.										1m
+Cells in the regions of elongation and the region of differentiation, which are further away from the tip, cannot divide. 								1m
+d	As the distance from the tip increases, the mean cell volume increases. But the mean dry mass does not increase much. 							1m
+The cells take in water to form vacuoles.							1m
+This increases their volume without increasing their dry mass. 			1m	
+---------------------------------------------------
+
+[10265898]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows a longitudinal section of a root tip. 
+	
+
+
+a	The diagrams below show three cells taken from the above root tip.
+	
+Using the letters in the diagram, state from which regions of the root tip are cells P, Q and R taken.									(3 marks)
+b	Name regions X, Y and Z.								(3 marks)
+c	What functions do regions X and Y serve in the growth and development of the root? 											(2 marks)
+d	If the part below the dotted line is cut off, what will happen to the growth of the root? Explain your answer.							(2 marks)
+-- answer --
+a	Cell P is taken from region Y.									1m
+Cell Q is taken from region X.									1m
+Cell R is taken from region Z.									1m
+b	Region X is the region of differentiation.							1m
+Region Y is the region of elongation.								1m
+Region Z is the region of cell division.								1m
+c	Cells in region X differentiate to perform specific functions.				1m
+Cells in region Y enlarge by taking in water by osmosis.				1m
+d	The root will stop growing.										1m
+No new cells will be produced after the region of cell division is cut off. 	1m	
+---------------------------------------------------
+
+[10265917]
+// Drawing // Experiment // Applying concepts //
+(*	Some seedlings were used to study the growth of roots. The root of each seedling was marked with lines at 1 mm intervals. The seedlings were then allowed to grow for two days.
+a	Draw a diagram to show the appearance of the root of a seedling after two days. Explain the result.									(6 marks)
+b	What is the disadvantage of measuring growth of a plant by the change in length of root? State one other method of measuring growth of a plant.														(2 marks)
+-- answer --
+a	Correct diagram												3m
+There is a slight increase in length at the region of cell division which is just behind the tip.													1m
+The region showing the maximum growth in length is the region of elongation which is just behind the region of cell division.						1m
+There is no increase in length in the region of differentiation which is just behind region of elongation. The cells in this region differentiate into different cell types.															1m
+b	This method measures growth in one dimension only. Growth in all dimensions may not be taken into account. 									1m
+Fresh mass / dry mass										1m	
+---------------------------------------------------
+
+[10265967]
+// Graph plotting // Experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows a set-up used to investigate the effect of water on seed germination. Seeds were put evenly on the surface of the soil.
+	
+After 3 days, all seeds were taken out and the percentage of seeds germinating in each region was calculated. The amount of water in the soil of each region was also measured. The table below shows the results.
+	Region I	Region II	Region III	Region IV	
+Amount of water 
+(cm3 per 100 g of soil)	100	80	60	40	
+Germinating seeds (%)	85	100	78	36	
+
+
+
+a	Draw a bar chart to show the percentage of seeds germinating in different regions.												(3 marks)
+	
+b	i	Explain why a porous tube was used in this investigation.	(1 mark)
+ii	Suggest how we can determine whether a seed was germinating.														(1 mark)
+c	Describe the relationship between the amount of water in the soil and the percentage of seeds germinating.							(2 marks)
+d	Apart from water, name two other factors that are necessary for seed germination.											(2 marks)
+
+
+-- answer --
+a	
+
+Correct title 												1m
+Choice of axes												1m
+Correct bars												1m
+b	i	To ensure water diffuses into the soil evenly.					1m
+ii	To check if the radicle or plumule has emerged from the seed.		1m
+c	As the amount of water in the soil increases up to 80 cm3 per 100 g of soil, the percentage of seeds germinating increases.						1m
+The percentage decreases when the amount of water is above this value.	1m
+d	Warmth													1m
+Oxygen													1m	
+---------------------------------------------------
+
+[10265988]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows some growth curves.
+	
+
+a	Which curve best represents the growth of an annual plant? Explain.															(4 marks)
+b	Describe how we can monitor the change in dry mass of a plant over a period of time.											(3 marks)
+c	Why is dry mass a better measurement for plant growth than fresh mass or the length of stem?										(2 marks)
+
+-- answer --
+a	Curve Y													1m
+The dry mass of the plant decreases during the early stage of seed germination because food stored in the seed is broken down to provide energy for growth.															1m
+The dry mass then increases when green leaves have developed to make food by photosynthesis. Since the rate of photosynthesis is higher than the rate of respiration, there is a net gain in the amount of organic matter. 			1m
+The dry mass then decreases due to the dispersal of fruits and seeds.		1m
+b	A large number of the same type of plants are grown at the same time.		1m
+At fixed time intervals, several plants are heated in an oven at slightly above 
+100 °C until a constant mass is obtained. 							1m
+The constant mass is the dry mass of the plants. Calculate the average value. 															1m
+c	Water content of plants varies with environmental conditions. Actual growth of the plants may be masked by variations in water content if fresh mass is measured.															1m
+Growth of plants may involve branching and leaf formation. Growth in all dimensions may not be taken into account if the length of stem is measured.1m	
+---------------------------------------------------
+
+[10265995]
+// Design experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows a longitudinal section of a root tip.
+	
+a	Using the letters in the diagram, identify the region of cell division, the region of elongation and the region of differentiation in the root tip.															(3 marks)
+b	What is Z? State its function.								(2 marks)
+c	What is the function of the protruding structures found in W of the root?														(1 mark)
+d	Design an experiment to find out which part of the root of a seedling grows at a highest rate.										(3 marks)
+-- answer --
+a	Region of cell division: Y										1m
+Region of elongation: X										1m
+Region of differentiation: W									1m
+b	Root cap													1m
+It protects the tip of the root.									1m
+c	They increase the surface area for water absorption.					1m
+d	Starting from the tip, mark some lines across the root at 1 mm intervals.	1m
+Let the seedling grow for 1 to 2 days.								1m
+Measure and record the length between adjacent lines.				1m	
+---------------------------------------------------
+
+[10265997]
+// Cross-topic // Schematic diagram // Basic concepts //
+(	The diagram below shows the growth and development in humans.
+
+	
+
+a	Which type of cell division occurs in the processes shown in the diagram?														(1 mark)
+b	If there are N chromosomes in the zygote, how many chromosomes are present in each cell formed after cell division?				(1 mark)
+c	What is process X?										(1 mark)
+d	Identify cells Y and Z. State one function of each of them.		(2 marks)
+e	What is growth?										(2 marks)
+
+-- answer --
+a	Mitotic cell division											1m
+b	N														1m
+c	Differentiation												1m
+d	Y: neurone
+Neurones transmit nerve impulses to different parts of the body. 			1m
+Z: red blood cell	
+Red blood cells carry oxygen from the lungs to all parts of the body.		1m
+e	Growth is an irreversible increase								1m
+in size and dry mass of an organism.								1m	
+--------------------------------------------------- 
+
+[10266010]
+// Drawing // Applying concepts //
+(*	The diagram below shows the life cycle of an annual plant.
+	
+
+a	Suggest two methods for measuring the growth of the seedling. State one advantage and one disadvantage of each of the methods.		(6 marks)
+b	In summer, the plant grows rapidly. Suggest one method for measuring the growth of its stem.										(1 mark)
+c	Suggest one method for measuring the growth of a leaf.		(1 mark)
+d	Sketch a curve to show the pattern of growth of an annual plant.																(2 marks)
+
+-- answer --
+a	By measuring the height.										1m
+Advantage:
+The seedling remains alive, so its growth can be measured continuously. /
+It is easy and convenient.										1m
+Disadvantage:
+Growth in all dimensions may not be taken into account.				1m
+
+By measuring the fresh mass.									1m
+Advantage:
+The seedling remains alive, so its growth can be measured continuously. /
+It is easy and convenient.										1m
+Disadvantage:
+It is easily affected by the water content of the seedling. 				1m
+b	By measuring its length.										1m
+c	By measuring its surface area.									1m
+d	
+
+Correct axes												1m
+Correct curve												1m	
+---------------------------------------------------
+
+
+Essay
+
+[10266145]
+// Communication // Applying concepts //
+(*	Explain how a cell in the meristem develops into a mesophyll cell of a leaf.															(10 marks)
+
+-- answer --
+The cell stops dividing and elongate.									1m
+It takes in water by osmosis to form many small vacuoles.					1m
+The cell wall is stretched when the vacuoles are formed.					1m
+Small vacuoles later fuse to form a large vacuole.						1m
+The cell differentiates. 											1m
+More cellulose fibres are added to cell walls and the cell walls become thicker and more rigid.															1m
+The cell synthesizes new materials to form chloroplasts.					1m
+Communication													3m	
+---------------------------------------------------
+

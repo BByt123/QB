@@ -16,6 +16,21 @@ function trimCache() {
   if(!entry.users){cache.delete(id);entry.promise.then(doc=>doc.destroy()).catch(()=>{});}
  }
 }
+export async function sourcePageCount(source){
+ const entry=acquireSource(source);
+ try{return (await entry.promise).numPages;}finally{entry.users--;trimCache();}
+}
+export async function sourcePage(source,number,scale=1.3){
+ const entry=acquireSource(source);
+ try{
+  const doc=await entry.promise;
+  const page=await doc.getPage(Math.max(1,Math.min(doc.numPages,number)));
+  const viewport=page.getViewport({scale}),canvas=document.createElement('canvas');
+  canvas.width=Math.ceil(viewport.width);canvas.height=Math.ceil(viewport.height);
+  await page.render({canvasContext:canvas.getContext('2d'),viewport,background:'white'}).promise;
+  return canvas;
+ }finally{entry.users--;trimCache();}
+}
 export async function renderSegment(source,segment,scale=1.6) {
  const entry=acquireSource(source);
  try {

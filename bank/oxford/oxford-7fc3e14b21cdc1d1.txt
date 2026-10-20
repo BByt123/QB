@@ -1,0 +1,1141 @@
+	
+Chapter 19		Ecosystems
+
+Multiple-choice questions
+
+[10290081]
+// Scientific investigation // Data handling // High order thinking //
+*	Directions: The following two questions refer to the ecological study below, which is carried out by a group of students to investigate the relationships between biodiversity and abiotic factors in woodlands.	The students first selected three locations in each of the two woodlands, P and Q. They took measurements of various abiotic factors and counted the number of plant species found in each of the locations. The table below shows the results.
+
+Woodland P
+Woodland Q
+
+Air temperature 0.25 m above soil level (oC)
+21.1
+20.9
+
+Light intensity 0.25 m above soil level (lux)
+1067
+2352
+
+Soil moisture (%)
+44.8
+46.2
+
+Soil pH
+5.3
+6.8
+
+Number of plant species
+5
+12
+
+	Based on the above results, which of the following abiotic factors most likely affect(s) the number of plant species between woodland P and Q?
+	(1)	air temperature
+	(2)	light intensity
+	(3)	soil moisture
+	(4)	soil pH
+A	(1) and (2) only		B	(2) and (4) only
+C	(1), (2) and (4) only		D	(2), (3) and (4) only
+B
+
+---------------------------------------------------
+
+
+
+[10290082]
+// Scientific investigation // Data handling // High order thinking //
+**	Which of the following measures could be taken during the ecological study to increase the reliability of the results?
+	(1)	Use more precise equipment to measure different abiotic factors.
+	(2)	Increase the number of sampling sites in each of the two woodlands.
+	(3)	Repeat measurements at different times of the day and calculate averages.
+	A	(1) only				B	(1) and (2) only
+	C	(1) and (3) only		D	(2) and (3) only
+D
+
+
+---------------------------------------------------
+Note:
+Reliability is a concept commonly used to evaluate the quality ofscientific investigations. It concerns about the consistency of the results, i.e. whether the results can be reproduced under the same conditions and over time. The method suggested in option (1) could improve accuracy of the results but not the reliability.
+
+
+[10290093]
+// Data handling // High order thinking // Schematic diagram //
+**	The schematic diagram below shows the energy transfer through a terrestrial ecosystem.
+respiration
+decomposition
+producer (p)
+herbivore (h)
+carnivore (c)
+Rp
+Rh
+Rc
+Ep
+Eh
+Ec
+Ch
+Cc
+Key: C = consumption, E = excretory wastes and dead bodies, R = respiration
+respiration
+decomposition
+producer (p)
+herbivore (h)
+carnivore (c)
+Rp
+Rh
+Rc
+Ep
+Eh
+Ec
+Ch
+Cc
+Key: C = consumption, E = excretory wastes and dead bodies, R = respiration
+
+	Which of the following formulae can be used to calculate the value of Rh?
+A	Ch + Eh
+B	Ch + Cc – Eh
+C	Ch – Cc + Eh
+D	Ch – Rc– Ec – Eh
+D
+
+---------------------------------------------------
+
+Short question
+
+[10290096]
+// Data handling // High order thinking // Calculation //
+*	Net primary productivity (NPP) is the difference between the energy fixed in the form of organic compounds by autotrophs and their loss of energy.It is often expressed as an increase in biomass or energy per unit of land surface and time. The bar chart below shows the NPP of some major types of terrestrial ecosystems.
+
+desert scrub
+tropical 
+rainforest
+temperate
+forest
+savanna
+agricultural
+land
+woodland
+temperate
+grassland
+tundra
+average NPP (kcal / m2 / year)
+desert scrub
+tropical 
+rainforest
+temperate
+forest
+savanna
+agricultural
+land
+woodland
+temperate
+grassland
+tundra
+average NPP (kcal / m2 / year)
+
+
+a	What activities do autotrophs carry out that could lead to energy loss in the ecosystems? Suggest oneof theseactivities.					(1 mark)
+b	Calculate the loss in net productivity (unit: kcal) for one year if 
+37 billion m2 of tropical rainforest in the world is cut down and used to grow crops. Show your working.							(2 marks)
+c	Why do tropical rainforests have a higher NPP than temperate forests?														(3 marks)
+d	Explainthe significance of NPP to the primary consumers.		(1 mark)
+
+
+
+
+-- answer --
+a	Respiration												1m
+b	(9000–2750)× 37000000000								1m
+	= 231.3 × 1012 kcal											1m
+c	Compared with temperate forests, tropical rainforests are closer to the equator where there is longer daytime / stronger sunlight / higher temperatures.	1m
+	Hence, the plants in tropical rainforests carry out photosynthesis at a higher rate															1m
+	and a larger amount of biomass is generated, resulting in a higher NPP.	1m
+d	NPP affects the amount of energy available to the primary consumers.		1m
+
+---------------------------------------------------
+
+
+Structured questions
+
+[10290103]
+// Overseas exam question // Graph interpretation // Communication //
+*	The graph below shows how the cover of bare soil and some types of plants changed in a field that was ploughed then abandoned over a 50-year period. Annuals are plants that live for only one year. Soil nitrate is also shown.
+
+time (years)
+bare soil
+annuals
+soil nitrate
+shrubs and trees
+soil nitrate
+cover
+time (years)
+bare soil
+annuals
+soil nitrate
+shrubs and trees
+soil nitrate
+cover
+
+
+	a	i	State the type of succession that would occur in an abandoned crop field.											(1 mark)
+ii	Many of the annual plants have root nodules containing nitrogen-fixing bacteria. Describe and explain the advantage of this adaptation in the early years of this succession.							(2 marks)
+iii	Using your knowledge of the nitrogen cycle, explain the increase in soil nitrate concentration during the 50-year period.		(2 marks)
+b	Describe and explain the changes in plant cover over the 50-year period.														(4 marks)
+CCEA GCE (A) Biology Module 1 May 2019 Q4
+
+
+
+-- answer --
+	a	i	Secondary succession									1m
+ii	The nitrogen-fixing bacteria can convert nitrogen in air into ammonia, providing an additional source of nitrogen to the annual plants.		1m
+	Therefore, they grow better than other types of plants in early years of succession when there are relatively low concentrations of nitrates in soil.														1m
+iii	The decomposition of dead plants / dead animal bodies / nitrogenous waste releases ammonium compounds into the soil.					1m
+	The ammonium compounds are turned into nitrites and then nitrates by nitrifying bacteria.										1m
+b	In the early stages of succession there is little plant cover. But the plant cover increases over time / the amount of bare soil decreases as vegetation increases.															1m
+	The cover of annual plants increasesdrasticallyin the first year and remains high for more than 20 years as they grow well in nitrogen-deficient soil.		1m
+	After the 5th year, the cover of shrubs and treesincreasescontinuously due to the higher soil nitrate concentration / better soil quality.					1m
+	In the 24th year, the cover of shrubs and trees becomes higher than that of annualplants as the small annuals are out-competed by shrubs and trees / shrubs and trees are larger and better adapted in the later stages of succession.		1m
+	(or other correct answers)
+
+---------------------------------------------------
+
+
+
+
+
+[10290111]
+// Data handling // High order thinking // Comparison // Applying concepts //
+**	A group of scientists conducted a study to investigate the ecological succession that occurred on an island emerged in the Pacific Ocean about 90 years ago. Among the data they collected are the amount of woody biomass above the soil level and the composition of plant litter found on the ground in different stages of succession. Plant litter refers to dead plant parts (e.g. leaves, bark, and twigs) that have fallen onto the ground.
+
+	The table below shows the results. Note that the succession stages shown in the table had been mistakenly labelled and thus are not in chronological order.
+
+Stage
+Above-
+ground woody biomass 
+(kg / hectare)
+Plant litter
+
+
+
+Type
+Carbon content
+(g kg-1)
+Nitrogen content
+(g kg-1)
+C/N ratio
+
+I
+49000
+Undecomposed
+226.9
+12.2
+18.6
+
+
+
+Residue
+175.4
+12.1
+14.5
+
+II
+210000
+Undecomposed
+241.0
+10.9
+22.1
+
+
+
+Residue
+181.2
+10.8
+16.8
+
+III
+350
+Undecomposed
+173.2
+14.3
+12.1
+
+
+
+Residue
+150.5
+16.8
+9.0
+
+IV
+109000
+Undecomposed
+202.0
+12.5
+16.2
+
+
+
+Residue
+155.0
+14.1
+11.0
+
+
+a	What type of ecological succession was studied by the scientists? Explain your answer.											(2 marks)
+b	Arrange the succession stages shown in the table in the correct sequence. Give a reason for your answer.							(4 marks)
+c	Account for the difference in C/N ratio between undecomposed plant litter and plant litter residues.									(4 marks)
+d	Apart from maintaining soil fertility, how can plant litter contribute to soil quality?												(2 marks)
+
+
+
+-- answer --
+a	Primary succession											1m
+	because it occurred on barren rocks where there were no soil or plants before.															1m
+b	III  I  IV  II											1m
+	The amount of aboveground woody biomass increases as the succession progresses												1m
+	because woody plants (e.g. shrubs and trees) gradually replace herbaceous plantsand become the dominant vegetation in later succession stages (e.g. IV and II),															1m
+	and woody plants are larger in size and produce larger amounts of woody biomass.													1m
+	(or other correct answers)
+c	The C/N ratio of plant litter residues is lower than that of undecomposed litter.															1m
+	This isbecause the carbon compounds in the plant litter were decomposed by microorganisms												1m
+	and some were released as carbon dioxide into the atmosphere			1m
+	while the nitrogen content remained relatively constant / slightly increased.	1m
+d	After being decomposed, plant litter will turn into humus / Plant litter residues form humus													1m
+	which can hold a large amount of moisture and thus helps improve soil quality.															1m
+
+---------------------------------------------------
+
+Chapter 20		Photosynthesis
+
+Multiple-choice questions
+
+[10290175]
+// Photomicrograph // Applying concepts //
+*	The electron micrograph below shows a chloroplast.
+X
+Y
+(×12 000)
+X
+Y
+(×12 000)
+
+
+	The equations below represent three reactions that occur during photosynthesis. 
+	Reaction I:	water → hydrogen + oxygen
+	Reaction II:	ATP →ADP + P
+	Reaction III:	NADP + H+→ NADPH 
+
+	Which of the following combinations correctly matches the reactions with the locations where they occur?
+		Reaction I 		Reaction II 		Reaction III 
+A		X				Y				X
+B		X 				Y				Y
+C		Y				X				X
+D		Y				Y				X
+A
+
+---------------------------------------------------
+
+[10290190]
+// Cross-topic // Graph interpretation // Applying concepts //
+**The graph below shows the rates of photosynthesis and respiration of a plant at different temperatures.
+
+10
+20
+30
+40
+0
+rate of photosynthesis or respiration
+(arbitrary unit)
+temperature (°C)
+respiration
+photosynthesis
+
+10
+20
+30
+40
+0
+rate of photosynthesis or respiration
+(arbitrary unit)
+temperature (°C)
+respiration
+photosynthesis
+
+
+
+
+	According to the graph, which of the following statements about the plant are correct?
+	(1)	The growth rate of the plant is the highest when the plant is growing at 
+	20 °C. 
+	(2)	The net carbon dioxide uptake of the plant is the greatest when the plant 	is growing at 27 °C. 
+	(3)	There is no increase in dry mass when the plant is growing at 31 °C.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B
+
+---------------------------------------------------
+
+
+Short question
+
+[10290194]
+// Cross-topic // High order thinking // Schematic diagram //
+**Rubisco is an enzyme in chloroplasts which catalyses the reaction between ribulose bisphosphate and carbon dioxide in the Calvin cycle. The enzyme also catalyses the reaction between ribulose bisphosphate and oxygen in a process called photorespiration. The diagram below shows the reactions in the Calvin cycle and photorespiration. No ATP is produced in the process of photorespiration. 
+
+
+ribulose bisphosphate
+(5-C compound)
+carbon dioxide
+phosphoglycerate
+(3-C compound)
+triose phosphate
+rubisco
+ribulose bisphosphate
+(5-C compound)
+oxygen
+phosphoglycerate
+(3-C compound)
+rubisco
+phosphoglycolate 
+(2-C compound)
+carbon dioxide
+enters 
+Calvin cycle
+Calvin cycle
+Photorespiration
++
+phosphoglycerate (3-C compound)
+
+ribulose bisphosphate
+(5-C compound)
+carbon dioxide
+phosphoglycerate
+(3-C compound)
+triose phosphate
+rubisco
+ribulose bisphosphate
+(5-C compound)
+oxygen
+phosphoglycerate
+(3-C compound)
+rubisco
+phosphoglycolate 
+(2-C compound)
+carbon dioxide
+enters 
+Calvin cycle
+Calvin cycle
+Photorespiration
++
+phosphoglycerate (3-C compound)
+
+
+
+a	Where in the chloroplasts can rubisco be found?				(1 mark)
+b	It is known that oxygen and carbon dioxide bind to the same site on rubisco. With reference to theabove diagram and your knowledge of enzymes, explain why photorespiration decreases the food production of the plants.														(4 marks)
+
+-- answer --
+a	Stroma													1m
+b	As oxygen occupies the active site of some rubisco, less carbon dioxide can bind to rubisco. 												1m
+	As a result, less carbon dioxide enters the Calvin cycle, and thus the food produced by photosynthesis in the plant decreases. 					1m
+During photorespiration, carbon dioxide is given off.Some of the carbon incorporated into organic compounds is lost.						1m
+	This decreases the triose phosphate produced in the Calvin cycle, and thus the food produced by photosynthesis in the plant decreases.				1m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10290206]
+// Cross-topic // Data handling // Experiment // Applying concepts //
+*	Scientists carried out an experiment to study the effect of iron deficiency on photosynthesis of a plant. They prepared two groups of plants. They grew one group in complete nutrient solution for one week, and the other in an iron-deficient nutrient solution for one week. The two groups were then placed in the dark for 6 hours, and then exposed to light for 12 hours. The concentrations of triose phosphatein the plants before and after the plants were exposed to light were measured. The table below shows the results. 
+
+
+Mean concentration of triose phosphate in plants (arbitrary unit)
+
+
+Before exposed 
+to light
+After exposed 
+to light
+
+The group growing in complete nutrient solution
+9
+28
+
+The group growing in iron-deficient nutrient solution 
+8
+10
+
+
+a	Explain the importance of placing the plants in the dark for 6 hours before they are exposed to light.								(1 mark)
+b	The plants were supplied with high concentration of carbon dioxide during the experiment. Explain why this is important. 				(1 mark)
+c	Iron is a component of some electron carriers in the electron transport chain involved in photosynthesis. Based on this information, explain the difference in the results of the two groups of plants. 			(4 marks)
+d	Apart from iron ions, the plants also take up other minerals from the nutrient solutions for synthesizing biomolecules. State one example of these minerals and a biomolecule that is synthesized using this mineral. 															(2 marks)
+-- answer --
+a	This is to ensure the concentrations of triose phosphate in all the plants are similar / low before the plants are exposed to light. 						1m
+b	This is to ensure carbon dioxide is not the limiting factor of the rate of photosynthesis during the experiment. 							1m
+c	The group growing in an iron-deficient nutrient solution shows a smaller increase in the mean concentration of triose phosphate after the plants are exposed to light for 12 hours.  												1m
+	Iron deficiency in the plants causes a decrease in electron transport in light reactions. 												1m
+	Less ATP and NADPH are produced. 							1m
+	As less ATP and NADPH are supplied to the Calvin cycle, less triose phosphate can be produced in the Calvin cycle. 								1m
+d	Nitrate ions / ammonium ions									1m
+	They are for the synthesis of proteins / nucleic acids / chlorophyll.		1m
+	OR
+	Phosphate ions 											1m
+	They are for the synthesis of phospholipids / ATP / nucleic acids. 		1m
+	(or other reasonable answers)
+
+--------------------------------------------------
+
+
+Chapter21		Respiration
+
+Multiple-choice questions
+
+[10290334]
+// Graph interpretation // Experiment // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below which shows an experimental set-up prepared by a student to measure the rate of anaerobic respiration of yeast.
+
+	The student found that the coloured liquid in the capillary tube did not move during the experiment. Which of the following modifications should be made to the set-up so that it will work as expected?
+	(1)	Wrap the boiling tube in cotton wool. 
+(2)	Immerse one end of the capillary tube in the yeast suspension.
+	(3)	Add a layer of oil on top of the yeast suspension.
+A	(2) only					B	(3) only
+C	(1) and (2) only			D	(1) and (3) only
+B
+
+---------------------------------------------------
+
+
+
+[10290335]
+// Graph interpretation // Experiment // Schematic diagram //
+*	After the student had made the necessary modification(s), the set-up worked as expected. Which of the following graphs correctly shows the result of the experiment?
+A
+
+B
+
+
+C
+
+D
+
+
+
+
+B
+
+---------------------------------------------------
+Short question
+
+[10290341]
+// Cross-topic // Photomicrograph // Comparison //
+**The electron photomicrographs below show a mitochondrion and a chloroplast in a eukaryotic cell.
+
+
+
+a	With reference to the photomicrographs above, stateone similarity and one difference between the mitochondrion and chloroplast in terms of their structure.												(2 marks)
+b	In mitochondria,ATP is synthesized through oxidative phosphorylation while in chloroplasts, ATP is synthesized through photophosphorylation. Stateone similarity and one difference between these two processes.															(3 marks)
+
+-- answer --
+a	Similarity: Both organelles are bounded by a double membrane.			1m
+	Difference: The inner membrane of mitochondria is highly folded but the inner membrane of chloroplasts is not. / Chloroplasts contain grana but mitochondria do not.														1m
+b	Similarity: Both processes involve the electron transport chain.			1m
+	Difference:	 Photophosphorylation converts light energy into chemical energy in the form of ATP while oxidative phosphorylation converts free energy released from the oxidation of glucose / NADH into chemical energy in the form of ATP.															2m
+	(or other reasonable answers)
+
+---------------------------------------------------
+Structured question
+
+[10290343]
+// Cross-topic // Graph interpretation // High order thinking //
+**The flowchart below shows some steps involved in glycolysis. Hexokinase is an enzyme that catalyses the conversion of glucose into glucose-6-phosphate (G6P).Phosphofructokinase (PFK) is an enzyme that catalyses the conversion of fructose-6-phosphate (F6P) into fructose-1,6-biphosphate (F1,6BP).
+
+
+
+a	High levels of hexokinase activity could facilitate the diffusion of glucose into the cell. Explain why.								(2 marks)
+b	Apart from facilitating the entry of glucose into the cell, suggest onesignificance of the phosphorylation of glucose in the first step of glycolysis.													(1 mark)
+
+	The graph below shows the activity of PFK at different concentrations of F6Pin environments with high or low concentration of ATP.
+
+c	Describe the effect of increasing F6P concentration on the activity of PFK in an environment with a low concentration of ATP.			(2 marks)
+		d	i	Based on the above graph, state the effect of adding more ATP on the activity of PFK.									(1 mark)
+ii	It is known that the conversion of F6P into F1,6BP is the step that limits the rate of glycolysis. Explain how the effect you mentioned in 
+d iallows the cell to make good use of glucose.			(2 marks)
+-- answer --
+			a	Hexokinase converts glucose into G6P. Hence, high levels of hexokinase activity help keep the concentration of glucose in the cytoplasm of the cell at low levels.															1m
+				Asteep concentration gradient of glucose is thus maintained between the cell and the environment. This allows glucose to diffuse faster into the cell.		1m
+			b	This is to activate the glucose molecule / provide the activation energy which is required for the subsequent steps in glycolysis.						1m
+			c	From 0 to 0.5 mM of F6P, the activity of PFK increases with the concentration of F6P.														1m
+When the concentration of F6P exceeds 0.5 mM, the activity of PFK starts to level off even if the F6P concentration increases further.					1m
+			d	i	The addition of more ATP inhibits the activity of PFK.				1m
+			ii		When ATP is abundant in the cell, the activity of PFK is inhibited and the rate of glycolysis decreases. The breakdown of glucose slows down as a result.														1m
+				This helps conserve glucose in the cell when the energy demand is low.														1m
+
+---------------------------------------------------
+
+Chapter 22		Non-infectious diseases
+
+Multiple-choice questions
+
+[10290496]
+// Scientific investigation // Data handling // High order thinking // Calculation //
+**Directions: The following two questions refer to the study below.
+	Prostate-specific antigen (PSA) test is a preliminary screening test for prostate cancer. PSA is a protein made by the prostate gland. High PSA levels in blood can be a sign of prostate cancer. Scientists carried out a study to determine the ranges of PSA level in healthy men. 1800 healthy men undergoing a routine health check-up received a PSA test. Men with a prior history of prostate cancer were excluded. The table below shows the results.
+
+Age group
+Number of individuals
+Percentage of individuals with PSA level of
+
+
+
+<4 ng/mL
+4–10 ng/mL
+>10 ng/mL
+
+40–49
+177
+100
+0
+0
+
+50–59
+486
+98.77
+1.23
+0
+
+60–69
+470
+94.26
+5.32
+0.43
+
+70–79
+485
+89.28
+9.28
+1.44
+
+≥ 80
+182
+70.88
+27.47
+1.65
+
+
+	What is the number of individuals under the age of 70 in this study having a PSA level equal or higher than 4 ng/mL?
+	A	7
+	B	31
+	C	33
+	D	85
+C
+
+---------------------------------------------------
+
+
+
+[10290513]
+// Scientific investigation // Data handling // High order thinking // Calculation //
+**Which of the following can be concluded from the results of this study?
+	(1)	The PSA level in blood increases as men age.
+	(2)	Age-specific PSA levels can be set to improve the accuracy of the PSA test.
+(3)	A 55-year-old man with a blood PSA level of 6.5 ng/mL has a very high chance of having prostate cancer.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+A
+
+---------------------------------------------------
+
+[10290517]
+// Scientific investigation // Graph interpretation // Data handling //
+**In a study, scientists investigated the relationship between body mass index (BMI) and relative mortality risk or risk of death of a certain community in the United States. BMI is a value derived from the weight and height of a personto assess weight status.
+BMI
+<18.5
+18.5–24.9
+25–29.9
+>30
+
+Weight status
+Underweight
+Normal
+Overweight
+Obese
+
+	The graph below shows the results of the study.
+BMI
+relative mortality risk
+BMI
+relative mortality risk
+Which of the following can be concluded from the results of this study?
+	(1)	Mortality risk increases with the severity of obesity.
+	(2)	People with ‘normal’ weight status have the lowest mortality risk.
+(3)	There is a positive correlation between BMI and heart disease mortality.
+	A	(1) only				B	(1) and (2) only
+	C	(1) and (3) only		D	(2) and (3) only
+A
+
+---------------------------------------------------
+
+Short question
+
+[10290524]
+// Communication // Applying concepts //
+**Different types of anticancer drug have different mechanisms of action. Complete the table below to show how these drugs work.			(6 marks)
+
+Mechanism of action
+Principle
+
+Interfering with DNA synthesis
+
+
+
+
+
+
+
+Preventing the formation of new blood vessels
+
+
+
+
+
+
+
+
+
+-- answer --
+Mechanism of action
+Principle
+
+Interfering with DNA synthesis
+Cancer cells form new cells by mitotic cell division
+and the inhibition of DNA synthesis stops mitotic cell division.
+Without new cancer cells, the growth of tumours may stop / metastasis will slow down.
+
+Preventing the formation of new blood vessels
+Tumours need the establishment of new blood vessels to meet their growth needs.
+Without an adequate supply of oxygen and nutrients,
+the cancer cells may stop growing and dividing.
+
+6m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10290539]
+// Graph interpretation // High order thinking // Comparison //
+**In a study, the state of type 2 diabetes of the participants was first determined through interviews and tests. The participants who fasted overnight were then asked to drink a solution with 75 g glucose and their 2-hour blood glucose level was measured, i.e. the blood glucose level two hours after drinking the glucose solution. The waist circumference of the participants was also measured in another test. The bar charts below show the results of the study.
+healthy
+age group
+age group
+prediabetes
+diagnosed but untreated
+undiagnosed diabetes
+Key:
+2-hour blood glucose level (mg/dL)
+waist circumference (cm)
+healthy
+age group
+age group
+prediabetes
+diagnosed but untreated
+undiagnosed diabetes
+Key:
+2-hour blood glucose level (mg/dL)
+waist circumference (cm)
+
+a	Account for the difference in 2-hour blood glucose level between diagnosed diabetic patients and healthy persons.						(3 marks)
+b	Suggest a possible explanation for the difference in 2-hour blood glucose level between the diagnosed diabetic patients and the undiagnosed diabetic patients.												(3 marks)
+	c	i	Some scientists proposed that the waist circumference of patients can be used to assess their risk of having type 2 diabetes. Give evidence from the results to support this idea.					(1 mark)
+ii	Based on your biological knowledge, suggest a possible explanation for the relationship between waist circumference and the risk of developing type 2 diabetes.							(1 mark)
+d	Without lifestyle intervention, prediabetes can develop into diabetes in a few years. If you were a dietitian, give twopieces of dietary advice to people with prediabetes.										(2 marks)
+
+-- answer --
+a	Due to insulin resistance, the body cells of type 2 diabetic patients would not take up extra glucose from blood as effectively as healthy persons.  		1m
+	Therefore, the blood glucose concentration raised to a higher level after the ingestion of glucose solution								1m
+	and decreased slower than the healthy persons and remained high for a longer period of time / after two hours.								1m
+b	The 2-hour blood glucose level of the diagnosed group is lower than that of the undiagnosed group.										1m
+	A possible explanation is that the subjects in the diagnosed group may have adopted a healthier lifestyle (e.g. switching to a low GI diet / being more physically active) after the diagnosis.									1m
+	This helps lower insulin resistance / improve the insulin sensitivity of body cells, which in turn helps take up more glucose from the blood.			1m
+	(or other reasonable answers)
+	c	i	The waist circumference of the participants is positively correlated to the 2-hour blood glucose level. / The waist circumferences of diabetic patients among all age groups in the study are significantly higher than that of healthy persons.											1m
+ii	Waist circumference can be used as a measure of (abdominal) obesity and obesity is a risk factor for type 2 diabetes.					1m
+	(or other reasonable answers)
+d	Avoid food which elevates blood glucose level in a short time (e.g. sweets). /
+	Limit the portions of food with a high GI (e.g. white rice). /
+	Eat more foods that are high in dietary fibres (e.g. vegetables).
+	(any two or other reasonable answers)						1m x 2
+
+---------------------------------------------------
+
+Chapter 23		Infectious diseases 
+					and disease prevention
+
+Multiple-choice questions
+
+[10290631]
+// Data handling // Calculation // Basic concepts //
+*	Directions: The following three questions refer to the information below.
+	In Hong Kong, rodent infestation is getting more public attention. Rodent Infestation Rate (RIR) has been a key indicator measuring the extent of the city’s rat problem. It is the ratio of the number of baits bitten by rodents to the total number of baits collected from a survey location. The table below shows the RIR of four districts from 2017 to 2019.
+District
+Year
+
+
+2017
+2018
+2019
+
+Kowloon City
+2.3
+6.1
+6.2
+
+Kwun Tong
+4.3
+5.8
+9.1
+
+Wan Chai
+5.6
+2.8
+11.7
+
+Yau Tsim Mong
+2.8
+2.4
+6.0
+
+(Data source: FEHD, HKSAR Government)
+	
+	Arrange the districts in descending order of their rate of increase in RIR over the three-year period.
+	A	Wan Chai, Kwun Tong, Kowloon City, Yau Tsim Mong
+	B	Kowloon City, Yau Tsim Mong, Kwun Tong, Wan Chai
+	C	Wan Chai, Kwun Tong, Yau Tsim Mong, Kowloon City
+	D	Kowloon City, Kwun Tong, Yau Tsim Mong, Wan Chai
+B
+
+---------------------------------------------------
+
+
+[10290635]
+// Data handling // Calculation // Basic concepts //
+*	Rodent infestation may pose a serious threat to public health because rodents are the carriers of various infectious diseases. The pathogens of rodent-borne diseases can be transmitted to humans
+	(1)	by rat bites.
+	(2)	through fleas that live on the bodies of rat.
+	(3)	by water contaminated by rodent excreta.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D
+
+---------------------------------------------------
+
+[10290669]
+// Data handling // Calculation // Basic concepts //
+*	Which of the following measures should be taken by the public in order to prevent rodent-borne diseases?
+	(1)	Remove stagnant water in containers.
+	(2)	Clean up objects and waste in rear lanes.
+	(3)	Wear gloves when cleaning up rodent excreta.
+	(4)	Install wire meshes at the opening of sewage and vent pipes.
+	A	(2) and (4) only
+	B	(1), (2) and (3) only
+	C	(2), (3) and (4) only
+	D	(1), (2), (3) and (4)
+C
+
+---------------------------------------------------
+
+Short question
+
+[10290673]
+// Matching // Basic concepts //
+*	For each of the infectious diseases listed in Column 1, select from Column 2 all statement(s) that correctly describe(s) it. Put the letter(s) in the space provided.															(4 marks)
+Column 1
+Column 2
+
+
+Tuberculosis
+________
+A
+The disease can be spread by droplets.
+
+Hepatitis B
+________
+B
+The disease can be spread by vectors.
+
+Malaria
+________
+C
+The causative agent of the disease is a virus.
+
+Cholera
+________
+D
+The disease can be prevented by cooking food thoroughly.
+
+
+
+E
+Vaccine against the disease is included in Hong Kong Childhood Immunisation Programme.
+
+
+
+-- answer --
+	Tuberculosis: A, E												1m
+	Hepatitis B: C, E												1m
+	Malaria: B														1m
+	Cholera: B, D													1m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10290702]
+// Cross-topic // Scientific investigation // Design experiment //
+**	Streptococcus pneumoniaeis the causative agent of pneumococcal infections, including pneumonia. A scientist conducted an experiment to study the effect of S. pneumoniae on mice. Two strains of S. pneumoniae, the S strain and the R strain, were used.
+
+-	S strain: pathogenic; has a capsule that can protect the bacterium from the immune system of mice.
+-	R strain: non-pathogenic; does not have a capsule.
+
+	In the experiment, the scientist injected four groups of healthy mice with different types of S. pneumoniae. The details of each group and the results of the experiment are shown in the table below.
+
+Group
+Type of S. pneumoniae
+injected
+Mice were infected and died after the injection?
+
+A
+Living S strain
+✓
+
+B
+Living R strain
+✗
+
+C
+Heat-treated S strain
+✗
+
+D
+Living R strain mixed with heat-treated S strain
+✓
+
+
+a	Give one route of transmission of pneumococcal infections.		(1 mark)
+b	Explain why R strain bacteriado not have a capsule.			(2 marks)
+c	Account for the difference between the result of group A and that of group C.													(3 marks)
+	d	i	What conclusion can you draw by comparing the results of groups B and D?											(1 mark)
+ii	Suggest one possible explanation for the conclusion.		(2 marks)
+iii	Propose one workable method to test your hypothesis in d ii.														(3 marks)
+
+
+
+-- answer --
+a	Via droplets / through direct oral contact / indirect contact with articles contaminated with respiratory discharges from infected persons.  		1m
+b	The gene responsible for the synthesis of capsule has been mutated / is absent in R strain bacteria.											1m
+		Hence, the bacteria cannot produce the enzymes / proteins needed for the synthesis of capsule.											1m
+c	Unlike group A, the mice in group C did not die from pneumococcal infections.															1m
+		It is because the capsule of the S strain bacteria used in group C had been destroyed by heat											1m
+		and the bacteria lost their capability of causing disease / were killed by the immune system of mice before they could cause disease.						1m
+	d	i	The non-pathogenic R strain bacteria can be converted into pathogenic ones by the heat-treated S strain bacteria.							1m
+ii	The genetic material / DNA of the heat-treated S strain bacteria is transferred to the R strain bacteria.									1m
+	The R strain bacteria are thus able to synthesize the capsule, which protects the bacteria from the immune system of the mice / can cause disease in the mice. This eventually leads to the death of mice.					1m
+	(or other reasonable answers)
+iii	Extract the genetic material / DNA from S strain bacteria and mix it with living R strain bacteria.										1m
+	Inject the mixture into healthy mice to see whether the mice will die of pneumococcal infections or not.								1m
+	Repeat the experiment using distilled water / extraction buffer to replace the genetic material of S strain bacteria as the control. 				1m
+	(or other reasonable answers)
+
+---------------------------------------------------
+
+
+Chapter 24		Body defence mechanisms
+
+Multiple-choice questions
+
+[10290877]
+// Schematic diagram // Applying concepts //
+*	Directions:The following two questions refer to the diagram below, which shows some steps involved in the formation of two types of white blood cells in our body. 
+
+B lymphocyte
+hematopoietic stem cells 
+common lymphoid progenitor
+progenitor B cells
+plasma cell
+cell X
+B lymphocyte
+hematopoietic stem cells 
+common lymphoid progenitor
+progenitor B cells
+plasma cell
+cell X
+
+
+
+	Which of the following shows the possible location in our body where progenitor B cells can be found?
+A	Blood	
+B	Bone marrow	
+C	Lymph nodes	
+D	Thymus glands
+B
+
+---------------------------------------------------
+
+
+[10290886]
+// Schematic diagram // Applying concepts //
+*	Which of the following statements about cell X are correct?
+	(1)	It provides immunity to our body.
+	(2)	It is involved in specific defence mechanisms.
+	(3)	It quickly releases antibodies to act against the pathogens in secondary 	immune response. 
+A	(1) and (2) only	
+B	(1) and (3) only
+C	(2) and (3) only	
+D	(1), (2) and (3)
+A
+
+---------------------------------------------------
+
+[10290893]
+// Cross-topic // Applying concepts //
+*	Which of the following events occur in the lymphatic system?
+	(1)	Transport of nutrients
+	(2)	Destruction of red blood cells
+	(3)	Maturation of T lymphocytes
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D
+
+---------------------------------------------------
+
+
+Short question
+
+[10290896]
+// Cross-topic // High order thinking // Schematic diagram //
+**Human immunodeficiency virus (HIV) is a virus that causes acquired immune deficiency syndrome (AIDS). After the viruses enter the body, they introduce their nucleic acid into helper T cells and replicate within them. This leads to a decline in the number of helper T cells in the infected person. 
+
+	The diagram below shows a step in the infection process which is necessary for the nucleic acid of the viruses to enter helper T cells.
+
+HIV
+CD4 receptor
+gp120 protein
+helper T cell
+HIV
+CD4 receptor
+gp120 protein
+helper T cell
+
+
+
+a	With reference to the role of helper T cells in immune responses, explain why patients with AIDS would infect with other pathogens easily. 															(4 marks)
+b	The diagram below shows a special protein developed by scientists for preventing HIV infection. It can bind to both CD4 receptor on helper T cells and gp120 protein on HIV. 
+
+gp120 protein-
+binding site
+gp120 protein-
+binding site
+CD4 receptor-
+binding site
+CD4 receptor-
+binding site
+gp120 protein-
+binding site
+gp120 protein-
+binding site
+CD4 receptor-
+binding site
+CD4 receptor-
+binding site
+
+
+
+	Based on the information provided and your knowledge of virus, suggest how injecting this special protein may help prevent HIV infection. 
+													(3 marks)
+
+-- answer --
+a	Due to the low number of helper T cells in patients with AIDS, less B cells and T cells would be activated during an immune response. 				1m
+	As a result, only a small number of plasma cells would be produced in the body to release antibodies which act against the pathogens 					1m
+	and only a small number of killer T cells would be produced to kill the infected cells.														1m
+	Therefore, the pathogens that enter the body cannot be destroyed quickly. This increases the risk of infection. 									1m
+b	The binding of the special protein to both CD4 receptor and gp120 protein prevents them from binding together. 								1m
+	As a result, the nucleic acid of HIV cannot enter helper T cells.			1m
+	The virus cannot replicate.										1m
+
+---------------------------------------------------
+
+
+Structured question
+
+[10290897]
+// Cross-topic // Data handling // Applying concepts //
+*	Human papillomavirus (HPV) infection is a common sexually transmitted infection. Persistent HPV infection can cause cervical cancer. There are over 100 types of HPV. Among them, two types, HPV16 and HPV18, account for most cases of cervical cancer.
+
+Scientists carried out a study to compare the effectiveness of injecting two doses and three doses of an HPV vaccine in girls aged 12 to 14 years old. The vaccine contains proteins on the virus. The scientists measured the levels of antibodies against HPV16 and HPV18 in blood of the girls one month and three months after two groups of girls received the last dose of the vaccine. The graph below shows the results.
+
+antibody level (arbitrary unit)
+HPV16
+HPV18
+HPV16
+HPV18
+HPV16
+HPV18
+HPV16
+HPV18
+two doses, 
+after 1 month
+two doses, 
+after 3 months
+three doses, 
+after 1 month
+three doses, 
+after 3 months
+antibody level (arbitrary unit)
+HPV16
+HPV18
+HPV16
+HPV18
+HPV16
+HPV18
+HPV16
+HPV18
+two doses, 
+after 1 month
+two doses, 
+after 3 months
+three doses, 
+after 1 month
+three doses, 
+after 3 months
+
+
+
+a	Explain why antibody levels in blood increased after the girls received the vaccine. 												(2 marks)
+b	The scientists also measured the antibody levels in the girls’ blood one month after they received their first dose of the vaccine. The antibody levels are much lower than the levels one month after they received their second dose or third dose. Explain why. 							(2 marks)
+c	Based on the data above, evaluate whether receiving two doses of the vaccine is as effective as receiving three doses of the vaccine for the prevention of HPV infection in girls aged 12 to 14 years old. 	(4 marks)
+d	HPV vaccine has been included in the Hong Kong Childhood Immunization Programme since 2019. The vaccine is provided to girls at primary 5 and primary 6. However, it takes years to confirm whether the vaccination programme is effective in lowering the incidence of cervical cancer. Suggest a reason. 											(1 mark)
+
+-- answer --
+a	The proteins of HPV in the vaccine stimulated an immune response in the body. 															1m
+Plasma cells were formed. They released antibodies into the blood.		1m
+	b	When the girls received their first dose of the vaccine, no memory cells were present in their body. A primary response was stimulated. 				1m
+	Compared with the secondary response stimulated after the girls received their second dose or third dose of the vaccine, a smaller number of plasma cells were produced, and therefore less antibodies were released.				1m
+c	Receiving two doses of the vaccine is as effective as receiving three doses for the prevention of HPV16 infection.									1m
+The levels of antibodies against HPV16 in the body are similar in the girls who received two doses and three doses of the vaccine.					1m
+Receiving two doses of the vaccine is less effective than injecting three doses for the prevention of HPV18 infection.								1m
+Three months after receiving the last dose of the vaccine, the level of antibodies against HPV18 in the body of the girls who received two doses of the vaccine is lower than that of the girls who received three doses of the vaccine.		1m
+d	Cancer takes time to develop. (or other reasonable answers)			1m
+
+--------------------------------------------------
+

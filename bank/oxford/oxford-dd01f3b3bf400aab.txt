@@ -1,0 +1,756 @@
+( Chapter 4		Hormonal control of 										reproductive cycle
+
+Multiple-choice questions
+
+[10282042]
+// Schematic diagram //
+(*	The flow chart below shows the interaction of two hormones involved in the menstrual cycle.
+	
+What are hormones X and Y?
+	Hormone X					Hormone Y
+A	follicle stimulating hormone		oestrogen
+B	follicle stimulating hormone		progesterone
+C	luteinising hormone				oestrogen
+D	luteinising hormone				progesterone
+A	
+---------------------------------------------------
+
+[10282055]
+// Basic concepts //
+(	Which of the following statements about the yellow body is/are correct?
+(1)	The yellow body is formed after ovulation.
+(2)	The yellow body secretes hormones that maintain the thickness of the uterine lining.
+(3)	If a woman is pregnant, the yellow body degenerates after the baby is born.
+A	(1) only					B	(2) only
+C	(1) and (2) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10282057]
+// Basic concepts //
+(	Which of the following hormones is/are usually present in contraceptive pills?
+(1)	follicle stimulating hormone (FSH)
+(2)	luteinising hormone (LH)
+(3)	oestrogen
+(4)	progesterone
+A	(3) only
+B	(1) and (2) only
+C	(3) and (4) only
+D	(1), (2), (3) and (4)
+C	
+---------------------------------------------------
+
+[10282062]
+// Basic concepts //
+(	Combined oral contraceptive pills work by inhibiting the secretion of some hormones. What is/are the consequence(s) of inhibition of the secretion of such hormones?
+(1)	Follicle development is stopped.
+(2)	Ovulation is stopped.
+(3)	Menstruation is delayed.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10282088]
+// Basic concepts //
+(*	Luteinising hormone is used to treat some types of infertility in women because it can stimulate
+(1)	the development of follicles. 
+(2)	implantation.
+(3)	ovulation.
+A	(1) only 
+B	(2) only 
+C	(3) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10282123]
+// Basic concepts //
+(*	Which of the following statements about progesterone is/are correct?
+(1)	Follicle stimulating hormone stimulates the secretion of progesterone. 
+(2)	Synthetic progesterone can be used as a contraceptive. 
+(3)	In in vitro fertilization, women need to be treated with injections that contain synthetic progesterone to stimulate ovulation. 
+A	(1) only 
+B	(2) only 
+C	(3) only
+D	(1) and (3) only
+B	
+---------------------------------------------------
+
+[10282133]
+// Graph interpretation // Applying concepts //
+(**Directions: The following two questions refer to the graph below, which shows the levels of two hormones in the blood of a woman within a month.
+
+	
+
+During which period of this month did menstruation occur?
+A	the 1st to the 5th
+B	the 11th to the 15th
+C	the 19th to the 23rd
+D	the 26th to the 30th
+C	
+---------------------------------------------------
+
+[10282140]
+// Graph interpretation // Applying concepts //
+(**If the ovum released by the ovary this month was fertilized, the level of oestrogen and progesterone would remain high. Which of the following cause the high levels of oestrogen and progesterone?
+(1)	Human chorionic gonadotrophin prevents the degeneration of the yellow body.
+(2)	Placenta secretes oestrogen and progesterone.
+(3)	A high level of follicle stimulating hormone stimulates oestrogen and progesterone secretion.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10282157]
+// Schematic diagram //
+(*	The diagram below shows the interaction of two hormones which are involved in the control of the development of follicles.
+	
+The two hormones involved are
+A	follicle stimulating hormone and oestrogen.
+B	follicle stimulating hormone and progesterone.
+C	luteinising hormone and oestrogen.
+D	luteinising hormone and progesterone.
+A	
+---------------------------------------------------
+
+[10282184]
+// Applying concepts //
+(*	A woman has difficulty in getting pregnant because her uterine lining is not thick enough. Which of the following is/are the possible treatment(s) for her?
+(1)	taking pills containing human chorionic gonadotrophin 
+(2)	taking pills containing synthetic progesterone
+(3)	undergoing in vitro fertilization
+A	(1) only			B	(2) only
+C	(3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10282204]
+// Basic concepts //
+(*	How do the levels of oestrogen and progesterone change during the first few days of the menstrual cycle?
+Oestrogen		Progesterone
+A	decreases			increases 
+B	decreases			remains at low level
+C	increases			increases 
+D	increases			remains at low level
+D	
+---------------------------------------------------
+
+[10282210]
+// Graph interpretation // Applying concepts //
+(**Directions: The following two questions refer to the graph below, which shows the levels of follicle stimulating hormone (FSH) and luteinising hormone (LH) in the blood of a woman within a month.
+
+	
+
+Which of the following combinations of period and the event of the menstrual cycle is correct?
+Period				Event in menstrual cycle
+A	the 1st to the 5th		menstruation 
+B	the 6th to the 10th		development of follicles
+C	the 21st to the 25th		degeneration of yellow body
+D	the 30th				ovulation
+D	
+---------------------------------------------------
+
+[10282225]
+// Graph interpretation // Applying concepts //
+(**The menstrual cycle of this woman lasts
+A	15 days.
+B	20 days.
+C	28 days.
+D	30 days.
+D	
+---------------------------------------------------
+
+[10282228]
+// Basic concepts //
+(*	Which of the following actions of synthetic oestrogen and progesterone allow them to be used as contraceptives?
+(1)	They inhibit ovulation.
+(2)	They inhibit follicle development.
+(3)	They inhibit the thickening of the uterine lining.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10282237]
+// Basic concepts //
+(	Directions: The following two questions refer to the major steps of in vitro fertilization below.
+(1)	fertilization of ova 
+(2)	collection of ova and sperms
+(3)	transfer of embryos to the uterus
+(4)	stimulating the development of follicles
+
+Which of the following shows the correct sequence of the steps?
+A	(2) → (1) → (3) → (4)
+B	(2) → (4) → (1) → (3)
+C	(4) → (1) → (3) → (2)
+D	(4) → (2) → (1) → (3)
+D	
+---------------------------------------------------
+
+[10282239]
+// Basic concepts //
+(	Which of the following hormones is used in step (4)?
+A	synthetic follicle stimulating hormone
+B	synthetic luteinising hormone
+C	synthetic oestrogen
+D	synthetic progesterone
+A	
+---------------------------------------------------
+
+[10282243]
+// Schematic diagram // Basic concepts //
+(	Directions: The following two questions refer to the diagram below, which shows two structures in the ovary.
+	
+Which of the following shows the hormones that stimulate their development?
+X							Y
+A	follicle stimulating hormone		luteinising hormone
+B	luteinising hormone				follicle stimulating hormone
+C	oestrogen						progesterone
+D	progesterone 					oestrogen	
+A	
+---------------------------------------------------
+
+[10282255]
+// Schematic diagram // Basic concepts //
+(	Which of the following hormones are secreted by Y?
+(1)	luteinising hormone
+(2)	oestrogen	
+(3)	progesterone
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10282272]
+// Basic concepts //
+(*	Which of the following statements describes the effect of follicle stimulating hormone in the menstrual cycle?
+A	It causes ovulation.
+B	It stimulates oestrogen secretion.
+C	It stimulates progesterone secretion.
+D	It causes the uterine lining to thicken.
+B	
+---------------------------------------------------
+
+Short questions
+
+[10282409]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the steps in in vitro fertilization (IVF).
+
+	
+
+a	Before carrying out step 1, the woman may be treated with injections that contain synthetic hormones. 
+i	Name the hormones contained in such injections.			(1 mark)
+ii	State the functions of the hormones in a i. 				(2 marks)
+b	Why are several embryos instead of one embryo transferred back into the woman's uterus in step 4?								(1 mark)
+
+
+-- answer --
+a	i	Synthetic FSH and LH									1m
+ii	To promote the development of follicles in the ovary				1m
+and to stimulate ovulation.									1m
+b	To increase the chance of successful implantation.					1m	
+---------------------------------------------------
+
+[10282414]
+// Applying concepts //
+(*	Mr and Mrs Lam have been married for five years. They had regular and unprotected sexual intercourse but Mrs Lam did not become pregnant. They went to an infertility clinic for a detailed examination. The doctor told Mr and Mrs Lam that there were some problems in Mrs Lam's reproductive system. He prescribed Mrs Lam synthetic LH and progesterone for infertility.
+a	Suggest two possible problems in Mrs Lam's reproductive system that lead to infertility.											(2 marks)
+b	Describe how synthetic LH and progesterone help treat infertility.																(2 marks)
+
+
+-- answer --
+a	The ova fail to be released from the ovaries. / 
+Conditions in the uterus do not allow the implantation of an embryo.				(or other reasonable answers)								1m × 2
+b	Synthetic LH stimulates ovulation.							1m
+Synthetic progesterone maintains the thickness of the uterine lining.	1m	
+---------------------------------------------------
+
+[10282444]
+// Overseas exam question // Data handling // STSE connections //
+(*	The standard in vitro fertilization (IVF) technique involves inducing superovulation (the release of more than the normal number of ova from the ovary at the same time), removing ova from the woman's ovaries and letting sperms fertilize them in a fluid medium. Embryos are then transferred to the patient's uterus for implantation and thereby pregnancy.
+The chance of an individual couple having a baby following IVF treatment depends on two main factors, one of which is the couple's age. The table below shows the pregnancy success rate, following one complete cycle of IVF treatment, in relation to the age of the couple. The table also shows the results achieved by treatment clinics over three successive years.
+Age of couple	1996	1997	1998	
+Less than 35	28.4%	30.7%	32.2%	
+35-37	23.4%	25.4%	26.1%	
+38-40	16.0%	17.0%	17.9%	
+Over 40	6.4%	7.3%	8.3%	
+
+a	The table shows that older couples have a reduced chance of a successful pregnancy following IVF treatment. Suggest one explanation for this.																(1 mark) 
+b	Using the information in the table above, suggest what evidence there is that the second factor determining the success rate of IVF treatment might be the expertise developed by treatment clinics.					(1 mark)
+c	Suggest two ethical issues that have been raised about IVF and associated developments.											(2 marks) 
+					   CCEA GCE (A) Biology Module 5 May 2008 Q4a, b, e
+
+-- answer --
+a	The older couples may have fewer ova. / 
+The older couples may have fewer viable sperms. / 
+More chromosomal abnormality may be present in the resulting embryos. /
+The chance of implantation of the embryo may be lower. / 
+The risk of miscarriage may be greater. 						1m
+b	The overall pregnancy success rate per treatment cycle is rising steadily by approximately 1% a year in different age groups.					1m
+
+
+c	By IVF, lives are created in the laboratory. /
+More embryos are produced than needed when performing IVF. / 
+IVF creates problems like discarding of excess embryos. /
+IVF may not be affordable for many people. /
+IVF may lead to misallocation of medical resources. /
+Some embryos are destroyed during research. /
+Scientists may create embryos for medical research. /
+Scientists may modify embryos. /
+Financial rewards for the doctors performing IVF may dissuade them from recommending other methods to the couples. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10282454]
+// Basic concepts //
+(*	The table below shows four hormones involved in the human menstrual cycle. If the statement correctly describes the hormone, put a '(' in the box. If the statement is incorrect, put a '(' in the box. 						(4 marks)
+	Secreted by ovaries	Its level in blood is the highest just before ovulation	
+Follicle stimulating hormone			
+Luteinising hormone			
+Oestrogen			
+Progesterone			
+
+-- answer --
+
+Secreted by 
+ovaries
+Its level in blood is the highest just before ovulation
+
+Follicle stimulating hormone 
+(
+(
+
+Luteinising hormone
+(
+(
+
+Oestrogen
+(
+(
+
+Progesterone
+(
+(
+
+														1m x 4	
+---------------------------------------------------
+
+[10282457]
+// Basic concepts //
+(*	Oestrogen is a hormone having a wide variety of functions. Describe briefly how oestrogen
+a	is involved in the control of the menstrual cycle.				(3 marks)
+b	is used to prevent pregnancy.								(2 marks)
+
+-- answer --
+a	Oestrogen causes the uterine lining to thicken after menstruation to prepare for a possible implantation of an embryo.								1m
+A low level of oestrogen inhibits the secretion of follicle stimulating hormone (FSH) by the pituitary gland to ensure only one follicle matures in one menstrual cycle. 																1m
+A high level of oestrogen stimulates the secretion of FSH and luteinising hormone (LH) by the pituitary gland. The high level of LH triggers ovulation.		1m
+b	Synthetic oestrogen is used in contraceptive pills together with synthetic progesterone.												1m
+High levels of these hormones inhibit FSH and LH secretion, so that follicle development and ovulation stop.									1m	
+---------------------------------------------------
+
+[10282478]
+// Basic concepts //
+(	Different hormones interact to maintain the cyclic changes in the menstrual 
+cycle. State two functions of each of the following hormones in the control of the menstrual cycle.
+a	Follicle stimulating hormone (FSH)						(2 marks)
+b	Luteinising hormone (LH)								(2 marks)
+
+-- answer --
+a	FSH stimulates the development of follicles in the ovary.			1m
+FSH stimulates the secretion of oestrogen by the follicle cells.		1m
+b	LH triggers ovulation. /
+LH stimulates the formation of yellow body. /
+LH stimulates the secretion of oestrogen and progesterone by the yellow body.
+(any 2)												1m x 2	
+---------------------------------------------------
+
+[10282489]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+Hormones can be used to treat infertility. For women who cannot produce mature ova, drugs containing synthetic a                      can be taken to stimulate follicle development. For women who cannot release ova from the ovaries, drugs containing synthetic b                      can be taken to stimulate ovulation. If the conditions in uterus do not allow the 
+c                      of an embryo, drugs containing synthetic 
+d                      can be taken to stimulate the thickening of the uterine lining.
+
+-- answer --
+a	follicle stimulating hormone / FSH								1m
+b	luteinising hormone / LH										1m
+c	implantation												1m
+d	progesterone												1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10282566]
+// Scientific investigation // Graph interpretation // Comparison //
+(**In an investigation, the effectiveness of two contraceptive pills (X and Y) was studied. Female volunteers were selected and then divided into two groups, M and N. At the start of the investigation, the highest concentrations of FSH and LH in their blood were measured. Group M took pill X each day for a year while group N took pill Y each day for a year. The highest concentrations of FSH and LH in their blood were measured again after one year. The graphs below show the results.
+
+	
+a	It is important that the volunteers had not taken any hormone-based contraceptive pills before the investigation. Explain why.		(2 marks)
+b	Suggest two other variables that should be considered when selecting the volunteers to participate in the investigation.					(2 marks)
+c	Describe the changes in the highest FSH and LH concentrations in the blood after taking the pills for one year. Hence, explain why X and Y can be used as contraceptives.										(4 marks)
+d	Which pill is more effective for contraception? Explain your answer.
+														(2 marks)
+
+
+-- answer --
+a	The hormones in contraceptive pills may change the levels of FSH and LH in the body.													1m
+Thus, the values obtained at the start of the investigation may be inaccurate and the results may be unreliable.								1m
+b	Age / body mass / health condition (any 2 or other reasonable answers)
+														1m x 2
+c	The highest FSH and LH concentrations in the blood became lower after taking X or Y for one year.										1m
+X and Y can inhibit FSH and LH secretions by the pituitary gland.		1m
+When the levels of FSH and LH become low, follicle development and ovulation stop.													1m
+As a result, no mature ova are released into the oviducts for fertilization.
+														1m
+d	X													1m
+The decreases in the highest FSH and LH concentrations in blood after taking X for one year were more significant than those after taking Y for one year.
+														1m	
+---------------------------------------------------
+
+
+[10282567]
+// Graph interpretation // High order thinking // Applying concepts //
+(**A vaginal ring is a new contraceptive for females. After being inserted into the vagina, it releases very low doses of hormones for three weeks. The ring is then removed and a new ring is inserted after one week without the ring.
+	
+
+In an investigation, the effects of inserting a vaginal ring on the diameter of a developing follicle and oestrogen concentration in blood were studied. The graph below shows the results.
+
+	
+
+a	With reference to the information provided,
+i	suggest what hormones are present in the vaginal ring.		(1 mark)
+ii	explain how the hormones in the vaginal ring help prevent pregnancy.
+													(4 marks)
+
+b	i	Describe the change in oestrogen concentration in blood after inserting	the vaginal ring.									(1 mark)
+ii	State how the change in b i helps contraception.			(2 marks)
+c	Suggest one advantage and one disadvantage of using vaginal rings over contraceptive pills for contraception.						(2 marks)
+
+-- answer --
+a	i	Synthetic oestrogen and progesterone						1m
+ii	Synthetic oestrogen and progesterone in the vaginal ring pass through the wall of the vagina and enter the bloodstream.					1m
+These hormones inhibit the secretion of follicle stimulating hormone (FSH) by the pituitary gland.										1m
+When the level of FSH becomes low, follicle development stops. The diameter of the developing follicle decreases and the follicle will not mature.
+														1m
+As a result, no mature ova are released into the oviducts for fertilization.
+														1m
+b	i	Oestrogen concentration in blood started to decrease one day after inserting the vaginal ring. It then levelled off after one day.					1m
+ii	When the level of oestrogen is low, the uterine lining becomes thinner.
+														1m
+The embryo cannot implant into the uterine lining and cannot develop into a foetus. Thus, pregnancy can be prevented.						1m
+c	Advantage:
+The hormones in vaginal rings do not need to be absorbed by the digestive system. The effectiveness of the rings is not affected if the female vomits or has diarrhoea.													1m
+Disadvantage:
+The effectiveness of vaginal rings may be affected when the rings accidentally come out of the vagina during sexual intercourse.					1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10282577]
+// Graph interpretation // Communication //
+(*	The graphs below show the changes in the levels of four hormones in the blood of a woman during a menstrual cycle.
+	
+a	How does information in the graphs suggest that oestrogen causes the LH surge?												(1 mark)
+b	Estimate the date when ovulation occurred and give your reason.	(1 mark)
+c	Account for the changes in the level of progesterone from 10-23 Sep.																(4 marks)
+d	How would the level of each of the four hormones change if the woman became pregnant during this menstrual cycle? Give one effect of the change in the level of each hormone.
+i	LH												(1 mark)
+ii	FSH												(1 mark)
+iii	Oestrogen										(1 mark)
+iv	Progesterone										(1 mark)
+
+
+
+-- answer --
+a	The peak of oestrogen occurred just before that of LH.					1m
+b	Ovulation occurred on 9 Sep as there was a LH surge just before this day. The LH 	surge triggered ovulation.										1m
+c	The high level of LH stimulated the ruptured follicle to develop into a yellow body.																1m
+	The yellow body secreted progesterone and thus the level of progesterone 	continued to increase until 18 Sep.								1m
+	The high level of progesterone (together with oestrogen) inhibited further secretion 	of FSH and LH by the pituitary gland.								1m
+	The yellow body therefore began to degenerate and the level of progesterone 	decreased from 18 Sep.										1m
+d	i	The level of LH would stay low so that no ovulation would occur.		1m
+ii	The level of FSH would stay low so that no development of follicles would 		occur in the ovary.										1m
+iii	The level of oestrogen would increase so that the uterine lining would remain 	thick for the development of the implanted embryo / further secretion of LH and FSH from the pituitary gland would be inhibited.				1m
+iv	The level of progesterone would increase so that the uterine lining would 	remain thick for the development of the implanted embryo / further secretion 	of LH and FSH from the pituitary gland would be inhibited.			1m	
+---------------------------------------------------
+
+[10282582]
+// Cross-topic // Data handling // High order thinking //
+(**The flow chart below shows the major events in an in vitro fertilization (IVF) treatment.
+	
+a	What is the purpose of ovarian stimulation?					(3 marks)
+b	Clomiphene is one of the fertility drugs used in ovarian stimulation in IVF. It occupies the oestrogen receptors in the body. Explain how clomiphene works.												(3 marks)
+c	Why are the ova cultured for 1-3 day(s) after they are mixed with sperms?															(1 mark)
+The table below shows the percentage of women of different ages having live births in an IVF clinic. Some of the women used donor ova for IVF while the others used their own ova.
+Age (year)	Percentage of women having live births (%)	
+	Donor ova	Own ova	
+≤ 30	25.3	23.8	
+31-32	24.8	22.7	
+33-34	25.1	21.7	
+35-36	24.7	20.5	
+37-38	24.3	16.2	
+39-40	24.1	11.0	
+( 41	23.5	4.8	
+d	What are the differences in the percentage of having live births between women using donor ova and women using their own ova?		(2 marks)
+e	Suggest one reason for the trend shown by the women using their own ova.														(1 mark)
+
+
+-- answer --
+a	To stimulate the development of more than one follicles in the ovaries.		1m
+	In that way, more ova can be collected from the ovaries				1m
+	to increase the chance of fertilization / pregnancy.					1m
+b	Oestrogen cannot bind to the oestrogen receptors as they have been occupied by 	clomiphene.												1m
+	Oestrogen cannot inhibit the secretion of FSH from the pituitary gland.		1m
+	Thus, more FSH is secreted to stimulate the development of follicles in the 		ovaries. 													1m
+c	To ensure that the ova have been fertilized. /
+	To ensure that the early embryos obtained are viable. /
+	To allow the growth of the zygotes into early embryos which are more suitable for 	implantation. (or other reasonable answers)						1m
+d	Women using donor ova had a higher percentage of having live births than women 	of the same ages using their own ova.								1m
+	As age increased, the percentage of having live births in women using donor ova 	fell more slowly than that in women using their own ova.				1m
+e	There are more chromosomal abnormalities in the ova as age increases. Thus the 	percentage of having live births becomes lower. (or other reasonable answers)																1m	
+---------------------------------------------------
+
+[10282583]
+// Graph interpretation //
+(*		The graph below shows the changes in the levels of four hormones in the blood of a woman during a menstrual cycle.
+
+	
+
+a	Describe the condition of the uterine lining of the woman from day 0 to 5. Explain in terms of the levels of hormones in blood.			(2 marks)
+b	Explain why the levels of hormones A and B increase sharply around day  14.													(2 marks)
+c	Which hormone (A or B) causes a rise in the levels of oestrogen and progesterone in blood around day 23? State the effect of a high level of this hormone.												(2 marks)
+d	Describe the condition of the uterine lining from day 21 to 28. Explain in terms of the levels of hormones in blood.					(2 marks)
+
+
+
+-- answer --
+a	The uterine lining is breaking down from day 0 to 5.					1m
+	The low levels of oestrogen and progesterone are not sufficient to maintain the 	thickness of the uterine lining.									1m
+b	A sudden release of hormones A and B by the pituitary gland is triggered by a high 	level of oestrogen 											1m
+	on day 13 / just before ovulation.									1m
+c	Hormone A (luteinising hormone / LH)								1m
+	A high level of this hormone stimulates the ruptured follicle to develop into a yellow 	body.														1m
+d	The uterine lining remains thick.									1m
+	The high levels of progesterone and oestrogen maintain the thickness of the 	uterine lining.												1m	
+---------------------------------------------------
+
+[10282598]
+// Drawing // Graph interpretation // Applying concepts //
+(*	There are four hormones involved in the menstrual cycle. The graph below shows the levels of these hormones in the blood of a woman in a menstrual cycle.
+	
+a	Name hormones W and X.								(2 marks)
+b	Give one evidence from the graph to support that ovulation occurs on 
+day 14 in this menstrual cycle.							(1 mark)
+c	Describe the roles of different hormones in the control of the menstrual cycle and their interaction between days 0 and 14.				(5 marks)
+d	Draw a line on the graph above to show the level of Z from days 25 to 28 if fertilization occurs on day 14.								(1 mark)
+
+e	i	Z is present in some contraceptive pills. Explain how Z is used as a contraceptive.										(2 marks)
+ii	Apart from Z, which of the hormones shown in the graph may be present in contraceptive pills?							(1 mark)
+
+-- answer --
+a	W: follicle stimulating hormone (FSH)							1m
+X: luteinising hormone (LH)								1m
+b	X reaches a peak on day 14.								1m
+c	FSH stimulates the development of follicles. /
+The follicles are stimulated by FSH to secrete oestrogen. /
+The increasing but still low level of oestrogen causes the uterine lining to thicken to prepare for a possible implantation of an embryo. /
+The increasing but still low level of oestrogen inhibits further secretion of FSH to prevent another follicle from maturation. /
+A high level of oestrogen just before day 14 causes a sudden release of FSH and LH. /
+The high level of LH triggers ovulation. (any 5) 					1m x 5
+d	
+
+															1m
+e	i 	Z (progesterone) inhibits FSH and LH secretion by the pituitary gland.															1m
+Follicle development and ovulation stop. Therefore, no ova are released into the oviducts for fertilization. 							1m
+ii	Y (oestrogen) 										1m	
+---------------------------------------------------
+
+
+[10282603]
+// Data handling // Applying concepts //
+(**The table below shows the concentrations of two hormones in the blood of a woman in a 28-day period.
+Day	Concentration of hormone (arbitrary unit)	
+	Oestrogen	Progesterone	
+0	18	2	
+2	18	4	
+4	10	8	
+6	10	15	
+8	10	15	
+10	10	8	
+12	10	2	
+14	4	2	
+16	3	2	
+18	5	2	
+20	8	2	
+22	18	2	
+24	18	4	
+26	10	8	
+28	10	15	
+The hormone levels change in cyclic manner.
+a	Using the data in the above table, estimate the length of the menstrual cycle of this woman. Explain how you arrived at your answer.		(2 marks)
+Events in the uterus also occur cyclically. 
+b	Describe the state of uterine lining from days 6 to 8. Explain in terms of the function of oestrogen and progesterone.						(3 marks)
+c	State how maintaining this cyclic pattern of events in the uterus facilitates the successful reproduction of humans.						(4 marks) 
+
+-- answer --
+a	22 days													1m
+The levels of oestrogen and progesterone return to the same levels as those on day 0 on day 22.											1m
+b	The uterine lining is thickened from days 6 to 8.						1m
+The levels of oestrogen and progesterone are high during this period.		1m
+High levels of these hormones maintain the thickness of the uterine lining.	1m
+c	Uterine lining thickens after ovulation.								1m
+This is to prepare for a possible implantation of an embryo.				1m
+Uterine lining breaks down if the ovum is not fertilized.					1m
+This saves energy and resources required to maintain the thickness of uterine lining.													1m	
+---------------------------------------------------
+
+[10282605]
+// Reading comprehension // STSE connections // Applying concepts //
+(*	Read the following article and answer the questions.
+	Scientists are developing a new type of contraceptive called the contraceptive gel. This gel contains hormones which are similar to those present in contraceptive pills. Rubbing a small amount of the gel on the skin of the abdomen, thighs, arms or shoulders once a day can effectively suppress the production of mature ova. It is claimed that the gel causes fewer side effects than the contraceptive pills.	
+a	Suggest two hormones that may be present in the contraceptive gel.																(2 marks)
+b	Explain how the contraceptive gel helps prevent pregnancy.		(4 marks)
+c	Apart from causing side effects, state two other possible problems that may result from the use of hormones as contraceptives.			(2 marks)
+
+
+-- answer --
+a	Synthetic oestrogen										1m
+Synthetic progesterone									1m
+b	Oestrogen and progesterone in the gel pass through the skin and enter the bloodstream.											1m
+High levels of oestrogen and progesterone in blood inhibit the secretion of follicle stimulating hormone (FSH) and luteinising hormone (LH) by the pituitary gland.															1m
+Follicle development and ovulation stop.						1m
+Therefore, no ova are released into the oviducts for fertilization.		1m
+c	Hormonal methods cannot provide protection against sexually transmitted diseases (compared with the use of condoms). 					1m
+Hormones may cause pollution of the environment. 				1m
+(or other reasonable answers)	
+--------------------------------------------------- 
+
+[10282613]
+// Drawing // Graph interpretation // Applying concepts //
+(*	The diagram below shows the levels of two hormones, follicle stimulating hormone (FSH) and luteinising hormone (LH), in the blood of a woman in a menstrual cycle. The graph for LH is not complete.
+
+	
+
+a	If ovulation occurs around day 14, complete the graph to show the level of LH between days 10 and 16.								(2 marks)
+b	i	Name the structure developed in the ovary after ovulation.	(1 mark)
+ii	Hence, explain why the level of FSH is low between days 16 and 28.														(2 marks)
+c	After menopause, the amounts of hormones secreted by the ovaries are reduced. Explain why the level of FSH in blood is high after menopause.															(3 marks) 
+
+-- answer --
+a	The level of LH increases and reaches a peak around day 14.			1m
+The level of LH drops after day 14.								1m
+b	i	Yellow body											1m
+ii	The yellow body secretes large amounts of oestrogen and progesterone.															1m
+The high levels of oestrogen and progesterone inhibit FSH secretion.	1m
+c	After menopause, the amounts of oestrogen and progesterone secreted by the ovaries are reduced.											1m
+The secretion of FSH is no longer inhibited by oestrogen and progesterone.	1m
+As a result, more FSH is secreted by the pituitary gland.				1m	
+---------------------------------------------------
+
+[10282615]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows the events that occur in the ovary during a menstrual cycle.
+
+	
+
+Different hormones are secreted by different structures in the ovary to control the menstrual cycle.
+a	Name the hormones secreted by X.							(2 marks)
+b	Follicle stimulating hormone (FSH) is a hormone secreted by the pituitary gland. The level of FSH is affected by the levels of hormones secreted by X.
+i	Describe the level of FSH in the body when the levels of hormones secreted by X are high.								(1 mark)
+ii	In terms of the function of FSH, explain how high levels of these hormones help maximize the chance of successful reproduction in humans.											(4 marks)
+c	Hormones secreted by X can be used as contraceptives. Explain the biological basis of this contraceptive method.				(3 marks)
+-- answer --
+a	Oestrogen and progesterone								1m x 2
+b	i	The level of FSH is low.								1m
+ii	FSH stimulates the development of follicles.				1m
+After ovulation, high levels of oestrogen and progesterone inhibit FSH secretion.											1m
+This prevents the maturation of another follicle and ensures only one ovum is released in each cycle.								1m
+This allows a higher survival chance of the foetus if fertilization occurs.															1m
+
+
+c	High levels of oestrogen and progesterone inhibit FSH and luteinising hormone (LH) secretion.											1m
+Follicle development and ovulation stop.						1m
+No ova are released into the oviducts for fertilization.				1m	
+---------------------------------------------------
+
+[10282629]
+// Graph interpretation // Communication // Applying concepts //
+(*	The graphs below show the levels of four hormones in the blood of a woman in a menstrual cycle. W and X are secreted by the pituitary gland, while Y and Z are secreted by the ovary.
+
+	
+	
+
+a	Identify W, X, Y and Z.									(4 marks)
+b	With reference to the levels of hormones from days 12 to 15, deduce the effect of Y on W and X.									(2 marks)
+c	With reference to the levels of hormones from days 20 to 25, deduce the effect of Y and Z on W and X. Hence explain why contraceptive pills contain Y and Z.										(4 marks)
+
+-- answer --
+a	W: luteinising hormone / LH									1m
+X: follicle stimulating hormone / FSH								1m
+Y: oestrogen												1m
+Z: progesterone												1m
+b	The levels of W and X reach a peak (day 14) just after the peak of Y (day 13).																1m
+Y may stimulate the secretion of W and X.							1m
+c	From days 20 to 25, the levels of W and X are low, while the levels of Y and Z are high.														1m
+High levels of Y and Z may inhibit the secretion of W and X.				1m
+X stimulates follicle development. / W triggers ovulation.				1m
+Follicle development does not occur at a low level of X. / Ovulation does not occur at a low level of W. Therefore, after taking contraceptive pills containing Y and Z, no ova are released for fertilization.								1m	
+---------------------------------------------------
+
+[10282630]
+// Applying concepts //
+(*	There are various causes of infertility. 
+a	Explain why infertility may result in each of the following situations.
+i	The level of follicle stimulating hormone (FSH) in blood is low.															(2 marks)
+ii	The level of luteinising hormone (LH) in blood is low.		(2 marks)
+b	The ova released by a woman can be fertilized successfully, but the resulting embryo cannot implant. Her doctor prescribed some pills for her. Suggest what kind(s) of hormone(s) may be present in the pills and explain how this/these hormone(s) can increase the chance of pregnancy.																	(3 marks)
+c	Problems in the male reproductive system can also lead to infertility. State two causes as examples.									(2 marks)
+-- answer --
+a	i	FSH stimulates the development of follicles in the ovary.		1m
+Follicle development does not occur at a low level of FSH. No ova are released for fertilization.								1m
+ii	A high level of LH triggers ovulation.						1m
+Ovulation does not occur at a low level of LH. No ova are released for fertilization.										1m
+b	Synthetic progesterone may be present in the pills.				1m
+The conditions in her uterus do not allow the implantation of an embryo.																1m
+Synthetic progesterone helps maintain the thickness of the uterine lining. This allows the implantation of an embryo.							1m
+c	Not enough sperms are produced. /  
+Sperms have low motility. / 
+Sperms have structural defects. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10282638]
+// Cross-topic // Graph interpretation // Communication // Applying concepts //
+(*	The graph below shows the levels of follicle stimulating hormone (FSH) and luteinising hormone (LH) in the blood of a woman within a month. The two hormones are involved in the control of the menstrual cycle.
+
+	
+
+a	Name the structure that secretes FSH and LH.				(1 mark)
+b	What are the effects of FSH and LH on the ovary? State two effects of each.														(4 marks)
+c	State the period during which there will be a high chance of pregnancy if sexual intercourse occurs. Explain your answer.				(4 marks)
+
+
+
+
+-- answer --
+a	Pituitary gland											1m
+b	FSH:
+FSH stimulates development of follicles in the ovary. 				1m
+FSH stimulates secretion of oestrogen by the follicle cells. 			1m
+LH:
+LH triggers ovulation. / 
+LH stimulates formation of yellow body. /
+LH stimulates secretion of oestrogen and progesterone by the yellow body.
+(any 2)												1m x 2
+c	From the graph, LH reaches a peak on the 5th of the month.		1m
+Ovulation occurs on this day.								1m
+Sperms can remain alive for 5 days in the female reproductive tract while an ovum can remain alive for 1 to undefined2 days after ovulation.					1m
+The period during which there will be a high chance of pregnancy is the last day of the previous month to the 7th of this month.						1m	
+---------------------------------------------------

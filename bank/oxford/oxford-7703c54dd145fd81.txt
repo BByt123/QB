@@ -1,0 +1,2515 @@
+( Chapter 21		Respiration
+
+
+Multiple-choice questions
+
+[10253622]
+// Photomicrograph // Applying concepts //
+(*	The electron micrograph below shows a mitochondrion in an animal cell.
+
+	
+
+Which of the following combinations correctly matches the biochemical reaction in aerobic respiration with the labelled structure where the reaction occurs?
+
+	Biochemical reaction in aerobic respiration	Structure	
+A	oxidation of triose phosphate to pyruvate	P	
+B	conversion of pyruvate to acetyl-CoA	Q	
+C	production of ATP by oxidative phosphorylation	Q	
+D	breakdown of glucose to triose phosphate 	R	
+
+B	
+---------------------------------------------------
+
+
+[10253628]
+// Data handling // Experiment // Schematic diagram //
+(*	The diagram below shows a set-up used to study the respiration of mealworms.
+
+	
+
+	After 30 minutes, the red ink in the capillary tube moved 20 mm towards the boiling tube. Which of the following is a correct interpretation of this result?
+A	The amount of carbon dioxide released by the mealworms is 20 mm3.
+B	The amount of oxygen taken in by the mealworms is 20 mm3.
+C	The amount of carbon dioxide released by the mealworms is 20 mm3 more than the amount of oxygen taken in by the mealworms.
+D	The amount of oxygen taken in by the mealworms is 20 mm3 more than the amount of carbon dioxide released by the mealworms.
+
+B	
+---------------------------------------------------
+
+[10253632]
+// Cross-topic // Comparison //
+(*	Which of the following statements about aerobic respiration and photosynthesis are correct?
+(1)	Aerobic respiration occurs in mitochondrion-containing cells while photosynthesis occurs in chloroplast-containing cells.
+(2)	Aerobic respiration involves breakdown of food by oxidation while photosynthesis involves building up of food by reduction.
+(3)	Both aerobic respiration and photosynthesis involve electron transport.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+
+D	
+---------------------------------------------------
+
+[10253646]
+// Cross-topic // Graph interpretation // Comparison //
+(*	The graphs below show the uptake of calcium ions and magnesium ions by some algae under aerobic and anaerobic conditions.
+	
+	
+
+	Which of the following conclusions can be drawn from the above graphs?
+A	The uptake of calcium ions is less than that of magnesium ions under aerobic condition at 90 minutes.
+B	The uptake of calcium ions is more than that of magnesium ions under aerobic condition at 90 minutes.
+C	The algae take in calcium ions and magnesium ions by active transport.
+D	Aerobic respiration supplies more energy for the uptake of mineral ions compared with anaerobic respiration.
+
+A	
+---------------------------------------------------[10253653]
+// High order thinking // Experiment // Calculation // Schematic diagram //
+**A scientist investigated respiration in germinating seeds. The diagram below shows the set-ups.
+	
+The scientist measured the changes in the ink levels in the graduated glass tubes and calculated the change in the volume of gas in each test tube. The table below shows the results obtained.
+	Set-up X	Set-up Y	
+Change in volume of gas (cm3)	-p	-q	
+
+Which of the following represents the volume of carbon dioxide produced by the seeds?
+A	p
+B	q
+C	p - q
+D	p + q
+C
+Note:
+The change in the volume of gas in set-up X equals the volume of oxygen absorbed by the seeds. The change in the volume of gas in set-up Y equals the difference between the volume of oxygen absorbed and the volume of carbon dioxide produced.
+
+	
+---------------------------------------------------
+
+[10253677]
+// Cross-topic // Applying concepts //
+(*	Which of the following activities in the human body require(s) ATP?
+(1)	contraction of the muscle fibres in the skeletal muscles
+(2)	removal of carbon dioxide in the blood into the air sacs of the lungs
+(3)	absorption of monosaccharides into the epithelial cells of the intestinal villi
+A	(1) only					B	(1) and (2) only
+C	(1) and (3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10253686]
+// Cross-topic // Photomicrograph // Applying concepts //
+(**The electron micrographs below show two sub-cellular structures in cells.
+
+	
+
+Which of the following statements about the two sub-cellular structures is/are correct?
+(1)	Electon carriers are located at P and X.
+(2)	ATP is synthesized at Q and Y.
+(3)	Enzymes are found at R and Z.
+A	(2) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10253712]
+// Cross-topic // Basic concepts //
+(	Which of the following activities in the human body require(s) ATP?
+	(1)	cell division of skin cells
+	(2)	synthesis of insulin in liver cells 
+	(3)	absorption of fatty acids into the epithelial cells of the intestinal villi
+A	(2) only
+B	(1) and (2) only
+	C	(1) and (3) only
+	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10253713]
+// Photomicrograph //
+(*	The electron micrograph below shows an organelle in a cell.
+	
+Which processes in respiration occur at sites X and Y of this organelle?
+	Site X							Site Y
+A	regeneration of coenzyme A			activation of glucose
+B	regeneration of coenzyme A			production of carbon dioxide
+C	production of carbon dioxide			regeneration of coenzyme A
+D	production of carbon dioxide			oxidation of NADH and FADH
+D	
+---------------------------------------------------
+
+[10253716]
+// Basic concepts //
+(	Which of the following substances is/are produced in glycolysis?
+(1)	NADH
+(2)	FADH
+(3)	water
+A	(1) only
+B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10253722]
+// Experiment // Schematic diagram //
+(*	Directions: The following two questions refer to the diagram below, which shows a set-up used to demonstrate the release of carbon dioxide in respiration. 
+	
+	The set-up fails to work. Which of the glass tubes should be inserted into the solution in the flasks?
+A	(1), (3) and (5) only
+B	(2), (4) and (6) only
+C	(1), (2), (3) and (5) only
+D	(1), (3), (4), (5) and (6) only
+A	
+---------------------------------------------------
+
+[10253734]
+// Experiment // Schematic diagram //
+(*	After the correction, air is drawn through the set-up for half an hour. What will happen if two grasshoppers, rather than one grasshopper, are used in flask Y?
+A	Solution in flask W will turn milky more rapidly.
+B	Solution in flask X will turn milky more rapidly.
+	C	Solution in flask Z will turn milky more rapidly.
+	D	Solution in flasks X and Z will turn milky more rapidly.
+C	
+---------------------------------------------------
+
+[10253737]
+// Experiment // Applying concepts //
+(*	The diagram below shows a set-up used to study the respiration of germinating seeds.
+
+	
+
+The movement of the liquid level in the capillary tube can be used to measure
+A	the volume of carbon dioxide produced by the seeds.
+B	the volume of carbon dioxide absorbed by the potassium hydroxide solution.
+C	the volume of oxygen used by the seeds.
+D	the change in the temperature during respiration of the seeds.
+C	
+---------------------------------------------------
+
+[10253753]
+// Basic concepts //
+(	Which of the following is the major use of acetyl-CoA in respiration?
+A	It catalyses the breakdown of glucose into triose phosphate.
+B	It acts as the final electron acceptor.
+C	It transfers coenzyme A to a 4-C compound.
+D	It transfers an acetyl group to a 4-C compound.
+D	
+---------------------------------------------------
+
+
+[10253758]
+// Applying concepts //
+(	Mature red blood cells have no nucleus and mitochondria. ATP in mature red blood cells is most probably synthesized through
+A	the Krebs cycle.
+B	glycolysis.
+	C	oxidative phosphorylation.
+	D	the conversion of pyruvate to acetyl-CoA.
+B	
+---------------------------------------------------
+
+[10253762]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows a set-up used to study the respiration of yeast.
+	
+Which of the following correctly describes and explains the change in the liquid level in the pipette after one hour?
+	Change in liquid level			Reason
+A	rises						carbon dioxide is produced
+B	rises						ethanol is produced
+C	drops						carbon dioxide is produced
+D	drops						ethanol is produced
+C	
+---------------------------------------------------
+
+
+[10253782]
+// Basic concepts //
+(	The photograph below shows some baking yeast used in bread-making. Which type of respiration occurs in the yeast and which product from respiration is useful in bread-making?
+	
+	Type of respiration				Useful product
+A	aerobic						water
+B	anaerobic					carbon dioxide 
+C	anaerobic					lactic acid
+D	anaerobic					ethanol
+B	
+---------------------------------------------------
+
+[10253794]
+// Basic concepts //
+(	Which of the following statements about respiration is/are correct?
+	(1)	Chemical energy is converted to heat energy during respiration.
+(2)	Respiration is a process by which green plants obtain energy for metabolic activities.
+	(3)	The reactions in respiration cannot proceed without oxygen.
+	A	(1) only
+	B	(2) only
+	C	(1) and (2) only
+	D	(2) and (3) only
+C	
+---------------------------------------------------
+
+
+[10253796]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the cross section of a mitochondrion.
+	
+
+In which parts of the mitochondrion are NADH, carbon dioxide and water produced during aerobic respiration?
+		NADH	Carbon dioxide	Water
+A	  P			  Q			  S
+B	  S			  R			  Q
+C	  R			  R			  Q
+D	  S			  S			  R
+C	
+---------------------------------------------------
+
+
+[10253798]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the set-up below, which is used to study aerobic respiration in a living mouse. The liquid levels in the left and right arms of the U-shaped capillary tube are the same at the beginning. After 15 minutes, the liquid level in the left arm rises while that in the right arm falls.
+	
+	What causes the changes in the liquid levels in the U-shaped capillary tube?
+A	uptake of oxygen by the mouse
+B	release of carbon dioxide by the mouse
+C	heat produced by the mouse
+D	water vapour produced by the mouse
+C	
+---------------------------------------------------
+
+[10253803]
+// Experiment // Schematic diagram // Applying concepts //
+(*	At the end of the experiment, a sample of air is collected from chamber B and tested for carbon dioxide. Which of the following combinations correctly lists the chemical used for the test and the result?
+		Chemical used				Result
+	A	hydrogencarbonate indicator		changes from purple to red
+	B	hydrogencarbonate indicator		changes from red to yellow
+	C	lime water					turns milky
+	D	lime water					remains colourless
+D	
+---------------------------------------------------
+[10253806]
+// Basic concepts //
+(	Which of the following statements about aerobic respiration and anaerobic respiration are correct?
+	(1)	Both of them involve oxidative breakdown of organic substances.
+	(2)	Both of them involve reactions that take place in the cytoplasm of a cell.
+	(3)	Both of them produce ATP.
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10253825]
+// Basic concepts //
+(	Which of the following statements about alcoholic fermentation and lactic acid fermentation is incorrect?
+A	Carbon dioxide is produced in alcoholic fermentation but not in lactic acid fermentation.
+	B	ATP is formed in both processes.
+	C	Living cells are not required in both processes.
+	D	There is no net formation of NADH in both processes.
+C	
+---------------------------------------------------
+
+[10253858]
+// Applying concepts //
+(	An athlete runs in a 200-m splint. Which of the following substances is/are produced when glucose in the athlete's leg muscles is broken down to release energy?
+	(1)	carbon dioxide
+	(2)	water
+	(3)	lactic acid
+	A	(3) only
+	B	(1) and (2) only
+	C	(1) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10253861]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows the exchange of some molecules between photosynthesis and respiration.
+
+	
+	What are processes I, II, III and IV?
+	I	II	III	IV	
+A	photochemical reactions	glycolysis	Krebs cycle	photophosphorylation	
+B	photochemical reactions	Calvin cycle	Krebs cycle	oxidative phosphorylation	
+C	photophosphorylation	Calvin cycle	oxidative phosphorylation	glycolysis	
+D	photophosphorylation	glycolysis	Calvin cycle	oxidative phosphorylation	
+
+B	
+---------------------------------------------------
+
+
+[10253886]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	Referring to the diagram, which of the following statements about the relationship between photosynthesis and respiration is incorrect? 
+	A	Carbon dioxide formed in respiration is used in photosynthesis.
+	B	ATP formed in respiration is used in photosynthesis.
+	C	Oxygen formed in photosynthesis is used in respiration.
+	D	Organic compounds formed in photosynthesis are used in respiration.
+B	
+---------------------------------------------------
+
+[10253887]
+// Basic concepts //
+(	The major difference between burning and aerobic respiration is that
+	A	burning releases more energy.
+	B	burning produces more carbon dioxide.
+	C	aerobic respiration is controlled by enzymes.
+	D	aerobic respiration occurs in red blood cells.
+C	
+---------------------------------------------------
+
+[10253896]
+// Basic concepts //
+(	Which of the following statements about aerobic respiration are correct?
+	(1)	Krebs cycle occurs in the matrix of mitochondrion.
+(2)	Oxidative phosphorylation occurs on the inner membrane of mitochondrion.
+	(3)	Water acts as a hydrogen donor in the final stage of aerobic respiration.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10253913]
+// Basic concepts //
+(	Which of the following statements about anaerobic respiration in muscles is/are correct?
+	(1)	Glucose is oxidized to pyruvate in glycolysis.
+(2)	In the absence of oxygen, pyruvate accepts hydrogen from FADH and is reduced to lactic acid.
+(3)	After vigorous exercise, extra oxygen is required to break down the lactic acid produced from anaerobic respiration.
+	A	(1) only					B	(2) only
+	C	(1) and (3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10253920]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Directions: The following three questions refer to the diagram below, which shows a set-up for studying respiration in yeast. The glucose solution was boiled and cooled down to room temperature before yeast was added to it. The set-up was left for 2 hours.
+	
+At the end of the experiment, the temperature of the mixture increased. Which of the following is/are the explanation(s)?
+(1)	The glucose solution had been boiled.
+(2)	The yeast carried out respiration and produced heat.
+(3)	The room temperature rose during the experiment.
+A	(1) only					B	(2) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10253926]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Which of the following measures in the set-up aim at providing an anaerobic environment for the yeast?
+(1)	Cover the mixture of glucose and yeast with a layer of paraffin oil.
+(2)	Plug the vacuum flask tightly with a stopper.
+(3)	Boil the glucose solution before adding yeast.
+A	(1) and (2) only			B	(1) and (3) only 
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10253939]
+// Experiment // Schematic diagram // Applying concepts //
+(*	What would be the colour of the hydrogencarbonate indicator at the end of the experiment? What is the cause of such colour change?
+	Colour of indicator	Reason for colour change	
+A	purple	the colour was intensified by a rise in temperature	
+B	purple	carbon dioxide was used up by the yeast	
+C	yellow	carbon dioxide was released by the yeast	
+D	yellow	lactic acid was produced by the yeast	
+
+C	
+---------------------------------------------------
+
+[10253948]
+// Basic concepts //
+(	Which of the following correctly shows the final electron acceptor in the final stage of aerobic respiration and the molecule produced after the final electron acceptor has accepted electrons?
+	Final electron acceptor	Molecule produced	
+A	carbon dioxide	oxygen	
+B	NAD	NADH	
+C	oxygen	water	
+D	ADP	ATP	
+
+C	
+---------------------------------------------------
+
+[10253949]
+// Cross-topic // Comparison // Schematic diagram //
+(*	Directions: The following two questions refer to the diagrams below, which show sections of two organelles isolated from plant cells.
+
+	
+
+Which of the following comparisons between organelles X and Y is incorrect?
+	Organelle X	Organelle Y	
+A	can be found in both animal cells and plant cells	cannot be found in animal cells	
+B	for releasing energy		for capturing energy	
+C	consumes oxygen	produces oxygen	
+D	functions all the time	functions only in the presence of light	
+
+D	
+---------------------------------------------------
+
+[10253952]
+// Cross-topic // Comparison // Schematic diagram //
+(*	Which of the following are the similarities of organelles X and Y?
+(1)	Both are bounded by a double membrane.
+(2)	Both contain enzymes that are necessary for their functions.
+(3)	Both have a large surface area to facilitate their functions.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10253976]
+// Graph interpretation // Applying concepts //
+(**The graph below shows the rate of oxygen uptake due to respiration of isolated barley embryos cultured in solutions containing 4% of glucose and different concentrations of phosphate.
+
+	
+
+Which of the following substances is most likely limiting the rate of respiration between points Q and R?
+A	phosphate
+B	oxygen
+C	ATP
+D	ADP
+D	
+---------------------------------------------------
+
+[10253983]
+// Applying concepts //
+(*	During a marathon, aerobic respiration predominates over anaerobic respiration because
+A	aerobic respiration releases energy more rapidly than anaerobic respiration.
+B	lipids are consumed during the first few minutes of exercise.
+C	aerobic respiration uses glucose more efficiently compared to anaerobic respiration.
+D	anaerobic respiration produces ethanol which is harmful to the body.
+C	
+---------------------------------------------------
+
+[10253994]
+// Basic concepts //
+(	Which of the following correctly shows the products of anaerobic respiration which are useful in different industrial processes?
+		Making bread	Making yoghurt	Brewing beer
+A	carbon dioxide 	ethanol			lactic acid 
+B	carbon dioxide		lactic acid		ethanol
+C	ethanol			lactic acid		carbon dioxide
+D	lactic acid		carbon dioxide		ethanol
+B	
+---------------------------------------------------
+
+[10254000]
+// Basic concepts //
+(	Which of the following is not a product of the Krebs cycle?
+A	NADPH
+B	FADH
+C	ATP
+D	carbon dioxide
+A	
+---------------------------------------------------
+
+[10254003]
+// Applying concepts //
+(*	Which of the following are the correct explanations for the difference in the amounts of ATP produced per molecule of glucose in aerobic respiration and anaerobic respiration?
+(1)	The Krebs cycle and oxidative phosphorylation cannot occur in anaerobic respiration because there is no oxygen to accept electrons.
+(2)	Part of the energy released by glucose is stored in NADH in anaerobic respiration. 
+(3)	Glucose is only partly broken down in anaerobic respiration.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10254023]
+// Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows some reactions in aerobic respiration.
+	
+
+In which of the above reactions does reduction of NAD occur?
+A	I and II only
+B	I and III only
+C	II and III only
+D	I, II and III
+B	
+---------------------------------------------------
+
+[10254037]
+// Schematic diagram // Applying concepts //
+(*	Which of the following correctly shows the numbers of carbon atoms in compounds X and Y?
+	X		Y
+A	6		4
+B	6		3
+C	5		3
+D	4		2
+A	
+---------------------------------------------------
+
+[10254043]
+// Graph interpretation // Schematic diagram // Basic concepts //
+(*	The graph below shows the rate of oxygen uptake of a person before, during and after exercise.
+	
+
+Which area in the graph represents oxygen debt?
+A	I
+B	II
+C	III
+D	IV 
+C	
+---------------------------------------------------
+
+[10254054]
+// Comparison //
+(*	Which of the following comparisons between photosynthesis and respiration is incorrect?
+	Photosynthesis	Respiration	
+A	occurs in chloroplasts only	occurs in mitochondria and cytoplasm	
+B	light energy is captured and converted to chemical energy stored in food in the process	chemical energy in food is converted to ATP and heat in the process	
+C	an anabolic process	a catabolic process	
+D	all ATP is formed by photophosphorylation	all ATP is formed by oxidative phosphorylation	
+
+D	
+--------------------------------------------------- 
+
+[10254062]
+// Applying concepts //
+(*	Which of the following indicate(s) the occurrence of aerobic respiration?
+(1)	an increase in temperature
+(2)	a colour change of hydrogencarbonate indicator
+(3)	an increase in the mass of an organism 
+A	(1) only 
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only 
+C	
+---------------------------------------------------
+
+[10254068]
+// Graph interpretation // Experiment // Applying concepts //
+(*	Directions: The following two questions refer to the diagram below, which shows two set-ups, X and Y, used to demonstrate respiration.
+
+	
+
+Why are the vacuum flasks inverted?
+A	To prevent leakage of rising hot air.
+B	To accommodate more seeds.
+C	To allow more space for air.
+D	To fit the thermometer.
+A	
+---------------------------------------------------
+[10254069]
+// Graph interpretation // Experiment // Applying concepts //
+(*	Which of the following curves correctly shows the results of the experiment?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10254070]
+// Basic concepts //
+(	Where in the cell does glycolysis occur?
+A	in the mitochondrial matrix
+B	on the inner membrane of mitochondrion
+C	in the cytoplasm 
+D	on the thylakoid membrane 
+C	
+---------------------------------------------------
+
+[10254078]
+// Basic concepts //
+(*	Which of the following statements about oxidative phosphorylation of respiration is incorrect?
+A	It occurs in the inner membrane of the mitochondrion.
+B	NADH and FADH lose hydrogen.
+C	Energy released in redox reactions is used to form ATP.
+D	Water acts as the final electron acceptor.
+D	
+---------------------------------------------------
+[10254080]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows a conical flask containing a mixture of glucose and yeast. The mixture had been boiled and cooled down to room temperature. A layer of paraffin oil was then added onto the mixture. The conical flask was kept at 37 °C for 2 hours.
+	
+Which of the following was formed during the experiment?
+A	carbon dioxide				B	lactic acid
+C	ethanol					D	none of the above
+D	
+---------------------------------------------------
+
+[10254082]
+// Basic concepts //
+(	An organism produces a gas when it carries out anaerobic respiration. This gas turns lime water milky. Which of the following is most probably the organism?
+A	yeast					B	a dog
+C	a flowering plant			D	a human 
+A	
+---------------------------------------------------
+
+[10254130]
+// Basic concepts //
+(	Which of the following sub-cellular structures is the main site for respiration?
+A	mitochondrion				B	chloroplast
+C	cell membrane				D	nucleus
+A	
+---------------------------------------------------
+
+[10254136]
+// Graph interpretation // Applying concepts //
+(*	Which of the following graphs shows the change in the lactic acid concentration in our muscles during and after strenuous exercise? 
+A		B		
+C		D		
+
+B	
+--------------------------------------------------- 
+
+[10254147]
+// Basic concepts //
+(	ATP can be readily broken down to release energy. Which of the following are the uses of energy carried by ATP in humans?
+(1)	active transport
+(2)	cell division
+(3)	muscle contraction
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10254148]
+// Basic concepts //
+(	The photographs below show three products. 
+
+			
+X	Y	Z	
+
+Alcoholic fermentation is involved in the production of 
+A	X only.
+B	Y only.
+C	Y and Z only.
+D	X, Y and Z.
+C	
+---------------------------------------------------
+
+[10254169]
+// Cross-topic // Basic concepts //
+(*	Which of the following processes require(s) energy from the breakdown of ATP?
+(1)	breakdown of glucose to triose phosphate in glycolysis
+(2)	regeneration of the 4-C compound in the Krebs cycle
+(3)	regeneration of the 5-C compound in the Calvin cycle
+A	(1) only 
+B	(1) and (2) only
+C	(1) and (3) only 
+D	(2) and (3) only 
+C	
+---------------------------------------------------
+
+
+[10254184]
+// Applying concepts //
+(*	The photographs below show two sports. 
+
+		
+weightlifting	running a marathon	
+
+Which type of respiration supplies most of the energy for these two sports respectively?
+		Weightlifting 		Running a marathon
+A	aerobic respiration		aerobic respiration
+B	aerobic respiration		anaerobic respiration 
+C	anaerobic respiration	aerobic respiration 
+D	anaerobic respiration	anaerobic respiration 
+C	
+--------------------------------------------------- 
+
+[10254190]
+// Basic concepts //
+(*	Which of the following is/are the equation(s) for respiration in yeast?
+(1)	glucose + oxygen → water + carbon dioxide + energy
+(2)	glucose → ethanol + carbon dioxide + energy
+(3)	glucose → lactic acid + energy
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10254196]
+// Basic concepts //
+(	After running, the runner keeps breathing fast and deeply for a period of time to take in extra oxygen 
+A	to break down more glucose.
+B	to exchange for carbon dioxide.
+C	for reserve.
+D	to pay the oxygen debt.
+D	
+---------------------------------------------------
+
+[10254198]
+// Basic concepts //
+(	When doing strenuous exercise, an insufficient supply of oxygen will lead to the formation of 
+A	sucrose.				B	glucose.
+C	lactic acid.			D	ethanol.
+C	
+---------------------------------------------------
+
+[10254199]
+// Basic concepts //
+(	Skeletal muscle cells contain a lot of mitochondria because they
+A	use a lot of enzymes.
+B	produce a lot of enzymes.
+C	needs a large amount of ATP.
+D	use only small amount of ATP.
+C	
+---------------------------------------------------
+
+[10254201]
+// Applying concepts //
+(*	Which of the following molecules contains the largest amount of chemical energy?
+A	ATP					B	ethanol
+C	lactic acid			D	glucose
+D	
+---------------------------------------------------
+
+[10254203]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Directions: The following two questions refer to the set-ups below. Three identical vacuum flasks with equal mass of seeds were used to investigate whether germinating seeds produce heat. The set-ups were left for 1 day.
+
+	
+
+Which set-up shows the highest temperature at the end of the experiment?
+A	X
+B	Y
+C	Z
+D	cannot be determined
+A	
+---------------------------------------------------
+
+[10254211]
+// Experiment // Schematic diagram // Applying concepts //
+(*	At the end of the experiment, the seeds in each vacuum flask were weighed. In which set-up were the seeds heaviest?
+A	X
+B	Y
+C	Z
+D	cannot be determined
+C	
+---------------------------------------------------
+
+[10254239]
+// Basic concepts //
+(	Which of the following substances is/are produced when our skeletal muscle cells respire anaerobically?
+(1)	lactic acid
+(2)	ethanol
+(3)	carbon dioxide
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10254262]
+// Experiment // Schematic diagram // Applying concepts //
+(*	Directions: The following three questions refer to the set-up below, which was used to study anaerobic respiration in yeast. The glucose solution was boiled and cooled down to room temperature before yeast was added to it.
+	
+
+What would happen to the lime water several hours later?
+A	The lime water would remain clear.
+B	The lime water would turn yellow.
+C	The lime water would turn purple.
+D	The lime water would turn milky.
+D	
+---------------------------------------------------
+
+[10254283]
+// Experiment // Schematic diagram // Applying concepts //
+(*	What is the purpose of adding a layer of paraffin oil onto the mixture of glucose and yeast?
+A	To trap any gas produced in the solution.
+B	To prevent oxygen in the air from dissolving into the solution.
+C	To mix with the aqueous solution for forming an emulsion.
+D	To prevent heat loss from the solution.
+B	
+---------------------------------------------------
+
+[10254293]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The reactions in the flask stopped a few days later because
+(1)	the yeast was killed by the ethanol produced.
+(2)	the yeast was killed by the lactic acid produced.
+(3)	glucose was used up.
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10254295]
+// Basic concepts //
+(	Respiration involves
+(1)	the breakdown of food.
+(2)	the release of energy.
+(3)	the release of oxygen.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10254297]
+// Basic concepts //
+(	Which of the following statements about respiration is correct?
+A	Carbon dioxide is always produced in the process of anaerobic respiration.
+B	Glucose is completely broken down in anaerobic respiration.
+C	Respiration is an oxidative process.
+D	Respiration takes place in the nuclei of the cells.
+C	
+--------------------------------------------------- 
+
+[10254306]
+// Comparison //
+(*	Which of the following comparisons between aerobic respiration and anaerobic respiration in yeast is incorrect?
+	Aerobic respiration	Anaerobic respiration	
+A	occurs in mitochondria and cytoplasm	occurs in cytoplasm only	
+B	pyruvate is oxidized in the process	pyruvate is reduced in the process	
+C	carbon dioxide is released	no carbon dioxide is released	
+D	more ATP is produced	less ATP is produced	
+
+C	
+---------------------------------------------------
+
+[10254314]
+// Basic concepts //
+(	Which of the following statements about anaerobic respiration is/are correct?
+(1)	Anaerobic respiration does not require oxygen.
+(2)	Anaerobic respiration takes place in mitochondria.
+(3)	Glucose is completely broken down into carbon dioxide and water in the process.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10254317]
+// Scientific investigation // Experiment // Schematic diagram //
+(	Directions: The following two questions refer to the set-up below, which is used to study carbon dioxide production in germinating seeds during respiration.
+	
+A control set-up of this experiment should be the same as the above set-up except 
+A	removing the seeds.
+B	using boiled seeds instead of living seeds.
+C	using non-sterilized seeds instead of sterilized seeds.
+D	using distilled water instead of lime water.
+B	
+---------------------------------------------------
+
+[10254336]
+// Scientific investigation // Experiment // Schematic diagram //
+(	In this experiment, lime water can be replaced by
+A	hydrogencarbonate indicator.
+B	potassium hydroxide solution.
+C	iodine solution.
+D	distilled water.
+A	
+---------------------------------------------------
+
+[10254353]
+// Applying concepts //
+(	Which of the following cells do not carry out respiration?
+A	human liver cells 
+B	human sperms
+C	yeast cells
+D	plant xylem cells
+D	
+---------------------------------------------------
+
+[10254371]
+// Experiment // Schematic diagram //
+(*	Directions: The following two questions refer to the set-ups below, which were used to study heat production in germinating seeds. The set-ups were left for  1 day.
+	
+
+Why were the vacuum flasks placed in an inverted position?
+A	To prevent leakage of the gas produced.
+B	To prevent light from reaching the seeds.
+C	To prevent heat loss.
+D	To prevent microorganisms from entering the flasks.
+C	
+---------------------------------------------------
+
+[10254373]
+// Experiment // Schematic diagram //
+(*	Which of the following statements about the experiment is incorrect?
+A	The temperature in Y remained unchanged throughout the experiment.
+B	The surface of the seeds was sterilized to eliminate the effect of respiration by the microorganisms.
+C	At the end of the experiment, the seeds in X were heavier than the seeds in Y.
+D	At the end of the experiment, the temperature in X was higher than that in Y.
+C	
+---------------------------------------------------
+
+[10254385]
+// Basic concepts //
+(	Which of the following is/are the importance of anaerobic respiration during exercise?
+(1)	It allows muscles to contract at a higher rate.
+(2)	It produces lactic acid.
+(3)	It provides additional energy.
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10254389]
+// Basic concepts //
+(	Directions: The following two questions refer to the photographs below, which show two kinds of foods and a drink.
+
+			
+X	Y	Z	
+
+The production process(es) of which of the foods and drinks make(s) use of alcoholic fermentation in yeast?
+A	X only
+B	Z only
+C	X and Y only
+D	X, Y and Z
+C	
+---------------------------------------------------
+
+[10254396]
+// Basic concepts //
+(	The spongy texture of Y is due to the production of 
+A	ethanol.
+B	oxygen.
+C	carbon dioxide.
+D	lactic acid.
+C	
+---------------------------------------------------
+
+[10254411]
+// Basic concepts //
+(	In which of the following processes is ethanol produced?
+(1)	anaerobic respiration in yeast
+(2)	aerobic respiration in skeletal muscle cells
+(3)	anaerobic respiration in skeletal muscle cells
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10254431]
+// Basic concepts //
+(	Organisms do not release energy from food by burning because
+A	burning cannot release energy.
+B	burning is too slow.
+C	burning releases a large amount of energy as heat in one single step which will kill the cells.
+D	there are too many reactions in the process of burning that consume energy.
+C	
+---------------------------------------------------
+
+
+[10254458]
+// Basic concepts //
+(	Oxygen debt is
+A	the additional amount of oxygen required to remove all the lactic acid after exercise.
+B	the additional amount of oxygen required to remove all the fatty acids after exercise.
+C	the amount of oxygen breathed in during exercise.
+D	the amount of oxygen breathed in after exercise.
+A	
+---------------------------------------------------
+
+
+
+
+Short questions
+
+[10254533]
+// Cross-topic // Photomicrograph // Calculation // Applying concepts //
+(*	A scientist carried out an investigation to study the effect of physical training on the size of mitochondria in muscle cells. A volunteer got training for 20 weeks. The electron micrographs below show a mitochondrion in a muscle cell of the volunteer before and after training.
+	
+a	Calculate and compare the actual width (X and X') of the mitochondria before and after training. Show your working.				(3 marks)
+b	An increase in the width of a mitochondrion increases the surface area of the inner membrane of the mitochondrion. Explain how this affects the production of ATP in the muscle cells.						(3 marks)
+c	Besides the size of mitochondria, suggest another effect of physical training on mitochondria in muscle cells.							(1 mark)
+
+-- answer --
+a	Width of the mitochondrion before training (X) = 1.5 x 2 (m = 3 (m		1m
+	Width of the mitochondrion after training (X') = 2 x 2 (m = 4 (m			1m
+	The width of the mitochondrion after training is larger than that before training.															1m
+b	The increased surface area of the inner membrane allows the mitochondrion to be packed with more enzymes involved in the reactions of respiration.		1m
+	More ATP is formed by oxidative phosphorylation					1m
+	through the oxidation of NADH and FADH and the electron transport chain.	1m
+c	The number of mitochondria in muscle cells may increase.				1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10254570]
+// Overseas exam question // Cross-topic // Comparison //
+(*	In recent years, the organizers of the Campaign for Real Ale (CAMRA) have reported a large increase in the number of 'microbreweries'. These are small scale beer producers who concentrate on the taste and quality of the beer they produce.
+	Beer-making requires yeast cells to respire the sugars found in an extract made from germinated barley grains.
+a	Yeast cells carry out both aerobic and anaerobic respiration.
+i	Identify one product of both aerobic and anaerobic respiration in yeast cells that is essential in beer production.				(1 mark)
+ii	Identify one product of anaerobic respiration in yeast cells that is not produced in aerobic respiration.						(1 mark)
+b	Both aerobic and anaerobic respiratory pathways begin in the cytoplasm.
+	In the cytoplasm, hexose sugars are broken down in a series of steps to form a three-carbon compound. This compound is then metabolized further to allow cells to make some ATP.
+i	Outline how ATP is made in the cytoplasm of yeast and human cells from the metabolism of a three-carbon compound. 
+	In your answer, you should use appropriate technical terms, spelled correctly.											(3 marks)
+ii	State one anabolic process that occurs in the nucleus of both human and yeast cells for which ATP is required.				(1 mark)
+OCR GCE (A) Human Biology Energy, Reproduction and Populations
+Jun 2015 Q6
+
+
+
+-- answer --
+a	i	Carbon dioxide											1m
+	ii	Ethanol												1m
+b	i	Triose phosphate										1m
+	is oxidized to pyruvate / is dehydrogenated to produce pyruvate / is converted to pyruvate.									1m
+	ATP is produced by phosphorylation.							1m
+ii	DNA replication / RNA synthesis / Transcription					1m	
+---------------------------------------------------
+
+[10254578]
+// Overseas exam question // Experiment // Basic concepts //
+(	The diagram shows an investigation using woodlice.
+	
+a	What is the purpose of flask B?							(1 mark)
+b	What change would you expect in the lime water in flask D at the end of the investigation?											(1 mark)
+c	Name the process being investigated.						(1 mark)
+d	What substance is broken down by the woodlice during this process?															(1 mark)
+e	Name one way the woodlice use the energy released by this process.															(1 mark)
+CCEA GCSE Science: Double Award A Higher Tier Paper 1 May 2008 Q8
+
+
+
+-- answer --
+a	To show that carbon dioxide has been removed from the air entering flask C.															1m
+b	It turns cloudy / milky.											1m
+c	Respiration												1m
+d	Glucose / sugar												1m
+e	The energy is used to make new cells / for growth / movement / reproduction.															1m	
+---------------------------------------------------
+
+
+[10254583]
+// Cross-topic // Reading comprehension // Applying concepts //
+(**Read the following paragraph and answer the questions.
+Chronic fatigue syndrome is a disorder that patients always feel tired. One of the causes may be that pyruvate formed in glycolysis cannot be transported into the mitochondria effectively. In serious cases, patients may suffer from loss of memory due to the reduced amount of blood pumped by the heart.	
+
+a	Name the site where glycolysis occurs.						(1 mark)
+b	Suggest why patients with chronic fatigue syndrome always feel tired.
+													(2 marks)
+c	Based on your biological knowledge, suggest how the reduced amount of blood pumped by the heart may cause loss of memory in patients with chronic fatigue syndrome.								(2 marks)
+
+-- answer --
+a	Cytoplasm													1m
+b	As pyruvate formed in glycolysis cannot be transported into the mitochondria effectively, the Krebs cycle and oxidative phosphorylation cannot take place in the cells.														1m
+Less energy is released in the cells. Thus, patients with chronic fatigue syndrome always feel tired.											1m
+c	As less blood is pumped out of the heart, the amount of blood reaching the brain is reduced.													1m
+Neurones in the association areas of the cerebrum may be damaged due to the insufficient oxygen and nutrient supplies. Thus, patients with chronic fatigue syndrome may suffer from loss of memory.							1m	
+---------------------------------------------------
+
+
+[10254585]
+// Graph interpretation // Experiment // Schematic diagram //
+(*	It is known that substance X is an inhibitor of oxidative phosphorylation. The diagram below shows a set-up used to study the effect of X on the respiration of yeast.
+
+	
+
+	The mixture was incubated for 30 minutes and the oxygen concentration in the mixture was measured at 5-minute intervals during this period. The experiment was repeated with X added to the mixture five minutes after the incubation began. The graph below shows the results.
+
+	
+
+a	State the precise location where oxidative phosphorylation occurs.
+													(1 mark)
+b	Suggest two reasons why the oxygen concentration in the mixture without X stopped decreasing after 25 minutes.						(2 marks)
+c	Compare the amounts of ATP produced in the mixtures with X and without X. Explain your answer.									(3 marks)
+
+
+-- answer --
+a	Inner membrane of mitochondria								1m
+b	The reactants (e.g. glucose, ADP and phosphate) were used up after 25 minutes. Aerobic respiration stopped, thus no oxygen was consumed.			1m
+The oxygen concentration in the mixture was too low so that the yeast switched to anaerobic respiration which did not require oxygen.					1m
+(or other reasonable answers)
+c	The amount of ATP produced in the mixture with X would be less than that in the mixture without X.											1m
+As X inhibited oxidative phosphorylation, NAD and FAD could not be regenerated. The Krebs cycle stopped.										1m
+The yeast switched to anaerobic respiration. Thus, less ATP would be produced.
+														1m	
+---------------------------------------------------
+
+[10254602]
+// Basic concepts //
+(	Put a '(' in the appropriate boxes to show which of the following events takes place in different stages of aerobic respiration.					(3 marks)
+	Glycolysis	Conversion of pyruvate to acetyl-CoA	Krebs cycle	Oxidative phosphorylation	
+Glucose is phosphorylated 					
+Hydrogen is accepted by NAD					
+NAD is regenerated	
+				
+
+
+-- answer --
+
+Glycolysis
+Conversion of pyruvate to acetyl-CoA
+Krebs cycle
+Oxidative phosphorylation
+
+Glucose is phosphorylated 
+(
+
+
+
+
+Hydrogen is accepted by NAD
+(
+(
+(
+
+
+NAD is regenerated
+
+
+
+(
+
+															1m × 3	
+---------------------------------------------------
+[10254628]
+// Communication // Applying concepts //
+(*	A student uses the following equation to represent the process of aerobic respiration.
+
+	Give five ways in which this equation is over-simplified.			(5 marks)
+
+-- answer --
+	Energy is consumed in aerobic respiration. /
+Energy is released in aerobic respiration. /
+Aerobic respiration involves a series of reactions. /
+Aerobic respiration involves enzymes. /
+Aerobic respiration requires a coenzyme, NAD and FAD. /
+Glucose does not combine directly with oxygen. /
+	Glucose is not the only respiratory substrate. (any 5 or other correct answers)																	1m × 5	
+---------------------------------------------------
+
+[10254630]
+// Cross-topic // Schematic diagram // Applying concepts //
+(*	The diagram below shows the exchange of molecules between photosynthesis and respiration.
+	
+a	What are molecules X, Y and Z?							(3 marks)
+b	Give two ways in which both organelles P and Q are adapted for their functions.											(2 marks)
+c	ATP is formed in both photosynthesis and respiration. Give one way in which the formation of ATP in photosynthesis is different from that in respiration.											(2 marks)
+
+
+-- answer --
+a	X: oxygen 													1m
+	Y: water													1m
+	Z: carbon dioxide											1m
+b	The thylakoids of organelle P can provide a large surface area for packing more chlorophyll and the highly folded inner membrane of organelle Q can provide a large surface area for packing more enzymes.						1m
+	The stroma of organelle P and the matrix of organelle Q contain enzymes.	1m
+c	In photosynthesis, the energy for forming ATP by phosphorylation is derived from light.														1m
+	In respiration, the energy for forming ATP by phosphorylation comes from the oxidation of NADH and FADH.									1m	
+---------------------------------------------------
+
+[10254646]
+// Graph interpretation // Applying concepts //
+(*	A man exercised on a rowing machine for 20 minutes and then rested for 40 minutes. The concentration of lactic acid in his blood is recorded as follows.
+	
+
+a	Explain the increase in the concentration of lactic acid in the blood of the man during the first 20 minutes.							(3 marks)
+b	How long does it take to pay the oxygen debt?				(1 mark)
+c	Why is there an oxygen debt that needs to be paid?			(1 mark)
+
+-- answer --
+a	During the first 20 minutes, the man was exercising on the rowing machine and the energy demand exceeded the amount that could be produced aerobically.	1m
+	His skeletal muscles cells respired anaerobically to provide additional energy.																1m
+	Pyruvate was converted / reduced to lactic acid.						1m
+b	30 minutes													1m
+c	An additional amount of oxygen is needed to remove the lactic acid produced during anaerobic respiration.									1m	
+---------------------------------------------------
+
+[10254654]
+// Data handling // High order thinking // Experiment //
+(*	In an experiment, skeletal muscle cells were broken up and extracts of different parts of the cells were obtained. The extracts were incubated with different chemicals. After some time, the extracts were tested for the presence of carbon dioxide and lactic acid. The table below shows some of the results.
+Chemical	Extract of all 
+cell parts	Extract of nuclei	Extract of mitochondria	Extract of cytoplasm	
+	Carbon dioxide	Lactic acid	Carbon dioxide	Lactic acid	Carbon dioxide	Lactic acid	Carbon dioxide	Lactic acid		Glucose	+	+	-	-	-	-	-	+		Pyruvate	+	+	-	-	+	-	-	+		Glucose & Cyanide										Pyruvate & Cyanide											(Key: + present; - absent)
+
+a	With reference to the results in the table, name the organelle which is not involved in respiration.									(1 mark)
+
+b	Why was carbon dioxide produced when the extract of mitochondria was incubated with pyruvate but not when it was incubated with glucose?															(2 marks)
+c	Cynaide inhibits oxidative phosphorylation. Based on this information, complete the results in the last two rows of the table.			(2 marks)
+
+-- answer --
+a	Nucleus												1m
+b	The mitochondria contained enzymes for the conversion of pyruvate into acetyl-CoA and the Krebs cycle. Thus carbon dioxide was produced.			1m
+	The mitochondria did not contain enzymes for the conversion of glucose into pyruvate / glycolysis.										1m
+c	
+Chemical
+Extract of all  cell parts
+Extract of nuclei
+Extract of mitochondria
+Extract of cytoplasm
+
+
+Carbon dioxide
+Lactic acid
+Carbon dioxide
+Lactic acid
+Carbon dioxide
+Lactic acid
+Carbon dioxide
+Lactic acid
+
+Glucose & Cyanide
+-
++
+-
+-
+-
+-
+-
++
+
+Pyruvate & Cyanide
+-
++
+-
+-
+-
+-
+-
++
+
+															1m × 2	
+---------------------------------------------------
+
+
+
+[10254665]
+// Schematic diagram // Basic concepts //
+(	Below is a simplified diagram showing the reactions in aerobic respiration.
+	
+	a	Suggest what compound X and compound Y are.				(2 marks)
+	b	Describe the fate of NADH and FADH produced in the reactions above.																(4 marks)
+
+
+-- answer --
+a	Compound X: carbon dioxide									1m
+	Compound Y: coenzyme A										1m
+b	NADH and FADH will take part in oxidative phosphorylation on the inner membrane of the mitochondrion.											1m
+	When they are oxidized, hydrogen ions and electrons are released. NAD and FAD are regenerated.												1m
+	The electrons take part in a series of redox reactions to form ATP.			1m
+	The hydrogen ions and electrons are eventually transferred to oxygen to form water.														1m	
+---------------------------------------------------
+
+
+[10254673]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows a set-up for measuring the rate of aerobic respiration in germinating seeds.
+
+	
+
+a	Suggest a reason for adding soda lime in the tube.				(2 marks)
+b	Why must the germinating seeds be sterilized?				(1 mark)
+c	Will the coloured liquid move towards or away from the tube after some time? Explain your answer.								(2 marks)
+
+
+-- answer --
+a	To absorb carbon dioxide in the tube, 								1m
+	so that the change in the position of the coloured liquid is due to the amount of oxygen absorbed by the germinating seeds.							1m
+b	To ensure that the experimental result is not affected by the activity of microorganisms present on the seeds. 							1m
+c	The coloured liquid will move towards the tube.						1m
+	It is because pressure in the tube decreases as oxygen is absorbed by the germinating seeds for respiration.								1m	
+---------------------------------------------------
+
+
+[10254682]
+// Experiment // Schematic diagram // Basic concepts //
+(	The diagram below shows the steps in an investigation studying anaerobic respiration in germinating seeds. Some soaked geminating seeds are sterilized and put in a boiling tube. The tube is then filled with paraffin oil and inverted in a basin of paraffin oil. After a few hours, the gas in the boiling tube is collected and tested.
+
+	
+
+a	Why is the tube filled with paraffin oil?						(1 mark)
+b	What is the gas collected? Suggest a method to test for this gas and describe the result of the test.									(3 marks)
+c	Write down an overall equation for the anaerobic respiration in the seeds.
+(Note: Numbers of molecules are not required.)				(2 marks)
+
+
+-- answer --
+	a	To exclude air from the seeds so that the seeds carry out anaerobic respiration.																	1m
+	b	Carbon dioxide												1m
+		Bubble the gas through hydrogencarbonate indicator / lime water.		1m
+		The hydrogencarbonate indicator turns yellow. / The lime water turns milky.	1m
+	c	glucose ( ethanol + carbon dioxide
+		Correct substrate			 								1m
+		Correct products											1m	
+---------------------------------------------------
+
+
+[10254701]
+// Cross-topic // Comparison //
+(*	State two differences between the cyclic processes involved in aerobic respiration and photosynthesis.											(4 marks)
+
+-- answer --
+In the Krebs cycle in aerobic respiration, carbon dioxide is removed from pyruvate.																1m
+In the Calvin cycle in photosynthesis, carbon dioxide is fixed into the cycle by a five-carbon compound.											1m
+In the Krebs cycle in aerobic respiration, NADH, FADH and ATP are formed.		1m
+In the Calvin cycle in photosynthesis, NADPH and ATP are used to form triose phosphate. (or other reasonable answers)								1m	
+---------------------------------------------------
+
+[10254728]
+// Overseas exam question // Scientific investigation // Design experiment //
+(**a	i	Anaerobic respiration takes place where the availability of oxygen is limited. Describe one advantage of this in highly active muscle cells.													(1 mark)
+ii	Anaerobic respiration in muscle cells leads to the build up of an oxygen debt. Describe what is meant by an 'oxygen debt'.	(1 mark)
+b	Anaerobic respiration in muscle tissue does not produce carbon dioxide as a waste product. However, anaerobic respiration in fungi and plants produces carbon dioxide.
+The diagram below shows one type of simple respirometer.
+
+	
+
+
+Devise a plan for an investigation using the respirometer to determine if a sample of germinating peas is respiring anaerobically. Your plan should outline the experimental set-up, the control of variables, the collection of data and how you could determine if anaerobic respiration is taking place. (You do not need to give a detailed procedure for the investigation.)															(4 marks)
+CCEA GCE (A) Biology Module 2 May 2013 Q3
+-- answer --
+a	i	Extra ATP is produced.								1m
+ii 	Oxygen debt is the additional oxygen required to remove the accumulated lactic acid. 										1m
+b	Use two separate respirometers, one with water and one with KOH. / 
+Cover the respirometers with aluminium foil. / Carry out the experiment in darkness to prevent photosynthesis. /
+Use a water bath to keep the respirometers at the same temperature. / 
+Use the same kind of peas in the two respirometers as different peas have different metabolic rates. /  
+Measure the movement of the coloured beads per unit time. / 
+In the respirometer with KOH, an inward movement of the bead indicates the peas have taken in oxygen. / 
+In the respirometer with water, an outward movement of the bead indicates the volume of carbon dioxide produced by the peas is larger than the volume of oxygen used. /
+This means anaerobic respiration has occurred. (any 4)			1m x 4	
+---------------------------------------------------
+
+[10254733]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows how energy is transferred within a cell.
+	
+a	In what form is energy transferred during the synthesis of ATP?	(1 mark)
+b	Name X and Y.										(1 mark)
+
+c	Give two specific examples of cellular processes in plants which require energy from ATP. 										(2 marks)
+-- answer --
+a	Chemical energy										1m
+b	ADP and phosphate										1m
+c	Active transport / cell division / synthesis of biomolecules (any 2 or other correct answers)												1m x 2	
+---------------------------------------------------
+
+[10254739]
+// Cross-topic // High order thinking //
+(**a	Explain why ATP is regarded as an immediate source of energy.	(1 mark)
+b	In plants, ATP is produced in photochemical reactions of photosynthesis. Give two reasons why plants cannot use this as their only source of ATP.														(2 marks)
+c	Red blood cells use ATP but they do not contain mitochondria. How do red blood cells produce ATP? Name the process and suggest one reason for your answer.											(2 marks)
+
+-- answer --
+a	ATP can be readily broken down into ADP and a phosphate to release energy. 														1m
+b	Plants need more ATP than the amount produced in photochemical reactions. / 
+In the dark, photochemical reactions do not occur and plants cannot produce  ATP. / 
+Some plant cells do not have chloroplasts / chlorophyll. They cannot carry out photochemical reactions to produce ATP. / ATP cannot be transported. 
+(any 2 or other reasonable answers)							1m x 2
+c	Glycolysis / anaerobic respiration							1m
+Glycolysis occurs in the cytoplasm / does not need mitochondria to occur. 															1m	
+---------------------------------------------------
+
+
+[10254753]
+// Basic concepts //
+(	Complete the following paragraph with suitable words selected from the list below.													(6 marks)
+ATP			ADP		NAD		NADP
+FAD			Krebs cycle	Calvin cycle	cytoplasm mitochondria	acetyl-CoA	triose phosphate	
+
+In living cells, aerobic respiration takes several stages to complete. Glycolysis occurs in the a                      of the cells. Glycolysis produces the end compound, pyruvate, which enters the next stage, the b                 , after being converted into c                     . The hydrogen atoms released from the breakdown of this compound are accepted by carrier molecules, d                      and e                     . In oxidative phosphorylation, electrons from these hydrogen atoms take part in a series of redox reactions to release energy, which is used to form f                  .
+-- answer --
+a	cytoplasm													1m
+b 	Krebs cycle												1m
+c	acetyl-CoA 												1m
+d	NAD / FAD												1m
+e	FAD / NAD												1m
+f	ATP														1m	
+---------------------------------------------------
+
+[10254766]
+// Reading comprehension // STSE connections // Applying concepts //
+(**Read the following article and answer the questions.
+Wine production process
+	To produce red wine, whole grapes are crushed to extract their juice. The juice is then transferred to barrels. Sugars in the grape juice and yeast naturally found on the skin of the grapes are involved in fermentation in the production of wine.
+	The processes of producing different wines are slightly different. In the production of champagne (香檳), the wine obtained after the first fermentation is sealed in bottles with extra yeast and sugars added for the second fermentation. In the production of some types of wines, the fermentation mixtures are chilled to stop the reactions before fermentation completes. 	
+
+a	Describe the processes occurring in the barrels that lead to the formation of wine.												(2 marks)
+b	Explain why the wine is sealed in bottles with extra yeast and sugars added for the second fermentation in the production of champagne.	(2 marks)
+c	The fermentation mixtures of some types of wines are chilled before fermentation completes. How are these wines different from the other wines?													(2 marks)
+-- answer --
+a	Yeast naturally found on the skin of the grapes respires anaerobically in the barrels.													1m
+Sugars in the grape juice are broken down to produce ethanol.			1m
+b	Carbon dioxide is produced during the second fermentation. 			1m
+This gives the sparkling nature of the champagne.					1m
+c	These wines taste sweeter 									1m
+and contain less ethanol.										1m	
+---------------------------------------------------
+
+[10254771]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows part of the process of aerobic respiration.
+
+	
+
+a	Name X and Y.										(2 marks)
+b	Describe how the chemical energy stored in the hydrogen atoms is released to form ATP.											(2 marks)
+
+-- answer --
+a	X: NAD													1m
+Y: FAD													1m
+b	Hydrogen atoms from NADH and FADH split into hydrogen ions and electrons in oxidative phosphorylation.										1m
+The electrons take part in a series of redox reactions and release energy to form ATP.														1m	
+---------------------------------------------------
+
+
+[10254774]
+// Graph interpretation // Communication //
+(*	In an investigation, two groups of runners, one group was trained and the other was untrained, ran for 45 minutes. The graph below shows the changes in the lactic acid concentrations in their blood when they were running. 
+
+	
+
+a	Describe and explain the differences in the changes in the lactic acid concentrations of the trained and the untrained runners.		(4 marks)
+b	Both groups stopped running after 45 minutes. How would the lactic acid concentrations change in both groups of runners? Explain briefly.															(2 marks)
+
+-- answer --
+a	The lactic acid concentration in the blood of the untrained runners rose more rapidly.			 										1m
+More lactic acid was produced in the untrained runners.				1m
+Trained runners breathed more efficiently to get more oxygen.			1m
+Thus they removed lactic acid more quickly.						1m
+b	The lactic acid concentrations in the blood of both groups of runners would decrease.													1m
+After running, the runners would take in extra oxygen to convert / oxidize the lactic acid to pyruvate.											1m	
+---------------------------------------------------
+
+[10254780]
+// Comparison // Communication // Applying concepts //
+(*	When we are doing exercise, chemical reactions take place in our body to provide energy.
+a	Marathon runners eat a large amount of starch-rich food several days before the race. On the other hand, sprinters only have some glucose-rich drinks just before the race. Explain the difference in the practices of marathon runners and sprinters.									(6 marks)
+b	During exercise, lactic acid is formed. Describe how the lactic acid is formed.												(1 mark)
+-- answer --
+a	In a marathon, the runners run at a steady and moderate speed for hours. 	1m
+Most of the energy for muscle contraction is contributed by aerobic respiration.															1m
+The high intake of starch increases the glycogen store in the muscles, which is converted to glucose for aerobic respiration. 						1m
+In a sprint, the sprinters run very fast in a short period of time. 			1m
+Most of the energy for muscle contraction is contributed by anaerobic respiration. 														1m
+Glucose-rich drinks provide glucose which is readily available for anaerobic respiration.												1m
+b	When skeletal muscle cells respire anaerobically, pyruvate accepts hydrogen from NADH and is reduced to lactic acid.								1m	
+---------------------------------------------------
+
+[10254781]
+// Basic concepts //
+(	a	Explain why ATP is important in the cells. 					(2 marks)
+b	State three sites where ATP is formed in a cell.				(3 marks)
+-- answer --
+a	It is the major energy carrier in the cells.							1m
+When it breaks down into ADP and a phosphate, energy is released for metabolic activities in the cells, e.g. active transport / cell division / transmission of nerve impulses / muscle contraction / synthesis of biomolecules.				1m
+b	Cytoplasm													1m
+Mitochondria												1m
+Chloroplasts												1m	
+---------------------------------------------------
+
+[10254788]
+// Schematic diagram // Basic concepts //
+The diagram below shows a skeletal muscle cell.
+	
+X is a food molecule and Y is a gas. These two substances move into the skeletal muscle cell from the blood. They are involved in reactions that release energy in the cell.
+a	i	Name the reactions that release energy in the cell.			(1 mark)
+ii	State two uses of energy released from these reactions.		(2 marks)
+b	i	What are X and Y?									(2 marks)
+ii	By what process does Y move into the cell?				(1 mark)
+
+-- answer --
+a	i	Respiration										1m
+ii	Active transport / cell division / transmission of nerve impulses / muscle contraction / synthesis of biomolecules (any 2 or other correct answers)													1m x 2
+b	i	X: glucose / sugar 									1m
+Y: oxygen											1m
+ii	Diffusion											1m	
+---------------------------------------------------
+
+[10254789]
+// Basic concepts //
+(	A student is sprinting.
+a	Explain why the heart rate and the breathing rate increase when we are doing exercise.										(2 marks)
+b	Explain the meaning of oxygen debt.						(2 marks)
+-- answer --
+a	The heart rate and the breathing rate increase to supply extra oxygen to the muscles during exercise										1m
+and remove extra carbon dioxide produced.						1m
+b	Oxygen debt is the additional amount of oxygen required to remove all the lactic acid after exercise.											2m	
+--------------------------------------------------- 
+
+[10254801]
+// Comparison // Communication // Basic concepts //
+(	Alcoholic fermentation can be applied in our daily life.
+a	Give two applications of alcoholic fermentation in industrial processes.
+														(2 marks)
+b	What are the similarities and differences between alcoholic fermentation and the anaerobic respiration in our skeletal muscle cells when we are doing strenuous exercise?										(4 marks)
+-- answer --
+a	Brewing of beer / brewing of wine / bread-making (any 2 or other correct answers)													1m x 2
+b	Similarities:
+No oxygen is required. / 
+Energy is released. / 
+Glucose is only partly broken down. 
+(any 2 or other correct answers)								1m x 2
+Differences:
+Pyruvate is reduced to ethanol in alcoholic fermentation. It is reduced to lactic acid in the anaerobic respiration in our skeletal muscle cells. 			1m
+Carbon dioxide is released in alcoholic fermentation. It is not released in the anaerobic respiration in our skeletal muscle cells.				1m	
+---------------------------------------------------
+
+[10254802]
+// Basic concepts //
+(	Complete the table below by stating the precise locations and the main products in the three stages of aerobic respiration.						(6 marks)
+Stage of respiration	Location	Main products	
+Glycolysis			
+Krebs cycle			
+Oxidative phosphorylation			
+
+
+
+
+
+
+
+-- answer --
+Stage of respiration
+Location
+Main products
+
+Glycolysis
+Cytoplasm
+Pyruvate / NADH / ATP (any 2)
+
+Krebs cycle
+Mitochondrial matrix
+Carbon dioxide / NADH / FADH / ATP (any 2)
+
+Oxidative phosphorylation
+Inner membrane of the mitochondrion
+ATP / water / NAD / FAD (any 2)
+
+															1m x 6	
+---------------------------------------------------
+
+[10254805]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+During respiration, a series of chemical reactions occur to release            a                      from food. These reactions are controlled by b                     . When oxygen is available, glucose is broken down completely to form carbon dioxide and c                     . This type of respiration is called d                      respiration.
+
+-- answer --
+a	energy													1m
+b	enzymes													1m
+c	water													1m
+d	aerobic													1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10254916]
+// Scientific investigation // Schematic diagram // Applying concepts //
+(*	A student prepared the following test tube to estimate the rate of anaerobic respiration of yeast at room temperature. Phenolphthalein in the tube is used as a pH indicator. It is pink at pH 9 or above and is colourless at lower pH values.
+	
+
+	After a period of time, the mixture in the test tube turned from pink to colourless. The student measured the time taken for the colour change and used it to indicate the rate of anaerobic respiration of yeast.
+
+	a	What is the use of the layer of paraffin oil in the test tube?		(1 mark)
+b	Explain why the mixture turned colourless after a period of time.																(3 marks)
+c	The student wanted to use the above set-up to study the effect of temperature on the rate of anaerobic respiration of yeast.
+i	Suggest one way to change the temperature of the experiment.														(2 marks)
+ii	Give two controlled variables of this experiment.			(2 marks)
+
+-- answer --
+a	To keep out oxygen from the air.									1m
+b	The yeast carried out alcoholic fermentation to produce carbon dioxide and ethanol.													1m
+	The carbon dioxide dissolved in the solution and caused it to become acidic.															1m
+	The lowered pH caused phenolphthalein to turn colourless.				1m
+c	i	Prepare several similar test tubes and put them in water baths		1m
+		set at different temperatures.								1m
+	ii	Concentration / volume of glucose solution						1m
+		Concentration / volume of sodium carbonate solution				1m
+		(or other correct answers)	
+---------------------------------------------------
+
+[10254936]
+// Overseas exam question // Cross-topic // Data handling //
+(**a	Humans harvest a wide range of fruits and vegetables as food. Cellular respiration supplies energy and forms part of the natural ripening process in fruits and vegetables. This ripening process may continue after the fruits and vegetables are harvested, as the cells continue to respire.
+
+		The rate of cellular respiration after harvesting affects the shelf-life of fruits and vegetables as it can lead to changes in food quality. After harvesting, some fruits and vegetables enter a dormant (inactive) state while others remain active during storage.
+
+		Table 1 contains data that show the respiration rate of a selection of fruits and vegetables stored at different temperatures after harvesting. The respiration rate is measured by the rate of carbon dioxide produced.
+
+Fruits and vegetables	Respiration rate (mg CO2 kg(1 h(1)	
+	At 0 (C	At 5 (C	At 10 (C	At 15 (C	At 20 (C	
+Apple	3	6	9	15	20	
+Asparagus	60	105	215	235	270	
+Blackberry	19	36	62	75	115	
+Cauliflower	17	21	34	44	69	
+Onion	3	5	7	7	8	
+Orange	4	6	8	18	28	
+Parsnip	12	13	22	37	n/a*	
+Potato	n/a*	12	16	17	22	
+Turnip	8	10	16	23	25	
+		Table 1						  *no data were collected at these temperatures
+
+i	Describe the pattern of respiration shown by cauliflower at increasing storage temperatures of 0 (C to 20 (C.					(2 marks)
+ii	Discuss what the data in Table 1 indicate about the best conditions for storage of fruits and vegetables.						(2 marks)
+iii	Identify, with reasons, which fruit or vegetable listed in Table 1 is least likely to spoil during storage.							(3 marks)
+iv	Which fruit or vegetable listed in Table 1 is likely to be the most difficult to keep fresh during storage? Give a reason for your answer.													(1 mark)
+b	Respiration can be aerobic or anaerobic.
+i	Certain parasites live in the blood of mammals.
+	Suggest why, even though blood carries oxygen, these parasites are adapted to respire anaerobically.						(2 marks)
+ii	The anaerobic respiration pathway in animal cells can be reversed, but the anaerobic respiration pathway in yeast cells cannot be reversed.
+	Explain why, using your knowledge of the differences between the two pathways.
+	In your answer, you should use appropriate technical terms, spelled correctly.											(4 marks)
+OCR GCE (A) Communication, Homeostasis & Energy Jun 2014
+
+
+
+-- answer --
+a	i	The respiration rate increases as the storage temperature increases.	1m
+	The rate doubles in an increase of temperature of 10 (C.			1m
+ii	Low temperatures are the best conditions for storage of fruits and vegetables because the respiration rate is low at low temperatures.			1m
+	0 (C could be the best but cells of fruits and vegetables might be damaged during freezing. 										1m
+	(or other reasonable answers)
+iii	Onion												1m
+	It has the lowest respiration rate across all temperatures in the investigation.													1m
+	It can be kept at higher temperatures / room temperature for a longer period of time. / No need to store in refrigerators.						1m
+iv	Asparagus. This is because it has the highest respiration rate across all temperatures in the investigation.							1m
+b	i	Only very little oxygen is dissolved in plasma. / Most oxygen combines with haemoglobin in red blood cells.								1m
+	Parasites in the blood have little access to oxygen.				1m
+
+
+
+ii	In anaerobic respiration in animal cells, pyruvate is converted to lactic acid.														1m
+	No atoms are lost. / No other products are formed.				1m
+	However, in anaerobic respiration in yeast cells, pyruvate is converted to ethanol and carbon dioxide.								1m
+	Carbon dioxide is / atoms are lost. Therefore the reaction cannot be reversed.												1m	
+---------------------------------------------------
+
+[10254953]
+// Overseas exam question // Graph interpretation // Experiment //
+(*	a	The structure of an ATP molecule is represented in the diagram below.
+	
+i	Explain what happens when an ATP molecule is hydrolysed to ADP.													(1 mark)
+ii	Give two advantages of using ATP as an immediate energy source within the cell, rather than glucose.					(2 marks)
+b	It was noticed that one variety of a pea species (A) had a more rapid growth rate than another variety (B). It was suggested that this was due to variety A having a faster respiration rate. 
+	In an investigation to compare respiration rates in the two varieties, two sets of the apparatus shown in the diagram below were used. (This apparatus is similar in principle to a standard respirometer.)
+
+	
+
+	For each variety, 10 g of soaked peas were placed in the glass container with an airtight bung. The level of potassium hydroxide was adjusted to 
+100 cm3 on the scale by raising or lowering the levelling arm.
+	Both sets of apparatus were placed in a dark cupboard for 12 hours. The readings on the scales were recorded every two hours.
+i	Explain why the investigation was conducted in darkness.	(2 marks)
+
+The results of the investigation are shown in the graph below.
+	
+ii	Suggest an explanation for the faster rate of oxygen uptake in variety B between 0-2 hours.									(1 mark)
+iii	Calculate the mean rate of respiration of variety A between 2 and 
+12 hours in cm3 of oxygen used per gram of pea seed per hour. 
+(Show your working.)								(3 marks)
+CCEA GCE (A) Biology Module 2 June 2015
+
+
+-- answer --
+a	i	Energy is released as a phosphate is removed from ATP.			1m
+ii	Energy is released in small steps/small amount of energy released.	1m
+	ATP can be easily transported around the cell.					1m
+b	i	To prevent photosynthesis from taking place.					1m
+	Photosynthesis would produce oxygen (which compensates for some of the oxygen used in respiration). / To ensure the movement of potassium hydroxide is only due to respiration.							1m
+ii	Variety B had germinated faster than variety A.					1m
+	(or other reasonable answers)
+iii	Volume of oxygen used = 98 ( 56 = 42 cm3						1m
+	Mean rate of respiration
+	= 42 cm3 oxygen ( 10 g ( 10 hours							1m
+	= 0.42 cm3 oxygen g(1 hr(1									1m	
+---------------------------------------------------
+
+[10254964]
+// Cross-topic // Graph plotting // High order thinking //
+(**Phosphofructokinase is one of the enzymes involved in glycolysis. It catalyses the conversion of fructose-6-phosphate into fructose-1,6-bisphosphate. A scientist investigated the effect of ATP concentration on the activity of this enzyme. He prepared fructose-6-phosphate solutions of different concentrations. In each solution, he added a fixed amount of the enzyme with a low concentration of ATP and measured the rate of reaction. He then repeated the experiment with a high concentration of ATP. The results are shown below.
+Concentration of fructose-6-phosphate (arbitrary unit)	1	2	3	4	5	6	7	
+Rate of reaction at low concentration of ATP (arbitrary unit)	8	14	19	22	24	25	25	
+Rate of reaction at high concentration of ATP (arbitrary unit)	3	8	13	18	21	22	22	
+
+a	Plot a graph to show the results of the experiments.			(4 marks) 
+b	Describe the effect of fructose-6-phosphate concentration on the activity of phosphofructokinase at low concentration of ATP.	 Explain with reference to the chance of forming enzyme-substrate complexes.			(4 marks)
+c	Describe the effect of ATP concentration on the activity of phosphofructokinase. Suggest the significance of this effect to organisms.														(2 marks)
+d	Glucagon also affects the activity of phosphofructokinase. Based on your understanding about the action of glucagon on liver cells, suggest the effect of glucagon on the activity of phosphofructokinase in the liver cells. Explain briefly.										(2 marks)
+
+-- answer --
+a	Correct title												1m
+	Correct choice of axes										1m
+	Axes with labels and units										1m
+	Correct plotting and joining of lines								1m
+
+
+b	As fructose-6-phosphate concentration increases from 0 to 6 arbitrary units, the activity of phosphofructokinase increases.							1m
+	It is because the collisions between the enzyme and substrate molecules increase as the substrate concentration increases. There is a higher chance of forming enzyme-substrate complexes.									1m
+
+
+	At fructose-6-phosphate concentrations higher than 6 arbitrary units, the activity of the enzyme becomes constant.									1m
+	It is because all the active sites of the enzyme molecules are occupied by the substrate molecules.											1m
+c	At high concentration of ATP, the activity of phosphofructokinase is reduced.																	1m
+	This may help organisms conserve food by reducing the rate of glycolysis when ATP is abundant.											1m 
+Note:
+As the activity of phosphofructokinase decreases, the rate of glycolysis will also decreases. Therefore, less glucose will be broken down.
+
+d	Glucagon increases the blood glucose level by stimulating the liver cells to convert stored glycogen into glucose.									1m
+	The glucose produced is to be released into the blood. Therefore, glucagon should reduce the activity of phosphofructokinase to prevent the liver cells from breaking down the glucose produced.									1m	
+---------------------------------------------------
+
+[10254965]
+// Design experiment // Drawing // Graph interpretation //
+(**A scientist investigated the effect of temperature on the rate of respiration of mice when they were kept individually and when they were kept in groups. She kept the same number of mice at three different temperatures for 24 hours and determined the rate of respiration by measuring the total amounts of carbon dioxide produced. The graph below shows the results obtained.
+	
+a	Why can the rate of respiration be determined by measuring the total amounts of carbon dioxide produced?						(2 marks)
+b	Describe how the rate of respiration changed as temperature decreased. State the importance of the change.						(2 marks)
+c	Suggest why the rate of respiration of mice that were kept individually was higher than the rate of respiration of the mice that were kept in groups.														(2 marks)
+d	The scientist decided to carry out another investigation to find out the effect of temperature on the rate of respiration of woodlice.
+	i	You are provided with the following materials and apparatus:
+boiling tube, one-hole stopper, graduated glass tube, ink, potassium hydroxide solution, wire gauze, woodlice	
+How would you use the materials and apparatus to assemble a set-up for measuring the amount of carbon dioxide produced by woodlice? Draw the set-up.									(3 marks) 
+	ii	What is the expected result? Briefly explain your answer.	(3 marks)
+-- answer --
+a	Carbon dioxide is produced during aerobic respiration.				1m
+	The total amount of carbon dioxide produced is proportional to the rate of respiration of the mice.										1m
+b	The rate of respiration increased as temperature decreased.			1m
+	As the rate of respiration increased, more heat can be produced to maintain the body temperature.											1m
+c	The mice that were kept in groups could huddle together to reduce the surface area exposed to the air, while those that were kept individually could not.		1m
+	Therefore, the mice that were kept individually lost more heat than those that were kept in groups. Hence, their rate of respiration was higher to produce more heat to compensate for the heat loss.									1m
+d	i	
+
+
+																3m
+	ii	The rate of respiration would increase as the temperature increases.	1m
+The body temperature of woodlice varies with the environmental temperature.													1m
+As the body temperature of woodlice increases, the activity of the enzymes involved in respiration increases. Therefore, the rate of respiration increases.													1m
+Note:
+As the temperature increases, the enzymes have more kinetic energy. The enzymes can move around more rapidly and collide with the substrates more frequently. Therefore, the activity of enzymes increases with temperature.
+
+	
+---------------------------------------------------
+
+[10254967]
+// Cross-topic // Drawing // Graph interpretation //
+(*	In an investigation, the changes in energy used, oxygen intake and lactic acid level in the blood of an athlete were measured before, during and after exercise. The graph below shows the results.
+
+	
+
+a	Suggest how oxygen intake is increased during exercise and state its importance to the body.									(3 marks)
+b	Explain why the lactic acid level in the blood increased during exercise.
+													(3 marks)
+c	Due to long-term training, the intercostal muscles and diaphragm muscles of the athlete are stronger than those of an untrained person. Draw a line in the graph to show how the lactic acid level in the blood would be different if the study was repeated with an untrained person.			(2 marks)
+d	In order to enhance performance, many marathon runners increase the intake of foods such as rice, noodles and bread for a few days before a marathon race. Explain why.								(3 marks)
+
+
+
+-- answer --
+a	Oxygen intake is increased by increasing the rate of breathing / the depth of breathing.													1m
+It enables a greater supply of oxygen to the skeletal muscles so that muscle cells can produce more energy by respiration for contraction.				1m
+Carbon dioxide can also be removed faster from the body.				1m
+b	During exercise, energy demand of muscles exceeded that could be provided by aerobic respiration.											1m
+Muscle cells carried out anaerobic respiration to provide extra energy.		1m
+Lactic acid was produced in anaerobic respiration.					1m
+c	The maximum lactic acid level in the blood is higher.					1m
+The time for the lactic acid level in the blood to return to the resting level is longer.
+														1m
+d	Foods such as rice, noodles and bread are rich in carbohydrates.			1m
+The high intake of carbohydrates increases the amount of glycogen stored in muscles before the race.										1m
+During the race, glycogen is converted into glucose. Glucose is broken down in respiration to release energy for the contraction of muscles.				1m	
+---------------------------------------------------
+
+[10254969]
+// Overseas exam question // Scientific investigation // Data handling //
+(*	One way of calculating the rate of respiration is to measure the volume of oxygen taken up over a period of time.
+A student carried out an experiment to investigate the effect of temperature on the rate of respiration in soaked (germinating) pea seeds and dry (dormant) pea seeds.
+
+A simple piece of apparatus called a respirometer was used, as shown in the diagram below.
+
+	
+The potassium hydroxide solution in this apparatus absorbs carbon dioxide. If the apparatus is kept at a constant temperature, any changes in the volume of air in the respirometer will be due to oxygen uptake.
+a	State the stage(s) of aerobic respiration during which:
+i	carbon dioxide is produced.							(1 mark)
+ii	oxygen is used.									(1 mark)
+b	The student set up three respirometers, X, Y and Z, in water baths at two different temperatures. The respirometers were left for 10 minutes in order to equilibrate.
+The contents of each respirometer are shown in the table below.
+Temperature (°C)	Respirometer	Contents	
+15	X	30 soaked pea seeds	
+	Y	glass beads + 30 dry pea seeds	
+	Z	glass beads	
+25	X	30 soaked pea seeds	
+	Y	glass beads + 30 dry pea seeds	
+	Z	glass beads	
+
+
+At each temperature, respirometer Z, which contained only glass beads, was a control.
+Respirometer Y, at each temperature, also contained some glass beads.
+i	Suggest why, at each temperature, respirometer Y contained some glass beads.											(2 marks)
+ii	Suggest how the student determined the quantity of glass beads to place in respirometer Y at each temperature.				(2 marks)
+c	After the student had left each respirometer to equilibrate, a small volume of coloured liquid was introduced into each graduated tube.
+The respirometers were then left in the appropriate water baths for 20 minutes and maintained at the correct temperature. During this time, the coloured fluid in the graduated tube moved.
+The level of the coloured fluid in each respirometer was recorded at the start of the experiment and after 20 minutes.
+The results are summarized in the table below.
+
+Temperature (°C)	Respiro-
+meter	Reading at start (cm3)	Reading after 20 minutes (cm3)	Difference (cm3)	Corrected difference (cm3)	Rate of oxygen uptake  (cm3/min)		15	X	0.93	0.74	0.19	0.16	0.008			Y	0.93	0.86	0.07	0.04	0.002			Z	0.91	0.88	0.03	-	-		25	X	0.94	0.63	0.31	0.27				Y	0.93	0.84	0.09	0.05	0.003			Z	0.95	0.91	0.04	-	-		i	The table is incomplete.
+Calculate the missing value for the rate of oxygen uptake for soaked pea seeds (X) at 25 °C. Show your working.				(2 marks)
+ii	Explain why there is an increased rate of respiration in soaked seeds at 25 °C compared with soaked seeds at 15 °C.				(2 marks)
+iii	Suggest a reason for the difference in the rate of respiration between soaked and dry pea seeds.							(2 marks)
+OCR GCE (A) Communication, Homeostasis and Energy Jan 2012 Q4
+
+
+
+
+-- answer --
+a	i	Krebs cycle										1m
+ii	Oxidative phosphorylation								1m
+b	i	The volume of pea seeds in X was greater than that in Y. Adding glass beads was to make the volume of contents in the two tubes the same.	1m
+Without the beads, there would be more air in Y than in X.		1m
+ii	Find out the difference in volume between 30 soaked pea seeds and 30 dry pea seeds. The difference represents the volume of glass beads required. 													1m
+Find out the volume of 1 glass bead to determine the number of beads required. 											1m
+c	i	0.27 / 20 											1m
+= 0.014 cm3/min									1m
+ii	Enzymes are involved in the reactions in respiration. 			1m
+At 25 °C, the enzyme and substrate molecules have more kinetic energy.						 							1m
+iii	The reactions in respiration require an aqueous medium. / 
+Enzyme and substrate molecules can move in the aqueous medium and collide. /
+Soaked pea seeds need more energy for metabolic reactions like protein synthesis and mitosis. (any 2)							1m x 2	
+---------------------------------------------------
+
+
+[10254985]
+// Overseas exam question // Cross-topic // Schematic diagram //
+(*	During a sporting event an athlete may have to carry out not only aerobic respiration but also anaerobic respiration to produce sufficient ATP.
+The diagram below outlines both these processes in a muscle cell and shows how a liver cell is linked to the processes.
+
+	
+
+a	State one use of glucose in the liver cell apart from maintaining the blood glucose concentration.									(1 mark)
+b	Anaerobic respiration is less efficient than aerobic respiration.
+Explain the meaning of the term less efficient as applied to anaerobic respiration.											(2 marks)
+c	Complete the table below to indicate the precise locations of glycolysis, the link reaction, Krebs cycle and oxidative phosphorylation within the muscle cell.													(4 marks)
+Process	Precise location	
+Glycolysis		
+Link reaction		
+Krebs cycle		
+Oxidative phosphorylation		
+
+d	In the muscle cell, glucose is phosphorylated at the start of glycolysis.
+Suggest why this phosphorylated glucose does not diffuse out of the muscle cell into the blood.										(1 mark)
+e	State what is meant by excessive post-exercise oxygen consumption (EPOC).												(1 mark)
+f	Oxygen is required in the metabolic pathways involved in the conversion of lactate to glucose.
+Suggest two further uses of the additional oxygen from EPOC.	(2 marks)
+OCR GCE (A) Human Biology Energy, Reproduction and Populations
+Jun 2011 Q2a
+
+-- answer --
+a	Glucose can be converted to glycogen. / 
+Glucose can be used in respiration.							1m
+b	Less ATP / only 2 molecules of ATP are produced for each molecule of glucose. / 
+It is not sustainable as lactate builds up. / 
+Lactate still contains energy. (any 2)							1m x 2
+c	
+Process
+Precise location
+
+Glycolysis
+Cytoplasm
+
+Link reaction
+Mitochondrial matrix
+
+Krebs cycle
+Mitochondrial matrix
+
+Oxidative phosphorylation
+Inner membrane of the mitochondrion
+
+													1m x 4
+d	It is too big to pass through the channel protein. /
+No specific carrier or channel protein for the transport of phosphorylated glucose is present on the cell membrane of muscle cells. 					1m
+e	It is the total amount of oxygen consumed after exercise minus the pre-exercise level of oxygen consumption.								1m
+f	To reoxygenate haemoglobin. / 
+To replace stocks of ATP / glycogen. / 
+To meet the demands of increased metabolic rate. (any 2)			1m x 2	
+---------------------------------------------------
+
+[10255008]
+// Overseas exam question // Graph interpretation // Applying concepts //
+(*	a	Hepatocytes (liver cells) detoxify the blood.
+Alcohol can be toxic. To prevent this, hepatocytes oxidize the alcohol into a less toxic substance. This process involves the reduction of NAD.
+The relationship between the concentration of NAD in the hepatocytes and the concentration of alcohol in the blood is shown in the diagram below.
+	
+i	Describe the relationship shown in the diagram.			(1 mark)
+ii	Using the diagram, suggest two respiratory processes that may be affected by an increased concentration of alcohol in the blood. 														(2 marks)
+b	During a 100-metre race, a sprinter's muscle cells have a high demand for oxygen. The circulatory system is unable to fully meet this demand.
+In this situation, both anaerobic and aerobic respiration will occur.
+Outline the process of anaerobic respiration in muscle cells.		(3 marks)
+c	The oxygen uptake for a sprinter will remain high for several minutes after a race.
+This is popularly known as the 'oxygen debt'.
+Explain the reason for excess post-exercise oxygen consumption (EPOC).														(3 marks)
+OCR GCE (A) Human Biology Energy, Reproduction and Populations
+Jun 2010 Q4a, b ii ,c
+-- answer --
+a	i	The concentration of NAD decreases with an increase in the concentration of alcohol.											1m
+ii	Glycolysis / link reaction / Krebs cycle / oxidative phosphorylation (any 2)													1m x 2
+b	In glycolysis, glucose is converted to pyruvate. / 
+Pyruvate is reduced by NADH. / 
+Lactic acid is formed. / 
+NAD is regenerated. / 
+There is a net production of 2 molecules of ATP. (any 3)			1m x 3
+c	To reoxidize haemoglobin. /
+To replace ATP. /
+To increase the supply of oxygen to intercostal muscles / diaphragm / cardiac muscle. /
+To oxidize lactic acid. (any 3 or other correct answers)				1m x 3	
+---------------------------------------------------
+
+[10255015]
+// Schematic diagram // Basic concepts //
+(*	The flow chart below shows a summary of the stages involved in respiration.
+
+	
+a	Name processes X and Z and state precisely where in the cell each process occurs.												(2 marks)
+b	A compound called coenzyme A is involved in process Y. State the role of this compound in the process.								(2 marks)
+c	State the numbers of carbon atoms in a molecule of compounds P, Q	and R.													(3 marks)
+d	Describe the fate of atom M.								(4 marks)
+
+-- answer --
+a	Process X is glycolysis. It occurs in the cytoplasm. 					1m
+Process Z is the Krebs cycle. It occurs in the mitochondrial matrix.		1m
+b	It carries the acetyl group from pyruvate							1m
+into process Z / the Krebs cycle. 								1m
+c	Compound P: 2												1m
+Compound Q: 6												1m
+Compound R: 4												1m
+d	They are accepted by NAD or FAD to form NADH or FADH.				1m
+They are then released in oxidative phosphorylation and split into hydrogen ions and electrons. 												1m
+The electrons take part in a series of redox reactions to release energy. 	1m
+Hydrogen ions and electrons are eventually transferred to oxygen to form water. 															1m	
+---------------------------------------------------
+
+[10255018]
+// Graph plotting // Data handling // Applying concepts //
+(*	The table below shows the change in lactic acid concentration in the blood of an athlete when attending a running race.
+Time (s)	Lactic acid concentration
+ (mg/100 cm3 blood)	
+5	10	
+10	30	
+15	60	
+20	40	
+25	20	
+30	10	
+
+
+a	Present the above data in the form of a graph.				(4 marks)
+b	After the running race, the athlete still breathed deeply for a period of time. State the significance of this.								(2 marks)
+c	When did the athlete finish his race?						(1 mark)
+d	Write a word equation for the process that leads to lactic acid production in the muscles.											(1 mark)
+e	What is the importance of the process in d?					(2 marks)
+
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line								1m
+b	To take in extra oxygen										1m
+to remove the lactic acid produced during anaerobic respiration.			1m
+c	At the 15th second											1m
+d	Glucose → energy + lactic acid									1m
+e	To provide additional energy									1m
+in a very short time.											1m	
+---------------------------------------------------
+
+[10255028]
+// Schematic diagram // Applying concepts //
+(*	The diagram below shows glycolysis and the Krebs cycle in aerobic respiration.
+	
+a	Name compound X. 									(1 mark)
+b	Where do glycolysis and the Krebs cycle occur precisely in a cell? 															(2 marks)
+c	i	Indicate on the diagram by writing a letter 'U' where ATP is used in respiration. 										(1 mark)
+ii	Indicate on the diagram by writing a letter 'P' where ATP is produced in respiration.										(2 marks)
+d	Describe the fate of the NADH and FADH produced.			(2 marks)
+e	Describe what happens to pyruvate in anaerobic conditions in skeletal muscle cells. 											(2 marks)
+
+-- answer --
+a	Carbon dioxide												1m
+b	Glycolysis occurs in the cytoplasm.								1m
+The Krebs cycle occurs in the mitochondrial matrix.					1m
+c	i	During the conversion of glucose to triose phosphate				1m
+ii	During the conversion of triose phosphate to pyruvate				1m
+During the conversion of the 6-C compound to the 4-C compound	1m 
+d	NADH and FADH lose hydrogen in oxidative phosphorylation 			1m
+and are oxidized to NAD and FAD respectively. 						1m
+e	Pyruvate accepts hydrogen from NADH 							1m
+and is reduced to lactic acid.									1m	
+---------------------------------------------------
+
+[10255038]
+// Graph plotting // Experiment // Schematic diagram //
+(*	A student used the set-ups below to study respiration.
+
+	
+
+The student recorded the changes in the temperatures of the three flasks in a 5-day period. The results are shown in the table below. 
+Time (day)	Temperature (°C)	
+	Flask X	Flask Y	Flask Z	
+0	20.0	20.0	20.0	
+1	20.5	20.2	20.0	
+2	22.8	20.5	20.0	
+3	24.2	20.8	20.0	
+4	25.9	21.0	20.0	
+5	27.1	21.0	20.0	
+
+
+a	Why are vacuum flasks used instead of beakers in the above set-ups?															(1 mark)
+b	i	Plot a graph to show the changes in the temperature of the three flasks in the 5-day period.									(4 marks)
+ii	Describe and explain the change in the temperature of flask X.														(2 marks)
+iii	Explain the difference in the temperatures of flasks Y and Z.														(3 marks)
+
+-- answer --
+a	Vacuum flasks can retain heat / prevent heat loss to the surroundings. The results of the experiment would be more obvious.								1m
+b	i														
+	
+Correct title												1m
+Choice of axes												1m
+With labels and units 										1m
+Correct plotting and joining of line 								1m
+ii	The temperature of flask X increased.								1m
+The germinating seeds carried out aerobic respiration and released heat.	1m
+iii	The temperature of flask Y increased slightly while the temperature of flask Z remained unchanged.										1m
+The microorganisms on the surface of the seeds in flask Y carried out aerobic respiration and released heat.									1m
+Seeds in flask Z were sterilized and thus no microorganisms were present.	1m	
+---------------------------------------------------
+
+[10255068]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the structure of a mitochondrion.
+
+	
+
+a	Name X, Y and Z.										(3 marks)
+b	State a feature of X that facilitates respiration. 				(2 marks)
+c	i	Name the main molecule that is formed in the mitochondrion.														(1 mark)
+ii	State the role of this molecule in the cell.				(2 marks)
+d	Which type of cells, skin cells or skeletal muscle cells, contain more mitochondria? Explain briefly.							(3 marks)
+
+-- answer --
+a	X: inner membrane											1m
+Y: intermembrane space										1m
+Z: mitochondrial matrix										1m
+b	X is highly folded. 											1m
+This provides a large surface area to pack more enzymes for the reactions of respiration.												1m
+c	i	ATP 													1m
+ii	ATP acts as an energy carrier in the cell.						1m
+It can be readily broken down into ADP and a phosphate. Energy is released in the process and can be used by the cell for metabolic activities. 	1m
+d	Skeletal muscle cells contain more mitochondria.					1m
+Skeletal muscle cells need more energy for muscle contraction.			1m
+They contain more mitochondria to provide more energy.				1m	
+---------------------------------------------------
+
+[10255070]
+// Data handling // Experiment // Schematic diagram //
+(*	A student carried out an experiment using the set-up below.
+
+	
+
+He carried out the experiment at 25 °C. He recorded the number of gas bubbles released. The results are shown in the table below.
+Time (minute)	Number of gas bubbles	
+5	10	
+10	18	
+15	30	
+20	44	
+25	25	
+30	18	
+
+a	Name the process that was carried out by the yeast.			(1 mark)
+b	What is the gas produced?								(1 mark)
+c	Why did the number of gas bubbles decrease after 20 minutes?	(2 marks)
+d	Predict the results if the temperature was increased to 80 °C. Explain your answer.												(2 marks)
+e	The student repeated the experiment. This time the glucose solution was boiled and yeast was added after the glucose solution was cooled down. A layer of paraffin oil was then added to the mixture. In addition to the gas, one other product was produced in the flask.
+i	What is this product?								(1 mark)
+ii	Explain why this product was produced.				(2 marks)
+
+
+
+
+-- answer --
+a	Aerobic respiration											1m
+b	Carbon dioxide												1m
+c	The amount of glucose in the flask decreased as glucose was used by the yeast for respiration.												1m
+The rate of respiration decreased as there were fewer substrates.		1m
+d	No gas bubbles would be released.								1m
+It is because enzymes involved in respiration would be denatured / yeast would be killed by the high temperature.									1m
+e	i	Alcohol / ethanol										1m
+ii	Boiling forced the dissolved oxygen in the solution to escape and the layer of paraffin oil prevented the oxygen in air from dissolving into the solution.														1m
+Yeast carried out anaerobic respiration in the flask, producing ethanol and carbon dioxide.											1m	
+---------------------------------------------------
+
+[10255076]
+// Schematic diagram // Applying concepts //
+(*	a	The diagram below shows the main stages in the breakdown of a glucose molecule in an animal cell when oxygen is available.
+	
+
+i	Name molecules X, Y and Z.							(3 marks)
+ii	In which process is ATP used? State the function of ATP in the  process.											(2 marks)
+b	The diagram below shows a stage of respiration not shown in the above diagram.
+	
+i	Name W.											(1 mark)
+ii	State the role of W in the reaction.						(1 mark)
+iii	State precisely where this process takes place in a cell.		(1 mark)
+iv	Where do electrons come from?						(2 marks)
+v	As electrons pass from one carrier to another, energy is released. State the use of this energy.								(1 mark)
+-- answer --
+a	i	X: triose phosphate 										1m
+Y: pyruvate											1m
+Z: acetyl coenzyme A / acetyl-CoA							1m
+ii	The conversion of glucose to triose phosphate / the first step of glycolysis														1m
+ATP is used to activate glucose by phosphorylation.				1m
+b	i	Oxygen												1m
+ii	It acts as the final electron acceptor.							1m
+iii	Inner membrane of the mitochondrion							1m
+iv	The electrons come from the splitting of hydrogen atoms			1m
+which are lost by NADH and FADH formed in glycolysis and the Krebs cycle.													1m
+v	Energy is used to form ATP by phosphorylation.					1m	
+---------------------------------------------------
+
+[10255077]
+// Applying concepts //
+(*	ATP is described as an energy carrier in all organisms.
+a	i	Explain why ATP can act as an energy carrier.			(3 marks)
+ii	State two metabolic activities that involve the use of ATP.	(2 marks)
+
+b	The diagram below shows how ATP is produced in respiration.
+
+	
+
+Name the hydrogen donor and the final electron acceptor.		(2 marks)
+c	Describe and explain how the Krebs cycle will be affected if the final electron acceptor is not available.							(2 marks)
+
+-- answer --
+a	i	ATP is formed by combining a phosphate with ADP.			1m
+The formation of ATP stores energy.						1m
+ATP is readily broken down to release energy.				1m
+ii	Active transport / cell division / transmission of nerve impulses / muscle contraction / synthesis of biomolecules (any 2 or other correct answers)													1m x 2
+b	Hydrogen donor: NADH / FADH								1m
+Final electron acceptor: oxygen								1m
+c	As the final electron acceptor is not available, NAD and FAD cannot be regenerated.											1m
+As a result, the Krebs cycle will no longer operate.				1m	
+---------------------------------------------------
+
+[10255082]
+// Applying concepts //
+(	a	In a marathon, most of the energy of the runners is produced through aerobic respiration.
+i	Write a word equation for aerobic respiration.			(1 mark)
+ii	The runners breathe faster during the race. State the significance of  this.												(2 marks)
+
+b	In a sprint, most of the energy of the runners is produced through anaerobic respiration.
+i	Explain why the runners depend on anaerobic respiration to provide energy.							 				(2 marks)
+ii	Write a word equation for anaerobic respiration in skeletal muscle  cells.											(1 mark)
+iii	After sprinting, the runners keep breathing fast and deeply for a period of time. State the significance of this.					(2 marks)
+
+-- answer --
+a	i	Glucose + oxygen → carbon dioxide + water + energy			1m
+ii	The runners breathe faster to provide more oxygen to the cells for respiration													1m
+and enable a faster removal of carbon dioxide produced during respiration.														1m
+b	i	The muscles need a rapid supply of energy in a sprint.			1m
+Anaerobic respiration can provide additional energy in a very short time.														1m
+ii	Glucose → energy + lactic acid								1m
+iii	This is to take in extra oxygen								1m
+to remove the lactic acid produced during anaerobic respiration.		1m	
+---------------------------------------------------
+
+[10255085]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The rate of respiration of an organism can be estimated by using a respirometer. The respirometer measures the volume of oxygen consumed by an organism over a fixed period of time. The diagram below shows a simple respirometer. A similar set-up without an animal was used as a control.
+
+	
+a	Explain why the respirometer must be airtight.				(1 mark)
+b	Name one chemical that can be used as a carbon dioxide absorbent.															(1 mark)
+c	Explain why the drop of dye solution moved towards the animal in the experimental set-up.									(4 marks)
+d	Name one animal that can be placed in the respirometer.		(1 mark)
+e	If the carbon dioxide absorbent was removed from the boiling tube, what would happen to the drop of dye solution in the experimental set-up? Explain your answer.									(3 marks)
+f	Explain how this respirometer should be modified to measure the rate of respiration of a plant.									(2 marks)
+
+-- answer --
+a	This is to ensure any change in pressure inside the boiling tube can be detected. 														1m
+b	Potassium hydroxide / sodium hydroxide							1m
+c	The animal carried out aerobic respiration and took in oxygen in the boiling tube. 														1m
+Carbon dioxide given out during respiration was absorbed by the carbon dioxide absorbent. 												1m
+As the volume of gas inside the boiling tube decreased, the pressure dropped.															1m
+The atmospheric pressure was greater than the pressure inside the tube. Therefore the drop of dye solution was pushed towards the animal.		1m
+d	Grasshopper (or other reasonable answers)						1m
+e	The position of the drop of dye solution would be the same as that of the control set-up.													1m
+The volume of carbon dioxide given out by the animal was the same as the volume of oxygen it took in.											1m
+Thus there would be no overall change in pressure inside the boiling tube.	1m
+f	The boiling tube should be covered with a light-proof cover / aluminium foil.	1m
+This prevents the plant from carrying out photosynthesis.				1m	
+---------------------------------------------------
+
+[10255088]
+// Calculation // Schematic diagram //
+(*	The diagram below shows an outline of different stages of aerobic respiration (X, Y and Z).
+
+	
+
+a	i	Name stages X and Z.								(2 marks)
+ii	State where these stages occur.						(2 marks)
+
+b	NADH and FADH are oxidized in oxidative phosphorylation to yield more ATP.
+i	Calculate the net yield of ATP per glucose molecule in aerobic respiration by completing the following table (stage Y was done as an example).											(3 marks)
+Stage	ATP formed	NADH formed	FADH formed	Net yield of ATP	
+X					
+Y	0	2	0	6	
+Z					
+			Total: 		
+
+ii	Which of the stages, X, Y or Z, yields the greatest number of ATP?													(1 mark)
+iii	ATP is also produced in anaerobic conditions but the yield is much less than that in aerobic respiration. Explain why.				(4 marks)
+
+-- answer --
+a	i	X: glycolysis										1m
+Z: Krebs cycle										1m
+ii	X occurs in the cytoplasm.								1m
+Z occurs in the mitochondrial matrix.						1m
+b	i	
+Stage
+ATP formed
+NADH formed
+FADH formed
+Net yield of ATP
+
+X
+2
+2
+0
+8
+
+Y
+0
+2
+0
+6
+
+Z
+2
+6
+2
+24
+
+
+
+
+Total:
+38
+
+1m for 1 correct row, 1m for correct total					1m x 3
+ii	Z												1m
+iii	In anaerobic conditions, there is no oxygen to act as the final electron acceptor. 											1m
+NAD and FAD cannot be regenerated. 					1m
+As a result, the Krebs cycle can no longer operate.			1m
+Only glycolysis can continue, thus only 2 ATP are formed.		1m	
+---------------------------------------------------
+
+[10255098]
+// Experiment // Schematic diagram // Applying concepts //
+(*	A student prepared the following set-up to demonstrate the release of heat by a living mouse during respiration.
+	
+a	The liquid levels in both arms of the U-shaped capillary tube did not change much during the experiment. Why?						(2 marks)
+b	What would happen to the liquid levels if the set-up was able to detect the heat released by the mouse? Explain.						(3 marks)
+c	Suggest one improvement to make the set-up more sensitive to the release of heat.												(2 marks)
+d	Write a word equation to show how heat is produced during respiration by the mouse.											(2 marks)
+e	Apart from being lost as heat, state one other fate of the energy released during respiration.										(1 mark)
+-- answer --
+a	Heat released by the living mouse was lost to the surroundings quickly.	1m
+The difference in the temperature of the two glass jars was very small.		1m
+b	The liquid level in the left arm of the U-shaped capillary tube would drop while that in the right arm would rise.										1m
+As heat was released by the mouse during respiration, air in the test tube on the left side would be warmed up. 									1m
+The air inside the test tube would expand and the pressure inside the test tube would increase. This would cause the liquid level in the left arm to fall and that in the right arm to rise. 											1m
+c	Use some cotton wool to wrap the glass jars.						1m
+This prevents heat loss from the glass jars to the surroundings.			1m
+d	Glucose + oxygen → carbon dioxide + water + energy				2m
+e	It is stored as chemical energy in ATP.							1m	
+---------------------------------------------------
+
+[10255107]
+// Experiment // Schematic diagram // Applying concepts //
+(	The diagram below shows an experimental set-up. The sugar solution was boiled. Yeast was added after the sugar solution was cooled down. A layer of paraffin oil was then added onto the mixture.
+
+	
+
+a	What is the gas released from the vacuum flask? Suggest a test to verify your answer.											(2 marks)
+b	Explain why it is necessary to boil the sugar solution and add a layer of paraffin oil onto the mixture.								(3 marks)
+c	State two more changes that could be detected in the vacuum flask at the end of the experiment.									(2 marks)
+d	State two applications of fermentation by yeast.				(2 marks)
+e	If paraffin oil was not added and the sugar solution was not boiled, would the gas still be produced? Explain.							(3 marks)
+
+-- answer --
+a	Carbon dioxide											1m
+It turns lime water milky. / It turns hydrogencarbonate indicator yellow.	1m
+b	Boiling forces the dissolved air in the solution to escape.			1m
+Paraffin oil prevents oxygen in the air from dissolving into the solution.	1m
+Both are needed to ensure no oxygen is present in the solution.		1m
+
+c	A smell of alcohol could be detected in the mixture.				1m
+The mixture became warm.								1m
+d	Brewing of beer / brewing of wine / bread-making (any 2)			1m x 2
+e	Yes 													1m
+Yeast would carry out aerobic respiration. 						1m
+Glucose would be broken down into carbon dioxide and water.		1m	
+---------------------------------------------------
+
+[10255131]
+// Experiment // Schematic diagram // Applying concepts //
+(*	The diagram below shows an experiment, which was carried out to study aerobic respiration of a grasshopper.
+
+	
+
+a	What is the function of potassium hydroxide?				(1 mark)
+b	Before the experiment started, the clip were opened for a while and then closed. Why is this necessary?							(2 marks)
+c	Write a word equation for the type of respiration carried out by the grasshopper. 											(2 marks)
+d	After 2 hours, the liquid level in arm X rose but that in arm Y fell. Explain why.													(4 marks)
+e	What may happen if the grasshopper is placed in the set-up for 5 days?														(1 mark)
+-- answer --
+a	It is used to absorb carbon dioxide in the test tube.					1m
+b	This is to equalize the pressure in both arms of the U-shaped capillary tube.																1m
+This ensures that the liquid levels in both arms are the same at the beginning of the experiment.												1m	
+c	Glucose + oxygen → carbon dioxide + water + energy				2m
+d	The grasshopper carried out aerobic respiration and took in oxygen in the test tube. 													1m
+Carbon dioxide given out during respiration was absorbed by potassium hydroxide. 												1m
+As the volume of gas inside the test tube decreased, the pressure dropped.	1m
+The atmospheric pressure was greater than the pressure inside the tube. 	1m Therefore the liquid level in arm X rose and the liquid level in arm Y fell.
+e	The grasshopper may die due to a lack of oxygen.					1m	
+---------------------------------------------------
+
+[10255133]
+// Graph plotting // Experiment //
+(**The diagram below shows an experimental set-up used to study respiration of yeast.
+
+	
+
+a	Sketch a graph to show the volume of oil in the measuring cylinder against time. Explain briefly.									(6 marks)
+
+b	Explain why it is not suitable to replace oil with water.			(2 marks)
+c	List two possible control set-ups for the above experiment.		(2 marks)
+
+-- answer --
+a	
+		
+Correct axes											1m
+S-shaped curve											1m 
+Explanation:
+The volume of oil in the measuring cylinder reflects the volume of carbon dioxide released during respiration of the yeast.						1m
+At the beginning, the amount of yeast was smaller. The volume of carbon dioxide released during respiration was smaller.						1m
+As the yeast grew, the amount of yeast increased. Therefore the volume of carbon dioxide released increased.								1m
+The glucose in the flask was used up at the end of the experiment. Therefore, no carbon dioxide was released.								1m
+b	Carbon dioxide is readily soluble in water.						1m
+As carbon dioxide dissolves, the pressure increase in the flask may not be enough to displace the liquid.										1m
+c	Use 1% glucose solution in the flask. /
+Use boiled yeast in 1% glucose solution in the flask. /
+Use yeast suspension in the flask. (any 2)						1m x 2	
+---------------------------------------------------
+
+[10255134]
+// Experiment // Applying concepts //
+The diagram below shows a set-up used to study anaerobic respiration of yeast. When the experiment started, the solution appeared cloudy and gas bubbles were releasing from the solution. After 2 days, the solution became clear and no more gas bubbles were released.
+
+	
+
+a	What precaution should be taken to ensure the yeast carries out anaerobic respiration?											(1 mark)
+b	How can the air-free glucose solution be prepared?			(1 mark)
+c	What is the gas released?								(1 mark)
+d	Why did the solution become clear after 2 days?				(3 marks)
+e	Write the word equation of anaerobic respiration carried out by the yeast.														(2 marks)
+
+-- answer --
+a	Add a layer of paraffin oil onto the mixture so that oxygen in the air cannot dissolve into the solution.											1m
+b	By boiling the glucose solution to force the dissolved oxygen in the solution to escape.													1m
+c	Carbon dioxide												1m
+d	Yeast carried out anaerobic respiration and ethanol was produced.		1m
+High level of ethanol in the flask killed the yeast. 					1m
+The dead yeast sank to the bottom.								1m
+e	Glucose → energy + ethanol + carbon dioxide 						2m	
+---------------------------------------------------
+
+
+[10255138]
+// Graph interpretation // Applying concepts //
+(*	A balloon was fitted to the mouth of a bottle containing a mixture of yeast and boiled apple juice. The change in the circumference of	the balloon during the experiment is shown in the graph below.
+
+	
+
+a	Explain the increase in the circumference of the balloon in the first 2 days.														(4 marks)
+b	Suggest two reasons to explain why the increase in the circumference of the balloon stopped after 2 days.								(2 marks)
+c	State the importance of yeast in bread-making.				(2 marks)
+
+-- answer --
+a	Yeast carried out anaerobic respiration							1m
+using the sugars in the apple juice.								1m
+Carbon dioxide was released.									1m
+The pressure inside the bottle increased and thus the balloon inflated.		1m
+b	Sugars in the apple juice were used up.							1m
+Yeast was killed by the ethanol produced.							1m
+c	Yeast produces carbon dioxide when it carries out anaerobic respiration.	1m
+Carbon dioxide can help raise the dough, giving the bread a spongy texture.																1m	
+---------------------------------------------------
+
+
+[10255139]
+// Applying concepts //
+(*	Seals are mammals which feed on fish. To hunt for fish, seals have to dive in deep sea for a long period of time. During diving, seals carry out anaerobic respiration.
+a	Explain why muscles of the seals respire anaerobically during diving.															(2 marks)
+b	Explain why anaerobic respiration cannot go on forever.		(2 marks)
+c	Give one example of human activities that depends on mainly anaerobic respiration to provide energy.								(1 mark)
+d	Both seals and humans keep breathing fast and deeply for a period of time after carrying out anaerobic respiration. What is the significance of this?														(2 marks)
+e	Give one advantage of anaerobic respiration and one advantage of aerobic respiration.											(2 marks)
+
+-- answer --
+a	Oxygen supply is insufficient during prolonged diving.					1m
+Anaerobic respiration provides additional energy for the muscles to contract.															1m
+b	Lactic acid is produced during anaerobic respiration. 					1m
+High level of lactic acid in the body may be harmful. 					1m
+c	Strenuous exercises / sprinting / tennis (or other reasonable answers)		1m
+d	This is to take in extra oxygen									1m
+to remove the lactic acid produced during anaerobic respiration.			1m
+e	Advantage of anaerobic respiration:
+It does not require oxygen. / It releases energy more rapidly.			1m
+Advantage of aerobic respiration:
+A larger amount of energy is released. / No lactic acid or ethanol is formed.																1m	
+---------------------------------------------------
+
+
+
+Essays
+
+[10255240]
+// Cross-topic // Comparison // Communication //
+(*	Describe the similarities and differences of chloroplasts and mitochondria in terms of their structure.										(9 marks)
+-- answer --
+Similarities:
+Both of them are bounded by a double membrane.						1m
+Both of them are filled with fluid (stroma in chloroplasts, mitochondrial matrix in mitochondria). 													1m
+Both contain enzymes for their functions. 								1m
+Differences:
+Chloroplasts contain thylakoids / grana but mitochondria do not. 				1m
+The inner membrane of mitochondria is highly folded but the inner membrane of chloroplasts is not. 												1m
+Chloroplasts contain chlorophyll but mitochondria do not. 					1m
+Communication													3m	
+---------------------------------------------------
+
+[10255257]
+// Communication // Basic concepts //
+(*	Describe how ATP is formed in aerobic respiration.				(10 marks)
+-- answer --
+Some ATP is formed in glycolysis during the oxidation of triose phosphate to pyruvate.																1m
+Some ATP is formed in the Krebs cycle during the conversion of the 6-C compound to the 4-C compound.												1m
+NADH is formed during the oxidation of triose phosphate to pyruvate, the conversion of pyruvate to acetyl-CoA and the conversion of the 6-C compound to the 4-C compound.																1m
+FADH is formed during the conversion of the 6-C compound to the 4-C compound.																1m
+NADH and FADH lose hydrogen in oxidative phosphorylation. 				1m
+Electrons from the hydrogen atoms take part in a series of redox reactions along an electron transport chain in the inner membrane of mitochondria.				1m
+Energy is released in the process to form ATP. 							1m
+Communication													3m	
+---------------------------------------------------
+[10255266]
+// Cross-topic // Comparison // Communication //
+(*	Describe the similarities and differences in the processes of photosynthesis and respiration.												(9 marks)
+-- answer --
+Similarities:
+Both of them involve the formation of ATP. /
+Both of them involve hydrogen carriers (NADP in photosynthesis, NAD and FAD in respiration). /
+Both of them involve energy conversion. /
+Both of them involve cyclic reactions (the Calvin cycle in photosynthesis, the Krebs cycle in respiration). (any 3)									1m x 3
+Differences:
+Photosynthesis produces organic molecules while respiration breaks down organic molecules.													1m
+ATP is formed in photophosphorylation in photosynthesis while ATP is formed in oxidative phosphorylation, glycolysis and the Krebs cycle in respiration.	1m
+NADP acts as the hydrogen carrier in photosynthesis while NAD and FAD act as the hydrogen carriers in respiration.									1m
+Communication												3m	
+---------------------------------------------------
+
+

@@ -1,0 +1,1587 @@
+Chapter 9		Nutrition and gas exchange in 						plants 
+
+
+Multiple-choice questions
+
+[10248707]
+// Photomicrograph // High order thinking // Comparison //
+**	The photomicrograph below shows the cross section of a leaf of a plant.
+
+	
+
+Which of the following is a feature observable in the photomicrograph that allows you to determine whether the leaf is taken from a submerged plant or a floating plant?
+A	There are large air spaces in the leaf, indicating that the leaf is taken from a submerged plant.
+B	There is no cuticle on both surfaces of the leaf, indicating that the leaf is taken from a submerged plant.
+C	There are no stomata on the lower surface of the leaf, indicating that the leaf is taken from a floating plant.
+D	There are stomata on the upper surface of the leaf only, indicating that the leaf is taken from a floating plant.
+D	
+---------------------------------------------------
+
+[10248709]
+// Graph interpretation // High order thinking // Experiment //
+**	In an experiment, a student enclosed the aerial part of a potted plant in a transparent plastic bag. He then placed the plant in a certain place in his house. He collected air sample from the plastic bag and measured its carbon dioxide concentration every 6 hours.
+
+	
+
+The graph below shows the change in the carbon dioxide concentration of the air sample in a certain day.
+	
+
+Which of the following can be deduced from the results?
+A	The rate of photosynthesis was the highest from 0:00 to 6:00.
+B	The closure of stomata stopped gas exchange at 18:00.
+C	The plant did not carry out respiration at 18:00.
+D	The plant was carrying out photosynthesis from 6:00 to 18:00.
+D	
+---------------------------------------------------
+
+[10248713]
+// Scientific investigation // High order thinking //
+*	Directions: The following two questions refer to the table below, which shows the set-ups used in an investigation. The colour of the indicator in each set-up was recorded after 4 hours. The compensation point was found to occur in  set-up Y.
+
+Set-up X	Set-up Y	Set-up Z	
+			
+
+The boiling tube in the control set-up
+A	should contain lime water instead of red hydrogencarbonate indicator.
+B	should contain more Hydrilla.
+C	should contain no Hydrilla.
+D	should not be stoppered.
+C	
+---------------------------------------------------
+
+
+[10248730]
+// Scientific investigation // High order thinking //
+*	If water shrimps are introduced into set-up Y, which of the following combinations correctly shows the colour of the indicator 4 hours later and the explanation for this?
+	Colour		Explanation
+A	yellow		more carbon dioxide is released in respiration
+B	yellow		more oxygen is consumed in respiration
+C	purple		more carbon dioxide is released in respiration
+D	purple		more oxygen is consumed in respiration
+A	
+---------------------------------------------------
+
+[10248744]
+// Graph interpretation // High order thinking //
+**	The graph below shows the results of four experiments (P, Q, R and S) for investigating the effects of temperature, magnesium concentration in soil and light intensity on the rate of carbon dioxide (CO2) uptake or release of a plant.
+
+	
+
+In which of the experiments are both temperature and magnesium concentration in soil limiting the rate of carbon dioxide uptake or release at high light intensities?
+A	P only					B	Q and R only
+C	P, Q and R only			D	Q, R and S only
+A	
+---------------------------------------------------
+
+[10248751]
+// Basic concepts //
+	In photosynthesis of plants,
+(1)	inorganic substances are made from organic substances.
+(2)	carbon dioxide is released as a by-product.
+(3)	light energy is trapped by chlorophyll.
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10248796]
+// Applying concepts //
+*	The photograph below shows the leaves of a green plant which suffers from a deficiency disease.
+
+	
+
+Which of the following is the most possible cause of the disease in the plant? 
+A	deficiency of phosphate in the soil
+B	deficiency of magnesium ions in the soil
+C	deficiency of water in the soil
+D	deficiency of nitrogen gas in the soil air
+B	
+---------------------------------------------------
+
+
+[10248809]
+// Experiment //
+*	Directions: The following two questions refer to the diagrams below, which show four set-ups used for studying the effect of mineral deficiency on plant growth.
+	
+Why are the conical flasks in set-ups (1), (2) and (3) wrapped in aluminium foil?
+A	To keep the nutrient solution warm.
+B	To prevent the breakdown of nutrients in the solution.
+C	To prevent the growth of photosynthetic microorganisms in the nutrient solution.
+D	To provide a dark environment for the growth of the roots.
+C	
+---------------------------------------------------
+
+
+[10248811]
+// Experiment //
+*	Results from which two set-ups should be compared to find out the effect of nitrogen deficiency on plant growth?
+A	(1) and (2)
+B	(1) and (3)
+C	(2) and (3)
+D	(3) and (4)
+A	
+---------------------------------------------------
+
+
+[10248814]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the transverse section of a part of a leaf of a terrestrial plant.
+	
+
+Which of the labelled cells absorb(s) carbon dioxide in the daytime?
+A	P only
+B	Q and R only
+C	Q, R and S only
+D	P, Q, R and S
+C	
+---------------------------------------------------
+
+
+[10248841]
+// Schematic diagram // Basic concepts //
+*	Which of the labelled cells release(s) carbon dioxide at night?
+A	P only
+B	Q and R only
+C	Q, R and S only
+D	P, Q, R and S
+D	
+---------------------------------------------------
+
+[10248848]
+// Basic concepts //
+*	Which of the following are adaptations of leaves for gas exchange?
+(1)	The leaf blade is thin.
+(2)	The cuticle is thin.
+(3)	There are stomata on the epidermis.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10248854]
+// Basic concepts //
+*	Gas exchange in woody plants takes place at
+(1)	leaves.
+(2)	stems.
+(3)	roots.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10248866]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the net amount of oxygen released or absorbed by the plants in a garden in 24 hours.
+	
+Which of the following can be deduced from the graph?
+A	At time P, the plants do not carry out respiration.
+B	At time Q, the rate of respiration is higher than the rate of photosynthesis in the plants.
+C	At time R, no net photosynthesis occurs in the plants.
+D	At time T, light intensity starts to decrease.
+C	
+---------------------------------------------------
+
+
+[10248907]
+// Graph interpretation // Applying concepts //
+*	During which time period do the plants stop carrying out photosynthesis?
+A	P-Q
+B	Q-V
+C	R-U
+D	S-T
+D	
+---------------------------------------------------
+
+
+[10248924]
+// Applying concepts //
+*	The photograph below shows a plant suffering from a deficiency disease.
+	
+Which of the following are most likely the causes of the disease?
+(1)	deficiency of nitrates in soil
+(2)	deficiency of magnesium ions in soil
+(3)	deficiency of phosphates in soil
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10248928]
+// Basic concepts //
+*	Which of the following combinations correctly shows the elements obtained by plants from the air through the leaves and from the soil through the roots?
+	From the air		From the soil
+A	oxygen			carbon
+B	carbon			phosphorus
+C	nitrogen			magnesium
+D	potassium		nitrogen
+B	
+---------------------------------------------------
+
+
+[10248930]
+// Experiment //
+*	Directions: The following two questions refer to the set-up below, which is used to investigate the effect of potassium deficiency on plant growth.
+	
+
+Which of the following is/are the reason(s) for wrapping the flask in aluminium foil?
+(1)	To prevent the decomposition of nutrients in the solution under sunlight
+(2)	To prevent the cells in the roots of the seedlings from carrying out photosynthesis
+(3)	To prevent the growth of algae in the solution
+A	(1) only
+B	(2) only
+C	(3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+
+[10248935]
+// Experiment //
+*	The result from which of the following set-ups should be compared with the result from the set-up above to find out the effect of potassium deficiency on plant growth?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+
+[10248943]
+// Basic concepts //
+*	Which of the following statements about gas exchange in plants is correct?
+A	The surfaces of roots are impermeable to gases.
+B	Gas exchange only occurs through the stomata on leaves.
+C	Woody plants exchange gases with the surrounding air through the lenticels by diffusion.
+D	Carbon dioxide produced by root cells is carried to the leaves and then released out to the atmosphere.
+C	
+---------------------------------------------------
+
+
+[10248954]
+// Data handling // Comparison //
+*	The table below shows the average number of chloroplasts in three types of cells in the leaf of a plant.
+
+Cell	Average number of chloroplasts in the cell	
+X	0	
+Y	18	
+Z	5	
+
+Which of following is the most likely cell type of X, Y and Z?
+	X	Y	Z	
+A	epidermal cell	palisade mesophyll cell	spongy mesophyll cell	
+B	epidermal cell	spongy mesophyll cell	palisade mesophyll cell	
+C	spongy mesophyll cell	epidermal cell	palisade mesophyll cell	
+D	spongy mesophyll cell	palisade mesophyll cell	epidermal cell	
+
+A	
+---------------------------------------------------
+
+
+[10248961]
+// Experiment //
+*	The diagram below shows two set-ups used to study the effect of light on gas exchange of plants. The set-ups were put under bright light for 5 hours.
+
+	
+
+Which of the following combinations correctly shows the colour of the hydrogencarbonate indicator in the two set-ups after 5 hours?
+	Set-up X			Set-up Y
+A	yellow			red
+B	yellow			purple
+C	red				purple
+D	purple			yellow
+D	
+---------------------------------------------------
+
+
+[10248965]
+// Applying concepts //
+	The diagram below shows a green plant.
+
+	
+
+Which arrow(s) show(s) the net flow of oxygen when the plant is exposed to bright light?
+A	X only
+B	Y only
+C	X and Z only
+D	Y and Z only
+D	
+---------------------------------------------------
+
+
+[10248982]
+// Applying concepts //
+*	Plant X is protein-deficient and plant Y is chlorophyll-deficient. Which minerals should be supplemented to plant X and plant Y respectively?
+	Plant X				Plant Y
+A	potassium ion			phosphate
+B	potassium ion			magnesium ion
+C	nitrate				magnesium ion
+D	nitrate				phosphate
+C	
+---------------------------------------------------
+
+[10248993]
+// Basic concepts //
+	Stomata are important structures for gas exchange in plants. Which of the following statements about stomata is/are correct?
+(1)	Stomata are living cells.
+(2)	Stomata allow oxygen and carbon dioxide only to pass into or out of leaves.
+(3)	For terrestrial dicotyledonous plants, there are usually more stomata on the lower epidermis than on the upper epidermis of the leaf.
+A	(1) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10249005]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the transverse section of a leaf of a dicotyledonous plant.
+	
+
+Which of the following is the function of X?
+A	to keep the leaf moist
+B	to keep the leaf cool
+C	to allow gases to diffuse into the cells
+D	to allow light to pass through and reach the cells
+C	
+---------------------------------------------------
+
+
+[10249018]
+// Basic concepts //
+	Which of the following statements about guard cells is incorrect?
+A	They control the opening of the stoma.
+B	They cannot carry out photosynthesis.
+C	They can be found in the leaves of floating plants.
+D	They are sausage-shaped.
+B	
+---------------------------------------------------
+
+
+[10249021]
+// Graph interpretation //
+*	The graph below shows the effect of light intensity on the rate of gas exchange in a plant.
+
+	
+
+At which light intensity is the compensation point reached?
+A	0 arbitrary unit	
+B	40 arbitrary units
+C	300 arbitrary units
+D	500 arbitrary units
+B	
+---------------------------------------------------
+
+
+[10249026]
+// Graph interpretation //
+*	The graph below shows the effect of light intensity on the rate of gas exchange in a plant.
+
+	
+
+The curve finally levels off because
+A	the rate of respiration becomes higher than that of photosynthesis.
+B	the rate of photosynthesis becomes the same as that of respiration.
+C	some factors limit the rate of photosynthesis.
+D	enzymes in the plant become denatured.
+C	
+---------------------------------------------------
+
+[10249033]
+// Experiment //
+*	The diagram below shows a set-up for investigating the effect of light intensity on the gas exchange of leaves. The set-up was left for 5 hours and the colour of the hydrogencarbonate indicator in the three boiling tubes was recorded.
+
+	
+
+The results are shown in the table below.
+Boiling tube	P	Q	R	
+Colour of hydrogencarbonate indicator after 5 hours	Purple	Red	Red	
+
+Which of the following correctly describes the rate of photosynthesis of the leaf in boiling tube Q?
+A	Photosynthesis did not occur.
+B	The rate of photosynthesis was lower than the rate of respiration.
+C	The rate of photosynthesis was equal to the rate of respiration.
+D	The rate of photosynthesis was higher than the rate of respiration.
+C	
+---------------------------------------------------
+
+[10249036]
+// Graph interpretation // Applying concepts //
+**	Which of the following graphs correctly shows the change in the rate of photosynthesis of a plant from 6:00 am to 12:00 noon?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10249044]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of a plant cell.
+
+	
+
+This cell should be
+A	a leaf epidermal cell.
+B	a spongy mesophyll cell.
+C	a root epidermal cell.
+D	a root cortex cell.
+B	
+---------------------------------------------------
+
+[10249064]
+// Graph interpretation // High order thinking //
+**	The graph below shows the net oxygen uptake or release of a plant over a 24-hour period. Which arrow indicates the night-time?
+	
+A	(1)			B	(2)
+C	(3)			D	(4)
+C	
+---------------------------------------------------
+
+[10249078]
+// Schematic diagram //
+*	The diagram below shows a section of a leaf of a dicotyledonous plant.
+	
+Which of the cells absorb carbon dioxide when the plant is under bright sunlight?
+A	Q and R only
+B	P, Q and R only
+C	Q, R and S only
+D	P, Q, R and S
+C	
+---------------------------------------------------
+
+[10249081]
+// Schematic diagram //
+*	The diagram below shows the transverse section of a leaf of a dicotyledonous plant.
+	
+Which of the arrows indicate(s) the direction(s) of the net flow of oxygen when the plant is under bright sunlight?
+A	Q only
+B	R only
+C	P and Q only
+D	P and R only
+B	
+---------------------------------------------------
+
+[10249086]
+// Basic concepts //
+*	Which of the following correctly describe(s) the direction(s) of the net flow of oxygen in a plant during the daytime?
+(1)	from the atmosphere into the air spaces of the leaves
+(2)	from the spongy mesophyll cells to the air spaces of the leaves
+(3)	from the soil air into the epidermal cells of the roots
+A	(1) only				B	(2) only
+C	(1) and (3) only		D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10249089]
+// Graph interpretation //
+**	The graph below shows the net carbon dioxide uptake or release of two plants (X and Y) at different light intensities.
+	
+Which of the following statements is/are correct?
+(1)	The rate of respiration of plant X is lower than that of plant Y.
+(2)	The maximum rate of photosynthesis of plant X is higher than that of plant Y.
+(3)	In an environment with light intensity lower than 2 arbitrary units, plant Y grows better than plant X.
+A	(2) only				B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10249093]
+// Basic concepts //
+	Which of the following combinations of the features of the leaves of terrestrial plants and their adaptations for gas exchange is incorrect?
+	Feature	Adaptation	
+A	broad and flat	provides a large surface area	
+B	presence of a water film on mesophyll cells	allows gases to dissolve	
+C	epidermis not covered by cuticle	allows gases to diffuse freely	
+D	many stomata	allows gases to pass into and out of the leaves freely	
+
+C	
+---------------------------------------------------
+
+[10249138]
+// Graph interpretation //
+*	The graph below shows the net carbon dioxide uptake or release of a plant at different light intensities.
+	
+
+Which of the following statements about the plant is/are correct?
+(1)	At light intensities lower than 1 arbitrary unit, photosynthesis does not occur.
+(2)	At 1 arbitrary unit of light intensity, no net exchange of carbon dioxide occurs.
+(3)	At light intensities higher than 4 arbitrary units, respiration does not occur.
+A	(1) only
+B	(2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10249168]
+// Applying concepts //
+	Peter observed that the leaves of his tomato plant turned yellow. Which of the following is the most possible cause of this?
+A	deficiency of nitrogen gas in the atmosphere
+B	deficiency of carbon dioxide in the atmosphere
+C	deficiency of phosphate in the soil
+D	deficiency of magnesium ions in the soil
+D	
+---------------------------------------------------
+
+[10249184]
+// Schematic diagram //
+*	The diagram below shows the transverse section of a leaf.
+
+	
+
+Under bright sunlight, the concentration of carbon dioxide in the water film is higher than that in cell X. Which of the following is the significance of this phenomenon?
+A	This allows carbon dioxide to diffuse into leaf cells.
+B	This increases the rate of respiration of cell X.
+C	This decreases the rate of photosynthesis of cell X.
+D	This facilitates the removal of carbon dioxide from cell X.
+A	
+---------------------------------------------------
+
+[10249203]
+// Basic concepts //
+	Which of the following is/are the symptom(s) of magnesium deficiency in plants?
+(1)	The growth rate of the plants is reduced.
+(2)	Yellow leaves appear.
+(3)	Leaf edges become blackened.
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10249213]
+// Applying concepts //
+*	The photograph below shows a plant which can trap insects and digest them to obtain a necessary element.
+
+	
+
+Which of the following is the main element that the plant obtains from the insects?
+A	potassium
+B	magnesium
+C	nitrogen
+D	phosphorus
+C	
+---------------------------------------------------
+
+[10249215]
+// Basic concepts //
+	At the compensation point, a plant has no net uptake or release of carbon  dioxide. This is because
+A	the rate of photosynthesis is higher than the rate of respiration.
+B	the rate of photosynthesis is equal to the rate of respiration.
+C	the rate of photosynthesis is lower than the rate of respiration.
+D	carbon dioxide concentration limits the rate of photosynthesis.
+B	
+--------------------------------------------------- 
+
+[10249217]
+// Experiment //
+*	Directions: The following two questions refer to the diagram below, which shows a set-up for investigating the effect of light intensity on gas exchange in plants.
+
+	
+
+Which of the following combinations correctly states the colour of the hydrogencarbonate indicator in the two boiling tubes after 5 hours?
+	X	Y	
+A	yellow	purple	
+B	red	yellow	
+C	purple	red	
+D	purple	yellow	
+
+D	
+---------------------------------------------------
+
+[10249219]
+// Experiment //
+*	If a student places a bag of potassium hydroxide pellets above the indicator in tube Y, the colour of the hydrogencarbonate indicator will remain red after 5 hours. Which of the following accounts for this?
+A	Photosynthesis stops due to a lack of carbon dioxide in the tube.
+B	The potassium hydroxide pellets absorb the carbon dioxide released from the leaf.
+C	The leaf stops respiring because all the oxygen in the tube is used up.
+D	The leaf uses up the carbon dioxide in the tube for photosynthesis.
+B	
+---------------------------------------------------
+
+[10249230]
+// Graph interpretation //
+*	Directions: The following two questions refer to the graph below, which shows the relationship between light intensity and carbon dioxide exchange in a plant.
+	
+
+Which of the four points is the compensation point?
+A	W
+B	X
+C	Y
+D	Z
+C	
+---------------------------------------------------
+
+[10249234]
+// Graph interpretation //
+*	Which of the following statements about the graph is correct?
+A	At point W, only photosynthesis occurs.
+B	At point X, photosynthesis occurs at a faster rate than respiration.
+C	At point Y, no exchange of gases occurs.
+D	At point Z, photosynthesis occurs at a faster rate than respiration.
+D	
+---------------------------------------------------
+
+[10249242]
+// Experiment // Basic concepts //
+	The diagram below shows a set-up for investigating the effect of phosphorus on the growth of plants. The flask contains a nutrient solution that lacks phosphate.
+
+	
+
+Which of the following are the expected observations after 2 weeks?
+(1)	The stems become shorter.
+(2)	The roots develop poorly.
+(3)	Purple patches form on the leaves.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10249246]
+// Basic concepts //
+*	When do respiration and photosynthesis take place in plants?
+	Respiration			Photosynthesis
+A	in the daytime only 	in the daytime only
+B	at night only			in the daytime only
+C	all the time			in the daytime only
+D	all the time			all the time
+C	
+---------------------------------------------------
+
+[10249261]
+// Experiment //
+*	The diagram below shows four test tubes (W, X, Y and Z) which were placed at an equal distance from a light source.
+
+	
+
+Air in which test tubes contains the highest concentration of carbon dioxide after 5 hours?
+A	W
+B	X
+C	Y
+D	Z
+D	
+--------------------------------------------------- 
+
+[10249262]
+// Basic concepts //
+	Which of the following combinations correctly states the structures through which gas exchange takes place in a woody plant?
+	Root		Stem		Leaf
+A	stomata		epidermis		stomata
+B	lenticels		stomata		epidermis
+C	epidermis		lenticels		stomata
+D	epidermis		stomata		lenticels
+C	
+---------------------------------------------------
+
+[10249274]
+// Basic concepts //
+	Which of the following is the carbon source for the synthesis of carbohydrates in plants?
+A	water
+B	sunlight
+C	carbon dioxide
+D	minerals
+C	
+---------------------------------------------------
+
+[10249286]
+// Basic concepts //
+	In nature, plants obtain minerals mainly from
+A	the air.
+B	the rain.
+C	chemical fertilizers.
+D	the soil.
+D	
+---------------------------------------------------
+
+[10249295]
+// Photomicrograph // Schematic diagram //
+*	Directions: The following three questions refer to the diagram below, which shows the transverse section of a leaf of a terrestrial dicotyledonous plant.
+	
+If the leaf is exposed to sunlight for several hours and iodine solution is then added to the leaf, which parts will be stained blue-black?
+A	S and T only
+B	T and U only
+C	U and V only
+D	T, U and V only
+D	
+---------------------------------------------------
+
+[10249309]
+// Photomicrograph // Schematic diagram //
+*	Which of the following statements about the labelled structures is/are correct?
+(1)	S reduces water loss from the leaf.
+(2)	V can be found in the lower epidermis of the leaf only.
+(3)	U releases oxygen at noon.
+A	(1) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10249314]
+// Photomicrograph // Schematic diagram //
+*	The photomicrograph below shows the surface view of a leaf.
+	
+X corresponds to structure
+A	S.			B	T.
+C	U.			D	V.
+D	
+---------------------------------------------------
+
+[10249315]
+// Basic concepts //
+	Which of the following is not a major element that plants need for healthy growth?
+A	copper
+B	nitrogen
+C	magnesium
+D	potassium
+A	
+---------------------------------------------------
+
+[10249320]
+// Basic concepts //
+	Which of the following is exhibited by plants that are deficient in nitrogen?
+A	falling of leaves
+B	yellowing of leaves
+C	holes on leaves
+D	rapid growth of leaves
+B	
+---------------------------------------------------
+
+[10249325]
+// Schematic diagram //
+	The diagram below shows the transverse section of a leaf of a terrestrial dicotyledonous plant.
+	
+Which of the following statements about X is incorrect?
+A	It is surrounded by a pair of guard cells. 
+B	It is present mainly in the lower epidermis of the leaf.
+C	It is also present in herbaceous stems and the epidermis of roots.
+D	It is the main site through which gases diffuse into and out of the leaf.
+C	
+---------------------------------------------------
+
+[10249330]
+// Basic concepts //
+	In plants, magnesium is essential for the synthesis of
+A	cuticle.
+B	chlorophyll.
+C	glucose.
+D	starch.
+B	
+---------------------------------------------------
+
+[10249333]
+// Basic concepts //
+	Flowering plants take in and release gases mainly through
+A	the lenticels of the stems.
+B	the stomata of the stems.
+C	the cuticle of the leaves.
+D	the stomata of the leaves.
+D	
+---------------------------------------------------
+
+[10249356]
+// Basic concepts //
+	Green plants use light energy to synthesize carbohydrates from carbon dioxide and water by photosynthesis. Which of the following is their mode of nutrition?
+A	heterotrophic nutrition
+B	autotrophic nutrition
+C	holozoic nutrition
+D	saprophytic nutrition
+B	
+---------------------------------------------------
+
+[10249358]
+// Basic concepts //
+	Plants absorb minerals in the form of
+A	elements.
+B	particles.
+C	ions.
+D	molecules.
+C	
+---------------------------------------------------
+
+[10249375]
+// Basic concepts //
+*	Which of the following elements is/are not absorbed by plants from the soil?
+(1)	carbon
+(2)	nitrogen
+(3)	oxygen
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10249387]
+// Basic concepts //
+	Which of the following elements are not needed for healthy growth of plants?
+A	cobalt and sulphur
+B	potassium and calcium
+C	nitrogen and copper
+D	mercury and cadmium
+D	
+---------------------------------------------------
+
+[10249392]
+// Basic concepts //
+*	Nitrogen is mainly obtained by plants in the form of
+A	nitrogen gas.
+B	nitrite.
+C	nitrate and ammonium ion.
+D	nitrate and nitrogen gas.
+C	
+---------------------------------------------------
+
+[10249413]
+// Basic concepts //
+	Which of the following is not a trace element that is needed by plants for healthy growth?
+A	copper
+B	potassium
+C	cobalt
+D	zinc
+B	
+---------------------------------------------------
+
+
+Short questions
+
+[10249493]
+// Graph interpretation // High order thinking //
+**	A plant was placed in a shaded area for 25 days. The graph below shows the change in the compensation point of the plant during this period.
+	
+
+a	Describe the change in the compensation point of this plant during the above period.											(3 marks)
+b	With reference to the graph, explain whether this plant is likely to grow in an area having a constant light intensity of 300 units.			(4 marks)
+
+-- answer --
+a	The compensation point did not changed from day 0 to 5.				1m
+It decreased slightly from day 5 to 10, and decreased sharply from day 10 to 15.															1m
+It remained the same from day 15 to 25.							1m
+b	It can be observed from the graph that the compensation point of the plant did not drop below 500 units.											1m
+That means in an area having a light intensity of 300 units, the rate of respiration of the plant is higher than its rate of photosynthesis.					1m
+More food is consumed than is produced.							1m
+No net food is available for growth. Thus the plant is not likely to grow in such an area.														1m	
+---------------------------------------------------
+
+[10249499]
+// Graph interpretation // High order thinking // Communication //
+**	The graph below shows the rates of carbon dioxide (CO2) uptake and release of two plant species, P and Q, when they are exposed to different light intensities.
+	
+a	Suggest two factors which may be limiting the rate of carbon dioxide uptake of plant species P between points M and N.					(2 marks)
+b	Using information from the graph, explain why plant species Q is better adapted than plant species P to growing at lower light intensities.																(4 marks)
+
+-- answer --
+a	Carbon dioxide concentration, temperature						1m x 2
+(or other correct answers)
+b	The rate of respiration of plant species Q is lower than that of plant species P.														1m
+Less glucose produced from photosynthesis is broken down in respiration of plant species Q.												1m
+The compensation point of plant species Q is lower than that of plant species P.														1m
+At lower light intensities, the rate of photosynthesis of plant species Q is higher than that of plant species P.								1m	
+---------------------------------------------------
+
+[10249520]
+// Scientific investigation // Graph interpretation // High order thinking //
+*	In an investigation, similar rice plants were grown in pots of soil containing 15 g and 25 g of magnesium. The plants were watered every day, exposed to the same temperature (28 °C) but different light intensities. Six months later, the grains produced by the plants were collected and weighed. The graph below shows the results.
+	
+a	Besides the variables mentioned in the question, suggest two other variables which should be kept constant in this investigation.			(2 marks)
+b	State the range of light intensities at which the amount of magnesium in the soil was limiting the production of grains in rice plants. Explain with evidence from the graph.									(2 marks)
+c	Explain why the amount of magnesium in the soil affected the production of grains in rice plants.									(2 marks)
+
+-- answer --
+a	The amount of soil in each pot									1m
+The amount of water given to each pot							1m
+(or other correct answers)
+b	22-35 arbitrary units of light intensities							1m
+The mean mass of grains produced by each plant was increasing when the amount of magnesium in the soil increased from 15 g to 25 g.			1m
+c	Magnesium was used in the synthesis of chlorophyll.					1m
+Chlorophyll was essential for photosynthesis.						1m	
+--------------------------------------------------
+
+[10249523]
+// Basic concepts //
+	Complete the following paragraph with suitable words.			(5 marks)
+Plants absorb minerals in the form of ions from the soil through their roots. These minerals are essential for their healthy growth. The elements that form mineral ions can be divided into two types. Elements such as 
+a                      and b                      are needed in relatively large amounts in plants. They are called c                     . Elements such as copper are needed in very small amounts in plants. They are called d                     . When the soil becomes less fertile, farmers often apply e                      to provide the lacking minerals.
+-- answer --
+a, b	nitrogen / phosphorus / potassium / magnesium / sulphur / calcium (any 2)															1m x 2
+c	major elements / macronutrients								1m
+d	trace elements / micronutrients								1m
+e	fertilizers												1m	
+---------------------------------------------------
+
+[10249524]
+// Schematic diagram //
+	Below is a drawing of the transverse section of part of a leaf of a terrestrial plant.
+	
+a	Name the process by which gases move into and out of the leaf through structure R.											(1 mark)
+b	Describe how gases in the atmosphere reach the cells in tissue M.															(3 marks)
+c	Explain two ways by which the cells in tissue N are adapted for gas exchange.											(2 marks)
+
+-- answer --
+a	Diffusion													1m
+b	Gases in the atmosphere diffuse into the air space in the leaf through structure R.														1m
+Gases dissolve in the water film on the surfaces of the cells in tissue N and diffuse directly into the cells.											1m
+Gases in these cells diffuse to the neighbouring cells, finally reaching the cells in tissue M.													1m
+c	There are many air spaces among the cells. This allows gases to diffuse freely.															1m
+There is a water film on the surfaces of the cells. This allows gases to dissolve and then diffuse into or out of the cells.								1m	
+---------------------------------------------------
+
+[10249525]
+// Scientific investigation // High order thinking //
+**	You are provided with the following set-up to estimate the light intensity at which leaf P reaches its compensation point.
+	
+a	How would you vary the light intensity in this investigation?	(1 mark)
+b	What would you measure in this investigation?				(1 mark)
+c	What is the purpose of including tube Y in this investigation?	(1 mark)
+d	Why are tubes X and Y stoppered?							(1 mark)
+e	What is the use of the water bath in this investigation?			(1 mark)
+
+-- answer --
+a	By varying the distance of the bench lamp from the tubes. /
+By changing the light bulb of the bench lamp. (or other correct answers)	1m
+
+b	The colour of the indicator in the tubes after a fixed period of time, e.g. 30 minutes.														1m
+c	Tube Y acts as a control to show that any change in the colour of the indicator in tube X is due to leaf P.										1m
+d	To prevent the air in the atmosphere from affecting the colour of the indicator.															1m
+e	To prevent the leaf from being heated up by the bench lamp. /
+To provide a constant temperature for the tubes.						1m	
+---------------------------------------------------
+
+[10249527]
+// Graph interpretation //
+*	In an experiment, an aquatic plant was grown in a solution containing all the nutrients essential for plant growth. The graph below shows the change in the concentration of nitrates in the solution in 10 days. The plant grew very fast from day 2 to day 5.
+	
+
+a	Describe and explain the change in the concentration of nitrates in the solution from day 2 to day 5.								(3 marks)
+b	If a chemical that can slow down the rate of respiration of the aquatic plant is added to the solution at the beginning of the experiment, how will the absorption of nitrates by the plant be affected? Explain your answer.															(3 marks)
+
+
+
+
+-- answer --
+a	The concentration of nitrates in the solution decreased rapidly from day 2 to day 5.														1m
+During this period, the plant absorbed a large amount of nitrates			1m
+for the synthesis of proteins.									1m
+b	The rate of absorption of nitrates by the plant will decrease. 			1m
+As the chemical slows down the rate of respiration of cells, less energy is released.														1m
+Absorption of nitrates by active transport will be slowed down.			1m	
+---------------------------------------------------
+
+[10249538]
+// Scientific investigation //
+*	In an investigation studying the effect of magnesium deficiency on plant growth, a student inserted the roots of 3 seedlings into a flask of solution containing all the nutrients essential for plant growth but magnesium (set-up X). He put other 3 seedlings into another flask of solution containing all essential nutrients (set-up Y).
+a	Explain why seedlings, rather than mature plants, were used in this investigation.											(1 mark)
+b	State two variables that should be kept the same to ensure the test is fair.														(2 marks)
+c	How would the seedlings in set-up X differ from those in set-up Y after 3 weeks?												(2 marks)
+
+-- answer --
+a	Seedlings have fewer stored minerals. Their response to nutrient supply is more obvious. 												1m
+b	The volume of solution in each flask / size of the flasks / size of the seedlings / light intensity / temperature (any 2 or other correct answers)			1m x 2
+c	The seedlings in set-up X would grow poorly, while those in set-up Y would be healthy. 												1m
+The seedlings in set-up X would show a yellowing of leaves, while those in set-up Y would have green leaves. 								1m	
+---------------------------------------------------
+
+[10249542]
+// Graph interpretation //
+*	The graph below shows the net uptake or release of carbon dioxide by a plant in different light intensities.
+	
+
+a	Explain the decrease in the net release of carbon dioxide by the plant when light intensity increases from 0 to 500 arbitrary units.			(3 marks)
+b	With reference to the graph, explain why this plant cannot grow in an environment with a constant light intensity of 400 arbitrary units.															(3 marks)
+
+-- answer --
+a	As light intensity increases from 0 to 500 arbitrary units, the rate of photosynthesis of the plant increases.										1m
+More and more carbon dioxide is used in photosynthesis				1m
+while the amount of carbon dioxide released in respiration remains unchanged.															1m
+b	At light intensity of 400 arbitrary units, the rate of respiration of the plant is higher than the rate of photosynthesis.									1m
+More food is consumed in respiration than is produced in photosynthesis.	1m
+There is no net gain in food production for providing energy for different activities of the plant.												1m	
+---------------------------------------------------
+
+[10249544]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows the transverse section of a leaf of a dicotyledonous plant.
+	
+
+a	With reference to the photomicrograph, describe two features of the leaf that allow cell X to obtain the gas needed for photosynthesis.		(4 marks)
+b	Explain why the oxygen concentration in space Y is higher than that in the atmosphere in the daytime.								(2 marks)
+
+-- answer --
+a	The leaf is thin.												1m
+This reduces the diffusion distance of the gas needed for photosynthesis (i.e. carbon dioxide) from the atmosphere to cell X.						1m
+There are many air spaces among spongy mesophyll cells.				1m
+This allows carbon dioxide to diffuse freely to cell X.					1m
+(or other reasonable answers)
+b	In the daytime, the rate of photosynthesis of the leaf is higher than the rate of respiration.												1m
+There is a net release of oxygen from the leaf cells.					1m	
+---------------------------------------------------
+
+[10249573]
+// Overseas exam question // Graph interpretation // Applying concepts //
+*	Plants store food as starch.
+a	Explain why plants store food as starch rather than glucose.		(2 marks)
+b	Look at the graph below. It shows the amount of carbon dioxide used by photosynthesis and the amount of carbon dioxide produced by respiration in a plant over a 24-hour period.
+	
+
+i	At what time of day is most carbon dioxide used by photosynthesis?													(1 mark)
+ii	Write down the time of both compensation points.		(2 marks)
+iii	The shaded area X is greater than the shaded area Y.
+Explain why this is important for a plant.				(2 marks)
+					  OCR GCSE Biology A Higher Tier Unit 3 Jun 2010 Q4
+
+-- answer --
+a	Starch is insoluble.										1m
+It does not affect the water potential of cells.					1m
+b	i	12:00 noon										1m
+ii	7:30 am and 4:30 pm									1m x 2
+iii	Greater shaded area X means the amount of food / glucose / starch produced during photosynthesis is greater than that consumed during respiration.										2m	
+---------------------------------------------------
+
+[10249601]
+// Overseas exam question // Scientific investigation // Graph interpretation //
+*	Swamp stonecrop is an aquatic plant. In order to investigate its effect on pondwater oxygen level at different light intensities, the apparatus was set up as shown below in a darkened laboratory.
+An oxygen sensor was used to measure the oxygen level around the plant and different light intensities were achieved by using a fluorescent lamp controlled by a dimmer switch.
+	
+a	Suggest another means by which the intensity of the light could be varied.														(1 mark)
+b	Explain fully why a fluorescent lamp, which has low heat emission, is preferred over an incandescent heat-emitting lamp in this investigation.														(2 marks)
+The graph below indicates how the light intensity influences the oxygen level in the experimental beaker. The graph also shows the oxygen level in a control beaker which contained only water.
+
+
+
+
+
+
+
+
+
+
+
+
+	
+c	In comparison to the results for the control beaker, explain fully the results produced within the experimental beaker.					(3 marks)
+						  CCEA GCE (AS) Biology Module 2 Jun 2013 Q7c
+
+-- answer --
+a	By changing the distance between the lamp and the experimental beaker.															1m
+b	The temperature of the water in the experimental beaker will not be affected by the fluorescent lamp.										1m
+Therefore, light intensity will be the only factor changed during the investigation.														1m
+c	As light intensity rises, the oxygen level rises due to increasing rate of photosynthesis. /
+At low light intensity, the oxygen level is lower than that of the control beaker because the rate of respiration of swamp stonecrop is higher than the rate of photosynthesis. / 
+At high light intensity, the oxygen level is higher than that of the control beaker because the rate of photosynthesis of swamp stonecrop is higher than the rate of respiration. /
+At 375 lux, the compensation point is reached / the rate of respiration is equal to the rate of photosynthesis. (any 3)							1m x 3	
+---------------------------------------------------
+
+[10249608]
+// Graph interpretation // High order thinking // Calculation //
+**	The graph below shows the rate of carbon dioxide uptake and release of a plant over a 24-hour period.
+
+	
+a	Explain why there is no net uptake or release of carbon dioxide at 7:00 am and 5:30 pm.											(1 mark)
+b	Assume that the rate of respiration is constant throughout the period, estimate the rate of respiration and the maximum rate of photosynthesis, in mg carbon dioxide per hour.								(2 marks)
+c	Sketch a graph to show the rate of oxygen uptake or release over the same 24-hour period. 										(2 marks)
+
+-- answer --
+a	The rate of photosynthesis is equal to the rate of respiration. / The amount of carbon dioxide produced in respiration is equal to the amount consumed in photosynthesis.												1m
+b	Rate of respiration: 12 mg carbon dioxide per hour					1m
+Maximum rate of photosynthesis: 62 + 12 = 74 mg carbon dioxide per hour	1m
+
+
+
+
+
+
+
+c	
+
+Correct axes												1m
+Correct curve												1m	
+---------------------------------------------------
+
+[10249618]
+// Data handling // Applying concepts //
+	In an investigation of the effect of minerals on the growth of seedlings, some seedlings of similar masses were grown in two different nutrient solutions. After  2 weeks, the average dry masses of the seedlings in the two nutrient solutions were recorded. The results are shown in the table below.
+
+Nutrient solution	Average dry mass of seedlings (g)	
+Nitrogen-deficient nutrient solution	7.4	
+Complete nutrient solution	20.7	
+
+a	Why are seedlings used instead of mature plants in this investigation?															(2 marks)
+b	State and explain the difference in dry masses of the seedlings in the two nutrient solutions.										(2 marks)
+
+-- answer --
+a	Seedlings grow faster than mature plants.							1m
+The change in dry mass would be more noticeable.					1m
+b	Seedlings in nitrogen-deficient nutrient solution grew slower than those in complete nutrient solution.										1m
+This is because they could not get enough nitrogen for the synthesis of proteins, which are essential for growth.									1m	
+---------------------------------------------------
+
+[10249629]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the relationship between light intensity and carbon dioxide exchange in a plant.
+	
+a	At point X, there is a net release of carbon dioxide even there is light. Explain why. 											(2 marks)
+b	What do we call point Y? What happens to the plant at that point?															(2 marks)
+c	Explain why the net uptake of carbon dioxide does not increase with the increase in light intensity at light intensities higher than point Z.																(1 mark)
+
+-- answer --
+a	At point X, the light intensity is low. Thus the rate of photosynthesis is low.	1m
+The rate is lower than that of respiration.							1m
+b	Point Y is the compensation point.								1m
+The rate of photosynthesis is equal to the rate of respiration. / There is no net exchange of gases.											1m
+c	At light intensities higher than point Z, another factor limits the rate of photosynthesis.												1m	
+---------------------------------------------------
+
+[10249655]
+// Drawing // Applying concepts //
+	A student found that a plant has irregular yellow regions on its leaves. The photograph below shows a leaf of this plant.
+	
+He carried out an experiment to find out whether photosynthesis occurs in these yellow regions. He exposed the plant to bright light for several hours and then picked a leaf from it. The leaf was boiled and transferred to alcohol in a boiling tube over a hot water bath. A few drops of iodine solution were then added onto the leaf.
+a	i	Draw a labelled diagram to show the colour of the leaf after adding iodine solution.									(2 marks)
+ii	Explain the results. 								(2 marks)
+b	The student suspected that the yellowing of the leaves is caused by a deficiency of minerals in the soil. Suggest two minerals that he can try to add to the soil to improve the health of the plant.				(2 marks)
+-- answer --
+a	i
+
+													2m
+ii	The brown colour of the yellow regions indicates that photosynthesis did not occur in these regions.									1m
+This may be due to a lack of chlorophyll / chloroplasts in these regions.														1m
+b	Magnesium ion												1m
+Nitrate / ammonium ion										1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10249733]
+// Overseas exam question // Scientific investigation // Calculation //
+	The Audus apparatus shown below was used to measure the volume of oxygen produced by a shoot of pondweed (Elodea) over 15 minutes in each of three different light intensities. This data could be used to indicate the rate of photosynthesis in this aquatic plant.
+	
+a	i	State the function of the syringe in this apparatus.			(1 mark)
+ii	Describe how the independent variable could have been changed.													(1 mark)
+iii	Name one variable, other than time, that would need to have been kept the same. Explain how this variable would be controlled.	(2 marks)
+b	The experiment was carried out three times in each light intensity and the results are shown in the table below.
+Light intensity	Volume of oxygen collected in 15 minutes (cm3)	
+High	10.5	10.5	9	
+Medium	6	5.5	4.5	
+Low	2	3	1.5	
+
+i	Calculate the average rate of oxygen collection per hour at high light intensity. (Show your working.)						(3 marks)
+ii	Suggest why the volume of oxygen collected would be less than the total oxygen produced by this shoot.					(1 mark)
+c	Using the diagram of the apparatus provided, suggest how the accuracy of the results could be improved.							(1 mark)
+						  CCEA GCE (AS) Biology Module 2 Jun 2017 Q4
+
+
+
+
+
+-- answer --
+a	i	To move the column of gas to the scale for measurement /
+To reset apparatus										1m
+(or other reasonable answer)
+ii	Change the distance between the lamp and the pondweed.			1m
+iii	Temperature											1m
+Put the boiling tube into a beaker of water.						1m
+or
+Carbon dioxide concentration								1m
+Keep the concentration of the potassium hydrogencarbonate solution the same.												1m
+(or other reasonable answer)
+b	i	Average volume of oxygen collected in 15 minutes
+= (10.5 + 10.5 + 9) / 3
+= 10 cm3												1m
+Average rate of oxygen collection per hour
+= 10 / 15 × 60											1m
+= 40 cm3 per hour										1m
+ii	Some of the oxygen produced is consumed in respiration of the plant. /
+Some of the oxygen produced is dissolved in the solution. /
+Some of the oxygen produced escapes into the air.				1m
+(or other reasonable answer)
+c	Use a smaller scale.											1m
+(or other reasonable answer)	
+---------------------------------------------------
+
+[10249776]
+// Scientific investigation // Graph interpretation //
+*	In an investigation, a scientist grew plants in four beakers containing different solutions. The table below shows the solutions in each beaker. The initial mass of the plants in each beaker was the same.
+
+Beaker	Solution	
+W	A solution containing all the essential elements	
+X	A solution containing all the essential elements except magnesium	
+Y	A solution containing all the essential elements except nitrogen	
+Z	Distilled water	
+
+The scientist recorded the total mass of the plants in each beaker every three days in a two-week period. The graph below shows the changes in the mass of the plants in the beakers.
+
+	
+
+a	State two controlled variables of the investigation.			(2 marks)
+b	Draw one conclusion about the deficiency of magnesium and nitrogen from the results of the investigation. Explain your answer.			(2 marks)
+c	Based on the results of the investigation, state the deficiency of which element, magnesium or nitrogen, has a greater effect on the growth of the plants. Give one piece of evidence from the graph to support your answer.														(2 marks)
+d	Explain how a deficiency of magnesium affects the growth of the plants.														(3 marks)
+
+-- answer --
+a	The amount of solution in each beaker							1m
+The amount of light reaching the plants in each beaker				1m
+(other reasonable answers)
+b	Both the deficiency of magnesium and nitrogen reduces the growth of the plants.															1m
+Compared with the plants in beaker W, the total mass of the plants in beakers X and Y was smaller.											1m
+c	Nitrogen													1m
+The total mass of the plants in beaker Y is smaller than that of the plants in beaker X.														1m
+d	Magnesium forms part of the chlorophyll molecules.					1m
+With less chlorophyll, less light is captured by the plants for photosynthesis.																1m
+Less food is produced and thus the growth of the plants is reduced.		1m	
+---------------------------------------------------
+
+[10249790]
+// Graph interpretation // Comparison // STSE connections //
+**	Plants of a certain species are grown and sold as houseplants by farmers. The graph below shows the effects of light intensity on the rates of carbon dioxide (CO2) uptake and release of two of the plants, P and Q, which have been grown in bright light conditions and dim light conditions respectively.
+	
+a	Compare the effect of light intensity on the rates of carbon dioxide uptake and release of plant P with that of plant Q.					(4 marks)
+b	Find the compensation point of plant Q from the graph.		(1 mark)
+Plants of that species are usually grown in bright light conditions but farmers then move the plants to dim light conditions for some time before sale to lower their compensation point. The graph below shows how the compensation point of the plants decreased over 20 days after the farmer had moved the plants from bright light to dim light conditions.
+	
+c	Calculate the percentage decrease in the compensation point of the plants over these 20 days. Show your workings.					(2 marks)
+d	Suggest how long the farmers should keep the plants in dim light conditions before sale. Explain your answer.							(2 marks)
+e	Using evidence from the graph, explain why buyers should not grow the plants indoors where the light intensity is below 30 arbitrary units.															(3 marks)
+
+-- answer --
+a	At zero light intensity, the rate of carbon dioxide release of plant P was the same as that of plant Q. /
+As light intensity increased from zero, the rates of carbon dioxide release of both plants P and Q decreased and then became zero. /
+As light intensity increased, the rates of carbon dioxide uptake of both plants P and Q increased and then became constant. /
+As light intensity increased from zero, the rate of carbon dioxide release of plant Q decreased faster than that of plant P. /
+As light intensity increased, the rate of carbon dioxide uptake of plant Q increased faster than that of plant P. /
+At high light intensities, the maximum rate of carbon dioxide uptake of plant P is higher than that of plant Q.
+(any 4 or other reasonable answers)							1m x 4
+b	60 arbitrary units of light intensity							1m
+c	(90-32) / 90 × 100% 										1m
+= 64.4%												1m
+d	15 days												1m
+The compensation point did not further decrease after 15 days.		1m
+(or other reasonable answers)
+e	Below 30 arbitrary units of light intensity, the compensation point cannot be reached.												1m
+The rate of respiration is faster than the rate of photosynthesis.		1m
+Plants of that species fail to grow.							1m	
+---------------------------------------------------
+
+[10249794]
+// Scientific investigation // Graph interpretation // Calculation //
+**	There are two types of leaves in a beech tree. Sun leaves are located higher up the tree and exposed to the sun during daytime. Shade leaves are located at a lower position and overshadowed by sun leaves. In an investigation, the rates of carbon dioxide (CO2) uptake and release of the two types of leaves taken from a beech tree are measured at different light intensities. The graph below shows the results.
+	
+a	Identify the independent and dependent variables in this investigation.														(2 marks)
+b	Suggest two controlled variables in this investigation.			(2 marks)
+c	When the light intensity is 10 arbitrary units, what are the actual rates of photosynthesis of the sun leaves and shade leaves in terms of the rate of carbon dioxide uptake? Show your working.					(2 marks)
+d	At which light intensities do the sun leaves and shade leaves reach their compensation points?									(2 marks)
+e	Explain why having shade leaves is advantageous to a beech tree.															(1 mark)
+-- answer --
+a	Independent variable: light intensity							1m
+Dependent variables: rate of carbon dioxide uptake or release		1m
+b	Number / surface area of sun leaves and shade leaves / surrounding temperature
+(any 2 or other correct answers)								1m x 2
+
+c	Sun leaves: 2 + 2 = 4 arbitrary units of rate of carbon dioxide uptake	1m
+Shade leaves: 2 + 3.5 = 5.5 arbitrary units of rate of carbon dioxide uptake															1m
+d	Sun leaves: 5 arbitrary units of light intensity					1m
+Shade leaves: 2 arbitrary units of light intensity					1m
+e	Shade leaves reach the compensation point / carry out photosynthesis / produce food earlier in the day / at lower light intensities.					1m	
+---------------------------------------------------
+
+[10249817]
+// Overseas exam question // Data handling // Experiment //
+	Hydrogencarbonate indicator can be used to illustrate changes in the concentration of atmospheric carbon dioxide. The colour changes are illustrated below:
+	
+An experiment was carried out to investigate the light compensation point of a leaf. A pair of tubes, one containing a leaf (X) and the other without a leaf (Y) was set up as shown in the diagram below.
+	
+
+This was repeated five times, and each pair of X and Y tubes was illuminated at different light intensities for 30 minutes.
+The hydrogencarbonate indicator was orange / red in both tubes initially, and remained orange / red in tube Y at all light intensities. The colour of the solution in tube X at different light intensities is shown in the table below.
+
+
+	Light intensity (arbitrary unit)	
+	1	4	8	16	64	
+Resultant colour of indicator in tube X after 30 minutes	Yellow	Orange	Orange / red	Purple	Purple	
+
+a	Explain why the tubes were sealed during the experimental period.															(1 mark)
+b	Explain the purpose of tube Y at each of the light intensities.	(1 mark)
+c	Explain the results of the experiment at light intensity 1.		(2 marks)
+d	Use the results of this experiment to determine the light compensation point for this plant. Explain your answer.						(3 marks)
+	  CCEA GCE (AS) Biology (New Specification) Module 2 Jun 2010 Q6b-e
+
+-- answer --
+a	The tubes were sealed so that the atmospheric air could have no effect on the indicator solution / only air in the tubes could react with the indicator.		1m
+b	Tube Y was a control set-up to ensure that any change in the indicator was due to the presence of the leaf.										1m
+c	Respiration occurred at a rate higher than photosynthesis.				1m
+Carbon dioxide had been produced in the tube.						1m
+d	8 arbitrary units of light intensity									1m
+At this light intensity, the carbon dioxide level in the tube remained unchanged.															1m
+This indicates that the rate of respiration was equal to the rate of photosynthesis.
+														1m	
+---------------------------------------------------
+
+[10249836]
+// Data handling // Experiment //
+*	The diagram below shows a set-up used to investigate the effect of light intensity on the rate of gas exchange in an aquatic plant. Equal masses of Hydrilla were put in the two set-ups, X and Y, similar to the one shown below. The distances of the syringe from the bench lamp were different in the two set-ups. The volume of gas collected in each set-up was recorded after 10 minutes.
+
+	
+
+The results are shown in the table below.
+
+Set-up	Volume of gas collected (mm3)	
+X	10	
+Y	22	
+
+a	How could we measure the volume of the gas collected?		(1 mark)
+b	What was the gas collected? Explain why this gas was collected.																(3 marks)
+c	State which set-up (X or Y) was placed nearer to the bench lamp. Explain your answer.											(5 marks)
+d	Besides adjusting the distance between the syringe and the bench lamp, suggest another way to change the intensity of light shining on the plant.														(1 mark)
+
+
+
+-- answer --
+a	By calculating the change in the solution levels in the graduated tube.		1m
+b	The gas was oxygen.											1m
+The rate of photosynthesis of Hydrilla was higher than that of respiration.	1m
+More oxygen was released in photosynthesis than was taken in for respiration.															1m
+c	Set-up Y													1m
+The volume of oxygen collected in set-up Y was larger than that in set-up X.	1m
+As the rate of respiration of Hydrilla in the two set-ups should be nearly the same,														1m
+the rate of photosynthesis of Hydrilla in set-up Y should be higher than that of the Hydrilla in set-up X.											1m
+Thus the light intensity of set-up Y should be higher.					1m
+d	Use bulbs of different power. / Use muslin to wrap the syringe. (or other reasonable answers)											1m	
+---------------------------------------------------
+
+[10249852]
+// Experiment // Applying concepts //
+**	The experimental set-up below can be used to investigate the effect of light intensity on the rate of gas exchange in Hydrilla. In the set-up, the boiling tube containing Hydrilla is connected to a pressure sensor, which measures the change in pressure in the boiling tube.
+	
+
+a	Why is a beaker of water put in front of the boiling tube containing  Hydrilla?												(1 mark)
+b	i	How will the pressure in the boiling tube change if the bench lamp is turned on for 10 minutes? Explain briefly.				(2 marks)
+ii	If the experiment is repeated with the bench lamp placed at position P, how will the change in pressure in the boiling tube be different? Explain your answer.								(4 marks)
+c	What will happen to the pressure in the boiling tube if the dilute sodium hydrogencarbonate solution in the boiling tube is replaced with water? Explain your answer.									(2 marks)
+
+-- answer --
+a	This is to prevent Hydrilla from being heated up by the bench lamp.		1m
+b	i	The pressure in the boiling tube will increase.					1m
+More oxygen will be released by Hydrilla in photosynthesis than taken in for respiration. The pressure inside the boiling tube will increase due to the larger volume of gas.										1m
+ii	The increase in pressure in the boiling tube will be larger.			1m
+As the distance between the bench lamp and Hydrilla is shorter, the intensity of light reaching Hydrilla is higher.							1m
+With a higher light intensity, Hydrilla will carry out photosynthesis at a higher rate.													1m
+More oxygen will be released within the same period of time.		1m
+c	As carbon dioxide provided to Hydrilla is reduced, the rate of photosynthesis decreases.												1m
+Less oxygen will be released by Hydrilla and thus the increase in pressure in the boiling tube will be smaller.										1m	
+---------------------------------------------------
+
+[10249858]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the transverse section of a leaf of a terrestrial dicotyledonous woody plant.
+	
+a	Name structure Z.										(1 mark)
+b	Photosynthesis occurs mainly in cell type X. Describe how carbon dioxide passes through structure Z and reaches cell type X for photosynthesis.															(3 marks)
+c	The concentrations of oxygen in space Y in the daytime and at night are different. Explain why there is such a difference.				(3 marks)
+d	Besides structure Z, give two other structures through which gases enter and leave the plant.										(2 marks)
+-- answer --
+a	Stoma													1m
+b	Carbon dioxide from the environment diffuses through structure Z into space Y (the air space) due to the higher carbon dioxide concentration outside.		1m
+Carbon dioxide dissolves in the water film on the surfaces of the mesophyll cells.															1m
+Dissolved carbon dioxide diffuses to the neighbouring cells due to the concentration difference until it reaches cell type X.					1m
+c	In the daytime, cell type X carries out photosynthesis and releases oxygen.																1m
+Oxygen diffuses from cell type X into space Y, thus the oxygen concentration in space Y is higher.				 							1m
+At night, photosynthesis stops. Thus the oxygen concentration in space Y is lower. 														1m
+d	Lenticels in woody stems										1m
+Epidermis of roots											1m	
+---------------------------------------------------
+[10249862]
+// Graph interpretation // Basic concepts //
+*	The graph below shows the change in the rate of gas exchange of a plant from 0500 to 1600.
+	
+
+a	State the period of time that photosynthesis is taking place in the plant. During which period does the plant reach the highest rate of food production?											(2 marks)
+b	Briefly describe and explain what happens to the plant during the following periods of time.
+i	From 0500 to 0600									(2 marks)
+ii	From 1400 to 1600									(2 marks)
+c	Name point T at 0800. Describe what happens to the plant at that moment.														(3 marks)
+
+-- answer --
+a	From 0600 to 1600, photosynthesis is taking place.					1m
+The highest rate of food production occurs from 1200 to 1400.			1m
+b	i	From 0500 to 0600, only respiration takes place in the plant.		1m
+As the plant is in the dark during this period, photosynthesis stops.	1m
+ii	From 1400 to 1600, the rate of photosynthesis decreases.			1m
+This is due to a decrease in light intensity.						1m
+c	Compensation point											1m
+The rate of photosynthesis is equal to the rate of respiration.			1m
+No net exchange of carbon dioxide occurs at that moment. / All carbon dioxide released in respiration is taken in for photosynthesis.					1m	
+---------------------------------------------------
+
+[10249863]
+// Experiment //
+*	The diagram below shows the experimental set-up for investigating the effect of light intensity on gas exchange in plants.
+	
+a	State the expected colour of the hydrogencarbonate indicator in the three boiling tubes after 5 hours.								(3 marks)
+b	Explain your answer in a.								(3 marks)
+c	If a snail is placed onto the leaf in boiling tube Q, how will the colour of the hydrogencarbondate indicator be different after 5 hours? Explain briefly.														(3 marks)
+
+-- answer --
+a	P: purple													1m
+Q: red / orange												1m
+R: yellow													1m
+b	The leaf in tube P is under bright light conditions. Its rate of photosynthesis will be higher than the rate of respiration. There will be a net uptake of carbon dioxide by the leaf.													1m
+The leaf in tube Q is under dim light conditions, the rate of photosynthesis will be similar to the rate of respiration. There will be no / very little net uptake or release of carbon dioxide by the leaf.									1m
+The leaf in tube R is in darkness. Photosynthesis will stop but respiration will continue. There will be a net release of carbon dioxide by the leaf.		1m
+c	The colour of the indicator will become yellow.						1m
+Carbon dioxide is released from the snail when it respires.				1m
+The amount of carbon dioxide in the tube will increase.				1m	
+---------------------------------------------------
+
+[10249865]
+// Experiment // Basic concepts //
+*	A student carried out an investigation of the effects of different minerals on plant growth. Four plants (W, X, Y and Z) were grown in bottles containing four different nutrient solutions. The bottles were wrapped with aluminium foil. Air was pumped into the nutrient solutions throughout the experiment. The diagram below shows the appearances of the four plants after 2 weeks.
+
+	
+
+a	Why were the bottles wrapped with aluminium foil?			(1 mark)
+b	Why was air pumped into the solutions throughout the experiment?															(1 mark)
+c	Explain the appearance of plant X.							(2 marks)
+d	If a plant was grown in a nutrient solution without magnesium, what would happen to its leaves? Give a reason.						(2 marks)
+e	Deduce from the results which elements should be included in chemical fertilizers.											(1 mark)
+f	Besides the elements stated in e, suggest two other elements that should also be supplied to maintain healthy growth of the plants.			(1 mark)
+
+
+
+
+-- answer --
+a	To prevent the growth of algae in the nutrient solutions, which may use up the minerals in the nutrient solutions and affect the results.				1m
+b	This provides oxygen for the root cells to carry out respiration.			1m
+c	Plant X grew poorly.											1m
+Nitrogen is essential for the synthesis of proteins. / Proteins are made up of amino acids which contain nitrogen. Plants cannot grow healthily without proteins.	1m
+d	Its leaves would turn yellow.									1m
+Magnesium is important for the synthesis of chlorophyll / forms part of the chlorophyll molecules.										1m
+e	Nitrogen, phosphorus and potassium								1m
+f	Magnesium / sulphur / calcium / copper / zinc / boron (any 2 or other correct answers)													1m	
+---------------------------------------------------
+
+[10249885]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the transverse section of a leaf of a terrestrial dicotyledonous plant.
+	
+a	Name structures W, X, Y and Z.							(4 marks)
+b	Describe how carbon dioxide from the environment reaches structure X for photosynthesis.										(3 marks)
+c	State two adaptations of leaves of terrestrial dicotyledonous plants for gas exchange.											(2 marks)
+-- answer --
+a	W: cuticle												1m
+X: palisade mesophyll									1m
+Y: spongy mesophyll										1m
+Z: lower epidermis										1m
+b	Carbon dioxide from the environment diffuses through the stomata into the air space due to the higher carbon dioxide concentration outside.		1m
+Carbon dioxide dissolves in the water film on the surfaces of the mesophyll cells.														1m
+Dissolved carbon dioxide diffuses to the neighbouring cells due to the concentration difference until it reaches structure X.				1m
+c	Leaves are broad and flat. This provides a large surface area for gas exchange. /
+Leaves are thin. This reduces the diffusion distance of gases. /
+There are many air spaces among the spongy mesophyll cells. This allows gases to diffuse freely. /
+There is a water film on the surfaces of the mesophyll cells. This allows gases to dissolve and then diffuse into or out of the cells. /
+There are stomata on the epidermis. This allows gases to pass into and out of the leaves freely. /
+Guard cells are present to control the opening and closing of stomata. The rate of gas exchange can be regulated. (any 2)						1m x 2	
+---------------------------------------------------
+
+[10249888]
+// Data handling // Experiment //
+*	The effect of three water samples on the growth of a water plant was investigated. Seedlings of the water plant were put into three beakers, each containing a different water sample. The beakers were left under sunlight for 10 days. Besides the type of water sample, all other factors were kept the same for the three beakers. The table below shows the results.
+
+Beaker	Source of water sample	Observation	
+X	Natural habitat of the water plant	Length of the seedlings increased by 10%	
+Y	Sewage from a factory	All the seedlings died	
+Z	River near a farm	Length of the seedlings increased by 25%	
+
+a	State two factors that should be kept the same for the three beakers. 																(2 marks)
+b	Describe how the seedlings obtained minerals from the water samples.														(2 marks)
+c	Give possible explanations for the results for each beaker.		(3 marks)
+
+-- answer --
+a	Light intensity and temperature (or other correct answers)			1m x 2
+b	Their roots absorbed minerals in the form of dissolved ions in the water sample														1m
+by active transport.										1m
+c	The water sample in beaker X contained minerals for the seedlings to grow.															1m
+The water sample in beaker Y contained pollutants or heavy metal ions which were toxic to the seedlings.									1m
+The water sample in beaker Z contained larger amounts of minerals than the water sample in beaker X due to the fertilizers used in farms. Thus the seedlings grew faster than those in beaker X.								1m	
+---------------------------------------------------
+
+[10249889]
+// Experiment // Basic concepts //
+*	In an investigation of the mineral requirements of plants, several set-ups like the one shown below were used, each filled with a different nutrient solution. The growth and appearance of the plant in each set-up were monitored.
+	
+
+a	After a few days, plants in all the set-ups died, including the one in the control set-up which was filled with a nutrient solution containing all the minerals essential for plant growth. State a possible reason for this and suggest how the design of the set-ups can be improved.		(3 marks)
+b	Why were the beakers wrapped with aluminium foil?			(1 mark)
+c	State the functions of any two elements on plant growth and describe the symptoms that may appear if the plants are deficient in these elements.														(4 marks)
+-- answer --
+a	Oxygen in the nutrient solutions was used up.						1m
+The root cells died. The plants could not absorb water and minerals.		1m
+We can pump air into the nutrient solutions throughout the experiment.		1m
+b	To prevent the growth of algae in the nutrient solutions, which may use up the minerals in the nutrient solutions and affect the results.				1m
+c	Nitrogen is essential for the synthesis of proteins. / Proteins are made up of amino acids which contain nitrogen. 									1m
+Deficiency in nitrogen may result in poor growth and yellowing of leaves.	1m
+Magnesium is essential for the synthesis of chlorophyll / forms part of the chlorophyll molecules.										1m
+Deficiency in magnesium may result in poor growth and yellowing of leaves.																1m
+(or other correct answers)	
+---------------------------------------------------
+[10249905]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the transverse section of a dicotyledonous leaf.
+
+	
+
+a	Name W, X, Y and Z.									(4 marks)
+b	What is the function of X?								(1 mark)
+c	Name the gas that is released by the plants through Z in the daytime and at night respectively.										(2 marks)
+
+-- answer --
+a	W: air space												1m
+X: guard cell												1m
+Y: epidermal cell											1m
+Z: stoma													1m
+b	It controls the opening and closing of the stoma.						1m
+c	In the daytime: oxygen										1m
+At night: carbon dioxide										1m	
+---------------------------------------------------
+
+
+
+Essay
+
+[10250060]
+// Communication //
+*	Discuss how the leaves of terrestrial dicotyledonous plants are adapted for gas exchange.												(11 marks)
+
+-- answer --
+Any 4 sets:
+Leaves are broad and flat, and there are numerous leaves in a plant.			1m
+These provide a large surface area for gas exchange. /					1m
+Leaves are thin.													1m
+This shortens the diffusion distance of gases between the plant body and the atmosphere. /													1m
+Spongy mesophyll cells are loosely packed.							1m
+This provides a large surface area for gas exchange. /						1m
+There are numerous air spaces among the spongy mesophyll cells.			1m
+This allows gases to diffuse freely. /									1m
+There is a water film on the surfaces of the mesophyll cells.					1m
+This allows gases to dissolve and then diffuse into or out of the cells. /			1m
+There are stomata in the epidermis.									1m
+This allows gases to move into and out of the leaves freely. /				1m
+There are guard cells surrounding the stomata.							1m
+This allows the rate of gas exchange to be regulated by controlling the opening and closing of stomata.												1m
+Communication													3m	
+---------------------------------------------------
+

@@ -1,0 +1,2315 @@
+Chapter 3		Movement of substances across 						cell membrane
+
+Multiple-choice questions
+
+[10234442]
+// Photomicrograph // Graph interpretation // Experiment //
+*	Directions: The following two questions refer to a study of osmosis in plant tissue. A piece of plant tissue was immersed into a concentrated sucrose solution for one hour. The photomicrograph shows its appearance after immersion. The tissue was then immersed into distilled water. The graph shows the change in the mean volume of cells during this period.
+
+
+	
+	The degree of shrinkage of the cytoplasm varied in different cells after the tissue was immersed into concentrated sucrose solution. Which of the following is a possible explanation?
+A	Individual cells are located at different distances from the concentrated sucrose solution.
+	B	Individual cells have cell walls of different thickness.
+	C	Individual cells have vacuoles of different sizes.
+	D	Individual cells have different water potentials.
+D	
+---------------------------------------------------
+
+[10234466]
+// Photomicrograph // Graph interpretation // Experiment //
+*	When the tissue was immersed into distilled water, the mean cell volume levelled off after one hour. This is because
+(1)	there was no net movement of water into and out of the cells.
+(2)	the water potential inside the cells was the same as distilled water.
+(3)	the rigid cell wall stopped the entry of water.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+[10234487]
+// Basic concepts //
+	Which of the following statements about phospholipid molecules in the cell membrane is/are correct?
+(1)	They allow the cell membrane to change shape.
+	(2)	They provide support to the cell membrane.
+	(3)	They form a barrier to prevent some molecules to pass through.
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10234494]
+// High order thinking // Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows two set-ups used to investigate osmosis. In set-up X, the dialysis tubing was filled with 1M glucose solution. In set-up Y, the dialysis tubing was filled with 1M sucrose solution and a small amount of sucrase. Sucrase is an enzyme that breaks down sucrose into fructose and glucose. The dialysis tubing used in these set-ups is permeable to water molecules, but not permeable to sucrose, fructose and glucose molecules.
+	
+
+After two hours, the water level in the capillary tube of set-up Y was higher than that of set-up X. Which of the following statements possibly explains the difference in water level?
+A	The water potential of 1M glucose solution is lower than that of 1M sucrose solution.
+B	The presence of sucrase increases the water potential of the solution in the dialysis tubing in set-up Y.
+C	The water potential of the solution in the dialysis tubing in set-up Y increases as the amount of sucrose decreases.
+D	The water potential of the dialysis tubing in set-up Y decreases as sucrose is broken down into fructose and glucose.
+D	
+---------------------------------------------------
+
+
+[10234502]
+// Scientific investigation // High order thinking // Experiment //
+**	To study the effects of different liquids on beet root discs, a student prepared test tubes containing a different liquid (30% ethanol, 30% sucrose solution or distilled water) and put some beet root discs into each tube. She observed the following changes.
+	30% ethanol	30% sucrose solution	Distilled water	
+Observed changes	The beet root discs sank. The solution turned red.	The beet root discs floated initially and then sank. The solution remained clear.	The beet root discs sank. The solution remained clear.	
+
+Which of the following can be deduced from the results?
+(1)	Ethanol destroyed the cell membrane of the beet root discs.
+(2)	The water potential inside the beet root discs was higher than that of 30% sucrose solution.
+(3)	The density of the beet root discs was lower than that of distilled water.
+A	(1) only				B	(1) and (2) only
+C	(1) and (3) only		D	(2) and (3) only
+B
+Note:
+The 30% ethanol turned red, indicating the red pigment of beet root cells got out of the cells in 30% ethanol. This was because the cell membrane of the cells was destroyed by ethanol.
+When the beet root discs were put into the 30% sucrose solution, the discs floated and then sank. This suggested that the density of the discs was increasing. This was caused by a net movement of water from the cells (higher water potential) to the sucrose solution (lower water potential) by osmosis.
+The density of beet root discs should be higher than the density of distilled water because the beet root discs sank in the distilled water.
+
+	
+---------------------------------------------------
+
+[10234505]
+// Cross-topic // High order thinking //
+**	Which of the following processes in the human body involve membrane proteins? 
+(1)	breakdown of starch into maltose in the mouth cavity
+(2)	breakdown of maltose into glucose in the small intestine
+(3)	transmission of nerve impulses from one neurone to another across a synapse
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10234514]
+// Cross-topic // Applying concepts //
+*	Which of the following processes does not require energy?
+A	white blood cells engulf bacteria
+B	glucose is absorbed from the lumen of the small intestine into the villi
+C	nitrate is absorbed from the soil into the roots
+D	oxygen enters red blood cells in the lungs
+D	
+---------------------------------------------------
+
+[10234518]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows some cells in a solution.
+	
+
+	Which of the following combinations correctly describes the state of cell X and the solution surrounding it?
+		State of cell X		Solution
+	A	turgid 			hypotonic
+	B	turgid 			hypertonic	
+	C	flaccid 			hypotonic
+	D	flaccid 			hypertonic
+D	
+---------------------------------------------------
+
+[10234539]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows the fluid mosaic model of the cell membrane.
+	
+
+	Which labelled part(s) is/are responsible for cell recognition?
+	A	P only
+	B	R only
+	C	P and Q only
+	D	P and R only
+A	
+---------------------------------------------------
+
+
+[10234546]
+// Data handling // Experiment // Applying concepts //
+*	Directions: The following two questions refer to the table below, which shows the percentage change in the length of three potato strips after they were immersed in three sucrose solutions of different concentrations for 3 hours. 
+
+	5% sucrose solution	10% sucrose solution	X% sucrose solution	
+Percentage change in length	+7%	-6%	+12%	
+
+	Which of the following is a possible value of X?
+	A	2					B	8
+	C	12					D	15
+A	
+---------------------------------------------------
+
+[10234553]
+// Data handling // Experiment // Applying concepts //
+*	The water potential of the potato cells of the potato strips is closest to that of a 
+	A	2% sucrose solution.	B	8% sucrose solution.
+	C	12% sucrose solution.	D	15% sucrose solution.
+B	
+---------------------------------------------------
+
+[10234554]
+// Graph interpretation // Schematic diagram //
+*	The diagram below shows a tube in which sucrose solutions of different concentrations are separated by a differentially permeable membrane. The tube is left undisturbed for 4 hours.
+
+	
+
+Which of the following graphs correctly shows the change in the liquid level in arm Y?
+	A				B	
+		
+	C	
+		D		
+		
+
+B	
+---------------------------------------------------
+
+[10234563]
+// Basic concepts //
+*	The water potential of the cytoplasm of a cell is lower than that of the surrounding solution. Which of the following statements is correct?
+	A	The surrounding solution is said to be hypertonic.
+	B	The cell has a lower concentration of solutes than the surrounding solution.
+	C	There will be a net movement of water from the surrounding solution into 
+the cell.
+	D	The cell is in danger of plasmolysis.
+C	
+---------------------------------------------------
+
+
+[10234569]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the change in concentration of substance X in Amoeba when it is placed into a solution of substance X. It is known that Amoeba takes in this substance by diffusion only. 
+
+
+	
+
+Which of the following statements correctly describe(s) the uptake of substance X in Amoeba?
+	(1)	The rate of uptake increases during the first 2 hours. 
+	(2)	No substance X moves across the cell membrane of Amoeba after 2 hours. 
+(3)	The concentrations of substance X inside and outside Amoeba become the same after 2 hours.
+	A	(3) only
+	B	(1) and (2) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10234571]
+// Cross-topic // Applying concepts //
+*	Some of the cells in seaweed can absorb iodide ions actively from sea water. These cells contain a large number of
+	A	vacuoles.			B	nuclei.
+	C	mitochondria.		D	chloroplasts.
+C	
+---------------------------------------------------
+
+[10234589]
+// Basic concepts //
+	Which of the following statements about active transport is correct?
+	A	It occurs only in animal cells.
+	B	It does not require energy. 
+	C	Concentration gradient must exist across a cell membrane. 
+	D	It involves membrane proteins. 
+D	
+---------------------------------------------------
+
+[10234606]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows how a unicellular organism takes in a food particle. 
+	
+Which of the following features of the cell membrane allow(s) the above process to occur?
+	(1)	Some protein molecules in the cell membrane act as channels or carriers.
+	(2)	The cell membrane is fluid in nature.
+	(3)	The cell membrane is mosaic in nature.
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10234607]
+// Schematic diagram // Basic concepts //
+*	Directions: The following four questions refer to the diagram below, which shows the fluid mosaic model of the cell membrane and the paths through which molecules move across the cell membrane.
+
+Alcohol can damage cell membranes. What is the action of alcohol on cell membranes?
+	A	It dissolves molecule A in cell membranes.
+	B	It dissolves molecules B and C in cell membranes.
+	C	It changes the shape of molecule A in cell membranes.
+	D	It changes the shapes of molecules B and C in cell membranes.
+A	
+---------------------------------------------------
+
+[10234615]
+// Schematic diagram // Basic concepts //
+*	The table below shows some properties of water molecules and carbon dioxide molecules.
+
+	Water molecule	Carbon dioxide molecule	
+Molecular model			
+Size of molecule	Small	Small	
+Polarity	Polar	Non-polar	
+
+Through which paths do water molecules and carbon dioxide molecules move across the cell membrane?
+		Water			Carbon dioxide
+	A	path X			path Y
+	B	path X			path Z
+	C	path Y			path X
+	D	path Y			path Z
+C	
+---------------------------------------------------
+
+[10234622]
+// Schematic diagram // Basic concepts //
+*	Which part of the cell membrane restricts the movement of ions across the membrane?
+	A	the head of molecule A
+	B	the tail of molecule A
+	C	molecule B
+	D	molecule C
+B	
+---------------------------------------------------
+
+
+[10234625]
+// Schematic diagram // Basic concepts //
+*	The cell membrane is described as 'fluid' because
+	A	molecules B and C are interspersed among molecule A.
+	B	molecules B and C can move laterally in the cell membrane.
+	C	molecule A can move laterally in the cell membrane.
+	D	molecule A can move to the opposite layer freely.
+C	
+---------------------------------------------------
+[10234638]
+// Data handling // Experiment //
+*	Directions: The following two questions refer to an experiment about osmosis in living plant tissues. Four potato strips of the same size were cut from a fresh potato and weighed. The potato strips were put into four sucrose solutions (W, X, Y and Z) of different concentrations. After one hour, the potato strips were taken out from the solutions, blotted dry and weighed again. The table below shows the mass of the potato strips before and after immersing in sucrose solutions.
+
+Solution	Initial mass of the strip (g)	Final mass of the strip (g)	
+W	2.8	2.5	
+X	2.7	2.7	
+Y	2.6	2.7	
+Z	2.5	2.3	
+
+	Based on the above results, arrange the solutions in ascending order of concentration.
+	A	Y, X, Z, W
+	B	Y, W, X, Z,
+	C	W, X, Y, Z
+	D	W, Z, X, Y
+A	
+---------------------------------------------------
+
+
+[10234642]
+// Data handling // Experiment //
+*	Which of the following terms is the most appropriate to describe the appearance of the potato cells taken out from solution Y when they are observed under a microscope?
+	A	flaccid
+	B	turgid
+	C	plasmolysed
+	D	burst
+B	
+---------------------------------------------------
+
+[10234654]
+// Applying concepts //
+*	Which of the following processes involve membrane proteins in a living membrane?
+	(1)	movement of carbon dioxide from the air into plant cells
+	(2)	absorption of water into plant root cells
+	(3)	absorption of glucose in the small intestine of humans
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+[10234666]
+// Data handling // Schematic diagram //
+*	The diagram below shows three adjacent plant cells and their water potentials (in kPa).
+	
+Which of the following correctly describes the direction of net water movement among cells X, Y and Z?
+	A	from cell X to cell Y then to cell Z
+	B	from cell X to cell Y and cell Z
+	C	from cell Z to cell Y then to cell X
+	D	from cell Z to cell Y and cell X
+D	
+---------------------------------------------------
+
+[10234669]
+// Basic concepts //
+	The rate of osmosis is affected by
+	(1)	size of water molecules.
+	(2)	concentration gradient.
+	(3)	surface area of the membrane.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+
+[10234671]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the fluid mosaic model of the cell membrane.
+	
+
+	What are molecules X and Y respectively?
+		X					Y
+	A	phospholipid			channel protein
+	B	phospholipid			enzyme
+	C	carrier protein			phospholipid
+	D	enzyme				phospholipid
+B	
+---------------------------------------------------
+
+[10234678]
+// Photomicrograph // Basic concepts //
+	The photomicrographs below show the cells immersed in different solutions.
+		
+Cells in solution X	Cells in solution Y	
+
+	What are solutions X and Y respectively?
+		Solution X			Solution Y
+	A	isotonic solution		hypertonic solution
+	B	hypertonic solution		hypotonic solution
+	C	hypotonic solution		hypertonic solution
+	D	isotonic solution		hypotonic solution
+B	
+---------------------------------------------------
+
+[10234684]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows some cells immersed in a solution.
+	
+	What will happen to the cells if they are put in distilled water?
+	A	They will burst.
+	B	They will be plasmolysed.
+	C	They will remain unchanged.
+	D	They will become turgid.
+D	
+---------------------------------------------------
+
+[10234687]
+// Basic concepts //
+	Which of the following statements about osmosis is/are correct?
+	(1)	Osmosis can take place in living tissues.
+	(2)	Osmosis can take place in non-living tissues.
+(3)	Osmosis can take place in the presence of a differentially permeable membrane only.
+	A	(1) only				B	(2) only
+	C	(1) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10234689]
+// Graph interpretation // Experiment //
+**	In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. The ratio of initial mass to final mass of each potato strip was calculated and the results were presented in a graph. Which of the following graphs shows the results of the experiment?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+
+[10234700]
+// Experiment // Schematic diagram //
+*	In an experiment, two potato strips of the same size were cut from the same potato. The strips were then hung on the two sides of a balance. The weight of the two strips was the same at the beginning. The strips were then immersed into different solutions. 
+
+	
+
+After 4 hours, the arm of the balance tilted to the right. Which of the following can be deduced from the result?
+A	The water potential of solution X is higher than that of the potato tissue. 
+B	The water potential of solution X is lower than that of the potato tissue.
+C	The water potential of solution X is higher than that of solution Y.
+D	The water potential of solution X is lower than that of solution Y.
+D	
+---------------------------------------------------
+
+[10234713]
+// Data handling // Experiment //
+*	Four pieces of plant tissue, each weighed 10 g, were immersed in four different sucrose solutions. The table below shows the mass of the four pieces of tissue after 1 hour. 
+Tissue	W	X	Y	Z	
+Mass after 1 hour (g)	12.3	11.4	9.6	7.2	
+
+The percentage of plasmolysed cells was the highest in tissue 
+A	W.				B	X.
+C	Y.				D	Z.
+D	
+---------------------------------------------------
+
+[10234728]
+// STSE connections // Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of the cell membrane. 
+
+	
+
+In people with cystic fibrosis, a structure in the cell membrane is defective. As a result, fewer chloride ions move out of the cells, leading to the production of thick mucus. Which labelled structure in the cell membrane is most probably defective?
+A	W				B	X
+C	Y				D	Z
+D	
+---------------------------------------------------
+
+[10234730]
+// Data handling // Basic concepts //
+*	The diagram below shows a set-up used to study diffusion.
+	
+More sugar diffuses out of the tubing than diffuses in. What is the concentration of sugar solution X?
+A	10%				B	20%
+C	30%				D	40%
+A	
+---------------------------------------------------
+
+[10234738]
+// Graph interpretation // Experiment //
+**	In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. Which of the following graphs shows the final mass of the potato strips in different sucrose solutions?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+
+[10234741]
+// Comparison // Basic concepts //
+*	Which of the following comparisons between diffusion and active transport is incorrect?
+	Diffusion	Active transport	
+A	energy is not required	energy is required	
+B	cell membrane is required	cell membrane is not required	
+C	substances move from a region of higher concentration to a region of lower concentration	substances move from a region of lower concentration to a region of higher concentration	
+D	carrier proteins are not involved	carrier proteins are involved	
+
+B	
+---------------------------------------------------
+
+[10234754]
+// Data handling // Experiment //
+*	Directions: The following two questions refer to the investigation below. Beetroot cells contain a red pigment in the vacuoles. A student cut some cubes 
+(1 cm x 1 cm x 1 cm) from a beetroot and washed them in running water for 20 minutes. The cubes were then put into test tubes containing distilled water and alcohol of different concentrations (W, X, Y and Z) for 30 minutes. The table below shows the colour intensity of the solutions after 30 minutes.
+
+Solution	Colour intensity (maximum 5+)	
+Distilled water	-	
+W	+	
+X	+++	
+Y	+++++	
+Z	++	
+(Key: '+' means that the solution is red in colour. The larger the number of '+', the more intense the colour. '-' means that the solution is colourless.)
+
+Which alcohol is highest in concentration?
+A	W				B	X
+C	Y				D	Z
+C	
+---------------------------------------------------
+
+[10234769]
+// Data handling // Experiment //
+*	Which of the following is/are correct explanation(s) of the experimental results?
+(1)	The phospholipids in the cell membrane dissolve in alcohol. 
+(2)	The pigment molecules are non-polar and thus can move across the phospholipid bilayer. 
+(3)	Carrier proteins are present on the cell membrane of the beetroot cells to transport the pigment molecules. 
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10234805]
+// Experiment // Schematic diagram //
+*	In which of the following set-ups the dialysis tubing shows the greatest increase in weight after 3 hours?
+
+A		B		
+C		D		
+
+D	
+--------------------------------------------------- 
+
+
+[10234810]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a plant cell immersed in a solution.
+	
+Which of the following correctly shows the water potential of the solution in space X and the explanation?
+		Water potential 	Explanation
+A	-300 kPa			The cell wall is fully permeable.
+B	-300 kPa 		The cell membrane is differentially permeable.
+C	-400 kPa 		The cell wall is fully permeable.
+D	-400 kPa 		The cell membrane is differentially permeable.
+A	
+--------------------------------------------------- 
+
+[10234817]
+// High order thinking // Schematic diagram // Applying concepts //
+**	The diagram below shows the polarity of different parts of two protein molecules found in a cell membrane.
+
+	
+
+Which of the following shows the arrangement of the two protein molecules in the cell membrane?
+	X	Y	
+A	attached to the surface of the phospholipid bilayer	embedded half-way in the phospholipid bilayer	
+B	embedded half-way in the phospholipid bilayer	spans the entire phospholipid bilayer	
+C	spans the entire phospholipid bilayer	attached to the surface of the phospholipid bilayer	
+D	spans the entire phospholipid bilayer	spans the entire phospholipid bilayer	
+
+C	
+--------------------------------------------------- 
+
+[10234824]
+// Data handling // Schematic diagram //
+**	The diagram below shows the water potentials of three adjacent plant cells.
+	
+
+Which of the following correctly shows the net movement of water between the cells?
+A	cell X → cell Y → cell Z
+B	cell Z → cell Y → cell X
+C	cell X → cell Y; cell Z → cell Y
+D	cell Y → cell X; cell Y → cell Z
+D	
+---------------------------------------------------
+
+
+[10234834]
+// Graph interpretation // Data handling // Experiment //
+*	In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. The ratio of final mass to initial mass of each potato strip was calculated. The graph below shows the results. 
+	
+
+The water potential of the potato tissue is the same as that of
+A	0.18 mol dm-3 sucrose solution.
+B	0.52 mol dm-3 sucrose solution.
+C	0.72 mol dm-3 sucrose solution.
+D	0.8 mol dm-3 sucrose solution.
+B	
+---------------------------------------------------
+
+
+[10234854]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the fluid mosaic model of the cell membrane.
+	
+
+Which of the following is/are the role(s) of structure X?
+(1)	cell recognition
+(2)	carrying polar substances across the cell membrane
+(3)	allowing non-polar substances to move across the cell membrane
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10234864]
+// Schematic diagram // Basic concepts //
+*	Which of the following correctly shows the paths through which water and fatty acid molecules move across the cell membrane?
+		Water		Fatty acid
+A	path P		path P
+B	path P		path Q
+C	path Q		path P
+D	path Q		path Q
+C	
+---------------------------------------------------
+
+[10234884]
+// Basic concepts //
+	According to the fluid mosaic model of cell membrane, which of the following statements about the phospholipid molecules in the cell membrane is correct?
+A	They have hydrophilic tails pointing to the interior of the membrane.
+B	They are arranged in a bilayer, with membrane proteins covering the surfaces of the membrane.
+C	They are free to depart from the membrane and dissolve in the surrounding aqueous solution.
+D	They can move laterally along the plane of the membrane.
+D	
+---------------------------------------------------
+
+[10234889]
+// Basic concepts //
+*	A cell that is hypertonic to the surrounding solution 
+A	will experience a net movement of water into the cell from the surrounding solution.
+B	has a lower concentration of solutes than the surrounding solution.
+C	has a water potential of zero. 
+D	is in danger of plasmolysis.
+A	
+---------------------------------------------------
+
+[10234918]
+// Applying concepts //
+*	In the human small intestine, a substance in the lumen moves across the cell membrane and enters the cells lining the small intestine rapidly. The concentration of substance in the cytoplasm of the cells lining the small intestine is low. Which of following processes is most probably involved in the absorption of this substance?
+A	phagocytosis
+B	active transport
+C	diffusion
+D	osmosis
+C	
+---------------------------------------------------
+
+[10234921]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows how a unicellular organism obtains food particles.
+	
+
+The food particle can enter the unicellular organism because 
+(1)	the organism can move towards the food particle.
+(2)	the cell membrane of the organism is fluid in nature.
+(3)	the cell membrane of the organism is mosaic in nature.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10234931]
+// Basic concepts //
+	Which of the following processes does not require a concentration gradient?
+A	diffusion
+B	osmosis
+C	active transport
+D	none of the above
+C	
+---------------------------------------------------
+
+[10234934]
+// Data handling // Experiment //
+**	The graph below shows the change in the weight of a potato strip when it is immersed in salt solutions of different concentrations.
+	
+Which of the following is the reason for joining the points by a best fit straight line?
+A	This averages the results and allows us to establish a relationship between two variables.
+B	The individual points are wrong.
+C	The individual points are assumptions, while the best fit straight line is a fact.
+D	The best fit straight line shows the accuracy of the results.
+A	
+---------------------------------------------------
+
+[10234936]
+// Basic concepts //
+*	Which of the following statements about osmosis are correct?
+(1)	It can result in an increase in pressure in plant cells.
+(2)	It can cause the bursting of animal cells.
+(3)	It is the diffusion of water molecules from a dilute solution to a more concentrated solution.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10234944]
+// Experiment // Applying concepts //
+*	The table below shows the contents of three test tubes. The test tubes were set up to investigate the effect of different solutions on red blood cells.
+Test tube	Contents	
+X	Blood sample and a hypotonic solution	
+Y	Blood sample and an isotonic solution	
+Z	Blood sample and a hypertonic solution	
+A drop of the contents from each test tube was transferred to a slide and observed under the microscope. Which of the following correctly describes the observation?
+	Test tube	Observation	
+A	X	red blood cells shrink	
+B	X	red blood cells swell	
+C	Y	red blood cells become turgid	
+D	Z	red blood cells burst	
+
+B	
+--------------------------------------------------- 
+
+[10234951]
+// Schematic diagram // Applying concepts //
+*	The unicellular organism, Amoeba, shown below was placed into a beaker of distilled water. 
+	
+Which of the following shows the appearance of Amoeba after 15 minutes?
+A		B		
+C		D		
+
+D	
+---------------------------------------------------
+[10234976]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a molecule moving across the cell membrane.
+	
+
+Which of the following correctly identifies X and Y?
+	X	Y	
+A	oxygen	protein molecule	
+B	glucose 	protein molecule	
+C	carbon dioxide	carbohydrate molecule	
+D	water	carbohydrate molecule	
+
+B	
+---------------------------------------------------
+
+[10234981]
+// Schematic diagram // Applying concepts //
+*	Which of the following substances also moves across the cell membrane by the above process?
+A	glycerol
+B	carbon dioxide
+C	calcium ion
+D	triglyceride
+C	
+---------------------------------------------------
+
+
+[10234984]
+// Basic concepts //
+*	Which part of a phospholipid molecule contributes most to the thickness of the cell membrane?
+A	glycerol
+B	fatty acid tails
+C	hydrophilic head
+D	phosphate group
+B	
+---------------------------------------------------
+
+[10234985]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some cells.
+	
+
+The salt concentration of the cells is 0.9%. If they are put into a 10% salt solution, the cells will
+A	swell and burst.
+B	shrink.
+C	retain its normal shape.
+D	lose its salt content.
+B	
+---------------------------------------------------
+
+[10234992]
+// Basic concepts //
+	Which of the following solutions has the highest water potential?
+A	distilled water					B	10% glucose solution
+C	20% sucrose solution			D	30% salt solution
+A	
+---------------------------------------------------
+[10234995]
+// Basic concepts //
+*	Which of the following statements about active transport are correct?
+(1)	It is the main way by which oxygen enters the cells.
+(2)	It enables plants to absorb minerals from the soil.
+(3)	It needs energy released in the process of respiration.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10235007]
+// Basic concepts //
+*	Which of the following statements about osmosis is correct?
+A	It is the net movement of water molecules from a solution with a low water potential into a cell with a high water potential.
+B	All cells become plasmolysed in hypotonic solutions.
+C	One of the applications of osmosis is to preserve foods by immersing them in hypertonic solutions.
+D	Osmosis occurs only in cells with a cell wall.
+C	
+---------------------------------------------------
+
+[10235010]
+// Basic concepts //
+	Which of the following are the main components of cell membranes?
+(1)	proteins
+(2)	phospholipids
+(3)	nucleic acids
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10235021]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows a tissue. What will happen to cell X if the tissue is immersed in (1) a hypotonic solution or (2) a hypertonic solution?
+	
+		(1)					(2)
+A	burst				become plasmolysed
+B	become plasmolysed	burst
+C	turgid				become plasmolysed
+D	become plasmolysed	turgid
+C	
+---------------------------------------------------
+
+[10235029]
+// Basic concepts //
+	Which of the following processes requires energy to occur?
+A	diffusion				B	osmosis
+C	active transport		D	none of the above
+C	
+---------------------------------------------------
+
+[10235040]
+// Experiment // Applying concepts //
+*	A student mounted some blood cells on a slide and observed them with a light microscope. He found that the blood cells swelled. Which of the following was a possible cause of the swelling of cells?
+A	He used a concentrated salt solution to mount the cells. 
+B	He used distilled water to mount the cells.
+C	The cells are dead before mounting onto the slide.
+D	He lowered the cover slip too rapidly during the preparation of the mount.
+B	
+---------------------------------------------------
+[10235065]
+// Basic concepts //
+*	Which of the following statements about diffusion are correct?
+(1)	The particles will not move when there is no concentration gradient between two regions. 
+(2)	The concentration gradient of a substance is not affected by that of another substance.
+(3)	Diffusion can take place without a differentially permeable membrane.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10235074]
+// Experiment // Basic concepts //
+*	The photograph below shows a piece of dialysis tubing being filled with 5% sucrose solution. 
+	
+
+Four pieces of dialysis tubing filled with 5% sucrose solution were immersed in beakers of different solutions. Which of the following solutions would cause a largest decrease in the concentration of sucrose solution in the tubing?
+A	distilled water
+B	5% sucrose solution
+C	10% sucrose solution
+D	10% glucose solution
+A	
+---------------------------------------------------
+
+[10235087]
+// Basic concepts //
+*	Which of the following is an importance of active transport in our body?
+A	It is the fastest way of absorbing substances.
+B	It does not require energy.
+C	It allows the greatest amount of substances to be absorbed when compared with diffusion and osmosis.
+D	It allows absorption of essential substances against a concentration gradient.
+D	
+--------------------------------------------------
+
+[10235105]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the gas exchange in Amoeba.
+	
+Which of the following processes is/are involved in the gas exchange of Amoeba?
+(1)	osmosis
+(2)	active transport
+(3)	diffusion
+A	(3) only				B	(1) and (2) only
+C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10235108]
+// Basic concepts //
+	Which of the following statements about diffusion is correct?
+A	It is due to the random movement of the particles that have kinetic energy.
+B	It requires an additional input of energy.
+C	It takes place only in the presence of a differentially permeable membrane.
+D	It refers to the movement of water molecules only.
+A	
+---------------------------------------------------
+[10235113]
+// Basic concepts //
+	What will happen to an animal cell and a plant cell if they are put in a hypertonic solution?
+		Animal cell					Plant cell
+A	swells and then bursts			becomes turgid
+B	volume remains unchanged		becomes plasmolysed
+C	shrinks						becomes flaccid
+D	volume remains unchanged		volume remains unchanged
+C	
+---------------------------------------------------
+
+[10235126]
+// Basic concepts //
+*	Plasmolysis refers to the situation that 
+A	water leaves a cell by osmosis.
+B	plant cell shrinks.
+C	a cell is put in a hypertonic solution.
+D	a plant cell has its cell membrane pulled away from its cell wall.
+D	
+---------------------------------------------------
+
+
+
+Short questions
+
+[10235232]
+// Graph interpretation // Experiment // STSE connections //
+*	An investigation was carried out to study the effect of alcohol on the permeability of cell membrane. Beetroot discs obtained from a beetroot were placed in alcohol of different concentrations and the colour intensity of the surrounding fluid was measured after a fixed time. The results are shown in the graph below.
+	
+a	Explain how the results of the experiment show the permeability of the cell membrane increases with the concentration of alcohol. 		(3 marks)
+b	With reference to the structure of the cell membrane, explain why permeability increases with alcohol concentration. 			(2 marks)
+c	Using the information provided, and assuming cell membranes of prokaryotic cells are similarly affected by alcohol, suggest why it is recommended that hand sanitizer should have an alcohol concentration of over 60%.											(1 mark)
+-- answer --
+a	As the alcohol concentration increases, the colour intensity of the surrounding solution increases.											1m
+	This is because more pigment leaks out from the beetroot cells at a higher alcohol concentration. 												1m
+	The increase in membrane permeability allows more pigment to leak out. 	1m
+b	The cell membrane is mainly made up of a phospholipid bilayer. 			1m
+	Alcohol can dissolve the phospholipids, causing damage to the membrane. The permeability of the membrane increases as a result. 					1m
+c	60% alcohol is likely to be high enough to destroy the cell membrane of the bacteria / germs / pathogens and kill them. 								1m	
+---------------------------------------------------
+
+[10235238]
+// Applying concepts //
+**	The diagram below shows two green peas, X and Y. Green pea X has a wrinkled surface while green pea Y has a round surface.
+	
+Whether the pea is wrinkled or round depends on the sugar content of the pea. Green pea X stores more soluble sugars because green pea Y converts a large portion of the sugars stored into starch. When green pea X dries up, its outer layer becomes wrinkled.
+a	Based on your knowledge about osmosis, explain why pea X becomes wrinkled after it dries up.								(4 marks)
+b	Explain why green pea Y remains round after the pea dries up.																(2 marks)
+-- answer --
+a	Since green pea X stores a large amount of simple sugars, the water potential of green pea X is low.											1m
+	Therefore, a large amount of water enters green pea X by osmosis during development. The pea expands and its outer layer stretches.			1m
+	When the pea dries up, it shrinks as it loses water.					1m
+	Because the outer layer of the pea is inelastic, the over-stretched outer layer in green pea X becomes wrinkled.									1m
+b	Green pea Y converts simple sugars into starch. Since starch is insoluble in water, it does not affect the water potential of the pea.						1m
+	As a result, green pea Y takes up less water and its outer layer does not stretch during development.											1m	
+---------------------------------------------------
+
+[10235241]
+// Graph plotting // Experiment // STSE connections //
+*	The diagram below shows a set-up used to demonstrate the movement of substances across a differentially permeable membrane. The membrane is permeable to water molecules but not potassium ions and nitrate ions.
+	
+a	Sketch a curve to show the change in the concentration of potassium nitrate solution in arm A over time. Briefly explain your answer.		(3 marks)
+b	Potassium nitrate is the major component in fertilizer. It can help the growth of the plants. However, addition of an excessive amount of fertilizer to the soil may affect the growth of the plants. Explain in terms of the water potential of the soil.										(2 marks)
+
+-- answer --
+a	
+															1m
+	The water potential in arm A is lower than that of arm B.				1m
+	Therefore, water enters arm A by osmosis. As a result, the concentration of potassium nitrate solution in arm A decreases.						1m
+b	Excessive amount of fertilizer lowers the water potential of the soil.		1m
+	Plants may not be able to absorb sufficient amount of water by osmosis for growth as a result.												1m	
+---------------------------------------------------
+
+[10235250]
+// Cross-topic // Data handling // High order thinking // Schematic diagram //
+**	A student carried out an experiment to study osmosis using dialysis tubing which is permeable to water molecules but not to molecules like monosaccharides. He filled two pieces of dialysis tubing, one with concentrated sucrose solution and the other with distilled water. He then connected them with a plastic tube and put them into two beakers containing distilled water. The diagram below shows the set-up.
+	
+
+The student measured the initial mass of each beaker. After 30 minutes, he measured the mass of each beaker again. The table below shows the results obtained.
+	Beaker X	Beaker Y	
+Initial mass (g)	158.50	158.50	
+Mass after 30 minutes (g)	155.85	161.06	
+
+a	Based on your understanding about osmosis, explain the changes in the mass of each beaker.									(3 marks)
+b	It is known that the number of molecules per unit volume of solution affects the water potential. Based on this piece of information, explain why there would be greater changes in the masses of the beakers after 30 minutes if sucrase is added into the dialysis tubing in both beakers.		(3 marks)
+
+-- answer --
+a	In beaker X, the water potential of the concentrated sucrose solution inside the dialysis tubing was lower than that of distilled water outside the dialysis tubing.															1m
+	Therefore, there was a net movement of water from the beaker into the dialysis tubing.													1m
+	Pressure developed inside the dialysis tubing and pushed the sucrose solution to flow to beaker Y through the plastic tube. As a result, the mass of beaker X decreased while the mass of beaker Y increased after 30 minutes.		1m
+b	Sucrase catalyses the breakdown of a sucrose molecule into two monosaccharide molecules. Thus, the number of molecules per unit volume of the solution in the dialysis tubing in beaker X would increase. The water potential of the solution would be lower.												1m
+	The difference in the water potentials between the two sides of the dialysis tubing would be larger.												1m
+	More water would enter the dialysis tubing in beaker X and more solution would be pushed to flow to beaker Y.										1m
+Note:
+The net water movement by osmosis depends on the water potential difference between two solutions. The larger the water potential difference, the greater the amount of water flowing to the solution of lower water potential.
+
+	
+---------------------------------------------------
+
+[10235253]
+// Scientific investigation // Data handling // Experiment //
+*	A student used a beetroot to investigate the effect of alcohol concentration on the permeability of the cell membrane. He cut from the beetroot six pieces of tissue of the same size, washed them in running water and put them into test tubes containing alcohol of different concentrations. After 30 minutes, he discarded the beetroot tissue in the tubes and measured the intensity of red colouration in the solutions. The table below shows the results. 
+Alcohol concentration (%)	Colour intensity (arbitrary unit)	
+0	0.00	
+20	0.18	
+40	0.22	
+60	0.36	
+80	0.61	
+100	0.73	
+
+a	What was the dependent variable in this investigation? How was it measured?											(2 marks)
+b	Beetroot cells appear red because a red pigment is stored in their vacuoles. Explain, with reference to the structure of the cell membrane, why some solutions became red after 30 minutes. 						(3 marks)
+c	Based on the results, what can be concluded about the effect of alcohol concentration on the permeability of the cell membrane?		(1 mark)
+
+-- answer --
+a	The permeability of the cell membrane							1m
+It was measured by the intensity of red colouration in the solutions. 		1m
+b	The cell membrane and the vacuole membrane are composed of a phospholipid bilayer. 													1m
+Phospholipid molecules dissolved in alcohol. The cell membrane and the vacuole membrane of the beetroot cells were damaged. 						1m
+The red pigment in the vacuoles thus leaked out by diffusion. 			1m
+c	The higher the alcohol concentration, the higher the permeability of the cell membrane. 												1m	
+---------------------------------------------------
+
+[10235258]
+// Scientific investigation // NOS //
+**	The table below shows some historical events that contributed to our knowledge of the cell membrane structure. 
+
+Year	Historical events	
+1935	Davson and Danielli suggested that the cell membrane was made up of a phospholipid bilayer sandwiched between two layers of proteins.	
+1963	Branton froze the cell membrane, split it between the two phospholipid layers and observed the internal sides of the layers under a scanning electron microscope. He found that some structures were protruding from the smooth surface. These structures were believed to be proteins.	
+1972	Based on the findings of Branton and many other scientists, Singer and Nicolson proposed the fluid mosaic model, which is the model widely accepted today.	
+
+a	Do the findings of Branton support Davson and Danielli's cell membrane model? Explain your answer.								(2 marks)
+b	State two functions of the proteins in the cell membrane. 		(2 marks)
+
+c	Elaborate on how the above historical events can be used to demonstrate the two aspects of the nature of science listed in the table below. 
+Nature of science	Elaboration	
+Science is evidence based.	
+
+
+	
+Scientific knowledge is tentative and subject to change. 	
+
+
+	
+													(2 marks)
+
+-- answer --
+a	No. 													1m
+The findings of Branton show that some proteins are embedded half-way in the phospholipid bilayer or span the bilayer instead of coating the phospholipid bilayer.													1m
+b	Act as channel proteins / carrier proteins for the transport of materials. /
+Act as antigens for cell recognition. /
+Act as receptors for receiving chemical messengers. /
+Act as enzymes to speed up reactions. (any 2)					1m x 2
+c	
+Nature of science
+Elaboration
+
+Science is evidence based. 
+Singer and Nicolson built a scientific model based on findings.
+
+Scientific knowledge is tentative and subject to change. 
+Branton's findings disapproved the model proposed by Davson and Danielli, showing that scientific knowledge will change when there is new evidence.
+
+														1m x 2	
+---------------------------------------------------
+
+
+[10235275]
+// Data handling // Experiment //
+*	A student carried out an experiment to study the effect of concentrations of salt solutions on red blood cells. He added a small drop of blood into salt solutions of different concentrations. Samples were taken from each mixture and the number of red blood cells in each sample was counted under a microscope. The total number of red blood cells in each mixture was calculated and expressed as a percentage of the number in an untreated blood sample. The table below shows the results. 
+Concentration of salt solution (%)	Number of red blood cells (%)	
+0	0	
+0.2	0	
+0.4	3	
+0.6	35	
+0.8	95	
+1.0	100	
+1.2	100	
+
+a	In salt solutions of concentrations lower than 0.2%, no red blood cell was observed because all red blood cells burst. In terms of water potential, explain why red blood cells burst.							(2 marks)
+b	In salt solutions of concentrations between 0.4 to 0.8%, some red blood cells burst while some did not. Explain why.					(2 marks)
+c	Describe the appearance of red blood cells in 1.2% salt solution.	(1 mark)
+
+-- answer --
+	a	Salt solutions of concentrations lower than 0.2% had water potentials higher than 		those of the red blood cells. 									1m
+		The cells burst because the cells gained too much water by osmosis. 		1m
+	b	It is because the red blood cells had different water potentials. 			1m
+		The amounts of water gained by different cells were different. 			1m
+	c	They were wrinkled.											1m	
+---------------------------------------------------
+
+
+[10235283]
+// Comparison // Communication // Applying concepts //
+*	Water and oxygen are important to cells. These two substances enter the cells by different processes. State the processes by which these two substances enter the cells and give two similarities and two differences between the processes.
+																(5 marks)
+-- answer --
+	Water enters the cells by osmosis while oxygen enters the cells by diffusion. 	1m
+	Similarities: 
+	Both processes are passive / do not require energy. /
+	Both processes involve a net movement of substances down a concentration gradient. / 
+	The rates of both processes increases with temperature / concentration gradient. (any 2) 																1m × 2
+	Differences:
+	A differentially permeable membrane must be present for osmosis to occur, while a 	differentially permeable membrane is not necessary for diffusion to occur. 		1m
+	Osmosis refers to the movement of water molecules only, while diffusion refers to the 	movement of any substances including water. 							1m	
+---------------------------------------------------
+
+[10235292]
+// STSE connections // Applying concepts //
+*	Sally cut a kiwi fruit in half and put it on a dish. To make it taste sweeter, she added some sugar onto the cut surfaces. After 2 hours, she found that some liquid appeared on the dish. Explain why liquid appeared on the dish.		(3 marks)
+	
+
+-- answer --
+	Sugar dissolved into the juice on the cut surfaces of the kiwi fruit to form a sugar solution of high concentration.												1m
+
+	The water potential of the concentrated sugar solution was lower than that of the fruit cells.															1m
+	Water moved out of the fruit cells to the concentrated sugar solution by osmosis. A large volume of liquid formed as a result.									1m	
+---------------------------------------------------
+
+[10235293]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The food we eat is digested and then absorbed into the epithelial cells on the inner wall of the small intestine. The diagram below shows an epithelial cell and how two nutrients, calcium ions and fatty acids, are absorbed into the cell.
+	
+a	Calcium ions cannot pass through the phospholipid bilayer of the cell membrane. They are absorbed with the help of carrier proteins. Explain why calcium ions cannot pass through the phospholipid bilayer.		(2 marks)
+b	Name the process by which calcium ions are transported across the cell membrane. 										 	(1 mark)
+c	Large amounts of organelle X are present in the epithelial cells. Suggest how organelle X helps the absorption of calcium ions.			(2 marks)
+d	Suggest how the finger-like projections (Y) of the epithelial cells help increase the rate of absorption of fatty acids.					(2 marks)
+-- answer --
+	a	Calcium ions are charged / hydrophilic. 							1m
+		They are repelled by the phospholipid bilayer. 						1m
+	b	Active transport												1m
+	c	Organelle X is the main site where energy is released by respiration.		1m
+		It provides energy for the absorption of calcium ions by active transport. 	1m
+	d	Fatty acids are absorbed by diffusion. 							1m
+		The finger-like projections increase the surface area for diffusion. 		1m	
+---------------------------------------------------
+[10235304]
+// Graph interpretation // Experiment // Applying concepts //
+**	In an investigation of the absorption of substance Y by the root of a plant, the root was immersed into a solution of substance Y supplied with oxygen. After 50 minutes, cyanide was added to the solution. The graph below shows the change in rate of absorption of substance Y.
+	
+a	Describe how the rate of absorption of substance Y changed from the 50th to 110th minutes. Suggest a reason for such a change.			(3 marks)
+b	State one evidence to support the hypothesis that the absorption process involves diffusion. Explain briefly.							(2 marks)
+
+-- answer --
+	a	The rate of absorption of substance Y decreased from the 50th to 110th minutes.																	1m
+		The absorption involves active transport, which requires energy. 			1m
+Cyanide inhibited respiration, thus no energy was released from the cells. Active transport stopped, causing a decrease in the rate of absorption. 			1m
+b	After adding cyanide, the rate of absorption of substance Y did not drop to zero although the rate was low. 									1m
+		This suggests that the absorption of substance Y also involves diffusion, which 			does not require energy.										1m	
+---------------------------------------------------
+
+[10235306]
+// Comparison // Schematic diagram //
+*	Scientists have been studying the structure of the cell membrane for many years. The diagrams below show two of the models proposed to illustrate the membrane structure.
+	
+
+	a	State two similarities between the two models.				(2 marks)
+	b	State one difference between the two models.				(1 mark)
+c	Which property of the cell membrane cannot be explained by the 'sandwich' model? Explain briefly.						(3 marks)
+
+-- answer --
+	a	Both models suggested that the cell membrane is composed of phospholipid 			molecules and protein molecules.								1m
+		Phospholipid molecules are arranged in a bilayer in both models.			1m
+	b	In the 'sandwich' model, protein molecules are located on both surfaces of the 			phospholipid bilayer. In the fluid mosaic model, protein molecules are interspersed 		among the phospholipid molecules.								1m
+	c	The 'sandwich' model cannot explain that the cell membrane is flexible.	1m
+		It is because the phospholipid bilayer is sandwiched between two layers of protein 		molecules.													1m
+		The protein molecules limit the movement of the phospholipid molecules in the 			bilayer.													1m	
+--------------------------------------------------- 
+
+
+[10235309]
+// Basic concepts //
+	Membrane proteins can be classified into different types. Write down the types of membrane proteins according to the functions listed in the table below.																(5 marks)
+Type of membrane proteins	Function	
+a	They speed up chemical reactions.
+	
+b	They are for cell recognition.
+	
+c	They provide channels across the membrane for transporting certain ions and small, polar molecules.	
+d	They receive chemical messengers outside the cell.	
+e	They change shape to carry substances across the cell membrane.	
+
+--answer--
+	a	Enzymes													1m
+	b	Antigens													1m
+	c	Channel proteins											1m
+	d	Receptors													1m
+	e	Carrier proteins												1m	
+---------------------------------------------------
+
+[10235336]
+// Overseas exam question // Experiment //
+*	A student wanted to observe some red blood cells under the microscope. The student placed a small sample of blood onto a microscope slide and added a drop of distilled water. When viewed at high-power, the student observed that the red blood cells had burst. 
+In a similar procedure using plant epidermis, the student observed the plant cells did not burst.
+a	Explain these observations.								(5 marks)
+b	Suggest how the student could modify the procedure to observe red blood cells without them bursting.								(1 mark)
+OCR GCE (AS) Cells, Exchange and Transport May 2012 Q4a
+-- answer --
+a	The red blood cells had a lower water potential than distilled water.		1m 
+Water moved down the water potential gradient / from a region of higher water potential to a region of lower water potential by osmosis.				1m
+The cell membrane of red blood cells could not withstand the pressure and thus the cells burst / haemolysis occurred.								1m
+The cell wall of the plant cells could provide support to the cells / could withstand the pressure so that the cells did not burst.							1m
+The plant cells became turgid and water uptake was reduced.			1m
+b	Use a solution with a water potential the same as / similar to / lower than that of the red blood cells instead of distilled water.							1m 	
+---------------------------------------------------
+
+[10235349]
+// Reading comprehension // STSE connections // Applying concepts //
+*	Read the following article and answer the questions.
+
+	Mangrove is a unique intertidal wetland ecosystem found in sheltered tropical and subtropical shores. Periodically, it receives salty sea water from tidal flushing. Many plants cannot survive in this saline environment. To overcome the problem of water absorption caused by high salinity, some mangrove plants maintain a higher solute concentration than that of the surrounding water in their root cells.
+	
+
+a	Explain why many plants cannot survive high salinity.			(3 marks)
+b	Suggest how the mangrove plants increase the solute concentration in their root cells.												(1 mark)
+c	How does an increase in solute concentration affect the water potential?
+														(1 mark)
+
+
+-- answer --
+a	The water potential of their cells is higher than that of the surrounding salty water.															1m
+The cells cannot obtain water from the surroundings. / The cells lose water to the surroundings by osmosis. 										1m
+The plants lack water for metabolic reactions / photosynthesis.			1m
+b	The mangrove plants may take in salts from the surrounding water / accumulate sugars in their root cells.										1m
+c	An increase in solute concentration lowers the water potential.			1m	
+---------------------------------------------------
+
+[10235376]
+// Experiment // Applying concepts //
+*	A student mixed some blood with an equal volume of detergent and then put a drop of the mixture on a slide. Under the microscope, no cells but a uniform pale red colour could be observed.
+a	Explain the observation.									(2 marks)
+b	Describe and explain what would be observed if the blood is mixed with distilled water instead of detergent.						(4 marks)
+-- answer --
+a	The phospholipids in the cell membrane dissolved in the detergent.		1m
+Haemoglobin from the red blood cells leaked into the surroundings and produced a pale red colour.												1m
+b	No cells but a uniform pale red colour would be observed.				1m
+Distilled water is hypotonic to the red blood cells.						1m
+Water would enter the red blood cells by osmosis. 					1m
+The red blood cells would swell and finally burst, releasing the haemoglobin.															1m	
+---------------------------------------------------
+
+
+[10235395]
+// Data handling // Experiment // Applying concepts //
+*	A student carried out an experiment to study the uptake of substance X by root tissue of a plant. He immersed four identical cubes of plant tissue into beakers of solutions. The solutions have the same concentration of substance X but different concentration of oxygen. The table below shows the results. 
+
+Concentration of oxygen (arbitrary unit)	Rate of uptake of substance X  (arbitrary unit)	
+0	7	
+5	29	
+10	90	
+20	100	
+
+a	The student concluded that the tissue takes in substance X by diffusion and active transport. Do you agree? Give evidence to support your answer. 														(4 marks)
+b	How would the rate of uptake of subtstance X change if cyanide is added to the solution? Explain why. 								(3 marks)
+
+-- answer --
+a	Agree. 
+The rate of uptake of substance X increased with concentration of oxygen.	1m
+This suggested that the uptake involves active transport because active transport requires energy from respiration and respiration needs oxygen.			1m
+Substance X was still taken in by the tissue in the solution without oxygen. 	1m
+This suggested that the uptake involves diffusion, which does not need energy. 															1m
+b	Substance X would be taken in at a rate of 7 arbitrary units.				1m
+Cyanide inhibits respiration. The cells cannot release energy for active transport. 														1m
+The cells take in substance X by diffusion only. 						1m	
+---------------------------------------------------
+
+
+[10235397]
+// High order thinking // Experiment // Communication // Schematic diagram //
+**	The diagram below shows a piece of dialysis tubing containing a sugar solution (X) immersed in another sugar solution (Y). 
+
+	
+
+The liquid level in the capillary tube rises initially and then falls gradually. Explain why. 												(6 marks)
+
+-- answer --
+At the beginning, the water potential of solution X is lower than that of the solution Y. 																1m
+There is a net movement of water molecules from solution Y to solution X by osmosis, leading to a rise in the liquid level. 									1m
+Glucose molecule is small enough to pass through the dialysis tubing. 		1m
+The concentration of glucose in solution X is higher than that of solution Y. 		1m
+There is a net movement of glucose molecules out of the tubing by diffusion and leads to a decrease in water potential of solution Y and increase in water potential of solution X. 															1m
+Water molecules move from solution X to solution Y by osmosis, leading to a fall in the liquid level. 													1m	
+---------------------------------------------------
+
+
+[10235405]
+// Graph interpretation // High order thinking // Communication //
+**	The graphs below show the effect of concentration difference between the inside and outside of a cell on the rates of uptake of two substances by the cell. The rates of uptake of the two substances when cyanide is present are also shown.
+
+	
+
+Name the process involved in the uptake of substances X and Y. Explain briefly.  														(6 marks)
+
+-- answer --
+Substance X is taken into the cell by diffusion / osmosis. 					1m
+As concentration difference increases, the rate of uptake increases. 			1m
+The rate of uptake is not affected by the presence of cyanide, indicated that the process is passive / does not require energy. 									1m
+Substance Y is taken into the cell by active transport. 						1m
+The rate of uptake levels off when concentration difference is large. This is because all carrier proteins on the cell membrane are occupied.  						1m
+The rate of uptake drops to zero in the presence of cyanide, indicated that the process is active / requires energy. 											1m	
+--------------------------------------------------- 
+
+[10235422]
+// Data handling // Applying concepts //
+*	The table below shows the rate of absorption of two kinds of sugars, X and Y, by the cells in the inner wall of the small intestine. The rates of absorption when cyanide is present are also shown. 
+	Rate of absorption (arbitrary unit)	
+	Cyanide absent	Cyanide present	
+X	1.00	0.29	
+Y	0.26	0.26	
+a	State three conclusions that can be obtained from the results. 	(3 marks)
+b	Which of the two sugars is absorbed by diffusion only? Explain your 
+answer.												(3 marks)
+-- answer --
+a	The rate of absorption of sugar X is higher than that of sugar Y. /
+The two kinds of sugars are absorbed at similar rate when cyanide is present. /
+Presence of cyanide significantly reduces the rate of absorption of sugar X. /
+Presence of cyanide does not affect the rate of absorption of sugar Y. (any 3)														1m x 3
+b	Sugar Y												1m
+The rate of absorption remains the same in the presence of cyanide. 	1m
+This suggests that absorption of sugar Y does not need energy from respiration / is a passive process. 										1m	
+--------------------------------------------------- 
+
+[10235425]
+// Comparison // Basic concepts //
+	State three ways in which osmosis is different from diffusion.		(3 marks)
+-- answer --
+Osmosis always involves a differentially permeable membrane while diffusion does not.															1m
+Osmosis refers to the movement of water molecules only, while diffusion refers to the movement of any molecules including water molecules.					1m
+During osmosis, there is a net movement of water molecules from a region of higher water potential (i.e. lower solute concentration) to a region of lower water potential 
+(i.e. higher solute concentration). During diffusion, there is a net movement of molecules from a region of higher solute concentration to a region of lower solute concentration.																1m	
+---------------------------------------------------
+[10235427]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a process by which sodium ions are being transported across the cell membrane.
+
+	
+
+a	Name the process.										(1 mark)
+b	Explain why sodium ions cannot move through the phospholipid bilayer.														(2 marks)
+c	Suggest one modification in the cell membrane that could result in an increase in the rate of sodium ion transport across the cell membrane.															(1 mark)
+
+-- answer --
+a	Active transport												1m
+b	Sodium ions are charged / hydrophilic.							1m
+	They are repelled by the phospholipid bilayer.						1m
+c	Increase the number of carrier proteins in the cell membrane.			1m	
+---------------------------------------------------
+
+[10235440]
+// NOS // Reading comprehension // Schematic diagram //
+**	Read the following article and answer the questions.
+
+	The structure of cell membrane has been the research subject of many scientists in the past 200 years.
+	Until the 1970s, scientists believed that the cell membrane was composed of a phospholipid bilayer sandwiched between two layers of hydrophilic proteins. This was the 'sandwich' model.
+
+	However, further experiments showed that the membrane proteins are mainly hydrophobic. If the membrane proteins are on both sides of the bilayer as in the 'sandwich' model, the membrane would be unstable. 
+	Electron micrographs also showed that tiny dots are present between the two phospholipid layers. These tiny dots were suggested to be proteins by Singer and Nicolson. These evidence led Singer and Nicolson to propose the fluid mosaic model of the cell membrane in 1972.	
+
+a	Explain why the membrane proteins that are mainly hydrophobic would make the membrane in the 'sandwich' model unstable.			(1 mark)
+b	What is the evidence that supported the model proposed by Singer and Nicolson?											(2 marks)
+c	Suggest two features of scientific models from the information given in the article.												(2 marks)
+
+
+
+
+
+
+
+
+-- answer --
+a	The hydrophobic membrane proteins would be repelled by both the aqueous environment and the hydrophilic heads of the phospholipid molecules.		1m
+b	The membrane proteins are mainly hydrophobic parts. This implies that the membrane proteins are not on both sides of the phospholipid bilayer.		1m
+Electron micrographs showed that tiny dots are present between the two phospholipid layers. These were suggested to be proteins embedded in the phospholipid bilayer.											1m
+c	Scientific models are tentative and subject to change.					1m
+Scientific models are built to visualize things that cannot be observed directly.															1m	
+---------------------------------------------------
+
+[10235444]
+// Graph interpretation // Applying concepts //
+*	Amoeba is a unicellular organism that lives in freshwater ponds. It constantly discharges excess water in the body by a special vacuole. The graph below shows the changes in the frequency of discharge in an Amoeba as the water potential of the surrounding solution decreases.
+	
+
+a	On the graph, mark with the letter W the point at which the water potential of the surrounding solution is equal to that of the Amoeba. Give a reason for your answer.											(2 marks)
+b	Compare the water potential of the Amoeba and that of the surrounding solution when the frequency of discharge is 30 times per minute.																(1 mark)
+
+
+
+-- answer --
+a	Correct marking at the rightmost end of the line						1m
+When the water potential of the surrounding solution is equal to that of the Amoeba, no water is discharged by the special vacuole.				1m
+b	The water potential of the surrounding solution is higher than that of the Amoeba.															1m	
+---------------------------------------------------
+
+[10235460]
+// Drawing // Experiment // Schematic diagram // Basic concepts //
+	Three discs were cut from the same potato and were immersed in three salt solutions of different concentrations. After 30 minutes, the discs were removed from the solutions. Cells from each disc were mounted and observed under a light microscope. The diagram below shows three cells observed. 
+
+	
+
+a	i	Identify the cell which is taken from 
+1	the disc immersed in a hypotonic solution.			(1 mark)
+2	the disc immersed in an isotonic solution.			(1 mark)
+ii	Briefly describe the process that causes the change in the appearance of the cells.										(2 marks)
+b	Name the sub-cellular structure that prevents plant cells from bursting. 														(1 mark)
+c	The experiment was repeated using red blood cells. Draw a diagram to show the appearance of a red blood cell in a hypertonic solution. 															(2 marks)
+
+
+
+
+
+-- answer --
+a	i	1	Cell Y											1m
+2	Cell Z											1m
+ii	There is a net movement of water molecules 					1m
+from the solution of higher water potential to the solution of lower water potential.												1m
+b	Cell wall 													1m
+c	Correct title												1m
+Correct diagram which shows a red blood cell shrinks					1m	
+---------------------------------------------------
+
+[10235463]
+// Experiment // Basic concepts //
+	Samples of blood were mixed with different liquids. A drop of mixture was put on a slide and was examined under a microscope.
+a	The table below shows the three liquids mixed with blood sample. Complete the table by selecting one phrase that correctly describes the observation for each liquid. 								(3 marks)
+I	No cell but a uniform pale red colour is seen.
+II	The cells become wrinkled.
+III	The cells appear normal.
+
+Slide	Liquid added	Observation under the microscope	
+X	Distilled water		
+Y	20% sucrose solution		
+Z	0.9% sodium chloride solution		
+
+b	Explain the observations of slides Y and Z. 					(4 marks)
+
+
+
+
+
+
+
+
+-- answer --
+a	
+Slide
+Liquid added
+Observation under the microscope
+
+X
+Distilled water
+I
+
+Y
+20% sucrose solution
+II
+
+Z
+0.9% sodium chloride solution
+III
+
+															1m x 3
+b	Y: 
+The water potential of red blood cells is higher than that of 20% sucrose solution.														1m
+Water leaves the red blood cells by osmosis. 					1m
+Z: 
+The water potential of red blood cells is about the same as that of 0.9% sodium chloride solution. 										1m
+There is no net gain or loss of water in the cells.					1m	
+--------------------------------------------------- 
+
+[10235473]
+// Data handling // Schematic diagram // Basic concepts //
+	The diagram below shows two adjacent plant cells.
+
+	
+
+a	Draw an arrow on the diagram to show the net flow of water. Explain your answer.											 	(2 marks)
+b	i	How does the solute concentration affect the water potential of a cell? 												(1 mark)
+ii	Explain why many species of plants are unable to survive in a habitat of low water potential. 								(3 marks)
+-- answer --
+a	From cell Y to cell X 											1m
+The water potential of cell Y is higher than that of cell X.				1m
+b	i	The higher the solute concentration, the lower / more negative the water potential.			 									1m
+ii	If the water potential of the cells is higher than that of the surroundings,														1m
+the plants cannot absorb water from the surroundings / the plants lose water continuously to the surroundings by osmosis.					1m
+The plants will lack water for metabolic reactions / photosynthesis.	1m	
+---------------------------------------------------
+
+[10235488]
+// Basic concepts //
+a	The following statements outline the process of phagocytosis but they are in wrong order.
+I	The cell releases enzymes to digest the particle in the vacuole.
+II	The particle is enclosed in a vacuole.
+III	Pseudopodia are formed to engulf the target particle.
+VI	The digested products diffuse to the cytoplasm.
+Arrange them in proper order. 				 			(2 marks)
+b	What is the importance of phagocytosis?					(2 marks)
+
+-- answer --
+a	III → II → I → VI											2m
+b	Some unicellular organisms engulf food particles by phagocytosis.		1m
+In humans and other mammals, certain types of white blood cells engulf harmful microorganisms by phagocytosis.								1m	
+---------------------------------------------------
+
+
+[10235503]
+// Basic concepts //
+a	i	Glucose cannot diffuse across the phospholipid bilayer of the cell membrane directly. Explain why. 						(2 marks)
+ii	Glucose is transported across the membrane by the carrier proteins using energy. Name this process.						(1 mark)
+iii	Besides acting as carrier proteins for transporting glucose, suggest two other functions of membrane proteins. 					(2 marks)
+b	Suggest one modification in the cell membranes that could result in an increase in the rate of glucose uptake. 						(1 mark)
+
+-- answer --
+a	i	Glucose molecules are polar / hydrophilic.					1m
+		It is repelled by the phospholipid bilayer.					1m
+ii	Active transport										1m
+iii	They provide channels for transporting certain ions and small, polar molecules. /
+They are involved in cell recognition. /
+They receive chemical messengers (e.g. hormones) outside the cell. /
+They speed up reactions. (any 2)						1m x 2
+b	Increase the number of carrier proteins in the cell membrane.		1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10235623]
+// Overseas exam question // Drawing // High order thinking // Schematic diagram //
+*	Water relations between dandelion flower stalks and solutions were investigated. The outer layer of the stalk has adaptations to reduce water loss, much like the cuticle of a leaf.
+	A dandelion stalk was split longitudinally and divided into 3 cm long strips as shown.
+
+	One strip was placed in water and two in sucrose solutions of different concentrations for five minutes. The appearance of each strip before and after immersion is shown in the table below.
+Concentration of
+sucrose solution (%)	Strip appearance	
+	Before immersion	After immersion	
+0 (pure water)			
+2			
+10			
+
+a	Complete the table by drawing the expected appearance of the dandelion strip after five minutes immersion in 10% sucrose solution.		(2 marks)
+b	Explain the change in appearance shown by the strip in pure water.															(3 marks)
+c	If erythrocytes (red blood cells) are placed in pure water for five minutes, the water will change from colourless to pale red. Explain this change in colour.												(2 marks)
+d	Amoeba proteus is a single-celled organism, lacking a cell wall, that lives in damp soil or water. When viewed under the microscope, structures called contractile vacuoles can be seen within the cell. These vacuoles can be observed to enlarge in size, move towards the cell membrane and then rapidly shrink in size.
+	It has been found that the higher the water potential of the solution the A. proteus is found in, the greater the rate of enlarging and shrinking of contractile vacuoles.
+	Suggest the probable function for contractile vacuoles in A. proteus.															(2 marks)
+					CCEA GCE (AS) Biology Unit AS 1 Jun 2016 Q7b-d
+
+-- answer --
+	a	Similar size with cuticle present									1m
+		Strip bends backwards										1m
+	b	Water potential of pure water is higher than that of the dandelion tissue.	1m
+		Water moves into the dandelion tissue by osmosis.					1m
+		The cells swell. The inner layer becomes longer than the outer layer as a result.																	1m
+	c	Water enters the red blood cells by osmosis.						1m
+The cells swell and finally burst. The haemoglobin is released, causing the solution to change to pale red.										1m
+	d	Contractile vacuoles remove excess water in A. proteus.				1m
+		This prevents the cells from bursting.								1m	
+---------------------------------------------------
+
+[10235624]
+// Overseas exam question // Cross-topic // Data handling // Schematic diagram //
+**	Amoeba proteus is a single-celled organism that lives in freshwater habitats. The diagram below is a drawing of A. proteus.
+
+a	State one feature shown in the above diagram that would not be present in a prokaryotic cell.										(1 mark)
+b	One role of the plasma membrane is to act as a barrier between the cell and its surroundings.
+i	Which component of the plasma membrane acts as a barrier to mineral ions entering the cell?								(1 mark)
+ii	Describe two other roles of membranes in an Amoeba.		(2 marks)
+c	Water continually enters an Amoeba from its surroundings. The contractile vacuole is an organelle that collects water from inside the cell and expels it from the cell. The contractile vacuole expands as it collects water and then fuses with the plasma membrane to release the water from the cell.
+	What would happen to an Amoeba if it had no contractile vacuole?															(1 mark)
+d	A student investigated the activity of the contractile vacuole when an Amoeba was placed in solutions of different water potential.
+	The student placed the Amoeba in each solution and counted the number of times the contractile vacuole filled and emptied in the first minute. The results are shown in the table below.
+
+Water potential surrounding Amoeba (kPa)	Number of times the contractile vacuole filled and emptied in the first minute	
+0	19	
+−100	14	
+−200	9	
+−300	5	
+−400	2	
+−500	0	
+
+Explain why the contractile vacuole emptied more frequently when the water potential surrounding the Amoeba was -100 kPa compared to when the water potential was -400 kPa.							(2 marks)
+		OCR GCE (AS) Cells, Exchange and Transport Jun 2016 Q1b-c, d ii, e
+
+
+
+
+
+-- answer --
+	a	Nucleus / vacuole											1m
+		(or other correct answers)
+	b	i	Phospholipids											1m
+		ii	It controls materials that enter and leave the cell.					1m
+			It forms pseudopodia in phagocytosis for obtaining food.			1m
+			(or other correct answers)
+	c	It will burst.												1m
+d	Water potential of the -100 kPa solution is higher than that of the -400 kPa solution.													1m
+Therefore, water enters the Amoeba more quickly. Thus, Amoeba needs to remove water at a higher rate.										1m	
+---------------------------------------------------
+
+[10235626]
+// Graph interpretation // Schematic diagram // Applying concepts //
+*	In an experiment, a scientist labelled the membrane proteins of an animal cell with a green dye and the membrane proteins of another animal cell with a red dye. These two cells were then fused together. The diagram below shows the appearances of the cells before, immediately after and one hour after fusion.
+
+	
+
+a	Which properties of cell membrane is demonstrated by the above experiment? Briefly explain your answer.					(3 marks)
+
+b	In a further investigation, the above experiment was repeated at different temperatures and the percentage of hybrid cells with fully mixed membrane proteins was recorded. The graph below shows the result.	
+	
+
+i	Explain the effect of temperature on the percentage of hybrid cells with fully mixed membrane proteins.						(3 marks)
+ii	How would the result of the experiment be different if cells from arctic animals were used instead? Explain your answer.			(2 marks)
+
+-- answer --
+a	The fluidity of the cell membrane.								1m
+	The experiment shows that the membrane proteins of the animal cell become randomly distributed in the hybrid cell one hour after fusion.				1m
+	This suggested that the phospholipid molecules and the membrane proteins must have moved laterally in the cell membrane.							1m
+	b	i	At temperature below 10 °C, the percentage of hybrid cells with fully mixed membrane proteins is low.									1m
+The phospholipid may be frozen at these temperatures. This prevents the lateral movement of the membrane proteins.					1m
+As the temperature increases, the molecules have more kinetic energy and move faster. Therefore, the percentage of hybrid cells with fully mixed membrane proteins increases.								1m
+		ii	The percentage of hybrid cells with full mixed membrane proteins will start to increase at lower temperatures.								1m
+Arctic animals are adapted cold environments. Therefore, the cell membrane should be able to maintain fluidity at lower temperatures.			1m	
+---------------------------------------------------
+
+[10235628]
+// Cross-topic // Graph plotting // Data handling // Experiment //
+**	A student carried out an experiment to determine the water potentials of two different plant tissues, cactus stem and sweet potato. She cut strips of the same size from a cactus stem and a sweet potato, and put them in sucrose solutions of different concentrations. The table below shows the percentage changes in mass of the strips after 2 hours.
+Sucrose concentration (M)	0	0.1	0.2	0.3	0.4	0.5	0.6	
+Percentage change in mass of cactus stem strips (%)	3	-2	-13	-19	-22	-30	-42	
+Percentage change in mass of sweet potato strips (%)	18	15	10	7	-2	-5	-10	
+
+a	Use the graph paper below, plot a graph to show the results of the experiment. 											(4 marks)
+	
+b	Deduce from the graph the water potentials of cactus stem and sweet potato in terms of sucrose concentration.							(2 marks)
+c	Suggest why the water potential of sweet potato is different from that of cactus stem.											(2 marks)
+d	Suggest one modification that can be made to the experiment so that the results can be obtained more quickly.						(1 mark)
+
+e	Sweet potato contains many buds which can develop into aerial shoots. When a new shoot forms from a bud, the water potential of the cells near the bud decreases. Suggest why the water potential of the cells decreases.														(2 marks)
+
+-- answer --
+a	Correct title												1m
+	Correct choice of axes										1m
+	Axes with labels and units										1m
+	Correct plotting and joining of lines								1m
+
+b	The water potential of cactus stem is equal to that of 0.05 M sucrose solution.	1m
+	The water potential of sweet potato is equal to that of 0.4 M sucrose solution.	1m
+Note:
+The water potential of each tissue can be read from the graph at the point where the percentage change in mass is zero (i.e. the X-intercept). This is because when the water potential of the tissue is the same as that of the surrounding solution, there is no net movement of water into or out of the tissue. The mass of the tissue therefore remains the same.
+
+
+c	Sweet potato stores a large amount of sugars.						1m
+The high concentration of sugars reduces the water potential of sweet potato. Hence, the water potential of sweet potato is lower than that of cactus stem.	1m
+d	Increase the temperature of the sucrose solution to a suitable level to increase the rate of osmosis but avoid damage to the cell membrane. /
+Cut the cactus stem and sweet potato strips into smaller pieces.
+	(or other reasonable answers) 									1m
+Note:
+The results can be obtained more quickly by increasing the rate of osmosis.
+
+e	The starch stored in the cells near the bud may be converted into sugars for the development of the shoot.										1m
+	As the concentration of sugars in the cells increases, the water potential of cells decreases.												1m	
+---------------------------------------------------
+
+[10235632]
+// Graph interpretation // Experiment // Applying concepts //
+**	A student investigated the absorption of potassium ions into the roots of plants. He washed the roots of two plants with distilled water and immersed them into solutions containing potassium ions at 0 °C and 25 °C. He then measured the total amount of potassium ions absorbed into the plants for 120 minutes. At 90 minutes, cyanide was added to the solution at 25 °C. The graph below shows the results obtained.
+	
+
+a	Describe the results in the first 90 minutes of the experiment.	(4 marks)
+b	With reference to the experimental results at 25 °C, suggest one way by which potassium ions are absorbed into the root. Give evidence from the graph to support your answer.								(2 marks)
+c	Respiration involves enzymes. At 0 °C, activities of these enzymes are low. Based on the above information, explain why the result at 0 °C is different from that at 25 °C.										(2 marks)
+
+-- answer --
+a	At 0 °C, the roots absorbed potassium ions during the first 60 minutes.		1m
+	After the first 20 minutes, the rate of absorption decreased and dropped to zero at 60 minutes.												1m
+	At 25 °C, the roots absorbed potassium ions during the first 90 minutes.	1m
+	The rate was higher during the first 20 minutes and lower after the first 20 minutes.														1m
+b	The absorption of potassium ions into the root probably involved active transport.															1m
+	The roots stopped absorbing potassium ions after cyanide was added. This indicates the absorption required energy from respiration.				1m
+c	As enzymes were inactive at 0 °C, the rate of respiration at 0 °C was low. Less energy was released. The rate of active transport was low.				1m
+	The absorption of potassium ions was mainly due to diffusion.			1m
+Note:
+At 0 °C, the absorption of potassium ions into the root stopped after 60 minutes. This is probably because diffusion stopped as the concentrations of potassium ions inside and outside the root became the same.
+
+	
+---------------------------------------------------
+
+[10235634]
+// High order thinking // STSE connections // Applying concepts //
+**	a	Chloride ions cannot diffuse across the cell membrane directly. With reference to the structure of the cell membrane illustrated by the fluid mosaic model, explain why. 								(2 marks)
+b	Cholera is a disease caused by a bacterium. The bacterium releases a toxin which causes chloride ions to move from the epithelial cells lining the inner wall of the intestine to the lumen. This results in diarrhoea. The patient produces a large amount of watery faeces. 
+i	Explain why the movement of chloride ions from the epithelial cells to the lumen of the intestine results in diarrhoea. 			(3 marks)
+
+Diarrhoea patients can drink a solution called oral rehydration solution to help recovery. The solution contains glucose, salts and water. Glucose and salts in the solution help the absorption of water in the intestine. 
+ii	Describe how the glucose and salts in the oral rehydration solution help the absorption of water in the intestine.				(2 marks)
+iii	Sports drinks also contain glucose, salts and water, but the concentration of glucose is usually higher than that in oral rehydration solution. Explain why drinking sports drinks cannot help the recovery of diarrhoea patients and may even make diarrhoea worse. 	(2 marks)
+-- answer --
+a	The cell membrane is composed of a phospholipid bilayer. 				1m
+Chloride ions are charged / hydrophilic. They are repelled by the phospholipid bilayer.													1m
+b	i	As the chloride ions move to the lumen, the water potential in the lumen becomes lower. 										1m 
+This causes water to move from the epithelial cells to the lumen by osmosis.													1m
+The intestine of the patients does not absorb water / absorbs only a small amount of water, thus a large amount of watery faeces is produced. 	1m
+ii	Glucose and salts in the oral rehydration solution are absorbed into the epithelial cells.											1m
+This lowers the water potential of the epithelial cells. Water in the lumen of the intestine then enters the epithelial cells by osmosis.			1m
+iii	After drinking sports drinks, the high concentration of glucose lowers the water potential in the lumen of the intestine.					1m
+This causes water to move from the epithelial cells to the lumen by osmosis, making diarrhoea worse. 									1m	
+---------------------------------------------------
+
+[10235640]
+// Design experiment // Experiment // Communication // Applying concepts //
+**	a	Describe and explain what happens when a carrot strip is put into a hypotonic solution.										(3 marks)
+
+b	You are provided with the following materials and apparatus:
+boiling tubes, measuring cylinder, cork borer, knife, ruler, 
+plastic food wrap, electronic balance, tissue paper, distilled water, 
+sucrose solutions of different concentrations (0.2 M, 0.4 M, 0.6 M, 0.8 M and 1 M)	
+Describe how you would perform an experiment to find out which concentration of sucrose solution has the same water potential as the carrot tissue. Choose the appropriate materials and apparatus. 		(5 marks)
+c	When a carrot grows for a longer time before harvest, some of the stored sugars in it will be converted into starch. How would the results in the experiment in b be different if such a carrot was used instead? Explain your answer.												(2 marks)
+-- answer --
+a	The volume of the carrot strip increases. 							1m
+The water potential of the hypotonic solution is higher than that of the carrot tissue.													1m 
+There is a net movement of water into the carrot tissue by osmosis. 		1m
+b	Cut six carrot strips from a carrot using a cork borer. Cut each strip to 5 cm long using a knife and then divide it into six discs of equal thickness. The six discs from each strip are regarded as one group.								1m
+Blot each group of discs with tissue paper and weigh them with an electronic balance immediately.											1m 
+Transfer 20 cm3 of distilled water and sucrose solutions (0.2 M, 0.4 M, 0.6 M, 0.8 M and 1 M) into six boiling tubes respectively using a measuring cylinder. Put one group of discs into each boiling tube. Cover the tubes with plastic food wrap. Leave them for one hour. 											1m
+Blot each group of discs and weigh them immediately. 				1m
+Calculate the percentage change in total mass of each group of discs. Plot a graph of percentage change in total mass against concentration of sucrose solution. The sucrose solution has the same water potential as the carrot tissue when the percentage change in total mass is 0.								1m
+(or other reasonable answers)
+c	A sucrose solution of lower concentration would have the same water potential as the carrot tissue. 											1m
+Soluble sugars lower the water potential of the carrot tissue while insoluble starch does not affect the water potential. As the carrot contained less stored sugars, the water potential of its tissue would be higher.						1m	
+---------------------------------------------------
+
+[10235649]
+// Experiment // Communication // Schematic diagram //
+*	Mammalian blood is red in colour because of the red pigment haemoglobin inside the red blood cells. If some blood is centrifuged (離心處理), the heavier blood cells (including red blood cells) will sink to the bottom and the fluid above the blood cells will appear light yellow in colour.
+	1 cm3 of mammalian blood was added into three test tubes of salt solution of different concentrations. The test tubes were shaken well and then centrifuged. The fluid above the blood cells showed different colours after centrifugation as shown in the diagram below.
+	
+a	Explain why the fluid in test tube A showed a red colour but that in test tube C did not.												(5 marks)
+b	Explain why the fluid in test tube B showed a lighter red colour than that in test tube A.											(3 marks)
+c	If you were given a light microscope, how would you use it to confirm your explanation in b?										(2 marks)
+-- answer --
+	a	In test tube A, the distilled water had a water potential higher than that of the red 			blood cells / the distilled water was hypotonic to the red blood cells. 		1m
+		Water entered the cells by osmosis.								1m
+		This caused the cells to burst and haemoglobin was released into the fluid.	1m
+		In test tube C, the concentrated salt solution had a water potential lower than that 		of the red blood cells / the concentrated salt solution was hypertonic to the red 			blood cells.												1m
+		Water was drawn out of the cells and the cells did not burst.				1m
+	b	The very dilute salt solution had a water potential higher than that of some of the 		red blood cells / was hypotonic to some of the red blood cells.			1m
+		Water entered these cells by osmosis.							1m
+		Since only some red blood cells burst, a smaller amount of haemoglobin was 			released.													1m
+	c	Take some fluid from tube A and some solid matter from the bottom of tube B. 			Observe them under the microscope.								1m
+		No intact cells would be found in the fluid from tube A while some would be found 		in the solid matter from tube B.									1m	
+--------------------------------------------------- 
+
+[10235667]
+// Overseas exam question // Data handling // Experiment //
+*	a	i	Name the process by which water leaves a cell. 			(1 mark)
+ii	Describe the route that water molecules take through the cell surface membrane.										(2 marks)
+	
+A student carried out an investigation to determine the effects of different sucrose concentrations on cells from pieces of onion epidermis.
+•	Strips of epidermis were taken from an onion.
+•	Separate pieces of epidermis were placed into water and a range of sucrose solutions.
+•	The pieces of epidermis were left for 30 minutes before being removed.
+•	The pieces of epidermis were then viewed at high-power under the microscope.	
+
+The student counted 100 cells from each piece of epidermis. The student noted how many cells had become plasmolysed. The results are shown in the table below.
+
+Concentration of sucrose solution (mol dm-3)	Water potential of sucrose solution (kPa)	Percentage of cells plasmolysed (%)	
+0.0	0	0	
+0.1	-260	0	
+0.3	-860	3	
+0.4	-1120	7	
+0.5	-1450	39	
+0.6	-1800	57	
+0.7	-2180	83	
+0.8	-2580	94	
+1.0	-3500	100	
+
+
+b	None of the onion epidermis cells this student observed had burst when left in pure water. Explain why plant cells do not burst when they are left in pure water.					 						(2 marks)
+c	i	The water potential of the onion epidermis cells can be assumed to be the same as the water potential of a solution that causes 50% plasmolysis. Use the information from the table to estimate the water potential inside these onion epidermis cells.				(1 mark)
+ii	Suggest how the student could construct and use a graph to obtain a better estimate of the water potential. 					(2 marks)
+d	Suggest how the student could modify the procedure to make the results more reliable and accurate. 								(4 marks)
+				OCR GCE (AS) Cells, Exchange and Transport Jan 2011 Q6
+
+-- answer --
+a	i	Osmosis											1m
+ii	Water molecules move across the cell membrane through the channel proteins.											2m
+b	The cell wall of the cells									1m
+provides strength / withstands pressure / prevents the cell membrane from expanding too much.										1m
+c	i	Between -1451 and -1799 kPa							1m
+ii	Plot the percentage of cells plasmolysed against the water potential of the solution.											1m
+Look up the corresponding water potential where the percentage of cells plasmolysed is 50%.									1m
+d	Any four from: 											1m x 4
+Reliable: 
+Observe more pieces of onion epidermis from each solution. / 			
+Count more cells in each piece of epidermis. / 
+Calculate a mean. / 
+Ignore anomalous results. 	
+Accurate: 
+Use more intermediate concentrations within existing ranges. / 
+Narrow the range of concentrations of sucrose solutions around the concentrations where the percentage of cells plasmolysed is nearly 50%. / 
+Take photographs and mark the cells when counting.	
+---------------------------------------------------
+
+[10235670]
+// Overseas exam question // Graph plotting // Experiment //
+*	Plant scientists carried out an experiment to find the water potential of plant  cells. Discs of potato tuber, about 1 mm thick, were cut and weighed. Repeat samples were taken and placed in a series of sucrose solutions ranging from 0.0 to 0.6 mol dm-3 in covered dishes at a constant temperature of 20 °C. After 	 1 hour the samples were blotted rapidly between sheets of filter paper and re-weighed.
+The results they obtained are shown in the table below.
+Concentration of sucrose solution (mol dm-3)	0.0	0.1	0.2	0.3	0.4	0.5	0.6		Mean percentage change in mass (%)	+22	+17	+9	+3	-3	-10	-15		
+a	i	Plot these figures on the graph paper below.				(2 marks)
+	
+ii	Draw a line of best fit on the graph paper.				(1 mark)
+b	Use the graph to work out the concentration of sucrose solution equal to the water potential of the potato cells.							(1 mark)
+c	Why were the dishes containing the discs and sucrose solution covered during the experiment?									(1 mark)
+d	Suggest two reasons for expressing the change in mass as a percentage change.												(2 marks)
+			OCR GCE (AS) Applied Science Cells and Molecules Jan 2011 Q2
+
+-- answer --
+a	i	Correct plotting of points								2m
+ii	Appropriate smooth line of best fit						1m
+b	0.34 - 0.36 mol dm-3										1m
+c	To prevent evaporation of water. / 
+To reduce changes to water potential. / 
+To prevent contamination.									1m
+d	To allow comparison. / 
+Not all the discs were of the same mass at the start. / 
+Not all the discs were of the same thickness at the start. / 
+Not all the discs were identical in size. (any 2)					1m x 2	
+---------------------------------------------------
+
+[10235686]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows a unicellular organism Paramecium. 
+
+	
+
+
+Paramecium lives in freshwater environment. Due to the difference in water potentials between the cytoplasm of Paramecium and the surrounding environment, water continuously enters Paramecium.
+A special structure called contractile vacuole is present in Paramecium to regulate its water content. Solutes are first actively transported into the contractile vacuole from the cytoplasm. This causes water to move into the contractile vacuole. The contractile vacuole then contracts to expel the solution out of the cell.
+a	Compare the water potentials of the cytoplasm of Paramecium and the surrounding environment. 								(1 mark)
+b	Describe the route by which water molecules enter Paramecium through its cell membrane. 										(1 mark)
+c	What is the consequence if excess water is not removed from Paramecium by the contractile vacuole? 								(1 mark)
+d	Explain why the transport of solutes into the contractile vacuole causes water to move into it. 									(3 marks)
+e	Unicellular organisms with a cell wall usually do not have contractile vacuoles. Explain why.									(2 marks)
+
+-- answer --
+a	The water potential of the cytoplasm of Paramecium is lower than that of the surrounding environment.										1m
+b	Through the channel proteins in the cell membrane. 					1m
+c	Paramecium may burst. 										1m
+d	As the amount of solutes increases, the water potential of the solution in the contractile vacuole decreases.									1m
+The water potential of the solution in the contractile vacuole becomes lower than that of the cytoplasm. 										1m
+Thus, there is a net movement of water molecules into the contractile vacuole by osmosis.													1m
+e	The cell wall restricts the entry of water when the cells become turgid. 	1m
+Water eventually stops entering the cells, thus the unicellular organisms with a cell wall will not burst. They do not need contractile vacuoles to regulate water content.  														1m	
+---------------------------------------------------
+
+[10235691]
+// Drawing // Schematic diagram //
+*	In 1925, two scientists Gorter and Grendel performed an experiment about the arrangement of phospholipid molecules in the cell membrane. They extracted phospholipids from the cell membrane of red blood cells in 10 cm3 of blood. They then allowed the phosphlipids to spread on the surface of water as a thin layer. The diagram below shows the arrangement of phospholipid molecules on the surface of water. 
+
+	
+
+a	With reference to the properties of phospholipid molecules, explain the arrangement of phospholipid on the surface of water. 			(4 marks)
+b	It is known that the total surface area of the red blood cells is 12 m2. What was the total area of phospholipid molecules on the surface of water? Explain your answer. 									(2 marks)
+c	In 1972, Singer and Nicolson proposed a model called fluid mosaic model to illustrate the structure of the cell membrane. Draw a labelled 2D-diagram to show the structure of the cell membrane according to the fluid mosaic model. 												(3 marks)
+
+-- answer --
+a	The part of the phospholipid molecule with glycerol and phosphate group is polar / hydrophilic.												1m
+Thus it is attracted to the water molecules. 						1m
+The fatty acid chains are non-polar / hydrophobic. 					1m
+Thus they are repelled by the water molecules. 						1m
+b	24 m2													1m
+The phospholipid molecules are arranged in a bilayer in the cell membrane.	1m
+c	Correct drawing												1m
+Correct title												1m
+Correct labels												1m	
+---------------------------------------------------
+
+[10235693]
+// Drawing // Graph interpretation // Applying concepts //
+*	Some potato strips were weighed and immersed in sucrose solutions of different concentrations for 30 minutes, and then weighed again. The graph below shows the gain or loss in mass of the potato strips expressed as percentage of the original mass, at each concentration of sucrose solution.
+
+	
+
+a	Which two terms can be used to describe the conditions of the potato cells at points X and Y respectively?							(2 marks)
+b	Which concentration of sucrose solution has a water potential equal to that of the potato tissue?									(1 mark)
+c	If a potato strip immersed in 0.35 M sucrose solution for 30 minutes is transferred to 0.15 M sucrose solution, describe and explain what will happen to the potato cells.								(3 marks)
+d	Draw a diagram to show the appearance of the potato cell immersed in 0.375 M sucrose solution as seen under a light microscope. Label the different parts of the cell and the solution(s) present.			(4 marks)
+
+-- answer --
+a	X: turgid													1m
+Y: flaccid / plasmolysed										1m
+b	0.25 M													1m
+c	The water potential of 0.15 M sucrose solution is higher than that of the potato cells. 													1m
+Water will enter the cells by osmosis.								1m
+The cells will become turgid again.								1m
+d	
+
+Correct drawing (cell membrane clearly separates from the cell wall)		1m
+Correct title 												1m
+Correct labelling of structures									1m
+Correct label of sucrose solution in the space between cell wall and cell membrane														1m	
+---------------------------------------------------
+
+[10235698]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows an alga being taken into an Amoeba. 
+
+	
+
+a	Name the process. 										(1 mark)
+b	State the function of X and Y in the process. 				(4 marks)
+c	Explain how the structure of the cell membrane allows this process to occur.													(3 marks)
+-- answer --
+a	Phagocytosis												1m
+b	X (mitochondrion) is the main site of respiration.						1m
+The energy released is used in the synthesis of digestive enzymes / forming small vacuoles / movement of Amoeba towards the alga. 					1m
+Y (rough endoplasmic reticulum) is involved in the synthesis of proteins. 	1m
+Digestive enzymes needed in the digestion of the engulfed alga are proteins. 															1m
+c	The phospholipid molecules can move laterally in the cell membrane. / The cell membrane is fluid in nature. 							 		1m
+This makes the membrane flexible. 								1m
+The cell membrane can change shape to form the pseudopodium to surround the alga during phagocytosis. 										1m	
+---------------------------------------------------
+
+[10235715]
+// Data handling // High order thinking // Experiment // Schematic diagram //
+**	A student carried out an experiment to estimate the water potential of beetroot cells. The steps involved in the experiment are shown below. 
+1	Fill 2 test tubes with 0.1 M sucrose solution. 
+2	Put 5 pieces of beetroot into one of the test tubes (tube X). Wait for 2 hours.
+3	Remove a small amount of sucrose solution from tube X. Release 1 drop into the other test tube of sucrose solution (tube Y). Observe whether the drop moves upwards or downwards. 
+4	Repeat steps 1 to 3 with 0.2 M, 0.3 M, 0.4 M and 0.5 M sucrose solutions. 
+
+	
+
+
+The table below shows the results. 
+
+Concentration of sucrose solution (M) 	Movement of the drop	
+0.1	Moves downwards	
+0.2	Moves downwards	
+0.3	Moves downwards	
+0.4 	Not move	
+0.5	Moves upwards	
+
+a	State the concentration of sucrose solution that has the same water potential as the beetroot cells. 									(1 mark)
+b	Explain why the drop moves upwards in 0.5 M sucrose solution. 															(4 marks)
+c	In another experiment, pieces of beetroot are immersed in ethanol for 2 hours. Describe what will happen and explain.				(3 marks)
+
+-- answer --
+a	0.4 M													1m
+b	The water potential of the beetroot cells was higher than that of 0.5 M sucrose solution. 													1m
+There was a net movement of water from the beetroot to the sucrose solution. 															1m
+As a result, the sucrose solution became diluted. 					1m
+The drop of diluted sucrose solution was less dense / lighter than the 0.5 M sucrose solution, therefore it moved upwards. 						1m
+c	The ethanol will become red. 									1m
+Ethanol will dissolve the phospholipids in the cell membrane of the beetroot cells. 														1m
+The red pigments in the cells will leak out. 							1m	
+---------------------------------------------------
+
+[10235721]
+// Photomicrograph // Basic concepts //
+	The photomicrographs below show some epidermal cells of Zebrina in sucrose solution and in distilled water. 
+	
+a	i	Describe the appearance of the epidermal cells in distilled water and in the sucrose solution. 								(2 marks)
+ii	Hence, determine whether distilled water and the sucrose solution are hypotonic, isotonic or hypertonic to the epidermal cells.	(2 marks)
+b	Explain the appearance of epidermal cells in the sucrose solution in terms of the net movement of water.								(2 marks)
+c	Describe the appearance of red blood cells if they are put in distilled water and the sucrose solution.									(2 marks)
+
+-- answer --
+a	i	In distilled water, the epidermal cells are turgid.					1m
+In the sucrose solution, the epidermal cells are plasmolysed.		1m
+ii	Distilled water is hypotonic to the epidermal cells.				1m
+The sucrose solution is hypertonic to the epidermal cells.			1m
+b	The water potential of the sucrose solution is lower than that of the epidermal cells. 														1m
+There is a net movement of water out of the cells by osmosis.			1m
+c	In distilled water, the red blood cells will swell and finally burst.			1m
+In the sucrose solution, the red blood cells will shrink.					1m	
+---------------------------------------------------
+
+[10235726]
+// Graph interpretation // Data handling // Applying concepts //
+*	a	Three plant cells and their water potentials (Ψ) are shown below.
+	
+The cells were placed in a sucrose solution (Ψ = -500 kPa). 
+i	State which cell would take in water at the highest rate. Explain your answer.											(2 marks)
+ii	The water potential of a cell is always a negative number. Why?														(3 marks)
+b	Substances can move across the cell membranes into plant cells by either diffusion or active transport.
+In an investigation, plant tissues were immersed in a solution containing two unknown substances, P and Q. After three hours, the tissues were removed from the solution and the concentrations of the two substances in the cytoplasm were measured. The results are shown in the graph below.
+	
+
+i	Deduce whether the substances moved into the cells by diffusion or active transport.									(3 marks)
+ii	Suggest two examples for the substances.				(1 mark)
+
+
+-- answer --
+a	i	Cell Y												1m
+The difference in water potential between cell Y and the sucrose solution is the greatest.											1m
+ii	The water potential of pure water is defined as zero.				1m
+Cells always contain solutes.								1m
+The presence of solutes lowers the water potential. Thus the water potential of a cell is always negative.								1m
+b	i	By active transport.										1m
+The concentrations of the substances in the cytoplasm are higher than those in the solution.											1m
+The substances must be transported into the cells against the concentration gradient by active transport.								1m
+ii	Glucose / Sodium ion / Potassium ion / Nitrates 
+(any 2 or other correct answers)								1m	
+---------------------------------------------------
+
+[10235738]
+// Graph interpretation // Schematic diagram // Applying concepts //
+*	The diagram below shows part of a cell membrane.
+	
+
+a	Using the letters in the diagram, state which labelled part is most likely
+i	a channel protein.									(1 mark)
+ii	hydrophobic.										(1 mark)
+b	Explain why the structure of the cell membrane is described as fluid and mosaic.												(2 marks)
+
+c	When pieces of onion are put into water, substance X diffuses out from the cells. Pieces of onion of the same mass were put into water at different temperatures. The concentrations of substance X in the water at different temperatures were measured after a known period of time. The graph below shows the results.
+
+	
+
+Describe and explain the shape of the graph.					(4 marks)
+
+-- answer --
+a	i	T													1m
+ii	Q													1m
+b	Fluid: The phospholipid molecules can move laterally in the cell membrane.	1m
+Mosaic: The protein molecules are interspersed among the phospholipid molecules in a mosaic pattern.									1m
+c	The concentration of substance X in water increases slowly as the temperature increases from 35 °C to 48 °C. 									1m
+At temperature of above 48 °C, it increases rapidly.					1m
+It is because as temperature increases from 35 °C to 48 °C, substance X has more kinetic energy. Thus, the rate of diffusion increases.					1m
+At temperature of above 48 °C, the cell membrane breaks down. Thus, the rate of diffusion increases rapidly.										1m	
+---------------------------------------------------
+
+[10235759]
+// STSE connections // Applying concepts //
+*	Various methods have been used to preserve seafood. Salting is one of the commonly used methods. A large amount of salt is placed on fresh fish. The photograph below shows a tuna. After salting, the tuna can be kept for years.
+
+	
+
+a	Salting removes water from tuna. Describe how this can be done.															(3 marks)
+b	Explain how tuna can be preserved through the process of salting. 															(4 marks)
+c	Suggest two other methods to remove water from tuna so that the purpose of preservation can be achieved. 							(2 marks)
+
+
+-- answer --
+a	Salt dissolves in water to give a concentrated salt solution.			1m
+The water potential of the cells of the tuna is higher than that of the concentrated salt solution. 											1m
+There is a net movement of water molecules from the cells of the tuna to the concentrated salt solution.									1m
+b	The water potential of the tuna tissue becomes low after salting.		1m
+It is hypertonic to the microorganisms. 						1m
+Water is drawn out from the microorganisms growing on the tuna tissue by osmosis.												1m
+The microorganisms will die or stop growing due to a lack of water.	1m
+c	Drying / Freeze drying / Adding sugar / alcohol / vinegar / Immersing in concentrated salt solution / sugar solution / vinegar / Pickling	
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10235761]
+// Experiment // Schematic diagram // Basic concepts //
+	The diagram below shows a set-up used to demonstrate osmosis.
+
+	
+
+a	Describe and explain the change in the liquid level in the capillary tube after 1 hour.												(4 marks)
+b	Can the sucrose molecules diffuse across the dialysis tubing? Why?															(2 marks)
+c	Which part of the cell is differentially permeable?				(1 mark)
+d	If distilled water in the set-up is replaced by a dilute sucrose solution, how will the results differ?									(3 marks)
+
+-- answer --
+a	The liquid level rises.											1m
+The water potential of distilled water is higher than that of the concentrated sucrose solution.											1m
+There is a net movement of water molecules from distilled water to the concentrated sucrose solution 									1m
+by osmosis.												1m
+b	No. 														1m
+Sucrose molecules are too large to pass through the dialysis tubing.		1m
+c	Cell membrane												1m
+d	The water potential difference between the two solutions will be smaller.	1m
+Fewer water molecules will move into the concentrated sucrose solution.	1m
+The rise in liquid level will be smaller.								1m	
+---------------------------------------------------
+
+[10235765]
+// Experiment // Schematic diagram // Basic concepts //
+	The diagram below shows two set-ups used to demonstrate osmosis.
+
+	
+
+a	Define osmosis.										(3 marks)
+b	What are the changes in the liquid levels in the capillary tubes in the two set-ups after 1 hour? Explain the results.					(4 marks)
+c	The dialysis tubing has one property that is very important for osmosis to take place. What is that property and how does it make osmosis possible?														(3 marks)
+
+-- answer --
+a	The net movement of water molecules							1m
+across a differentially permeable membrane						1m
+from a region of higher water potential to a region of lower water potential.	1m
+b	The liquid level in set-up X rises.									1m
+It is because there is a net movement of water molecules from distilled water to the 10% sucrose solution by osmosis.								1m
+The liquid level in set-up Y falls.									1m
+It is because there is a net movement of water molecules from the 10% sucrose solution to the 20% sucrose solution by osmosis.						1m
+c	The dialysis tubing is differentially permeable.						1m
+It allows small molecules to pass through							1m
+but not large molecules. 										1m	
+---------------------------------------------------
+
+[10235779]
+// Experiment // Schematic diagram // Applying concepts //
+*	The diagram below shows a set-up used to study osmosis. A raw potato was cut into the shape of a cup. Concentrated sucrose solution was added to the well inside and the potato cup was placed into a beaker containing distilled water.
+
+	
+
+a	How did the level of sucrose solution in the well change after 1 day? Explain your answer.									(3 marks)
+b	How will the level of sucrose solution change if the potato is boiled? Explain your answer.									(3 marks)
+c	In another experiment, a raw potato cup containing distilled water was placed into a beaker containing sucrose solution. What happened to the water level of the distilled water after 1 day? Why?			(2 marks)
+
+-- answer --
+a	The level of sucrose solution rose.								1m
+It is because the water potential of distilled water is higher than that of the concentrated sucrose solution. 									1m
+There was a net movement of water molecules from distilled water to the concentrated sucrose solution by osmosis.							1m
+b	The level of sucrose solution will fall								1m
+because a boiled potato will become fully permeable.					1m
+Both the water molecules and sucrose molecules will leave the well by diffusion. 															1m
+c	The water level of distilled water fell								1m
+because there was a net movement of water molecules from distilled water to the sucrose solution.											1m	
+---------------------------------------------------
+
+[10235780]
+// Experiment // Basic concepts //
+	a	Suppose a piece of dialysis tubing is filled with a 20% sugar solution. What will happen to the volume of the solution in the dialysis tubing if the dialysis tubing is immersed in the following solutions? Give a reason in each case.
+i	Distilled water										(3 marks)
+ii	20% sugar solution									(3 marks)
+iii	40% sugar solution									(3 marks)
+b	Deducing from the answer in a, what precaution should be taken when a doctor injects glucose solution into a patient's blood?			(1 mark)
+
+-- answer --
+a	i	The volume will increase.									1m
+The water potential of distilled water is higher than that of 20% sugar solution.												1m
+Water will enter the dialysis tubing by osmosis.					1m
+ii	The volume will remain unchanged.							1m
+The water potential of the sugar solutions inside and outside the dialysis tubing is the same.										1m
+There is no net movement of water across the dialysis tubing.		1m
+iii	The volume will decrease.									1m
+The water potential of 40% sugar solution is lower than that of 20% sugar solution.												1m
+Water will leave the dialysis tubing by osmosis.					1m
+b	The water potential of the glucose solution for injection must be the same as that of blood.														1m	
+---------------------------------------------------
+
+[10235806]
+// Experiment // Basic concepts //
+*	The diagram below shows a set-up used to study diffusion. Both water molecules and iodine molecules can pass through the dialysis tubing. The set-up was left at room temperature for 1 hour and observation on any changes was made.
+	
+a	Was there any change in the distribution of iodine molecules? Explain.														(2 marks)
+b	What was the net movement of water molecules?				(1 mark)
+c	If the whole set-up is put in a water bath at 40 °C, would there be any differences in the result? Explain.							(2 marks)
+d	State and explain whether there will be any net movement of molecules in the following cases: 
+i	Iodine solution of a lower concentration than the one outside, instead of distilled water, is put inside the dialysis tubing.			(2 marks)
+ii	Iodine solution of the same concentration as the one outside, instead of distilled water, is put inside the dialysis tubing.			(2 marks)
+
+-- answer --
+a	Some iodine molecules were found inside the dialysis tubing.			1m
+Iodine molecules diffused from a region of higher concentration to a region of lower concentration.												1m
+b	There was a net movement of water molecules out of the dialysis tubing. 	1m
+c	The changes would be more rapid.								1m
+At a higher temperature, the rate of diffusion would be higher.			1m
+d	i	There will be a net movement of iodine molecules into the dialysis tubing and a net movement of water molecules out of the dialysis tubing		1m
+because there are concentration differences of iodine and water between the solutions on the two sides of the dialysis tubing.					1m
+ii	There will be no net movement of molecules across the dialysis tubing														 	1m
+because there is no concentration differences of iodine and water between the solutions on the two sides of the dialysis tubing.				1m	
+---------------------------------------------------
+[10235816]
+// Experiment // Communication // Applying concepts //
+*	In a hen's egg, there is a thin and differentially permeable membrane inside the shell. This membrane can be used to study osmosis. In an experiment, two hen's eggs were immersed in a dilute acid until the shells had dissolved. After washing, one of the egg was immersed in distilled water and the other was immersed in a concentrated salt solution. Changes were observed after 1 day. 
+a	Explain the term 'differentially permeable membrane'.			(1 mark)
+b	Describe the changes of the two eggs after 1 day. Explain.		(6 marks)
+c	State two factors that affect the rate of osmosis.				(2 marks)
+d	In natural circumstances, hen's eggs are not immersed in water. What substances do you think normally diffuse through the differentially permeable membrane inside the shell of the hen's egg?			(1 mark)
+
+-- answer --
+a	A membrane with holes that allow only small molecules to pass through.	1m
+b	The volume of the egg that was immersed in the distilled water increased. 	1m
+As the water potential of the egg was lower than that of distilled water, 	1m
+there was a net movement of water molecules into the egg.				1m
+The volume of the egg that was immersed in the concentration salt solution decreased.												1m
+As the water potential of the egg was higher than that of the concentrated salt solution,													1m
+there was a net movement of water molecules out of the egg.			1m
+c	Concentration gradient across the differentially permeable membrane		1m
+Temperature												1m
+d	Gases													1m	
+---------------------------------------------------
+
+
+[10235825]
+// Drawing // Experiment //
+*	In order to show the movement of water into and out of a human cheek cell when the cell is placed in a concentrated solution, a model is set up using the following materials and apparatus:
+dialysis tubing					1 piece
+thread						2 pieces
+20% sucrose solution			200 mL
+10% sucrose solution			100 mL
+beaker						1
+
+a	Draw a labelled diagram to show the model.					(4 marks)
+b	What will you observe in a after 1 hour? Give an explanation for your observation.											(3 marks)
+c	Which part of a human cheek cell does the dialysis tubing represent?															(1 mark)
+
+-- answer --
+a	
+
+Correct drawing												2m
+Correct labels												2m
+b	The dialysis tubing will shrink.									1m
+The water potential of the 10% sucrose solution is higher than that of the 20% sucrose solution. 											1m
+Therefore, there is a net movement of water molecules out of the dialysis tubing.															1m
+c	Cell membrane												1m	
+---------------------------------------------------
+
+
+[10235835]
+// Data handling // Experiment // Calculation //
+*	Two potato cubes were immersed in distilled water at 20 °C and 50 °C. The table below shows the percentage changes in the mass of the potato cubes.
+
+Time (hour)	Percentage change in mass (%)	
+	20 °C	50 °C	
+0	0	0	
+0.5	+5	+7	
+1.0	+7	0	
+1.5	X	Y	
+2.0	+12	-8	
+2.5	+14	-10	
+3.0	+16	-10	
+3.5	+17	-10	
+4.0	+17	-10	
+
+a	Given that the initial mass of both potato cubes is 50 g. If the potato cubes at 20 °C and 50 °C weighed 54.5 g and 47.5 g respectively after 1.5 hours, calculate the values of X and Y.							(2 marks)
+b	i	Describe the changes in the mass of the potato cube at 20 °C during the 4-hour period.										(3 marks)
+ii	Explain the change in the mass of the potato cube at 20 °C after 
+3.5 hours.											(2 marks)
+c	From the result of the first 0.5 hour of the potato cubes, what appeared to be the effect of temperature on the mass of the potato cubes?		(1 mark)
+d	Explain the decrease in the mass of the potato cube at 50 °C from 0.5 hour to 2.5 hours.											(2 marks)
+
+
+
+
+
+
+
+
+
+
+-- answer --
+a	At 20 °C:
+[(54.5 - 50) / 50] x 100% = +9%									1m
+At 50 °C:
+[(47.5 - 50) / 50] x 100 % = -5%									1m
+b	i	There was a rapid increase in the mass of the potato cube during the first 0.5 hour.													1m
+There was a gradual increase from 0.5 to 3.5 hours.				1m
+The mass remained unchanged after 3.5 hours.					1m
+ii	The potato cells were turgid.								1m
+The entering of water was resisted by the rigid cell wall. 			1m
+c	At a higher temperature, there was a larger increase in the mass of the potato cube.													1m
+d	The cell membrane of the potato cells was destroyed by high temperature.	1m
+The cell contents leaked out. 									1m	
+---------------------------------------------------
+
+
+
+Essays
+
+[10235905]
+// Communication // Basic concepts //
+*	Using suitable examples, discuss the importance of diffusion, osmosis and active transport to organisms.										(12 marks)
+
+-- answer --
+Diffusion is the net movement of particles from a region of higher concentration to a region of lower concentration.										1m
+Diffusion enables cells to exchange materials with the environment / obtain useful materials like oxygen and nutrients / remove waste like carbon dioxide. 		1m
+Absorption of nutrients in human small intestine / gas exchange in human lungs involves diffusion.														1m
+Osmosis is the diffusion of water molecules across a differentially permeable  membrane / net movement of water molecules across a differentially permeable membrane from a region of higher water potential to a region of lower water potential. 																1m
+The absorption of water in human small intestine							1m
+and the absorption of water in plant roots are carried out by osmosis. 			1m
+Active transport is a process in which substances are moved across the cell membrane at the expense of energy from respiration. 								1m
+Absorption of nutrients (e.g. glucose and amino acids) in the human small intestine																1m
+and the absorption of minerals from the soil into the roots of plants involve active transport. 														1m
+(or other correct examples)
+Communication													3m	
+---------------------------------------------------
+
+
+[10235931]
+// Communication // Basic concepts //
+*	Describe and explain the structure of the cell membrane and its role in diffusion and active transport.										(10 marks)
+
+-- answer --
+	Any five from:												1m x 5
+	The cell membrane is mainly made up of phospholipids and proteins. /
+	The phospholipid molecules are arranged in a bilayer. /
+	The hydrophilic heads face the aqueous environment inside and outside the cell. / 
+	The hydrophobic fatty acid tails point inwards. /
+	Some proteins are attached to the surface of the bilayer, some are embedded half-way 	in the bilayer, and others span the entire bilayer. /
+	The phospholipid molecules can move laterally. / 
+	Protein molecules are interspersed among the phospholipid molecules in a mosaic 	pattern. 
+	Role of cell membrane in diffusion:
+	Small, non-polar molecules can move across the cell membrane through the bilayer.																1m
+	Role of cell membrane in active transport:
+	The carrier proteins on the cell membrane are involved in active transport of small, polar 	molecules. 												1m
+	Communication												3m	
+---------------------------------------------------
+
+[10235938]
+// Comparison // Communication //
+*	Compare the consequences of putting plant cells and animal cells into distilled water.													(10 marks)
+
+-- answer --
+	The water potential of distilled water is higher than that of the cells. 			1m
+	There is a net movement of water molecules into the cells by osmosis.			1m
+	Both animal cells and plant cells increase in volume.						1m
+	In plant cells, the swelling is finally resisted by the rigid cell wall. 				1m
+	The plant cells become turgid.										1m
+	Animal cells do not have a cell wall.									1m
+	The animal cells finally burst.										1m
+	Communication													3m	
+---------------------------------------------------
+
+

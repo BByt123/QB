@@ -1,0 +1,1503 @@
+Chapter 1		Introducing biology
+
+Multiple-choice questions
+
+[10230942]
+// Scientific investigation // Graph interpretation // Experiment //
+**	Peter carried out an investigation to find out the effect of seed density on the growth of the seedlings. He planted different number of seeds into two pots (X and Y). He then put the two pots in the same environment and watered the pots regularly. The diagram below shows the set-ups.
+
+	
+	After 10 days, Peter measured the mass of each seedling in the pots. The graphs below show the results. 
+
+Which of the following conclusions can be drawn from the results?
+A	The optimum density for seed germination is 20 seeds per 100 cm2.
+B	The seedlings grow slower at a higher seed density.
+C	High seed density in the pot inhibits seed germination.
+D	More water is needed for the growth of seedlings at a higher seed density.
+B	
+---------------------------------------------------
+
+[10230971]
+// Scientific investigation // Experiment // STSE connections //
+*	Directions: The following two questions refer to the making of a traditional Chinese dessert, ginger milk curd. Its recipe is shown below.
+
+		Recipe:
+Grind a ginger and obtain 15 cm3 of raw ginger juice.
+Boil milk to about 60 °C.
+Pour 220 cm3 of milk into the raw ginger juice.
+Wait for the milk to coagulate.	
+	
+A student wondered if boiled ginger juice could be used instead of raw ginger juice. He followed the steps in the recipe using raw and boiled ginger juice respectively. The table below shows the results.
+	Result	
+Raw ginger juice	The milk coagulated	
+Boiled ginger juice	No coagulation occurred	
+
+	Which of the following correctly states the hypothesis of this experiment?
+A	Boiled ginger juice should not be used to make ginger milk curd.
+B	The substance responsible for coagulation of milk is heat-sensitive.
+C	Temperature affects the coagulation of milk.
+D	Ginger juice is required for the coagulation of milk.
+B	
+---------------------------------------------------
+
+[10230979]
+// Scientific investigation // Experiment // STSE connections //
+*	Which of the following combinations correctly identifies the independent variable and controlled variable in this experiment?
+	Independent variable	Controlled variable	
+A	Boil the ginger juice or not	Volume of the ginger juice	
+B	Temperature of the milk	Volume of the milk	
+C	Volume of the milk	Boil the ginger juice or not	
+D	Volume of the ginger juice	Volume of the milk	
+A	
+---------------------------------------------------
+
+[10230983]
+// Data handling // Applying concepts //
+**	Directions: The following two questions refer to a study carried out by Carl Bergmann, a biologist, in the 19th century. Bergmann collected data about the body size of different kinds of animals and the average annual temperature of their natural habitats. The graph below shows his results.
+	
+	Based on the results shown on the graph, Bergmann established a rule. Which of the following is most probably the rule?
+A	The heat loss in animals with a larger body size is greater than that in animals with a smaller body size.
+B	The heat loss in animals with a smaller body size is greater than that in animals with a larger body size.
+C	Animals living in hotter regions tend to have a larger body size.
+D	Animals living in colder regions tend to have a larger body size.
+D	
+---------------------------------------------------
+
+[10231020]
+// Data handling // Applying concepts //
+**	The table below shows some information about three kinds of penguins living in the Southern hemisphere.
+	Average height (cm)	Average mass (kg)	
+Magellanic penguin
+	70	5	
+Emperor penguin
+	123	37	
+Humboldt penguin
+	66	4	
+
+	If the distribution of the three kinds of penguins follows the rule established by Bergmann, which of the following correctly shows their distribution between the equator and the South Pole?
+	( equator  (((((((((((  South Pole (
+A	Magellanic penguin, Emperor penguin, Humboldt penguin
+B	Magellanic penguin, Humboldt penguin, Emperor penguin
+C	Humboldt penguin, Magellanic penguin, Emperor penguin
+D	Emperor penguin, Magellanic penguin, Humboldt penguin
+C	
+---------------------------------------------------
+[10231022]
+// Basic concepts //
+	Which of the following are the areas of study in biology?
+	(1)	the functions of different parts of the brain
+	(2)	interactions between different organisms in the rainforest
+	(3)	the universe
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)	
+A	
+---------------------------------------------------
+
+[10231028]
+// Basic concepts //
+*	When a puffer fish sees an enemy, it swallows water so that it becomes bigger to frighten the enemy away. The puffer fish spits out the water and returns to its normal size when the enemy is gone.
+ 	
+Which of the following characteristics of organisms is shown by the puffer fish in this example?
+	A	growth				B	nutrition
+	C	irritability			D	excretion
+C	
+---------------------------------------------------
+
+[10231037]
+// Basic concepts //
+*	Which of the following is not an example of excretion in humans?
+	A	removal of undigested waste	
+	B	breathing out carbon dioxide
+	C	sweating
+	D	getting rid of urine from the body
+A	
+---------------------------------------------------
+[10231042]
+// Scientific investigation // Experiment //
+*	A student is designing an experiment to investigate whether heavier female rats produce more offspring than lighter female rats. In the experiment, what are the independent and dependent variables?
+		Independent variable			Dependent variable
+	A	age of the female rats 			weight of the female rats
+	B	number of offspring 			weight of the female rats
+	C	weight of the female rats 		number of offspring
+	D	weight of the female rats 		age of the female rats
+C	
+--------------------------------------------------
+
+[10231047]
+// Scientific investigation // Experiment // Schematic diagram //
+*	The following set-ups are left at room temperature for two days. To investigate whether light is necessary for seed germination, which of the set-ups should be compared?
+			
+			
+	A	(1) and (3) only				B	(1) and (4) only
+	C	(2) and (3) only				D	(2) and (4) only
+D	
+---------------------------------------------------
+
+[10231052]
+// Scientific investigation // Experiment // Schematic diagram //
+*	The set-up below is used to investigate whether sodium chloride solution can preserve peas.
+ 	
+	Which of the following set-up should be included as the control in this investigation?
+A
+	B
+	C
+	D
+	
+
+D	
+--------------------------------------------------
+
+[10231075]
+// Scientific investigation // Experiment // Applying concepts //
+*	Directions: The following two questions refer to an experiment done by Kelly. To investigate which brand of fish food, X or Y, can support better growth of goldfish, Kelly fed a goldfish with 5 g of fish food X and another goldfish with 5 g of fish food Y each morning. After two weeks, she measured the length of the two goldfish.
+To ensure it is a fair test, Kelly should 
+A	propose a hypothesis to explain why fish food can support the growth of   goldfish.
+B	feed the two goldfish at the same time each morning. 
+C	feed another goldfish with both fish food X and Y.
+D	repeat the experiment a few more times.
+B	
+---------------------------------------------------
+[10231083]
+// Scientific investigation // Experiment // Applying concepts //
+*	To increase the reliability of the results, Kelly should 
+	A	feed the goldfish with more than 5 g of fish food each day.	
+	B	feed the goldfish with 2.5 g of food fish twice a day.
+	C	feed more goldfish with each brand of fish food.
+	D	measure the length of the goldfish in mm rather than in cm.
+C	
+---------------------------------------------------
+
+[10231085]
+// Graph interpretation // Experiment //
+*	A researcher investigated the effect of drinking alcohol on reaction time. The graph below shows the reaction time of four adults before and after drinking 150 cm3 of 12% alcohol.
+	
+Which of the following conclusions can be drawn?
+	A	Reaction time increases with age.
+	B	Drinking alcohol increases reaction time. 
+	C	Drinking alcohol decreases reaction time.
+	D	Drinking alcohol does not affect reaction time.
+B	
+---------------------------------------------------
+
+[10231089]
+// Data handling // Experiment //
+**	In a study, the number of cigarettes smoked per day by 1000 pregnant women and the birthweight of their babies were recorded. The table below shows the results.
+
+Number of cigarettes smoked per day	Average birthweight of baby (kg)	
+0	3.6	
+1-10	3.4	
+11-20	3	
+
+	Which of the following conclusions can be drawn?
+	A	Each of the babies born to non-smokers weighs 3.6 kg.
+B	Babies born to mothers who smoke more than 20 cigarettes a day are lighter than 3 kg.
+	C	Smoking causes low birthweight.
+	D	The babies born to smokers are lighter than those to non-smokers.
+D	
+---------------------------------------------------
+
+[10231119]
+// Basic concepts //
+	Which of the following is not an area of study in biology?
+	A	studying the life cycles of different microorganisms
+	B	studying how different types of rocks are formed
+	C	understanding the structure and functions of body systems
+	D	studying the interactions between organisms and their environment
+B	
+---------------------------------------------------
+
+[10231122]
+// Applying concepts //
+*	The photograph below shows some bread mould on a piece of bread.
+	
+Bread mould is an organism because
+	A	it can move.		
+	B	it has colour.
+	C	it can grow.		
+	D	it causes the bread to deteriorate.
+C	
+---------------------------------------------------
+
+[10231124]
+// Applying concepts //
+*	The photographs below show a tree and a man.
+		
+Which of the following characteristics of organisms do both the tree and the man have?
+	(1)	growth
+	(2)	excretion
+	(3)	respiration
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10231136]
+// Basic concepts //
+	Which of the following social issues are related to biology?
+	(1)	food safety
+	(2)	air pollution
+	(3)	public hygiene
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10231145]
+// Basic concepts //
+Which of the following is the sequence of steps commonly involved in a scientific investigation?
+	(1)	making observations
+	(2)	drawing a conclusion
+	(3)	proposing a hypothesis
+	(4)	testing the hypothesis
+	A	(1) ( (4) ( (3) ( (2)
+	B	(1) ( (3) ( (4) ( (2)
+	C	(3) ( (1) ( (4) ( (2)
+	D	(4) ( (1) ( (3) ( (2)
+B	
+---------------------------------------------------
+
+[10231164]
+// Basic concepts //
+Which of the following best describes the term 'hypothesis' in a scientific investigation?
+	A	It is the suggested reasonable answer to a question.
+	B	It is the purpose of an experiment.
+	C	It is what we observed in an experiment.
+	D	It is proposed after doing experiments.
+A	
+---------------------------------------------------
+
+[10231167]
+// Experiment // Basic concepts //
+*	What is the purpose of including a control set-up in an experiment?
+	A	to minimize experimental errors
+	B	to overcome limitations in experiments
+C	to ensure the result of the experiment is due only to the factor under investigation
+	D	to ensure the result of the experiment matches the prediction
+C	
+---------------------------------------------------
+
+[10231174]
+// Scientific investigation // Experiment // Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows the set-ups used to study the effect of air movement on the absorption of water by a leafy shoot.
+	
+	What are the controlled variables in the experiment?
+	(1)	light intensity
+	(2)	the type and size of the leafy shoots
+	(3)	the temperature of water in the container
+	(4)	the speed of the fan
+	A	(1) and (2) only		B	(2) and (3) only
+	C	(1), (2) and (3) only		D	(2), (3) and (4) only
+C	
+---------------------------------------------------
+
+[10231194]
+// Scientific investigation // Experiment // Schematic diagram //
+*	What is the dependent variable in the experiment?
+	A	the speed of the fan
+	B	the temperature of water in the container
+	C	the change in height of the leafy shoot
+	D	the change in water level in the tube
+D	
+---------------------------------------------------
+
+[10231198]
+// Basic concepts //
+	The process in which food is broken down to release energy for body activities is called
+	A	digestion.			B	nutrition.
+	C	respiration.		D	excretion.
+C	
+---------------------------------------------------
+
+[10231201]
+// Scientific investigation // Photomicrograph // Applying concepts //
+*	In most stable freshwater streams, populations of water fleas are mostly females. Males are present in freshwater streams where food is scarce and oxygen content is low. Based on these observations, a researcher suggests that male water fleas develop in response to unfavourable environmental conditions.
+
+A water flea	
+	This is an example of
+	A	a conclusion.		B	a theory.
+	C	a law.			D	a hypothesis.
+D	
+---------------------------------------------------
+[10231203]
+// Basic concepts //
+	Which of the following is not a testable hypothesis?
+	A	The breathing rate increases with the amount of exercise.
+	B	Fruits do not develop in the presence of light.
+	C	When water is added to the soil, plants grow taller.
+	D	Starch is a better storage substance than sucrose in plants.
+D	
+---------------------------------------------------
+
+[10231209]
+// High order thinking // Experiment // Schematic diagram //
+**	In the past, people believed that microorganisms appeared out of nowhere. Louis Pasteur did the following experiment to check whether it was true or not. The diagrams below summarize the steps and results of his experiment.
+	
+Which of the following best explains the results of the experiment?
+A	There were no microorganisms in the air around set-up X.
+B	Microorganisms appeared out of nowhere.
+C	Microorganisms entered the nutrient broth through the broken neck in set-up X.
+D	Not all microorganisms were killed by boiling in set-ups X and Y.
+C	
+---------------------------------------------------
+[10231218]
+// Experiment // Schematic diagram //
+*	Directions: The following three questions refer to an experiment done by Carol. Carol wanted to know which colour of light was most effective in promoting plant growth. She divided 15 seedlings of the same height into three groups and shone a different colour of light on each group of seedlings. After 3 days, she measured the increase in height of the seedlings.
+	
+Which of the following is the hypothesis in Carol's investigation?
+A	Red light is most effective in promoting plant growth.
+B	Blue light is least effective in promoting plant growth.
+C	Green light is most effective in promoting plant growth because the seedlings are green.
+D	No hypothesis is needed in her investigation.
+D	
+---------------------------------------------------
+
+[10231219]
+// Scientific investigation // Experiment // Schematic diagram //
+*	What are the independent and dependent variables in Carol's experiment?
+	Independent variable				Dependent variable 
+A	number of seedlings in each group		colour of light
+B	height of seedlings					colour of light
+C	colour of light						height of seedlings
+D	air temperature					height of seedlings
+C	
+---------------------------------------------------
+[10231239]
+// Scientific investigation // Experiment // Schematic diagram //
+*	Why did Carol use 5 seedlings instead of a single seedling in each group? 
+A	To ensure that her investigation is a fair test.
+B	To increase the confidence that the results are not by chance.
+C	To show that any difference in the results is due to the colour of light.
+D	To understand why a particular colour of light is more effective in promoting plant growth.
+B	
+---------------------------------------------------
+
+[10231245]
+// Scientific investigation // Experiment // Schematic diagram //
+*	The diagrams below show four pots of seeds.
+
+
+	
+To investigate the effect of depth of planting on seed germination, the results of which two pots should be compared?
+A	(1) and (2)
+B	(1) and (3)
+C	(1) and (4)
+D	(3) and (4)
+C	
+---------------------------------------------------
+
+[10231253]
+// Data handling // Experiment //
+*	A student made dough using the following ingredients.
+Ingredient	Dough X	Dough Y	
+Flour	200 g	200 g	
+Sugar	15 g	20 g	
+Yeast	1 g	1 g	
+Water	40 cm3	40 cm3	
+She left the dough at room temperature in the kitchen for two hours. She found that dough X has risen more than dough Y. Which of the following variables probably caused the difference in the results?
+A	temperature of the kitchen 
+B	amount of water
+C	mass of yeast
+D	mass of sugar
+D	
+---------------------------------------------------
+
+[10231279]
+// Applying concepts //
+*	When you touch the leaves of Mimosa, the leaves fold up immediately. Which of the following are involved in this phenomenon?
+	
+(1)	growth
+(2)	movement
+(3)	irritability
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10231282]
+// Experiment // Basic concepts //
+*	Which of the following statements about the control set-up of an experiment is/are correct?
+(1)	It is identical to the experimental set-up except that the factor under investigation is absent.
+(2)	It is to ensure the result of the experiment is due to the factor under investigation.
+(3)	Not all the investigations require a control set-up.
+A	(1) only			B	(1) and (2) only
+C	(2) and (3) only	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10231296]
+// Applying concepts //
+**	Removal of undigested food substances from our body is not an example of excretion because 
+(1)	these substances do not contain toxic materials.
+(2)	these substances contain dietary fibre.
+(3)	these substances are not produced from the chemical reactions in the body.
+A	(1) only			B	(3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10231321]
+// Applying concepts //
+*	Which of the following combinations is not a correct example of the characteristic of organisms?
+		Characteristic of organisms		Example
+A	irritability				humans feel cold and put on a coat
+B	reproduction 				birds lay eggs
+C 	nutrition					plants produce flowers 
+D 	movement 				plants grow towards light
+C	
+---------------------------------------------------
+
+[10231329]
+// Applying concepts //
+*	A seed germinates and becomes a seedling in spring after a cold winter. Which of the following are involved in this phenomenon?
+(1)	growth
+(2)	reproduction
+(3)	irritability
+A	(1) and (2) only	B	(1) and (3) only
+C	(2) and (3) only	D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10231370]
+// Basic concepts //
+	In a scientific investigation, if the results of an experiment do not match the prediction, we should
+(1)	revise the method of the experiment.
+(2)	revise the hypothesis.
+(3)	give up the investigation.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10231403]
+// Scientific investigation // Experiment // Applying concepts //
+*	In an investigation of the effect of pH on the browning of cut apples, a student sprayed a piece of fresh apple with some acid. After 30 minutes, he found that the apple did not turn brown. The control set-up for this investigation should be identical to the experimental set-up except
+A	using lemon juice instead of acid.
+B	using distilled water instead of acid.
+C	using boiled apple instead of fresh apple.
+D	using alkali instead of acid.
+B	
+---------------------------------------------------
+[10231412]
+// Applying concepts //
+*	The photograph below shows organism X. 
+	
+X is an organism because
+(1)	it can move by growth.
+(2)	it can carry out photosynthesis to make its own food.
+(3)	it can reproduce.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(1), (2) and (3)	
+D	
+---------------------------------------------------
+
+[10231432]
+// Applying concepts //
+*	Which of the following is not an example of excretion?
+A	removal of undigested food substances
+B	removal of urine
+C	sweating
+D	breathing out
+A	
+---------------------------------------------------
+
+
+[10231460]
+// Applying concepts //
+*	Which of the following statements about organisms is correct?
+A	Animals respire but plants do not. 
+B	Animals are made of cells but plants are not. 
+C	Both animals and plants make their own food.
+D	Both animals and plants remove waste products from their bodies.
+D	
+---------------------------------------------------
+
+[10231470]
+// Basic concepts //
+	Which of the following is the most possible sequence of the steps in making a biological discovery?
+(1)	proposing a hypothesis
+(2)	drawing a conclusion
+(3)	making a prediction
+(4)	testing the hypothesis
+A	(1), (3), (4), (2)
+B	(1), (4), (3), (2)
+C	(3), (1), (4), (2)
+D	(4), (2), (3), (1)
+A	
+---------------------------------------------------
+
+[10231480]
+// Applying concepts //
+*	John observed that the leaves of the plant shown in the photograph folded when they were touched. He wondered if the plant gave the same response to other stimuli.
+	
+Which of the following is not testable?
+A	The plant gives the same response to sound.
+B	The leaves of the plant never fold in response to burning.
+C	The leaves of the plant do not fold when green light is shown on them.
+D	The plant gives a different response when wind is blown towards it.
+B	
+---------------------------------------------------
+
+[10231493]
+// Basic concepts //
+	Which of the following are studied in biology?
+(1)	the structure of cells
+(2)	the interrelationships between organisms 
+(3)	the classification of organisms
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10231495]
+// Basic concepts //
+	If the result of an experiment does not match the prediction which is made based on the hypothesis, that means 
+A	the experiment does not need a hypothesis.
+B	a conclusion cannot be drawn. 
+C	assumptions have to be made. 
+D	the hypothesis is not supported.
+D	
+---------------------------------------------------
+
+
+[10231530]
+// Applying concepts //
+*	The photograph below shows some organisms. 
+	
+Which of the following characteristics do these organisms possess?	
+(1)	growth
+(2)	respiration
+(3)	movement
+A	(1) only			
+B	(1) and (2) only
+C	(2) and (3) only	
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10231553]
+// Basic concepts //
+*	Which of the following statements about 'hypothesis' in a scientific investigation is correct?
+A	It is the aim of the experiment.
+B	It is a possible explanation of the observation.
+C	It is the conclusion of the investigation.
+D	It is proposed with plenty of evidences.
+B	
+---------------------------------------------------
+
+[10231591]
+// Basic concepts //
+	A hypothesis
+A	is always correct.
+B	is always supported by the results of the experiments.
+C	can be tested by doing experiments.
+D	is proposed when the results of the experiments match the prediction.
+C	
+---------------------------------------------------
+
+[10231611]
+// Basic concepts //
+	Plants are organisms. Which of the following is not a reason?
+A	Plants are able to remove waste products produced inside their bodies.
+B	Plants are green in colour.
+C	Plants are able to move through growth.
+D	Plants are able to produce offspring.
+B	
+---------------------------------------------------
+
+[10231624]
+// Basic concepts //
+	Which of the following is not a characteristic of organisms?
+A	respiration
+B	irritability
+C	excretion
+D	heat production
+D	
+---------------------------------------------------
+
+
+[10231633]
+// Basic concepts //
+	Directions: The following two questions refer to the processes below:
+(1)	detecting changes in the environment
+(2)	producing offspring
+(3)	movement
+(4)	sleeping
+(5)	breaking down food to release energy for body activities
+(6)	removing waste products produced from chemical reactions in the body
+(7)	growth
+(8)	obtaining food
+(9)	breathing
+
+Which of the above processes are considered as characteristics of organisms by most scientists?
+A	(2), (4), (5), (6) and (7) only 
+B	(1), (2), (3), (4), (5), (6) and (7) only
+C	(1), (2), (3), (5), (6), (7) and (8) only
+D	(1), (2), (3), (4), (5), (6), (7), (8) and (9)
+C	
+---------------------------------------------------
+
+[10231636]
+// Basic concepts //
+	Which of the above processes is known as nutrition?
+A	(2)
+B	(5)
+C	(6)
+D	(8)
+D	
+---------------------------------------------------
+
+
+[10231640]
+// Basic concepts //
+	Which of the following refers to the ability of an organism to detect the changes in its environment and make responses?
+A	irritability		B	movement
+C	photosynthesis		D	observation
+A	
+---------------------------------------------------
+
+[10231643]
+// Basic concepts //
+	Which of the following is not a characteristic of organisms?
+A	irritability		B	memory
+C	excretion			D	respiration
+B	
+---------------------------------------------------
+
+[10231654]
+// Basic concepts //
+	Which of the following statements about biology is incorrect?
+A	Biology is the study of the characteristics of organisms only.
+B	Biology is a science.
+C	Biology is related to other science subjects.
+D	The study of biology helps develop our ability to solve problems scientifically.
+A	
+---------------------------------------------------
+
+[10231656]
+// Basic concepts //
+	Which of the following is not within the scope of biology?
+A	the study of the interactions between organisms and their environment
+B	the study of the ways in which characteristics of organisms are passed on from one generation to the next
+C	the study of how organisms' bodies function
+D	the study of the changes of the state of matter under different conditions
+D	
+---------------------------------------------------
+
+
+[10231667]
+// Applying concepts //
+*	Which of the following does not show a characteristic of organisms?
+A	pregnancy
+		B	eating
+	
+C	sleeping
+		D	walking
+	
+
+C	
+---------------------------------------------------
+
+[10231680]
+// Basic concepts //
+*	Which of the following statements about hypotheses is incorrect?
+A	Hypotheses can be tested by doing experiments.
+B	Hypotheses may not be supported by experimental results.
+C	Hypotheses are not needed in some investigations.
+D	Hypotheses are proposed as the last step in a scientific investigation.
+D	
+---------------------------------------------------
+
+
+[10231686]
+// Applying concepts //
+*	What is the purpose of doing experiments in a scientific investigation?
+A	To find out if we have made a wrong observation.
+B	To make sure that the hypothesis is testable.
+C	To find out whether a hypothesis is correct.
+D	To apply what we have learnt.
+C	
+---------------------------------------------------
+
+[10231728]
+// Applying concepts //
+*	Which of the following statements about experiments is correct?
+A	Experiments are repeatable.
+B	Experiments are performed by scientists only.
+C	Control set-ups should not be included in experiments or it would be difficult to interpret the results.
+D	Experiments should be done before proposing hypotheses.
+A	
+---------------------------------------------------
+
+[10231749]
+// Basic concepts //
+	Arrange the following steps in the order commonly involved in a scientific investigation: 
+(1)	testing the hypothesis
+(2)	drawing a conclusion
+(3)	making observations
+(4)	proposing a hypothesis
+A	(1), (2), (3), (4)
+B	(1), (4), (3), (2)
+C	(3), (2), (1), (4)
+D	(3), (4), (1), (2)
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10231884]
+// NOS // Reading comprehension // STSE connections //
+**	Read the following article and answer the questions.
+
+In the 17th century, many people believed in the preformation theory. It stated that a tiny baby was preformed inside a sperm or an ovum already, and the baby grew bigger and bigger during the development. The diagram below depicted a tiny baby inside a sperm cell.
+
+
+
+However, with the advancement in microscopy, people started to realize that all organisms were made up of cells. This led to the development of the cell theory and the preformation theory was abandoned.	
+
+a	State the characteristic of organisms that is related to the formation of sperm and ova.												(1 mark)
+b	Which of the following aspects of the nature of science are demonstrated in the above historical event? Put a '(' in the appropriate spaces and provide explanation.											(4 marks)	
+Aspect of the nature of science		Explanation	
+Science is based on evidence.			
+Doing science requires creativity and imagination.			
+Scientific knowledge is tentative and subject to change.			
+Science is a process of ongoing inquiries.			
+
+-- answer --
+a	Organisms can reproduce.										1m
+b	
+Aspect of the nature of science
+
+Explanation
+
+Science is based on evidence.
+
+The development of the cell theory was driven by observation of cells under microscopes.
+
+Doing science requires creativity and imagination.
+
+
+
+Scientific knowledge is tentative and subject to change.
+
+The once well accepted preformation theory was abandoned and replaced by the cell theory.
+
+Science is a process of ongoing inquiries.
+
+
+
+4m	
+---------------------------------------------------
+
+[10231885]
+// Scientific investigation // NOS // Experiment //
+**	Today, we know that beriberi is a disease caused by the deficiency of vitamin B1. However, before the 1880s, people did not know the cause of the disease. They believed that the disease was caused by an unknown bacterium.
+	In the 1880s, a Dutch scientist, Christiaan Eijkman, observed that chickens fed with brown rice were less likely to develop beriberi than chickens fed with white rice.
+
+	
+
+	Eijkman then carried out an experiment to identify the cause of beriberi. The table below shows the results of the experiment.
+	
+Group	Condition	Result	
+I	Healthy chickens fed with brown rice	No chicken showed symptoms of beriberi	
+II	Healthy chickens fed with white rice	All chickens developed beriberi	
+III	Chickens with beriberi and healthy chickens grew together; fed with brown rice	No chicken showed symptoms of beriberi	
+
+a	Suggest two conclusions that can be drawn from the results.		(2 marks)
+b	Based on the results, Eijkman carried out further experiment on the prisoners in a prison to find out whether the same cause led to beriberi in humans.
+i	Suggest two advantages of carrying out the experiment on the prisoners in a prison.										(2 marks)
+	ii	State one controlled variable of this experiment.			(1 mark)
+c	Suggest one aspect of the nature of science that is demonstrated by the work of Eijkman.											(1 mark)
+
+-- answer --
+a	Eating brown rice can prevent beriberi in the chicken. 					1m
+	Beriberi is not an infectious disease. It cannot be transmitted from chicken to chicken.													1m
+b	i	The diet of the prisoners can be well-controlled.					1m
+			The health of the prisoners can be tracked easily.				1m
+	ii	The sex / age / body mass of the prisoners.						1m
+			(or other reasonable answers)
+c	Scientific knowledge is based on or derived from observations of the natural world (i.e. empirically based or evidence based). /
+		Science is a process of ongoing inquiries.							1m	
+---------------------------------------------------
+
+[10231894]
+// Design experiment // High order thinking // Experiment //
+**	Woodlice feed on decaying plant matter. They live underneath dead leaves on land.
+	
+a	Besides the availability of food, suggest one other environmental factor which might explain why woodlice live underneath dead leaves.	(1 mark)
+b	The diagram below shows the side view of a choice chamber.
+
+	Describe an experiment which uses the above choice chamber to find out how the environmental factor you answered in a will affect the selection of habitat by woodlice. Predict the results of your experiment.		(4 marks)
+
+-- answer --
+	a	Darkness / moisture (or other reasonable answers)					1m
+	b	Use black paper to cover the lid of one of the chambers. /
+		Put some water in one of the chambers.							1m
+		Introduce 20 woodlice into the choice chamber through the inlet.			1m
+		After 10 minutes, count the number of woodlice above each chamber. 		1m
+		More woodlice will be present in the dark / humid chamber.				1m
+		(or other reasonable answers)	
+---------------------------------------------------
+
+[10231907]
+// Data handling // Experiment //
+**	In the 19th century, many women became ill and died after giving birth in the hospital. Dr Semmelweiss compared the death rates in two wards, X and Y, of his hospital. In wards X and Y, babies were delivered by male doctors and female midwives respectively. The table below shows the death rates in the two wards.
+Year	Death rate (%)	
+	Ward X (male doctors)	Ward Y (female midwives)	
+1841	7.8	3.5	
+1842	15.8	7.6	
+1843	9.0	6.0	
+1844	8.2	2.3	
+1845	6.9	2.0	
+1846	11.4	2.8	
+a	Why did Dr Semmelweiss compare the death rates but not the numbers of deaths in the two wards?									(1 mark)
+b	How did the death rates in the two wards differ?				(2 marks)
+c	Some people thought that women were ashamed when they gave birth in front of males and this made them ill. Explain whether this hypothesis is supported or opposed by the data shown in the table.			(2 marks)
+d	Dr Semmelweiss observed that the doctors went straight from dissecting dead bodies to delivering babies. He hypothesized that the doctors might be carrying something which caused the illness from the dead bodies to the women. To test his hypothesis, Dr Semmelweiss made the doctors wash their hands before delivering babies. Predict the changes in the death rates in the two wards if Dr Semmelweiss's hypothesis is correct.		(2 marks)
+
+
+-- answer --
+	a	The number of women giving birth in each ward might be different.		1m
+	b	The death rates in ward X were always higher than those in ward Y. 		1m
+		The range of death rates in ward X was greater than that in ward Y.		1m
+	c	The data supported the hypothesis because in the ward with higher death rates 	 	 	(ward X), babies were delivered by males. /
+		The data opposed the hypothesis because deaths still occurred in ward Y where 			babies were delivered by females.								2m
+	d	The death rate in ward X would drop								1m
+		while that in ward Y would stay more or less the same.					1m	
+--------------------------------------------------
+[10231920]
+// Basic concepts //
+	Complete the table below to show which characteristics of organisms are shown by the following processes. 	 (5 marks)
+
+Characteristic	Process	
+a	A baby becomes an adult	
+b	A tree carries out photosynthesis to produce starch 	
+c	A bacterium divides into two bacteria	
+d	A butterfly flies with its wing	
+e 	A boy touches a pin and withdraws his hand immediately	
+
+-- answer --
+	a	Growth													1m
+	b	Nutrition													1m
+	c	Reproduction												1m
+	d	Movement													1m
+	e	Irritability													1m	
+--------------------------------------------------
+
+
+[10231937]
+// Matching // Applying concepts //
+*	A study on 140 adults was carried out in Sweden. The results suggest that receiving a high dose of vitamin D can reduce the risk of respiratory tract infection. Scientists think further research is required to reduce some uncertainties. 
+	For each description of further research in Column 1, select one benefit listed in Column 2. Put the appropriate letter in the space provided.	(3 marks)	
+Column 1		Column 2	
+a	Including a group of adults who do not take vitamin D in the study	      	A	To increase the confidence that the results are not by chance	
+					
+b	Increasing the number of adults in the study 	                   	B	To increase the confidence that the effects are due to the high dose of vitamin D 	
+					
+c	Continuing the study for a longer period of time	      	C	To understand why vitamin D can reduce the risk of respiratory tract infection	
+					
+			D	To detect any long-term side effects of taking a high dose of vitamin D	
+					
+			E	To check whether vitamin C has a similar effect	
+
+-- answer --
+	a	B														1m
+	b	A														1m
+	c	D														1m	
+--------------------------------------------------
+
+
+[10231941]
+// Data handling // Experiment // STSE connections //
+**	Nicotine in cigarette smoke is addictive. Nicotine replacement therapy (NRT) can be used to help smokers quit smoking. There are different types of NRT, in which nicotine is given to smokers in the forms of patches, chewing gum or nasal sprays.
+	A group of scientists compared the effectiveness of different types of NRT in a study. They recruited a large number of smokers. About half of them were given one of the different types of NRT and the others were given placebos. A placebo is a substance in the same form as the nicotine replacement but it does not contain any nicotine. The table below shows the results.
+
+Type of NRT	Smokers given NRT	Smokers given placebos	
+	No. of smokers in study	No. of smokers quitted smoking	No. of smokers in study	No. of smokers quitted smoking	
+Patch	9300	1395	8952	716	
+Chewing gum	8250	1732	8430	843	
+Nasal spray	560	90	636	70	
+	
+a	Why were placebos used in the study?						(1 mark)
+b	The results of which type of NRT are most reliable? Explain your choice.														(2 marks)
+c	Which type of NRT is most effective in helping smokers to quit smoking? Support your answer with evidence from the results.			(2 marks)
+
+-- answer --
+a	They were used as controls to ensure that the effects were due to nicotine in nicotine replacement therapy.									1m
+	b	Nicotine patch												1m
+		The number of smokers participated is the largest.					1m
+	c	Nicotine chewing gum										1m
+		The percentage of smokers quitted smoking is the highest. /
+		The difference in the percentage of smokers quitted smoking in the experimental 			group and control group is the largest.								1m	
+---------------------------------------------------
+
+[10231945]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the life cycle of frogs. 
+
+	
+
+	a	What characteristics of organisms are shown in I and II?		(2 marks)
+	b	A student stated that, 'Frogs and tadpoles obtain energy from food by 			nutrition. Explain why this statement was wrong.				(2 marks)
+
+-- answer --
+	a	I: reproduction												1m
+		II: growth													1m
+	b	Nutrition is the process in which organisms obtain food for energy.  		1m
+		Respiration is the process in which organisms break down food to release the 			stored energy. 												1m	
+---------------------------------------------------
+
+
+[10231946]
+// Matching // Basic concepts //
+	For each of the characteristics of organisms listed in Column 1, select one statement listed in Column 2 that best illustrates the characteristic. Put the appropriate letter in the space provided.							(6 marks)
+
+Column 1				Column 2	
+a	Irritability			A	Plants remove carbon dioxide.	
+				
+b	Growth			B	A child increases in height as he/she gets older.	
+				
+c	Excretion			C	Tomato plants produce seeds that are protected in fruits.	
+				
+d	Movement			D	Body cells break down glucose to release energy for body activities.	
+				
+e	Reproduction			E	A sparrow sees a girl walking towards it and flies away.	
+				
+f	Respiration			F	A child walks towards a bookshelf and picks up a storybook to read.	
+				
+
+-- answer --
+	a	E														1m
+	b	B														1m
+	c	A														1m
+	d	F														1m
+	e	C														1m
+	f	D														1m	
+--------------------------------------------------
+
+[10231949]
+// Scientific investigation // Data handling // Reading comprehension //
+**	Read the following article and answer the questions.
+
+	DCPIP solution is a blue dye which can be decolourized by vitamin C. In an investigation to compare the concentration of vitamin C in kiwi fruits, lemons and grapefruits, Mary extracted the juice from each of the fruits. She then added each fruit juice, drop by drop, to 1 cm3 of DCPIP solution until the solution turned colourless. She recorded the number of drops of fruit juice used. The results are shown in the table below.
+
+Fruit
+Kiwi fruit
+Lemon
+Grapefruit
+
+Number of drops of fruit juice used to decolourize 1 cm3 of DCPIP solution 
+15
+7
+18
+
+	
+
+a	Do we need to propose a hypothesis for this investigation? Explain your answer.												(2 marks)
+b	What are the dependent variable and independent variable in this investigation?											(2 marks)
+c	According to the results, which of the three fruits has the lowest concentration of vitamin C?								(1 mark)
+
+-- answer --
+	a	No. Hypothesis is not needed in this investigation.					1m
+		This is because this investigation does not require explanations of observations.																	1m
+	b	Dependent variable: the number of drops of fruit juice used to decolourize DCPIP 		solution													1m
+		Independent variable: the type of fruit								1m
+	c	Grapefruit													1m	
+---------------------------------------------------
+
+[10231961]
+// Scientific investigation // NOS // Reading comprehension //
+**	Read the following article and answer the questions.
+
+	In the mid 19th century, Dr Semmelweiss came to work in a hospital. He noticed that many women whose babies were delivered by doctors died from infections, but this was not the case when deliveries were done by midwives. He also observed that the doctors were going straight from dissecting dead bodies to delivering babies. He wondered if the doctors were carrying the cause of the infections from the dead bodies to the women.
+	In a controlled experiment, he made doctors wash their hands before delivering babies. Immediately, the death rate dropped sharply. Dr Semmelweiss presented his findings to other doctors but his ideas were not accepted at that time. It was hard for doctors to admit that they might have passed the infections and killed their patients.	
+
+a	What was the observation that led to Dr Semmelweiss's investigation?															(1 mark)
+b	What hypothesis did Dr Semmelweiss propose to explain the observation in a?													(1 mark)
+c	Why did Dr Semmelweiss include hand-washing in his experimental  design?												(1 mark)
+d	State two reasons why Dr Semmelweiss's ideas were not immediately accepted.												(2 marks)
+
+-- answer --
+	a	More women died from infections when deliveries were done by doctors. Fewer 			women died when deliveries were done by midwives.				1m
+	b	Doctors carried the cause of the infections from the dead bodies to the women. 																1m
+	c	To eliminate the cause of infections picked up from dead bodies. 		1m
+	d	Doctors could not admit that they might have passed the infections and killed their 		patients. /
+		Hand-washing was a strange idea at that time. /
+		Many doctors thought that the infections were God's punishment to the women.
+	 	(any 2 or other reasonable answers)							1m x 2	
+--------------------------------------------------
+
+
+[10231970]
+// Scientific investigation // Applying concepts //
+*	In the 18th century, Edward Jenner did an investigation on smallpox (天花) that led to the development of vaccine (疫苗). His investigation is shown in the following diagrams.	
+
+1	Edward observed that milkmaids never catch smallpox despite the widespread of smallpox.		2	Edward suspected that the milkmaids do not catch smallpox because they have caught cowpox (牛痘) before.	
+
+		
+	
+3	Edward put some cowpox pus (膿) onto the arm of a boy. The boy caught cowpox but recovered soon.		4	Edward put some smallpox pus onto the arm of the boy. The boy did not catch smallpox.	
+			
+
+a	State the steps of the scientific investigation involved in diagrams 1, 2 and 3.														(3 marks)
+b 	What hypothesis did Edward Jenner put forward?				(1 mark)
+c	What conclusion can be drawn from the result?				(1 mark)
+
+
+
+
+-- answer --
+	a	Diagram 1: Making observation									1m
+		Diagram 2: Proposing a hypothesis								1m
+		Diagram 3: testing the hypothesis								1m
+	b	People caught cowpox before do not catch smallpox.					1m
+	c	People caught cowpox before do not catch smallpox.					1m	
+--------------------------------------------------
+
+[10231972]
+// Scientific investigation // Reading comprehension //
+*	Read the following article and answer the questions.
+	In 1928, Sir Alexander Fleming saw a bacterial culture (細菌培養) plate contaminated with a fungus. Fungus was not unusual, but what interested him was that there was no bacterial growth around it! He wondered if there was something in the fungus that stopped the bacteria from growing.
+	The fungus was identified as Penicillium (青霉). Fleming grew it with different bacteria. Some bacteria did not grow. He repeated this process using some other types of fungi but no similar killing effect was found. He therefore concluded that Penicillium could produce a substance with an antibacterial effect. This substance, penicillin (青霉素), is useful in curing diseases caused by bacteria.	
+
+How did Fleming carry out his investigation using the scientific method? Briefly describe what he did in each step.
+a	Making an observation									(1 mark)
+b	Proposing a hypothesis									(1 mark)
+c	Doing experiments										(1 mark)
+d	Taking experimental results								(1 mark)
+e	Drawing a conclusion									(1 mark)
+
+-- answer --
+	a	There was no bacterial growth around the fungus.					1m
+	b	Something in the fungus stopped the bacteria from growing.				1m
+	c	Fleming grew Penicillium with different bacteria . He repeated the process using 			some other types of fungi.										1m
+	d	Some bacteria did not grow in the presence of Penicillium. No similar killing effect 		was found in other types of fungi.								1m
+	e	Penicillium could produce a substance with an antibacterial effect.		1m	
+--------------------------------------------------
+[10231975]
+// Basic concepts //
+Complete the following paragraph using suitable words selected from the list below.													(6 marks)
+reproduction	energy		excretion		nutrition		reaction
+respiration	movement	irritability	growth		response	
+
+	Animals obtain food by the process a                     . After digestion and absorption, the food is broken down in cells by b                     . During the process, c                      is released to support different activities, e.g. for the d                      of animals from place to place. The waste products produced in the process are removed from the body by e                     . Animals are able to produce offspring by         f                      for continuation of the species.
+-- answer --
+	a	nutrition													1m
+	b	respiration													1m
+	c	energy													1m
+	d	movement													1m
+	e	excretion													1m
+	f	reproduction												1m	
+---------------------------------------------------
+
+[10231988]
+// Scientific investigation // Data handling // Applying concepts //
+*	Mary is investigating the effect of light on the eating habit of mice. The procedure of her experiment is shown below.
+(1)	Place a mouse and a plate containing 50 g of food into each of the two transparent plastic boxes (box P and box Q).
+(2)	Cover the walls of one box (box P) with aluminum foil.
+(3)	Place two lamps near each box and switch them on.
+(4)	At 1-hour intervals, replace the plate in each box with a plate containing 50 g of food.
+(5)	Record the mass of the food on the plates for 6 hours.
+
+The table below shows the results. 
+Time (hour)	Mass of food on the plates (g)	
+	Box P	Box Q	
+1	50	35	
+2	48	34	
+3	49	38	
+4	50	32	
+5	50	37	
+6	50	35	
+a	Mary asked a question before carrying out the experiment. What is her question?												(1 mark)
+b	What is the dependent variable in the experiment?				(1 mark)
+c	Which box, P or Q, is the control set-up?					(1 mark)
+d	What conclusion can Mary draw from the investigation?		(1 mark)
+e	John argues that the two mice used in the experiment eat different amount of food. If you were Mary, how would you modify the experiment?																(2 marks)
+
+
+-- answer --
+	a	Does light make mice eat more food?								1m
+	b	Mass of the food left on plates									1m
+	c	Box P													1m
+	d	Mice eat more food under light than in darkness.						1m
+	e	Swap the positions of the mice in the boxes 						1m
+		and repeat the experiment.										1m	
+---------------------------------------------------
+
+
+[10232019]
+// Schematic diagram // Basic concepts //
+	a	The flow chart below shows the flow of the scientific method.
+
+	
+
+Complete the flow chart.									(4 marks)
+b	Explain why it is incorrect to say that a hypothesis has been proved.																(1 mark)
+
+-- answer --
+	a	i	Making observations / Asking a question						1m
+		ii	Testing the hypothesis									1m
+		iii	Drawing a conclusion										1m
+		iv	If the results of the experiments do not support the hypothesis, scientists may 			need to propose another hypothesis 							1m
+	b	A hypothesis can only be supported or rejected after testing by experiments.	1m	
+---------------------------------------------------
+
+[10232025]
+// Communication // STSE connections // Applying concepts //
+*	Do you think that the study of biology is useful in fighting against severe acute respiratory syndrome (SARS)? Give your opinion.				(5 marks)
+
+
+-- answer --
+	Yes. 
+	The study of biology helps increase our understanding of SARS viruses and their 	relationships with humans and other organisms.							1m
+	It helps prepare doctors and nurses to cure SARS patients. 				1m
+	It helps develop strategy to control the spread of SARS. 					1m
+	It helps increase our understanding of the disease mechanism. 				1m
+	It helps develop new techniques or drugs to cure SARS patients. 			1m
+	(or other reasonable answers)		
+---------------------------------------------------
+[10232029]
+// Communication // STSE connections // Applying concepts //
+*	Suggest two examples to illustrate how biological knowledge is applied to our daily lives.												(6 marks)
+
+
+-- answer --
+	Some microorganisms carry out anaerobic respiration to produce lactic acid.
+	Microorganisms are used to break down lactose in milk into lactic acid
+	in the production of yoghurt. 										3m
+	The rate of photosynthesis in plants is higher at higher carbon dioxide concentration.
+	Farmers grow plants in greenhouses where the carbon dioxide concentration is 	increased.
+	This improves the productivity of plants.								3m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10232054]
+// Basic concepts //
+Complete the table below, which shows some characteristics of plants that explain why plants are organisms. 							(4 marks)
+
+	Characteristic		Why are plants organisms?	
+a                      	Plants break down food to release energy for body activities.	
+Movement	Plants usually move by b                     .	
+Growth	Plants increase in size and in c                     .	
+Irritability	Plants detect d                       in their environment.	
+
+-- answer --
+	a	Respiration												1m
+	b	growing / growth											1m
+	c	complexity													1m
+	d	stimuli / changes											1m	
+---------------------------------------------------
+
+[10232059]
+// High order thinking // Experiment // Communication //
+**	The diagram below shows an experiment which is used to test the effect of a new drug on the growth of human cancer cells. The two groups were treated under the same environmental conditions.
+
+	
+
+It is found that the growth of the human cancer cells in the experimental group slowed down. 
+How will you modify the experiment to further confirm the effectiveness of the new drug in slowing down the growth of human cancer cells?		(5 marks)
+
+
+
+-- answer --
+	Add different amounts of the drug (from none to high dose) to the human cancer cells 	growing in the test tubes. 											1m
+	All other conditions are kept constant.									1m
+	If the new drug is effective in slowing down the growth of human cancer cells, an inverse 	proportional relationship between the amount of drug and the number of human cancer 	cells should be observed.											1m
+	The number of human cancer cells will be the largest in the test tube with no drug added																1m
+	and it will be the smallest in the test tube with the highest dose of drug added. 	1m	
+---------------------------------------------------
+
+[10232062]
+// Schematic diagram // Basic concepts //
+	Complete the following flow chart to show the steps of the scientific method.												              (5 marks)
+	
+
+
+-- answer --
+	a	observations												1m
+	b	hypothesis													1m
+	c	prediction													1m
+	d	experiments												1m
+	e	conclusion													1m	
+---------------------------------------------------
+
+[10232067]
+// Scientific investigation // Experiment // Applying concepts //
+*	Peter observed that there were many metal sticks on the ground near a tree. He looked up and noticed that a nest was built on the tree. Based on the observation, he proposed a hypothesis to explain the appearance of the metal sticks.
+a	What is a hypothesis?									(1 mark)
+b	Suggest a hypothesis based on Peter's observations.			(2 marks)
+c	Describe an experiment that can be done to confirm the hypothesis in b.															(3 marks)
+
+-- answer --
+	a	A hypothesis is a reasonable answer to the question about the observations.																	1m
+	b	Birds use metal sticks to build their nests and the metal sticks drop from the nests.																2m
+	c	Make a mark on some metal sticks. 								1m
+		Put the marked metal sticks in a place where the birds can reach. 		1m
+		If the marked metal sticks are found in the nest and on the ground, the hypothesis 		is supported. 												1m	
+--------------------------------------------------
+Structured question
+
+[10232203]
+// Scientific investigation // Data handling // Experiment //
+**	Dodder is a parasitic plant. It grows on a host plant and absorbs nutrients from it. 
+
+
+	When the seeds of dodder germinate in the soil, the young dodder seedlings will grow towards the host plant nearby. A scientist hypothesized that the young dodder seedlings can detect some volatile compounds released by the host plant.
+	The scientist carried out the following experiment to test his hypothesis. He divided a filter paper disc into two sectors, the left and the right sectors. Different objects were placed near the edge of the right sector as shown in the diagram below. He then put 50 germinated seeds of dodder at the centre of the filter paper disc. The germinated seeds were allowed to grow for 4 days.
+
+	
+
+
+After 4 days, the scientist counted the number of dodder seedlings that grew towards each sector. The table below shows the result obtained.
+
+	Object that put near the right sector	Number of seedlings that grew towards the right sector	Number of seedlings that grew towards the left sector	
+Set-up A	Soil only	28	22	
+Set-up B	Potted host plant grown in soil	43	7	
+Set-up C	Potted host plant in sealed plastic bag	25	25	
+
+	a	What is the purpose of set-up A in the experiment?			(2 marks)
+b	During the experiment, the whole set-up was placed in a sealed box. Suggest the importance of this step.						(1 mark)
+c	Does the result of the experiment support the scientist's hypothesis? Briefly explain your answer.									(4 marks)
+d	Suggest one possible function of the volatile compounds produced by 
+plants.												(1 mark)
+
+
+-- answer --
+	a	Set-up A is used as a control.									1m
+Its purpose is to ensure that soil alone has no effect on the growing direction of the dodder seedlings.											1m
+	b	To avoid other volatile compounds in the air from interfering with the result. 																		1m
+	c	Yes.														1m
+		The result shows that the majority of the dodder seedlings grew towards the host 		plant when the host plant was put near them.						1m
+		Since there was no direct contact between the dodder seedlings and the host 			plant, any signal produced from the host plant could only be transmitted through 			the air.													1m
+		Hence, the signal was most likely to be volatile compounds produced by the host 		plant.													1m
+	d	It allows the plants to attract insects.								1m
+		(or other reasonable answers)	
+---------------------------------------------------
+
+[10232204]
+// Graph plotting // Data handling // Experiment //
+**	A scientist carried out an investigation to study the effectiveness of three weight-loss diets. Three volunteers (P, Q and R) each took a different weight-loss diet and another volunteer (S) was a control. The changes in their weight were monitored by the scientist every week for eight weeks. The table below shows the results.
+Time (week)	Change in weight (kg)	
+	Volunteer P	Volunteer Q	Volunteer R	Volunteer S	
+1	(3	(2.6	(2.4	(0.15	
+2	(2	(1.8	(1.6	(0.1	
+3	(1.2	(1.2	(1	0	
+4	(0.6	(0.7	(0.7	(0.1	
+5	(0.4	(0.65	(0.55	+0.15	
+6	(0.35	(0.6	(0.4	+0.05	
+7	(0.3	(0.55	(0.35	+0.05	
+8	(0.3	(0.5	(0.3	(0.05	
+	
+a	Using the graph paper below, plot a graph to show the results.	(5 marks)
+	
+b	What was the purpose of including the control in this investigation?																	(1 mark)
+c	Suggest what the control (volunteer S) should eat.				(1 mark)
+
+d	Describe the similar pattern of changes in the weight of the volunteers taking the weight-loss diets over the eight weeks.				(2 marks)
+e	Suggest one way to improve the reliability of the results.		(2 marks)
+
+-- answer --
+	a	
+		
+		Correct title												1m
+		Choice of axes												1m
+		With labels and units											1m
+		Correct plotting and joining of lines								2m
+	b	To ensure that any changes in the weight were due only to the weight-loss diets.																	1m
+	c	A balanced diet												1m
+	d	In the first four weeks there was a rapid weight loss.					1m
+		The weight loss then slowed down in the next four weeks.				1m
+	e	Include more volunteers in each group in the investigation and calculate the mean 		changes in their weight in each group. (or other reasonable answers)		2m	
+--------------------------------------------------
+
+[10232210]
+// Scientific investigation // Data handling // Experiment //
+**	A student carried out an experiment to study the effect of temperature on the heart rate of water fleas. Water fleas are semi-transparent freshwater animals. Beating of their heart can be observed under the microscope.
+ 	
+Water flea
+
+	The student collected 30 water fleas of 5 mm in length and left 5 of them in water of different temperatures for 5 minutes. He then put the water fleas under the microscope and counted the heart rate of each water flea in one minute. The table below shows his results.
+
+Temperature
+(°C)	Heart rate (beat / min)	
+	Specimen 1	Specimen 2	Specimen 3	Specimen 4	Specimen 5	
+10	39	42	39	38	37	
+15	63	67	61	59	60	
+20	94	99	91	87	89	
+25	138	141	133	130	128	
+30	167	177	180	162	164	
+35	83	88	87	69	73	
+
+a	Identify the independent and dependant variables in this investigation.
+															(2 marks)
+b	Suggest two variables, other than those mentioned in the question, that should have been controlled in this investigation.				(2 marks)
+c	Why did the student count the heart rates of 5 water fleas instead of one in water of each temperature?								(1 mark)
+d	Complete the table below by calculating the average heart rates of the water fleas in water of different temperatures.				(3 marks)
+
+Temperature (°C)	Average heart rate (beat / min)	
+10		
+15		
+20		
+25		
+30		
+35		
+
+e	The student concluded that the heart rate of water fleas increased with water temperature. Evaluate the evidence for his conclusion.	(2 marks)
+f	Suggest two possible sources of errors which may affect the results in this investigation.											(2 marks)
+
+-- answer --
+	a	Independent variable: temperature of water						1m
+		Dependent variable: heart rate								1m
+	b	Age of water fleas / oxygen content of water / pH of water
+	 	(any 2 or other correct answers)								1m × 2
+	c	To increase the reliability of the results. / 
+		To reduce the errors due to variations between water fleas. / 
+		To increase the confidence that the heart rates obtained are not by chance.
+	 	(or other reasonable answers)								1m
+	d
+Temperature (°C)
+Average heart rate (beat / min)
+
+10
+39
+
+15
+62
+
+20
+92
+
+25
+134
+
+30
+170
+
+35
+80
+
+															3m
+	e	The heart rate increases as water temperature increases from 10 to 30 °C.																	1m
+		However, the heart rate decreases as water temperature increases from 30 to 
+		35 °C.												1m
+ 	f	Change in temperature during the counting procedure may affect the heart rate.																1m
+		Stress on the water fleas may affect the heart rate.				1m
+		(or other reasonable answers)	
+------------------------------------------------
+
+[10232225]
+// Scientific investigation // Experiment // Schematic diagram //
+*	Andy kept some snails as pets. He put the snails in a box beside the window as shown. He fed the snails with food and water regularly. Three days later, Andy found that some snails died. He wondered if the sunlight caused the snails to die. He wanted to carry out a scientific investigation to find out the answer.
+
+a	Complete the flowchart below to show the basic steps in a scientific investigation.											(4 marks)
+	
+	b	The diagram below shows the set-ups in Andy's experiment.
+	
+		i	State the dependent variable in Andy's experiment.		(1 mark)
+		ii	State the independent variable in Andy's experiment.		(1 mark)
+		iii	State three controlled variables in Andy's experiment. 	(3 marks)
+c	Three days later, Andy found that three snails in box A died while the snails in box B were still alive. Suggest a conclusion to Andy's experiment.																(1 mark)
+-- answer --
+	a	i	observations											1m
+		ii	hypothesis												1m
+		iii	experiments											1m
+		iv	conclusion												1m
+	b	i	The number of snails died after a period of time					1m
+		ii	The presence of sunlight									1m
+		iii	The number of snails in the box, the size of the two boxes, the supply of water 			and food (or other reasonable answers)						3m
+	c	Direct exposure to sunlight for a period of time can kill the snails.			1m
+		(or other reasonable answers)	
+--------------------------------------------------
+
+[10232227]
+// Scientific investigation // Experiment // Applying concepts //
+*	When having dinner, Peter found that chewing some cooked rice gave him a sweet taste. He wondered whether saliva turned the starch in the cooked rice into glucose. He carried out an experiment as follows to check if he was correct:
+(1)	Ground some cooked rice with cold distilled water using a mortar and pestle.
+(2)	Filtered the rice paste with filter paper.
+(3)	Added 1 cm3 of saliva in the rice paste and waited for 10 minutes.
+(4)	Added 2 cm3 of Benedict's solution to the filtrate and put the mixture in a boiling water bath for 5 minutes.
+Brick-red precipitates appeared in the mixture. Peter concluded that saliva turned the starch in the cooked rice into glucose.
+Given that Benedict's solution gives brick-red precipitates in the presence of reducing sugar upon boiling. Glucose is a kind of reducing sugar.
+a	What hypothesis did Peter propose?						(1 mark)
+b	What scientific knowledge did Peter apply in the design of his experiment?															(2 marks)
+c	Suggest a control set-up for this experiment.					(2 marks)
+d	Peter drew a wrong conclusion.	
+i	What was wrong with his conclusion?					(2 marks)
+ii	State the problem in the experiment that leads to a wrong conclusion.														(1 mark)
+
+-- answer --
+	a	Saliva turns the starch in the cooked rice into glucose.					1m
+	b	Benedict's solution gives brick-red precipitates in the presence of reducing sugar 			upon boiling.												1m
+		Glucose is a reducing sugar.									1m
+	c	The control set-up should be identical to the experimental set-up 		1m
+		except using distilled water instead of saliva.						1m
+	d	i	The appearance of brick-red precipitates only showed the presence of 				reducing sugar 											1m
+			which may not be glucose. 								1m
+		ii	He used a test that is not specific for glucose.			 		1m	
+--------------------------------------------------
+
+[10232234]
+// Communication // Applying concepts //
+	The diagrams below show the host where the bacteria live and the internal structure of the bacteria.
+
+
+Host of the bacteria		
+Microscopic view of the bacteria	
+
+'Bacteria are organisms.' Give reasons to this statement in terms of the characteristics of organisms.									(7 marks)
+
+
+-- answer --
+	Bacteria obtain nutrients from its host (nutrition).							1m
+	They break down food and release stored energy for cellular activities (respiration).																	1m
+	They can move (movement).										1m
+	Their cells increase in size (growth).									1m
+	They detect environmental changes inside the host and make responses (irritability).																	1m
+	They can produce more bacteria (reproduction).							1m
+	They can remove waste products produced by chemical reactions in their cells 	 	 	 (excretion).													1m	
+---------------------------------------------------
+
+
+Essays
+
+[10232331]
+// Communication // Basic concepts //
+	Briefly contrast organisms and non-living things. 				(10 marks)
+
+
+-- answer --
+	Organisms can produce offspring but non-living things cannot.				1m
+	Organisms obtain food for energy, growth and maintaining health but non-living things 	do not.														1m
+	Organisms break down food to release stored energy for various body activities but 	non-living things do not.											1m
+	Organisms increase in size and in complexity but non-living things do not. 		1m
+	Organisms remove waste products produced from chemical reactions in their bodies but 	non-living things do not.											1m
+	Organisms can detect changes in their environment and make responses but non-living 	things cannot.													1m
+	Most animals can move freely from place to place and plants can move by growing but 	non-living things cannot move.										1m
+	Communication													3m	
+---------------------------------------------------
+
+[10232348]
+// Communication // Basic concepts //
+*	Describe the steps commonly involved in a scientific investigation.	(10 marks)
+
+
+-- answer --
+	Firstly, observations are made.										1m
+	A question about the observations is then raised.							1m
+	A reasonable answer to the question (hypothesis) is suggested.				1m
+	Based on the hypothesis, a prediction is made.							1m
+	The hypothesis is tested by doing experiments.							1m
+	Control set-ups are often prepared to ensure the results of the experiments are due only 	to the factors under investigation.									1m
+	A conclusion is drawn based on the results of the experiment. 				1m
+	Communication													3m	
+---------------------------------------------------

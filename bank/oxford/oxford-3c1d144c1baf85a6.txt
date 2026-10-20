@@ -1,0 +1,1407 @@
+Chapter 27		Biotechnology
+
+Multiple-choice questions
+
+[10267587]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the DNA fingerprints of individuals W, X, Y and Z.
+
+	
+
+	Which of the following statements correctly describes the family relationship between W, X, Y and Z?
+A	W is the child of Y and Z.
+B	X is the child of W and Y.
+C	Y is the child of X and Z.
+D	Z is the child of W and X.
+D	
+---------------------------------------------------
+
+
+[10267597]
+// Graph interpretation // Schematic diagram // Applying concepts //
+*	A sample containing DNA fragments X, Y and Z of different lengths was loaded into a well of a gel slab and the fragments were separated using gel electrophoresis. The graph below shows the lengths of X, Y and Z.
+
+	
+
+	Which of the diagrams below shows the bands on the gel slab after gel electrophoresis and the DNA fragments they contain?
+A	
+B	
+C	
+D	
+B	
+---------------------------------------------------
+
+
+[10267604]
+// Comparison //
+*	Which of the following comparisons between a plasmid and a chromosome in a bacterium is correct?
+	Bacterial plasmid				Bacterial chromosome
+A	present in the cytoplasm			present in the nucleus
+B	contains fewer nucleotides		contains more nucleotides
+	C	circular						linear
+	D	made up of RNA				made up of DNA
+B	
+---------------------------------------------------
+
+[10267612]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the procedure in producing a recombinant plasmid.
+
+	Which of the following enzymes are used in steps (1) and (2)?
+	Step (1)					Step (2)
+A	DNA polymerase			DNA ligase
+B	DNA ligase				DNA polymerase
+C	restriction enzyme			DNA polymerase
+D	restriction enzyme			DNA ligase
+D	
+---------------------------------------------------
+
+
+[10267661]
+// Calculation // Schematic diagram // Applying concepts //
+**	A length of DNA containing 10 000 base pairs (bp) was cut with two enzymes, X and Y. The table below shows the size of the fragments produced.
+
+Enzyme treatment	Size of fragments produced (bp)	
+X only	3000, 7000	
+Y only	2000, 8000	
+X and Y	2000, 3000, 5000	
+
+Which of the following diagrams shows the sites at which enzymes X and Y cut in this length of DNA?
+A		
+B		
+C		
+D		
+
+D	
+---------------------------------------------------
+
+
+[10267672]
+// Applying concepts //
+	The distance travelled by DNA fragments in gel electrophoresis is mainly affected by
+(1)	the percentage of adenine (A) and thymine (T) in the DNA fragments.
+(2)	the voltage across the two terminals.
+(3)	the duration of gel electrophoresis.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10267687]
+// Schematic diagram // Applying concepts //
+*	Three kinds of DNA fragments containing 36 000 bp, 39 000 bp and 120 000 bp are separated using gel electrophoresis. Which of the following gel slabs shows the most possible results? 
+	A				B	
+		
+	C	
+		D		
+		
+
+C	
+---------------------------------------------------
+
+[10267701]
+// Cross-topic // Applying concepts //
+*	Which of the following pairs have the same DNA fingerprints?
+(1)	the boy and the girl in a pair of twins 
+(2)	a mother and her daughter
+(3)	the parent plant and daughter plant in vegetative propagation
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10267707]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows the DNA fingerprints of a suspect for several crimes and some DNA evidence collected from 4 crime scenes. The DNA evidence from a crime scene may contain DNA of more than one person.
+	
+	Blood samples found at crime scenes can provide DNA evidence. Where is DNA found in a blood sample? 
+A	plasma					B	blood platelets
+C	white blood cells			D	red blood cells
+C	
+---------------------------------------------------
+
+[10267709]
+// Schematic diagram // Applying concepts //
+*	In which crime scene(s) was the suspect involved? 
+A	(2) only					B	(1) and (4) only
+C	(2) and (3) only			D	(2) and (4) only
+D	
+---------------------------------------------------
+
+[10267715]
+// Basic concepts //
+	Which of the following is not an application of DNA fingerprinting?
+A	producing copies of a gene of interest
+B	distinguishing wild type and genetically modified plants
+C	identifying the virus which causes a disease
+D	screening for an allele responsible for a disease in newborn babies
+A	
+---------------------------------------------------
+
+[10267732]
+// Basic concepts //
+	Finding the positions of genes on a chromosome is called
+A	DNA sequencing.
+B	mapping.
+C	genetic engineering.
+D	DNA fingerprinting.
+B	
+---------------------------------------------------
+
+
+[10267739]
+// Applying concepts //
+	Directions: The following two questions refer to a kind of GM corn which is pest-resistant. The GM corn contains a gene (Bt gene) which is responsible for producing a protein that is lethal to insect larvae. The Bt gene is obtained from a kind of bacterium.
+	Which of the following statements about the GM corn is/are incorrect?
+	(1)	The production of the GM corn is an application of genetic engineering.
+	(2)	The GM corn cannot grow in nature.
+	(3)	The GM corn contains foreign genes.
+	A	(1) only
+	B	(2) only
+	C	(3) only
+	D	(1) and (3) only
+B	
+---------------------------------------------------
+
+[10267742]
+// Applying concepts //
+	The following are the steps involved in the production of the GM corn.
+	(1)	Extract the DNA containing the Bt gene from bacteria.
+(2)	Use bacteria to insert the DNA containing the Bt gene into the chromosome of corn cells.
+	(3)	Insert the recombinant plasmids into bacteria.
+	(4)	Insert the Bt gene into bacterial plasmids.
+	What is the correct sequence of these steps?
+	A	(4), (1), (2), (3)
+	B	(4), (3), (1), (2)
+	C	(1), (4), (2), (3)
+	D	(1), (4), (3), (2)
+D	
+---------------------------------------------------
+
+
+[10267752]
+// Basic concepts //
+	Which of the following statements about plasmids is/are correct?
+	(1)	Plasmids are present in the nucleus of bacterial cells.
+(2)	Plasmids are small rings of RNA.
+	(3)	Plasmids are commonly used as vectors in recombinant DNA technology.
+	A	(2) only					B	(3) only
+	C	(1) and (3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10267753]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the major steps (I to IV) in recombinant DNA technology.
+
+	
+
+Which step(s) involve(s) the use of enzymes?
+	A	I only
+	B	II and III only
+	C	II, III and IV only
+	D	I, II, III and IV
+C	
+---------------------------------------------------
+
+
+[10267761]
+// Basic concepts //
+	In recombinant DNA technology, host cells are used to
+	A	provide the gene of interest.
+	B	carry the gene of interest to another cell for gene expression.
+	C	provide the enzymes used in cutting DNA fragments.
+	D	produce the desirable products through gene expression.
+D	
+---------------------------------------------------
+
+[10267784]
+// Basic concepts //
+	Which of the following is not a step in DNA fingerprinting?
+	A	extracting DNA from a sample
+	B	obtaining DNA fragments
+	C	inserting DNA fragments into plasmids
+	D	separating DNA fragments according to their size
+C	
+---------------------------------------------------
+
+
+[10267791]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the patterns of bands on a gel slab after gel electrophoresis.
+
+	
+
+Which of the following statements is/are correct?
+	(1)	The DNA fragments in band X are shorter than those in band Y.
+	(2)	Samples 1, 2 and 3 have certain DNA fragments in common.
+(3)	The DNA composition of sample 1 is more similar to sample 2 than 
+sample 3.
+A	(1) only				B	(1) and (2) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10267811]
+// Basic concepts //
+	Which of the following are the applications of DNA fingerprinting?
+
+(1)	identifying grape varieties in a vineyard for brewing of wine	(2)	identifying the species of an animal from its remains	(3)	distinguishing substituted Chinese medicines	
+			
+	A	(1) and (2) only			B	(1) and (3) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10267825]
+// Basic concepts //
+	Which of the following is a goal of the Human Genome Project?
+	A	To find out the chemical structure of human DNA.
+	B	To locate all the genes in the human genome.
+	C	To determine the amino acid sequence of human proteins.
+	D	To find out the amount of DNA in a human gamete.
+B	
+---------------------------------------------------
+
+[10267843]
+// Basic concepts //
+	The Human Genome Project may allow scientists to
+	(1)	better understand how genes mutate.
+	(2)	find out genes that are related to diseases.
+	(3)	build up phylogenetic relationships among humans and other organisms.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10267851]
+// Basic concepts //
+	The main reasons for using bacteria as host cells in recombinant DNA technology are that
+	(1)	they reproduce very rapidly.
+	(2)	they are small in size.
+	(3)	they can be found everywhere.
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10267852]
+// Basic concepts //
+	Which of the following are the applications of recombinant DNA technology?
+	(1)	production of food
+	(2)	production of vaccines
+	(3)	gene therapy
+	A	(1) and (2) only
+	B	(1) and (3) only
+	C	(2) and (3) only
+	D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10267876]
+// Basic concepts //
+	Which of the following are the applications of DNA fingerprinting?
+	(1)	identifying victims in earthquakes
+	(2)	identifying fake Chinese medicine
+	(3)	providing evidence to the court
+	A	(1) and (2) only		B	(1) and (3) only
+	C	(2) and (3) only		D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10267879]
+// Schematic diagram // Basic concepts //
+	Directions: The following two questions refer to the diagram below, which shows the DNA fingerprints from six people.
+	
+	Which of the following pairs of DNA bands can be found in both the mother and child?
+	A	DNA bands A and E		B	DNA bands B and F
+	C	DNA bands C and G		D	DNA bands D and H
+B	
+---------------------------------------------------
+
+[10267892]
+// Schematic diagram // Basic concepts //
+	The biological father of the child is most likely
+	A	man W.		B	man X.
+	C	man Y.		D	man Z.
+C	
+---------------------------------------------------
+
+[10267915]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows DNA fingerprints produced from four samples. Two of the samples were collected from a crime scene and the other two were from two suspects. 
+
+	
+
+
+Which of the following conclusions can be drawn from the above results?
+A	Only suspect X was present at the crime scene.
+B	Only suspect Y was present at the crime scene.
+C	Both suspects X and Y were present at the crime scene.
+D	Neither suspect X nor Y was present at the crime scene.
+A	
+---------------------------------------------------
+
+[10267918]
+// Cross-topic // Schematic diagram // Applying concepts //
+**	The diagram below shows the DNA fingerprints of Tom and his family members, including his father, mother and younger sister called Jane. 
+	
+
+The positions of the bands in the DNA fingerprints of Tom and Jane are totally different. Which of the following is/are the possible explanation(s)?
+(1)	Tom and Jane were raised in different environments. 
+(2)	A mutation occurred in the gamete-producing cells of the mother after she gave birth to Tom. 
+(3)	Independent assortment occurred during meiotic cell division. 
+A	(1) only				B	(2) only
+C	(3) only				D	(1) and (3) only
+C	
+---------------------------------------------------
+
+
+[10267935]
+// Basic concepts //
+	Which of following statements about vectors used in recombinant DNA technology is/are correct?
+(1)	Vectors are used as carriers to transfer the gene of interest into host cells.
+(2)	Vectors are proteins.
+(3)	Plasmids are commonly used vectors.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10267950]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the DNA fingerprints of a mother, her two children and three men.
+	
+
+From the DNA fingerprints shown above, which of the men is/are the possible biological father(s) of the two children?
+A	man X only
+B	man Y only
+C	man Z only
+D	men X and Z only
+C	
+---------------------------------------------------
+
+
+[10267969]
+// Cross-topic // Applying concepts //
+*	In an experiment, a scientist successfully introduced a human gene responsible for the production of a protein into the cells of a tobacco plant. The plants grown from these cells can produce the human protein. The experiment shows that
+(1)	the number of chromosomes in the cells of tobacco plants is the same as that in the cells of humans.
+(2)	the genetic code is universal.
+(3)	some nucleotides in DNA is different from those in mRNA.
+A	(1) only
+B	(2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10267975]
+// Applying concepts //
+*	Which of the following statements about gel electrophoresis is/are correct?
+(1)	An electric field is used to drive the DNA fragments across a gel slab. 
+(2)	DNA fragments are separated into bands according to their shape.
+(3)	DNA fragments move from the positive terminal towards the negative terminal.
+A	(1) only					B	(3) only
+C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10267982]
+// Basic concepts //
+	The technique that a fragment of DNA from a donor cell or organism is isolated and inserted into the DNA of another cell or organism is called
+A	DNA modification.
+B	recombinant DNA technology.
+C	DNA engineering.
+D	DNA combination.
+B	
+---------------------------------------------------
+[10267986]
+// Basic concepts //
+	The following are some major steps in recombinant DNA technology. 
+(1)	Cut the DNA fragment containing the gene of interest and the plasmid with a specific enzyme.
+(2)	Join the DNA fragment containing the gene of interest and the plasmid together.
+(3)	Obtain a DNA fragment containing the gene of interest.
+
+Which of the following is the correct order of the steps?
+A	(1) → (2) → (3)			B	(2) → (1) → (3)
+C	(3) → (1) → (2)			D	(3) → (2) → (1)
+C	
+---------------------------------------------------
+
+[10267987]
+// Basic concepts //
+	Which of the following is not the application of recombinant DNA technology?
+A	To produce crops and animals with desirable characters by selecting the best varieties of organisms to breed.
+B	To treat diseases by gene therapy.
+C	To produce genetically modified bacteria that can help clean up oil spills.
+D	To produce human insulin using genetically modified bacteria.
+A	
+---------------------------------------------------
+
+[10267990]
+// Basic concepts //
+	The following are some steps in DNA fingerprinting.
+(1)	Cut the DNA into fragments.
+(2)	Stain the bands for visualization.
+(3)	Extract DNA from cells.
+(4)	Separate the DNA fragments by gel electrophoresis.
+
+Which of the following is the correct order of the steps?
+A	(1) → (2) → (4) → (3)			B	(2) → (3) → (1) → (4)
+C	(3) → (1) → (4) → (2)			D	(4) → (2) → (3) → (1)
+C	
+---------------------------------------------------
+[10268013]
+// Applying concepts //
+*	Which of the following can show that a human gene is able to express properly in a bacterium?
+A	The bacterium uses DNA as genetic material.
+B	mRNA is found in the bacterium.
+C	The amino acids making up human insulin are found in the bacterium.
+D	Human insulin is produced by the bacterium after a human insulin gene is introduced into it.
+D	
+---------------------------------------------------
+
+[10268027]
+// Basic concepts //
+	Which of the following statements about a genetically modified animal must be correct?
+A	It provides a gene that is inserted into a cell of another organism in recombinant DNA technology. 
+B	Its genetic make-up is changed by direct manipulation of DNA.
+C	It can produce a human protein.
+D	It is larger and grows faster than other animals.
+B	
+---------------------------------------------------
+
+[10268040]
+// Basic concepts //
+	Which of the following is not the benefit of the Human Genome Project?
+A	It can help find out the functions of specific genes.
+B	It can help build up the phylogenetic relationships between humans and other organisms.
+C	It can help improve the relationship between humans.
+D	It can help develop new diagnostic tests and treatment methods.
+C	
+---------------------------------------------------
+
+
+[10268069]
+// Basic concepts //
+	Which of the following are the advantages of applying recombinant DNA technology in agriculture and food production?
+(1)	increasing the yield
+(2)	reducing the cost
+(3)	increasing the nutritional value of the food
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10268072]
+// Schematic diagram // Applying concepts //
+**	A DNA sample from a person is used to produce a DNA fingerprint. The diagram below shows the DNA bands produced in the gel slab.
+
+	
+
+Which of the following statements is/are correct?
+(1)	DNA moves from left to right under an electric field.
+(2)	X is placed near the positive terminal of the power supply.
+(3)	Each DNA band contains a chromosome.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (3) only
+B	
+---------------------------------------------------
+
+
+[10268082]
+// Basic concepts //
+	Which of the following are the goals of the Human Genome Project?
+(1)	To sequence human DNA.
+(2)	To modify human genes.
+(3)	To map human genes.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10268115]
+// Basic concepts //
+	Directions: The following three questions refer to the major steps for introducing a gene of interest into a bacterium.
+(1)	Introduce the plasmid into a host cell.
+(2)	Obtain a plasmid from a bacterium. 
+(3)	Obtain a DNA fragment containing the gene of interest from a donor cell.
+(4)	Insert the DNA fragment containing the gene of interest into a plasmid.
+
+Which of the following is the correct order of the steps?
+A	(1) → (2) → (3) → (4)
+B	(2) → (3) → (4) → (1)
+C	(3) → (4) → (1) → (2)
+D	(4) → (1) → (3) → (2)
+B	
+---------------------------------------------------
+
+[10268122]
+// Basic concepts //
+	Enzyme X can cut DNA at specific sites, producing small fragments. Which of the following steps involves the use of enzyme X?
+A	(1) only			B	(2) only
+C	(4) only			D	none of the above
+C	
+---------------------------------------------------
+[10268126]
+// Basic concepts //
+	Enzyme Y can join DNA fragments together. Which of the following steps involves the use of enzyme Y?
+A	(1) only
+B	(2) only
+C	(3) only
+D	(4) only
+D	
+---------------------------------------------------
+
+[10268127]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a recombinant plasmid produced using recombinant DNA technology.
+	
+Which of the following cells is the best donor cell from which the human insulin gene can be obtained?
+A	E. coli						B	pig pancreatic cell
+C	human red blood cell			D	human pancreatic cell
+D	
+---------------------------------------------------
+
+[10268171]
+// Schematic diagram // Applying concepts //
+*	Which of the following should be done if we want to produce human insulin?
+A	Introduce the recombinant plasmid into a bacterial cell.
+B	Obtain the human insulin gene by cutting the recombinant plasmid using a restriction enzyme.
+C	Inject the recombinant plasmid into a human.
+D	Find out the base sequence of the human insulin gene.
+A	
+---------------------------------------------------
+
+[10268172]
+// Applying concepts //
+*	Which of the following statements about the process of gel electrophoresis is incorrect?
+A	Shorter DNA fragments move faster than the longer ones. 
+B	DNA fragments move under an electric field because they are positively charged.
+C	DNA fragments are separated according to their size.
+D	Staining is needed to see the DNA bands.
+B	
+---------------------------------------------------
+
+[10268178]
+// Basic concepts //
+	The photograph below shows some tomatoes. 
+
+	
+
+Which of the following are the possible modifications that can be made in tomato plants using recombinant DNA technology?
+(1)	More nutrients can be added to the tomatoes.
+(2)	The shelf life of tomatoes can be extended.
+(3)	The tomato plants can become pest-resistant. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+[10268182]
+// Basic concepts //
+	Which of the following are the benefits of the Human Genome Project?
+(1)	It helps scientists understand how genes control biological processes.
+(2)	It helps develop new treatment methods for diseases.
+(3)	It can overcome all problems created by genetic engineering.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10268186]
+// Basic concepts //
+	Genetic engineering
+(1)	involves the manipulation of DNA.
+(2)	changes the genetic make-up of an organism.
+(3)	can be done using recombinant DNA technology.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+
+Short questions
+
+[10268271]
+// Reading comprehension // Applying concepts //
+*	Read the following paragraph and answer the questions.
+Chymosin is an enzyme used in the production of cheese. Traditionally, farmers kill the calves and obtain chymosin from the calf stomachs. Nowadays, chymosin can be made by genetically modified (GM) yeast produced using recombinant DNA technology. The GM yeast containing the gene for chymosin synthesize chymosin and release it into the culture solution. Chymosin is then separated from the yeast and purified for the production of cheese.	
+
+a	Describe how GM yeast containing the gene for chymosin can be produced using recombinant DNA technology.						(4 marks)
+b	Give two advantages of using recombinant DNA technology to produce chymosin over the traditional method.						(2 marks)
+c	Explain why cheese produced using chymosin made by GM yeast may be acceptable to people who are against GM foods.				(1 mark)
+
+-- answer --
+a	The DNA fragments containing the gene for chymosin are obtained from a donor cell.														1m
+The DNA fragments and the plasmids from yeast cells are cut using the same restriction enzyme.											1m
+The DNA fragments and the plasmids are joined together using a DNA ligase.
+														1m
+The recombinant plasmids are introduced into yeast cells.				1m
+b	The production yield of chymosin is much higher.					1m
+Calves are not needed to be killed for chymosin.						1m
+(or other reasonable answers)
+c	The cheese does not contain any GM yeast.						1m	
+---------------------------------------------------
+
+[10268273]
+// Cross-topic // High order thinking // Critical thinking // Schematic diagram //
+**	To determine the biological father of a boy, blood samples from the boy, the boy's mother and two men who claimed to be the boy's father were collected and analysed. The blood groups of them were determined and DNA fingerprints were obtained. The table below shows their blood groups.
+	Boy	Mother	Man X	Man Y	
+Blood group	O	A	O	B	
+
+	The diagram below shows their DNA fingerprints. The bands are numbered for easy reference.
+	
+
+a	Based on the blood groups of the four people, can you tell which man is more likely to be the biological father of the boy? Explain briefly. (Given that the alleles for the antigens that determine blood groups are IA, IB and i.)													(3 marks)
+b	With reference to the DNA fingerprints, can you tell which man is more likely to be the biological father of the boy? Explain briefly.	(2 marks)
+c	Based on your answers in a and b, state which of the two methods, matching blood types or DNA fingerprinting, is more useful in a parentage test.													(1 mark)
+
+-- answer --
+a	No. The boy is of blood group O. He must have received one allele i from each parent. Therefore, his father must possess at least one allele i.			1m
+Man X is of blood group O. His genotype is ii. Man Y is of blood group B. One of the possible genotypes is IBi.									1m
+The allele i of the boy may have received from either man. Therefore, both men are likely to be the biological father of the boy.						1m
+b	Yes. Half of the DNA bands of the boy are common to those of his mother (i.e. bands 9, 12, 14 and 15) and the other half are common to those of man Y (i.e. bands 26, 28, 29 and 30).										1m
+Therefore, man Y is more likely to be the biological father of the boy.		1m
+c	DNA fingerprinting											1m	
+---------------------------------------------------
+
+[10268283]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some stages in the production of human insulin using recombinant DNA technology. The insulin can be used in controlling the blood glucose levels of some diabetics.
+	
+
+	a	Use the diagram to help explain the function of the plasmid in the above production process.									(1 mark)
+b	Why can bacterium Y produce human insulin but bacterium X cannot?														(1 mark)
+c	In the past, insulin for diabetics was usually extracted from the pancreas of cattle or sheep. Give two advantages of using human insulin produced by recombinant DNA technology over using insulin from animals.	(2 marks)
+d	Besides the production of pharmaceutical products, give one other application of recombinant DNA technology. 				(1 mark)
+
+
+-- answer --
+a	The plasmid acts as a vector to transfer the human insulin gene into the bacterial host cell for expression.									1m
+b	Bacterium Y contains the human insulin gene but bacterium X does not.																1m
+c	A larger amount of insulin can be produced. /
+	Insulin can be produced in a shorter time. /
+	The extraction cost is lower. /
+	The insulin produced is pure and will not cause infections. /
+	The insulin produced is structurally the same as that secreted by the human body and it will not cause rejection by the body's immune system. (any 2)	1m × 2
+d	For gene therapy. /
+	To increase the productivity / nutritional value of crops and farm animals. /
+	To produce genetically modified (GM) bacteria that can produce enzymes used in industrial processes. /
+	To produce GM bacteria that can break down a wider range of hydrocarbons in oil spills. (or other correct answers)								1m	
+---------------------------------------------------
+
+
+[10268285]
+// Cross-topic // High order thinking // Schematic diagram //
+**	Whether a person has a certain disease is controlled by a gene with alleles G and g. G is the normal allele and g is the allele for the disease. In a part of allele G measuring 600 bp, an enzyme cuts at a specific site as shown in the following diagram. In the same part of allele g, there is a mutation which prevents a cut by the same enzyme.
+	
+In a genetic test, DNA samples were obtained from a family of two parents and four children. Copies of the part of the gene were made and then treated with the enzyme. The DNA fragments produced were separated by gel electrophoresis. The diagram below shows the results.
+
+a	State the genotypes of individuals 1, 3 and 4.				(3 marks)
+b	Which individuals in this family have the disease?			(1 mark)
+c	Identify the parents in this family.							(2 marks)
+
+
+-- answer --
+	a	Individual 1: gg											1m
+		Individual 3: GG											1m
+		Individual 4: Gg											1m
+	b	Individuals 1 and 6										1m
+	c	Individuals 2 and 4										1m × 2	
+---------------------------------------------------
+
+[10268286]
+// Graph interpretation // High order thinking //
+**	DNA fragments of known sizes in a DNA sample were separated on two gel slabs by gel electrophoresis. The gel slabs were prepared from agarose solutions of different concentrations.
+	
+a	Why is 'bp' a suitable unit for measuring the size of DNA fragments?																(1 mark)
+b	Which gel slab was prepared from a more concentrated agarose solution? Why?												(2 marks)
+c	State and explain which gel slab is more suitable for separating DNA fragments of 800 bp and 1200 bp.							(2 marks)
+
+-- answer --
+	a	The distance between two base pairs is constant.					1m
+	b	Gel slab N													1m
+DNA fragments of the same size travelled a shorter distance on gel slab N as a more concentrated agarose solution gave a gel slab with smaller pores.	1m
+	c	Gel slab M													1m
+There would be a greater distance between the DNA bands to allow easier observation.												1m	
+---------------------------------------------------
+
+[10268299]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a step in recombinant DNA technology.
+
+	
+
+a	The cut ends of X and Y have specific shapes. Describe how to ensure the cut ends of X and Y match.								(1 mark)
+b	Name one substance that is necessary for joining X and Y to produce Z.														(1 mark)
+c	Recombinant DNA technology can be used in gene therapy. Describe the role of Z in gene therapy.								(2 marks)
+
+
+-- answer --
+	a	Cut X and Y using the same restriction enzyme.						1m
+	b	DNA ligase												1m
+	c	Z carries a normal gene into the patient's cells.						1m
+The normal gene expresses inside the cells, compensating for the function of the defective gene.												1m	
+---------------------------------------------------
+
+
+[10268321]
+// Reading comprehension // Basic concepts //
+*	Read the paragraph below and answer the questions.
+
+Some diabetics need injections of insulin to control their blood glucose level. 
+In the past, insulin for injection was usually extracted from the pancreas of cattle or sheep. Only small amounts of insulin could be obtained from each extraction. Today, human insulin can be produced using recombinant DNA technology. Using this technology, a larger amount of insulin can be produced in a shorter time. Also, the insulin will not cause rejection by the patient's immune system.	
+
+a	What kind of cells are used as the host cells in the production of insulin using recombinant DNA technology? 							(1 mark)
+b	Explain why a larger amount of insulin can be produced in a shorter time using recombinant DNA technology. 						(3 marks)
+c	Explain why the insulin produced using recombinant DNA technology will not cause rejection by the patient's immune system.			(1 mark)
+
+
+-- answer --
+	a	Bacterial cells												1m
+	b	The gene of interest can increase in number quickly					1m
+		as the host cell divides 										1m
+		and the recombinant plasmid replicates itself under optimum conditions. 	1m
+	c	The insulin produced is structurally the same as that secreted by the human body.																1m	
+---------------------------------------------------
+
+
+[10268335]
+// Schematic diagram // Basic concepts //
+	James is the only son of Mr and Mrs Chan. Unluckily, James was reported missing in a disaster. Ten years later, three young men claimed to be James. DNA fingerprinting was carried out to confirm if any of the three men was really James. The diagram below shows the DNA fingerprints of Mr and Mrs Chan and the three men (X, Y and Z).
+
+	
+
+a	Which man (X, Y or Z) is most likely to be James? Explain your answer.														(2 marks)
+b	Explain the biological basis of using DNA fingerprinting in parentage tests. 													(2 marks)
+
+
+-- answer --
+	a	Y														1m
+		The bands of Y are either common to those of Mr Chan or those of Mrs Chan. 																	1m
+	b	Half of the genetic material of an individual comes from the father		1m
+		and the other half from the mother.								1m	
+---------------------------------------------------
+
+
+[10268354]
+// Reading comprehension // STSE connections //
+*	Read the paragraph below and answer the questions.
+
+The Human Genome Project involved scientists from more than 18 countries. It was started in 1990 and was completed in 2003. The base sequences of all human chromosomes were identified. The data obtained has a number of potential benefits as well as limitations. The Human Genome Project has also raised ethical and social concerns.	
+
+a	What is the human genome?								(1 mark)
+b	The data from the Human Genome Project allows scientists to identify people who have a higher risk of diabetes.
+i	Suggest two benefits of identifying people who have a higher risk of diabetes.											(2 marks)
+ii	Suggest two ethical and social concerns of identifying people who have a higher risk of diabetes.								(2 marks)
+	c	State one limitation of the Human Genome Project. 			(1 mark)
+
+
+-- answer --
+	a	It refers to the complete set of DNA of human, including all the genes.	1m
+	b	i	This allows people at risk to take precautions (e.g. change their lifestyle). / 
+			This allows doctors to plan treatments for people at risk when they develop 				symptoms of diabetes. / This can warn people at risk that their children may 			also have a high risk of diabetes. (any two or other reasonable answers)																1m × 2
+		ii	This may cause anxiety to the people at risk.
+			This may cause employment discrimination.
+			(or other reasonable answers)							1m × 2
+	c	The functions of many genes are still unknown although the base sequences and 		locations of the genes have been found. /The data obtained is still not enough to 			understand some biological processes. 						1m	
+---------------------------------------------------
+
+
+[10268371]
+// Basic concepts //
+	The Human Genome Project (HGP) was a research project started in 1990. Its goals included DNA sequencing and mapping.
+a	Explain the following terms.
+i	Human genome									(1 mark)
+ii	DNA sequencing									(1 mark)
+iii	Mapping											(1 mark)
+b	State three issues arising from the HGP. 					(3 marks)
+
+-- answer --
+a	i	Human genome refers to the complete set of DNA of humans.	1m
+ii	DNA sequencing means determining the base sequence of DNA.	1m
+iii	Mapping means locating the genes in the genome.			1m
+b	Who is the owner of personal genetic information? /
+Who can gain access to personal genetic information? /
+Would the diagnosis of an incurable disease cause anxiety to a patient? /
+How does personal genetic information affect the public perception of an individual? 
+(any 3 or other reasonable answers)							1m x 3	
+---------------------------------------------------
+
+[10268385]
+// Basic concepts //
+	The flow chart below shows the major steps in the production of an antibody using genetic engineering. Complete the flow chart with suitable words.																(4 marks)
+	
+
+-- answer --
+a	gene														1m
+b	restriction enzyme											1m
+c	DNA ligase												1m
+d	expressed													1m	
+---------------------------------------------------
+
+[10268393]
+// Reading comprehension // STSE connections // Applying concepts //
+*	Read the following paragraph and answer the questions.
+	Traditionally, fish farmers produce fish with desirable characters by selecting the best varieties of fish to breed. In an experiment, a research team produced genetically modified fish which can grow faster using recombinant DNA technology. Some people are concerned about this kind of experiments. They worry that genetically modified organisms may escape into the wild and lead to serious ecological consequences.	
+a	Suggest three advantages of using recombinant DNA technology over the traditional method to produce animals with desirable characters.																(3 marks)
+b	Suggest two ecological consequences if genetically modified organisms escape into the wild.									(2 marks)
+-- answer --
+a	Using recombinant DNA technology to produce animals with desirable characters is quicker.													1m
+The results are more predictable. / The characters of animals can be modified more precisely. 											1m
+It can be used even in non-related species. / Desirable characters from other species can be introduced to animals.								1m
+b	The genetically modified organisms may transfer their genes to the wild types / cause genetic pollution. These genes may have unexpected and dangerous effects.													1m
+The genetically modified organisms may out-compete the wild types. This would reduce biodiversity and upset the ecological balance. 					1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10268396]
+// Basic concepts //
+	Two major tasks in the Human Genome Project are DNA sequencing and mapping. Distinguish between these two tasks.					(4 marks)
+-- answer --
+DNA sequencing is to determine the base sequence that makes up the human genome.  				 											2m
+Mapping is to locate all the genes in the human genome.					2m	
+---------------------------------------------------
+
+[10268403]
+// Schematic diagram // Applying concepts //
+*	DNA fingerprints can be used to provide evidence in court cases. A DNA analyst used a blood sample found at the crime scene and blood samples of the victim and three suspects to produce DNA fingerprints. The results are shown below.
+	
+a	Describe how the DNA analyst can keep a record of the results.	(1 mark)
+b	Explain why the DNA of the victim has to be included in the analysis.														(2 marks)
+c	Which suspect is most likely to have committed the crime? Explain briefly.													(2 marks)
+
+-- answer --
+a	The pattern of bands can be copied to a photographic film.				1m
+b	It is to compare with the blood sample found at the crime scene.			1m
+The bands that appear in the DNA fingerprint produced using the blood sample found at the crime scene but do not appear in the DNA fingerprint of the victim are likely to be from the person who has committed the crime. 				1m
+c	Suspect Y													1m
+All of the bands in his DNA fingerprint are common to those in the DNA fingerprint produced using the blood sample found at the crime scene.				1m	
+--------------------------------------------------- [10268406]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a bacterium with several pieces of circular DNA in addition to the bacterial chromosome.
+	
+
+a	Name the circular DNA.									(1 mark)
+b	Human proteins can be produced in bacteria using recombinant DNA technology. Describe the role of the circular DNA in the process. 															(3 marks)
+c	Explain why human proteins can be produced in bacteria with the circular DNA introduced.										(2 marks)
+
+-- answer --
+a	Plasmid				 									1m
+b	The plasmid acts as a vector.									1m
+It carries the genes coding for human proteins						1m
+and transfers them into bacteria.									1m
+c	The genes in the plasmids are expressed in bacteria. 					1m
+The human proteins are produced by the process of protein synthesis using the machinery of the bacteria.										1m	
+---------------------------------------------------
+
+[10268409]
+// Reading comprehension // Communication // STSE connections //
+*	Read the following paragraph and answer the questions.
+	Genetic engineering is the changing of the genetic make-up of an organism by direct manipulation of DNA. The farmland for growing genetically engineered crops around the world has increased from about 4.3 million acres in 1996 when they were first commercially grown to about 448 million acres in 2014.	
+
+List the advantages of growing genetically engineered crops, in terms of quality of crops, crop yield, pest control and environmental conservation.	(4 marks)
+-- answer --
+The crops may have more nutrients. / The flavour and texture of the crops can be improved. / The crops may have a longer shelf life.						1m
+The crop yield can be increased as the crops may grow faster. 				1m
+Resistance of the crops to pests / herbicides can be increased. 				1m
+The use of fertilizers and pesticides can be reduced, thus causing less pollution. 	1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10268417]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows some DNA fingerprints. One of them is produced using a blood sample found at the crime scene. The other two are produced using blood samples from two suspects.
+	
+
+a	According to the DNA fingerprints, which suspect is more likely to have committed the crime? Explain briefly.						(2 marks)
+b	State two advantages of using DNA fingerprints as evidence in legal cases.														(2 marks) 
+
+-- answer -
+a	Suspect P												1m
+because all the bands in suspect P's DNA fingerprint are common to those in the DNA fingerprint produced using the blood sample found at the crime scene.															1m
+b	DNA fingerprint is unique to each individual. / DNA fingerprint of an individual does not change over time / is not affected by the environment. /
+DNA fingerprinting is an accurate method for identifying an individual. / 
+Only a small amount of DNA is needed. (any 2)					1m x 2	
+---------------------------------------------------
+
+[10268419]
+// Schematic diagram // Applying concepts //
+*	DNA fingerprints can be used to provide evidence in court cases. The diagram below shows four DNA fingerprints. One of them is produced using a blood sample found at the crime scene and the other three are produced using blood samples from three suspects.
+	
+a	i	Name the technique that is used to separate DNA fragments in DNA fingerprinting.										(1 mark)
+ii	Describe the principle of this technique.					(3 marks)
+b	Which suspect is most likely to be the criminal?				(1 mark)
+c	State one other application of DNA fingerprinting. 			(1 mark)
+-- answer --
+a	i	Gel electrophoresis										1m
+ii	DNA fragments are negatively charged due to the phosphate groups present.													1m
+Under an electric field, they move towards the positive terminal.		1m
+The pores in the gel slab allow shorter DNA fragments to move faster than the longer ones.											1m
+b	Suspect Y													1m
+c	To establish family relationships in parentage tests. / 
+To identify victims in disasters. /
+To authenticate Chinese medicines. /
+To trace the origin of ivory products. 
+(or other reasonable answers)									1m	
+---------------------------------------------------
+
+[10268430]
+// Basic concepts //
+	Complete the following paragraph with suitable words.			(4 marks)
+A a                      refers to the complete set of DNA of an organism. The Human Genome Project was a research project which aimed at determining all the b                     in the human DNA, c                     all the genes in the human genome, developing related new technologies and addressing the d                     , legal and social issues that may arise from the project.
+
+-- answer --
+a	genome													1m
+b	base sequence												1m
+c	locating / mapping											1m
+d	ethical													1m	
+---------------------------------------------------
+
+[10268438]
+// Reading comprehension // Applying concepts //
+	Read the following paragraph and answer the questions.
+	Bacillus thuringiensis is a bacterium in soil. It can produce a pest-killing protein. In 1996, genetically modified crops with pest resistance became available. The gene for the pest-killing protein was obtained from the bacterium and inserted into the DNA of the crops. When pests eat the leaves of these genetically modified crops (called Bt crops), the pests will die within a few days.	
+
+a	Name the technology used to produce Bt crops.				(1 mark)
+b	What desirable character is introduced into Bt crops?			(1 mark)
+c	Name two enzymes that are usually used to introduce the gene of interest into the DNA of the crops.								(2 marks)
+d	List one possible benefit of Bt crops to the farmers and one possible benefit of Bt crops to the environment.							(2 marks)
+
+
+-- answer --
+a	Recombinant DNA technology									1m
+b	Pest resistance												1m
+c	Restriction enzymes											1m
+DNA ligase												1m
+d	The farmers can use less pesticides, thus the cost is lowered. / Fewer crops are eaten by the pests, thus more crops are available for sale.				1m
+As pesticides cause pollution when they are washed into rivers, using less pesticides means causing less pollution.							1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10268555]
+// Cross-topic // Graph interpretation // High order thinking //
+**	A gene (Sub1A) on chromosome 9 of rice plants was found to be involved in tolerance of submergence. Submergence is a condition in which the rice plants are completely covered with water. The diagram below shows the alleles of the gene in a submergence-tolerant rice plant and a submergence-intolerant rice plant.
+
+	
+
+	The allele Sub1A-1 codes for a protein that induces the expression of the gene for an enzyme called alcohol dehydrogenase. Alcohol dehydrogenase catalyses the breakdown of alcohol.
+a	i	What is meant by an allele?							(1 mark)
+	ii	Sub1A-1 is activated when the plant is submerged. Explain the 	importance of producing alcohol dehydrogenase in submerged 	conditions.										(3 marks)
+	Scientists introduced Sub1A-1 allele into a submergence-intolerant rice plant using recombinant DNA technology to produce a genetically-modified (GM) rice plant which has a high tolerance to submergence.
+b	Rice plants having a high tolerance to submergence can also be produced by selecting certain rice plants to breed. Give one advantage of using recombinant DNA technology to produce a plant having a high tolerance to submergence over this method.							(1 mark)
+
+c	A submergence-intolerant rice plant grows more rapidly in response to submergence. In an investigation, the heights of the GM rice plant (X) and a submergence-intolerant rice plant (Y) before and after submergence in water for 11 days were measured. The graph below shows the results.
+
+	
+
+	i	Compare the effect of submergence on X and Y.			(1 mark)
+	ii	With reference to the results of this investigation, explain how 	introducing Sub1A-1 allele to a submergence-intolerant rice plant 	increases its chance of survival in submerged conditions.	(2 marks)
+
+
+
+-- answer --
+a	i	An allele is one of the alternative forms of a gene.				1m
+ii	When the plant is submerged, oxygen supply to the plant is inadequate.
+													1m
+	The plant switches to anaerobic respiration. Alcohol is produced which is toxic to the plant.										1m
+	Alcohol dehydrogenase catalyses the breakdown of alcohol. It helps remove alcohol in the plant.										1m
+b	The plant can be produced more quickly.							1m
+c	i	X grew less rapidly than Y.									1m
+ii	As the plant with the allele grows less rapidly in submerged conditions, less 	energy is needed.										1m
+	The rate of respiration is lower. Less alcohol is accumulated in the plant. 	Thus, the chance of survival of the plant increases.				1m	
+---------------------------------------------------
+
+
+[10268571]
+// Cross-topic // Scientific investigation // Graph interpretation // Calculation //
+**	One of the goals in the Human Genome Project was to determine the base sequence in the human genome. Several volunteers were recruited to provide DNA samples for sequencing and their identities were kept secret.
+a	What is a genome?										(1 mark)
+	b	State one other goal in the Human Genome Project.			(1 mark)
+	c	Why did the identities of volunteers have to be kept secret?		(1 mark)
+
+At the same position along a chromosome of the volunteers, the following two different base sequences of a part of a gene were found.
+Sequence I:	GCCTTATTCCCGCTGCAT
+Sequence II:	GCCTTATTCCCGCGGCAT
+	d	Describe how sequence I is different from sequence II.		(1 mark)
+
+Scientists further investigated the presence of the two base sequences in two groups of people. One group consisted of 500 healthy people and the other group consisted of 500 people who had the same genetic disease. The graph below shows the number of people in each group possessing either sequence I or sequence II.
+
+	
+	e	Calculate the percentage of people possessing sequence II in each group.																(2 marks)
+	f	How do the results suggest that sequence II is one of the causes of the 
+		genetic disease?										(1 mark)
+	g	Give one advantage and one disadvantage of parents knowing that their 
+		unborn baby has sequence II in its DNA.					(2 marks)
+
+-- answer --
+a	A genome is the complete set of DNA of an organism.					1m
+b	To locate / map all the genes in the human genome. /
+	To store the information in a database which is open to the public. /
+	To develop related new technologies and improve tools for data analysis. /
+	To address the ethical, legal and social issues that may arise.			1m
+c	So that the DNA sequence obtained could not be related to a particular person. /To protect the privacy of the volunteers. 
+	(or other reasonable answers)									1m
+d	A base T (thymine) in sequence I is substituted with a base G (guanine) in sequence II.												1m
+e	Percentage of healthy people possessing sequence II: 12%				1m
+	Percentage of people with the genetic disease possessing sequence II: 32%																	1m
+f	More people possessing sequence II also had the genetic disease.		1m
+g	Advantage:
+	The parents can make care plans for the baby. /
+	The parents may be able to reduce the risk of developing the genetic disease in the baby by helping it to adopt a healthy lifestyle. /
+	The parents can avoid future pregnancy.
+	(or other reasonable answers)									1m
+
+	Disadvantage:
+	The information may cause distress to the parents. /
+	Insurance companies may not provide insurance for the baby.
+	(or other reasonable answers)									1m	
+---------------------------------------------------
+
+
+[10268654]
+// Communication // Schematic diagram // Applying concepts //
+*	The diagram below shows some DNA fingerprints.
+	
+a	Explain why each band in the DNA fingerprints consists of DNA fragments of the same size.										(4 marks)
+b	DNA fingerprinting is used in forensic science. Give two kinds of samples that can be collected from the crime scene for DNA fingerprinting. Explain your answer.											(3 marks)
+c	A body is found in a murder scene. Describe how DNA fingerprinting can be used to find out the identity of the body.					(4 marks)
+-- answer --
+a	DNA fragments are negatively charged due to the phosphate groups present.														1m
+They move towards the positive terminal under an electric field. 		1m
+The pores in the gel slab allow shorter DNA fragments to move faster than the longer ones.											1m
+DNA fragments of the same size move at the same speed and thus stop in the same location.											1m
+b	Blood / semen / hairs (any 2)								1m x 2
+Nucleated cells which contain DNA may be present in these samples.	1m
+c	Extract DNA from the cells of the body.						1m
+Obtain DNA fragments containing different variable regions.			1m
+Separate the DNA fragments according to size using gel electrophoresis.															1m
+Compare the DNA fingerprint obtained with that of the suspected victim and see if they match. 											1m	
+---------------------------------------------------
+[10268681]
+// Reading comprehension // Communication // Schematic diagram // Applying concepts //
+*	Read the following paragraph and answer the questions.
+	A 16-year-old girl was killed 10 years ago. The police collected a blood sample at the murder scene and used it to produce a DNA fingerprint, but no match was found in the database at that time. Later, a man was arrested for a robbery and a DNA sample was taken from him. When a police inspector reopened the murder case and performed DNA matching again, he discovered that the man's DNA fingerprint matches the DNA fingerprint produced from the blood sample collected at the murder scene.	
+
+a	Describe the major steps to produce a DNA fingerprint using the blood sample collected from the murder scene.					(4 marks)
+b	Explain why 'no match was found in the database at that time'.	(1 mark)
+c	The diagram below shows five DNA fingerprints. They are produced using the samples collected from the victim and three suspects, and a blood sample collected at the murder scene.
+	
+Which suspect was most likely at the murder scene? Give one reason.															(2 marks)
+d	State two other applications of DNA fingerprinting.			(2 marks)
+-- answer --
+a	Extract DNA from the blood sample.							1m
+Obtain DNA fragments containing different variable regions.			1m
+Separate the DNA fragments according to size using gel electrophoresis.															1m
+The pattern of bands obtained is a DNA fingerprint. 				1m
+b	The DNA fingerprint of the man was not in the database at that time.	1m
+c	Suspect Y was most likely at the murder scene					1m
+because all the bands in his/her DNA fingerprint are common to those in the DNA fingerprint produced using the blood sample collected at the scene.	1m
+d	To establish family relationships in parentage tests. / 
+To identify victims in disasters. /
+To authenticate Chinese medicines. /
+To trace the origin of ivory products. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10268684]
+// Experiment // Schematic diagram // Applying concepts //
+*	In an experiment, gel electrophoresis was used to separate DNA fragments. The diagram below shows the pattern of bands obtained on the gel slab. Lane 1 was loaded with a DNA marker containing DNA fragments of known size. Lanes 2 and 3 were loaded with two DNA samples.
+
+	
+
+a	What is the aim of this experiment?						(1 mark)
+b	What is the function of the gel slab?						(2 marks)
+c	What is the function of the DNA marker?					(2 marks)
+d	Which side of the gel slab, the upper side or the lower side, was placed near the positive terminal of the power supply? Explain your answer.	(3 marks)
+e	Explain why a fluorescent dye has to be added to the gel slab after gel electrophoresis.										(1 mark)
+f	Which of the bands, X, Y or Z, contains the shortest DNA fragments? Explain your answer.									(2 marks)
+
+-- answer --
+a	To find out the size of the DNA fragments in the two DNA samples.		1m
+b	It provides a medium in which DNA fragments can be separated.			1m
+There are many pores in the gel slab which allows shorter DNA fragments to move faster than the longer ones. 									1m
+c	It can be used to determine the size of the DNA fragments in the samples.	1m
+The size of the DNA fragments can be estimated by comparing the positions of the bands of the samples with the bands of the DNA marker.				1m
+d	The lower side was placed near the positive terminal of the power supply.	1m
+DNA fragments are negatively charged. They move towards the positive terminal under an electric field.										1m
+From the diagram, the DNA fragments moved from the upper side to the lower side, indicating that the lower side was placed near the positive terminal.	1m
+e	The fluorescent dye allows the bands to be seen under ultraviolet light.	1m
+f	Z
+Z is furthest away from the well, 								1m 
+indicating that DNA fragments it contains moved the fastest under the electric field, and thus are the shortest.										1m	
+---------------------------------------------------
+
+
+[10268685]
+// Communication // Applying concepts //
+*	Scientists are now using recombinant DNA technology to produce genetically modified organisms (GMOs). 
+a	GMOs are widely used in agriculture for food production. State two possible advantages of using GMOs in agriculture.			(2 marks)
+b	GM bacteria carrying a human growth hormone gene can be used to produce human growth hormone.
+i	Describe how GM bacteria carrying a human growth hormone gene can be produced using plasmids as vectors. 				(4 marks)
+ii	Describe how human growth hormone can be produced using the GM bacteria. 											(1 mark)
+c	State one other use of GMOs.								(1 mark)
+-- answer --
+a	The yield may be increased as the GMOs may grow faster. /
+The GMOs may grow in undesirable environments / may be more tolerant to drought / cold / salinity. /
+The GMOs may be resistant to pests / diseases / herbicides. /
+The food produced from GMOs may have a longer shelf life. /
+The food produced from GMOs may contain more nutrients. /
+It may be cheaper to grow GMOs. 
+(any 2 or other reasonable answers)							1m x 2
+b	i	DNA fragments containing the human growth hormone gene are obtained from donor cells.									1m
+The DNA fragments and plasmids are cut using the same restriction enzyme. 												1m
+They are then joined using a DNA ligase. 					1m
+The recombinant plasmids formed are introduced into bacteria to produce GM bacteria.										1m
+ii	The human growth hormone gene is expressed in the bacteria and human growth hormone is produced using the machinery of the bacteria. 														1m
+c	GMOs can be used to produce human insulin / vaccines / enzymes used in industrial processes / break down hydrocarbons in oil spills.
+(or other reasonable answers)								1m	
+---------------------------------------------------
+
+
+[10268699]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows how human insulin is produced using recombinant DNA technology.
+	
+
+a	Explain the term recombinant DNA technology.				(1 mark)
+b	What is a recombinant plasmid?							(1 mark)
+c	State two enzymes that are required in the production of the recombinant plasmid. Give the function of each enzyme.					(4 marks)
+d	What is the medical use of human insulin?					(1 mark)
+e	State two advantages of producing human insulin using recombinant technology over the traditional method of extracting insulin from the pancreases of cattle.									(2 marks)
+
+-- answer --
+a	Recombinant DNA technology is a technique in which a fragment of DNA from a donor cell or organism is isolated and inserted into the DNA of another cell or organism.												1m
+b	A recombinant plasmid is a plasmid formed after a segment of DNA from a donor cell or organism is inserted into a plasmid. 						1m
+c	Restriction enzyme and DNA ligase							1m x 2
+Restriction enzyme is used to cut the DNA encoding human insulin and cut open the plasmid.											1m
+DNA ligase is used to catalyse the joining of the DNA encoding human insulin and the plasmid. 										 	1m
+d	It is injected into the body of some diabetics to control the blood glucose level.														1m
+e	The insulin produced is structurally the same as the insulin produced by human body. / It is not rejected by the immune system. /
+The insulin produced is pure. / It is safer as the insulin extracted from cattle may be contaminated and may contain impurities. /
+The product yield is much higher. / It can be produced in larger quantity in a shorter time. /
+The extraction cost is lower. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10268701]
+// Reading comprehension // Applying concepts //
+*	Read the following paragraph and answer the questions.
+Traditionally, vaccines have been prepared either by killing a specific pathogen or by making it unable to grow. Today, vaccines can be produced using recombinant DNA technology. Genes that code for the surface proteins of the pathogens are introduced into harmless bacteria. The genetically modified bacteria produce the surface proteins, which will become the active ingredient of the vaccines. The vaccines produced using this method are safer than those produced using the traditional method.	
+
+a	Explain why vaccines produced using recombinant DNA technology are  safer than the vaccines produced using the traditional method.	(3 marks)
+b	Draw a flow chart to illustrate how the vaccine against hepatitis B can be produced using recombinant DNA technology.				(6 marks)
+
+
+
+
+-- answer --
+a	Vaccines produced using the traditional method contain whole pathogens. It is possible that these pathogens may become active and infectious. People who have been vaccinated may be infected.							1m
+Vaccines produced using recombinant DNA technology contain only the surface proteins of the pathogens.										1m
+The surface proteins will not cause infection.						1m 
+b	
+															6m	
+---------------------------------------------------
+
+
+[10268707]
+// Reading comprehension // STSE connections // Applying concepts //
+*	Read the following paragraph and answer the questions.
+In a test done by the Consumer Council, 6 out of 10 samples of vegetarian food products were found to contain genetically modified (GM) soya ingredients. The ingredients come from soya beans produced by genetic engineering to make them resistant to a non-selective herbicide. In Hong Kong, food manufacturers are not required to declare GM ingredients in their food products.	
+
+a	i	What are genetically modified organisms?				(1 mark)
+ii	What desirable character has been introduced into soya beans to produce the GM soya beans mentioned in the above paragraph?														(1 mark)
+iii	State two benefits offered by the character in the answer to a ii to the farmers.											(2 marks)
+b	Suggest how the Consumer Council can test whether the food samples contain ingredients from GM soya beans.					(2 marks)
+c	The production of GM food is not fully supported by the public and some people urge the government to implement a compulsory GM food labelling system.
+i	State two criticisms of producing GM food.				(2 marks)
+ii	Give one benefit offered by GM food labelling.			(1 mark)
+
+-- answer --
+a	i	Genetically modified organisms are organisms whose genetic make-up has been changed by genetic engineering.					1m
+ii	Resistance to a non-selective herbicide					1m
+iii	This character allows the farmers to control weeds by applying the non-selective herbicide without killing the soya beans.			1m
+The production cost is lowered. / The yield can be increased.	1m
+b	GM soya beans contain inserted genes.						1m
+The Consumer Council can test the food samples for the presence of the inserted genes.												1m
+
+
+
+
+c	i	The long-term effects of GM food on human health are still unknown. /
+New genes or their products in GM food may cause allergic reactions in some people. /
+GM crops or animals may transfer their genes to the wild types / cause genetic pollution. These genes may have unexpected and dangerous 
+effects. /
+GM crops or animals may out-compete the wild types if they are released into the environment. This would reduce biodiversity and upset the ecological balance.
+(any 2 or other reasonable answers)						1m x 2
+ii	Customers are able to know whether the food contains GM ingredients and make an informed choice. 
+(or other reasonable answers)							1m	
+---------------------------------------------------
+
+[10268711]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows the DNA fingerprints of the members in a family.
+	
+
+a	Explain how the DNA fingerprints show the parent-child relationship in this family.												(2 marks)
+b	By referring to the events that occur during gamete formation, explain why the patterns of bands in the DNA fingerprints of the son and the daughter are different.											(4 marks)
+c	How would the DNA fingerprints of identical twins appear? Explain briefly.													(2 marks)
+
+-- answer --
+a	Half of the bands in the DNA fingerprints of the son and the daughter are common to those of the father,											1m
+and the other half are common to those of the mother.					1m
+b	The patterns of bands are different because genetic variations exist between offspring.													1m
+During meiotic cell division, the homologous chromosomes line up and separate independently / independent assortment of chromosomes occurs.		1m
+The gametes formed have different genetic combinations.				1m
+The gametes fuse randomly during fertilization, therefore each zygote produced has a different genetic combination.								1m
+c	The DNA fingerprints of identical twins would be the same.				1m
+This is because their genetic make-up is identical.					1m	
+---------------------------------------------------
+
+[10268719]
+// Communication // Basic concepts //
+*	a	If the human body fails to produce a certain protein, a disease may result.
+Name one such disease and the protein involved.				(2 marks)
+b	One method to control such diseases is to inject proteins that are extracted from animal tissues. State two disadvantages of injecting proteins extracted from animal tissues.									(2 marks)
+c	Due to advances in biotechnology, human proteins can be produced by genetically modified bacteria which are produced using recombinant DNA technology. A plasmid is commonly used in the process to introduce a fragment of DNA containing the gene of the protein into a bacterium. 
+i	Describe generally how a plasmid is used to introduce a fragment of DNA into a bacterium. 								(4 marks)
+ii	State two advantages of using bacteria to produce human proteins.													(2 marks)
+
+
+
+
+
+
+
+
+-- answer --
+a	Disease: diabetes mellitus / growth hormone deficiency			1m
+Protein: insulin / growth hormone							1m
+(or other correct answers)
+b	The animal proteins are structurally different from the human proteins. They may be rejected by the immune system. 							1m
+Pathogens may be passed from the animal to the patients, causing infections.														1m
+(or other reasonable answers)
+c	i	Cut the fragment of DNA using a restriction enzyme.			1m
+Cut open the plasmid using the same restriction enzyme.		1m
+Join the fragment of DNA and the plasmid together using a DNA ligase. 													1m
+The recombinant plasmid formed is then introduced into a bacterium. 														1m
+ii	The proteins produced are structurally the same as the proteins produced by the human body. / They are not rejected by the immune system. /
+The proteins produced are pure. /
+The product yield is high. / They can be produced in large quantity in a short time. /
+The extraction cost is low. 
+(any 2 or other reasonable answers)						1m x 2	
+---------------------------------------------------
+
+[10268724]
+// STSE connections // Applying concepts //
+*	a	Genetic engineering can be beneficial and harmful to humans. List three benefits and three potential hazards brought about by the use of genetically modified organisms (GMOs) in agriculture.					(6 marks)
+b	Suggest two measures to regulate the development of genetic engineering. 													(2 marks)
+
+
+
+
+
+
+
+-- answer --
+a	Benefits:
+The yield may be increased as the GMOs may grow faster. /
+The GMOs may grow in undesirable environments / may be more tolerant to drought / cold / salinity. /
+The GMOs may be resistant to pests / diseases / herbicides. /
+The food produced from GMOs may have a longer shelf life. /
+The food produced from GMOs may contain more nutrients. /
+It may be cheaper to grow GMOs.	
+(any 3 or other reasonable answers)							1m x 3
+Potential hazards:
+The long-term effects of the food produced from GMOs on human health are still unknown. /
+New genes or their products in food produced from GMOs may cause allergic reactions in some people. /
+GM crops or animals may transfer their genes to the wild types / cause genetic pollution. These genes may have unexpected and dangerous effects. /
+GM crops or animals may out-compete the wild types if they are released into the environment. This would reduce biodiversity and upset the ecological balance. 
+(any 3 or other reasonable answers)							1m x 3
+b	Ban the genetic engineering on humans. /
+Monitor the experiments involving GMOs to avoid the gene in GMOs from spreading into the wild. /
+Legislation to define what is ethical and lawful. 
+(any 2 or other reasonable answers)							1m x 2	
+--------------------------------------------------- 
+
+[10268727]
+// Basic concepts //
+	a	What is genetic engineering?								(2 marks)
+b	Genetically modified organisms (GMOs) can be produced using genetic engineering. 
+i	List four ways in which GMOs can be beneficial to human life.														(4 marks)
+ii	State two potential hazards brought about by genetic engineering.													(2 marks)
+
+-- answer --
+a	Genetic engineering is the changing of the genetic make-up of an organism															1m
+by direct manipulation of DNA.								1m
+b	i	GMOs can be used to produce pharmaceutical products. /
+Growing GM crops and raising GM animals with higher productivity can increase food supply. /
+Some foods produced from GMOs have a higher nutritional value. /
+Growing GM crops and raising GM animals can help reduce pollution caused by agriculture. /
+GMOs can be used to produce enzymes used in industrial processes. /
+GMOs can help clean up oil spills. 
+(any 4 or other reasonable answers)						1m x 4
+ii	Genetic engineering may cause unknown harmful effects on human health. 												1m
+Genetic engineering may disturb ecological balance.			1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+
+Essays
+
+[10268778]
+// Communication // Basic concepts //
+*	Describe the major steps of DNA fingerprinting and discuss the application of DNA fingerprinting in forensic science.							(12 marks)
+
+-- answer --
+DNA fingerprinting is a technique to identify an individual based on a DNA sample.																1m
+It makes use of the difference in the base sequence on the DNA between individuals.																1m
+To produce a DNA fingerprint of an individual, DNA is first extracted from the cells of the individual. 													1m
+DNA fragments containing selected regions (e.g. highly variable regions) are obtained.																1m
+The DNA fragments are separated according to their size using gel electrophoresis.																1m
+The pattern of bands obtained after gel electrophoresis is the DNA fingerprint. It is unique to the individual. 											1m
+DNA fingerprints can provide evidence on the identities of individuals in court cases. 																1m
+The DNA fingerprint produced using the DNA sample collected at the crime scene can be used to compare with that of the suspect. 							1m
+If the band patterns match, the sample collected at the crime scene is likely to have come from the suspect. 											1m 
+Communication													3m	
+---------------------------------------------------
+
+
+[10268786]
+// Communication // STSE connections //
+*	Discuss the ethical, legal and social issues that arise from the Human Genome Project.													(11 marks)
+
+-- answer --
+Ethical issues:
+Would the diagnosis of an incurable disease cause anxiety to a patient? 		2m
+Legal issues:
+Who is the owner of personal genetic information? 						2m Who can gain access to personal genetic information, the insurance company, the employers, the government departments, the schools or the clinics? 			2m
+Social issues:
+How does personal genetic information affect the public perception of an individual? 																2m
+(or other reasonable answers)
+Communication													3m	
+---------------------------------------------------

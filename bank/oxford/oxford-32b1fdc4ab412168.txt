@@ -1,0 +1,2558 @@
+Chapter 19		Ecosystems
+
+Multiple-choice questions
+
+[10239576]
+// Scientific investigation // Graph interpretation // Experiment //
+*	A student carried out an investigation into the role of starfish X in a rocky shore. He found two similar rock pools with similar number and diversity of organisms in the rocky shore. He removed all starfish X in one of the rock pools at the beginning of the experiment. Then he recorded the number of species present in the rock pools over a period of time. The graph below shows the results.
+
+	
+
+Which of the following conclusions can be drawn from the results?
+(1)	The species diversity decreases after removing starfish X.
+(2)	Starfish X plays a role in regulating the population sizes of other organisms.
+(3)	Starfish X is the dominant species in the rocky shore.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10239582]
+// Graph interpretation // Experiment // Applying concepts //
+*	Directions: The following two questions refer to an investigation carried out by a student to study the activity of bacteria present in soil. He collected some soil sample and put it in a solution containing ammonium compounds. The concentrations of ammonium compounds, nitrites and nitrates in the solution were measured every day. The graph below shows the results.
+
+	
+
+Which of the following correctly matches the curves with the substances they represent?
+	P	Q	R	
+A	ammonium compounds	nitrites	nitrates	
+B	nitrites	ammonium compounds	nitrates	
+C	nitrates	nitrites	ammonium compounds	
+D	nitrates	ammonium compounds	nitrites	
+
+C	
+---------------------------------------------------
+
+[10239586]
+// Graph interpretation // Experiment // Applying concepts //
+*	Which of the following statements about the results is/are correct?
+(1)	The concentration of P increased because nitrogen fixing bacteria continuously converted nitrogen gas to P.
+(2)	The concentration of Q started to decrease when nitrifying bacteria converted Q to P.
+(3)	The concentration of R decreased because it was decomposed by decomposers in soil.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10239595]
+// High order thinking // Applying concepts //
+*	The diagram below shows the energy transfer in a marine ecosystem.
+	
+Which of the following combinations about the stage at which the most energy is lost and that at which the most energy is transferred is correct?
+	Stage at which the most energy is lost	Stage at which the most energy is transferred	
+A	(1)	(1)	
+B	(2)	(4)	
+C	(3)	(2)	
+D	(4)	(3)	
+
+A	
+---------------------------------------------------
+
+[10239629]
+// Graph interpretation // High order thinking //
+*	The graph below shows the change in the population size of species X in a forest over a period of time. At time T, a foreign species was introduced to the forest.
+
+	
+
+Which of the following can be deduced from the graph?
+A	The foreign species competes with species X for resources.
+B	The foreign species cannot survive in the forest.
+C	Species X and the foreign species are not in the same food chain.
+D	Species X and the foreign species are likely to be occupying different niches.
+D	
+---------------------------------------------------
+
+[10239637]
+// Graph interpretation // High order thinking //
+**	A scientist carried out an experiment to study the feeding relationship in a habitat. She supplied the plants in this habitat with radioactive phosphorus, 32P. She then monitored the concentration of 32P in the tissues of four different animals (W, X, Y and Z) that live in this habitat. The graph below shows the results obtained.
+	
+
+The four animals are consumers in a food chain. Which of the following can be deduced from the graph?
+A	W and X are herbivores while Y and Z are carnivores.
+B	X and Y are competitors in this habitat.
+C	Y obtains the largest amount of energy from the producers among the four animals.
+D	The trophic level of Z is the lowest among the four animals.
+D	
+
+---------------------------------------------------
+Note:
+The trophic level of Z is the lowest because it is the first animal in which 32P was detected among the four animals.	
+
+[10239659]
+// Graph interpretation // High order thinking //
+**	A scientist investigated the relationship between two species of Paramecium 
+(P. aurelia and P. caudatum). She grew them together in a test tube. The graph below shows the changes in the populations of the two species over a period of time.
+	
+
+What is the relationship between these two species?
+A	mutualism
+B	predation
+C	parasitism
+D	competition
+D	
+
+Note:
+When the population of P. caudatum decreased, the population of P. aurelia increased. This indicates that P. aurelia does not gain benefit from P. caudatum. Therefore, the relationship between these two species is not mutualism.
+When the population of P. caudatum dropped to zero, the population of P. aurelia remained constant. This indicates that P. aurelia does not depend on P. caudatum for food. Therefore, the relationship between these two species is not predation nor parasitism.
+While the population of P. caudatum decreased and dropped to zero, the population of P. aurelia increased and then remained constant. This indicates that P. aurelia is a stronger competitor over P. caudatum when nutrients become limited.	
+---------------------------------------------------
+
+[10239673]
+// Data handling // High order thinking //
+**	An ecologist carried out an investigation to study the population of trees in a forest. This forest was burnt down in a fire 25 years ago. The table below shows the numbers of four species of trees in different age ranges in the forest.
+Age of tree (year)	1-4	5-8	9-12	13-16	17-20	
+Species W	0	0	32	45	23	
+Species X	36	17	9	0	0	
+Species Y	0	0	18	25	30	
+Species Z	5	6	6	8	7	
+If the species with the highest population is considered as the dominant species, which of the following species will most likely be the dominant species if the forest is left undisturbed for 25 years?
+A	species W		B	species X
+C	species Y			D	species Z
+B	
+
+Note:
+The table shows that the proportion of young trees for species X is the highest, indicating 
+that the population of species X is likely to be increasing. Therefore, species X will most 
+likely be the dominant species after 25 years.	
+---------------------------------------------------
+
+[10239674]
+// Scientific investigation // High order thinking // Schematic diagram //
+**	The diagram below shows a factory and a residential area near a river. A student is planning to carry out an investigation to find out the effect of the sewage discharged from the factory on the water quality of the river near the residential area. The possible sampling sites are numbered in the diagram.
+	
+
+In order to draw a valid conclusion about the effect of the sewage from the factory on the water quality of the river near the residential area, which sampling sites should be included in the investigation?
+A	1, 2, 5 and 7
+B	1, 2, 6 and 7
+C	1, 3, 4 and 6
+D	2, 3, 4 and 7
+A	
+
+Note:
+In order to find out the effect of the sewage from the factory on the water quality of the river near the residential area, a water sample from the river upstream of the sewage discharge site (site 1) should be included for comparison.
+As some water flows from site 5 to the residential area, a water sample from site 5 should also be included to find out whether the water from this source is polluted or not.	
+---------------------------------------------------
+
+[10239680]
+// Graph interpretation // High order thinking //
+*	The graph below shows the change in biomass in an area in a period of time.
+
+	
+Which of the following statements about the changes in this area are correct?
+(1)	Primary succession occurred in this area.
+(2)	In the beginning, there were no organisms in this area.
+(3)	Organic matter in this area increased until a climax community was reached.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10239686]
+// High order thinking // Applying concepts //
+*	The diagram below shows a food web in an aquatic ecosystem.
+	
+Which of the following statements about the food web are correct?
+(1)	The penguin can be described as both the secondary consumer and tertiary consumer in this food web.
+(2)	If the seal is removed, the population size of the krill would increase while the population size of the phytoplankton would decrease in the short term.
+(3)	There is an energy loss when energy flows from the fish to the squid.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10239713]
+// High order thinking // Applying concepts //
+*	Directions: The following three questions refer to the diagram below, which shows a food web in a habitat.
+	
+Which of the following form(s) a community?
+A	a single organism M
+B	a group of organism M in the habitat
+C	all the organisms in the habitat 
+D	all the organisms in the habitat and the physical environment
+C	
+---------------------------------------------------
+
+[10239716]
+// High order thinking // Applying concepts //
+*	Which of the following organisms is most likely to be the producer in the food web?
+A	organism M
+B	organism O
+C	organism P
+D	organism Q
+D	
+---------------------------------------------------
+
+[10239720]
+// High order thinking // Applying concepts //
+*	Which of the following correctly describe(s) the relationship(s) between organisms O and R?
+(1)	predation
+(2)	parasitism
+(3)	competition
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1) and (3) only
+D	
+---------------------------------------------------
+
+[10239725]
+// Data handling // High order thinking // Comparison //
+**	The plant marsh marigold grows along rivers.
+
+A researcher estimated the abundance of marsh marigold in five different areas along a river. She also measured some abiotic factors of each area. The table below shows the results.
+
+Area	(1)	(2)	(3)	(4)	(5)	
+Percentage cover of marsh marigold (%)	79	0	16	81	39	
+Soil pH	6.9	5.2	6.5	7.0	6.7	
+Soil water content (arbitrary unit)	3	9	8	10	5	
+Amount of humus in soil (arbitrary unit)	8	3	5	9	6	
+Wind speed (km/h)	5.8	5.6	5.3	5.7	5.7	
+
+Which abiotic factor has the slightest effect on the abundance of marsh marigold?
+A	soil pH
+B	soil water content
+C	amount of humus in soil
+D	wind speed
+B	
+---------------------------------------------------
+
+[10239769]
+// Comparison // Applying concepts //
+*	The photographs below show a limpet and a periwinkle found on a rocky shore.
+
+		
+Limpet	Periwinkle	
+
+Which of the following similarities between limpets and periwinkles explain(s) why they occupy similar niches?
+(1)	They both feed on seaweeds.
+(2)	They are both protected by a shell.
+(3)	They live in the same rock pool.
+A	(2) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10239784]
+// Graph interpretation // High order thinking //
+*	The graph below shows the changes in the populations of organisms P and Q in a habitat. Organisms P and Q hold a predation relationship.
+
+
+
+Which of the following statements about organisms P and Q is/are correct?
+(1)	In this relationship, organism Q gains benefit and organism P is harmed.
+(2)	An increase in population of organism Q results in a corresponding increase in the population of P.
+(3)	If all organism Q is killed at time T, the population of organism P will decrease.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10239785]
+// Applying concepts //
+	The diagram below shows a pyramid of numbers.
+	
+At which trophic level are the individuals most probably the largest in body size?
+A	W					B	X
+C	Y					D	Z
+D	
+---------------------------------------------------
+
+[10239794]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the directions of flow of carbon compounds between the atmosphere, animals, plants and decomposers in the carbon cycle.
+ 	
+What do W, X, Y and Z represent?
+		W				X				Y				Z
+A	decomposers		atmosphere		plants			animals		
+B	plants			atmosphere		decomposers		animals		
+C	plants			animals			decomposers		atmosphere
+D	animals			decomposers		atmosphere		plants		
+D	
+---------------------------------------------------
+
+[10239800]
+// Graph interpretation //
+*	Directions: The following two questions refer to the kite diagram below, which shows the distribution and abundance of four species of seaweeds down a rocky shore.
+ 	
+
+What is the percentage cover of species (3) at the low tide mark?
+A	10%
+B	20%
+C	40% 
+D	60%
+C	
+---------------------------------------------------
+
+[10239803]
+// Graph interpretation //
+*	Which species of seaweed is most likely to survive in a rather dry environment?
+A	species (1)
+B	species (2)
+C	species (3)
+D	species (4)
+A	
+---------------------------------------------------
+
+[10239812]
+// Basic concepts //
+	Which of the following correctly shows the levels of organization in ecological studies in ascending order of complexity?
+A	species, community, population, biome, ecosystem
+B	species, community, population, ecosystem, biome
+C	species, population, community, biome, ecosystem
+D	species, population, community, ecosystem, biome
+D	
+---------------------------------------------------
+
+[10239823]
+// Applying concepts //
+*	Which of the following matches between the environmental conditions in a mangrove with the adaptations of organisms living in the mangrove is incorrect?
+	Environmental condition	Adaptation		
+	A 	strong wave motion	hard shell of fiddler crabs
+		
+	B	high salinity of the soil	salt glands in leaves of some mangrove plants		
+	C	soft substratum	seedlings of some mangrove plants modified into droppers		
+	D	low oxygen content of the soil	aerial roots of some mangrove plants		
+
+A	
+---------------------------------------------------
+
+[10239837]
+// Applying concepts //
+*	Which of the following combinations correctly describes the type of interaction between the organisms?
+	Type of interaction	Organisms		
+	A	commensalism		an epiphyte and the tree it grows on		
+	B	parasitism	mushrooms and the tree trunk they grow on		
+	C	competition	algae and fungi in lichens 		
+	D	mutualism	dodder and the plant it winds around		
+
+A	
+---------------------------------------------------
+
+
+[10239867]
+// Comparison // Schematic diagram //
+*	The diagrams below show two communities on a sandy shore.
+
+community I	
+community II	
+
+Which community has a higher species diversity? Why?
+	Community		Reason
+A		I			Its species richness is higher.
+B		I			A certain species is more easily noticed.
+C		II			Its species richness is higher.
+D		II			Different species exist in similar proportions.
+D	
+---------------------------------------------------
+
+[10239870]
+// Basic concepts //
+	Which of the following processes is not a way by which energy is lost to the surroundings in an ecosystem?
+A	digestion
+B	egestion
+C	excretion
+D	respiration
+A	
+---------------------------------------------------
+
+
+[10239871]
+// Applying concepts //
+*	Humus is formed from decomposition of dead plants, animal parts and animal droppings.
+
+dead plants, animal parts and animal droppings	decomposition
+	
+humus	
+Which of the following statements about the organisms involved in decomposition is/are correct?
+(1)	They are herbivores.
+(2)	They are usually not shown in food chains.
+(3)	They play no role in the energy flow in ecosystems.
+A	(1) only				B	(2) only
+C	(1) and (2) only		D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10239885]
+// High order thinking //
+*	Directions: The following two questions refer to the food web of six organisms (P, Q, R, S, T and U) below.
+	
+Which organism(s) in the food web is/are both a secondary and tertiary consumer?
+A	R only			B	U only
+C	T only			D	U and T only
+D	
+---------------------------------------------------
+[10239889]
+// High order thinking //
+*	If P is a tree, Q is an insect and U is an insect-eating bird, which of the following correctly shows the pyramid of numbers of these organisms?
+A		B		
+C		D		
+
+C	
+---------------------------------------------------
+
+[10239893]
+// Schematic diagram // Applying concepts //
+*	Directions: The following two questions refer to the diagram below, which shows a simplified carbon cycle.
+	
+Carbon transfers in the form of organic matter in process(es)
+A	V only.				B	I and II only.
+C	II and III only. 		D	IV and V only.
+D	
+---------------------------------------------------
+[10239904]
+// Schematic diagram // Applying concepts //
+*	Which process(es) is/are respiration?
+A	I only
+B	II only
+C	III only
+D	I and III only
+D	
+---------------------------------------------------
+
+[10239911]
+// Schematic diagram // Applying concepts //
+	The diagram below shows part of the nitrogen cycle.
+
+	
+
+Which process only takes place in an environment with little oxygen?
+A	W
+B	X
+C	Y
+D	Z
+D	
+---------------------------------------------------
+
+[10239916]
+// Scientific investigation //
+*	A student laid down a transect on a shore and placed quadrats along the transect as shown in the diagram below. She wanted to study how the tide (change in water level) affects the distribution of organisms on the shore.
+
+	
+
+What was wrong with the method the student used?
+(1)	The transect was not placed in a straight line.
+(2)	The transect was not placed from the upper shore towards the lower shore.
+(3)	The quadrats were not placed on one side of the transect.
+(4)	The quadrats were placed continuously along the transect.
+A	(1) and (2) only
+B	(2) and (3) only
+C	(1), (3) and (4) only	
+D	(2), (3) and (4) only
+B	
+---------------------------------------------------
+
+[10239919]
+// Basic concepts //
+	The diagram below shows a food web.
+
+	
+
+If a large number of frogs are hunted, which of the following will happen?
+A	The number of snakes will increase.
+B	The number of sparrows will decrease.
+C	The number of rabbits will decrease.
+D	The number of insects will decrease.
+C	
+---------------------------------------------------
+
+[10239928]
+// Basic concepts //
+	Which of the following correctly shows the pyramid of numbers of the food chain below?
+
+
+grasshopper		
+small bird		
+hawk	
+
+
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10239933]
+// Basic concepts //
+	Which of the following is the role of denitrifying bacteria in the nitrogen cycle?
+A	converting nitrogen gas into nitrogen compounds
+B	decomposing dead bodies of consumers into ammonium compounds
+C	converting nitrites into nitrates
+D	converting nitrates into nitrogen gas
+D	
+---------------------------------------------------
+
+[10239938]
+// Basic concepts //
+	Which of the following is/are the possible effect(s) of deforestation on the environment?
+(1)	soil erosion
+(2)	increase in the concentration of carbon dioxide in the atmosphere
+(3)	extinction of species
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10239943]
+// Applying concepts //
+*	The diagram below shows the conversion of nitrogen-containing compounds in soil. 
+
+	
+
+Which process(es) may involve fungi?
+A	X only
+B	Y only
+C	Z only
+D	X and Y only
+A	
+---------------------------------------------------
+
+[10239955]
+// Graph interpretation // High order thinking //
+**	Directions: The following two questions refer to the graph below, which shows the changes in the populations of two organisms (Y and Z) and the concentration of inorganic nutrients in the surface layers of the North Atlantic Ocean over     12 months.
+	
+Which of the following correctly shows the direction of material flow in this ecosystem?
+A	inorganic nutrients → Y → Z
+B	inorganic nutrients → Z → Y
+C	Y → inorganic nutrients → Z
+D	Z → Y → inorganic nutrients
+A	
+---------------------------------------------------
+
+[10239960]
+// Graph interpretation // High order thinking //
+**	If there is a sudden increase in the concentration of inorganic nutrients during the 10th month, what will happen to the populations of Y and Z?
+A	Both the populations of Y and Z will increase.
+B	Only the population of Y will increase.	
+C	Only the population of Z will increase.
+D	Both the populations of Y and Z will remain unchanged.
+A	
+---------------------------------------------------
+
+[10239965]
+// Graph interpretation // High order thinking //
+**	Directions: The following two questions refer to the graph below, which shows the concentrations of nitrates and oxygen, and the number of algae in a river. Sewage containing organic waste is discharged into the river at location V.
+	
+The increase in the concentration of nitrates near V is due to the action of 
+A	nitrifying bacteria only.
+B	denitrifying bacteria only.
+C	decomposers and nitrifying bacteria.
+D	decomposers and denitrifying bacteria.
+C	
+---------------------------------------------------
+
+[10239967]
+// Graph interpretation // High order thinking //
+**	The decrease in the number of algae from Y to Z is most probably due to
+(1)	the decrease in the concentration of nitrates. 
+(2)	the increase in oxygen concentration.
+(3)	the increase in organic waste.
+A	(1) only
+B	(3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+ 
+[10239969]
+// Applying concepts //
+	Directions: The following two questions refer to the diagram below, which shows a food web in a pond.
+
+	
+
+Which organisms are at the same trophic level as the water boatmen?
+A	water beetles only
+B	pond snails only
+C	water beetles and birds only 
+D	birds and fish only
+C	
+---------------------------------------------------
+
+[10239970]
+// Applying concepts //
+	What is the relationship between birds and fish in the pond?
+A	competition
+B	predation
+C	mutualism
+D	commensalism
+A	
+---------------------------------------------------
+
+[10239976]
+// High order thinking //
+*	The diagram below shows the flow of energy within a community of organisms in a habitat.
+	
+The kestrels and the barn owls occupy different niches because
+A	they live in different places.
+B	they eat different types of food.
+C	they are at different trophic levels.
+D	they have different behaviour.
+D	
+---------------------------------------------------
+
+[10239992]
+// High order thinking // Applying concepts //
+*	The diagram below shows the pyramid of numbers of a food chain. 
+	
+This food chain may be:
+A	cabbage → caterpillar → parasite
+B	grass → rabbit → fox
+C	wheat → rat → rat flea
+D	oak tree → caterpillar → bird
+C	
+--------------------------------------------------- 
+
+[10240024]
+// Graph interpretation //
+*	The graph below shows the changes in the populations of two organisms, P and Q, in an ecosystem over four years. One of them feeds on the other. 
+	
+	Which of the following is the reason for the increase in population of Q at time X?
+A	The food available for Q increases. 
+B	The population of the predator of Q decreases. 
+C	The population of the competitor of Q decreases.
+D	The light intensity in the ecosystem increases.
+A	
+--------------------------------------------------- 
+
+[10240029]
+// Applying concepts //
+	The humus content of soil can be increased by
+(1)	ploughing plants in the soil.
+(2)	adding manure to the soil.
+(3)	applying inorganic fertilizers to the soil.
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10240030]
+// Data handling // Calculation // Applying concepts //
+**	The table below shows some information of four organisms in an ecosystem.
+	Number of individuals	Dry mass of one individual (arbitrary unit)	
+P	10 000	0.1	
+Q	2	300 000	
+R	5	10	
+S	450	0.007	
+Which of the following is most likely to be the food chain of these four organisms?
+A	P → S → R → Q 
+B	Q → R → P → S 
+C	Q → P → R → S
+D	S → R → P → Q
+C	
+---------------------------------------------------
+
+[10240058]
+// Data handling // Calculation //
+**	The table below shows some information about the energy flow in a grassland habitat.
+	Amount of energy
+(kJ m-2 year-1)	
+Light energy from the sun	4 000 000	
+Chemical energy stored in food produced by photosynthesis	50 000	
+Energy released as producers carry out respiration	40 000	
+What is the maximum amount of energy passed to the primary consumers in this habitat?
+A	3 950 000 kJ m-2 year-1
+B	3 940 000 kJ m-2 year-1
+C	50 000 kJ m-2 year-1
+D	10 000 kJ m-2 year-1
+D	
+---------------------------------------------------
+
+[10240060]
+// Schematic diagram // Applying concepts //
+**	The diagram below shows the relationship of five organisms in an ecosystem.
+	
+
+What do the arrows in the diagram represent?
+(1)	the flow of energy
+(2)	the flow of carbon 
+(3)	the flow of nitrogen
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10240069]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows part of the nitrogen cycle. 
+	
+Which process(es) must involve bacteria?
+A	X only
+B	Z only
+C	X and Y only
+D	X, Y and Z
+B	
+---------------------------------------------------
+
+[10240097]
+// Schematic diagram // Basic concepts //
+*	The diagram below shows part of the carbon cycle.
+	
+Which labelled arrows represent respiration?
+A	W and Y only			B	X and Y only
+C	X and Z only			D	X, Y and Z only
+C	
+---------------------------------------------------
+
+[10240110]
+// Applying concepts //
+*	The diagram below shows the feeding relationships among five organisms in a habitat.
+	
+If a large number of beetles died from a disease, which of the following organisms are likely to increase in number?
+A	grass and small bird only
+B	grass and rabbit only
+C	small bird and rabbit only
+D	grass, small bird and rabbit only
+B	
+---------------------------------------------------
+
+[10240134]
+// Graph interpretation // High order thinking //
+*	Directions: The following two questions refer to the kite diagram below, which shows the distribution of four species of seaweeds on a rocky shore. A group of students laid down a transect from the high tide mark to the low tide mark and put quadrats along it. They recorded the percentage area occupied by the seaweeds in each quadrat. 
+	
+Which species is the most abundant at a place 40 m from the high tide mark?
+A	W
+B	X
+C	Y
+D	Z
+C	
+---------------------------------------------------
+
+[10240136]
+// Graph interpretation // High order thinking //
+*	Which species has the highest tolerance to desiccation?
+A	W
+B	X
+C	Y
+D	Z
+A	
+---------------------------------------------------
+
+[10240144]
+// Apply concepts //
+*	The diagram below shows the pyramid of biomass of three organisms (P, Q and R) in a food chain. 
+
+	
+
+Which of the following statements about the organisms is/are correct?
+(1)	Q carries out photosynthesis to produce food. 
+(2)	Some energy in Q is not passed to P. 
+(3)	The size of R is much larger than Q. 
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10240152]
+// Basic concepts //
+	Only a small proportion of energy entering an ecosystem reaches a tertiary consumer because energy is lost
+(1)	in the movement of organisms in the habitat.
+(2)	in the process of respiration.
+(3)	as a result of the inefficiency in the digestive process.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10240164]
+// Basic concepts //
+	Which of the following organisms must be involved in the conversion of nitrogen in animal tissues into the nitrogen in plant tissues?
+(1)	decomposers 
+(2)	nitrifying bacteria
+(3)	nitrogen fixing bacteria
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10240169]
+// High order thinking //
+*	The diagram below shows the pyramid of numbers of organisms in a food chain.
+
+	
+
+Which of the following is a possible reason for the larger number of herbivores than producers?
+A	No energy is lost when energy flows from the producers to the herbivores.
+B	The producers have a shorter life span than the herbivores.
+C	The carnivores do not feed on the herbivores only.
+D	The size of the producers is large enough to support a number of herbivores.
+D	
+---------------------------------------------------
+
+[10240170]
+// Data handling //
+*	Directions: The following two questions refer to the table below, which shows the number of three species, X, Y and Z, in four habitats. No other species can be found in these four habitats. 
+
+	X	Y	Z	
+Habitat P	60	55	45	
+Habitat Q	130	6	4	
+Habitat R	0	60	0	
+Habitat S	16	4	140	
+
+Which habitat has the highest species diversity?
+A	P			B	Q
+C	R			D	S
+A	
+---------------------------------------------------
+
+[10240171]
+// Data handling //
+*	Which species is/are the dominant species in habitat Q?
+A	X only
+B	Y only
+C	Z only
+D	Y and Z only
+A	
+---------------------------------------------------
+
+[10240221]
+// Basic concepts //
+	Decomposers return carbon to the atmosphere and oceans in the form of 
+A	urea.	
+B	carbon dioxide.
+C	proteins.
+D	lipids.
+B	
+---------------------------------------------------
+
+[10240232]
+// STSE connections // Applying concepts //
+*	The photograph below shows the growth of Mikania (薇甘菊) on a tree.
+	
+Which of the following correctly describe(s) the interaction between Mikania and the tree?
+(1)	Mikania releases oxygen for the respiration of the tree.
+(2)	The tree provides anchorage for Mikania to grow.
+(3)	Mikania competes with the tree for sunlight.
+A	(2) only				B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10240238]
+// Comparison //
+*	Which of the following comparisons between primary succession and secondary succession on a barren land is incorrect?
+	Primary succession	Secondary succession	
+A	mosses, ferns and grass are involved	mosses, ferns and grass are not involved	
+B	takes a longer time to reach a climax community	takes a shorter time to reach a climax community		
+C	may occur on exposed rock after a glacial retreat	may occur in a woodland after a hill fire	
+D	occurs in land with no soil	occurs in land with soil	
+
+A	
+---------------------------------------------------
+
+[10240241]
+// Schematic diagram // Basic concepts //
+*	Directions: The following two questions refer to the nitrogen cycle below. X and Y are two organisms involved. 
+
+	
+
+What are X and Y?
+		X					Y
+A	nitrifying bacteria		denitrifying bacteria
+B	nitrifying bacteria		nitrogen fixing bacteria
+C	nitrogen fixing bacteria	nitrifying bacteria
+D	denitrifying bacteria	nitrogen fixing bacteria
+B	
+---------------------------------------------------
+
+[10240264]
+// Schematic diagram // Basic concepts //
+*	Apart from the action of Y, through which of the following processes can nitrogen in the atmosphere be converted into nitrogen-containing compounds?
+A	decomposition
+B	respiration
+C	lightning
+D	photosynthesis
+C	
+---------------------------------------------------
+
+[10240268]
+// High order thinking // Applying concepts //
+*	The diagram below shows a pyramid of numbers of organisms which make up a food chain.
+
+	
+
+The pyramid is inverted because
+(1)	the birds reproduce at a faster rate than caterpillars.
+(2)	one oak tree is large enough to support all the animals in the food chain.
+(3)	the fleas are much smaller than the birds.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10240269]
+// Basic concepts //
+*	Which of the following statements about organisms in different trophic levels is/are correct?
+(1)	All producers use light energy to make food from inorganic substances.
+(2)	The population of producers is always larger than that of primary consumers.
+(3)	Herbivores are primary consumers.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10240289]
+// Applying concepts //
+*	Which of the following correctly shows the pyramid of biomass of the food chain below?
+oak tree → caterpillar → parasite inside the caterpillar
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10240304]
+// Applying concepts //
+	The photograph below shows two organisms (X and Y) living together.
+	
+The relationship between organisms X and Y is best described as
+A	mutualism.		B	commensalism.
+C	competition.		D	parasitism.
+A	
+---------------------------------------------------
+
+[10240339]
+// Applying concepts //
+	Directions: The following two questions refer to the food web below.
+	
+Which organism(s) can convert other forms of energy into chemical energy stored in food?
+A	plant only
+B	mole and rabbit only
+C	fox, eagle and snake only
+D	none of the above
+A	
+---------------------------------------------------
+
+[10240349]
+// Applying concepts //
+	Which of the following is not included in the above food web?
+A	producer			B	consumer
+C	predator			D	decomposer
+D	
+---------------------------------------------------
+
+[10240352]
+// Basic concepts //
+*	Which of the following statements about the nitrogen cycle is correct?
+A	Nitrogen fixing bacteria can change nitrogen gas in the air into nitrates in soil.
+B	Denitrifying bacteria can change nitrites into nitrates.
+C	Nitrifying bacteria can change the nitrogen in dead bodies into nitrites.
+D	Plants absorb nitrogen in the form of nitrates.
+D	
+---------------------------------------------------
+
+[10240354]
+// Basic concepts //
+	Directions: The following two questions refer to the food chain below.
+
+grass → grasshopper → small bird → eagle
+
+Which organism(s) in the above food chain is/are (a) consumer(s)?
+A	grass only
+B	grasshopper only
+C	eagle only
+D	grasshopper, small bird and eagle only
+D	
+---------------------------------------------------
+
+[10240373]
+// Basic concepts //
+	What is the type of relationship between grasshopper and small bird?
+A	predation
+B	competition
+C	commensalism
+D	mutualism
+A	
+---------------------------------------------------
+
+[10240379]
+// Applying concepts //
+	In ecological studies, quadrats can be used to
+(1)	estimate the abundance of certain species of plants in a grassland.
+(2)	estimate the number of fish in a freshwater stream.
+(3)	estimate the number of barnacles on a rocky shore.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10240398]
+// Applying concepts //
+*	Which of the following may be absent in a self-sustained ecosystem?
+A	producers
+	B	consumers
+	
+C	decomposers
+	D	energy source
+	
+
+B	
+---------------------------------------------------
+
+[10240406]
+// Basic concepts //
+	An ecosystem is composed of
+(1)	a group of interacting populations.
+(2)	environmental factors affecting the populations.
+(3)	plants in the area.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10240428]
+// High order thinking // Applying concepts //
+*	Directions: The following three questions refer to the food web below, which shows the feeding relationships among five organisms in an ecosystem.
+	
+Which of the following organisms can capture energy to produce food?
+A	Q only			B	U only
+C	R and S only		D	T and U only
+A	
+---------------------------------------------------
+
+[10240434]
+// High order thinking // Applying concepts //
+*	If T is removed from the ecosystem, what would probably happen to the populations of R and S in the long run?
+		R				S
+A	increases			increases
+B	increases			decreases
+C	increases			remains the same
+D	decreases			increases
+C	
+---------------------------------------------------
+
+[10240443]
+// High order thinking // Applying concepts //
+*	Which of the following combinations correctly describes the relationships between T and R, and T and U?
+		T and R			T and U
+A	predation			commensalism
+B	predation			competition
+C	mutualism		competition
+D	parasitism		commensalism
+B	
+---------------------------------------------------
+
+[10240461]
+// Basic concepts //
+	Which of the following statements about the feature of an ecosystem is incorrect?
+A	Organisms in an ecosystem are interdependent.
+B	No external energy source is needed.
+C	Useful elements inside organisms are cycled.
+D	Organisms in an ecosystem are affected by abiotic factors.
+B	
+---------------------------------------------------
+
+[10240462]
+// Basic concepts //
+	Which of the following forms of nitrogen can be absorbed directly by producers?
+A	nitrates
+B	nitrites
+C	ammonium compounds
+D	nitrogen gas
+A	
+---------------------------------------------------
+
+[10240466]
+// Applying concepts //
+	Which of the following pairs of organisms demonstrate commensalism?
+A	lion and human
+B	barnacle and whale
+C	tapeworm and pig
+D	bee and flower
+B	
+---------------------------------------------------
+
+[10240490]
+// Basic concepts //
+	None of the organisms gains benefits in
+A	predation.			B	competition.
+C	commensalism.		D	parasitism.
+B	
+---------------------------------------------------
+
+[10240507]
+// Basic concepts //
+	Which of the following processes can lead to an immediate increase in the nitrate level in the soil?
+(1)	combustion
+(2)	lightning
+(3)	nitrogen fixation
+A	(1) only			B	(2) only
+C	(3) only			D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10240514]
+// Basic concepts //
+	How is energy lost as it is transferred from one trophic level to another?
+(1)	through predation 
+(2)	through egestion
+(3)	through respiration
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10240520]
+// Basic concepts //
+	In what ways is energy lost when it is transferred from one trophic level to another?
+(1)	excretory products
+(2)	unabsorbed materials
+(3)	uneaten organisms
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+Short questions
+
+[10240609]
+// Drawing // Basic concepts //
+*	The photograph below shows an oxpecker (a bird) staying on the back of a zebra in a grassland. The oxpecker eats ticks (small insects) that live on zebra's skin. The ticks suck blood from the zebra and can cause skin irritation to it.
+
+	
+a	State the type of symbiotic relationship between
+i	zebras and oxpeckers, and							(1 mark)
+ii	zebras and ticks.									(1 mark)
+b	Based on the information given,
+i	write down the food chain that consists of the zebra, the oxpecker and the tick.											(1 mark)
+ii	draw a pyramid of numbers for the food chain in b i.		(3 marks)
+-- answer --
+a	i	Mutualism												1m
+ii	Parasitism												1m
+b	i	zebra → tick → bird									1m
+ii
+	
+Symmetrical diagram										1m
+Bars in correct proportion									1m
+Correct labels											1m	
+---------------------------------------------------
+
+[10240612]
+// High order thinking // Communication //
+*	The photograph below shows a glacial lake formed from the retreat of a glacier. Mosses are growing on the rocks.
+	
+
+a	Suggest the type of ecological succession that is taking place in this area. Explain your answer.									(2 marks)
+b	Describe how the succession took place up to the stage shown in the photograph.											(4 marks)
+
+-- answer --
+a	Primary succession											1m
+because it involved the colonization of a barren area where no soil or organisms were present before.											1m
+b	After the retreat of the glacier, barren rocks were exposed and broken up into smaller particles due to weathering.								1m
+Lichen spores, that are brought to the rocks by wind, grew and formed the pioneer community.												1m
+The dead bodies of the lichens were decomposed to become organic matter.															1m
+The small rock particles and the organic matter gradually formed the soil, and mosses started to grow.										1m	
+---------------------------------------------------
+
+[10240628]
+// High order thinking // Calculation // Schematic diagram //
+*	The diagram below shows the energy flow through a temperate forest.
+	
+a	Describe the role of green plants in the energy flow through the temperate forest.												(2 marks)
+b	i	Calculate the percentage loss of energy when energy is transferred 	from green plants to consumers. Show your workings.		(2 marks)
+ii	Suggest one way in which the energy stated in b i is lost.	(1 mark)
+c	A large percentage of light energy entering the temperate forest ecosystem is lost. Predict whether the percentage of light energy lost in a desert ecosystem is larger or smaller. Explain your answer.			(2 marks)
+
+-- answer --
+a	Green plants capture light energy and convert it to chemical energy stored in organic compounds in the process of photosynthesis.					1m
+This energy can be transferred along the food chain.					1m
+b	i	Percentage loss of energy
+=  ( 100%							1m
+= 99.6%												1m
+ii	Through uneaten body materials / respiration					1m
+c	The percentage of light energy lost is larger in a desert ecosystem		1m
+because there are fewer green plants in a desert than in a temperate forest.	1m	
+---------------------------------------------------
+
+[10240634]
+// High order thinking // STSE connections //
+**	Rhizobium is an anaerobic bacterium which holds a mutualistic relationship with leguminous plants. It lives in the root nodules of the plants and can convert nitrogen gas present in soil air into ammounium compounds. Inside the root nodules, Rhizobium is surrounded by a substance called leghaemoglobin. Leghaemoglobin has properties similar to those of haemoglobin in red blood cells. 
+a	What is the conversion of atmospheric nitrogen into ammonium compounds called? 												(1 mark)
+b	Suggest how Rhizobium benefits from the presence of leghaemoglobin in the root nodules.										(2 marks)
+c	Why do some farmers plough the roots of leguminous plants into the soil before planting a different crop? 							(2 marks)
+-- answer --
+a	Nitrogen fixation											1m
+b	Leghaemoglobin combines with oxygen to maintain anaerobic conditions for Rhizobium.												1m
+Rhizobium is protected from the exposure to oxygen.					1m
+c	To increase the amount of nitrogen compounds in the soil				1m
+and reduce the use of fertilizers.									1m	
+---------------------------------------------------
+
+[10240643]
+// Applying concepts //
+	The photograph below shows some organisms on a rocky shore.
+	
+
+a	State and explain two common characteristics of the above three labelled organisms that enable them to adapt to the environmental conditions of their habitat.												(2 marks)
+b	The three labelled organisms feed on the same type of food. Name the type of interaction among these organisms.						(1 mark)
+
+-- answer --
+a	They have a hard outer covering to protect them from strong wave action.	1m
+They have muscular feet to attach themselves firmly onto the rock surface to prevent them from being washed away.							1m
+b	Competition / Interspecific competition							1m	
+---------------------------------------------------
+
+[10240647]
+// Applying concepts //
+	The diagrams below show a pyramid of numbers and a pyramid of biomass of some organisms living on an oak tree. The organisms form a food chain.
+	
+a	Explain what 'biomass' is.								(1 mark)
+b	Using the example given above, explain the advantages of presenting the energy flow in a food chain in a pyramid of biomass instead of a pyramid of numbers.												(2 marks)
+
+-- answer --
+a	Biomass is the total dry mass of organisms at a trophic level in a given unit area at a particular point of time.										1m
+b	The pyramid of numbers may become inverted when the producer/the tree can support a large number of primary consumers/caterpillars.				1m
+The pyramid of biomass will become upright as the producer/the tree has the greatest amount of energy stored.								1m	
+---------------------------------------------------
+
+[10240667]
+// Graph interpretation //
+	The graph below shows the distribution of some plant species in a habitat.
+	
+
+a	Suggest a sampling method that can be used to collect data for plotting the graph above.											(1 mark)
+b	State one limitation of the method in a.						(1 mark)
+
+-- answer --
+a	Line transect												1m
+b	It cannot be used to sample fast-moving organisms. / It cannot show the abundance of organisms in the area of study.						1m	
+---------------------------------------------------
+
+
+[10240703]
+// Overseas exam question // Schematic diagram // Applying concepts //
+*	During the last ice age, glaciers destroyed the pre-existing community in areas such as the Lake District leaving bare rock. Over time, primary succession has taken place.
+The diagram below shows primary succession in an area such as the Lake District.
+
+	
+
+a	Explain what is meant by primary succession.				(3 marks)
+b	Describe the role of the lichens and mosses on the bare rock. 	(2 marks)
+c	Suggest how process K shown in the diagram could be caused. 	(2 marks)
+OCR GCE (A) Human Biology Energy, Reproduction and Populations
+Jun 2011 Q5a-c
+
+-- answer --
+a	Primary succession starts with an uncolonized area. / 
+Pioneer species colonize the area first. / 
+It has a series of stages. / 
+It progresses to a climax community. (any 3)					1m x 3
+b	They form soil / humus. / 
+They release minerals / nutrients. /
+They provide habitats for other organisms. (any 2)				1m x 2
+c	Grazing / mowing / burning / applying herbicides / exposing to strong wind
+(any 2)												1m x 2	
+---------------------------------------------------
+
+[10240707]
+// Overseas exam question // Data handling // Schematic diagram //
+	a	The diagram below shows the flow of energy through part of a food web in a grassland ecosystem. The figures are in kJ m-2 year-1.
+	
+i	Name the group of organisms represented by X in the box above.
+													(1 mark)
+ii	State one reason why only a very small percentage of energy reaching the leaf surface of the grass is utilized by the plants in photosynthesis.
+													(1 mark)
+iii	The efficiency of energy transfer between the grass and the herbivorous insects is less than that in subsequent stages of the food web. Explain the reason for this.						(2 marks)
+b	Many countries with very high populations do not use meat products as a significant human food source. For example, in much of Asia, a diet consisting largely of rice is common and seldom contains meat from birds or mammals.
+In terms of energy transfer through trophic levels, explain the reason for this.													(2 marks)
+CCEA GCE (A) Biology Module 1 May 2013 Q2
+
+-- answer --
+a	i	Decomposers										1m
+ii	Light energy is reflected from the leaves. /
+Light energy is used in evaporating water on the leaf surface. / 
+Light of some wavelengths cannot be used. /
+Photosynthetic process is inefficient.						1m
+iii	Digesting plant material / cellulose is difficult. /
+A large amount of plant material is egested. / 
+Not all plant material is eaten. (any 2)						1m x 2
+b	Rice is at a lower trophic level. / 
+Shorter food chains are more efficient than longer food chains. / Shorter food chains have fewer energy loss. / 
+Using birds / mammals to provide meat are subject to high respiratory losses as they are homoiotherms. (any 2)								1m x 2	
+---------------------------------------------------
+
+[10240722]
+// Graph interpretation // High order thinking //
+*	Paramecium and Didinium are unicellular organisms commonly found in fresh water. Paramecium feeds on bacteria and Didinium feeds on Paramecium. The effect of introducing Didinium (at point P) into a stable Paramecium culture is shown in the graph below.
+	
+a	Explain the following about the population of Paramecium.
+i	the increase in population between points M and N		(1 mark)
+ii	the stable population between points N and O			(1 mark)
+b	Give one piece of evidence from the graph to support that Didinium consumes Paramecium faster than the latter can reproduce.		(1 mark)
+c	Give one reason why the population of Didinium dropped rapidly.															(1 mark)
+-- answer --
+a	i	The rate of reproduction is faster than the rate of death due to abundant food and space available.										1m
+ii	The rate of reproduction equals the rate of death. The food and space available is not enough to support a larger population. 			1m
+b	All the Paramecium were consumed after the introduction of Didinium.		1m
+c	The population ran out of food.									1m	
+---------------------------------------------------
+
+[10240730]
+// Communication // Applying concepts //
+	Small clearings in woodlands may occur when large trees die or are blown down. This allows herbaceous plants to grow for a few years. The plant species that commonly colonizes woodland clearings is the foxglove.
+
+
+Foxglove	
+
+a	Name the ecological process for the growing of herbaceous plants in the small clearings.										(1 mark)
+b	Describe the ecological process which will result in the replacement of foxgloves by shrubs in a clearing after a few years.			(4 marks)
+c	State one way in which the establishment of a shrubland on a newly-formed island differs from that in a clearing mentioned in b.			(1 mark)
+-- answer --
+a	Secondary succession										1m
+b	Foxgloves provide food and shelter for plant-eating animals. 			1m
+The dead plants and animals, as well as animal waste decay to form humus which enriches the soil. 											1m
+The soil becomes thick enough for the growth of shrubs. 				1m
+Shrubs are more competitive and they grow over the foxgloves. They become the dominant species.											1m
+c	The establishment of a shrubland on a newly-formed island begins with pioneer community of lichens. / 
+The establishment of a shrubland on a newly-formed island takes much longer time.														1m	
+---------------------------------------------------
+
+[10240738]
+// Scientific investigation // Data handling // Calculation //
+*	Clover is a plant which grows in dense patches. In an investigation of the distribution of clover in a field, quadrats were placed randomly throughout the field. The drawing shows the area in one quadrat in which clover was growing. Thin wires were used to divide the quadrat into small squares.
+
+	
+
+a	What is the percentage area covered with clover in this quadrat? Explain how you arrived at your answer.							(2 marks)
+b	African snails are animals commonly found in this field. The area of this field is estimated to be 250 m2. Describe and explain how you can use the quadrat shown above to estimate the population of African snails in this field.												(3 marks)
+
+-- answer --
+a	Clover covered around 7 small squares in this quadrat.				1m
+Percentage area covered with clover = (7/25) x 100% = 28%			1m
+b	Throw the quadrat randomly for several times (N) and let it fall at different positions on the ground. 												1m
+Count the number of African snails in the area enclosed by the quadrat each time (n1, n2, n3 … etc.).											1m
+Estimated population can be calculated as follows: [(n1 + n2 + n3 + …)/N] x 250															1m	
+---------------------------------------------------
+
+[10240751]
+// Communication // Schematic diagram //
+	The diagram below shows part of the nitrogen cycle.
+
+	
+
+Describe processes X, Y and Z. State the bacteria involved in the processes.															(6 marks)
+
+-- answer --
+X: 
+Nitrogen fixing bacteria 											1m
+Nitrogen gas in soil air is converted to ammonium compounds, which are stored in the bacteria's bodies or taken up by the leguminous plants.					1m
+Y:
+Denitrifying bacteria												1m
+Nitrates in the soil are changed into nitrogen gas, which then diffuses into the atmosphere.													1m
+Z: 
+Nitrifying bacteria												1m
+Ammonium compounds are changed into nitrites, and then into nitrates.		1m	
+---------------------------------------------------
+
+[10240765]
+// Basic concepts //
+	Explain why it is difficult to classify organisms into trophic levels.	(3 marks)
+-- answer --
+Trophic levels are the feeding levels of organisms. 						1m
+Some organisms feed on more than one type of organisms. 				1m
+The same organism may belong to different trophic levels in different food chains.																	1m	
+---------------------------------------------------
+
+[10240820]
+// Schematic diagram // Basic concepts //
+	The diagram below shows part of the carbon cycle.
+	
+a	Name processes W, X, Y and Z. 							(4 marks)
+b	In what form is carbon most commonly found in the atmosphere? 															(1 mark)
+c	What does the dead organic matter include?					(1 mark)
+d	Name the group of organisms responsible for process Z.		(1 mark)
+-- answer --
+a	W: combustion / burning										1m
+X: respiration												1m
+Y: photosynthesis											1m
+Z: decomposition											1m
+b	Carbon dioxide												1m
+c	Organic waste and dead bodies of organisms						1m
+d	Decomposers / fungi / bacteria									1m	
+---------------------------------------------------
+
+[10240830]
+// Applying concepts //
+	A species of ladybird X will be introduced to island P. X feeds on greenflies, butterfly eggs, caterpillars and other ladybirds while the local ladybirds on  island P feed on greenflies only.
+a	What will be the effect of introducing X to island P on the population of local ladybirds? Explain your answer.						(3 marks)
+b	What will be the possible fate of the local ladybirds if the population of X is not controlled after introducing to island P?					(1 mark)
+-- answer --
+a	The population of local ladybirds will decrease.						1m
+X will compete with the local ladybirds for food / greenflies and space.		1m
+X will also eat the local ladybirds.								1m
+b	They may become extinct.										1m	
+---------------------------------------------------
+
+[10240832]
+// High order thinking // Comparison //
+*	The table below shows some information of two mammals which live in the same area.
+	Weasel	Pine marten 	
+Body size	Small	Large	
+Habitat	Farmland and woodland	Woodland	
+Food source	Small burrowing mammals, birds and birds' eggs	Small and medium mammals, birds and birds' eggs	
+a	What is/are the relationship(s) between the weasel and the pine marten?														(2 marks)
+b	With reference to the table, suggest two adaptations of the weasel that allow the weasel to survive in the same area as the pine marten.		(2 marks)
+-- answer --
+a	Competition												1m
+and predation												1m
+b	The weasel is small enough to hunt burrowing mammals.				1m
+The weasel can hunt in the farmland in addition to woodland.			1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10240833]
+// Scientific investigation // Graph interpretation // High order thinking //
+*	Some students carried out an ecological study to investigate the level of pollution in a stream. They counted the numbers of four indicator species, P, Q, R and S, in the stream.
+
+Indicator species	Pollution level	
+P	Clean	
+Q	Low	
+R	High	
+S	Very high	
+
+The numbers of the four species in the stream in 2008 and 2013 are shown in the graph below.
+	
+a	How did the water quality of the stream in 2013 differ from that in 2008? State two pieces of evidence from the information given to support your answer.												(3 marks)
+b	State two ways to ensure that the investigation was a fair test.	(2 marks)
+c	State one abiotic factor that can be used as an indicator of the level of pollution in the stream.									(1 mark)
+
+-- answer --
+a	The stream became cleaner in 2013. 							1m
+Evidence:										
+The numbers of P and Q increased. 							1m
+The numbers of R and S decreased.							1m
+b	The investigation should be carried out at the same time of the year. /
+The investigation should be carried out at the same region of the stream. /
+The water conditions (temperature / flow rate) should be the same. /
+The same sampling method should be used. /
+The duration of the investigation should be the same. 
+(any 2 or other reasonable answers)							1m x 2
+c	Oxygen concentration in water / pH value of water / amount of heavy metals / nitrates / phosphates / pesticides in water	
+(or other reasonable answers)								1m	
+---------------------------------------------------
+
+[10240857]
+// High order thinking // Critical thinking //
+*	A scientist discovered a new species of bird, P, on an island. This bird cannot fly and needs to nest on the ground. 
+The diagram below shows a food web on the island.
+	
+a	With reference to the food web, explain why there is only a small number of P on the island.								 		(2 marks)
+b	Suggest one human activity that would lead to a decrease in the number of P. 													(1 mark)
+c	The government is planning to move all P to a small island for conservation. Explain why a small island should be chosen. 				(2 marks)
+-- answer --
+a	The birds are easily eaten by rats.								1m
+Deer and rabbits compete with P for food.							1m
+b	Removal of wild plants for agriculture or building / deforestation / hunting	1m
+(or other reasonable answers)
+c	It is easier to remove all the predators and competitors on a small island.	2m 	
+---------------------------------------------------
+
+[10240869]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the carbon cycle.
+
+	
+
+a	Name the group of organisms represented by X in the above diagram.															(1 mark)
+b	Give the number(s) shown in the diagram that represent(s) the following processes:											(3 marks)
+i	Respiration
+ii	Combustion
+iii	Photosynthesis
+c	Name process 8.										(1 mark)
+
+-- answer --
+a	Decomposers												1m
+b	i	1, 4, 5 												1m
+ii	3													1m
+iii	2													1m
+c	Feeding													1m	
+---------------------------------------------------
+
+[10240876]
+// Data handling // Calculation // Applying concepts //
+*	a	Explain why only some of the energy in primary consumers is transferred to secondary consumers. 									(3 marks)
+b	The table below shows some information of three different primary consumers. 
+	Sheep	Rabbit	Cow	
+Mass increased (kg per day)	0.16	0.01	0.90	
+Food consumed (kg per day)	1.82	0.10	8.30	
+
+i	The conversion efficiency is a measure of how efficient energy is transferred from one trophic level to another. It can be calculated by the following formula: 
+
+	
+
+Calculate the conversion efficiency of the three primary consumers in the table. Show your workings.						(3 marks)
+ii	Which one of the primary consumers would be the best to be used to produce meat for human consumption? Explain your answer.														(1 mark)
+-- answer --
+a	Some energy is lost because only a proportion of primary consumers is eaten by secondary consumers. /
+Some energy is lost when undigested and unabsorbed materials are passed out as faeces. /
+Some energy in primary consumers is lost as heat during respiration or when it is used to support body functions. /
+Some energy is lost through excretory products of primary consumers. 
+(any 3)												1m x 3
+b	i	Sheep: 0.16/1.82 x 100% = 8.79%						1m
+Rabbit: 0.01/0.10 x 100% = 10.00%						1m
+Cow: 0.90/8.30 x 100% = 10.84%						1m
+ii	Cow
+Because it has the highest conversion efficiency. 			1m	
+---------------------------------------------------
+
+[10240886]
+// Reading comprehension // Basic concepts //
+	Read the following article and answer the questions.
+	Ecotourism is a visit to destinations with historical, biological, geographic and cultural values without bringing negative effects to the environment. It aims at offering the tourists insights into the impacts of human activities on the environment, as well as educating people how to conserve the environment.	
+a	Give two examples of human activities which have negative effects on the environment.											(2 marks)
+b	Suggest two ways of conserving the environment to the general public.														(2 marks)
+
+-- answer --
+a	Deforestation / reclamation / overfishing / killing of wild animals for food or other valuable products (any 2 or other reasonable answers)			1m x 2
+b	Avoid polluting the environment. / 
+Reduce the use of natural resources. / 
+Produce less waste. / 
+Avoid buying products of wild animals.
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10240898]
+// Basic concepts //
+	Complete the following paragraph with suitable words.			(3 marks)
+Ecological succession is the series of changes in the composition of a         a                      over a period of time. After a hill fire, a barren area is formed. Plants grow from the seeds, roots and b                      organs in the soil. This is an example of c                      succession, which takes a shorter time than primary succession to reach a climax community.
+
+-- answer --
+a	community												1m
+b	vegetative 												1m
+c	secondary													1m	
+---------------------------------------------------
+
+[10240902]
+// High order thinking // Communication //
+*	The diagram below shows a food web in an area of the sea.
+
+	
+
+The following changes have occurred in this area recently:
+-	the population of herring has increased
+-	the population of seabirds has decreased dramatically
+-	fishermen have started catching sand eels as food of farmed salmon 
+-	sea temperature has risen, causing a decrease in the population of phytoplankton 
+
+a	How would the increase in the population of herring affect the population of sand eels? Explain briefly. 								(3 marks)
+b	i	Using the information given, suggest causes for the decrease in the population of seabirds. 								(3 marks)
+ii	Suggest one way in which the government could do to reverse the population of seabirds. 								(1 mark)
+
+-- answer --
+a	The population of sand eels would decrease.						1m
+Sand eels are the prey of herring.								1m
+Herring also compete with sand eels for zooplankton.					1m
+b	i	The population of sand eels has decreased due to the increased fishing activity. Sand eels are the prey of seabirds.						1m
+The population of herring, which compete with seabirds for food, has increased.												1m
+
+The decreased population of phytoplankton led to a decrease in the population of zooplankton, which in turn led to a decrease in the population of sand eels.												1m
+ii	Set up a quota system for sand eel fisheries. / Ban sand eel fishing. / Set up marine or nature reserves. (or other reasonable answers)			1m	
+---------------------------------------------------
+
+[10240921]
+// Basic concepts //
+	A food chain in an ecosystem is shown below.
+
+	grass → beetle → shrew → fox
+
+a	What do the arrows in the food chain represent?				(1 mark)
+b	Which organism in the food chain is a producer? State its source of energy.													(2 marks)
+c	Name all the carnivores in the food chain. Explain your answer.	(2 marks)
+d	Give one way in which energy is lost from a food chain. 		(1 mark)
+e	Which animal, beetle, shrew or fox, should be in the largest number in the ecosystem?											(1 mark)
+
+-- answer --
+a	Feeding / eating / direction of energy / material flow 					1m
+b	Grass 													1m
+It obtains energy by capturing light energy from the sun.				1m
+c	Shrew and fox												1m
+Both of them feed on animals. Shrews eat beetles while foxes eat shrews.	1m
+d	Some energy is lost because only a proportion of organisms is eaten by other organisms. /
+Some energy is lost when undigested and unabsorbed materials are passed out as faeces. /
+Some energy is lost as heat during respiration or when it is used to support body functions. /
+Some energy is lost through excretory products. 					1m
+e	Beetle													1m	
+---------------------------------------------------
+
+[10240951]
+// Basic concepts //
+	State whether the following sentences are true or false. Explain briefly if they are false.
+a	Energy from the sun enters ecosystems through photosynthesis.																(1 mark)
+b	All secondary consumers must be carnivores or omnivores.		(1 mark)
+c	All the energy in food eaten by an organism will be turned into the biomass of that organism.										(1 mark)
+d	Decomposers return carbon to the atmosphere and oceans in the form of urea.													(1 mark)
+
+-- answer --
+a	True														1m
+b	True														1m
+c	False 
+Some of the energy in food is lost when undigested and unabsorbed materials are passed out as faeces, some is lost as heat during respiration or when it is used to support body functions, and some is lost through excretory products.		1m
+d	False 
+Decomposers return carbon to the atmosphere and oceans in the form of carbon dioxide. 													1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10241065]
+// Overseas exam question // Scientific investigation // Design experiment //
+**	Sheltered rocky seashores have distinct zones which result from the extent to which water covers the area during high and low tides.
+Zones on a rocky seashore are indicated in the diagram below. 
+	
+Details of each of the zones A to E are given in the table below.
+Zone	Tidal coverage details	Dominant seaweed species	
+A	never covered in water but sprayed or splashed with saltwater	no seaweed present	
+B	only covered in water during the highest tides	channelled wrack, spiral wrack	
+C	covered in water during most high tides and exposed to air during most low tides	bladder wrack, egg wrack	
+D	only exposed to air during the lowest tides	saw wrack, thongweed	
+E	never exposed to air	sugar kelp, oarweed	
+
+a	i	A student proposes the hypothesis that seaweeds can only obtain their required minerals when covered in seawater. Identify the evidence from the table which supports this hypothesis.			(1 mark)
+ii	Name one seaweed species from the table which would be expected to have highly developed adaptations to prevent desiccation (drying out).												(1 mark)
+b	Explain one biotic and one abiotic factor which may prevent sugar kelp and oarweed from growing further up the shore than zone E.		(2 marks)
+c	Describe a method which could be used to sample a rocky shore in order to determine how the distribution of seaweed species changes from zone A to zone D. Your answer should include one safety precaution.		(5 marks)
+CCEA GCE (AS) Biology Module 2 Jun 2015 Q5
+
+
+-- answer --
+a	i	Seaweeds are absent from the region of the shore which is never covered in water.											1m
+ii	Channelled wrack / spiral wrack							1m
+b	Biotic:
+They may be grazed upon by organisms in zones A-D / outcompeted by more suitably adapted seaweeds.								1m
+Abiotic:
+They cannot withstand desiccation / temperature extremes / varying salinity.															1m
+(or other reasonable answers)
+c	Place a transect / rope / tape measure on the ground running down the shore / from zone A to zone D. /
+Place a quadrat at the first sample point on the transect. /
+Identify species present within the quadrat. /
+Estimate the percentage cover of each species. /
+Move the quadrat along the transect and repeat sampling (to generate a belt transect). /
+Move the transect to a different position on the shore (to increase reliability of sampling). (any 4)										1m x 4
+Be careful when walking on rocky (slippery) terrain / at sample points close to the water line / of breaking waves.								1m	
+---------------------------------------------------
+
+[10241083]
+// Overseas exam question // Graph interpretation // Communication //
+**	The elk, Cervus canadensis, is a large herbivore.
+The graph below shows figures relating to the number of elk in Yellowstone National Park in the USA between 1965 and 2002.
+	
+
+The figures were obtained in two different ways:
+the white bars show estimated numbers of live elk obtained by ecological sampling
+the black bars show numbers of elk that were legally shot by hunters.
+In some years no data for live elk were obtained.
+a	i	Using the graph, describe the pattern shown by the data for the estimated number of live elk from 1965 to 2002.			(3 marks)
+ii	The recorded number of elk legally shot by hunters provides accurate data.
+Suggest why these data are accurate, but the method used to obtain these data is not a valid way of estimating the number of elk in the population.										(2 marks)
+b	The grey wolf, Canis lupus, is a large predator whose diet includes elk.
+By 1926, grey wolves had been hunted to extinction in Yellowstone Park. However, this species could still be found in other parts of the world.
+In 1995, a population of grey wolves was introduced to Yellowstone Park and their numbers increased.
+i	With reference to the graph, discuss the factors that may have affected the size of the elk population:
+before 1995
+after 1995.
+In your answer you should provide a balanced account referring to factors before and after 1995.							(6 marks)
+ii	Explain why the introduction of wolves to Yellowstone Park in 1995 is an example of conservation.							(2 marks)
+OCR GCE (A) Biology Control, Genomes and Environment Jun 2015 Q2
+
+-- answer --
+a	i	The estimated number of live elk peaked in 1988 / 1994. /
+The estimated number of live elk decreased after 1994. /
+The estimated number of live elk decreased and then increased from 1988 to 1994. /
+The estimated number of live elk fluctuated. /
+There was an overall increase in the estimated number of live elk from 1965 to 2002. (any 3)										1m x 3
+ii	The data are accurate because the actual number of elk shot was recorded.													1m
+The method used is not valid because the number of elk shot / hunting success varies independently of population size.				1m
+b	i	Before 1995, the population increased because there was plenty of food / less or no predation / enough space / less hunting. /
+Before 1995, the population levelled off because the carrying capacity of the environment was reached. /
+Before 1995, the population was limited by intraspecific competition for food / space / shelter / mates. /
+Before 1995, the population was limited by interspecific competition for food / space / shelter. /
+The population declined due to severe weather / natural disaster (e.g. parasites / disease / drought / floods / fires). /
+The decrease in the population before 1995 was not due to the wolves as none was present. /
+The decrease in the population after 1995 was (probably) due to the wolves. /
+The effect of wolves on the population of elk may be debatable. (any 6)													1m x 6
+ii	The introduction restores the ecosystem (to its original form) / maintains biodiversity. /
+The introduction helps the wolf population. /
+The introduction prevents over-population of the elk. /
+The introduction prevents over-grazing / damage to the habitat / ecosystem.
+(any 2)											1m x 2	
+---------------------------------------------------
+
+[10241099]
+// Cross-topic // High order thinking // Schematic diagram //
+*	The diagram below shows a simplified nitrogen cycle.
+
+	
+
+a	Describe the events that take place in process X.				(2 marks)
+b	With reference to process Y, explain how the level of nitrates in the soil would change if the soil is waterlogged.						(3 marks)
+c	A farmer added a nitrate-based fertilizer to his fields in order to promote the growth of crops.
+i	Explain why plants need nitrogen for growth.			(1 mark)
+ii	Based on your biological knowledge, state and explain how water absorption of crops would be affected if too much fertilizer is added.
+												(2 marks)
+-- answer --
+a	Nitrogen fixing bacteria present in the root nodules of leguminous plants convert nitrogen gas in soil air to ammonium compounds.					1m
+Ammonium compounds are taken up by the leguminous plants for protein synthesis.													1m
+b	The soil becomes poorly aerated if it is waterlogged.					1m
+Denitrifying bacteria would change nitrates in the soil into nitrogen gas.	1m
+The level of nitrates in the soil would decrease.						1m
+c	i	For making proteins / DNA									1m
+ii	The water potential of the soil water becomes lower if too much fertilizer is added to the soil.										1m
+Water cannot move into the root hair cells of the crops by osmosis. Hence, water absorption of the crops would decrease.					1m	
+---------------------------------------------------
+
+[10241102]
+// Graph interpretation // High order thinking //
+*	The graphs below show the biomass of the shrubs, snowshoe hares and lynxes in an area over a period of time.
+
+	
+a	State two abiotic factors that affect the biomass of the shrubs.	(2 marks)
+b	Describe the feeding relationship between the shrubs, snowshoe hares and lynxes.												(2 marks)
+c	State and explain the change in the biomass of
+i	the snowshoe hares from the 6th to the 7th year.			(2 marks)
+ii	the lynxes from the 12th to the 13th year.				(2 marks)
+-- answer --
+a	Temperature												1m
+Light														1m
+(or other correct answers)
+b	The snowshoe hares feed on the shrubs.							1m
+The lynxes feed on the snowshoe hares.							1m
+c	i	The biomass of the snowshoe hares decreased.					1m
+As the biomass of the shrubs decreased during this period, less food was available for the snowshoe hares. Hence, the population of snowshoe hares decreased.											1m
+ii	The biomass of the lynxes increased.							1m
+As the biomass of the snowshoe hares increased during this period, more food was available for the lynxes. Hence, the population of lynxes increased.
+													1m	
+---------------------------------------------------
+
+[10241112]
+// High order thinking // Schematic diagram // Applying concepts //
+*	The diagram below shows the dominant plant species during a primary succession from barren rocks to a forest.
+	
+a	Explain the role of lichens in this primary succession on barren rocks.																(3 marks)
+b	Why do the dominant plant species change during this primary succession?														(2 marks)
+c	Explain how the biomass changes during this primary succession.																(2 marks)
+d	The trees in the forest have leaves all the year round. How does this result in a low species diversity of plants in the forest? 				(1 mark)
+e	If the forest is destroyed by fire, the subsequent re-growth is an example of secondary succession. Suggest two reasons why secondary succession usually develops more quickly than primary succession.		(2 marks)
+-- answer --
+a	They help break up the rocks into smaller particles to form soil. /
+They increase the amount of organic matter in the soil. /
+They hold water. /
+They change the soil pH. /
+They reduce erosion. (any 3 or other correct answers)				1m x 3
+b	The plants change the environment							1m
+and the more competitive plant species can grow more successfully in the environment.											1m
+c	The biomass increases as this primary succession progresses.		1m
+The plant species at later stages of the succession are larger in number and size.														1m
+d	Only the plants that can carry out photosynthesis at low light intensity can survive. 														1m
+e	Soil is already formed. /
+Nutrients are already present. /
+Seeds, roots and underground vegetative organs of plants remaining in the soil can grow and develop into new plants rapidly. (any 2)				1m x 2	
+---------------------------------------------------
+
+[10241120]
+// Drawing // Data handling // Calculation //
+*	Below is a food chain found in a field and some data about the organisms.
+	(		(		(		
+lettuce		greenfly		ladybird		bird	
+
+Organism	Number of organisms in the food chain	Dry mass of each organism (g)	Total biomass of organisms (g)	
+Lettuce	12	25		
+Greenfly	600	0.1		
+Ladybird	60	0.5		
+Bird	1	12		
+
+a	Calculate the total biomass of each organism in the table.		(2 marks)
+b	Using the results in a, construct a pyramid of biomass for this food chain. Make sure the pyramid of biomass is drawn to scale.			(4 marks)
+	
+
+c	Only about 10% of energy from the ladybirds is incorporated into the biomass of the bird. The rest of the energy is lost. Give two ways by which energy is lost.											(2 marks)
+d	If the bird in this food chain is replaced by a lizard, would more or less energy from the ladybirds be incorporated into the biomass of the lizard? Give a reason for your answer.							(2 marks)
+-- answer --
+a														2m
+Organism
+Total biomass of organisms (g)
+
+Lettuce
+300
+
+Greenfly
+60
+
+Ladybird
+30
+
+Bird
+12
+
+b	Correct title											1m
+Correct labels											1m
+Correct scale and shape of pyramid							2m
+		
+
+
+c	Energy is lost through uneaten body materials / egested material / excretory products and respiration. (any 2)								1m x 2
+d	More energy would be incorporated into the biomass of the lizard		1m
+because the lizard does not need to spend energy on maintaining its body temperature.											1m	
+---------------------------------------------------
+
+[10241122]
+// Graph interpretation // Communication //
+*	The diagram below shows the changes in biomass of four types of plants, P, Q, R and S, in a habitat over a period of time.
+	
+
+a	Which type of succession is shown in the diagram above?		(1 mark)
+b	Which type of plant is the pioneer species? Explain your answer.																(2 marks)
+c	Describe and explain the changes in the biomass of plants P, Q, R and S at time X. 												(4 marks)
+d	What is the term used to describe the status of the biotic community in the habitat at time Y? 										(1 mark)
+ 
+-- answer --
+a	Primary succession											1m
+b	Plant S													1m
+Its biomass was the first to increase after volcanic eruption.				1m
+c	The biomass of plants R and S became steady 						1m
+because plant Q grew over plants R and S and became the dominant species in the habitat.												1m
+The biomass of plant Q was falling 								1m
+because plant P, a stronger competitor than plant Q, was increasing in biomass.															1m
+d	Climax community											1m	
+---------------------------------------------------
+
+[10241131]
+// Data handling // Calculation //
+*	The diagram below shows the energy transfer in a marine ecosystem. The energy values are in joule per square metre per day.
+	
+a	The efficiency of energy transfer refers to the percentage of energy available to the organism in the next trophic level. Calculate the efficiency of energy transfer of the following:
+i	from producer to primary consumer					(1 mark)
+ii	from primary consumer to secondary consumer			(1 mark)
+b	Explain the difference between the efficiency of energy transfer in a i and ii.													(2 marks)
+c	Describe the ways of energy loss when energy is transferred from the alga to the shrimp.											(2 marks)
+d	Would the efficiency of energy transfer be higher or lower if the large fish was replaced with a marine mammal (e.g. dolphin)? Explain your answer.								 		 		 		(2 marks)
+-- answer --
+a	i	(240 / 2000) × 100% = 12%								1m
+ii	(21.6 / 240) × 100% = 9%									1m
+b	Most parts of the alga are digestible for the shrimp.					1m
+A large proportion of the body parts (e.g. exoskeleton) of the shrimp is indigestible and is unavailable as energy sources for the small fish.				1m
+c	Energy is lost in the form of uneaten parts of the alga.					1m
+Some energy is lost through respiration of the alga.					1m
+d	The efficiency of energy transfer would be lower						1m
+because marine mammals spend more energy in maintaining a constant body temperature.												1m	
+---------------------------------------------------
+
+[10241132]
+// High order thinking // Applying concepts //
+*	A farmer grows different crops on a field in different years. The diagram below shows the sequence of the crops grown.
+
+	
+
+a	What is the advantage of growing different crops in different years?															(2 marks)
+b	Including legumes in the crop production cycle can increase soil fertility. Why?												(2 marks)
+c	Some crops may not be harvested and die. Describe how the following elements in these dead crops return to the physical environment.
+i	Carbon											(2 marks)
+ii	Nitrogen											(3 marks)
+
+
+-- answer --
+a	Different crops require different minerals to grow.						1m
+Growing different crops in different years can avoid the depletion of certain minerals from the soil.										1m
+b	The root nodules of the legumes contain nitrogen fixing bacteria.			1m
+The bacteria can convert nitrogen gas in soil air to ammonium compounds, which are nutrients for plant growth.									1m
+c	i	Carbon is returned to the physical environment in the form of inorganic compounds when decomposers break down the organic matter during decomposition.											1m
+When decomposers carry out respiration, carbon is returned to the atmosphere in the form of carbon dioxide.						1m
+ii	When decomposers break down the organic matter in the dead crops, nitrogen-containing compounds in the crops are converted to ammonium compounds.											1m
+The ammonium compounds are turned into nitrites and then nitrates by nitrifying bacteria. The nitrites and nitrates enter the soil.			1m
+Nitrates in the soil may be converted to nitrogen gas by denitrifying bacteria. The nitrogen gas is released to the atmosphere.					1m	
+---------------------------------------------------
+
+
+
+[10241146]
+// Overseas exam question // Communication // Schematic diagram //
+*	Knowledge of the nitrogen cycle can be used to make decisions about management of farmland. A farmer uses her grass meadow to raise sheep. In a separate field she grows cabbages.
+The diagram below shows part of the nitrogen cycle. The four boxes on the bottom line of the diagram refer to substances in the soil.
+	
+a	Briefly describe the steps that must occur for plant protein to be converted to animal protein in the farmer's sheep, as shown by arrow A in the diagram.													(3 marks)
+b	List the processes which contribute to B in the meadow where sheep are raised. 												(2 marks)
+c	Name the bacteria that carry out processes C and D, and explain the significance of these bacteria for the growth of plants. 		(3 marks)
+d	Use the letters in the diagram to explain why the soil nitrate concentration will decrease in the cabbage field if it is used to grow repeated crops of cabbages year after year.									(3 marks)
+
+
+
+e	The farmer does not wish to use inorganic fertilizer to replace the nitrates in the soil of the cabbage field. She wishes to make use of process F.
+Suggest a crop she could plant that would allow process F to occur and explain how this would add nitrates to the soil.				(3 marks)
+OCR GCE (A) Control, Genomes and Environment Jun 2011 Q1a
+-- answer --
+a 	The sheep feeds on plants.								1m
+Proteins in the plants are digested into amino acids, 				1m
+which are then used to synthesize proteins in the sheep's body.		1m
+b	Excretion / egestion / decomposition of dead body (any 2)			1m x 2
+c	C and D are carried out by nitrifying bacteria.					1m
+Nitrifying bacteria turn ammonium compounds into nitrates 			1m
+which will be used by plants to synthesize amino acids / proteins.		1m
+d	Plants use nitrates (E). 									1m
+Less decay (B) occurs as cabbages are harvested.				1m
+Less nitrification (C and D) occurs as a result. 					1m
+e	Leguminous plants										1m
+Nitrogen fixing bacteria in their root nodules convert nitrogen gas into ammonium compounds.											1m
+Ploughing the plants in the soil / decaying of the plants adds nitrates to the soil. 														1m	
+---------------------------------------------------
+
+[10241190]
+// Overseas exam question // Graph interpretation // High order thinking //
+*	Native hardwood (oak) forest and softwood (spruce) commercial plantations are very different ecosystems.
+A comparison was made of the light intensity at ground level in an oak forest and a spruce plantation. In this investigation, light intensity on the woodland floor was calculated as a percentage of the light intensity outside the woodland (where there is no shade).
+a	Explain why the percentage daylight data for each month would have been an average of a number of measurements made at different regions of the woodland floor.										(2 marks)
+
+The results of the investigation are shown in the graph below.
+	
+
+b	i	Using the information in the graph, suggest which woodland would show greater diversity. Explain your choice.				(4 marks)
+ii	Scientists estimated the biodiversity in each type of woodland by counting the number of species and the number of each species present in 30 quadrats within each type of woodland. They carried out this survey in mid-June.
+Suggest one reason why their survey probably underestimated the biodiversity in the woodlands.						(1 mark)
+CCEA GCE (A) Biology Module 1 May 2011 Q8a, b
+-- answer --
+a	This can even out shading effects due to closeness of trees. / 
+This can even out effects of cloud. / 
+Taking a number of readings increases reliability. (any 2)			1m x 2
+b	i	Oak forest											1m
+The overall light intensity is higher.						1m
+It has a greater range of light intensities, 					1m
+which encourages plants favouring different light conditions.	1m
+ii	Species that only grow in earlier / later seasons were not recorded. / 
+Species in trees / in soil were not recorded. / 
+There is limitation of using quadrats for estimating the presence of animal species.											1m	
+---------------------------------------------------
+
+[10241192]
+// Overseas exam question // Data handling // High order thinking //
+**	There are an estimated 40 000 red squirrels throughout Ireland. However the range of this indigenous species is rapidly contracting as grey squirrels (Sciurus carolinensis), which were introduced from North America, continue to spread and outcompete reds. Some information about both red and grey squirrels is given in the table below.
+
+Feature	Red squirrel	Grey squirrel	
+Body length	20-22 cm	25-27 cm	
+Body mass	275-305 g	540-660 g	
+Body shape	Slender	Stocky	
+Habitat	Mainly coniferous forest	Broadleaf forest	
+Diet	Seeds, nuts, buds and berries	Same as red, plus acorns (particularly big seeds); can eat seeds that are not fully ripe	
+Feeding area	Mainly in the tree canopy	Mainly on the ground	
+Breeding	2-3 litters per year with 3-4 kittens per litter	3-4 litters per year with 5-6 kittens per litter	
+
+a	Using the information in the table, suggest explanations as to how the grey squirrels are able to outcompete the red squirrels.				(4 marks)
+b	Throughout Ireland there are many conservation projects aimed at increasing the population of red squirrels. One way is to provide supplementary feeding for the red squirrels and suitable food hoppers are currently in use at some of Ireland's forest parks. 
+Using information from the table, suggest and explain how food hoppers could be designed and placed in such a way as to favour the red squirrels.														(2 marks)
+c	Suggest one other way in which forestry management could encourage the spread of red squirrels.									(1 mark)
+CCEA GCE (AS) Biology Module 2 Jun 2012 Q7b
+
+
+
+
+
+-- answer -
+a	They have more litters per year, meaning their population increases more readily. /
+Stocky body shape allows them to survive the winter better. / 
+Larger body mass means they have more stored fat / food reserves. / 
+Larger body mass means they may be more able to fight for food. / 
+They can eat seeds that are not fully ripe, thus leaving less for the red squirrels. / 
+They have a more varied diet. (any 4 or other reasonable answers)	1m x 4
+b	Design: 
+Small entrance hole will only allow the more slender red squirrels to gain access.														1m
+Placement: 
+In the tree canopy, as that is the preferred feeding area for the red squirrels.															1m
+c	Planting more coniferous forest. /
+Planting more of the species which favour the red squirrels. 
+(or other reasonable answers)								1m	
+---------------------------------------------------
+
+[10241214]
+// Overseas exam question // Data handling // High order thinking //
+*	In most of lowland Britain the natural climax community is broadleaf forest. In more mountainous regions it is mainly moorland.
+When an ecosystem such as a forest is destroyed by fire or storm damage, the resulting regrowth is an example of secondary succession.
+a	Suggest two reasons why secondary succession is usually a quicker process than primary succession.									(2 marks)
+Secondary succession in a wood destroyed by fire has been investigated over the 20 years immediately following the fire. The table below shows the biomass of a range of plant species (recorded as kg in a 25 m2 section of woodland). The species were grouped as herbs, shrubs or trees.
+Species	Group
+(herb, shrub, tree)	Biomass (kg 25 m-2 over time)	
+		5th year	10 th year	15 th year	20 th year	
+Birch 
+(Betula spp.)	Tree	0.7	5.2	8.9	14.8	
+Cow parsley (Anthriscus sylvestris)	Herb	1.2	0.4	0.2	0.1	
+Dandelion (Taraxacum officinale)	Herb	0.4	0.2	0.1	0.1	
+Goose grass (Galium aparine) 	Herb	0.3	0.2	0.1	0.1	
+Gorse (Ulex europaeus)	Shrub	1.3	3.6	2.2	1.4	
+Hazel (Corylus avellana)	Tree	0.9	2.0	2.9	4.3	
+Heather (Calluna vulgaris)	Shrub	0.8	2.9	1.4	0.6	
+Lords and Ladies (Arum maculatum)	Herb	0.5	0.4	0.2	0.2	
+Nettle (Urtica dioica)	Herb	1.4	0.7	0.2	0.2	
+Rhododendron (Rhododendron ponticum)	Tree	0.6	4.2	8.4	12.4	
+b	Describe and explain the pattern of succession shown.			(4 marks)
+c	During the investigation, only plant biomass above the ground surface was measured. Suggest reasons for this.						(2 marks)
+CCEA GCE (A) Biology Module 1 Jan 2012 Q3
+
+-- answer --
+a	Soil is already formed. / 
+Nutrients are present. / 
+Underground root systems / storage organs can regenerate. / 
+Seeds are present in the soil.
+(any 2 or other reasonable answers)							1m x 2
+b	Herbs are dominant initially, then shrubs, and then trees. / 
+In the first five years, herbs dominate due to limited competition. /
+Shrubs outcompete herbs. / 
+Tree growth causes reduction in shrubs due to light shading / competition for  water / nutrients. / 
+Trees are only dominant after 15 years as they grow slowly. (any 4)	1m x 4
+c	Some biomass under the ground from previous community may distort the  results. / 
+It is difficult to obtain entire root systems. / 
+This method produces less damage to the ecosystem. / Plants would be killed if roots are removed for measurement. /
+This allows secondary succession to continue. 
+(any 2 or other reasonable answers)							1m x 2	
+---------------------------------------------------
+
+[10241223]
+// Communication // Basic concepts //
+	State the relationship between the following organisms and describe how they interact with each other.
+a	Algae and fungi in lichens								(3 marks)
+b	Egrets staying on the back of cattle and the cattle				(3 marks)
+c	Tapeworms living inside the human body and the humans		(3 marks)
+-- answer --
+a	Mutualism													1m
+Algae make food by photosynthesis for both organisms.				1m
+Fungi form a sponge-like body that holds water, provides protection and anchorage for both organisms.									1m
+b	Commensalism												1m
+The egrets feed on insects stirred up by the cattle as they graze in grassland.															1m 
+The cattle are unaffected by the egrets.							1m
+c	Parasitism													1m
+Tapeworms live inside the intestines of humans and absorb nutrients from humans. 													1m
+Humans are harmed through the loss of nutrients.					1m	
+---------------------------------------------------
+
+[10241230]
+// Communication // Schematic diagram // Basic concepts //
+*	The diagram below shows part of the nitrogen cycle that occurs in the farmland.
+	
+a	In which form is nitrogen absorbed from the soil into the plant roots?															(1 mark)
+b	i	Why does the nitrogen content of the soil in the farmland decrease? 													(1 mark)
+ii	How can the farmers increase the nitrogen content of the soil? 														(1 mark)
+c	Describe how the nitrogen in the tissues of dead plants can be used for the growth of other plants. Name the organisms involved.			(5 marks)
+-- answer --
+a	Nitrates									 				1m
+b	i	Nitrates in the soil are absorbed by the plants for protein synthesis.	1m
+ii	Nitrogen content of the soil can be increased by adding fertilizers / planting and ploughing leguminous plants into the soil.					1m
+c	The tissues of dead plants are broken down by the decomposers / fungi / bacteria.														1m
+Nitrogen in the tissues is converted into ammonium compounds.			1m
+The ammonium compounds are then turned into nitrites and then into nitrates															1m
+by nitrifying bacteria.											1m
+Nitrates are absorbed by other plants for growth.						1m	
+---------------------------------------------------
+
+[10241246]
+// Communication // Applying concepts //
+	a	The soil in marshes often contains low concentrations of nitrogen compounds as a result of denitrification. Sundew is a plant which grows in this soil. Its leaves have sticky hairs which can trap small insects and secrete enzymes to digest them.
+
+
+Sundew	
+
+i	Describe the process of denitrification.					(2 marks)
+ii	Explain how digestion of insects helps the sundew to obtain additional nitrogen compounds.								(2 marks)
+iii	Name the relationship between the insects and the sundew mentioned in a ii.											(1 mark)
+b	Describe how nitrogen in the tissue of a dead plant is made available for the use of other plants.										(5 marks)
+-- answer --
+a	i	Nitrates are converted into nitrogen gas						1m
+by denitrifying bacteria.									1m
+ii	Insect proteins are digested into amino acids					1m
+which can be absorbed into the plants. 						1m
+iii	Predation												1m
+b	Tissue of the dead plant is broken down and nitrogen in it is converted to ammonium compounds										1m
+by saprophytes / decomposers / bacteria.							1m
+Ammonium compounds are turned into nitrites and then into nitrates		1m
+by nitrifying bacteria.											1m
+The nitrates are then released into the soil and absorbed by other plants.	1m	
+---------------------------------------------------
+
+[10241252]
+// Applying concepts //
+	The diagram below shows a food web in an ecosystem.
+
+	
+
+a	List all the secondary consumers in the food web.				(3 marks)
+b	What is the relationship between
+i	shrimp and fish Y?									(1 mark)
+ii	fish Z and eagle?									(1 mark)
+c	If the population of fish Y decreases significantly due to overfishing, suggest the change in the populations of the following organisms. Give a reason for the change.
+i	Fish Z											(2 marks)
+ii	Shrimps											(2 marks)
+
+-- answer --
+a	Eagle, fish Y, shrimp										1m x 3
+b	i	Competition										1m
+ii	Predation											1m
+c	i	The population of fish Z will decrease						1m
+because less food is available.							1m
+ii	The population of shrimps will increase					1m
+because more food and space are available as competition from fish Y is reduced.											1m	
+---------------------------------------------------
+
+[10241253]
+// Applying concepts //
+*	The diagram below shows a pyramid of biomass of a tropical rainforest. 
+
+	
+
+a	With reference to the above diagram, explain why food chains rarely consist of more than five trophic levels.							(3 marks)
+b	Describe how producers obtain energy.						(1 mark)
+c	Describe how the biomass of consumers and producers becomes the biomass of decomposers.								(2 marks)
+d	Apart from the energy obtained by the decomposers, how is energy lost from one trophic level to another?							(1 mark)
+e	Which trophic level has the greatest effect on atmospheric carbon dioxide level? Explain your answer.								(2 marks)
+
+-- answer --
+a	The amount of biomass in an organism is proportional to the amount of energy stored in it. 												1m
+From the diagram, biomass of organisms decreases from one trophic level to the next, indicating that energy is lost when it is transferred from one trophic level to another.													1m
+The amount of energy that can be passed to the fifth level would be so little that it may not be enough to support the life of the organisms.				1m
+b	Producers capture light energy and convert it into chemical energy stored in organic compounds in the process of photosynthesis.					1m
+c	Decomposers feed on organic waste and dead bodies of consumers and producers.													1m
+The nutrients from the organic waste and dead bodies are assimilated to build the body parts of the decomposers.									1m
+d	Some energy is lost as heat during respiration or when it is used to support body functions. 													1m
+e	Producers 												1m
+They take in carbon dioxide during photosynthesis to keep the balance of carbon dioxide in the atmosphere.										1m	
+---------------------------------------------------
+
+[10241259]
+// High order thinking // Applying concepts //
+*	The photograph below shows a Galapagos tortoise.
+	
+Galapagos tortoises are able to eat leaves on bushes above the ground while other species of tortoises can only eat food on the ground. 
+a	State how the body structure of Galapagos tortoises allows them to eat leaves on bushes.										(2 marks)
+b	Explain why they have a higher survival chance than other species of tortoises.												(2 marks)	
+c	If some goats are introduced to the habitat of the Galapagos tortoises, explain how the population of tortoises is affected. 			(2 marks)
+d	Scientists warned that the increase in human population may lead to a decrease in the population of Galapagos tortoises. Explain why.	(2 marks)
+-- answer --
+a	Galapagos tortoises have a long neck.							1m
+The special shape of their shell allows their head to rise.				1m
+b	They do not need to compete with other species of tortoises for the food on the ground.													1m
+They can survive even when there is no food on the ground.			1m
+c	The goats compete with Galapagos tortoises for food. 				1m
+The population of Galapagos tortoises decreases.					1m
+d	The building of houses may destroy the habitat of Galapagos tortoises,	1m
+and reduce the space and food available for the tortoises.				1m	
+---------------------------------------------------
+
+[10241273]
+// Calculation // Schematic diagram //
+*	A food chain is shown below.
+
+grass → grasshopper → mouse → fox	
+
+a	Name one herbivore and one carnivore in the food chain.		(2 marks)
+b	The diagram below shows the energy flow between the grass and the grasshopper.	
+	
+i	Describe the role of grass in the energy flow of ecosystem.	(2 marks)
+ii	Calculate the energy loss when energy is transferred from the first to the second trophic level. Show your workings.			(2 marks)
+iii	How is this energy lost?								(2 marks)
+c	A farmer killed all the mice on his farm. How would this affect the population of 
+i	grasshoppers?										(2 marks)
+ii	foxes? 											(2 marks)
+-- answer --
+a	Herbivore: grasshopper										1m
+Carnivore: mouse / fox										1m
+b	i	Grass captures light energy and converts it to chemical energy stored in organic compounds in the process of photosynthesis.				1m
+The energy is then transferred along the food chain. 				1m
+ii	23 000 - 19 500 										1m
+= 3500 kJ m-2 year-1										1m
+iii	Some energy is lost because only a proportion of grass is eaten by grasshoppers. 											1m
+Some energy is lost as heat during respiration or when it is used to support body functions of the grass.								1m
+c	i	The number of grasshoppers would increase 					1m
+because there is no mouse to eat them.						1m
+ii	The number of foxes would decrease							1m
+because killing the mice would reduce the food supply for foxes.		1m	
+---------------------------------------------------
+
+[10241277]
+// Graph interpretation // High order thinking // Communication //
+*	a	Explain the meaning of the terms population and community.	(4 marks)
+b	Different organisms in the same community interact with one another. The graph below shows the numbers of four species of plants in a certain area of a forest in a 40-year period after the introduction of species W.
+	
+i	Describe the change in the numbers of different species in these 40 years.											(4 marks)
+ii	Explain why the population of species W increases rapidly in the first 25 years.											(1 mark)
+iii	Why does the number of species W become steady after year 25?													(1 mark)
+iv	What is the relationship between species W and Y? Explain your answer with reference to the graph.					(2 marks)
+-- answer --
+a	Population refers to a group of organisms of the same species 			1m
+living in the same habitat.										1m
+Community refers to all the populations of different species				1m
+living in the same habitat. 										1m
+b	i	The number of species X remains nearly the same.				1m
+The numbers of species Y and Z decrease gradually in the first 25 years.														1m
+The number of species W increases rapidly in the first 25 years.		1m
+The numbers of species W, Y and Z become steady after year 25.	1m
+ii	No organism feeds on species W in the forest. / 
+Species W may be very efficient in reproduction.					1m
+iii	The resources in the forest may not be enough to support the growing of more plants. / There is a limited amount of food or space for the growth of species W.											1m
+iv	Interspecific competition / Competition						1m
+The number of species Y decreases as the number of species W increases, indicating that they may compete for the same resources, e.g. light, nutrients, space, etc.											1m	
+---------------------------------------------------
+
+[10241284]
+// Applying concepts //
+	The diagram below shows a food web in a grassland.
+	
+a	Give two food chains shown in the above food web that involve four trophic levels.												(2 marks)
+b	How can light energy from the sun be incorporated into organic  compounds?											(1 mark)
+c	Name one producer, primary consumer, secondary consumer and tertiary consumer in the above food web.							(4 marks)
+d	A group of organisms important for cycling of materials in ecosystems is not shown in the food web. What is it?						(1 mark)
+-- answer --
+a	grass → grasshopper → small bird → hawk						1m
+grass → rabbit → snake → hawk								1m
+b	Grass captures light energy and converts it to chemical energy which is stored in the organic compounds in the process of photosynthesis.				1m
+c	Producer: grass												1m
+Primary consumer: grasshopper / rabbit							1m
+Secondary consumer: small bird / hawk / snake						1m
+Tertiary consumer: hawk										1m 
+d	Decomposers												1m 	
+---------------------------------------------------
+
+[10241297]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows part of the carbon cycle. 
+
+	
+
+a	Name processes P, Q, R and S.							(4 marks)
+b	As human population increases, the level of carbon dioxide in the atmosphere also increases.
+i	With reference to the above diagram, explain why the level of carbon dioxide in the atmosphere increases.					(4 marks)
+ii	State one environmental problem caused by the increase in carbon dioxide level.										(1 mark)
+iii	Suggest two actions that we can take to reduce the effect of human activities on the atmospheric carbon dioxide level.		(2 marks)
+-- answer --
+a	P: photosynthesis										1m
+Q: respiration											1m
+R: feeding												1m
+S: combustion / burning									1m
+b	i	As human population increases, the use of fossil fuels increases.	1m
+This increases the amount of carbon dioxide released into the atmosphere.													1m
+As human population increases, more land is needed for building houses. Forests are cleared for building houses. 					1m
+As the number of trees decreases, the amount of carbon dioxide removed from the atmosphere by photosynthesis decreases.			1m
+ii	Global warming										1m
+iii	We can reduce the use of fossil fuels / use alternative energy sources. / 
+We can reduce the use of vehicles / walk more. / 
+We can travel by using public transport. / 
+We can reduce the use of paper. / 
+We can plant more trees. (any 2 or other reasonable answers) 	1m x 2	
+---------------------------------------------------
+
+[10241301]
+// Drawing // Data handling // High order thinking //
+**	The tables below show the populations in two ecosystems, X and Y, in South East Asia.
+
+Ecosystem X
+Organism	Number	Total dry mass of organisms (kg)	
+Grass	1 000 000	25 000	
+Rabbit	100	150	
+Owl	3	15	
+
+Ecosystem Y
+Organism	Number	Total dry mass of organisms (kg)	
+Tree	1	20 000	
+Herbivorous insect	5 000	200	
+Insect-eating mouse	50	50	
+Owl	3	15	
+
+a	Sketch and label
+i	the pyramid of numbers of ecosystem Y.				(2 marks)
+ii	the pyramid of biomass of ecosystem Y.					(2 marks)
+b	Owls can obtain food from both ecosystems.
+i	In which ecosystem can owls obtain more energy from the producers? Explain your answer.								(2 marks)
+ii	State three ways that energy is lost between trophic levels.	(3 marks)
+c	In South East Asia, there is little rainfall in winter. Describe and explain how this affects the population of rabbits in ecosystem X in winter.															(3 marks)
+-- answer --
+a	i	
+			
+Correct shape										1m 
+Correct labels										1m
+ii	
+			
+(unit of biomass: kg)
+Correct shape										1m 
+Correct labels										1m
+b	i	Ecosystem X										1m
+There are fewer trophic levels and thus less energy is lost when energy is transferred along the food chain.							1m
+ii	Some energy is lost because only a proportion of organisms is eaten by other organisms. /
+Some energy is lost when undigested and unabsorbed materials are passed out as faeces. /
+Some energy is lost as heat during respiration or when it is used to support body functions. /
+Some energy is lost through excretory products. (any 3)		1m x 3
+c	The population of rabbits decreases in winter.					1m
+There is less water for the growth of grass, and hence less food for rabbits.															1m
+The owls keep feeding on rabbits and this further decreases the population of rabbits. 												1m	
+---------------------------------------------------
+[10241309]
+// Graph interpretation // Communication //
+*	The graph below shows the changes in populations of two organisms (X and Y) in a habitat over a period of time. One of the organisms feeds on the other. 
+
+	
+
+a	Which organism, X or Y, is the predator? Why?				(2 marks)
+b	Explain why the peak of population size of X is always smaller than that of Y in the same cycle.									(4 marks)
+c	What would happen to the population of Y if all X are hunted and killed by man? Explain your answer.								(3 marks)
+
+-- answer --
+a	X														1m
+The changes in the population of X always lag behind those of Y.			1m
+b	A predator is usually larger in body size than its prey. 					1m 
+Also, when energy is transferred from Y to X, there is energy loss		1m
+due to uneaten organisms, respiration / metabolism, undigested and unabsorbed materials and excretory products.								1m
+Therefore, more Y are needed to support X.						1m
+c	The population of Y would increase because the predation by X is reduced.	1m
+After a period of time, food supply is not enough to support the abnormally large population of Y / infectious diseases may break out in the population due to overcrowding.												1m
+The population of Y would then rapidly decrease to a lower level.			1m	
+--------------------------------------------------- 
+
+[10241311]
+// Graph interpretation // High order thinking // Communication //
+**	The graph below shows the changes in the populations of some phytoplankton and zooplankton in a lake throughout a year from January to December. The variation in light intensity in this period is also shown.
+	
+a	Describe the effects of light intensity on the population of phytoplankton from January to April. Explain briefly.						(3 marks)
+b	With reference to the graph, discuss how phytoplankton and zooplankton affect each other. 										(5 marks)
+-- answer --
+a	As the light intensity increases from January to April, the population of phytoplankton increases and reaches a maximum in April.				1m
+Phytoplankton are autotrophs. 									1m
+As light intensity increases, the rate of photosynthesis increases. Thus the phytoplankton can reproduce at a higher rate.						1m
+b	Zooplankton feed on phytoplankton.								1m
+The increase in the population of phytoplankton from January to April provides more food for the zooplankton. Therefore the zooplankton reproduce and their quantity increases rapidly.										1m
+As the population of zooplankton increases, the zooplankton eat up the phytoplankton so quickly that the population of phytoplankton decreases.	1m
+As the food supply is limited, the reproduction rate of zooplankton slows down and the population of zooplankton decreases.							1m
+When the population of phytoplankton decreases further in November and December, the population of zooplankton also decreases as the food supply is limited.													1m	
+---------------------------------------------------
+[10241324]
+// Scientific investigation // Drawing // Data handling //
+*	A scientist carried out an investigation to study the interaction between different species of organisms. The table below shows the numbers of two different species of beetles on the same tree. The beetles were given a constant source of food throughout the investigation.
+
+	Number of beetles	
+Time (month)	Species X	Species Y	
+0	20	50	
+5	50	80	
+10	40	120	
+15	30	160	
+20	10	180	
+25	0	190	
+
+a	Plot a graph to show the changes in the numbers of different species of beetles throughout the investigation.						(4 marks)
+b	Explain why there is a rapid increase in the numbers of both species during the first 5 months. 										(1 mark)
+c	What is the relationship between species X and Y?			(1 mark)
+d	Explain why the number of species X decreases after 5 months.	(2 marks)
+e	What is the maximum carrying capacity of the environment for the two species of beetles? 										(1 mark)
+f	If species Y but not species X suffers from a disease and becomes weaker at the beginning of the investigation, how would the result of the investigation change? Explain your answer.							(2 marks)
+
+-- answer --
+a	Correct title 												1m
+Choice of axes	 											1m
+With labels and units											1m
+Correct plotting and joining of line								1m
+b	There are sufficient food and space for the growth of both species. 		1m
+c	Competition						 						1m
+
+
+
+d	As the populations of both species increase rapidly in the first 5 months, the resources (e.g. space) can no longer support the growth of both species at the same time.												1m
+Species Y has a certain advantage that it exerts stronger control over the competition.												1m
+e	190 beetles												1m
+f	The number of species X would increase. 							1m
+More food and space are available for species X to grow.				1m	
+---------------------------------------------------
+
+[10241341]
+// High order thinking // Applying concepts //
+*	a	At which trophic level are you feeding on when you eat the following? 														(2 marks)
+i	Eggs
+ii	Grapes
+b	Is all chemical energy stored in the food consumed converted to chemical energy of your body materials? Explain.					(3 marks)
+c	Describe how nitrogen in the soil becomes part of the proteins in our body.														(4 marks)
+-- answer --
+a	i	Third trophic level									1m
+ii	Second trophic level									1m
+b	No													1m
+Some energy is lost when undigested and unabsorbed materials are passed out as faeces. /
+Some energy is lost as heat during respiration or when it is used to support body functions. /
+Some energy is lost through excretory products. (any 2)			1m x 2
+c	Nitrates from the soil are absorbed by plants.					1m
+Nitrogen in nitrates is used to make proteins for the growth of the plants.															1m
+We eat the plants and the proteins in plants are digested into amino acids.															1m
+Amino acids are assimilated to form proteins in our body. 			1m	
+---------------------------------------------------
+
+[10241354]
+// Drawing // Data handling // Calculation //
+*	A forest contains 100 oak trees, 75 000 primary consumers and 60 000 secondary consumers. 
+a	Draw a labelled pyramid of biomass for the forest. (No need to draw to scale)												(2 marks)
+b	A scientist estimated the total amount of energy passed through the forest per year. The result is shown in the table below:
+
+Energy transfer	Energy
+(kJ m-2 year-1)	
+Light energy reaches the oak trees	2 000 000	
+Energy stored in the cells of the trees	20 000	
+Energy transferred to primary consumers	2 000	
+Energy transferred to secondary consumers	500	
+
+i	Calculate the percentage of energy captured and stored in the trees. Show your workings.							 	(2 marks)
+ii	Explain why a large proportion of light energy is not converted into energy stored in the cells of the trees in terms of photosynthesis.														(1 mark)
+iii	Give three reasons to explain why some energy stored in the primary consumers is lost and not passed to the secondary consumers.														(3 marks)
+iv	Explain why food chains with more than five trophic levels are uncommon.										(2 marks)
+-- answer --
+a	
+
+Correct shape											1m
+Correct labels											1m
+b	i	20 000/2 000 000 x 100% 								1m
+= 1%												1m
+ii	Not all light energy reaching the oak trees is absorbed by the leaves / chloroplasts for carrying out photosynthesis. /
+Only light of certain wavelengths is absorbed by the leaves / chloroplasts for carrying out photosynthesis.							1m
+iii	Some energy is lost because only a proportion of primary consumers is eaten by secondary consumers. /
+Some energy is lost when undigested and unabsorbed materials are passed out as faeces. /
+Some energy in the primary consumers is lost as heat during respiration or when it is used to support body functions. /
+Some energy is lost through excretory products of the primary consumers. 
+(any 3)											1m x 3
+iv	There is energy loss when energy is transferred from one trophic level to another.											1m
+The amount of energy that can be passed to the fifth level would be so little that it may not be enough to support the life of the organisms.	1m	
+---------------------------------------------------
+
+[10241365]
+// Drawing // Applying concepts //
+*	Some food chains in a woodland are listed below.
+	(1)	tree → insect → spider → bird → hawk
+	(2)	tree → insect → bird → hawk
+	(3)	tree → rat → hawk
+	(4)	tree → insect → rat → hawk	
+a	Construct a food web to show all the feeding relationships among the organisms concerned.									(3 marks)
+b	Along which food chain would there be most energy available for hawks? Explain.												(2 marks)
+c	Sketch a pyramid of numbers for the organisms in food chain (1). Explain the shape of the pyramid.								(4 marks)
+d	A group of organisms important for cycling of materials in ecosystems is not shown in the food chains. Name this group of organisms and state the importance of them in the cycling of materials.				(3 marks) 
+-- answer --
+a
+		
+																3m
+b	Energy is lost when it is transferred from one trophic level to another.		1m
+The number of trophic levels in food chain (3) is the fewest, thus less energy is lost and more energy is available for hawks.							1m
+c
+
+Correct shape												1m
+Correct labels												1m
+Explanation:
+The size of the tree is big and one tree can support a large number of insects, thus the base of the pyramid is narrow.								1m
+Due to energy loss, less and less energy is available to organisms at higher trophic levels, thus the number of organisms is smaller in the higher trophic level. / A predator is usually larger in body size than its prey, thus the number of organisms is smaller in the higher trophic level. 								1m
+
+
+d	Decomposers												1m
+They break down organic matter in dead bodies and organic waste of producers and consumers into inorganic nutrients. 							1m
+These inorganic nutrients can be absorbed by plants and enter food chains again. 														1m	
+---------------------------------------------------
+
+[10241379]
+// Applying concepts //
+	The diagram below shows a food web on a grassland.
+
+	
+
+a	What is the energy source of grass? Name the process through which grass captures energy.										(2 marks)
+b	Write down all the food chains that involve three consumers.	(2 marks)
+c	Name all the secondary consumers in the food web.			(2 marks)
+d	What is the relationship between fox and hawk?				(1 mark)
+e	If horses are removed from the grassland, explain why
+i	the number of lions immediately decreases.				(1 mark)
+ii	the number of rabbits increases later.					(2 marks)
+
+-- answer --
+a	Energy source: the sun										1m
+Process: photosynthesis										1m
+b	grass → rabbit → fox → lion									1m
+grass → grasshopper → small bird → hawk						1m
+c	Fox, lion, small bird, hawk										2m
+d	Competition												1m
+e	i	As horses are removed, less food is available for lions.			1m
+ii	As horses are removed, competition with horses for grass is reduced.	1m
+More grass is available for rabbits as food.						1m	
+---------------------------------------------------
+
+
+
+Essays
+
+[10241433]
+// Communication // Basic concepts //
+*	After volcanic eruption, a barren area is formed. Ecological succession occurs on the area. 
+Describe how this area would change in the following few thousand years.																(11 marks)
+
+-- answer --
+The barren area will first be colonized by pioneer community formed by lichens.																	1m
+As lichens grow, organic matter accumulates and the rocks are broken up into small particles, forming soil.											1m
+Mosses, ferns and grass start to grow.								1m
+They provide food and shelter for plant-eating animals. 					1m 
+Dead, decaying plants and animals, as well as animal waste form humus which further enriches the soil. 												1m
+The soil becomes thick enough for the growth of shrubs. More animals are attracted to the habitat.													1m
+Finally the soil becomes thick and rich in nutrients. It can support the growth of trees. More animals are attracted to the community.							1m
+A climax community is reached.										1m
+Communication													3m	
+---------------------------------------------------
+
+
+[10241441]
+// Communication // High order thinking //
+**	Discuss the various ways in which human activities influence the nitrogen cycle. 														(10 marks)
+
+-- answer --
+Nitrogen fixing is done artificially in the factory							1m
+by chemical processes to make fertilizers.								1m
+The chemical fertilizers are added to soil to increase the amount of nitrates for the growth of crops.													1m
+Animal waste from stock rearing is used as manure.						1m
+Sewage discharged into water increases the amount of organic matter in water.	1m
+Intensive growing of crops decreases the amount of nitrates in the soil.		1m
+Ploughing improves aeration of the soil, producing aerobic conditions which decrease the activity of certain decomposers.									1m
+(or other reasonable answers)
+Communication													3m	
+---------------------------------------------------
+
+[10241456]
+// Communication // Basic concepts //
+*	Describe the role of bacteria in the main processes of the nitrogen cycle.																(11 marks)
+
+-- answer --
+Some bacteria are decomposers. 									1m
+They convert nitrogen in organic waste and dead bodies of organisms into ammonium compounds. 													1m
+Nitrifying bacteria 												1m
+convert ammonium compounds into nitrites and then into nitrates, which can be absorbed by plants.												1m
+Nitrogen fixing bacteria in the soil or in root nodules of leguminous plants		1m
+convert nitrogen gas into ammonium compounds. 						1m
+Denitrifying bacteria 												1m
+convert nitrates in the soil into nitrogen gas, which is then released into the atmosphere. 															1m
+Communication													3m	
+---------------------------------------------------

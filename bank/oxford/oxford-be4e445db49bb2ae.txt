@@ -1,0 +1,2322 @@
+Chapter 28		Biodiversity
+
+
+Multiple-choice questions
+
+[10268881]
+// Applying concepts //
+*	The table below shows some features of organisms P, Q and R.
+
+	P	Q	R	
+Unicellular	(	(	✗	
+Cell with cell wall	(	✗	(	
+Cell with chlorophyll	✗	(	✗	
+(Key: '✓' means that the organism has such feature. '✗' means that the organism does not have such feature.)
+
+	Which of the following correctly identifies organisms P, Q and R?
+	P				Q				R
+A	bread mould		Euglena			E. coli
+B	E. coli			bread mould		Euglena
+C	E. coli			Euglena			bread mould
+D	Euglena			E. coli			bread mould
+C	
+---------------------------------------------------
+
+[10268888]
+// Applying concepts //
+*	The photographs below show animals X, Y and Z.
+
+			
+X	Y	Z	
+
+
+Which of the following features are common to X, Y and Z?
+(1)	They have a backbone.
+(2)	They have dry, hard scales covering their skin.
+(3)	Their body temperature varies with external temperature.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10268889]
+// Applying concepts //
+*	The dogs below are both classified as Canis familiaris.
+     	
+	Which of the following can be deduced from their classification?
+A	They cannot interbreed.
+B	They can interbreed and their offspring are fertile.
+	C	They can interbreed but their offspring are infertile.
+D	They belong to the same genus but different families in the classification system.
+B	
+---------------------------------------------------
+
+
+[10268898]
+// Basic concepts //
+According to the three-domain and six-kingdom system proposed by Carl Woese and his team, which of the following statements about archaebacteria is correct?
+A	Archaebacteria have a closer phylogenetic relationship with protista than with eubacteria.
+B	Archaebacteria have a closer phylogenetic relationship with eubacteria than with fungi.
+	C	Archaebacteria arose before eubacteria in evolutionary history.
+	D	Archaebacteria and eubacteria are classified under the same domain.
+A	
+---------------------------------------------------
+
+[10268909]
+// Applying concepts //
+*	The table below lists the common names and scientific names of four common trees in Hong Kong.
+
+Common name	Scientific name	
+Swamp messmate	Eucalyptus robusta	
+Silk oak	Grevillea robusta	
+Lemon-scented gum	Eucalyptus citriodora	
+Sweet gum	Liquidambar formosana	
+
+Which of the following statements about the trees is/are correct?
+(1)	Swamp messmate, silk oak, lemon-scented gum and sweet gum belong to the same kingdom.
+(2)	Swamp messmate and lemon-scented gum have the closest phylogenetic relationship.
+	(3)	Swamp messmate and silk oak belong to the same genus.
+A	(1) only
+B	(1) and (2) only
+	C	(1) and (3) only
+	D	(2) and (3) only
+B	
+---------------------------------------------------
+
+
+[10268927]
+// Applying concepts //
+*	The photographs below show two different organisms.
+		
+((3)	((10)	
+Which of the following similarities do the two organisms share?
+	(1)	Both of their cells have cell walls.
+	(2)	They both have chlorophyll for photosynthesis.
+	(3)	They both produce spores for reproduction.
+A	(1) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10268952]
+// Basic concepts //
+	Which of the following statements about ferns is/are correct?
+	(1)	Ferns are vascular plants.
+	(2)	Ferns produce flowers for reproduction.
+	(3)	Ferns produce seeds with two seed leaves.
+A	(1) only					B	(1) and (2) only
+	C	(1) and (3) only			D	(2) and (3) only
+A	
+---------------------------------------------------
+
+
+[10268963]
+// Applying concepts //
+*	Which of the following features is most useful in classifying organisms as flowering plants?
+	A	leaves with chlorophyll
+	B	leaves with parallel veins
+C	seeds enclosed in fruits
+D	seeds with two seed leaves
+C	
+---------------------------------------------------
+
+[10268966]
+// Applying concepts //
+*	The dichotomous key below can be used to classify four invertebrates P, Q, R and S.
+	1	a	The body is segmented. ……………………………………..	P
+		b	The body is not segmented. …………………………………	2
+	2	a	It has a shell. …………….………………………………….	Q 
+		b	It does not have a shell. …….………………………………		3
+3	a	There are suckers on its tentacles. ………………………….		R
+		b	There are no suckers on its tentacles. ………………………		S
+	Which of the following invertebrates is probably S?
+A			B		
+C			D		
+
+D	
+---------------------------------------------------
+[10268978]
+// Comparison //
+	Compared with amphibians, reptiles are more adapted to live on land because
+	A	reptiles have four limbs.
+	B	reptiles have lungs for gas exchange.
+	C	reptiles can maintain a stable body temperature. 
+	D	reptiles have hard scales covering their body.
+D	
+---------------------------------------------------
+
+[10268980]
+// Applying concepts //
+	The photographs below show three animals. 
+			
+	Which of the following features is/are common to them?
+(1)	presence of wings 
+	(2)	presence of feathers
+	(3)	lay eggs with hard shells
+A	(1) only					B	(1) and (2) only
+	C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+
+[10269008]
+// Applying concepts //
+*	The table below shows some features of three vertebrates, X, Y and Z.
+	Lungs	Scales	Mammary glands			
+X	(	(	(		Key:	
+Y	(	(	(		( = present	
+Z	(	(	(		( = absent	
+The three vertebrates are probably
+	X				Y				Z
+A	salamander		rat				carp 
+B	turtle			rat				carp 
+	C	lizard			rat				turtle
+	D	sea horse			chicken			salamander
+B	
+---------------------------------------------------
+
+[10269017]
+// Basic concepts //
+	Which of the following statements about the six-kingdom system of classification is incorrect?
+A	It classifies organisms into groups based on structural similarities of the organisms.
+B	It distinguishes bacteria living in extreme environments from those living in neutral environment.
+	C	It can be divided into two domains: prokaryota and eukarya.
+	D	Infertile species are also classified under the system.
+C	
+---------------------------------------------------
+
+
+[10269021]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows the phylogenetic relationship among six organisms.
+	
+	What can we tell about the six organisms?
+A	P and U show no similarities in all aspects.
+	B	Q is more closely related to R than to S.
+	C	All the six organisms are eukaryotes.
+D	Q and R can interbreed to produce fertile offspring.
+B	
+---------------------------------------------------
+
+[10269025]
+// Basic concepts //
+	Which of the following levels in the classification system consists of the largest number of organisms?
+	A	order		B	class 
+	C	domain		D	family
+C	
+---------------------------------------------------
+
+[10269031]
+// Basic concepts //
+	According to the classification system suggested by Carl Woese, phylogenetic relationships among organisms can be deduced from similarities in _____________ among organisms.
+	A	structures
+	B	behaviour
+	C	cell membrane composition
+	D	genetic materials
+D	
+---------------------------------------------------
+
+[10269047]
+// Applying concepts //
+	The table below shows the classification of four kinds of fish. Which two kinds of fish should have the closest phylogenetic relationship?
+
+	(1)
+Atlantic salmon
+	(2)
+Pink salmon
+	(3)
+Chinook salmon
+	(4)
+Lenok trout
+	
+Kingdom	Animalia	Animalia	Animalia	Animalia	
+Phylum	Chordata	Chordata	Chordata	Chordata	
+Class	Actinopterygii	Actinopterygii	Actinopterygii	Actinopterygii	
+Order	Salmoniformes	Salmoniformes	Salmoniformes	Salmoniformes	
+Family	Salmonidae	Salmonidae	Salmonidae	Salmonidae	
+Genus	Salmo	Oncorhynchus	Oncorhynchus	Brachymystax	
+Species	S. salar	O. gorbuscha	O. tshawytscha	B. lenok	
+Source of Lenok trout: NOAA / Russian Federal Research Institute of Fishery and Oceanography (VNIRO); Artist: N. N. Kondakov
+	A	(1) and (2)
+	B	(1) and (3)
+	C	(2) and (3)
+	D	(3) and (4)
+C	
+---------------------------------------------------
+
+[10269052]
+// Applying concepts //
+*	Directions: The following two questions refer to the table below which shows the characteristics of four organisms.
+
+Feature	Organism W	Organism X	Organism Y	Organism Z	
+true nucleus	(	(	(	(	
+cell wall	(	(	(	(	
+chloroplast	(	(	(	(	
+spore	(	(	(	(	
+Key: ( = present   ( = absent
+
+	Which organism is most probably an Amoeba?
+	A	organism W
+	B	organism X
+	C	organism Y
+	D	organism Z
+B	
+---------------------------------------------------
+
+[10269056]
+// Applying concepts //
+*	What may organism Y be?
+	(1)	moss
+	(2)	fern
+	(3)	pine
+	A	(1) only				B	(2) only
+	C	(1) and (2) only		D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10269057]
+// Comparison //
+	Which of the following is not a common feature of Eubacteria and Archaebacteria?
+	A	They are prokaryotes.
+	B	They have a cell wall.
+	C	They have a cell membrane.
+	D	They have membrane-bound organelles.
+D	
+---------------------------------------------------
+
+
+[10269066]
+// Applying concepts //
+*	The diagrams below show three different organisms in the ocean.
+
+
+seahorse	
+shark	
+
+
+dolphin	
+
+	The above three organisms are classified into the same group because
+	A	they live in the sea.
+	B	they have a vertebral column.
+	C	they breathe with gills.
+	D	they have a wet, slimy body.
+B	
+---------------------------------------------------
+
+
+[10269068]
+// Comparison // Basic concepts //
+	The photographs below show the close-ups of leaves from two plants.
+
+		
+X	Y	
+
+Which of the following comparisons is incorrect?
+	X	Y
+A	It has parallel veins.	It has net-like veins.
+B	It is from a plant with true roots.	It is from a plant with true roots.
+C	It is from a dicot.	It is from a monocot.
+D	It is from a flowering plant.	It is from a flowering plant.
+C	
+---------------------------------------------------
+
+[10269074]
+// Basic concepts //
+	Animal P is a fish and animal Q is a mammal. Animals P and Q cannot be
+		Animal P			Animal Q
+	A	shark			bat
+	B	whale			sea horse
+	C	goldfish			panda
+	D	salmon			horse
+B	
+---------------------------------------------------
+
+
+[10269075]
+// Applying concepts //
+	The dichotomous key below is used to identify organisms W, X, Y and Z.
+	(1)	a	With gills 				 Organism W
+		b	Without gills 				 (2)
+	(2)	a	Body with fur 			 (3)
+		b	Body without fur 			 Organism X
+	(3)	a	With a long tail 			 Organism Y
+		b	Without a long tail 			 Organism Z
+
+	Which of the following is organism Z?
+A		B		
+C		D		
+
+B	
+---------------------------------------------------
+
+
+[10269108]
+// Photomicrograph // Applying concepts //
+*	The electron micrograph below shows part of a cell from an organism.
+
+	
+
+This organism may belong to the kingdom
+(1)	Protista.
+(2)	Eubacteria.
+(3)	Plantae.
+A	(2) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10269157]
+// Applying concepts //
+*	Which of the following is the evidence which shows a species is new?
+A	It looks different from all known species. 
+B	Its body structure is different from all known species.
+C	Its cell membrane is not made up of phospholipids. 
+D	It does not produce fertile offspring with any of the known species. 
+D	
+---------------------------------------------------
+
+[10269159]
+// Applying concepts //
+*	Which of the following plants has the closest phylogenetic relationship with the plant Trifolium pratense?
+A	Geranium pratense 
+B	Equisetum pratense
+C	Trifolium repens 
+D	Vitex trifolia
+C	
+---------------------------------------------------
+
+[10269167]
+// Basic concepts //
+	The photographs below show three organisms.
+			
+X	Y	Z	
+
+Which organism(s) belong(s) to the domain Eukarya?
+A	X only
+B	Z only
+C	X and Y only
+D	X, Y and Z
+D	
+---------------------------------------------------
+
+[10269181]
+// Applying concepts //
+*	Scientists collected five insects (P, Q, R, S and T) from different locations. The insects were allowed to interbreed and then the scientists checked whether fertile offspring were produced. The table below shows the results.
+
+	P	Q	R	S	T	
+P	✓	✗	✗	✗	✗	
+Q		✓	✗	✗	✓	
+R			✓	✓	✗		S				✓	✗		T					✓		(Key: '✓' means that the insects could interbreed and fertile offspring were produced.    '✗' means that the insects could not interbreed or fertile offspring were not produced.)
+
+How many species were there among the five insects?
+A	2
+B	3
+C	4
+D	5
+B	
+---------------------------------------------------
+
+[10269189]
+// Basic concepts //
+	Which of the following statements about a dichotomous key are correct?
+(1)	It is a tool for identification of different organisms.
+(2)	It shows how organisms are classified.
+(3)	It provides two alternative features at each step.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+
+[10269193]
+// Basic concepts //
+	The photograph below shows a salamander.
+
+	
+Which of the following are the reasons for classifying a salamander as an amphibian but not a fish? 
+(1)	It can swim.
+(2)	Its body is not covered with scales.
+(3)	It uses gills for gas exchange in its larval stage but not in its adult stage.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10269194]
+// Basic concepts //
+	Bacteria and archaebacteria are classified in different kingdoms because
+(1)	archaebacteria are unicellular. 
+(2)	the cell walls of bacteria are made of peptidoglycan while the cell walls of archaebacteria are not.
+(3)	many archaebacteria live in extreme environments while bacteria do not.
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------  
+[10269201]
+// Basic concepts //
+	Which of the following is a common feature of monocotyledonous and dicotyledonous plants?
+A	Both produce flowers.
+B	Both have parallel venation.
+C	Both have two cotyledons in their seeds.
+D	Both produce spores.
+A	
+---------------------------------------------------
+
+[10269203]
+// Schematic diagram // Basic concepts //
+	Directions: The following three questions refer to the dichotomous key below.
+	
+Which of the following is correct?
+		Protista		Archaebacteria	Eubacteria
+A	P			Q				R
+B	Q			R				S
+C	R			Q				P
+D	S			P				Q
+C	
+---------------------------------------------------
+[10269208]
+// Schematic diagram // Basic concepts //
+	The photograph below shows an organism. 
+	
+
+Which of the following features of the organism has/have been described in the dichotomous key?
+(1)	multicellular
+(2)	eukaryotic
+(3)	cells do not contain chlorophyll
+A	(2) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10269222]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of an organism. 
+	
+
+This organism belongs to the kingdom 
+A	Plantae.			B	P.
+C	R.				D	S.
+C	
+---------------------------------------------------
+
+[10269224]
+// Applying concepts //
+	Directions: The following two questions refer to the table below, which shows some features of four organisms.
+Feature	P	Q	R	S	
+Has a true nucleus	✗	✓	✓	✓	
+Body made up of one cell only	✓	✓	✗	✗	
+Has chlorophyll	✗	✗	✓	✗	
+Produces spores for reproduction	✗	✓	✗	✓	
+(Key: '✓' means that the organism has such feature. '✗' means that the organism does not have such feature.)
+
+Which organism is most likely a yeast?
+A	P				B	Q
+C	R				D	S
+B	
+---------------------------------------------------
+
+[10269244]
+// Applying concepts //
+	Which kingdom does P belong to?
+A	Fungi			B	Plantae
+C	Eubacteria		D	Protista
+C	
+---------------------------------------------------
+
+[10269245]
+// Basic concepts //
+	Which of the following is/are the feature(s) of dicotyledonous plants?
+(1)	They have two cotyledons in their seeds.
+(2)	Their seeds are protected inside fruits.
+(3)	Their leaves have net venation.
+A	(2) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10269263]
+// Basic concepts //
+	The photograph below shows a pine tree. 
+
+	
+
+Which of the following statements about the pine tree are correct?
+(1)	It is a vascular plant.
+(2)	It reproduces using seeds.
+(3)	It is a monocotyledonous plant.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10269270]
+// Basic concepts //
+*	A certain organism produces spores for reproduction. This organism can be
+(1)	a fungus.
+(2)	a vascular plant.
+(3)	a non-vascular plant.
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10269276]
+// Applying concepts //
+*	Directions: The following two questions refer to the table below, which shows the common names and scientific names of three birds.
+Common name	Scientific name	
+Red grouse	Lagopus lagopus	
+Ptarmigan	Lagopus mutus	
+Black grouse	Lyrurus tetrix	
+Which of the following statements is correct?
+A	Red grouse and ptarmigan are in the same genus.
+B	Red grouse and black grouse are in the same genus.
+C	Ptarmigan and black grouse are in the same genus.
+D	The three birds are in the same genus.
+A	
+---------------------------------------------------
+
+[10269286]
+// Applying concepts //
+*	Which of the following statements is/are correct?
+(1)	Different scientific names are used in different places for the same species.
+(2)	The common names are used by scientists to communicate accurately over the world.
+(3)	Each of the three birds is a species that is different from the other two.
+A	(1) only					B	(3) only
+C	(1) and (2) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10269301]
+// Basic concepts //
+	Which of the following features helps determine whether two organisms are of the same species?
+A	They take in the same kinds of food.
+B	They have similar body structure. 
+C	They share the same habitat.
+D	They can interbreed to produce fertile offspring. 
+D	
+---------------------------------------------------
+
+[10269320]
+// Applying concepts //
+*	The table below shows the common names and scientific names of three birds.
+
+Common name	Scientific name	
+Red grouse	Lagopus lagopus	
+Ptarmigan	Lagopus mutus	
+Black grouse	Lyrurus tetrix	
+
+Which of the following statements about the three birds is/are correct?
+(1)	Red grouse has a closer phylogenetic relationship with black grouse than with ptarmigan. 
+(2)	The genetic material of red grouse is more similar to ptarmigan than to black grouse. 
+(3)	Red grouse and ptarmigan can interbreed to produce fertile offspring. 
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+[10269328]
+// Basic concepts //
+	The table below shows some features of four organisms.
+
+Organism	P	Q	R	S	
+Habitat	Terrestrial	Aquatic	Terrestrial	Terrestrial	
+Structure on skin	Dry scales	Slimy scales	Hair	Feathers	
+
+Which organism is a reptile?
+A	P		
+B	Q
+C	R
+D	S
+A	
+---------------------------------------------------
+
+[10269332]
+// Comparison // Basic concepts //
+*	The photographs below show two organisms from different kingdoms.
+
+		
+X	Y	
+
+Which of the following comparisons of X and Y is correct?
+A	Both are made up of hyphae.
+B	Both produce spores for reproduction.
+C	X is a prokaryote while Y is a eukaryote.
+D	X carries out autotrophic nutrition while Y carries out saprophytic nutrition.
+B	
+---------------------------------------------------
+
+[10269351]
+// Comparison // Basic concepts //
+	How are archaebacteria different from bacteria?
+(1)	Archaebacteria are prokaryotes while bacteria are eukaryotes.
+(2)	Archaebacteria have membrane-bound organelles while bacteria do not.
+(3)	The lipid that makes up the cell membrane of archaebacteria is different from that of bacteria.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (3) only
+C	
+---------------------------------------------------
+
+[10269374]
+// Photomicrograph // Applying concepts //
+	The photomicrograph below shows a protist living in the blood of humans.
+
+	
+
+This protist
+(1)	has a true nucleus.
+(2)	is autotrophic.
+(3)	is a unicellular organism.
+A	(1) and (2) only		
+B	(1) and (3) only
+C	(2) and (3) only		
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10269380]
+// Basic concepts //
+	Which of the following vertebrate groups lay eggs with shells?
+(1)	fish
+(2)	reptiles
+(3)	birds
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10269381]
+// Basic concepts //
+	The photograph below shows some reproductive structures on the underside of a leaf of a plant.
+
+	
+
+Which of the following statements is incorrect?
+A	The plant is a vascular plant.
+B	The plant have true roots.
+C	Naked seeds are produced in the reproductive structures.
+D	The reproductive cells are dispersed by wind.
+C	
+---------------------------------------------------
+
+[10269389]
+// Basic concepts //
+	Which of the following animals can maintain a stable body temperature?
+(1)	salamanders
+(2)	turtles
+(3)	dolphins
+A	(2) only
+B	(3) only
+C	(1) and (2) only
+D	(2) and (3) only
+B	
+---------------------------------------------------
+
+
+[10269390]
+// Basic concepts //
+	The photograph below shows some mosses.
+
+	
+
+Which of the following statements about the mosses is/are correct?
+(1)	They do not have xylem and phloem.
+(2)	They produce flowers for reproduction.
+(3)	They have rhizoids for anchorage.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10269401]
+// Basic concepts //
+	Which of the following animals carry out external fertilization?
+(1)	carp
+(2)	whales
+(3)	frogs
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10269411]
+// Applying concepts //
+	The photograph below shows some slime moulds.
+	
+Slime moulds
+A	belong to the kingdom Fungi.
+B	belong to the kingdom Archaebacteria.
+C	are eukaryotes.
+D	are plants.
+C	
+---------------------------------------------------
+
+[10269415]
+// Basic concepts //
+	The photograph below shows an organism.
+	
+The organism is classified as a mammal but not a fish because
+A	it produces sounds under water.
+B	it has mammary glands.
+C	it does not have scales.
+D	it carries out sexual reproduction.
+B	
+---------------------------------------------------
+
+[10269431]
+// Basic concepts //
+	The diagram below shows some organisms on a log.
+	
+
+Which of the following is/are the feature(s) of these organisms?
+(1)	They make their own food.
+(2)	Their cells have cell walls.
+(3)	They reproduce by spores.
+A	(3) only					B	(1) and (2) only
+C	(1) and (3) only			D	(2) and (3) only
+D	
+---------------------------------------------------
+
+[10269433]
+// Basic concepts //
+*	Which of the following organisms have lungs for gas exchange and are poikilotherms?
+(1)	(2)	(3)	
+			
+
+A	(2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10269434]
+// Basic concepts //
+	Which of the following organisms is an invertebrate?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10269445]
+// Basic concepts //
+*	Which of the following groups of organisms does not produce spores?
+A	fungi		B	conifer
+C	ferns			D	mosses
+B	
+---------------------------------------------------
+
+[10269456]
+// Basic concepts //
+	How are unicellular organisms different from the more complex organisms?
+A	Unicellular organisms do not respond to stimuli.
+B	Unicellular organisms do not reproduce.
+C	Unicellular organisms do not have tissues.
+D	Unicellular organisms are made up of a number of cells.
+C	
+---------------------------------------------------
+
+[10269465]
+// Comparison // Basic concepts //
+	The photographs below show two animals.
+		
+X	Y	
+Which of the following comparisons of X and Y is incorrect?
+A	Both have wings for flying.
+B	Both carry out gas exchange in the lungs.
+C	Both have feathers.
+D	X produces live young but Y lays eggs.
+C	
+---------------------------------------------------
+
+[10269467]
+// Basic concepts //
+	By definition, invertebrates have no
+A	sense organ.			B	backbone.
+C	muscle.				D	leg.
+B	
+---------------------------------------------------
+
+[10269471]
+// Basic concepts //
+*	Insects are different from the other groups of invertebrates in the way that insects
+A	have a hard covering.
+B	have a segmented body.
+C	have three pairs of jointed legs.
+D	are homoiotherms.
+C	
+---------------------------------------------------
+
+[10269496]
+// Applying concepts //
+*	The key below can be used to identify four animals, P, Q, R and S.
+	1	a	With wings ……..……………………………….....	Go to 2
+		b	Without wings …...……………………….…...…...	P
+	2	a	With pinnae …………………………………..……	Go to 3
+		b	Without pinnae ………………….………….……...	Q
+	3	a	With feathers …………………………..…………..	R
+		b	Without feathers ………………………………..….	S
+
+	The animal below is
+	
+A	P.
+B	Q.
+C	R.
+D	S.
+D	
+---------------------------------------------------
+
+[10269500]
+// Basic concepts //
+	Which of the following statements about mosses is correct?
+A	They mainly grow in dry places.
+B	They have no vascular tissues.
+C	They have true roots.
+D	They produce seeds for reproduction.
+B	
+---------------------------------------------------
+
+
+[10269507]
+// Basic concepts //
+	The photograph below shows a part of a plant. 
+	
+Which of the following statements is correct?
+A	This plant part has scales for photosynthesis.
+B	The plant is a flowering plant.
+C	The plant produces spores for reproduction.
+D	This plant part has naked seeds on its scales.
+D	
+---------------------------------------------------
+
+[10269512]
+// Basic concepts //
+	Pines, a kind of conifers, produce
+A	flowers for reproduction.
+B	spores for reproduction.
+C	cones for reproduction.
+D	fruits for reproduction.
+C	
+---------------------------------------------------
+
+[10269515]
+// Basic concepts //
+	Which of the following groups of organisms have true roots, stems and leaves?
+A	bacteria			B	mosses
+C	ferns				D	fungi
+C	
+---------------------------------------------------
+
+[10269530]
+// Applying concepts //
+*	Which of the following features are common to organisms X, Y and Z?
+			
+X	Y	Z	
+
+(1)	They have backbones.
+(2)	They have hair on their bodies.
+(3)	Their body temperature does not vary with external temperature.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10269533]
+// Basic concepts //
+	The diagram below shows a bacterium.
+	
+What is the function of structure X?
+A	for absorbing nutrients
+B	for catching food
+C	for locomotion
+D	for attachment to the host
+C	
+---------------------------------------------------
+
+[10269560]
+// Applying concepts //
+*	Directions: The following two questions refer to the photographs below, which show four kinds of animals.
+
+			
+P		Q	
+			
+R		S	
+
+P is classified into a different group because
+A	it does not move.
+B	it is a poikilotherm.
+C	it does not have a backbone.
+D	it does not have scales to protect its body.
+C	
+---------------------------------------------------
+
+[10269565]
+// Applying concepts //
+*	Which of the following are the common features of organisms Q and R?
+(1)	Their skins are covered with feathers.
+(2)	They carry out internal fertilization.
+(3)	They have lungs for gas exchange.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10269581]
+// Applying concepts //
+*	The key below can be used to identify some organisms.
+	1	a	With a hard covering………………………	Go to 2
+		b	Without hard covering…………………….	P
+	2	a	Body is tube-like…………………………..	Q
+		b	Body is not tube-like………………………	Go to 3
+	3	a	With three pairs of legs……….…………...	R
+		b	With more than three pairs of legs…….…..	S
+
+The animal below is 
+	
+A	P.
+B	Q.
+C	R.
+D	S.
+D	
+---------------------------------------------------
+
+[10269602]
+// Basic concepts //
+	The grouping of organisms into the three domains is based on the similarity in their
+A	genetic material.
+B	composition of the cell wall.
+C	composition of the cell membrane.
+D	size.
+A	
+---------------------------------------------------
+
+
+[10269613]
+// Applying concepts //
+*	Directions: The following two questions refer to the photographs below, which show three kinds of plants.
+
+			
+X	Y	Z	
+
+What do these plants produce for reproduction?
+		X			Y			Z
+A	seeds		seeds		seeds
+B	seeds		spores		spores 
+C	spores		seeds		seeds
+D	spores		spores		seeds
+C	
+---------------------------------------------------
+
+[10269614]
+// Applying concepts //
+*	Which of the following statements about Y is correct?
+A	It is a non-vascular plant.
+B	It is a herb.
+C	It has two cotyledons in its seeds.
+D	It has net venation.
+B	
+---------------------------------------------------
+
+
+[10269629]
+// Photomicrograph // Comparison // Applying concepts //
+*	Directions: The following two questions refer to the photomicrograph below, which shows a unicellular organism, X.
+
+	
+
+What is X?
+A	Amoeba
+B	Paramecium
+C	Spirogyra
+D	Euglena
+A	
+---------------------------------------------------
+
+[10269639]
+// Photomicrograph // Comparison // Applying concepts //
+*	Which of the following comparisons of X and a bacterium is incorrect?
+A	Both of them are tiny.
+B	A much higher magnification is required to observe X under a microscope.
+C	A bacterium does not have a true nucleus while X does.
+D	They both consist of one cell only.
+B	
+---------------------------------------------------
+
+
+[10269648]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows some Amoeba.
+	
+Which kingdom does Amoeba belong to?
+A	Archaebacteria
+B	Eubacteria
+C	Protista
+D	Animalia
+C	
+---------------------------------------------------
+
+[10269655]
+// Basic concepts //
+	Prokaryotes have
+A	a true nucleus.
+B	a cell membrane.
+C	mitochondria.
+D	chloroplasts.
+B	
+---------------------------------------------------
+
+[10269657]
+// Basic concepts //
+	Which of the following animals is not a mammal?
+A	dolphin
+B	cat
+C	bat
+D	sea horse 
+D	
+---------------------------------------------------
+
+[10269683]
+// Schematic diagram // Applying concepts //
+*	The chart below shows the classification of four plants, P, Q, R and S.
+
+	
+
+Vascular tissues can be found in plant(s)
+A	P only.
+B	P and Q only.
+C	R and S only.
+D	P, Q and R only.
+D	
+---------------------------------------------------
+
+
+
+Short questions
+
+[10269777]
+// Applying concepts //
+*	The photographs below show organisms R and S.
+
+	
+
+a	R and S belong to the kingdom Animalia. State one common feature of the organisms in this kingdom.								(1 mark)
+b	A student suggested that R and S are both birds. Do you agree? Give two reasons to support your answer.							(3 marks)
+c	Suggest why structure X is important to R under cold conditions.
+													(1 mark)
+
+-- answer --
+a	Their cells do not have a cell wall.								1m
+	(or other correct answers)
+b	No. S is not a bird.											1m
+	Birds lay eggs with hard shells while S does not.						1m
+	The body of birds is covered with feathers while the body of S does not.	1m
+	(or other correct answers)
+c	X traps air which helps reduce heat loss.							1m	
+---------------------------------------------------
+
+[10269815]
+// Cross-topic // Applying concepts //
+*	The key below can be used to identify some animals.
+
+1	a	With markings on the fur…………………………...	Go to 2
+	b	Without markings on the fur………………………..	Panthera leo
+2	a	With black tear stripes on the face………………….	Acinonyx jubatus
+	b	Without black tear stripes on the face………………	Go to 3
+3	a	Have rose-like markings with central spots………...	Panthera onca
+	b	Have rose-like markings without central spots…..…	Panthera pardus
+
+a	Using the above key, identify animals X and Y shown in the photographs below. Write down the full scientific name of each animal and the key sequence taken for making the identification.				(2 marks)
+	
+b	X and Y belong to the same group of vertebrates.
+	i	Name the group to which X and Y belong.				(1 mark)
+	ii	State two common features that all members of this group have.
+													(2 marks)
+c	Y is in danger of extinction. Give one measure the governments can take to protect this species.										(1 mark)
+-- answer --
+a	X: Panthera onca; key sequence: 1a → 2b → 3a						1m
+	Y: Acinonyx jubatus; key sequence: 1a → 2a						1m
+b	i	Mammals												1m
+	ii	They have lungs for gas exchange.							1m
+		They have mammary glands.								1m
+c	Legislation / captive breeding / artificial propagation / education (or other reasonable answers)											1m	
+---------------------------------------------------
+[10269832]
+// Drawing // Schematic diagram // Applying concepts //
+*	The diagram below represents some of the levels of classification of human beings (Homo sapiens) and some related organisms.
+	
+a	Which of the circles represent the following groups under the family Hominidae? 											(2 marks)
+Group	Circle	
+The genus Pan		
+The species Pan troglodytes 		
+The genus Homo		
+The species Homo habilis		
+b	Orangutan (Pongo pygmaeus) also belongs to the family Hominidae. Draw and label on the above diagram to show the correct classification of orangutan. 											(1 mark)
+c	Use the above diagram to explain how the modern classification system can indicate the phylogenetic relationships of organisms. 			(2 marks)
+
+
+-- answer --
+	a															2m
+Group
+Circle
+
+The genus Pan
+Q
+
+The species Pan troglodytes
+P
+
+The genus Homo
+R
+
+The species Homo habilis
+S
+
+	b	Two concentric circles inside the ellipse but outside circles Q and R and 				correct label												1m
+	c	The more the circles the organisms share, the closer their phylogenetic 				relationship.												2m	
+---------------------------------------------------
+
+[10269833]
+// Applying concepts //
+	The diagrams below show five different types of plants.
+
+
+A	
+B	
+C	
+
+D	
+E	
+
+Complete the dichotomous key below to classify the five types of plants above.															(5 marks)
+
+1 a	With vascular tissues	……………………………………. 2	
+
+1 b	Without vascular tissues	…………………………………		
+
+2 a		…………..		
+
+2 b		…………..		
+
+3 a		…………..		
+
+3 b		…………..		
+
+4 a		…………..		
+
+4 b		…………..		
+
+
+
+
+-- answer --
+	1 a	With vascular tissues …………………………………..……..	2
+	1 b	Without vascular tissues ……………………………………….	Plant A		1m
+	2 a	Produce seeds ………………………………………………....	3
+	2 b	Produce spores …….………………………………………..…	Plant C		1m
+	3 a	Produce flowers…….…………………………………………...	4
+	3 b	Do not produce flowers …….……………..………..………...	Plant D		1m
+	4 a	Leaf with net venation ………...…………………………..….	Plant B		1m
+	4 b	Leaf with parallel venation ……………………….………….	Plant E		1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10269847]
+// Basic concepts //
+	The key below can be used to identify butterflies commonly appear in Hong Kong.
+
+	1 a	Large in size (≧6 cm) ……………………….……..	2
+	1 b	Small in size (＜6 cm) ………………………………	3
+	2 a	With wing tails (尾突) on hindwings …………………	Swallowtails (鳳蝶)
+	2 b	Without wing tails on hindwings …….……………..	3
+	3 a	Wings mainly brown in colour …….…………………	4
+	3 b	Wings mainly grey in colour …….……………..…….	Blues (灰蝶)
+	4 a	Wings with distinctive eyespots …………………….	Browns (眼蝶)
+	4 b	Wings with small spots ………………………..……	Skippers (弄蝶)
+
+Using the key, identify to which group the butterfly below belongs. Write down the key sequence taken to make the identification.					(2 marks)
+
+	
+	
+	
+	
+
+
+-- answer --
+	Browns														1m
+	Key sequence: 1 b ( 3 a ( 4 a										1m	
+---------------------------------------------------
+
+[10269859]
+// Basic concepts //
+	Complete the table below to compare the features of three groups of vertebrates.															(4 marks)	
+Feature	Fish	Amphibians	Reptiles	
+Outer covering
+				
+Mode of fertilization
+				
+Organs for gas exchange		Larvae: gills
+Adults: lungs and skin surface		
+Control of body temperature				
+
+
+-- answer --
+Feature
+Fish
+Amphibians
+Reptiles
+
+Outer covering
+Wet and slimy scales
+Moist skin, no scales
+Dry hard scales
+
+Mode of fertilization
+External fertilization
+External fertilization
+Internal fertilization
+
+Organs for gas exchange
+Gills
+Larvae: gills
+Adults: lungs and skin surface
+Lungs
+
+Control of body temperature
+Cannot maintain a constant body temperature
+Cannot maintain a constant body temperature
+Cannot maintain a constant body temperature
+
+	Correct comparison in each row									1m x 4	
+---------------------------------------------------
+
+[10269866]
+// Overseas exam question // Comparison // Applying concepts //
+*	Kingdom Fungi includes edible mushrooms such as Agaricus bisporus (common mushroom) and Agaricus campestris (field mushroom) as well as a variety of moulds such as Mucor mucedo and Penicillium species. Their cells are described as eukaryotic.
+Bacteria belong to the kingdom Prokaryotae whose cells are described as prokaryotic.
+a	State two differences between prokaryotic and eukaryotic cells. 	(2 marks)
+Early classification systems, such as that used by Carl Linnaeus, divided all organisms into two kingdoms, Plantae and Animalia. Bacteria, fungi, protozoans and algae were all included in the Plantae.
+Since the middle of the twentieth century various scientists have suggested more appropriate divisions of organisms, such as the 'five-kingdom' system: Prokaryotae, Protoctista (Protista), Fungi, Plantae and Animalia.
+b	Suggest two reasons why it is inappropriate to classify fungi in the Plantae.
+														(2 marks)
+Seaweeds are algae which are autotrophic. They contain eukaryotic cells, with cellulose cell walls, which are aggregated into tissues showing limited differentiation.
+c	Algae are now classified as the Protoctista instead of the Plantae, but not all scientists agree with this.
+i	Suggest one reason why some scientists might think it is more appropriate to include the algae in the Plantae. 			(1 mark)
+ii	Suggest one reason why many scientists think it is not appropriate to include algae in the Plantae. 							(1 mark)
+					  CCEA GCE (AS) Biology Module 2 Jan 2012 Q4a, d, e
+
+-- answer --
+a	Prokaryotic cells have no nuclear membrane / true nucleus, but eukaryotic cells do. 														1m
+Prokaryotic cells have no membrane-bound organelles but eukaryotic cells do.															1m
+b	Fungi are not autotrophic.										1m
+Cell walls of fungi are not made of cellulose.						1m
+c	i	Both algae and plants are autotrophic / carry out photosynthesis / have cellulose cell walls.										1m
+ii	Plants have well differentiated tissues.						1m	
+---------------------------------------------------
+
+[10269877]
+// Overseas exam question // Schematic diagram // Basic concepts //
+	Use the key below to identify each of the animals by placing its letter W, X, Y or Z in the correct box.										(4 marks)
+
+		
+W	X	
+		
+Y	Z	
+
+1	Wings present			Insect			
+	or			
+	Wings absent			Go to 2			
+2	Shell present			Snail			
+	or			
+	Shell absent			Go to 3			
+3	Eight legs			Spider			
+	or			
+	More than eight legs	Centipede			
+CCEA GCSE Science (Single Award) Module 2 Foundation Tier Nov 2008 Q1
+
+-- answer --
+Insect: X														1m
+Snail :Y														1m
+Spider: Z														1m	
+Centipede: W													1m	
+---------------------------------------------------
+
+[10269887]
+// Schematic diagram // Applying concepts //
+*	The photograph below shows an organism which is made up of thread-like structures and feeds on decaying organic matter in dead logs.
+	
+a	The diagram below shows the life cycle of this organism. In favourable environmental conditions, this organism reproduces asexually. When conditions worsen, sexual reproduction occurs. On the diagram, mark an 'X' at where meiosis occurs.								(1 mark)
+	
+b	Name the kingdom to which this organism belongs.			(1 mark)
+c	This organism is often mistaken for a plant. State three reasons why this organism is not classified as a plant.						(3 marks)
+
+-- answer --
+a	
+
+																1m
+b	Fungi													1m
+c	It has no chlorophyll.											1m
+Its cell wall is not made of cellulose.								1m
+It has no true roots, stems and leaves.							1m	
+---------------------------------------------------
+
+[10269891]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagram below shows the structure of organism X. Organism X is a small unicellular organism living in fresh water.
+
+	
+
+a	A student suggested that organism X belongs to the kingdom Eubacteria. Do you agree with the student? Explain your answer.			(2 marks)
+b	Structures R and S can pump water out of organism X continuously. Explain why water has to be pumped out of organism X continuously.														(3 marks)
+
+-- answer --
+a	No.					 									1m
+Organism X has a true nucleus while organisms in the kingdom Eubacteria do not have a true nucleus.											1m
+b	As the water potential of fresh water is higher than that of organism X, 	1m
+there is a net movement of water into organism X by osmosis continuously.																1m
+The pumping action of structures R and S prevents the bursting of organism X.															1m	
+---------------------------------------------------
+
+[10269904]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the classification of lion (Panthera leo). 
+	
+
+a	The scientific name of tigers is Panthera tigris. Write a letter 'T' on the above diagram to show the group where tigers belong.			(1 mark)
+b	The scientific name of snail is Cornu aspersum. Write a letter 'S' on the above diagram to show the group where the snails belong. 		(1 mark)
+c	Which ones, tigers or snails, have a closer phylogenetic relationship with lions? How do you know?								(2 marks)
+d	Suggest one method that scientists can be used to determine the phylogenetic relationship between organisms.				(2 marks)
+
+-- answer --
+a	Mark a letter 'T' in the circle Panthera								1m
+b	Mark a letter 'S' in the circle Animalia but outside the circle Chordata		1m
+c	Tigers													1m
+They are in the same genus as lions. 							1m
+d	Compare the genetic material of the organisms.						1m
+The more similar the genetic material of the organisms, the closer their phylogenetic relationship. 										1m	
+---------------------------------------------------
+
+[10269911]
+// NOS // Comparison // Schematic diagram //
+*	The diagram below shows a yeast cell and a plant cell.
+	
+
+a	With reference to the diagram, state one reason why both the yeast and the plant belong to the domain Eukarya. 						(1 mark)
+b	Yeast is a unicellular fungus. In the past, fungi are put into the same kingdom as plants. However, as fungi differ from plants in many aspects, they are put into a separate kingdom now. 
+i	State one feature that is common to fungi and plants.	 	(1 mark)
+ii	State two differences between fungi and plants.			(2 marks)
+iii	State one aspect of the nature of science that is demonstrated in the above historical events.							 	(1 mark)
+
+ -- answer --
+a	Both the yeast cell and the plant cell are eukaryotic cells / have a true nucleus. 														1m
+b	i	Both fungi and plants have cell walls. 					1m
+ii	The cell walls of fungi are not made of cellulose while the cell walls of plants are made of cellulose. /
+Fungi carry out saprophytic and parasitic nutrition while plants carry out autotrophic nutrition. /
+Fungi have no chlorophyll while plants have chlorophyll.
+(any 2 or other correct answers)							1m x 2
+iii	Scientific knowledge is tentative and subject to change. 		1m	
+---------------------------------------------------
+
+[10269950]
+// Basic concepts //
+	The photographs below show two animals found in the polar regions.
+			
+animal X		animal Y	
+
+a	The two animals are classified into the same phylum. Suggest one reason for this classification.									(1 mark)
+b	Animal X belongs to a group which is different from that of animal Y.
+i	Name the group to which animal X belongs.				(1 mark)
+ii	State two external features which show that animal X belongs to this group.											(2 marks)
+
+-- answer --
+a	They have a backbone / vertebral column.							1m
+b	i	Birds													1m
+ii	Animal X has feathers covering its body.						1m
+Animal X has a beak.										1m	
+---------------------------------------------------
+
+[10269955]
+// Basic concepts //
+	For each item below, state the group of organisms showing such features.
+a	Hairy skin; young feed on mothers' milk					(1 mark)
+b	Dry, hard scales covering their skin						(1 mark)
+c	No flowers; naked seeds									(1 mark)
+d	Made up of hyphae; no true roots, stems or leaves				(1 mark)
+e	Flowers; leaves with net venation							(1 mark)
+f	Lungs; carry out external fertilization						(1 mark)
+-- answer --
+a	Mammals 												1m
+b	Reptiles 													1m
+c	Conifers 													1m
+d	Fungi													1m
+e	Dicotyledonous plants										1m
+f	Amphibians												1m	
+---------------------------------------------------
+
+[10269969]
+// Applying concepts //
+*	The table below shows the classification of tigers, but in an incorrect order.
+
+	Level of classification	Classification of tigers	
+P	Genus	Panthera	
+Q	Kingdom	Animalia	
+R	Species	Panthera tigris	
+S	Class	Mammalia	
+T	Phylum	Chordata	
+U	Family	Felidae	
+V	Order	Carnivora	
+
+a	Using the letters in the table, arrange the levels of classification in the correct order. Start with the level with the largest number of organisms.														(2 marks)
+b	Give the scientific name of tigers.							(1 mark)
+c	Give an example of organisms that are in the same phylum as tigers.															(1 mark)
+d	Although tigers can mate with lions to produce offspring, they are considered to be two different species. Explain why.			(2 marks)
+-- answer --
+a	Q, T, S, V, U, P, R 											2m
+b	Panthera tigris												1m
+c	Humans / cats / dogs 
+(or other correct answers)										1m
+d	Their offspring are infertile / sterile.								1m
+Organisms of the same species can interbreed to produce fertile offspring.	1m	
+---------------------------------------------------
+
+[10269976]
+// Applying concepts //
+	The table below shows the classification of three animals.
+	Cat	Tiger	Lion	
+Class	Mammalia	Mammalia	Mammalia	
+Order	Carnivora	Carnivora	Carnivora	
+Family	Felidae	Felidae	Felidae	
+Genus	Felis	Panthera	Panthera	
+Species	Felis catus	Panthera tigris	Panthera leo	
+
+a	Which animals, cats or tigers, have a closer phylogenetic relationship with lions? Explain briefly.									(2 marks)
+b	Carolus Linnaeus developed a system of naming organisms called binomial nomenclature. In this system, all organisms are given a two-word scientific name.
+i	State the scientific name of lions in Linnaeus's naming system.														(1 mark)
+ii	What is the advantage of using this naming system in scientific  studies? 											(1 mark)
+-- answer --
+a	Tigers													1m
+Tigers and lions are in the same genus.							1m
+b	i	Panthera leo											1m
+ii	The scientific names are universal. This enables scientists to communicate accurately.											1m	
+---------------------------------------------------
+
+[10269985]
+// Basic concepts //
+	a	List the four kingdoms that consist of eukaryotes. 			(4 marks)
+b	State three features of the organisms in the kingdom Eubacteria.	(3 marks)
+-- answer --
+a	Protista, Fungi, Plantae and Animalia							1m x 4
+b	They have a cell wall which is made of peptidoglycan.				1m
+They have no true nucleus. / Their genetic material is a circular DNA. 	1m
+They have no membrane-bound organelles / mitochondria / chloroplasts.															1m
+(or other correct answers)		
+--------------------------------------------------- 
+[10269996]
+// NOS // Basic concepts //
+*	Biologists once grouped archaebacteria and bacteria into the same kingdom due to their structural similarities. With technology advances, biologists found that archaebacteria are more closely related to eukaryotes than to bacteria in the evolutionary history. Therefore archaebacteria and bacteria have been classified into two different domains in the modern six-kingdom system. 
+a	State one structural similarity of archaebacteria and bacteria which distinguishes them from other organisms.					(1 mark)
+b	How did biologists know that archaebacteria are more closely related to eukaryotes than to bacteria in the evolutionary history?		(2 marks)
+c	Which aspect of the nature of science does this example illustrate?															(1 mark)
+
+-- answer --
+a	Both of them are prokaryotes / have no true nucleus / have a circular DNA.	1m
+b	Biologists studied the genetic material / DNA sequence of archaebacteria	1m
+and found that it is more similar to that of eukaryotes than to that of bacteria.															1m
+c	Scientific knowledge is tentative and subject to change.				1m	
+---------------------------------------------------
+
+[10270003]
+// Applying concepts //
+*	a	State two reasons why bats are not birds.					(2 marks)
+b	State two reasons why whales are mammals but not fish.		(2 marks)
+
+-- answer --
+a	Bats do not have feathers / have hair rather than feathers. /
+Bats do not have dry scales on their legs. /
+Bats do not lay eggs. (any 2 or other correct answers)				1m x 2
+b	Whales have lungs instead of gills for gas exchange. /
+Whales give birth to live young instead of laying eggs. /
+Their young develop inside the mother's body. /
+Whales have mammary glands for feeding their young. 
+(any 2 or other correct answers) 							1m x 2	
+---------------------------------------------------
+
+[10270019]
+// Applying concepts //
+*	The photograph below shows some organisms on a slice of bread.
+
+	
+
+a	Give the name of these organisms.							(1 mark)
+b	Name structure X.										(1 mark)
+c	Although these organisms have cell walls, they are not classified into the kingdom Plantae.
+i	State the kingdom they belong to.						(1 mark)
+ii	Describe how the mode of nutrition of the organisms in this kingdom is different from that of plants. 							(2 marks)
+iii	Apart from the mode of nutrition, give two other differences between the organisms in this kingdom and plants to explain why they are not classified into the kingdom Plantae.					(2 marks)
+
+-- answer --
+a	Bread moulds												1m
+b	Hypha													1m
+c	i	Fungi												1m
+ii	They carry out parasitic or saprophytic nutrition 					1m
+while plants carry out autotrophic nutrition.						1m
+iii	They have no chlorophyll while plants have chlorophyll.			1m
+Their cell walls are not made of cellulose but those of plants are made of cellulose.												1m	
+---------------------------------------------------
+
+[10270020]
+// Applying concepts //
+*	The table below shows some features of four organisms belonging to different kingdoms.
+		W	X	Y	Z	
+Cells have a cell wall	Yes	Yes	Yes	Yes	
+Cells have a true nucleus	Yes	Yes 	No	No	
+Have chlorophyll	Yes	No	No	No	
+
+a	What are the possible kingdoms that W, X, Y and Z belong to?	(4 marks)
+b	State two features that allow us to distinguish between Y and Z.	(2 marks)
+
+-- answer --
+a	W: Plantae 											1m
+X: Fungi												1m
+Y, Z: Eubacteria / Archaebacteria							1m x 2
+b	The chemical composition of their cell walls.					1m
+The chemical composition of their cell membranes.				1m	
+---------------------------------------------------
+
+[10270026]
+// Basic concepts //
+	Suppose a spacecraft returns from a mission to a planet with several specimens of a particular kind of organisms. Scientists try to classify them with the classification system that we use for the organisms on earth.
+One of the specimens has structures similar to a backbone. It has no limbs and looks like a snake and an eel. How can we determine whether it is a fish, an amphibian or a reptile by looking at its body structures?			(3 marks)
+
+-- answer --
+If the specimen has gills and has slimy scales covering its body, it can be classified as a fish.															1m
+If the body of the specimen is covered with moist naked skin, it can be classified as an amphibian. 													1m
+If the specimen has lungs and its skin is covered with dry, hard scales, it can be classified as a reptile.												1m	
+---------------------------------------------------
+
+[10270053]
+// Applying concepts //
+*	The photographs below show three organisms, X, Y and Z.
+
+			
+X	Y	Z	
+
+a	How do Y and Z obtain their food?						(1 mark)
+b	Apart from the mode of nutrition, give one other feature that X is
+i	like Y and Z.										(1 mark)
+ii	unlike Y and Z.									(1 mark)
+c	State the role of X in the energy flow of an ecosystem.			(1 mark)
+d	How is the reproduction of Y different from Z?				(2 marks)
+
+-- answer --
+a	Y and Z carry out photosynthesis to make their own food.				1m
+b	i	It has cell walls /
+It cannot move around.
+(or other correct answers)									1m
+ii	It does not have chlorophyll. /
+It does not have true roots, stems or leaves. / 
+Its cell walls are not made of cellulose. 
+(or other correct answers)									1m
+c	Decomposer												1m
+d	Y produces spores for reproduction								1m
+while Z produces flowers and seeds for reproduction. 					1m	
+---------------------------------------------------
+
+
+
+[10270061]
+// Basic concepts //
+	The photographs below show six animals, P, Q, R, S, T and U.
+
+			
+P	Q	R	
+			
+S	T	U	
+
+a	Give one feature that distinguishes Q and S from P, R, T and U.	(1 mark)
+b	Based on the feature in a, name the group to which Q and S belong.															(1 mark)
+c	Give two features of Q that are different from S.				(2 marks)
+d	The dichotomous key below can be used to identify P, R, T and U.
+		1	a	Have jointed legs……………………..	Go to 2
+			b	Do not have jointed legs……………...	Go to 3
+		2	a	Have wings……………………………	Insect
+			b	Do not have wings……………………	Arachnid
+		3	a	Have spiny skin……………………….	Echinoderm
+			b	Do not have spiny skin………………..	Cnidarian
+
+
+i	Which animal is a cnidarian?							(1 mark)
+ii	With reference to the dichotomous key provided, give two features of an echinoderm.									(2 marks)
+
+-- answer --
+a	Q and S have a backbone / vertebral column while P, R, T and U do not.															1m
+b	Vertebrates											1m
+c	Q has lungs for gas exchange while S has gills. /
+Q gives birth to live young while S lays eggs. /
+Q has mammary glands while S does not. /
+Q is a homoiotherm while S is a poikilotherm. 
+(any 2 or other correct answers)								1m x 2
+d	i	T												1m
+ii	It does not have jointed legs. 							1m
+It has spiny skin. 									1m	
+---------------------------------------------------
+
+[10270062]
+// Applying concepts //
+*	a	Construct a dichotomous key to classify vertebrates into the five groups: fish, amphibians, reptiles, birds and mammals.				(4 marks)
+b	Use the key you constructed in a to classify a frog into the group it belongs to. Write down the key sequence taken for the classification. 	(2 marks)
+
+-- answer --
+a	1	a	With hair or feathers							Go to 2
+	b	Without hair or feathers						Go to 3
+2	a	Body covered with hair						Mammals
+	b	Body covered with feathers					Birds
+3	a	Body covered with scales						Go to 4
+	b	Without scales								Amphibians
+4	a	Body covered with slimy scales					Fish
+	b	Skin covered with dry, hard scales				Reptiles
+(or other correct answers)										4m
+b	1b → 3b → Amphibians										2m	
+---------------------------------------------------
+
+[10270074]
+// Applying concepts //
+*	a	Use the dichotomous key below to classify organisms P, Q, R, S, T, U and V into different groups.									(3 marks)
+1	a	Cells with cell walls…………………………...	Go to 2
+	b	Cells without cell walls………………………..	Go to 3
+2	a	With chlorophyll………………………………	Go to 4
+	b	Without chlorophyll…………………………...	P
+3	a	Most are unicellular organisms………………..	Q
+	b	Multicellular organisms……………………….	R
+4	a	With true roots…………………………………	Go to 5
+	b	Without true roots……………………………..	S
+5	a	With seeds……………………………………..	Go to 6
+	b	Without seeds………………………………….	T
+6	a	With fruits……………………………………..	U
+	b	Without fruits………………………………….	V
+b	How may the season affect the usefulness of the above key for classifying a particular plant? 										(2 marks)
+
+
+-- answer --
+a	P: Fungi
+Q: Protista
+R: Animalia 
+S: non-vascular plants
+T: ferns
+U: flowering plants	
+V: conifers													3m
+b	The season may affect fruit and seed production. 		 			1m
+Fruits and seeds are not produced by plants in certain seasons. The above key cannot be used in these seasons. 								1m	
+---------------------------------------------------
+
+
+[10270078]
+// Comparison // Schematic diagram // Basic concepts //
+	The diagram below shows the structure of a bacterium. 
+
+	
+
+a	Name structure X and state its function. 					(2 marks)
+b	State two similarities and two differences in the structure of a bacterium and an archaebacterium.									(4 marks)
+
+-- answer --
+a	X: flagellum											1m
+It is used for locomotion.									1m
+b	Similarities:
+Both are unicellular. / 
+Both are prokaryotes / have no true nucleus / have a circular DNA. /
+Both have a cell wall. /
+Both have a cell membrane / cytoplasm. 
+(any 2 or other correct answers) 							1m x 2
+Differences:
+The cell wall of a bacterium is made of peptidoglycan, while that of an archaebacterium is not made of peptidoglycan. 					1m
+The lipid that makes up the cell membrane of an archaebacterium is different from that of a bacterium.										1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10270161]
+// Cross-topic // Applying concepts //
+*	The photographs below show animals P to U in a rocky shore in Hong Kong.
+
+			
+P	Q	R	
+			
+S	T	U	
+
+a	The animals shown above belong to two different major groups. Give the names of the groups and classify the animals into the groups.	(4 marks)
+b	Construct a dichotomous key for identifying the animals shown above.
+													(5 marks)
+c	R lives on the exposed surfaces in the rocky shore. With reference to the photograph, suggest how it reduces water loss.				(1 mark)
+
+
+
+-- answer --
+a	Vertebrates and invertebrates									2m
+Vertebrates: Q and U											1m
+Invertebrates: P, R, S and T									1m
+b	1	a	With legs									Go to 2
+	b	Without legs								Go to 3
+2	a	With feathers								U
+	b	Without feathers							T
+3	a	With hard shell								Go to 4
+	b	Without hard shell							Go to 5
+
+4	a	With an olive-shaped shell						P
+	b	With an oval-shaped shell						R
+5	a	With fins									Q
+	b	Without fins								S
+(or other correct answers)										5m
+c	R has a thick shell which can reduce water loss due to evaporation.		1m	
+---------------------------------------------------
+
+[10270167]
+// Applying concepts //
+*	The following is some information about the mammal Alopex lagopus.
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Scientific name 	Alopex lagopus 	
+Common name	Arctic fox, white fox	
+Habitat	The Arctic region	
+Body size	About 50 cm long 	
+Feature	Small ears	
+	Dense white hair	
+	Long brushy tail	
+	Sharp teeth 	
+	Sharp and curved claws	
+a	Give one observable feature in the photograph to show that Alopex lagopus is a mammal.											(1 mark)
+b	Deduce with reasons whether Alopex lagopus is a herbivore or a carnivore.													(2 marks)
+c	Explain how Alopex lagopus is adapted to live in the Arctic region.															(3 marks)
+d	Why do scientists use scientific names rather than common names to refer to organisms?											(3 marks)
+
+-- answer --
+	a	Its body is covered with hair.								1m
+	b	It is a carnivore.											1m
+		It has sharp teeth / claws for catching / killing its prey.				1m
+	c	It has small ears to reduce heat loss in the cold climate. /
+		It has dense hair for insulation in the cold climate. /
+		Its hair is white to help camouflage itself with snow in the Arctic region. /
+Its long brushy tail can help keep the body warm when the animal curls up to sleep. (any 3 or other correct answers)						1m × 3
+	d	Different common names may be used for the same species in different places.																1m
+		The scientific name is universal								1m
+		so it enables scientists to communicate accurately.				1m	
+---------------------------------------------------
+
+[10270189]
+// NOS // Applying concepts //
+*	The table below shows the classification of six organisms under two different systems. The two-kingdom system was proposed in the 1730s and the six-kingdom system was proposed in the 1970s.
+Organism	Group in the classification system	
+	Two-kingdom system	Six-kingdom system	
+Mushroom	Plant	Fungi	
+Pine	Plant	Plantae	
+Rabbit	Animalia	Animalia	
+Amoeba	Not classified	Protista	
+Escherichia coli	Not classified	Eubacteria	
+Sulfolobus solfataricus	Not classified	Archaebacteria	
+
+a	Mushroom and pine are classified into the same group under the two-kingdom system, but different groups under the six-kingdom system.
+i	Give two features of mushroom and pine that allow their classification into the same group under the two-kingdom system.		(2 marks)
+ii	Give two features of mushroom and pine that explain why they are classified into different groups under the six-kingdom system.														(2 marks)
+
+b	Amoeba, E. coli and S. solfataricus are not classified under the two-kingdom system. Suggest one reason for this.			(2 marks)
+c	In 1990, a three-domain system was proposed. Classify the six organisms in the table into the three domains.							(3 marks)
+d	Why have different classification systems developed?			(2 marks)
+
+
+-- answer --
+a	i	Neither of them can move from place to place.					1m
+			Both of their cells have cell walls. (or other correct answers)			1m
+ii	Mushroom carries out saprophytic nutrition whereas pine carries out 	autotrophic nutrition.										1m
+			The cell walls of mushroom are not made of cellulose but the cell walls 			of pine are made of cellulose. (or other correct answers)			1m
+	b	These small organisms were not discovered in the 1730s				1m
+		as microscopes with high magnification power were not available at that time.																	1m
+	c	Bacteria: E. coli												1m
+		Archaea: S. solfataricus										1m
+		Eukarya: mushroom, pine, rabbit, Amoeba							1m
+	d	New species have been found / new knowledge has gained and the existing 			classification system cannot accommodate the new evidence.			1m
+		Scientists have placed emphasis on different classification criteria.		1m	
+---------------------------------------------------
+
+
+[10270210]
+// NOS // Reading comprehension // Applying concepts //
+*	Read the article below and answer the questions. 
+
+Development of the classification system
+
+Aristotle was a Greek philosopher in the 4th century BC. He classified organisms into two groups, plants and animals. He further classified animals according to whether they had blood and whether they lived on land or in water. His system was used until the 17th century, when voyages of exploration brought new plants and animals to Europeans. People found that Aristotle's system failed to classify many of the new plants and animals.
+
+
+a sculpture of Aristotle
+
+In the 18th century, Carolus Linnaeus, a Swedish biologist, developed a new classification system. He classified organisms into two kingdoms, plants and animals. Then he divided each kingdom into smaller groups at different levels based on their structural similarities.
+
+In the 19th and 20th centuries, better microscopes were developed. Biologists were able to observe organisms in greater detail and used new criteria to classify organisms. New kingdoms were established based on new evidence.
+	
+
+
+a	State one similarity between Aristotle's and Linnaeus's systems of classification.											(1 mark)
+b	State one difference between Aristotle's and Linnaeus's systems of classification.											(2 marks)
+c	Write down the evidence from the article that demonstrates the following aspects of the nature of science.							(4 marks)
+Nature of science	Evidence from the article	
+i	Scientists build on the work of other scientists.
+		
+ii	Science is socially and culturally embedded.
+		
+iii	Scientific knowledge is tentative and subject to change.		
+iv	Science is affected by the technology and equipment available at the time.		
+d	Apart from the classification system, Carolus Linnaeus also developed a system of naming organisms called binomial nomenclature. Describe this system with a named example.							(3 marks)
+
+
+
+
+
+
+
+
+
+
+
+-- answer --
+	a	Both systems classified organisms into two main groups: plants and animals.																	1m
+	b	Aristotle classified animals according to whether they had blood and whether they 		lived on land or in water.										1m
+		Linneaus classified plants and animals into smaller groups at different levels based 		on their structural similarities. 									1m
+	c	i	Scientists proposed new kingdoms based on the previous classification 				system.												1m
+		ii	Aristotle's system was used until the 17th century, when voyages of 					exploration brought new plants and animals to Europeans.			1m
+		iii	The classification system kept changing over time. A new system was 				established when new evidence arose.						1m
+		iv	The development of the microscope allowed biologists to observe organisms 			in greater detail and use new criteria to classify organisms.			1m
+	d	In binomial nomenclature, the scientific name of organisms consists of two words 		in Latin. 													1m
+		Take the scientific name of humans, Homo sapiens, as an example.
+		Homo is the genus name. 										1m
+		Sapiens is the species name.									1m
+		(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10270217]
+// Overseas exam question // Applying concepts //
+	a	Define the term 'species'.								(2 marks)
+b	Duckweed is a tiny hydrophyte found floating or slightly submerged in ponds. The plant consists of a green frond, not differentiated into stem and leaves, and one or more roots. There are four native Irish duckweed species.
+i	Species are often identified with the use of a dichotomous key. A dichotomous key separates organisms into groups until individual species have been described. The table below shows features which may be used in the construction of a dichotomous key for the identification of the duckweed species.
+Species	Single root	Round frond	Convex lower surface	
+Lemna minor	✓	✓	✗	
+Spirodela polyrhiza	✗ 	✓	✗	
+Lemna gibba	✓	✓	✓	
+Lemna trisulca	✓	✗	✗	
+
+Using the information in the table, complete a dichotomous key for the duckweed species. A suitable key has been started for you. 
+1	Single root 			→ 2
+	More than one root		→ Spirodela polyrhiza		(3 marks)
+ii	Another duckweed species, Lemna minuta, was first found in Ireland in 1993 at Blarney Castle. This species has a single root, round fronds and a flat lower surface. With which native species is this introduced species most likely to be confused?					(1 mark)
+iii	Suggest which of the four native species is least related to Lemna minuta. Explain your answer.							(2 marks)
+						   CCEA GCE (AS) Biology Module 2 Jan 2013 Q6
+
+-- answer --
+a	Organisms of the same species can interbreed 						1m
+to produce fertile offspring.										1m
+b	i	1	Single root				→ 2
+	More than one root		→ Spirodela polyrhiza 
+2	Round frond			→ 3
+	Frond not round			→ Lemna trisulca				1m
+3	Convex lower surface	→ Lemna gibba					1m
+	Lower surface not convex	→ Lemna minor					1m	
+ii	Lemna minor											1m
+iii	Spirodela polyrhiza										1m
+It belongs to a different genus. / All other species belong to the genus Lemna.													1m	
+---------------------------------------------------
+
+[10270233]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the structure of a bacterium.
+
+	
+
+a	Name W, X, Y and Z.									(4 marks)
+b	State two features shown in the diagram to explain why bacteria do not belong to the domain Eukarya. 							(2 marks)
+c	Bacteria were once put into the same kingdom as plants, but now they are put into a separate kingdom. State two reasons for putting bacteria into a separate kingdom.										(2 marks)
+-- answer --
+a	W: flagellum												1m
+X: capsule													1m
+Y: cell wall													1m
+Z: genetic material / DNA										1m
+b	They have no true nucleus. / The genetic material is a circular DNA lying free in the cytoplasm.													1m
+They have no membrane-bound organelles.						1m
+c	Their cell wall is not made of cellulose.							1m
+They are prokaryotic / unicellular.								1m	
+---------------------------------------------------
+
+[10270258]
+// Applying concepts //
+*	In a field study, a student identified three species of trees and recorded them as follows:
+
+						
+
+a	The student named these trees using binomial nomenclature. Explain the meaning of the term 'binomial nomenclature' with the names of the three species shown above.									(3 marks)
+b	State two mistakes made by the student in writing the names of the three species of trees.										(2 marks)
+c	Is species Y more similar to species X or species Z in characteristics? Explain briefly.										(3 marks)
+d	The three species of trees produce fruits in spring. Name the kingdom and the group they belong to. 								(2 marks)
+
+-- answer --
+a	Binomial nomenclature is a way of naming organisms using universal scientific names.													1m
+The scientific name of each species consists of two words in Latin. 		1m
+The first word is the genus name and the second word is the species name.	1m
+b	The two words of each species should be underlined separately.			1m
+The second word should begin with a small letter.					1m
+c	Y and X belong to two different genera. 							1m
+Y and Z belong to the same genus. 								1m
+Therefore Y is more similar to Z than to X. 							1m
+d	Kingdom: Plantae											1m
+Group: flowering plants										1m	
+--------------------------------------------------- 
+
+[10270265]
+// Applying concepts //
+*	The key below can be used to identify geese. 
+	1	a	Pink feet …..…….………………………………	Go to 2
+		b	Black feet ….……………………………………	Go to 3
+	2	a	White face ………………………………………	Chen caerulescens 
+		b	Grey face ……………..…………………………	Anser anser
+	3	a	With white patches on the face ……….…………	Branta canadensis
+		b	No white patches on the face ……………………	Branta bernicla
+
+a	Using the above key, identify the geese shown in the photographs below. Write down the full scientific name of each and the key sequence taken for making the identification. 								(4 marks)
+		
+X	Y	
+
+b	State which goose/geese shown in the key has/have a closer phylogenetic relationship with goose Y. Explain why. 			 		(2 marks)
+c	A new species of goose is discovered by scientists. Suggest a method by which scientists can determine the phylogenetic relationship of the new species with the existing species. 					 		(2 marks)
+
+
+-- answer --
+a	X: Chen caerulescens										1m
+Key sequence: 1a → 2a										1m
+Y: Branta canadensis											1m
+Key sequence: 1b → 3a										1m
+b	Branta bernicla												1m
+It belongs to the same genus as goose Y. 							1m
+c	Compare the genetic material of the new species with the existing species. 	1m
+The more similar the genetic material between the two species, the closer their phylogenetic relationship. 										1m	
+---------------------------------------------------
+
+[10270266]
+// Basic concepts //
+	The table below shows the classification of three organisms which belong to the class Mammalia.
+a	Name the classification levels i to iv shown in the table.		(4 marks)
+
+	Human	Zebra	Horse	
+Class	Mammalia	Mammalia	Mammalia	
+i	Primates	Perissodactyla	Perissodactyla	
+ii	Hominidae	Equidae	Equidae	
+iii	Homo	Equus	Equus	
+iv	Homo sapiens	Equus zebra	Equus caballus	
+
+b	i	Each organism is given a scientific name according to the naming system binomial nomenclature. Explain the meaning of 'binomial nomenclature'.									(3 marks)
+ii	Give the scientific name of zebra.						(1 mark)
+
+-- answer --
+a	i	Order												1m
+ii	Family												1m
+iii	Genus												1m
+iv	Species												1m
+b	i	Binomial nomenclature is a way of naming organisms using universal scientific names.										1m
+The scientific name of each species consists of two words in Latin. 	1m
+The first word is the genus name and the second word is the species name.														1m
+ii	Equus zebra											1m	
+---------------------------------------------------
+
+[10270285]
+// Cross-topic // Comparison // Applying concepts //
+*	A student is trying to classify the following organisms into different groups.
+
+		
+A	B	
+		
+C	D	
+		
+E	F	
+
+a	All the organisms shown above are in the same domain and the same kingdom. State the domain and kingdom they belong to.		(2 marks)
+b	A and B belong to the same group. Name the group to which they belong and give one distinctive body feature they possess.			(2 marks)
+c	The student thinks that C and D belong to the same group. Explain why he is wrong. 											(1 mark)
+d	State two structural differences between B and F which explain why they are classified into different groups.							(2 marks)
+e	The amount of daily food intake per unit mass of A is much greater than that of C. Explain.									 		(4 marks)
+
+
+-- answer --
+a	Domain: Eukarya										1m
+Kingdom: Animalia										1m 
+b	Mammals												1m
+They have mammary glands.								1m
+c	C is a vertebrate (amphibian) while D is an invertebrate. / C has a backbone / vertebral column while D does not.							1m
+d	B has lungs for gas exchange while F has gills. /
+The body of F is covered with slimy scales while the body of B is not. /
+B has mammary glands while F does not. 
+(any 2 or other correct answers) 							1m x 2
+e	A is a homoiotherm while C is a poikilotherm.					1m
+A has a higher body temperature than C. More heat is lost to the surroundings.														1m
+Therefore, A needs more food for respiration to release more energy	1m
+to compensate for the heat loss. 							1m	
+---------------------------------------------------
+
+[10270293]
+// Basic concepts //
+	Fossils of an unknown animal have been discovered. It is believed that the animal is an intermediate form between reptiles and birds in the process of the evolution.
+a	State two common features found in birds and reptiles.			(2 marks)
+b	State one feature found in birds but not in reptiles.			(1 mark)
+c	Name three other groups of vertebrates and give one example for each group.												(6 marks)
+d	State the common feature of vertebrates.					(1 mark)
+-- answer --
+a	Both have lungs for gas exchange. /
+Both carry out internal fertilization. /
+Both lay eggs with hard shells. (any 2) 						1m x 2
+b	Birds have feathers covering their bodies. / Birds are homoiotherms.	1m
+c	Fish, e.g. carp (or other correct examples) 						1m x 2
+Amphibians, e.g. frogs (or other correct examples) 				1m x 2
+Mammals, e.g. humans (or other correct examples) 				1m x 2
+d	They all have a backbone / vertebral column.					1m	
+---------------------------------------------------
+
+[10270333]
+// Applying concepts //
+*	The photographs below show the leaves of four different plants.
+
+		
+Pine	Grass	
+		
+Maple	Frangipani	
+
+a	i	Which of the plants has to be put into a different group from the  others?											(1 mark)
+ii	Name the group the plant stated in i belongs to and give one reason for your answer.										(2 marks)
+iii	State one other plant in this group.						(1 mark)
+b	Using the external features of the leaves of the plants, construct a dichotomous key for identification of the above plants.			(3 marks)
+c	What is the difference between the reproduction of pines and grass?															(1 mark)
+
+
+-- answer --
+a	i	Pine													1m
+ii	Conifers 												1m
+	The leaves of pine are needle-shaped.						1m
+iii	Firs / cypresses											1m
+b	1	a	Leaves are needle-shaped					Pine
+	b	Leaves are not needle-shaped				Go to 2
+2	a	Parallel venation						Grass
+	b	Net venation							Go to 3
+3	a	Leaves with lobes						Maple
+	b	Leaves without lobes						Frangipani																	3m
+c	Grass produces flowers for reproduction but pines do not. / 
+The seeds of grass are protected inside fruits while the seeds of pines are naked / found in cones.												1m	
+---------------------------------------------------
+
+[10270354]
+// Schematic diagram // Applying concepts //
+*	The diagrams below show six organisms, P, Q, R, S, T and U.
+		
+P	Q	
+		
+R	S	
+		
+T	U	
+Give reason(s) for each of the following.
+a	i	P and Q are grouped into the same domain.				(1 mark)
+ii	P and Q are put into different kingdoms.				(1 mark)
+b	i	R and S are grouped into the same kingdom.				(2 marks)
+ii	R and S are put into different phyla.					(2 marks)
+c	i	T and U are grouped into the same kingdom.				(2 marks)
+ii	T and U are put into different groups.					(2 marks)
+-- answer --
+a	i	They have a true nucleus. 							1m
+ii	Q has chlorophyll but P does not.						1m
+b	i	Both of them have stems and leaves.						1m
+Both have chlorophyll.								1m
+ii	R has true roots while S does not.						1m
+R has vascular tissues while S does not.					1m
+c	i	Their cells do not have a cell wall. /
+They have no chlorophyll. /	
+They can move freely from place to place. 
+(any 2 or other correct answers)							1m x 2
+ii	T has gills for gas exchange while U has lungs.				1m
+T moves with fins and tail while U moves with four limbs.		1m	
+---------------------------------------------------
+
+[10270367]
+// Comparison // Basic concepts //
+	The photographs below show two different plants.
+
+			
+X		Y	
+
+a	Which one, X or Y, is a monocotyledonous plant and which is a dicotyledonous plant? Explain briefly.						(4 marks)
+b	Apart from the answer given in a, state two other differences between monocotyledonous and dicotyledonous plants.				(2 marks)
+c	X and Y belong to the same group of plants. Give four common features of the plants in this group.									(4 marks)
+
+-- answer --
+a	X is a monocotyledonous plant.									1m
+It has parallel venation.										1m
+Y is a dicotyledonous plant.									1m
+It has net venation.											1m
+b	A monocotyledonous plant has only one cotyledon in its seeds while a dicotyledonous plant has two.									1m
+The number of petals in the flowers of a monocotyledonous plant is usually a multiple of three while that of a dicotyledonous plant is usually a multiple of four or five. 														1m
+c	They produce flowers for reproduction.							1m
+They produce seeds.											1m
+They have true roots, stems and leaves. 							1m
+They have vascular tissues.									1m	
+---------------------------------------------------
+
+[10270372]
+// Schematic diagram // Applying concepts //
+*	The diagrams below show six animals, P, Q, R, S, T and U.
+			
+P	Q		
+			
+R	S		
+			
+T	U		
+
+a	Identify the animals using the dichotomous key below.			(6 marks)
+1	With 4 pairs of legs or fewer legs……………...	Go to 2
+	With more than 4 pairs of legs…………………	Go to 5
+2	With wings …………………………………….	Go to 3
+	Without wings ...……………………………….	Go to 4
+3	With 1 pair of wings ……………………..……	Glossina
+	With 2 pairs of wings …………………..……...	Brachyptera 
+4	With legs ……...……………………………….	Eremobates
+	Without legs ………………………..………….	Lumbricus
+5	With 1 pair of legs per segment ……………...	Scutigerella
+	With more than 1 pair of legs per segment …....	Spirobolus
+b	Explain what a dichotomous key is.						(2 marks)
+c	Why can the six animals be classified into the same main group?																(1 mark)
+d	A student suggests that R and T should be separated from the other four and put into the same sub-group. State two common features of R and T to support the student's view. 								(2 marks)
+
+
+-- answer --
+a	P: Spirobolus												1m
+Q: Scutigerella												1m 
+R: Glossina												1m 
+S: Eremobates												1m
+T: Brachyptera												1m
+U: Lumbricus												1m
+b	It is a tool for identifying organisms.								1m
+Organisms can be identified step by step by choosing one of the two alternative features at each step.										1m
+c	They do not have a backbone / vertebral column.					1m
+d	They have wings. 											1m
+They have three pairs of legs.									1m 
+(or other reasonable answers)	
+---------------------------------------------------
+
+
+[10270379]
+// Schematic diagram // Applying concepts //
+*	The diagram below shows the classification of vertebrates into five different groups.
+	
+a	Name the groups P, Q, R, S and T.							(5 marks)
+b	Give one feature that is unique to the organisms in groups P and S.															(1 mark)
+c	Why is a moist naked skin important to the organisms in group Q?															(2 marks)
+d	Are bats and whales belong to the same group? If yes, name the group and state one unique feature of this group that is not listed in the above diagram. If no, name the groups and state one unique feature of each group.															(3 marks)
+-- answer --
+a	P: mammals 												1m
+Q: amphibians 												1m
+R: fish 													1m
+S: birds 													1m
+T: reptiles													1m 
+b	They are both homoiotherms.									1m
+c	The moist naked skin allows gas exchange through the skin			1m 
+and allows water to be absorbed or lost through the skin.				1m
+d	Yes														1m
+They are mammals. 											1m
+They have mammary glands.									1m	
+--------------------------------------------------- 
+[10270382]
+// Cross-topic // Schematic diagram // Applying concepts //
+*	The diagrams below show six animals.
+			
+Snail	Crab	Fish		
+			
+Bee	Pig	Frog	
+
+a	These animals belong to two different major groups. Give the names of these groups.											(2 marks)
+b	Classify the above animals into the two major groups answered in a.	
+														(2 marks)
+c	On average, pigs consume more food per unit mass than frogs do. Why?
+														(4 marks)
+d	Both bats and bees can fly. Why do they belong to different major groups?														(1 mark)
+
+-- answer --
+a	Vertebrates and invertebrates								1m x 2
+b	Vertebrates: fish, pig and frog								1m
+Invertebrates: snail, crab and bee							1m
+c	Pigs are homoiotherm while frogs are poikilotherm. 				1m
+Pigs have a higher body temperature than frogs. More heat is lost to the surroundings.											1m
+Therefore, pigs need more food for respiration to release more energy	1m
+to compensate for the heat loss. 							1m
+d	Bats have a backbone / vertebral column while bees do not. 		1m	
+---------------------------------------------------
+
+Essays
+
+[10270508]
+// Communication // Applying concepts //
+*	Discuss the facts that a cat and a pigeon are classified into two subdivisions of the same major group of animals.								(10 marks)
+-- answer --
+Same major group:
+Both are vertebrates.												1m
+They have a backbone / vertebral column.								1m
+Different subdivisions:
+Cat is a mammal while pigeon is a bird.								1m
+Cat has hair covering its body while pigeon has feathers covering its body. 		1m
+Cat has no beak while pigeon has a beak.								1m
+Cat has mammary glands while pigeon does not.						1m
+Cat gives birth to kittens while pigeon lays eggs.							1m
+Communication 												3m	
+---------------------------------------------------
+
+[10270509]
+// Communication // Applying concepts //
+*	Fungi belonged to a class under the kingdom Plantae in the old two-kingdom system, but it is now classified as an individual kingdom in the modern six-kingdom system. 
+Discuss whether fungi should be included in the kingdom Plantae.	(10 marks)
+-- answer --
+Fungi should be included in the kingdom Plantae:
+Both fungi and plants consist of cells with a cell wall. 						1m
+Both of them do not move from place to place.							1m
+Fungi produce spores for reproduction, which is similar to some plants like ferns.	1m
+Fungi should not be included in the kingdom Plantae:
+The cell walls of fungi are not made of cellulose while the cell walls of plants are made of cellulose.														1m
+Fungi carry out parasitic or saprophytic nutrition while plants carry out autotrophic nutrition.														1m
+Fungi do not have chlorophyll while plants do.							1m
+Fungi do not have true roots, stems or leaves while most plants do.			1m
+Communication													3m	
+---------------------------------------------------

@@ -1,0 +1,597 @@
+( Chapter 1		Basic microbiology
+
+Multiple-choice questions
+
+[10285785]
+// Schematic diagram // Basic concepts //
+(	The diagram below shows the general structure of a virus.
+	
+Which labelled structure is responsible for recognizing the host cell of the virus?
+A	Structure P			B	Structure Q
+C	Structure R			D	Structure S
+B	
+---------------------------------------------------
+
+[10285802]
+// Cross-topic // Applying concepts //
+(*	The key below can be used to identify four kinds of microorganisms.
+
+	1 a	With true nucleus ……………….……………...….	2
+	1 b	Without true nucleus …………………………...….	Microorganism W
+	2 a	With photosynthetic pigment ……………….……..	Microorganism X
+	2 c	Without photosynthetic pigment …………………..	3
+	3 a	With cell wall ……………………………………….	Microorganism Y
+	3 b	Without cell wall ………………………………….	Microorganism Z
+
+Which microorganism may be yeast?
+A	Microorganism W		B	Microorganism X
+C	Microorganism Y		D	Microorganism Z
+C	
+---------------------------------------------------
+
+[10285806]
+// Basic concepts //
+(*	Which of the following statements about how different kinds of microorganisms obtain carbon for growth are correct?
+(1)	Amoeba obtains carbon by feeding on other organisms.
+(2)	Euglena obtains carbon dioxide to produce organic compounds through photosynthesis.
+(3)	Rhizopus obtains carbon by secreting enzymes to digest dead organic matter outside its body and absorbing the digested products.
+A	(1) and (2) only	
+B	(1) and (3) only
+C	(2) and (3) only	
+D	(1), (2) and (3) 
+D	
+---------------------------------------------------
+
+[10285813]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the effect of pH on the growth rate of microorganism X.
+	
+Which of the following statements about microorganism X is/are incorrect?
+(1)	Microorganism X can cause spoilage to pickled foods.
+(2)	Microorganism X grows best in slightly alkaline conditions.
+(3)	Microorganism X cannot grow when the pH value of the surroundings is below 7.
+A	(1) only
+B	(2) only
+C	(1) and (3) only
+D	(2) and (3) only
+A	
+---------------------------------------------------
+
+[10285821]
+// Experiment // Calculation // Applying concepts //
+(*	A student used the spread plate method to determine the number of living bacteria in a water sample. He found that there were 80 colonies on the nutrient agar plate that was spread with 0.1 cm3 of 100-fold diluted water sample after incubation. How many bacteria were present in 1 cm3 of the original water sample?
+A	80
+B	8 × 103
+C	8 × 104
+D	8 × 105
+C	
+---------------------------------------------------
+
+[10285822]
+// Experiment // Calculation // Schematic diagram //
+(*	A student determined the number of bacteria in a culture using a cell counter. The diagram below shows a part of the cell counter viewed under a light microscope. 
+	
+The grid and the cover slip was 0.1 mm apart. How many bacteria were present in 1 cm3 of the culture?
+A	3 × 106
+B	3.75 × 106
+C	4 × 106
+D	5.25 × 106
+B	
+---------------------------------------------------
+
+[10285827]
+// Basic concepts //
+(	Viruses are not considered organisms because
+(1)	they have no nucleus.
+(2)	their genetic material is either DNA or RNA.
+(3)	they are not composed of cells.
+A	(1) only
+B	(3) only
+C	(1) and (2) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10285828]
+// Graph interpretation // Applying concepts //
+(*	The graph below shows the effect of temperature on the rates of growth of two different microorganisms.
+	
+
+Which of the following statements about the two microorganisms is not correct?
+A	The optimum temperature for the growth of Q is higher than that for the growth of P.
+B	The two microorganisms have different optimum temperatures.
+C	At a temperature lower than 5 °C, both P and Q die.
+D	At a temperature higher than 35 °C, both P and Q die.
+C	
+---------------------------------------------------
+
+[10285838]
+// Basic concepts //
+(	Facultative anaerobes can grow in conditions 
+A	with oxygen only.
+B	with or without oxygen.
+C	without oxygen only.
+D	with light only.
+B	
+---------------------------------------------------
+
+[10285848]
+// Experiment //
+(*	Directions: The following two questions refer to the steps involved in transferring the microorganisms from a liquid culture to an agar plate shown below.
+(1)	Dip the inoculating loop into the liquid culture.
+(2)	Remove the stopper of the culture tube and flame the mouth of the tube.
+(3)	Flame the inoculating loop.
+(4)	Open the lid of the Petri dish slightly.
+
+Which of the following is the correct order of the steps?
+A	(2) → (1) → (3) → (4)
+B	(3) → (2) → (1) → (4)
+C	(3) → (4) → (2) → (1)
+D	(4) → (3) → (2) → (1)
+B	
+---------------------------------------------------
+
+[10285859]
+// Experiment //
+(*	What is the purpose of flaming the mouth of the culture tube in step (2)?
+A	To kill the microorganisms in the culture.
+B	To prevent the spreading of the microorganisms in the culture to the surroundings.
+C	To provide an optimum temperature for the growth of the microorganisms in the culture.
+D	To reduce the flow of air carrying contaminants into the tube.
+D	
+---------------------------------------------------
+
+[10285870]
+// Experiment //
+(*	Which of the following is not involved in the aseptic techniques that should be carried out before working with microorganisms?
+A	Wear a laboratory coat to protect ourselves.
+B	Wash our hands thoroughly with liquid soap and water to prevent contamination.
+C	Open the windows to ensure good ventilation.
+D	Clean the work surfaces with disinfectant to kill the microorganisms on them.
+C	
+---------------------------------------------------
+
+
+Short questions
+
+[10285964]
+// Graph interpretation // Applying concepts //
+(*	A man was infected with virus X. Virus X first entered the blood and then the liver cells. After a period of time, synthesis of new viruses took place in the liver cells. The graph below shows the changes in the concentration of virus X in the man's blood. Day 0 represents the day when the man became infected with the virus.
+	
+a	Suggest why the virus concentration in the blood decreased from day 0 to day 2.												(2 marks)
+b	Describe the events leading to an increase in the virus concentration in the blood from day 2 to day 10.								(2 marks)
+
+-- answer --
+a	After leaving the blood and entering the liver cells, virus X entered a latent period.																1m
+In this period, viral genes were not expressed. No new viruses were produced in the liver cells or released to the blood. Therefore the virus concentration in the blood decreased.											1m
+b	Virus X was reactivated and viral genes were expressed.				1m
+New viruses were produced in the liver cells and released to the blood, leading to an increase in virus concentration in the blood.						1m	
+---------------------------------------------------
+
+[10285965]
+// Comparison // Schematic diagram //
+(*	The diagrams below show a protozoan and a unicellular alga.
+	
+
+a	State two observable structures that are possessed by both the protozoan and the unicellular alga.										(2 marks)
+b	Describe the difference in the mode of nutrition between the protozoan and the unicellular alga.										(2 marks)
+
+
+-- answer --
+a	Both the protozoan and the unicellular alga have a true nucleus 			1m
+and a flagellum.												1m
+(or other correct answers)
+b	The protozoan is a heterotroph that feeds on other organisms or dead organic matter.													1m
+The unicellular alga is an autotroph that makes its own food by photosynthesis.																1m	
+---------------------------------------------------
+
+[10285971]
+// Graph interpretation // Basic concepts //
+(	The graph below shows the growth curve of a bacterial culture.
+
+	
+
+Describe and explain the rate of new cell formation versus death rate of the bacterial cells in the bacterial culture at:
+a	time X. 												(2 marks)
+b	time Y. 												(2 marks)
+
+
+-- answer --
+a	At time X, the rate of new cell formation is slightly higher than the death rate of the bacterial cells.												1m
+It is because the cells are in a period of adaptation and preparation for growth in the new environment.											1m
+b	At time Y, the death rate is higher than the rate of new cell formation.		1m
+It is because nutrients are depleted and toxic waste is accumulated to a high level. 															1m	
+---------------------------------------------------
+
+[10285983]
+// Experiment // Calculation // Schematic diagram //
+(*	A bacterial culture was diluted by adding 1 cm3 of the culture to 9 cm3 of sterile culture medium and the process was repeated two times. Then the diluted culture was added to the chamber of a cell counter for a total cell count. The volume of sample covering a large square is 0.004 mm3. 
+
+	
+
+The diagram below shows 10 randomly selected large squares examined under a microscope.
+
+	
+
+a	What is the dilution factor of the diluted culture being added to the chamber of the cell counter?										(1 mark)
+b	Calculate the average number of bacterial cells per cm3 of the original culture. Show your working. (Hint: 1 cm3 = 1000 mm3)		(3 marks)
+c	State one limitation of using this method to find out the number of microbial cells in a culture.								(1 mark)
+
+
+-- answer --
+a	1000														1m
+b	Average number of bacterial cells in a large square
+= (4 + 4 + 5 + 5 + 3 + 4 + 3 + 5 + 4 + 3) / 10
+= 4														1m
+Number of bacterial cells per cm3 of the original culture
+= (4 / 0.004) × 1000											1m
+= 1 000 000 (or 106)											1m
+c	Dead cells are not distinguished from living cells. /
+This method is not suitable for microorganisms that are too small to be observed under a light microscope. /
+This method is not suitable for a microbial culture with a low cell density.	1m	
+---------------------------------------------------
+
+[10285991]
+// Data handling // Experiment // Calculation //
+(**A group of students wanted to determine the number of bacteria present in a carton of fresh milk. They prepared a series of diluted milk using sterile distilled water, and spread each diluted milk on three nutrient agar plates. Each plate spread with 0.1 cm3 of the diluted milk. The plates were incubated at 30 °C for two days and the number of colonies on each plate was then counted. The results are shown in the table below.
+	Number of colonies on the plate	
+Dilution factor of the diluted milk	Plate 1	Plate 2	Plate 3	
+10	TNTC	TNTC	TNTC	
+102	TNTC	TNTC	TNTC	
+103	103	187	234	
+104	18	25	26	
+105	0	1	0	
+106	0	0	0	
+107	0	0	0	
+(* TNTC: Too numerous to count)
+
+a	State one precaution the students should take when preparing the series of diluted milk to ensure reliable results.						(2 marks)
+b	Calculate the number of bacteria in 1 cm3 of the fresh milk. Show your calculation.											(3 marks)
+-- answer --
+a	The solution must be mixed thoroughly before a volume of the solution is taken from it. 									 				1m
+This is to ensure an even distribution of bacteria in the solution.			1m
+b	The plates spread with 1000-fold diluted milk should be chosen for the calculation. 															1m
+[(103 + 187 + 234)/3] × 103 × 1/0.1								1m
+= 1.75 × 106												1m	
+---------------------------------------------------
+
+[10285998]
+// Basic concepts //
+(	Name the apparatus used in the following microbiological techniques.																		(4 marks)
+Technique	Apparatus	
+Counting total number of bacterial cells in a liquid culture		
+Determining turbidity of a bacterial culture		
+Sterilizing apparatus under high temperature and pressure		
+Spreading a bacterial culture onto an agar plate		
+
+-- answer --
+Technique
+Apparatus
+
+Counting total number of bacterial cells in a liquid culture
+Cell counter / haemocytometer
+
+Determining turbidity of a bacterial culture
+Spectrophotometer
+
+Sterilizing apparatus under high temperature and pressure
+Autoclave
+
+Spreading a bacterial culture onto an agar plate
+Spreader
+
+															1m x 4	
+---------------------------------------------------
+
+
+[10286001]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(4 marks)
+Different microorganisms need different environmental conditions for growth. For example, a                      can live with or without oxygen. Examples of them include b                      and some bacteria. 
+c                      can only live in the presence of oxygen. On the other hand, some microorganisms cannot live in the presence of oxygen, they are called d                     . 
+
+-- answer --
+a	facultative anaerobes											1m
+b	yeast														1m
+c	Obligate aerobes											1m
+d	obligate anaerobes											1m	
+---------------------------------------------------
+
+Structured questions
+
+[10286094]
+// Cross-topic // High order thinking // Experiment //
+(**The table below shows some characteristics of three kinds of bacteria, X, Y and Z.
+Bacterium	Gram-positive or Gram-negative #	Aerobic or anaerobic	
+X	Positive	Obligate aerobe	
+Y	Positive	Obligate anaerobe	
+Z	Negative	Facultative anaerobe	
+# Gram-negative bacterium has a hydrophobic outer membrane covering its cell wall while Gram-positive bacterium does not
+
+A scientist wanted to grow these bacteria in three test tubes of agar in order to identify them. First, he immersed a wire into a culture of each kind of bacteria. He then inserted each wire into a tube of agar to two-thirds of its depth and withdrew it to form a wire stab. After incubating the tubes at 30 (C for 24 hours, he observed that bacteria grew at different positions of the agar. The diagram below shows the results.
+
+	
+a	Based on the positions of bacterial growth, identify the bacteria in tubes P, Q and R. Explain your answer.							(6 marks)
+b	Penicillin is a large polar molecule. Based on the information provided, which kind of bacteria is more likely to grow if the bacteria are inoculated on an agar plate containing penicillin? Explain your answer.		(3 marks)
+
+c	Some obligate anaerobic bacteria can infect humans. Hyperbaric oxygen therapy can be used to treat the infections caused by these bacteria. It involves breathing in pure oxygen under an increased pressure in a chamber for few minutes to two hours. Suggest how this treatment can help treat infections caused by obligate anaerobic bacteria.				(2 marks)
+
+-- answer --
+a	Tube P: X													1m
+In tube P, the bacteria grew only on the surface of the agar. This indicates that the bacteria can live only in the presence of oxygen.						1m
+Tube Q: Z													1m
+In tube Q, the bacteria grew along the wire stab and on the surface of the agar. This indicates that the bacteria can live with or without oxygen.			1m
+Tube R: Y													1m
+In tube R, the bacteria grew only near the bottom of the agar. This indicates that the bacteria can live only in the absence of oxygen.					1m
+b	Z														1m
+Z has a hydrophobic outer membrane. The large polar penicillin cannot move across the outer membrane of Z.								1m
+Penicillin cannot enter Z and kill it. Thus, Z is more likely to grow on an agar plate containing penicillin.											1m
+c	Oxygen is toxic to obligate anaerobic bacteria.						1m
+The treatment can increase oxygen concentration in the body tissues. This causes the bacteria to stop growing.									1m	
+---------------------------------------------------
+
+
+[10286095]
+// Drawing // Graph interpretation // Experiment //
+(*	In an investigation, the growth of bacteria in a liquid culture was studied. The bacterial culture containing glucose was incubated at 20 (C for 12 hours. A sample of the culture was withdrawn at intervals during this period. The number of living bacteria in the sample, its glucose concentration and its pH value were determined. The graphs below show the results.
+	
+
+a	Describe and explain the changes in the number of living bacteria in the samples of the culture
+i	from 2 to 7 hours.									(2 marks)
+ii	from 7 to 11 hours.									(2 marks)
+iii	from 11 to 12 hours.								(2 marks)
+b	Describe the change in the pH of the culture from 0 to 10 hours. Suggest one reason for the change.								(2 marks)
+c	The optimum temperature for the growth of the bacteria is 35 (C. Draw a line on the graph above to show how the growth of the bacteria would be different if the culture was kept at 30 (C instead of 20 (C.		(2 marks)
+
+-- answer --
+a	i	From 2 to 7 hours, the number of living bacteria increased.			1m
+The supply of nutrients was adequate and other conditions were favourable. The bacteria in the culture divided quickly.						1m
+ii	From 7 to 11 hours, the number of living bacteria became constant and reached a dynamic equilibrium.								1m
+A depletion of nutrients in the culture and an accumulation of toxic waste made the conditions less favourable for growth. The growth rate slowed down. The rate of the formation of new bacteria became equal to the death rate.													1m
+iii	From 11 to 12 hours, the number of bacteria decreased.			1m
+With the further decrease in the amounts of nutrients in the culture and further accumulation of toxic waste, the environment became harsh for growth. The rate at which bacteria died exceeded the rate at which they were produced.												1m
+b	From 0 to 10 hours, the pH of the culture decreased.					1m
+The bacteria produced acids (e.g. lactic acid) during anaerobic respiration. The acids caused the culture to become acidic.							1m
+c	The growth rate is higher in exponential phase.						1m
+It levels off at the same number of living bacteria.					1m	
+---------------------------------------------------
+
+[10286109]
+// Data handling // Experiment //
+(*	In an investigation, bacteria were grown in a liquid culture medium containing glucose as the carbon source. A representative sample of the culture was withdrawn every 2 hours for determining the number of living bacteria, the glucose concentration and the pH. The table below shows the results.
+Time 
+(h)	Number of living bacteria per cm3	Glucose concentration 
+(g dm-3)	pH	
+0	200	48	7.0	
+2	212	48	7.0	
+4	228	48	7.0	
+6	630	43	6.9	
+8	4000	38	6.8	
+10	25 200	33	6.5	
+12	158 500	28	6.1	
+14	631 000	23	5.5	
+16	1 260 000	18	5.3	
+18	1 260 000	14	5.2	
+20	1 260 000	11	5.0	
+22	1 260 000	9	5.0	
+24	63 000	8	5.0	
+a	Describe and explain the change in the number of living bacteria in the culture from 0 to 4 hours. 								(2 marks)
+b	Describe the relationship between the number of living bacteria and the glucose concentration in the culture from 4 to 20 hours. 		(2 marks)
+c	Describe and explain the change in pH during the investigation.	(4 marks)
+d	Suggest how a pH of 5.0 may inhibit the growth of bacteria.	(1 mark)
+e	When drawing the growth curve of the bacteria in the culture, the log10 number of living bacteria should be plotted against time. Suggest one reason for using the log10 number instead of the number of living bacteria.														(1 mark)
+
+
+-- answer --
+a	From 0 to 4 hours, the number of living bacteria in the culture increased slightly.																1m
+	It is because the bacteria were in a period of adaptation and preparation for growth in the new environment. They were not active in cell division.			1m
+b	From 4 to 16 hours, the number of living bacteria increased exponentially as the 	glucose concentration decreased constantly.						1m
+	From 16 to 20 hours, the number of living bacteria remained unchanged as the 	glucose concentration continued to decrease.						1m
+c	From 0 to 20 hours, the pH decreased							1m
+	due to the acids produced by the bacteria.							1m
+	From 20 to 24 hours, the pH remained unchanged.					1m		More and more bacteria died and little acid was produced.				1m
+d	Enzymes necessary for the growth of bacteria are denatured at pH 5.0.	1m
+e	Using the log10 number can avoid large numbers / a wide range of numbers.	1m	
+---------------------------------------------------
+
+[10286112]
+// Experiment // Calculation // Communication // Applying concepts //
+(*	Mannitol Salt Agar (MSA) is a solid culture medium which contains 7.5% sodium chloride, the sugar mannitol, phenol red and agar, etc. The high concentration of sodium chloride inhibits the growth of microorganisms other than Staphylococcus. Pathogenic Staphylococcus species ferment mannitol to acidic by-products, but non-pathogenic Staphylococcus species do not. Phenol red acts as a pH indicator. It changes from red to yellow when the pH becomes acidic.
+
+An MSA plate	
+	In an investigation, a researcher performed serial dilution of a mixed culture of bacteria. For each diluted culture, she spread 0.1 cm3 onto an MSA plate. After incubating the MSA plates for 24 hours, she counted the number of colonies on each plate. On the plate which was inoculated with a culture diluted 105 times, there were 56 yellow colonies surrounded by yellow zones and 124 red colonies with no colour change to the surrounding culture medium.
+a	What is the function of agar in the culture medium MSA? 		(1 mark)
+b	Identify, with reasons, the bacteria which form the yellow and red colonies. 														(4 marks)
+c	Calculate the number of pathogenic Staphylococcus in 1 cm3 of the original mixed culture of bacteria. Show your working. 				(2 marks)
+d	Describe three aseptic techniques involved in the serial dilution of the mixed culture of bacteria. 								(3 marks)
+
+
+-- answer --
+a	It is a gelling agent.										1m
+b	The yellow colonies were pathogenic Staphylococcus. The red colonies were 	non-pathogenic Staphylococcus.								1m
+	Only Staphyloccoccus could survive the high concentration of sodium chloride in 		the culture medium.										1m
+	Pathogenic Staphylococcus fermented mannitol to form acidic by-products which 	changed the colour of phenol red to yellow in the culture medium.		1m
+	Non-pathogenic Staphylococcus did not ferment mannitol to form acidic products 	and thus the colour of phenol red remained red in the culture medium.	1m
+c	(56 ( 1/0.1 ( 105)										1m
+	= 5.6 ( 107											1m
+d	Clean the work surface with disinfectant. /
+	Sterilize the culture medium and apparatus in an autoclave before use. /
+	Flame the mouths of the culture tubes before and after use. /
+	Replace the stoppers to the culture tubes immediately after use. /
+	(any 3 or other correct answers)								1m × 3	
+---------------------------------------------------
+
+[10286114]
+// Data handling // Experiment // Calculation // Applying concepts //
+(*	Three companies claimed that the antibacterial agents they produced can kill the bacteria in food. To investigate the effectiveness of these antibacterial agents, a student carried out an experiment shown below.
+Stage 1	Stage 2	Stage 3	Stage 4	
+9 cm3 of sterile nutrient broth was added to 4 test tubes, W, X, Y and Z. Food containing bacteria was left in each tube for 
+2 days.	1 cm3 of an antibacterial agent was added to W, X and Y. 
+1 cm3 of distilled water was added to Z.	Each tube was loosely capped and left for 20 minutes.
+	A sample from each tube was spread on a sterile nutrient agar plate. The plates were left for 
+2 days and the numbers of colonies on them were counted.	
+				
+
+The results of the experiment are shown in the table below.
+	Sample spread on the plate	
+	W	X	Y	Z	
+Number of colonies on the plate	100	0	250	500	
+
+a	State and explain a further treatment of the nutrient agar plates after the plates were spread with samples at stage 4.					(2 marks)
+b	What is the importance of setting up Z in the experiment?		(1 mark)
+c	Explain why the test tubes were left for 2 days at stage 1.		(1 mark)
+d	How can we avoid contamination when we transfer a sample from the test tubes to the nutrient agar plates?							(2 marks)
+e	Which antibacterial agent was the most effective? Explain your answer.															(2 marks)
+f	What proportion of bacteria was killed by the antibacterial agent added to 
+Y? Explain your answer.									(2 marks)
+
+-- answer --
+a	Keep the nutrient agar plates in an incubator						1m
+to provide the optimum temperature for the growth of the bacteria.		1m
+b	It is a control to ensure that any bacterial growth on the plates is due to the presence of the bacteria-containing food. 							1m
+c	To allow the bacteria to grow in this period of time.					1m
+d	Flame the mouths of the test tubes after removing and before replacing the stoppers.													1m
+Open the lids of the Petri dishes only slightly when transferring the samples and close them immediately after the work is finished.					1m
+e	The antibacterial agent added to X 								1m
+It is because the number of bacteria in the plate spread with the sample from X is the smallest.												1m
+f	Number of bacteria on the plate spread with sample from Z (without antibacterial agent): 500
+Number of bacteria on the plate spread with sample from Y: 250
+Proportion of bacteria killed by the antibacterial agent added to Y:
+[(500 - 250)/500] × 100%										1m
+= 50%													1m	
+---------------------------------------------------
+
+[10286116]
+// Drawing // Graph interpretation // Experiment // Communication //
+(*	A growth curve of bacteria can be obtained by plotting the viable cell count of a bacterial culture on a logarithmic scale against time. The graph below shows the growth curve of the bacterium Escherichia coli. 
+	
+
+a	i	Name the phase of growth between the 10th and 30th hours.																(1 mark)
+ii	Explain the shape of the curve in this period.				(2 marks)
+b	Explain why the log scale is used in the graph to show the number of bacteria.												(1 mark)
+c	i	Draw the growth curve in the graph above if the total cell count of the bacterial culture is plotted instead.						(1 mark)
+ii	Account for the shape of the growth curve in the answer to c i.															(4 marks)
+d	Several safety precautions should be taken when the experiment is carried out. Explain the importance of the following precautions.
+i	The nutrient broth should be autoclaved before use.		(1 mark)
+ii	The microbial culture should be covered.				(1 mark)
+
+-- answer --
+a	i	Stationary phase										1m
+ii	The growth rate of the bacteria slows down because there is a depletion of nutrients and an accumulation of toxic waste.					1m
+The population becomes constant and reaches a dynamic equilibrium.	1m
+b	To avoid very large numbers / show the exponential phase as a straight line, so that the graph is easier to interpret / read.							1m
+
+
+
+c	i	
+
+														1m
+ii	The viable cell count includes only living bacteria, 				1m 
+while the total cell count includes both living and dead bacteria.		1m
+Therefore, the total cell count is always higher than the viable cell count.															1m
+In the death phase, the rate at which bacteria die exceeds the rate at which they are produced, therefore the viable cell count decreases. However, the total cell count does not decrease because the total number of living and dead cells remains unchanged. 								1m
+d	i	To kill unwanted microorganisms in the nutrient broth. 				1m
+ii	To prevent the culture from being contaminated with unwanted microorganisms. /
+To prevent the bacteria in the culture from contaminating the handlers and the environment.										1m	
+---------------------------------------------------
+
+[10286122]
+// Scientific investigation // Data handling // Applying concepts //
+(*	A student investigated the effectiveness of a disinfectant. He collected samples from the classroom floor using sterile cotton swabs before and after cleaning the floor using the disinfectant. The samples were then transferred to nutrient agar plates (X and Y). A control was also set up using distilled water instead of samples (Z).
+The nutrient agar plates were incubated for one day and the numbers of colonies on the plates were counted. The results are shown in the table below.
+Plate	Content	Number of colonies	
+X	Sample collected before using disinfectant	13	
+Y	Sample collected after using disinfectant	3	
+Z	Distilled water	2	
+a	Explain why nutrient agar plates are suitable for culturing bacteria.																(2 marks)
+b	By comparing the results of X and Y, what conclusion can be drawn on the effectiveness of the disinfectant?							(2 marks)
+c	With reference to Z, explain why the results of this investigation may be unreliable. 											(2 marks)
+d	State one precaution the student should take when transferring the samples from the cotton swabs to the agar plates to increase the reliability of the results. 												(1 mark)
+e	Apart from culturing bacteria on nutrient agar plates and counting the colonies formed, describe one other method that can be used in this investigation.											(2 marks)
+
+-- answer --
+a	Nutrient agar plates provide nutrients for the growth of bacteria.			1m
+Agar is not digested by bacteria and thus can serve as a stable medium for bacterial growth.											1m
+b	There were fewer bacteria in the sample collected after the floor was cleaned using the disinfectant.  										1m
+This indicates that some of the bacteria were killed by the disinfectant / the disinfectant was effective in killing the bacteria.						1m
+c	Bacterial colonies were found in Z.								1m
+This indicates that the agar plates might have been contaminated, therefore the results may be unreliable.										1m
+d	The lids of the Petri dishes should only be slightly opened when the samples are transferred to the plates. / 
+The Petri dishes should be properly sealed after the samples are transferred to the plates.													1m
+e	Transfer the samples to the tubes of nutrient broth and incubate.			1m
+The numbers of bacteria in the tubes of nutrient broth can be estimated by performing a total cell count / measuring biomass / measuring optical density.																1m	
+---------------------------------------------------
+
+[10286153]
+// Data handling // Experiment // Calculation //
+(*	An investigation of the bacterial content in a liquid food sample was carried out. Different diluted samples were prepared by serial dilution. From each diluted sample, 0.1 cm3 of it was spread onto a nutrient agar plate. The plate was incubated for two days and the number of colonies on each plate was counted. The table below shows the results.
+Dilution factor of the diluted sample	Number of colonies	
+10	cannot be determined	
+102	cannot be determined	
+103	267	
+104	23	
+105	1	
+a	Briefly describe how 10 cm3 of 10-fold diluted sample can be prepared. State the apparatus that can be used to transfer the sample.		(2 marks)
+b	Why does the liquid food sample have to be diluted before it is spread onto the plate? 											(2 marks)
+c	i	Which plate would you use to calculate the total number of bacteria in the food sample? Explain briefly.						(2 marks)
+ii	Calculate the number of bacteria in 1 cm3 of the original food sample. Show your working.								(2 marks)
+d	Suggest one method to increase the accuracy of the estimated number of bacteria.												(2 marks)
+-- answer --
+a	Use a micropipette to add 1 cm3 of the liquid food sample to 9 cm3 of sterile culture medium.													1m 
+Mix well before transferring the food sample.						1m
+b	There are too many bacteria in the original food sample.				1m
+The bacterial colonies growing on the plate would be too dense to count / would clump together.												1m
+c	i	The one spread with sample diluted by 1000-fold.				1m
+The number of colonies on the plate falls in the range of 30-300 colonies.															1m
+ii	There are 267 bacteria in 0.1 cm3 of 1000-fold diluted sample.		1m
+Number of bacteria in 1 cm3 of the original food sample: 
+267 × 1/0.1 × 1000 = 2.67 × 106								1m
+d	Spread more plates with the diluted samples and count the colonies. 		1m
+Calculate the number of bacteria using the average value obtained.		1m	
+---------------------------------------------------
+
+[10286157]
+// Reading comprehension // Applying concepts //
+(**Read the following article and answer the questions.
+	Viruses can infect humans and cause diseases. Antiviral drugs can be used to treat viral infections. Some of these drugs work by preventing the entry of the viral nucleic acid into the cells. Some inhibit the uncoating process of the viruses. Others prevent the release of newly synthesized viruses from the infected cells. However, none of these drugs are effective if the viruses remain latent after entering the cells.	
+
+a	Describe the events that would happen after a virus entered the human body.														(4 marks)
+b	Suggest one way in which the antiviral drugs prevent the entry of the viruses into the cells.									(1 mark)
+c	Explain why preventing the release of newly synthesized viruses can help treat viral infection.										(2 marks)
+d	Explain why the drugs stated in the article are not effective if the viruses remain latent.											(2 marks)
+
+-- answer --
+a	The virus recognizes and attaches to a host cell by binding its surface proteins to specific receptors on the cell membrane of the host cell. Its nucleic acid enters the host cell.													1m
+The viral nucleic acid directs the host cell's machinery to produce many copies of the viral nucleic acid and proteins.								1m
+Viral nucleic acids and proteins assemble into new viruses.				1m
+New viruses burst the host cell and they are released.					1m
+b	The drugs block the receptors on the cell membrane of the cells / block the surface proteins of the viruses that bind to receptors. 
+(or other reasonable answers)									1m
+c	The new viruses synthesized have to be released from the infected cells before they can infect other cells of the same host.							1m
+Preventing the release of viruses can stop the viruses from spreading inside the body.														1m
+d	All the antiviral drugs stated in the article target on the processes in the multiplication of the viruses. 									1m
+If the viruses remain latent, those processes would not occur. 			1m	
+--------------------------------------------------- 
+
+[10286164]
+// Comparison // Schematic diagram // Basic concepts //
+(	The diagrams below show the structure of a bacterium, a virus and a fungus. The diagrams are not drawn to scale.
+	
+
+a	Arrange the three according to their size, from the smallest one to the largest one.											(1 mark)
+b	Compare the nature and the arrangement of the genetic material of the following:
+i	bacteria and viruses									(2 marks)
+ii	bacteria and fungi									(1 mark)
+c	Viruses can infect humans. However, the infected humans may show no symptoms for a long period of time. 
+i	Explain why no symptoms are shown during this period.	(2 marks)
+ii	Describe the events that occur during this period.			(2 marks)
+-- answer --
+a	Virus, bacterium, fungus										1m
+b	i	The genetic material of bacteria is DNA, while the genetic material of viruses is either DNA or RNA. 									1m
+Bacteria have plasmids in addition to the chromosome while viruses do not have plasmids.											1m
+ii	The genetic material of fungi is enclosed in a nucleus while the genetic material of bacteria is lying free in the cytoplasm.					1m
+c	i	After entering the host cells, the viruses enter a latent period.		1m
+Most viral genes are not expressed. No new viruses are produced and the host cells still function normally.								1m
+ii	The viral nucleic acid is integrated into the host cell's DNA			1m
+and replicated along with the host cell's DNA during cell division. 		1m	
+---------------------------------------------------

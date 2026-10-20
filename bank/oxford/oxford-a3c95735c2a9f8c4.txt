@@ -1,0 +1,2900 @@
+Chapter 10		Transpiration, transport and 							support in plants 
+
+Multiple-choice questions
+
+[10250148]
+// Graph interpretation // High order thinking //
+**	The graph below shows the change in the diameter of the stem of a plant during a two-day period.
+
+	
+
+Which of the following is most likely to be the explanation for the change in the diameter of the stem at noon?
+A	The rate of photosynthesis of the plant increases at noon.
+B	The rate of respiration of the plant increases at noon.
+C	The rate of water absorption of the plant increases at noon.
+D	The rate of transpiration of the plant increases at noon.
+D	
+---------------------------------------------------
+
+[10250172]
+// Photomicrograph // Applying concepts //
+**	The photomicrograph below shows part of a plant stem section.
+	
+A type of fungi can grow in X of the plant, blocking the transport of certain substances in the plant. Which of the following is most likely the consequence?
+A	Oxygen cannot be transported from the leaves to the roots.
+B	Inorganic ions cannot be transported from the leaves to the roots.
+C	Organic nutrients cannot be transported from the roots to the leaves.
+D	Water cannot be transported from the roots to the leaves.
+D	
+---------------------------------------------------
+
+[10250173]
+// Applying concepts //
+*	The photograph below shows some shoots developing from a potato tuber.
+	
+Which of the following correctly describes the movement of substances in the phloem of the shoots?
+A	Starch moving up the shoots
+B	Starch moving down the shoots
+C	Sugars moving up the shoots
+D	Sugars moving down the shoots
+C	
+---------------------------------------------------
+
+[10250177]
+// Graph interpretation // High order thinking // Experiment //
+**	The graph below shows the change in the mass of four leaves in a 5-day period. The leaves were picked from two different plants (X and Y). One of the leaves from each plant was smeared with vaseline on its upper surface, while the other was smeared with vaseline on its lower surface.
+
+	
+
+Which of the following is/are the conclusion(s) that can be drawn from the graph?
+More water was lost from the upper surface of the leaf from X than from the uppper surface of the leaf from Y.
+More water was lost from the upper surface of the leaf from X than from its lower surface.
+Leaf from Y has a thicker cuticle than leaf from X.
+A	(1) only
+B	(2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10250186]
+// Data handling // Experiment // Calculation //
+**	A student used the set-up below to study transpiration of a shoot.
+
+	
+
+After 4 hours, the mass of the set-up decreased and the volume of water in the flask became smaller. The table below shows the changes. (Mass of 1 mL of water is 1 g.)
+
+	Initial value	Final value	
+Mass of the set-up (g)	335	321	
+Volume of water in the flask (mL)	53.5	38	
+
+Which of the following statements about the experiment are correct?
+(1)	The rate of transpiration was 14 g hr-1.
+(2)	The shoot absorbed 15.5 g of water during the period.
+(3)	The shoot retained 1.5 g of water during the period.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+[10250195]
+// Data handling // Experiment // Calculation //
+**	A student used the following set-up to investigate the effect of humidity on the rate of transpiration of a leafy shoot.
+	
+
+He put the set-up under two environments that differed only in humidity for the same period of time. He then measured the distances moved by the air bubble and the changes in the weight of the set-up. The table below shows the results obtained.
+Environment	Distance moved by the 
+air bubble (cm)	Change in the weight of 
+the set-up (g)	
+I	1	0.3	
+II	1.2	0.8	
+
+The cross-sectional area of the graduated tube is 0.5 cm2. Which of the following can be deduced from the results? (1 cm3 of water weighs 1 g.)
+(1)	The leafy shoot retained 0.2 g of water when it was put under environment I.
+(2)	The humidity of environment I was higher than that of environment II.
+(3)	The leafy shoot put under environment II was likely to become flaccid after the experiment.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D
+
+
+Note:
+The amount of water retained by the leafy shoot
+= water absorbed - water lost
+= (1 × 0.5) - 0.3 = 0.2 g
+Compared to environment II, the leafy shoot lost less water under environment I. Since the rate of transpiration decreases with an increase in humidity, the humidity of environment I should be higher.
+The amount of water retained by the leafy shoot under environment II
+= (1.2 × 0.5) - 0.8
+= -0.2 g
+There was a net loss of water. Therefore, the leafy shoot was likely to become flaccid.
+
+	
+---------------------------------------------------
+
+[10250208]
+// Graph interpretation //
+*	The bar chart below shows the volumes of water transpired and absorbed by a herbaceous plant during different periods.
+	
+From the bar chart, which of the following can be concluded?
+(1)	The rate of transpiration increases faster than the rate of water absorption from 0600 to 1400.
+(2)	The herbaceous plant stands upright from 0600 to 1200 and droops from 1200 to 1400.
+(3)	The stomata of the herbaceous plant are fully open from 1200 to 1400.
+A	(1) only				B	(1) and (2) only
+C	(1) and (3) only		D	(2) and (3) only
+A	
+---------------------------------------------------
+[10250210]
+// Graph interpretation // Comparison //
+*	The three lines in the graph below show the total volumes of water transpired by the same plant under different conditions.
+	
+Which of the following combinations lists the possible conditions for each line?
+	Line (1)				Line (2)				Line (3)
+A	still air at 18 °C		still air at 28 °C		moving air at 28 °C
+B	still air at 18 °C		moving air at 28 °C		still air at 28 °C
+C	moving air at 28 °C		still air at 28 °C		still air at 18 °C
+D	moving air at 28 °C		still air at 18 °C		still air at 28 °C
+C	
+---------------------------------------------------
+
+[10250211]
+// High order thinking // Comparison // Schematic diagram //
+*	The diagram below shows the percentage saturation of air with water vapour near a stoma.
+	
+In which direction is the rate of transpiration the highest?
+A	(1)				B	(2)
+C	(3)				D	(4)
+A	
+---------------------------------------------------
+
+[10250225]
+// Applying concepts //
+*	In temperate regions, the leaves of deciduous trees fall off in autumn and start to grow again in the following spring. During the winter, transpiration of these trees takes place mainly through
+A	the stomata of leaves.
+B	the cuticle on leaves.
+C	the lenticels on stems.
+D	the epidermis of roots.
+C	
+---------------------------------------------------
+
+[10250227]
+// Data handling // High order thinking // Comparison //
+*	The table below shows the distribution of stomata on the leaves of four different plants.
+
+Plant	Stomatal density (number per mm2)	
+	Upper surface	Lower surface	
+(1)	0	0	
+(2)	0	168	
+(3)	132	0	
+(4)	12	143	
+
+Which of the plants probably does/do not have cuticle on the lower surface of the leaves?
+A	(1) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(2) and (4) only
+C	
+---------------------------------------------------
+
+[10250241]
+// Applying concepts //
+*	Which of the following is/are not necessary for the transport of water up the xylem?
+A	a well developed root system
+B	continuous xylem vessels
+C	water potential gradient between the cells in leaves
+D	concentration gradient of water vapour between the air spaces in leaves and the atmosphere
+A	
+---------------------------------------------------
+
+[10250245]
+// Photomicrograph // Applying concepts //
+*	Directions: The following two questions refer to the photomicrograph below, which shows part of the cross section of the stem of a herbaceous plant.
+
+	
+
+Which cell types provide(s) support to this plant by cell turgidity?
+A	W only
+B	Z only
+C	W and Y only
+D	X and Z only
+D	
+---------------------------------------------------
+
+[10250256]
+// Photomicrograph // Applying concepts //
+*	Some insects can insert their mouthparts into cell type Y and feed on the liquid transported in it. This liquid contains
+(1)	organic nutrients.
+(2)	mineral ions.
+(3)	water.
+A	(1) only					B	(2) only
+C	(1) and (3) only			D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10250269]
+// Experiment // Comparison //
+*	The diagram below shows four leafy shoots taken from a terrestrial plant. One or two surfaces of all the leaves in some of the shoots are covered with vaseline. The leafy shoots are then left in a room.
+	
+After 3 hours, which of the following is most likely the correct comparison of the heights of the water levels in the measuring cylinders?
+A	(3) < (1) < (2) < (4)			B	(3) < (2) < (1) < (4)
+C	(4) < (1) < (2) < (3)			D	(4) < (2) < (1) < (3)
+C	
+---------------------------------------------------
+
+[10250276]
+// Experiment // Applying concepts //
+*	The woody plant below is kept in bright light and one of its leaves is supplied with radioactive carbon 14C in the form of carbon dioxide.
+
+	
+
+Blocking which of the following structures could prevent 14C from reaching the bud?
+A	sieve tubes at position X
+B	xylem vessels at position X
+C	sieve tubes at position Y
+D	xylem vessels at position Y
+A	
+---------------------------------------------------
+
+[10250283]
+// Cross-topic // Graph interpretation //
+**	The graph below shows the change in the rate of uptake of potassium ions by the roots of a plant when it is grown in soil with increasing concentration of potassium ions. A poison which stops respiration is added to the soil at the point shown.
+
+	
+
+After the poison is added to the soil, the root
+A	absorbs potassium ions by active transport only.
+B	absorbs potassium ions by diffusion only.
+C	absorbs potassium ions by active transport and diffusion.
+D	does not absorb any potassium ions.
+B	
+---------------------------------------------------
+
+[10250286]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the cross section of the root of a dicotyledonous plant.
+	
+Which region contains cells with the thickest cell walls?
+A	W
+B	X
+C	Y
+D	Z
+D	
+---------------------------------------------------
+
+[10250296]
+// Basic concepts //
+	Which of the following is not an adaptation of roots for the absorption of water?
+A	The root is highly branched.
+B	The epidermis is not covered by cuticle.
+C	Root hair cells contain numerous mitochondria.
+D	Root hairs are long and fine.
+C	
+---------------------------------------------------
+
+[10250297]
+// Data handling // Comparison //
+*	The table below shows the rate of transpiration of the same plant under different environmental conditions, X and Y.
+
+	Rate of transpiration (arbitrary unit)	
+Condition X	13	
+Condition Y	5	
+
+Which of the following is most likely the difference between conditions X and Y?
+	Condition X						Condition Y
+A	air temperature 10 °C				air temperature 25 °C
+B	relative humidity 65%				relative humidity 80%
+C	oxygen concentration in air 16%		oxygen concentration in air 20%
+D	light intensity 6 arbitrary units		light intensity 8 arbitrary units
+B	
+---------------------------------------------------
+
+[10250300]
+// Basic concepts //
+	Which of the following combinations about different cells in a plant and their features is correct?
+	Plant cell					Feature
+A	epidermal cells in leaves		contain many chloroplasts
+B	cortex cells in roots			contain many chloroplasts
+C	root hair cells				contain many mitochondria
+D	palisade mesophyll cells		contain many mitochondria
+C	
+---------------------------------------------------
+
+[10250343]
+// Experiment // Comparison //
+*	The diagram below shows the set-ups of an experiment.
+
+	
+
+The set-ups were left in a room for one day. The decrease in mass of the leaves was recorded in the table below.
+
+	Decrease in mass of the leaf (g)	
+Upper epidermis smeared with vaseline	4.0	
+Lower epidermis smeared with vaseline	4.9	
+
+With reference to the results, which of the following statements about the leaves is correct?
+A	The leaves do not have stomata on the lower epidermis.
+B	The leaves do not have stomata on the upper epidermis.
+C	The leaves have more stomata on the lower epidermis than on the upper epidermis.
+D	The leaves have more stomata on the upper epidermis than on the lower epidermis.
+D	
+---------------------------------------------------
+
+[10250361]
+// Applying concepts //
+	Some people use transparent plastic bags to cover their plants when they go travelling for more than one week. Which of the following is the purpose of doing this?
+A	This can increase the rate of photosynthesis of the plants by trapping carbon dioxide inside the bags.
+B	This can decrease the rate of respiration of the plants by trapping oxygen inside the bags.
+C	This can increase the temperature of the plants by trapping heat inside the bags.
+D	This can decrease the rate of transpiration of the plants and reduce their water loss by trapping water vapour inside the bags.
+D	
+---------------------------------------------------
+
+[10250382]
+// Data handling // Experiment // Comparison //
+**	In an investigation, a scientist removed a ring of bark from a plant and supplied radioactive carbon dioxide to one of the leaves of the plant. The position of the leaf that was supplied with radioactive carbon dioxide is shown in the diagram below. The plant was kept under sunlight for one hour.
+
+	
+
+Radioactivity in different parts of the plant was then measured. The table below shows the results.
+Plant part	Radioactivity	
+shoot tip	0	
+leaf X	0.34	
+root	0.44	
+
+Which of the following is the position where the ring of bark was removed from the plant?
+A	P				B	Q
+C	R				D	S
+A	
+---------------------------------------------------
+
+[10250392]
+// Basic concepts //
+	Which of the following affect the rate of water transport in the xylem of a plant?
+(1)	the number of leaves of the plant
+(2)	the amount of lignin in the xylem of the plant
+(3)	the number of stomata on the leaves of the plant
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10250399]
+// Basic concepts //
+	Which of the following rates will increase when a plant is placed in a windy place?
+(1)	the rate of water absorption
+(2)	the rate at which water is transported up the stem
+(3)	the rate at which organic nutrients are transported to different parts of the plant
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10250404]
+// Photomicrograph //
+	The diagram below shows part of the transverse section of the stem of a plant.
+	
+
+Which of the following statements about tissue X in the stem are correct?
+(1)	Tissue X transports organic nutrients in the plant. 
+(2)	The cells in tissue X have thick cell walls.
+(3)	Tissue X provides support to the plant. 
+A	(1) and (2) only		B	(1) and (3) only
+C	(2) and (3) only		D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10250410]
+// Experiment //
+	The diagram below shows an apparatus used in an experiment.
+	
+
+The change in the volume of water in the measuring cylinder before and after the experiment measures
+A	the amount of water absorbed by the leafy shoot.
+B	the amount of water transpired by the leafy shoot.
+C	the amount of water retained by the leafy shoot.
+D	the amount of water lost by the leafy shoot.
+A	
+---------------------------------------------------
+
+[10250429]
+// Experiment //
+	The diagram below shows an experimental set-up.
+	
+
+Under which of the following conditions will the rate of movement of the air bubble be the fastest?
+	Humidity	Light intensity	Temperature
+A	high			high				low
+B	high			low				high
+C	low			high				high
+D	low			low				low
+C	
+---------------------------------------------------
+
+[10250430]
+// Basic concepts //
+	Transpiration helps
+(1)	plants absorb minerals from the soil.
+(2)	the transport of organic nutrients in the stems.
+(3)	the transport of water in the stems.
+A	(3) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10250436]
+// Photomicrograph //
+	The photomicrograph below shows the transverse section of the stem of a plant.
+
+	
+
+Which of the following substances are transported in tissue X?
+A	water and minerals
+B	minerals and lipids
+C	sucrose and starch
+D	sucrose and amino acids
+A	
+---------------------------------------------------
+
+[10250444]
+// Schematic diagram // Basic concepts //
+	The diagram below shows the transverse section of the root of a plant.
+	
+
+Which of the following combinations correctly describes the cells of tissue X?
+	Cell wall			Nucleus
+A	absent			absent
+B	absent			present
+C	present			absent
+D	present			present
+C	
+---------------------------------------------------
+
+[10250447]
+// Applying concepts //
+	The photograph below shows some plants.
+	
+
+Which of the following provide support for these plants?
+(1)	turgidity of cells
+(2)	rigidity of phloem
+(3)	rigidity of xylem
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10250451]
+// Comparison // Applying concepts //
+**	Directions: The following two questions refer to the diagram below, which shows two woody plants. Some tissues were removed from their stems.
+	
+
+The leaves of plant X wilted quickly. Which of the following is a possible explanation for this?
+A	The plant lost too much water.
+B	The roots could not absorb water.
+C	The leaves could not obtain nutrients.
+D	The leaves could not obtain water.
+D	
+---------------------------------------------------
+
+[10250484]
+// Comparison // Applying concepts //
+**	Plant Y died a few weeks later. Which of the following is a possible explanation for this?
+A	The roots could not obtain water.
+B	The roots could not obtain nutrients.
+C	The leaves could not obtain water.
+D	The leaves could not obtain nutrients.
+B	
+---------------------------------------------------
+
+[10250496]
+// Cross-topic // Experiment //
+**	The photograph below shows an insect, which feeds on liquid in the phloem of plants.
+	
+Scientists used this insect to collect a liquid sample from the phloem of a plant and performed food tests to analyse its composition. The table below shows the results.
+Benedict's test	Benedict's test after hydrolysis	Iodine test	
+Blue	Brick-red precipitate	Brown	
+
+Which of the following best describes the food substances that are present in the liquid sample?
+A	sucrose
+B	glucose and sucrose
+C	sucrose and starch
+D	glucose, sucrose and starch
+A	
+---------------------------------------------------
+
+[10250505]
+// Data handling // Experiment // Calculation //
+**	Directions: The following two questions refer to the diagram below, which shows a weight potometer used in an experiment to study the transpiration of a leafy shoot.
+
+	
+
+The weight potometer was left undisturbed for 4 hours. The decreases in the readings of the electronic balance and the measuring cylinder were then recorded. The upper sides of all leaves of the leafy shoot were smeared with vaseline and the potometer was left undistributed for another 4 hours. The decreases in the readings were recorded again. The table below shows the results.
+
+Treatment	Decrease in the reading of electronic balance (g)	Decrease in the reading of measuring cylinder (cm3)	
+No treatment	15	20	
+Upper sides of leaves smeared with vaseline	13	16	
+
+How much water absorbed was retained in the untreated leafy shoot in the 4-hour period? (mass of 1 cm3 of water = 1 g)
+A	1.25 g
+B	5 g
+C	15 g
+D	20 g
+B	
+---------------------------------------------------
+
+[10250514]
+// Data handling // Experiment // Calculation //
+**	The average rate of water loss from the upper sides of the leaves was
+A	0.5 g/hour.
+B	1 g/hour.
+C	3.25 g/hour.
+D	4 g/hour.
+A	
+---------------------------------------------------
+
+[10250524]
+// Data handling // Experiment // Comparison //
+*	An experiment was carried out to study water loss through the upper surfaces of leaves in four plants of different species. Pieces of dry cobalt chloride paper of the same size were stuck onto the upper surfaces of leaves of the four plants as shown below.
+
+	
+
+The table below shows the results.
+Plant	W	X	Y	Z	
+Time taken for the cobalt chloride paper to turn pink (min)	30	10	80	60	
+
+Water lost through the upper surfaces of leaves most rapidly in
+A	plant W.
+B	plant X.
+C	plant Y.
+D	plant Z.
+B	
+---------------------------------------------------
+
+[10250531]
+// Comparison // Schematic diagram //
+*	The diagram below shows some cells in the root of a plant.
+
+	
+
+Which of the following correctly describes the water potentials of cells X, Y  and Z?
+A	X > Y > Z
+B	X > Z > Y
+C	Z > X > Y
+D	Z > Y > X
+D	
+---------------------------------------------------
+
+[10250536]
+// Comparison //
+*	Which of the following statements correctly describes the structural difference between cells in xylem vessels and cells in sieve tubes?
+A	Cells in xylem vessels have a cell wall while cells in sieve tubes have no cell wall.
+B	Cells in xylem vessels have no nucleus while cells in sieve tubes have a nucleus.
+C	Cells in xylem vessels have no cytoplasm while cells in sieve tubes have cytoplasm.
+D	Cells in xylem vessels have no chloroplasts while cells in sieve tubes have chloroplasts.
+C	
+---------------------------------------------------
+
+[10250544]
+// Basic concepts //
+*	Which of the following is/are not covered by cuticle?
+(1)	the upper epidermis of the leaves of water lilies
+(2)	the lower epidermis of the leaves of tomato plants
+(3)	the epidermis of roots
+A	(1) only
+B	(3) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10250550]
+// High order thinking //
+**	In an investigation, scientists removed a ring of bark from a tree trunk. A few weeks later, they found that food accumulated in tissue just above the ring.
+
+	
+
+Which of the following can be concluded from the above investigation?
+A	Food is transported in phloem.
+B	Food is transported in the plant in the form of sugars.
+C	Tissue that is responsible for the transport of food is located in the outer ring of the stem.
+D	Tissue that is responsible for the transport of food is a living tissue.
+C	
+---------------------------------------------------
+
+[10250560]
+// Data handling // Comparison // Applying concepts //
+*	The table below shows the distribution of stomata on the upper and lower epidermis of leaves of four plant species (W, X, Y and Z).
+
+	Number of stomata per cm2	
+	Upper epidermis	Lower epidermis	
+W	2400	2200	
+X	0	24 300	
+Y	7700	0	
+Z	10	8	
+
+Which species is most likely a floating plant?
+A	W				B	X
+C	Y				D	Z
+C	
+---------------------------------------------------
+
+[10250578]
+// Graph interpretation // Basic concepts //
+	The graph below shows how the rate of transpiration of a plant is affected by an environmental factor.
+
+	
+
+The factor is likely to be
+A	light intensity.
+B	temperature.
+C	air movement.
+D	relative humidity.
+D	
+---------------------------------------------------
+
+[10250591]
+// Basic concepts //
+*	Plant roots absorb minerals only when the soil has sufficient air. This is because with good aeration in the soil,
+A	the rate of osmosis is higher.
+B	the rate of active transport is higher.
+C	the rate of water absorption is higher.
+D	the rate of diffusion is higher.
+B	
+---------------------------------------------------
+
+[10250622]
+// Applying concepts //
+*	A liquid sample was extracted from the sieve tube of a plant. Tests were then performed to analyse the composition of the sample. Which of the following shows the possible results?
+	Sugar		Starch
+A	positive		positive
+B	positive		negative
+C	negative		positive
+D	negative		negative
+B	
+---------------------------------------------------
+
+[10250623]
+// Basic concepts //
+	The rate of transpiration of a plant increases on a sunny, dry day because
+(1)	the stomata of the plant open wider.
+(2)	the concentration gradient of water vapour between the atmosphere and the air space inside the leaves increases.
+(3)	the rate of water absorption by the roots increases.
+A	(1) only
+B	(2) only
+C	(1) and (2) only
+D	(2) and (3) only
+C	
+---------------------------------------------------
+
+[10250628]
+// Photomicrograph // Schematic diagram // Basic concepts //
+*	Figure I below shows the transverse section of a dicotyledonous stem. Figure II is a photomicrograph showing tissue X, which is a tissue in the stem.
+	
+Tissue X can be found in
+A	P.				B	Q.
+C	R.				D	S.
+D	
+---------------------------------------------------
+
+[10250634]
+// Schematic diagram // Basic concepts //
+*	Directions: The following three questions refer to the diagrams below, which show three different tissues found in the stem of the same plant.
+	
+Tissue Q is well-adapted for transport because the cells in tissue Q
+A	have pores on their end walls.
+B	are dead cells.
+C	contain nuclei.
+D	form continuous hollow tubes.
+D	
+---------------------------------------------------
+
+[10250658]
+// Schematic diagram // Basic concepts //
+*	Which of the following diagrams correctly shows the distribution of these tissues in the stem?
+A		B		
+C		D		
+
+A	
+---------------------------------------------------
+
+[10250684]
+// Schematic diagram // Basic concepts //
+*	What are the functions of these tissues?
+	P	Q	R	
+A	supports the plant	transports water	transports organic nutrients	
+B	transports organic nutrients	transports water	supports the plant	
+C	transports water	stores food	transports organic nutrients	
+D	stores food	transports organic nutrients	transports water	
+
+A	
+---------------------------------------------------
+
+[10250688]
+// Graph interpretation // Applying concepts //
+*	Directions: The following two questions refer to the graph below, which shows the rate of transpiration and the rate of water uptake of a herbaceous plant on a hot, sunny day.
+
+	
+
+
+Which of the following statements about the plant from 1000 to 1400 are correct?
+(1)	There is a net water loss from the plant.
+(2)	The increase in the rate of water uptake is due to the increase in the rate of transpiration.
+(3)	The rate of water flow in xylem is increasing.
+A	(1) and (2) only			B	(1) and (3) only
+C	(2) and (3) only			D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10250694]
+// Graph interpretation // Applying concepts //
+*	During which period of the day may the plant wilt?
+A	0600 to 0730
+B	0730 to 1600
+C	1600 to 0600
+D	2300 to 0730
+B	
+---------------------------------------------------
+
+[10250708]
+// Experiment // Applying concepts //
+*	Directions: The following three questions refer to the diagram below, which shows a plant with a ring of tissue on the stem removed. After one month, swelling occurred on the stem at the region just above where the ring of tissue was removed.
+	
+
+Which of the following tissue(s) was/were removed from the stem?
+A	the bark only
+B	the bark and phloem only
+C	the bark and xylem only
+D	the bark, xylem and phloem only
+B	
+---------------------------------------------------
+
+[10250710]
+// Experiment // Applying concepts //
+*	If carbon dioxide containing radioactive carbon-14 was provided to leaf X after the removal of the ring of tissue, in which of the following regions could radioactivity be detected after 10 days?
+A	P and Q only
+B	P and R only
+C	R and S only
+D	Q and S only
+A	
+---------------------------------------------------
+
+[10250721]
+// Experiment // Applying concepts //
+*	The swelling of the stem was due to
+A	abnormal growth of the stem.
+B	bacterial infection.
+C	accumulation of sucrose.
+D	accumulation of water.
+C	
+---------------------------------------------------
+
+[10250722]
+// Basic concepts //
+	Which of the following statements about the absorption of minerals by the roots of plants are correct?
+(1)	Only minerals that are soluble in water can be absorbed.
+(2)	All minerals are absorbed in the form of ions.
+(3)	Minerals are absorbed in the same region of the roots as water absorbed.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10250731]
+// Data handling // Comparison // Applying concepts //
+	The table below shows the numbers of stomata on the upper and lower epidermis per unit square area of a leaf of three plant species.
+
+Plant	Number of stomata on the upper epidermis	Number of stomata on the lower epidermis	
+X	0	25800	
+Y	7600	0	
+Z	0	0	
+
+Which of the following combinations correctly identifies the plants?
+	Plant X				Plant Y				Plant Z
+A	floating plant			submerged plant		terrestrial dicot plant
+B	terrestrial dicot plant	floating plant			submerged plant
+C	submerged plant		terrestrial dicot plant	floating plant
+D	terrestrial dicot plant	submerged plant		floating plant
+B	
+---------------------------------------------------
+
+[10250736]
+// Experiment //
+*	A student picked a leaf from a plant and immersed it into hot water. He then compared the number of bubbles coming out from the two sides of the leaf. The aim of this experiment is
+A	to find out whether gas exchange occurs through the two surfaces of the leaf.
+B	to estimate the relative rate of transpiration through the two surfaces of the leaf.
+C	to estimate the relative thickness of the cuticle on the two sides of the leaf.
+D	to estimate the relative number of stomata on the two sides of the leaf.
+D	
+---------------------------------------------------
+
+[10250745]
+// High order thinking // Schematic diagram //
+**	Directions: The following two questions refer to the diagram below, which shows the section of a young root.
+
+	
+
+For the root to absorb water effectively, the water potentials of the cells should be
+A	P > Q > R.
+B	P > R > Q.
+C	Q > P > R.
+D	R > Q > P.
+A	
+---------------------------------------------------
+
+[10250747]
+// High order thinking // Schematic diagram //
+**	Which of the following statements about cell P is incorrect?
+A	Cell P absorbs minerals mainly by diffusion.
+B	Cell P absorbs water by osmosis.
+C	Cell P has outgrowth which provides a large surface area for the absorption of water.
+D	Cell P is not covered by cuticle.
+A	
+---------------------------------------------------
+
+[10250751]
+// Schematic diagram // Basic concepts //
+	The diagram below shows a route along which water flows from cell to cell in a leaf.
+	
+
+Which of the following causes water to flow in the leaf as shown?
+A	absorption of water in roots
+B	transport of water up the stem
+C	evaporation of water from the surfaces of mesophyll cells
+D	translocation of organic nutrients up the stem
+C	
+---------------------------------------------------
+
+[10250768]
+// Basic concepts //
+	The photograph below shows a plant.
+
+	
+
+Which of the following parts is responsible for the transport of sugars from region X to region Y?
+A	xylem
+B	cortex
+C	pith
+D	phloem
+D	
+---------------------------------------------------
+
+[10250784]
+// Basic concepts //
+*	Which of the following are supported mainly by the turgidity of cells?
+(1)	woody stems
+(2)	herbaceous stems
+(3)	leaves
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10250786]
+// Basic concepts //
+*	The rate of transpiration in plants is largely dependent upon
+A	the rate of diffusion of water across the leaf cells.
+B	the rate of water flow in the xylem.
+C	the physical conditions of the atmosphere.
+D	the physical conditions of the soil water.
+C	
+---------------------------------------------------
+
+[10250790]
+// Data handling // Experiment // Applying concepts //
+	Directions: The following two questions refer to the bubble potometer below, which was used to measure the rate of transpiration of a leafy shoot.
+	
+The experiment was carried out on 4 days. The table below shows the results.
+	Day 1	Day 2	Day 3	Day 4	
+Rate of air bubble movement
+(cm per unit time)	3	7	15	8	
+
+Among the 4 days, day 3 should be
+A	a bright and hot day with low humidity.
+B	a bright and hot day with high humidity.
+C	a cloudy and cool day with low humidity.
+D	a cloudy and cool day with high humidity.
+A	
+---------------------------------------------------
+
+[10250802]
+// Data handling // Experiment // Applying concepts //
+	If the experiment was repeated with all the leaves of the leafy shoot removed. How would the results be different? Why?
+A	All the values would decrease by 50% because 50% of water loss takes place in leaves and 50% in stems.
+B	All the values would greatly decrease because over 90% of water loss takes places in leaves.
+C	All the values would remain the same because water loss only occurs through lenticels on the woody stem.
+D	No movement of the air bubble would be recorded because there is no water loss through the woody stem.
+B	
+---------------------------------------------------
+
+[10250816]
+// Graph interpretation //
+*	The graph below shows the rate of water absorption and the rate of water loss of a plant throughout a day.
+	
+At which of the following time is the plant most likely to wilt?
+A	03:00
+B	13:00
+C	15:00
+D	19:00
+C	
+---------------------------------------------------
+
+[10250828]
+// Applying concepts //
+*	Chemical X can cause the stomata of plants to stay open. Which of the following is most likely to occur when chemical X is applied to a plant?
+A	The diameter of xylem vessels of the plant decreases.
+B	Most cells of the plant lose turgidity.
+C	The plant absorbs water from the soil at a lower rate.
+D	The vacuoles in the cells of the plant burst.
+B	
+---------------------------------------------------
+
+[10250836]
+// Schematic diagram // Basic concepts //
+	Which of the following is not an adaptive feature of the root shown in the diagram below?
+
+	
+
+A	Its root hairs are fine.
+B	It has no cuticle.
+C	It has numerous root hairs.
+D	Its xylem vessels are mainly found in the cortex.
+D	
+---------------------------------------------------
+
+[10250843]
+// Basic concepts //
+*	Terrestrial dicotyledonous plants transpire mainly through the lower surface of a leaf because there is/are
+A	no cuticle.
+B	more stomata.
+C	a thinner epidermis.
+D	a thinner layer of cuticle.
+B	
+---------------------------------------------------
+
+[10250845]
+// Experiment //
+*	Directions: The following two questions refer to the diagram below, which shows two set-ups demonstrating the occurrence of transpiration.
+	
+The set-ups were put under sunlight for 3 hours. The weight of set-up Y did not change after 3 hours. This is because
+A	the carbon dioxide concentration around the leafy shoot increased.
+B	no water vapour could escape from the set-up.
+C	all the water was absorbed by the leafy shoot.
+D	the leafy shoot did not carry out photosynthesis.
+B	
+---------------------------------------------------
+
+[10250849]
+// Experiment //
+*	It was found that the rate of transpiration of the leafy shoot in set-up Y was much lower than that in set-up X. Which of the following factors account(s) for this result?
+(1)	light intensity
+(2)	air movement
+(3)	relative humidity
+A	(3) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10250856]
+// Basic concepts //
+	Water is transpired from plants mainly through the
+A	stomata.
+B	lenticels.
+C	cuticle of the leaves.
+D	cuticle of the stems.
+A	
+---------------------------------------------------
+
+[10250857]
+// Applying concepts //
+*	Plants with leaves having more stomata on the upper epidermis than on the lower epidermis most probably live
+A	in forests.	
+B	on the surfaces of ponds.
+C	along rocky shores.
+D	underwater.
+B	
+---------------------------------------------------
+
+[10250859]
+// Basic concepts //
+*	Which of the following processes are involved in transpiration?
+(1)	diffusion
+(2)	active transport
+(3)	evaporation
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10250864]
+// Experiment //
+*	The diagram below shows a set-up for investigating the rate of water loss from the two sides of a leaf. What is the expected result after 5 hours?
+
+	
+
+A	The dry cobalt chloride paper on the upper surface turns pink faster than the one on the lower surface.
+B	The dry cobalt chloride paper on the lower surface turns pink faster than the one on the upper surface.
+C	The dry cobalt chloride papers on both surfaces turn pink at the same time.
+D	The dry cobalt chloride papers on both surfaces do not turn pink at all.
+B	
+---------------------------------------------------
+
+[10250884]
+// Applying concepts //
+*	A gardener forgets to water his plants in a bright sunny afternoon. The leaves of the plants wilt. This is because
+A	water is lost from cells and the cells become flaccid.
+B	water is continually transported to the leaves so that the stems can no longer support the heavier leaves.
+C	the plant cell walls are softened due to dehydration.
+D	the concentration of minerals in the cell sap increases as water is lost.
+A	
+---------------------------------------------------
+
+[10250893]
+// Basic concepts //
+	Which of the following is responsible for transporting water in plants?
+A	root hair
+B	phloem
+C	xylem
+D	root cap
+C	
+---------------------------------------------------
+
+[10250896]
+// Comparison // Basic concepts //
+*	Which of the following statements about vascular tissues in flowering plants is correct?
+A	The dead xylem vessels transport water while the dead phloem tissue transports organic nutrients.
+B	The dead xylem vessels transport water while the living phloem tissue transports organic nutrients.
+C	The living xylem vessels transport water while the dead phloem tissue transports organic nutrients.
+D	The living xylem vessels transport water while the living phloem tissue transports organic nutrients.
+B	
+---------------------------------------------------
+
+[10250902]
+// Photomicrograph // Basic concepts //
+*	The photomicrograph below shows a stoma on the leaf of a plant in the daytime.
+	
+The stoma at this state serves to allow
+A	more oxygen to enter the leaf.
+B	more carbon dioxide to enter the leaf.
+C	more carbon dioxide to be removed from the leaf.
+D	more water vapour to be retained in the leaf.
+B	
+---------------------------------------------------
+
+[10250908]
+// Schematic diagram //
+*	Directions: The following two questions refer to the diagram below, which shows the transverse section of the root of a dicotyledonous plant.
+	
+Which of the following combinations correctly states the substances transported by tissues X and Y?
+	X				Y
+A	minerals			water and food
+B	food and minerals	oxygen and water
+C	food				water and minerals
+D	oxygen			food and minerals
+C	
+---------------------------------------------------
+
+[10250912]
+// Schematic diagram //
+*	There is a structure missing in the above diagram. Which of the following describes its function?
+A	It protects the tip of the root of the plant.
+B	It stores starch as food for the plant.
+C	It provides a large surface area for absorption of water.
+D	It allows the passage of water and minerals across the root of the plant.
+C	
+---------------------------------------------------
+
+[10250915]
+// Experiment //
+*	When a leaf was put into a beaker of hot water, some air bubbles were given off from the leaf. More bubbles were given off from the lower side of the leaf than the upper side. Which of the following is a correct explanation for this?
+A	The stomata on the upper epidermis are always closed, while the stomata on the lower epidermis are always open.
+B	There are more stomata on the lower epidermis than on the upper epidermis.
+C	The waxy cuticle on the upper epidermis is thicker than that on the lower epidermis.
+D	Hot water can make the leaf produce air.
+B	
+---------------------------------------------------
+
+[10250921]
+// Basic concepts //
+*	Which of the following are important to the turgidity of plant cells?
+(1)	cellulose cell wall
+(2)	lignin
+(3)	water
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10250925]
+// Basic concepts //
+	Which of the following is the function of the xylem in plants?
+A	It transports nutrients to storage organs.
+B	It is the site of photosynthesis.
+C	It generates energy for the transport of substances.
+D	It carries water up the stem.
+D	
+---------------------------------------------------
+
+[10250945]
+// Basic concepts //
+	The rate of transpiration can be regulated by
+A	the lenticels of stems.
+B	the cuticle of leaves.
+C	the stomata.
+D	the cork of stem.
+C	
+---------------------------------------------------
+
+[10250947]
+// Basic concepts //
+	Transpiration is
+A	the loss of water vapour from the surfaces of plants due to evaporation.
+B	the gain of water vapour from the surfaces of plants due to evaporation.
+C	the loss of water vapour from the roots of plants due to evaporation.
+D	the gain of water vapour from the roots of plants due to evaporation.
+A	
+---------------------------------------------------
+
+[10250948]
+// Basic concepts //
+*	Which of the following statements about transpiration is correct?
+A	Water in the air space moves out of the stomata by evaporation.
+B	Transpiration takes place in leaves only.
+C	If there is excess water in the soil, the rate of transpiration of a plant will increase.
+D	The movement of water up the xylem vessels is induced by the transpiration pull.
+D	
+---------------------------------------------------
+
+[10250977]
+// Basic concepts //
+	What is the importance of transpiration to plants?
+(1)	It prevents plants from being overheated under hot conditions.
+(2)	It facilitates the transport of water and minerals.
+(3)	It facilitates the absorption of water and minerals.
+A	(1) only
+B	(1) and (2) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10250984]
+// Basic concepts //
+	Which of the following cells are involved in the support of plants?
+(1)	cortex cells in stems
+(2)	cells in xylem vessels 
+(3)	companion cells in phloem
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10251017]
+// Basic concepts //
+	Which of the following combinations correctly states the parts of plants through which water is absorbed and lost?
+	Water is absorbed through	Water is lost through	
+A	cuticle	stomata	
+B	cuticle	roots	
+C	roots	roots	
+D	roots	stomata	
+
+D	
+---------------------------------------------------
+
+[10251025]
+// Data handling // Experiment //
+*	Directions: The following two questions refer to the experiment below. A leafy shoot in a beaker of water was left under sunlight for 3 hours.
+
+	
+
+The table below shows the change in weight of the leafy shoot in the 3-hour period.
+
+Time (minute)	Weight of the leafy shoot (g)	
+0	310	
+30	294	
+60	279	
+90	263	
+120	259	
+150	253	
+180	251	
+
+Which of the following accounts for the change in weight of the leafy shoot?
+A	gas exchange
+B	water loss by transpiration
+C	loss of energy by respiration
+D	water loss by osmosis
+B	
+---------------------------------------------------
+
+[10251062]
+// Data handling // Experiment //
+*	The change in weight of the leafy shoot slowed down after 90 minutes. Which of the following is most likely the explanation for this?
+A	The temperature has increased since the 90th minute.
+B	Some stomata on the leaves were closed.
+C	The speed of air flow has increased since the 90th minute.
+D	The leaves have developed a thicker cuticle.
+B	
+---------------------------------------------------
+
+[10251064]
+// Schematic diagram //
+*	Directions: The following three questions refer to the diagrams below, which show the transverse sections of the stem and the root of a young woody plant.
+
+	
+
+If the roots of the plant is immersed in a red dye solution for 30 minutes, which tissues will be stained red?
+A	(1) and (6)
+B	(2) and (5)
+C	(3) and (8)
+D	(4) and (7)
+B	
+---------------------------------------------------
+
+[10251065]
+// Schematic diagram //
+*	Which tissues contain sieve tubes and companion cells?
+A	(1) and (6)
+B	(2) and (5)
+C	(3) and (8)
+D	(4) and (7)
+A	
+---------------------------------------------------
+
+[10251067]
+// Schematic diagram //
+*	When the plant grows older, which tissues can give great support to the plant?
+A	(1) and (6)
+B	(2) and (5)
+C	(3) and (8)
+D	(4) and (7)
+B	
+---------------------------------------------------
+
+[10251069]
+// Basic concepts //
+	Four parts of a leaf are listed below.
+(1)	spongy mesophyll
+(2)	air space
+(3)	stoma
+(4)	xylem vessel
+
+Which of the following correctly shows the route along which water from the leaf is lost into the atmosphere?
+A	(1) → (2) → (3) → (4)
+B	(1) → (2) → (4) → (3)
+C	(4) → (1) → (2) → (3)
+D	(4) → (3) → (2) → (1)
+C	
+---------------------------------------------------
+
+[10251082]
+// Basic concepts //
+*	In a leaf, water moves from the water film on the mesophyll cells to the air space by
+A	osmosis.
+B	diffusion.
+C	evaporation.
+D	active transport.
+C	
+---------------------------------------------------
+
+[10251089]
+// Cross-topic //
+	In terms of function, the vascular tissues in dicotyledonous plants are similar to which of the following systems in humans?
+A	respiratory system
+B	circulatory system
+C	excretory system
+D	digestive system
+B	
+---------------------------------------------------
+
+
+Short questions
+
+[10251202]
+// Overseas exam question // Data handling // Communication //
+**	A leaf on a photosynthesising plant was supplied with radioactive carbon dioxide (14CO2). The numbers on the diagram below show relative levels of radioactivity in the plant after a period of time.
+	
+a	i	Name the tissue in the stem where most radioactivity would be detected.											(1 mark)
+ii	Name the organic substance which contains most of the radioactivity in the stem.											(1 mark)
+b	Describe and explain the distribution of radioactivity in the plant.															(4 marks)
+						  CCEA GCE (AS) Biology Unit AS 2 Jun 2017 Q5
+
+
+
+
+-- answer --
+a	i	Phloem												1m
+ii	Sucrose												1m
+b	The radioactivity in leaf / stem closest to the leaf which absorbed 14CO2 is the highest.													1m
+There is radioactivity up and down the stem and the radioactivity down the stem is higher.													1m
+This is because organic compounds were made in the leaf which absorbed 14CO2.														1m
+A small amount of the organic compounds moved up to the growing regions and most of them moved down to storage regions in root / storage organ.		1m	
+---------------------------------------------------
+
+[10251206]
+// Cross-topic // High order thinking //
+**	Guard cells in the plants control the opening and closing of the stomata. The diagram below shows the shapes of the guard cells when the stoma is open and when it is closed.
+	
+
+a	It is known that potassium ions are involved in the opening of the stomata. When potassium ions are actively transported into the guard cells, water follows. This makes the guard cells expand, and the stomata open.
+Explain why the active transport of potassium ions into the guard cells causes water to enter the cells.							(3 marks)
+b	It is known that some plants produce a compound that can decrease the diameter of the stomata when there is a water shortage.
+i	Describe how the decrease in diameter of the stomata affects the rate of photosynthesis of the plants.							(2 marks)
+ii	Explain why production of this compound can help the plants to survive in dry environment.							(2 marks)
+
+
+
+
+-- answer --
+a	Active transport of potassium ions into the cells lowers the water potential of the guard cells.												1m
+The water potential of the cells becomes lower than the surrounding cells.	1m
+Thus water moves from the surrounding cells into the guard cells by osmosis.															1m
+b	i	The diffusion of carbon dioxide into the leaves is reduced.			1m
+The rate of photosynthesis of the plants is reduced.				1m
+ii	As the diameter of stomata decreases, less water diffuses out of the leaves.														1m
+Less water is lost from the plants. More water can be retained in the plants for metabolism.											1m	
+---------------------------------------------------
+[10251210]
+// Scientific investigation // High order thinking //
+*	The diagrams below show the appearances of the upper and lower sides of a leaf when the leaf was put into a beaker of hot water.
+	
+a	Explain why bubbles were produced.						(2 marks)
+b	From the diagrams, compare the relative abundance of stomata on the upper and lower sides of the leaf.								(1 mark)
+c	Suggest why this relative abundance of stomata on the upper and lower sides of the leaf is beneficial to the plant.					(2 marks)
+
+-- answer --
+a	Gas in the air spaces in the leaf expanded in hot water.				1m
+The gas escaped through the stomata on both sides of the leaf and thus bubbles were produced.												1m
+b	There were more stomata on the lower side than on the upper side of the leaf.															1m
+c	The upper sides of the leaves are directly illuminated by the sun and thus the temperature of the upper sides is higher than that of the lower sides.		1m
+Having fewer stomata on the upper sides helps reduce water loss due to transpiration.												1m	
+---------------------------------------------------
+
+[10251221]
+// Cross-topic // Communication // Schematic diagram //
+*	The diagram below shows the lower part of a leaf. The water potential of three spongy mesophyll cells (X, Y and Z) is given.
+	
+a	Draw on the diagram the directions of water flow between the xylem vessel and spongy mesophyll cells X, Y and Z.					(2 marks)
+b	Describe and explain how water moves from a spongy mesophyll cell to the atmosphere outside the leaf during transpiration.				(3 marks)
+-- answer --
+a	
+
+
+Correct directions of arrows									2m
+b	Water on the surface of the spongy mesophyll cell evaporates into the air space.															1m
+The water vapour concentration in the air space becomes higher than that in the atmosphere outside the leaf.									1m
+Water vapour diffuses through the stomata into the atmosphere down the water vapour concentration gradient.									1m	
+---------------------------------------------------
+
+[10251222]
+// Data handling // Experiment // Calculation //
+**	The following set-ups are used in an experiment to determine the rate of transpiration in plants. A plant adapted to live in a moist environment is put in set-up X. Dry calcium chloride in the U-tube absorbs water vapour.
+	
+The U-tube with its content in each set-up is weighed at the beginning of the experiment and one hour later. The table below shows the results.
+
+Set-up	Weight of U-tube with its content (g)	
+	At the beginning	After one hour	
+X	120	138	
+Y	120	126	
+
+a	Why is the pot in set-up X wrapped in a plastic bag?			(1 mark)
+b	Calculate the rate of transpiration of the potted plant. Express your answer in g min-1 and show your working.							(2 marks)
+c	The above experiment is repeated with a plant adapted to live in a dry environment. How would the rate of transpiration be different? Explain your answer.												(2 marks)
+
+-- answer --
+a	To prevent the respiration of soil organisms and the evaporation of soil water from affecting the results.											1m
+b	[(138 - 120) - (126 - 120)] g / 60 min								1m
+= 0.2 g min-1												1m
+c	The rate of transpiration would decrease.							1m
+Plants adapted to live in a dry environment usually have adaptations (e.g. reduced leaf surface area, lower stomatal density, thicker cuticle, etc.) to minimize water loss through transpiration.										1m	
+---------------------------------------------------
+
+[10251251]
+// Data handling // Applying concepts //
+*	The table below shows the amounts of water lost and water absorbed by a plant within a day.
+Time of the day	Amount of water lost
+(g)	Amount of water absorbed (g)	
+0:00 - 4:00	1	6	
+4:00 - 8:00	8	6	
+8:00 - 12:00	20	15	
+12:00 - 16:00	30	22	
+16:00 - 20:00	10	13	
+20:00 - 24:00	3	8	
+
+a	i	Explain why the amount of water lost increases from 4:00 to 12:00.													(2 marks)
+ii	Explain why the increase in the amount of water lost starts earlier than the increase in the amount of water absorbed.			(2 marks)
+b	The leaves of a certain plant will roll up with the lower epidermis facing inwards when the plant lacks water. It is known that the stomata of this plant are mainly located on the lower epidermis of the leaves. State the importance of this behaviour.								(3 marks)
+
+-- answer --
+a	i	From 4:00 to 12:00, light intensity increases. The stomata of the plant open wider.												1m
+Water vapour in the air space between mesophyll cells diffuses out of the leaf more rapidly through the stomata.							1m
+ii	Water absorption of the plant is mainly driven by transpiration pull.	1m
+Transpiration pull is created by transpiration, which is the loss of water of the plant due to evaporation.									1m
+b	As the leaves roll up, water vapour that has diffused out of the leaves accumulates around the stomata.											1m
+This decreases the concentration gradient of water vapour between the air space inside the leaves and the surrounding air.							1m
+Less water vapour in the air space diffuses out and thus the water loss is reduced. 														1m	
+---------------------------------------------------
+
+[10251272]
+// Cross-topic // High order thinking // Applying concepts //
+**	A student grew the same number of seedlings in two pots. One of the pots had pores at the bottom to drain any excess water while the other did not. The student put both pots under bright sunlight and watered them with the same amount of water. After a period of time, he found that the seedlings in the pot without pores became wilted while those in the pot with pores stood upright.
+
+Suggest a reason to explain why the seedlings in the pot without pores became wilted.													(4 marks)
+
+
+-- answer --
+The soil in the pot without pores became waterlogged.						1m
+The amount of oxygen in the soil decreased. The root hair cells of the seedlings were not able to obtain enough oxygen for respiration.							1m
+Fewer minerals were absorbed by the seedlings by active transport, thus less water was absorbed.														1m
+The seedlings became wilted as more water was lost than was absorbed.		1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10251293]
+// Communication // Applying concepts //
+	The two photographs below show the same woody plant under different conditions. The left one shows the plant when the water supply is adequate while the right one shows the plant when the water supply is inadequate.
+
+ 	
+
+Explain the appearance of the stems and the leaves of the plant when the water supply is inadequate.										(6 marks)
+
+
+-- answer --
+The leaves of the plant are mainly supported by the turgidity of mesophyll cells and other thin-walled cells in the petioles.									1m
+When the water supply is inadequate, the amount of water lost by the plant exceeds the amount of water absorbed.											1m
+The thin-walled cells become flaccid and can no longer support the leaves. Therefore, the leaves become wilted when the water supply is inadequate.				1m
+The stems of the woody plant are mainly supported by the rigidity of the thick-walled cells (xylem vessels) in wood.										1m
+The cell walls of xylem vessels contain lignin which makes them hard and rigid.	1m
+This physical nature of xylem vessels is independent of the water content of the plant. Therefore, the stems still stand upright even when the water supply is inadequate.																1m	
+---------------------------------------------------
+
+[10251308]
+// Cross-topic // Drawing //
+	Plants can produce glucose by photosynthesis. Some glucose produced in leaves is finally converted into sucrose and transported to the roots.
+a	Draw a low-power diagram of the transverse section of the stem of a young dicotyledonous plant. Label the tissue that is responsible for the transport of sucrose.												(2 marks)
+b	In addition to roots, sucrose may be transported to other parts of the plant. Suggest one of these parts in an actively growing seedling.		(1 mark)
+c	In the roots, some sucrose are converted into starch for storage. State one advantage of storing starch over the storing of sucrose.			(2 marks)
+
+
+-- answer --
+a	
+
+
+Correct drawing												1m
+Correct labelling of phloem										1m
+b	Shoot tips													1m
+c	Starch is insoluble while sucrose is soluble.							1m
+Storage of starch does not affect the water potential of root cells.			1m
+OR
+Starch is relatively stable while sucrose is more reactive.				1m
+Starch is less likely to interfere with reactions of the cells.				1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10251309]
+// Overseas exam question // Scientific investigation // Calculation //
+**	The leaves of flowering plants have the ability to develop differently, depending on environmental conditions such as the amount of sun or shade a leaf receives.
+A student carried out an investigation into sun and shade leaves from different parts of the same plant. Her observations and results are shown in the table below.
+
+Type of leaf	Number of leaves studied	Mean number of stomata per mm2 on lower surface	Mean thickness of
+leaf (μm)	Cuticle	
+Sun	55	170	208	Thick	
+Shade	8	92	93	Thin	
+
+a	Calculate the percentage difference in the mean thickness of the sun leaves compared to the shade leaves. Show your working.			(2 marks)
+b	Suggest and explain one benefit of the greater mean number of stomata per mm2 on the lower surfaces of the sun leaves.					(2 marks)
+c	Describe two ways in which the student could improve her investigation.														(2 marks)
+		OCR GCE (A) Communication, Homeostasis and Energy Jan 2011 Q6
+
+-- answer --
+a	(208-93) / 93 × 100%									1m
+= 124%												1m
+b	This can reduce transpiration. 								1m
+The stomata on the lower surfaces are sheltered from air current / heat.															1m
+c	Increase the sample size for the shade leaves. / Measure the thickness of cuticle. / Record the size of leaves. / Record the size of stomata. / Record the number of stomata. / Measure the light intensity to classify the types of leaves. / Repeat the experiment using other plants of the same species. (any 2)			1m x 2	
+---------------------------------------------------
+
+[10251318]
+// Experiment //
+**	A student used the set-up shown in the diagram below to measure the rate of water absorption of a leafy shoot.
+	
+
+a	Before taking any measurement, the student had to move tube Y up or down to make the water level in tube X return to the initial level. Explain why this is necessary.											(2 marks)
+b	State two measurements that the student should take in order to calculate the rate of water absorption of the leafy shoot.					(2 marks)
+c	Suggest two methods to increase the accuracy in measuring the rate of water absorption using the above set-up.							(2 marks)
+-- answer --
+a	The relative positions of the two tubes will affect the water levels.			1m
+Moving tube Y to make the water level in tube X return to the initial level is to ensure the water level in tube X is the same in every measurement, so that the change in the water level in tube Y reflects the change in the volume of water.															1m
+b	The decrease in the volume of water in tube Y.						1m
+The duration of the study.										1m
+c	Replace tube Y with a narrower tube.								1m
+Take more measurements and calculate the average value.				1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10251339]
+// Graph interpretation // High order thinking // Communication //
+**	The roots of a herbaceous plant were immersed into water and left undisturbed for 24 hours.
+	
+
+The change in weight of the set-up is shown in the graph below.
+
+	
+
+Sketch on the above graph how the weight of the set-up will change, if the following modification is made.
+a	The roots of the plant are removed before the plant is immersed into water.	
+b	The whole set-up is put into a dark box.
+Explain briefly for each of the cases.						(6 marks)
+-- answer --
+a, b	
+			1m x 2
+Explanation:
+The change in weight depends on the rate of transpiration.			1m
+The absence of roots will not affect the rate of transpiration.			1m
+In darkness, the stomata will be closed. 						1m
+Only a very small amount of water will be lost through the cuticle. Thus the rate of transpiration will decrease.									1m	
+---------------------------------------------------
+
+[10251346]
+// Overseas exam question // Basic concepts //
+	Xylem and phloem are both composite tissues with a variety of cell types.
+a	Describe the distribution of xylem and phloem tissues in the stem of a flowering plant.										(2 marks)
+b	Phloem sieve tubes are the main cell type in phloem tissue. Describe two major features of phloem sieve tubes.						(2 marks)
+						 CCEA GCE (AS) Biology Module 2 Jun 2010 Q7a
+-- answer --
+a	Both tissues are found within vascular bundles.					1m
+Xylem is on the inside while phloem is on the outside of each bundle.	1m
+b	Cells of sieve tubes are joined end to end / form continuous structures through the plant. / 
+Their end walls form sieve plates. / 
+They are associated with companion cells. / 
+There is a little cytoplasm / few organelles / no nucleus. (any 2)		1m x 2	
+---------------------------------------------------
+
+[10251378]
+// Experiment // Applying concepts //
+*	Before being used in the experiments of photosynthesis, plants have to be put in the dark for at least 24 hours to remove all the starch in the leaves. The process is called destarching.
+a	Describe two possible fates of the starch in the leaves during destarching.														(2 marks)
+b	Explain why destarching is necessary before the plants are used in the experiments of photosynthesis.							(2 marks)
+c	It is found that if part of the stem of a branch is damaged by steam (as shown in the diagram below), the leaf cannot be destarched. Explain why.
+
+	
+															(3 marks)
+
+-- answer --
+a	Starch in the leaves is used by the leaf cells						1m
+or is converted into sugars and transported to other parts of the plant.		1m
+b	In the experiments of photosynthesis, we often test for the presence of starch in the leaves to find out if photosynthesis has occurred.					1m
+If starch is present in the leaves before the experiments start, we cannot be sure whether the starch is made during the experiments or not.				1m
+c	High temperature of the steam kills the living cells in that part of the stem.	1m
+Phloem, which is responsible for the transport of sugars, is made up of living cells. 														1m
+If the cells in phloem are killed, sugars formed from the breakdown of starch cannot be transported out of the leaf. Thus starch remains in the leaf.		1m	
+---------------------------------------------------
+
+[10251389]
+// Photomicrograph // Applying concepts //
+*	The photomicrograph below shows two kinds of tissues, X and Y, found in a dicotyledonous stem.
+	
+a	Identify X and Y and state one function for each.				(4 marks)
+b	If an insect introduces some fungal spores into Y, will the spores be carried upwards or downwards? Explain your answer.				(3 marks)
+
+-- answer --
+a	X is phloem.												1m
+It is responsible for the transport of organic nutrients in the plant.			1m
+Y is xylem.												1m
+It is responsible for the transport of water and minerals in the plant / provides mechanical support to the plant.									1m
+b	The fungal spores will be carried upwards.							1m
+The fungal spores will be carried along with the water stream in Y (xylem).	1m
+Water stream in Y, which is drawn up by transpiration pull, always flows upwards.									 						1m	
+---------------------------------------------------
+
+[10251393]
+// Overseas exam question // Basic concepts //
+	a	Complete the following paragraph about the loss of water from plants.														(4 marks)
+The loss of water from the aerial parts of a plant is known as ____________. The majority of water is lost from the leaves. Water is transported up the stem in the ____________ and passes into the mesophyll cells of the leaf by ____________. Water evaporates from the surface of these cells. From the air spaces in the leaf, the water vapour diffuses out of the leaf through the ____________.
+
+b	Explain why water loss from the leaves of a plant is unavoidable.															(2 marks)
+				OCR GCE (AS) Cells, Exchange and Transport Jun 2009 Q3
+-- answer --
+a	transpiration											1m
+xylem												1m
+osmosis												1m
+stomata												1m
+b	Photosynthesis is essential for plants to gain energy. / 
+Gas exchange is needed for photosynthesis to occur. /
+Plants need to open stomata to exchange gases. /
+Some water is lost through the cuticle. (any 2)					1m x 2	
+---------------------------------------------------
+
+[10251395]
+// Cross-topic // Applying concepts //
+*	Explain why a herbaceous plant may wilt in the following cases.
+a	The soil is waterlogged for a long time.						(4 marks)
+b	Concentrated salt solution is used to irrigate the plant.			(3 marks)
+-- answer --
+a	The roots of the plant cannot obtain oxygen from the waterlogged soil.		1m
+The amounts of minerals absorbed from the soil by active transport are reduced.															1m
+As a result, less water is absorbed by the root hair cells by osmosis.		1m
+The cells in the stem become flaccid and they can no longer support the plant.															1m
+b	Concentrated salt solution has a lower water potential than the root hair cells.															1m
+Water is drawn out of the cells by osmosis.							1m
+The plant becomes dehydrated. The cells in the stem become flaccid and they can no longer support the plant.									1m	
+---------------------------------------------------
+
+[10251409]
+// Photomicrograph // Communication //
+*	The photomicrograph below shows the transverse section of the stem of a plant. Briefly describe different mechanisms by which this plant is supported.
+	
+																(5 marks)
+-- answer --
+The plant is supported by the turgidity of thin-walled cells in the cortex and pith of the stem and the rigidity of thick-walled cells in xylem.						1m
+The thin-walled cells are turgid when water supply is adequate.				1m
+They press against each other. This makes the stem strong enough to stand upright.																1m
+The thick-walled cells in xylem vessels contain lignin in their cell walls. 		1m
+They are hard and rigid. This provides support to the plant.					1m	
+---------------------------------------------------
+
+[10251419]
+// Cross-topic // Communication //
+*	a	Describe how water in the soil is absorbed into the roots of a plant and reaches the xylem vessels.								(4 marks)
+b	Explain why adding too much fertilizers to the soil may be harmful to the plant.												(3 marks)
+-- answer --
+a	As water is drawn up the xylem vessels by transpiration pull, water in the cortex cells near the xylem vessels of the roots enters the xylem vessels.		1m
+The water potentials of these cortex cells decrease. Water is drawn from the adjacent cells by osmosis.										1m
+As a result, a water potential gradient is set up across the cortex of the roots. Water moves inwards from cell to cell by osmosis, or moves inwards along the cell walls.													1m
+Water potentials of root hair cells become lower than the water potential of the soil. Water in the soil enters the root hair cells by osmosis.					1m
+b	Adding fertilizers lowers the water potential of the soil water.			1m
+The water potential of the soil water becomes lower than that of the root hair cells. 														1m
+Therefore water cannot enter the root by osmosis. This may cause the plant to dehydrate.													1m	
+---------------------------------------------------
+
+[10251439]
+// Graph interpretation // Basic concepts //
+*	The graph below shows the flow of sucrose into and out of a leaf of a seedling from the day of germination to day 20.
+	
+a	Name the process in which sucrose is transported in plants.		(1 mark)
+b	Explain why the direction of sucrose flow is reversed after day 12.															(4 marks)
+c	State one adaptive feature of the tissue responsible for the transport of sucrose.												(1 mark)
+-- answer --
+a	Translocation												1m
+b 	In the first 12 days after germination, the leaf is actively growing. 		1m
+Sucrose is transported to the leaf for growth.						1m
+After day 12, the leaf becomes mature and its growth stops.			1m
+The leaf carries out photosynthesis to make glucose, which is then converted into sucrose and transported to other parts of the plant for storage.			1m
+
+c	The cells in the sieve tubes of phloem contain little cytoplasm and no nuclei. This allows organic nutrients to move along the tubes with little resistance. / 
+Sieve plates between the cells of sieve tubes have pores to allow organic nutrients to pass through.												1m	
+---------------------------------------------------
+
+[10251450]
+// Scientific investigation //
+	A student used the set-up below to study transpiration of a plant.
+	
+
+a	Describe how the amount of water lost by the plant in this set-up can be estimated.											(2 marks)
+b	How can we calculate the rate of transpiration of the plant from the amount of water lost? State any additional equipment needed.			(3 marks)
+c	State one way to improve the accuracy of the result.			(1 mark)
+
+-- answer --
+a	The water lost by the plant will be absorbed by the calcium chloride in the U-tubes.														1m
+The amount of water lost can be estimated by measuring the increase in the weight of calcium chloride in the U-tubes.							1m
+b	Equipment needed: stop watch									1m
+Use a stop watch to measure the duration of the experiment.			1m
+Calculate the rate of transpiration by the equation:
+			1m
+c	Pass the air through calcium chloride to remove the moisture before passing it to the bell jar.												1m	
+---------------------------------------------------
+
+[10251452]
+// Data handling // High order thinking //
+**	a	The rate of diffusion of carbon dioxide through holes of different diameter in a man-made membrane was investigated. The table below shows the results.
+Area of hole (mm2)	Volume of carbon dioxide diffusing per hour (cm3)	Volume of carbon dioxide diffusing per cm2 of hole per hour (cm3)	
+28.0	0.23	0.82	
+12.0	0.10	0.83	
+7.0	0.06	0.86	
+3.0	0.03	1.00	
+1.5	0.02	1.33	
+
+Give two conclusions from the above data.					(2 marks)
+b	What are the advantages of having numerous stomata of small areas on leaves?												(2 marks)
+-- answer --
+a	The larger the area of the hole, the greater the rate / volume of carbon dioxide diffusing through the hole.										1m
+The smaller the area of the hole, the greater the rate / volume of carbon dioxide diffusing per unit area of the hole.								1m
+b	Stomata of smaller areas increase the rate of diffusion per unit area.		1m
+Having more stomata increases the total rate of diffusion.				1m	
+---------------------------------------------------
+
+[10251467]
+// Photomicrograph //
+	The photomicrograph below shows the transverse section of a leaf.
+	
+
+a	In the photomicrograph, label the stoma with 'X' and the cuticle with 'Y'.														(2 marks)
+
+b	State the functions of the stoma and the cuticle.				(2 marks)
+c	i	Is the leaf taken from a submerged plant or a floating plant?	(1 mark)
+ii	With reference to the photomicrograph, explain your answer in c i.													(2 marks)
+-- answer --
+a	
+															1m x 2
+b	Stoma allows gases to pass in and out of the leaf.				1m
+Cuticle reduces water loss from the leaf surface.					1m
+c	i	A floating plant										1m
+ii	The leaf has stomata and cuticle on the upper epidermis.		1m
+A leaf from a submerged plant has no stomata and cuticle on both the upper and lower epidermis.									1m	
+---------------------------------------------------
+
+[10251476]
+// Experiment // Calculation // Applying concepts //
+	The apparatus below is set up to find out how different environmental factors affect the rate of transpiration of a leafy shoot.
+
+	
+
+a	Name the above apparatus.								(1 mark)
+b	Using the following data, calculate the rate of transpiration of the leafy shoot in mm/min. Show your workings. 					(2 marks)
+
+The experiment started at 9:00 a.m. and ended at 9:30 a.m.
+Initial position of the air bubble: 1 mm
+Final position of the air bubble: 25 mm	
+
+c	What is the function of the reservoir?						(1 mark)
+d	The following graphs are plotted after the investigations of the effect of light intensity and relative humidity on the rate of transpiration. The y-axis represents the rate of transpiration while the x-axis represents the factor concerned. Match each graph with the factor under investigation.															(2 marks)
+
+		
+
+-- answer --
+a	Bubble potometer											1m
+b	(25 - 1) / 30 												1m
+= 0.8 mm/min												1m
+c	It is used to reset the position of the air bubble.						1m
+d	I: light intensity												1m
+II: relative humidity											1m	
+---------------------------------------------------
+
+[10251488]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows a transverse section of Tilia stem.
+
+	
+
+a	Name tissue X.										(1 mark)
+b	Besides transport, state one other function of tissue X.			(1 mark)
+c	Explain why the stem of a seedling may bend but the Tilia stem remains upright on a hot and dry day.								(5 marks)
+
+-- answer --
+a	Xylem													1m
+b	It provides support to the plant.									1m
+c	The seedling mainly depends on the turgidity of cells in the cortex and pith for support.													1m
+Under hot and dry conditions, the seedling loses water and the cells in the cortex and pith may become flaccid.									1m
+The cells can no longer support the stem. This leads to the bending of the stem.															1m
+However, the support of the Tilia stem is provided by the rigidity of xylem vessels.															1m
+Xylem vessels have thick and lignified cell walls. The rigidity of xylem vessels is independent of the water content of the plant.						1m	
+---------------------------------------------------
+
+[10251512]
+// Comparison // Critical thinking //
+*	The photographs below show two types of plants living in different environments.
+		
+
+John said, 'The stomatal density of the leaves of plant Y is higher than that of plant X because water blocks the gas exchange of plant Y.'
+a	Comment on John's statement.							(3 marks)
+b	A waxy layer present on the leaves of plant X is absent on the leaves of plant Y. Name this waxy layer and explain the significance of the adaptations in both plants.								(3 marks)
+
+-- answer --
+a	John's statement is not correct.									1m
+Dissolved gases diffuse directly into the leaves of plant Y through the epidermis.															1m
+Leaves of plant Y have no stomata.								1m
+b	Cuticle													1m
+Cuticle reduces water loss through the epidermis of the leaves of plant X.	1m
+The absence of cuticle on the leaves of plant Y allows the dissolved gases, water and minerals to diffuse freely into the leaves.						1m	
+---------------------------------------------------
+
+[10251531]
+// High order thinking // Schematic diagram //
+*	The diagram below shows a section through a plant stem.
+
+	
+
+The cells in the cortex do not have chloroplasts and cannot make their own food. They have thin walls and large vacuoles. They have a very low water potential. This allows these cells to support the stem, keeping the stem straight.
+a	With the above information, suggest how the cells in the cortex maintain a very low water potential.									(2 marks)
+b	Explain how the cells in the cortex and the transporting tissues provide support to the stem.										(3 marks)
+
+-- answer --
+a	Sugar and minerals are actively transported from the vascular bundles into the cells in the cortex.											1m
+Therefore, the solute concentrations of these cells are maintained at a high level.															1m
+b	The cells in the cortex draw water from the xylem by osmosis and become turgid.															1m
+The turgidity of these cells provides support to the stem.				1m
+The rigidity of the thick-walled cells in the xylem also provides support to the stem.														1m	
+---------------------------------------------------
+
+[10251535]
+// Photomicrograph // Comparison //
+	The photomicrographs below show the transverse sections of leaf, stem and root of a dicotyledonous plant.
+	
+
+a	Using the letters in the photomicrographs, state which structure(s) is/are xylem and phloem.										(2 marks)
+b	With reference to the photomicrographs, compare the distribution of the vascular bundles in the stems and the roots of a dicotyledonous plant.															(2 marks)
+c	Describe how gas exchange takes place in the leaves and the roots of a terrestrial dicotyledonous plant.							(2 marks)
+-- answer --
+a	Xylem: K, Q, X												1m
+Phloem: L, P, Y												1m
+b	In the stems, the vascular bundles are separate and arranged in a ring at the periphery.													1m
+In the roots, the vascular bundles are located at the centre.				1m
+c	On the leaves, there are numerous stomata to allow gases to diffuse into and out of the leaves.												1m
+Roots are not covered with cuticle. Gases diffuse through their surfaces.	1m	
+---------------------------------------------------
+
+[10251554]
+// Data handling // High order thinking // Comparison //
+**	Carbon dioxide containing the radioactive carbon-14 (14CO2) was supplied to a young plant through one of the leaves. The plant was exposed to bright light for 2 hours. The amount of radioactivity was then measured at three parts of the plant. The diagram below shows the set-up while the table shows the results.
+	
+
+
+	Amount of radioactivity (arbitrary unit)	
+Bud	5.6	
+Leaf (being supplied with 14CO2)	1.2	
+Roots	0.7	
+a	The radioactive carbon is transported to different parts of the plant. In what form is the radioactive carbon transported?					(1 mark)
+b	i	Explain briefly why there is a difference in the amount of radioactivity in the bud and the roots.								(2 marks)
+ii	Explain why there is still some radioactivity in the leaf.	(2 marks)
+c	Suggest how we can use the above set-up to determine whether phloem is responsible for transporting the substance containing the radioactive carbon.													(2 marks)
+-- answer --
+a	Organic nutrients / sugar / sucrose								1m
+b	i	More nutrients are transported to the bud than to the roots.			1m
+The bud grows actively so the bud requires more nutrients.			1m
+ii	Some organic nutrients remain in the leaf. 						1m
+These nutrients supply energy to maintain the cellular activities of the leaf cells.													1m
+c	Remove rings of bark containing the phloem from the stem at positions above and below the leaf supplied with 14CO2.								1m
+If no radioactivity is detected in the bud and the roots, it suggests that phloem is responsible for transporting the organic nutrients to other parts of the plant.	1m	
+---------------------------------------------------
+
+[10251556]
+// Data handling // Experiment //
+*	An investigation was carried out to study the water loss of a plant. The table below shows three treatments of a plant in three different periods and the results of the investigation. All the environmental conditions were kept constant during the investigation.
+
+Treatment	Water lost in 3 days (g)	
+No grease applied	15.0	
+Grease applied only to the upper side of all the leaves	6.5	
+Grease applied to both sides of all the leaves	0.2	
+
+a	Suggest the advantage of using the same plant in every treatment.															(1 mark)
+b	Explain the importance of keeping all the environmental conditions  constant.												(1 mark)
+c	Give an evidence to show the grease is waterproof.			(1 mark)
+d	In terms of the structure of a leaf, account for the fact that less water is lost through the upper side of leaves than the lower side of leaves.	(2 marks)
+
+
+-- answer --
+a	The total surface area / total number of leaves is constant.				1m
+b	The environmental conditions affect the rate of transpiration.			1m
+
+c	After applying the grease to the leaf, the amount of water lost is reduced.	1m
+d	There are more stomata on the lower epidermis of the leaves.			1m
+There is a thinner layer of cuticle on the lower epidermis of the leaves.		1m	
+---------------------------------------------------
+
+[10251557]
+// Photomicrograph // Comparison //
+	The photomicrograph below shows a section of a dicotyledonous stem.
+
+	
+
+a	Name structure X, cell P and cell Q.						(3 marks)
+b	Compare the organelles present in cells P and Q.				(1 mark)
+c	State one function of cell Q.								(1 mark)
+
+-- answer --
+a	X: sieve plate												1m
+P: sieve tube												1m
+Q: companion cell											1m
+b	Cell P has no nucleus while cell Q has a nucleus.		 			1m
+c	Cell Q supports the metabolism of the sieve tube (cell P).				1m	
+---------------------------------------------------
+
+[10251562]
+// Photomicrograph //
+	The photomicrograph below shows a section of a dicotyledonous stem.
+
+	
+
+a	Name structure Y.										(1 mark)
+b	Which sub-cellular structures do the cells in structure Y lack when they become functionally mature? State the importance of this.		(3 marks)
+c	State one adaptive feature of cells in structure Y for support.	(1 mark)
+d	The lower end of the stem was immersed in a red dye solution for 30 minutes. Using the letters in the photomicrograph, state the part(s) that would be stained red.									(1 mark)
+
+-- answer --
+a	Xylem vessels												1m
+b	Nuclei and cytoplasm											1m
+The cells become hollow. 										1m
+This allows water to flow along the vessel with little resistance. 			1m
+c	Their cell walls are thick / lignified.								1m
+d	Y														1m	
+---------------------------------------------------
+
+[10251572]
+// Basic concepts //
+	The photograph below shows three parts (X, Y and Z) of a plant.
+
+	
+
+a	Part X is able to carry out photosynthesis. State the reason based on your observation.											(1 mark)
+b	Food made in part X can be transported to part Y through part Z. Name the process and the tissue that is responsible for the transport.		(2 marks)
+c	How is the support in parts X and Z provided respectively?		(2 marks)
+
+-- answer --
+a	It is green in colour. / It contains chlorophyll.						1m
+b	Process: translocation										1m
+Tissue: phloem												1m
+c	Part X: It is mainly provided by the turgidity of thin-walled cells.			1m
+Part Z: It is mainly provided by the rigidity of thick-walled cells.			1m	
+---------------------------------------------------
+
+
+
+Structured questions
+
+[10251681]
+// Overseas exam question // Graph interpretation // Schematic diagram //
+*	The diagram below represents a transverse section through part of a mesophytic leaf. Six of the tissues are labelled A-F.
+
+	
+
+a	i	Using the appropriate letter from the diagram, identify the tissue which is responsible for each of the following:
+Maximum photosynthesis							(1 mark)
+Regulation of water loss								(1 mark)
+Translocation of sugars								(1 mark)
+ii	Describe and explain the location of air spaces in the leaf shown.														(3 marks)
+Both stomatal density and stomatal pore size influence the volume of carbon dioxide that enters a leaf. The mean stomatal density and mean stomatal pore size in different populations of paper birch trees (Betula papyrifera) were investigated. The results are shown below.
+
+
+
+
+	
+b	Describe the trend shown and suggest how paper birch trees with low mean stomatal density can photosynthesize effectively.				(2 marks)
+					   CCEA GCE (AS) Biology Unit AS 1 Jun 2018 Q5a, c
+
+
+
+
+
+
+-- answer --
+a	i	Maximum photosynthesis: B								1m
+Regulation of water loss: D									1m
+Translocation of sugars: F									1m
+ii	The air spaces are located in the spongy mesophyll / lower portion of the leaf.													1m
+This facilitates the diffusion of gases.							1m
+This also allows more photosynthetic cells to be packed in the palisade mesophyll / upper portion of the leaf.							1m
+b	As stomatal density decreases, the stomatal pore size increases.			1m
+More carbon dioxide can enter the leaf for photosynthesis.				1m	
+---------------------------------------------------
+
+[10251688]
+// Overseas exam question // Graph interpretation // Experiment //
+**	The apparatus below can be used to measure both the amount of water taken up and the amount of water lost through transpiration by a leafy shoot.
+	
+Air is drawn into the bell jar and passes through calcium chloride before leaving the apparatus. Calcium chloride absorbs water vapour from the air and increases in mass as it does so. The increase in mass is used as a measure of water loss by transpiration. The amount of water taken up by the shoot is measured by noting the decrease in the reading on the measuring cylinder.
+
+a	Air entering the bell jar does not pass through calcium chloride. Discuss how this will affect the validity of the experiment.			(2 marks)
+
+The graph below indicates how the amount of water taken up and the amount of water transpired by a plant shoot changes over the course of a summer's day.
+	
+b	Suggest reasons for the following observations from the graph.
+i	There are two periods of the day when the amount of water transpired is less than the amount of water taken up.				(2 marks)
+ii	At 1600, the amount of water transpired and the amount of water taken up are both at their maximum.						(3 marks)
+						  CCEA GCE (AS) Biology Module 2 Jun 2013 Q2
+
+
+
+
+
+-- answer --
+a	Water vapour will be present in the incoming air.					1m
+Calcium chloride in the U-tube will absorb water vapour in the incoming air and that lost by the plant. The water lost by the plant will be overestimated.	1m
+b	i	There is no sunlight at these two periods.					1m
+In darkness, stomata are closed. Only a very small amount of water vapour can diffuse out of the leaves.							1m
+ii	Light intensity is at its highest so most stomata are open. /
+The external temperature increases. /
+The rate of evaporation / diffusion of water vapour increases. /
+The transpiration pull in the plant increases.
+(any 3 or other reasonable answers)						1m x 3	
+---------------------------------------------------
+
+[10251728]
+// Data handling // High order thinking // Experiment //
+**	A scientist carried out an investigation about the transport of substances in the vascular tissues in plants. He inserted waxed paper into the stem of two plants to separate the xylem and phloem. He then supplied radioactive potassium ions and carbon dioxide with radioactive carbon to another plant. After a period of time, he detected radioactivity in xylem and phloem at different positions of the plants.
+
+	Figure X shows how the waxed paper was inserted into the stem of a plant, and the positions where radioactivity was detected. Figure Y shows where the radioactive potassium ions and carbon dioxide were supplied to the plants.
+
+
+	
+
+The table below shows the results.
+	Radioactivity (arbitrary unit)	
+	Plant P	Plant Q	
+	Xylem	Phloem	Xylem	Phloem	
+Position 1 	55	53	0	4320	
+Position 2	112	0.4	0	3030	
+Position 3	59	56	0	2300	
+
+a	Name one organic nutrient that is transported in the phloem.	(1 mark)
+b	Describe how the carbon dioxide supplied to the leaf became the organic nutrients in the plants.									(3 marks)
+c	Explain how the results support the following conclusions of the investigation.
+i	Organic nutrients are transported mainly in the phloem.	(1 mark)
+ii	Potassium ions, which is mainly transported in xylem, can move laterally between the xylem and the phloem.				(2 marks)
+d	Explain why it is important for the plants to transport organic nutrients from leaves to root.											(3 marks)
+
+
+
+
+
+-- answer --
+a	Sugars / amino acids (or other reasonable answer)					1m
+b	Carbon dioxide diffused into the air space in the leaves through the stomata.															1m
+It dissolved in the layer of water on the mesophyll cells and diffused into the cells.													 		1m
+The cells used the carbon dioxide in photosynthesis and produced carbohydrates.														1m
+c	i	Radioactivity can be detected in phloem but not in xylem in plant Q.	1m
+ii	Radioactivity can be detected in both xylem and phloem in plant P.	1m
+Radioactivity in phloem at position 2, where xylem and phloem are separated by the waxed paper, is much lower than the radioactivity at positions 1 and 3. 													1m
+d	Root cells contain no chloroplasts for photosynthesis.					1m
+They rely on the organic nutrients from the leaves					1m
+for respiration and growth.										1m	
+---------------------------------------------------
+
+[10251731]
+// Cross-topic // Design experiment // Graph interpretation //
+*	The diagram below shows a set-up used to measure the rate of transpiration of a leafy shoot from a plant. A pressure sensor was connected to the plastic tube to measure the pressure inside the tube.
+	
+
+The set-up was put in a room with a light turned on and the pressure inside the tube was recorded for a period of time. The graph below shows the result obtained.
+
+	
+
+a	Explain why the pressure inside the plastic tube decreased during the experiment.											(3 marks)
+b	Predict how the graph would be different if the experiment was carried out in darkness.											(1 mark)
+c	It is known that a mutation in this plant species affects the shape of an enzyme involved in the production of a lipid in the cuticle. The student repeated the above experiment using a leafy shoot from a mutated plant. The graph below shows the result obtained.
+	
+Based on above information, suggest the effect of the mutation on the rate of transpiration. Suggest how the mutation caused such an effect.															(3 marks)
+d	You are provided with the following materials and apparatus:
+burette, lamp, leafy shoot, oil, water, jar, stopper, electronic balance	
+How would you use the materials and apparatus to assemble another set-up for measuring the rate of transpiration at different light intensities? Draw the set-up in the space below.								(3 marks)
+
+
+-- answer --
+a	The leafy shoot lost water due to transpiration.						1m
+It absorbed water from the plastic tube.							1m
+Therefore, the volume of water inside the plastic tube decreased and the volume of the air column inside the plastic tube increased. This caused the pressure inside the plastic tube to decrease.									1m
+b	The slope of the line would be less steep.							1m
+Note:
+In darkness, the transpiration rate of the plant would be lower. Therefore, less water would be absorbed and the drop in the pressure would be smaller.
+
+c	The mutation increased the rate of transpiration.						1m
+The mutation caused the enzyme involved in the production of a lipid in the cuticle to become non-functional.										1m
+Thus a smaller amount of lipids was present in the cuticle and the cuticle became less effective in preventing water loss.							1m
+
+
+
+
+
+d	
+
+
+																3m	
+---------------------------------------------------
+
+[10251749]
+// Scientific investigation // High order thinking //
+*	A student used the following set-up to compare the rates of transpiration of two plants, P and Q. Plant P lived in a moist environment and plant Q lived in a dry environment. She measured the distance travelled by the air bubble in the capillary tube in 10 minutes for each plant. The position of the plunger of the syringe was fixed during the experiment.
+	
+a	State three precautions the student should have carried out and explain why they are necessary.										(3 marks)
+b	The set-up actually measured the rate of water uptake rather than the rate of transpiration. What assumption was made when the rate of water uptake was used as an indirect measurement of the rate of transpiration?																(1 mark)
+
+c	The capillary tube only measured the distance travelled by the air bubble. Describe how the student could calculate the rate of water uptake by the leafy shoot of each plant.								(2 marks)
+d	The rate of water uptake and hence the rate of transpiration in plant Q was found to be lower than that in plant P. State two possible features of the leaves of plant Q and explain how each feature could account for the lower rate of transpiration.									(4 marks)
+
+-- answer --
+a	Cut the leafy shoot of each plant and fit it into the set-up under water. This prevents air bubbles from entering the xylem vessels and blocking water uptake.															1m
+Blot dry the leaves after cutting the shoots under water. This removes water which blocks the stomata / slows down transpiration through the stomata.		1m
+Leave the set-up undisturbed for 15 minutes before making a measurement. This allows the rate of water uptake to acclimatize to the surrounding conditions.	1m
+(or other reasonable answers)
+b	All the water absorbed by the plant was lost through transpiration.		1m
+c	Find out the radius (r) of the capillary tube.							1m
+Multiply the cross-sectional area of the capillary tube ((r2) by the distance travelled by the air bubble in 10 minutes.	Then divide the product by 10 minutes.	1m
+d	Leaves were small / modified to form spines to reduce the surface area for transpiration.												2m
+Hairs were present on the epidermis to retain moisture. This decreased the concentration gradient of water vapour between the air space and the surrounding air, thus slowing down transpiration.								2m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10251755]
+// Data handling // Experiment // Calculation //
+*	The diagram below shows an apparatus used to study water balance in plants. The apparatus is left under bright light for an hour.
+
+	
+
+The initial and final positions of the air bubble and weights of the apparatus are listed in the following table.
+
+	Initial reading	Final reading	
+Position of air bubble (cm)	5.8	47.8	
+Weight of apparatus (g)	868	866.3	
+
+a	Give two precautions in setting up the apparatus to ensure that no air bubbles except the one shown in the diagram are introduced.	(2 marks)
+b	Calculate the following and show your working. (1 cm3 of water weighs   1 g)
+i	Amount of water absorbed by the leafy shoot			(2 marks)
+ii	Amount of water lost by the leafy shoot					(2 marks)
+iii	Amount of water retained by the leafy shoot				(2 marks)
+c	Predict with reasons how the distance moved by the air bubble would change if the experiment is repeated in darkness.				(3 marks)
+
+
+-- answer --
+a	Cut the leafy shoot under water. /
+While the leafy shoot is still under water, attach it to the stopper of the bubble potometer. /Seal off all connections with vaseline. (any 2)			1m x 2
+b	i	(47.8 - 5.8) × 0.05 cm3 = 2.1 cm3						1m x 2
+ii	(868 - 866.3) g = 1.7 g = 1.7 cm3						1m x 2
+iii	(2.1 - 1.7) cm3 = 0.4 cm3								1m x 2
+c	The distance would be shorter.								1m
+In darkness, the stomata are closed.							1m
+The rate of transpiration is low.								1m	
+---------------------------------------------------
+
+[10251757]
+// Schematic diagram // Basic concepts //
+*	The arrow in the diagram below shows a pathway by which water enters the root of a plant.
+	
+a	Name the force which draws water up the vessel made up of cell P.															(1 mark)
+b	Explain how cell P is structurally adapted to the transport of water.															(4 marks)
+c	Using the letters in the diagram, describe how the force answered in a helps the absorption of water by the root.						(4 marks)
+
+
+
+
+
+
+-- answer --
+a	Transpiration pull											1m
+b	The cell wall of cell P is thick and lignified.							1m
+This prevents the vessel made up of cell P from collapsing when a negative pressure is created during transpiration.							1m
+Cell P is hollow / has no cytoplasm / nuclei / end walls.				1m
+This offers less resistance to the transport of water.					1m
+c	As the transpiration pull draws water up the vessel, water is drawn into cell P from the neighbouring cells by osmosis.								1m
+This decreases the water potential of cell Q and water moves from the neighbouring cell R to cell Q by osmosis.							1m
+As a result, a water potential gradient is set up across cells Q, R and S and water moves inwards from cell to cell by osmosis.							1m
+Finally, the water potential of cell T becomes lower than that of the water in the soil and water in the soil enters cell T by osmosis.						1m	
+---------------------------------------------------
+
+[10251765]
+// Data handling // Experiment //
+**	A student used the set-up shown in the diagram below to measure the rate of transpiration of a leafy shoot.
+
+	
+
+a	The set-up was used to measure the rate of transpiration under different environmental conditions. The results are summarized in the table below.
+
+Experiment	Environmental conditions	Time taken for the bubble to move a fixed distance (min)	
+I	lamp off, fan on	38	
+II	lamp on, fan on	4	
+III	lamp on, fan off	7	
+
+Which of the following changes in environmental conditions, turning off the lamp or turning off the fan, has a greater effect on the rate of transpiration?
+Using the data in the table, explain how you arrived at your answer.															(4 marks)
+b	i	Explain why the values in a are not accurate measures of the rate of transpiration.										(2 marks)
+ii	Suggest how the set-up can be modified to measure the rate of transpiration more accurately.							(2 marks)
+
+-- answer --
+a	Turning off the lamp has a greater effect on the rate of transpiration.		1m
+By comparing the results of experiments I and II, we can see that as the lamp was turned off, the time taken for the bubble to move a fixed distance increased by 34 minutes.													1m
+By comparing the results of experiments II and III, we can see that as the fan was turned off, the time taken for the bubble to move a fixed distance increased by 3 minutes only.												1m
+That means turning off the lamp resulted in a greater decrease in the rate of transpiration.												1m
+b	i	The values reflect the rate of water absorption instead of the rate of water loss by transpiration.										1m
+Some water absorbed may be used by the leafy shoot.			1m
+ii	Put the whole set-up on a balance.							1m
+Record the decrease in weight of the set-up.					1m	
+---------------------------------------------------
+
+[10251803]
+// Photomicrograph // Schematic diagram //
+*	The photomicrograph below shows a transverse section of a dicotyledonous root.
+
+	
+
+a	Starch is stored in cells of tissue X. The starch comes from the sugar produced in the leaves during photosynthesis. Describe how the sugar produced in the leaves becomes the starch stored in cells of tissue X.															(2 marks)
+b	The diagram below shows the structure of a cell in tissue Y.
+
+	
+
+i	Based on the diagram, state two adaptive features of this cell for the absorption of water.									(2 marks)
+ii	Minerals are absorbed into this cell by active transport. In terms of water potential, explain how the absorption of minerals helps the absorption of water from the soil.						(3 marks)
+
+
+
+-- answer --
+a	Sugar produced during photosynthesis in leaves is transported in phloem to the root.														1m
+In the root, sugar is converted to starch for storage.					1m
+b	i	The cell has a root hair, which provides a large surface area for the absorption of water.										1m
+Its root hair is long and fine. It can easily grow between soil particles. This helps absorb water around them.							1m
+ii	Absorption of minerals lowers the water potential of the root hair cell.	1m
+The water potential of the cell becomes lower than that of the soil.	1m
+Water enters the root hair cell by osmosis. 						1m	
+---------------------------------------------------
+
+[10251805]
+// High order thinking // Communication //
+**	In order to obtain a fruit of larger size, a farmer removed a ring of bark from a branch of a tree. The diagram below shows the tree.
+
+	
+
+a	Explain why fruit X will become larger in size.				(5 marks)
+b	How will the size of fruit Y change?						(1 mark)
+c	Explain why the farmer should not remove the bark from trunk of the tree.														(3 marks)
+
+
+
+-- answer --
+a	In an untreated tree, some of the food / organic nutrients / sugar produced by the leaves of the branch will be transported to other parts of the tree.			1m
+Phloem was removed with the ring of bark.							1m
+The transport of food / organic nutrients / sugar from the branch to the other parts of the tree will be stopped.										1m
+All the food / organic nutrients / sugar produced by the leaves of the branch will be transported to fruit X.											1m
+As a result, more food / organic nutrients / sugar will be stored in fruit X.	1m
+b	Its size will decrease.											1m
+c	Roots cannot carry out photosynthesis. They depend on the leaves for food supply. 													1m
+Removing a ring of bark from the trunk will stop the transport of food / 	organic nutrients / sugar from the leaves down to the roots. 					1m
+The tree will die as the roots cannot obtain food / organic nutrients / sugar.	1m	
+---------------------------------------------------
+
+[10251848]
+// Graph interpretation //
+*	The graph below shows the changes in the average size of stomata of a plant on a sunny day.
+	
+
+a	Describe the changes in the average size of stomata from 0600 to 0800. State the importance of this change to the plant.				(4 marks)
+b	Describe how the size of the stomata affects the rate of transpiration.															(2 marks)
+c	Suggest an explanation for the decrease in the average size of stomata at 1200.												(2 marks)
+
+
+
+
+-- answer --
+a	From 0600 to 0800, the average size of stomata increases.				1m
+As the light intensity increases from 0600 to 0800,					1m
+the rate of photosynthesis of the plant increases.						1m
+The opening of stomata allows more carbon dioxide to diffuse into the leaves / more oxygen to diffuse out of the leaves.							1m
+b	As the stomata open wider, water vapour in the air space diffuses out more rapidly through the stomata.											1m
+The rate of transpiration increases.								1m
+c	At 1200, the rate of transpiration is high.							1m
+Some stomata may be closed to prevent excessive loss of water.			1m	
+---------------------------------------------------
+
+[10251851]
+// Experiment // Calculation //
+*	In an experiment, two leafy shoots were cut from the same plant and their cut ends were placed in water for 8 hours. The weight of both set-ups before and after the experiment was recorded.
+
+	
+
+The table below shows the results.
+
+	Weight before experiment (g)	Weight after experiment (g)	
+Set-up X	15	11.4	
+Set-up Y	14.8	13.5	
+
+a	Calculate the rate of transpiration (in g/h) of the leafy shoot in each set-up. Show your workings.									(4 marks)
+b	State which leafy shoot has a higher rate of transpiration. Explain why.														(3 marks)
+
+-- answer --
+a	Set-up X:
+(15 - 11.4) / 8												1m
+= 0.45 g/h													1m
+Set-up Y:
+(14.8 - 13.5) / 8												1m
+= 0.16 g/h													1m
+b	The leafy shoot in set-up X has a higher rate of transpiration.			1m
+The leafy shoot in set-up X has more leaves.						1m
+It has a larger number of stomata / a larger surface area for the diffusion of water vapour.													1m	
+---------------------------------------------------
+
+[10251860]
+// Overseas exam question // Graph interpretation // Calculation //
+*	An investigation was undertaken to determine the relationship between stomatal density and the rate of transpirational water loss in daffodil leaves.
+The stomata of daffodil leaves are found on both surfaces of the leaf.
+a	A student took four counts of stomata in areas 2 mm × 2 mm (4 mm2) on both surfaces. The mean number of stomata per 4 mm2 was then calculated and, for the upper epidermis, this was converted to a count per cm2. The results are shown in the table below.
+
+
+
+
+
+
+	Number of stomata	
+	Upper epidermis	Lower epidermis	
+Replicated counts / 4 mm-2	136	67	
+	146	81	
+	132	90	
+	154	58	
+Mean count / 4 mm-2	142	74	
+Mean count / cm-2	3550		
+
+i	Complete the table by entering a mean value for the number of stomata per cm2 in the shaded cell.							(1 mark)
+ii	Assess the variation shown within the replicates and comment on reliability of the measurements. 						(2 marks)
+b	An estimate was made of the amount of transpiration from both surfaces of a daffodil leaf by sticking small pieces of dry cobalt chloride paper on the upper and lower epidermis. The cobalt chloride paper changes from blue to pink as it absorbs water. The graph below shows the colour changes over a period of 60 minutes.
+	
+
+i	Using the information in the graph and the table opposite, explain the colour changes shown.								(3 marks)
+ii	Covering part of the leaf with the cobalt chloride paper may reduce the transpiration in that part. Suggest one reason for this.		(1 mark)
+c	Explain how water loss from the leaf provides a means for water transport in the whole plant.										(2 marks)
+CCEA GCE (AS) Biology Module 2 Jan 2011 Q6
+-- answer --
+a	i	74 / 4 × 100 = 1850										1m
+ii	The counts for the upper epidermis are not that variable / relatively close but the counts for the lower epidermis are variable.					1m
+The less variable the counts, the more reliable the results. / For lower epidermis reliability could be increased by further replication.		1m
+b	i	The colour changes as water is lost from the leaf / stomata.			1m
+Transpiration / water loss is occurring from both surfaces.			1m
+Transpiration occurs more rapidly from the upper epidermis as there are more stomata on the upper epidermis.						1m
+ii	Covering part of the leaf with the cobalt chloride paper reduces air flow / blocks light so that stomata close.							1m
+c	Water molecules evaporate off the mesophyll surface / water diffuses out through stomata.													1m
+Water loss is replaced by water from a continuous column in the xylem.	1m	
+---------------------------------------------------
+
+[10251863]
+// Overseas exam question // Schematic diagram // Applying concepts //
+	The diagram below shows the position of the vascular bundles in a transverse section of the stem of a young dicotyledonous plant.
+
+	
+
+a	Select the correct letter from the above diagram to identify each of the following tissues in the stem.
+Xylem
+Phloem												(2 marks)
+
+b	The diagram below shows the cut end of a stem from a woody plant. The other end of the stem is being heated in a fire. Steam can be seen coming from the vascular tissue at the cut end of the stem.
+
+	
+
+Describe the features of the xylem that enable the steam to pass from the heated end of the stem to the cut end.						(2 marks)
+c	i	Define the term transpiration.							(2 marks)
+ii	Describe and explain how transpiration contributes to the mechanism of water transport up the stem.						(5 marks)
+iii	Suggest why a bunch of flowers may survive longer if the ends of the stems are removed immediately before the flowers are placed in water.												(2 marks)
+				OCR GCE (AS) Cells, Exchange and Transport Jan 2011 Q4
+
+-- answer --
+a	Xylem: U													1m
+Phloem: R													1m
+b	Xylem is formed by cells joining end to end.						1m
+It is hollow / has no cell content / no cytoplasm.						1m
+c	i	Transpiration is the evaporation / loss of water vapour				1m
+from the aerial parts of plants.								1m
+ii	Water is lost from the leaves.								1m
+Water moves down the concentration gradient across the mesophyll cells.														1m
+Water lost by mesophyll cells is replaced by water from the xylem.															1m
+This causes a low pressure at the top of the xylem vessels.			1m
+Water is pulled up the xylem vessels.							1m
+iii	Air bubbles present in the xylem at the ends of the stems block the xylem.														1m
+Removing the ends of stems restores the continuous column of water in the xylem.												1m	
+---------------------------------------------------
+
+[10251871]
+// Communication // Schematic diagram //
+	The diagram below shows the flow of water in a plant. Water absorbed by the root is pulled upwards along the stem to the leaves, where it is lost into the atmosphere.
+
+	
+
+a	Describe how the loss of water from the leaves creates a force that pulls water up the xylem vessels.								(4 marks)
+b	Describe how the force helps the absorption of water by the root.																(5 marks)
+
+-- answer --
+a	In the leaves, mesophyll cells near the air space lose water continuously into the air space. Water vapour then diffuses into the atmosphere.				1m
+The water potentials of these mesophyll cells decrease. Water is drawn from the adjacent cells by osmosis.										1m
+As a result, a water potential gradient is set up across the leaves.		1m
+Water is eventually drawn from the xylem vessels, creating a force to pull water up the xylem vessels.											1m
+b	As water is drawn up the xylem vessels, water in the cortex cells near the xylem vessels of the roots enters the xylem vessels.						1m
+The water potentials of these cortex cells decrease. Water is drawn from the adjacent cells by osmosis.										1m
+As a result, a water potential gradient is set up across the cortex of the roots.															1m
+Water moves inwards from cell to cell by osmosis, or move inwards along the cell walls.													1m
+Water potentials of root hair cells become lower than the water potential of the soil. Water in the soil enters the root hair cells by osmosis.					1m	
+---------------------------------------------------
+
+[10251885]
+// Graph interpretation // Applying concepts //
+*	The graph below shows the rates of transpiration of two herbaceous plants, X and Y, in a 2-hour period. X is grown in damp soil while Y is grown in dry soil.
+	
+
+a	It is known that the light intensity increased during this 2-hour period. Explain how the increase in light intensity led to an increase in the rate of transpiration of X.										(2 marks)
+b	Describe the change in the rate of transpiration of Y. Suggest why such a change occurred.										(3 marks)
+c	Y wilted at the end of this 2-hour period. Explain why.			(2 marks)
+d	It is found that the temperature of Y was higher than that of X at the end of this 2-hour period. With reference to the graph above, explain why.															(3 marks)
+
+-- answer --
+a	As the light intensity increased, the stomata on the leaves of plant X opened wider.														1m
+Water vapour in the air space diffused more rapidly into the atmosphere.	1m
+OR
+The increase in light intensity increased the temperature.				1m
+The rate of evaporation of water from the surfaces of mesophyll cells increased.															1m
+b	The rate of transpiration of Y decreased in the 2-hour period.			1m
+As the water supply was inadequate, the stomata on the leaves of Y may be closed.													1m
+This decreased the amount of water vapour that diffused out of the stomata.	1m
+c	Y is mainly supported by the turgidity of thin-walled cells in the cortex and pith of the stem.													1m
+As Y lost too much water, the cells in the cortex and pith became flaccid. They could no longer support the stem.								1m
+d	The evaporation of water during transpiration removes heat from the plant.	1m
+From the graph, the rate of transpiration of Y was lower than that of X.		1m
+Y lost heat less effectively than X, and therefore the temperature was higher.															1m	
+---------------------------------------------------
+
+[10251887]
+// Graph plotting // Applying concepts //
+*	The table below shows the flow rate of water in the xylem vessels of a tree in a period of 6 hours.
+
+Time (h)	Flow rate of water in the xylem vessels (m/h)	
+1	1.0	
+2	1.1	
+3	1.4	
+4	1.9	
+5	2.5	
+6	3.2	
+a	Use the data in the table, plot a graph to show the change in the flow rate of water in the xylem vessels of the tree in the 6-hour period.		(4 marks)
+b	It is known that throughout the investigation, there were no obvious change in the wind speed and the relative humidity. Explain why the measurements were probably taken from 6:00 am to 12:00 noon, but not 6:00 pm to 12:00 am.													(3 marks)
+c	What will happen to the flow rate of water in the xylem vessels if all the leaves of the tree are removed? Explain.					(3 marks)
+
+-- answer --
+a	
+
+Correct title												1m
+Choice of axes												1m
+With labels and units											1m
+Correct plotting and joining of line								1m
+b 	The flow rate of water was increasing during the 6-hour period, meaning the rate of water absorption was increasing.								1m
+The increase in the rate of water absorption indicates that the rate of transpiration was increasing.												1m
+This was probably caused by an increase in light intensity from 6:00 am to 12:00 noon (but not from 6:00 pm to 12:00 am).							1m
+c 	Removing the leaves decreases the surface area for transpiration.		1m
+The rate of transpiration will therefore decrease and less water will be drawn through the xylem vessels by transpiration pull.						1m
+Thus the flow rate of water will decrease.							1m	
+---------------------------------------------------
+
+[10251892]
+// Design experiment // Graph interpretation //
+*	The graph below shows the rates of transpiration of two leafy shoots (X and Y) of different species. The rates of transpiration were measured using bubble potometers. During measurement, the leafy shoots were kept under the same environmental conditions. The two leafy shoots had the same total leaf surface areas.
+	
+a	Describe how transpiration takes place in the leaves of a plant.	(3 marks)
+b	The rates of transpiration of the two leafy shoots increased during measurement. State one change in environmental factor that would have led to the increase in the rates of transpiration.					(1 mark)
+c	A student suggested that the difference in the rates of transpiration of the two leafy shoots was due to the difference in the number of stomata on their leaves. Suggest a method to estimate the number of stomata on a leaf.															(5 marks)
+
+-- answer --
+a	Water on the surfaces of the mesophyll cells evaporates into the air space.	1m
+The air space becomes almost saturated with water vapour.			1m
+Water vapour diffuses through the stomata into the atmosphere down the concentration gradient.										1m
+b	Increase in light intensity / increase in temperature / increase in wind speed / decrease in relative humidity									1m
+c	Peel off the upper and lower epidermis of the leaf.					1m
+Mount a small piece of epidermis and observe under a light microscope.	1m
+Count the number of stomata in several fields of view.					1m
+Calculate the total number of stomata on each side of the leaf by
+	1m
+Add up the numbers on two sides of the leaf to get the total number.		1m	
+---------------------------------------------------
+
+[10251894]
+// Experiment // Comparison // Calculation //
+	The diagram below shows a potometer which can be used to estimate the rate of transpiration of a leafy shoot.
+
+	
+
+A student used this potometer to investigate the effect of air movement on the rate of transpiration. He placed the potometer near a fan for 15 minutes. He then switched on the fan for another 15 minutes. The results are shown in the table below.
+
+
+	Initial reading	Final reading	
+First 15 minutes (fan switched off)	0 mm	24 mm	
+Following 15 minutes (fan switched on)	24 mm	54 mm	
+
+a	Calculate the rate of transpiration, in mm per minute,
+i	in the first 15 minutes.								(1 mark)
+ii	in the following 15 minutes.							(1 mark)
+b	Compare the answers in a i and a ii. Account for the difference.	(4 marks)
+c	Explain why the actual values should be smaller than the values calculated in a.													(2 marks)
+d	Another student tries to investigate the effect of light on the rate of transpiration using the potometer. He placed a lamp near the potometer and switched it on. Explain how the rate of transpiration would be affected by the increase in light intensity.								(3 marks)
+
+
+-- answer --
+a	i	(24 - 0) / 15 = 1.6 mm per minute							1m
+ii	(54 - 24) / 15 = 2 mm per minute							1m
+b	The rate of transpiration in the following 15 minutes was higher than that in the first 15 minutes.												1m
+Wind blew away water vapour around the stomata. 					1m
+This helped maintain a steep concentration gradient of water vapour between the air space and the surrounding air.								1m
+The rate of diffusion of water vapour out of the stomata and therefore the rate of transpiration increased.										1m
+c	The potometer measures the rate of water absorption instead of the rate of transpiration.												1m
+The rate of water absorption should be higher than the rate of transpiration because some of the water absorbed is used in photosynthesis, growth and other metabolic activities.											1m
+d	The rate of transpiration would increase with an increase in light intensity.	1m
+As light intensity increases, the stomata would open wider.				1m
+Water vapour in the air space would diffuse out more rapidly through the stomata.														1m	
+---------------------------------------------------
+
+[10251907]
+// Graph interpretation // Applying concepts //
+*	Two pots of plants, P and Q, were put under the sun in the same area to investigate the changes in the rate of transpiration. One of the plants was growing in moist soil and the other in dry soil. The changes in the rate of transpiration of the plants from 8:00 to 19:00 were plotted on the graph below.
+	
+
+a	At what time did the highest rate of transpiration occur in plants P and Q respectively?											(2 marks)
+b	i	Describe the major environmental changes and the subsequent responses of plant P between 8:00 and 11:00.			(4 marks)
+ii	Explain why the response of plant Q was different from plant P.														(2 marks)
+c	Suggest one reason for the sharp decrease in the rate of transpiration in plant P at 13:00.										(1 mark)
+
+-- answer --
+a	Plant P: 11:00												1m
+Plant Q: 8:00												1m
+b	i	The sun was rising and the light intensity increased.				1m
+Temperature surrounding the plants also increased.				1m
+The stomata of plant P opened wider.							1m
+More water vapour diffused out of the stomata, so the rate of transpiration increased.												1m
+
+ii	Plant Q grew in dry soil.									1m
+Some of the stomata were closed to prevent excessive water loss.	1m
+c	Some of the stomata were closed.								1m	
+---------------------------------------------------
+
+[10251917]
+// Comparison // Calculation // Communication //
+*	Three leaves (P, Q and R) of the same size were cut from a dicotyledonous plant. The cut end of each leaf stalk was sealed. The leaves were then greased in the following ways:
+	
+All leaves were carefully weighed and then suspended in a warm room for 3 hours. The results are shown in the table below:
+
+Leaf	P	Q	R	
+Initial mass (g)	4.1	4.2	4.8	
+Final mass (g)	3.5	4.1	4.8	
+
+a	Calculate the changes in mass of leaves P, Q and R.			(3 marks)
+b	Explain the results of the three leaves.						(6 marks)
+
+-- answer --
+a	Leaf P: 3.5 - 4.1 = -0.6 g										1m
+Leaf Q: 4.1 - 4.2 = -0.1 g										1m
+Leaf R: 4.8 - 4.8 = 0 g										1m
+b	Leaf P: Water could only be lost through the stomata on the lower surface of the leaf.														1m
+As there were many stomata on the lower surface of the leaf, there was a marked decrease in the mass of leaf P.									1m
+Leaf Q: Water could only be lost through the stomata on the upper surface of the leaf.														1m
+As there were fewer stomata on the upper surface of the leaf, there was only a slight decrease in the mass of leaf Q.								1m
+Leaf R: All the stomata on the leaf were blocked.						1m
+No water was lost from the leaf.									1m	
+---------------------------------------------------
+
+[10251926]
+// Graph interpretation //
+*	a	Explain how xylem vessels are adapted to its function.			(4 marks)
+b	The graph below shows the flow rate in the xylem vessels of a tree.
+	
+Explain the increase in the flow rate between 10:00 and 14:00.	(4 marks)
+-- answer --
+a	Xylem vessels are hollow tubes.									1m
+This allows the passage of water with little resistance.					1m
+The cells in xylem vessels have thick and lignified cell walls.			1m
+This prevents vessels from collapsing under the great tension of transpiration pull.														1m
+b	Light intensity increases between 10:00 and 14:00. This causes the stomata to open wider. / Temperature increases between 10:00 and 14:00. The rate of evaporation of water from the surfaces of mesophyll cells increases.		2m
+The rate of transpiration increases.								1m
+More water is transported up the xylem vessels.						1m	
+---------------------------------------------------
+
+[10251930]
+// Design experiment // Drawing // Schematic diagram //
+	The diagram below shows the structure of a dicotyledonous root.
+	
+
+a	Name the tissues labelled P and S.							(2 marks)
+b	Using the letters in the diagram, state which tissue of the root transports water and minerals. Describe an experiment to verify your answer.															(3 marks)
+c	Name the driving force for transporting water and minerals.		(1 mark)
+d	Using the letters in the diagram, state which tissue of the root transports organic nutrients.										(1 mark)
+e	Name the process of transporting organic nutrients.			(1 mark)
+f	Draw a transverse section of a dicotyledonous stem and label tissues Q and R in your drawing.										(2 marks)
+
+
+-- answer --
+a	P: cortex													1m
+S: epidermis												1m
+b	R														1m
+Immerse the roots of a plant in a dye solution.						1m
+After 30 minutes, examine the transverse section of the root with a microscope and find out which tissue is stained. It should be R (xylem).				1m
+c	Transpiration pull											1m
+d	Q														1m
+e	Translocation												1m
+f	
+
+Correct drawing												1m
+Correct labels												1m	
+---------------------------------------------------
+
+[10251949]
+// Communication // Schematic diagram //
+*	The diagram below shows some cells in the root of a plant.
+
+	
+
+a	Name cell X.											(1 mark)
+b	Explain how cell X is adapted to the absorption of water.		(2 marks)
+c	i	Name the main force which drives water up the xylem vessels.														(1 mark)
+ii	Describe how the force stated in c i helps the absorption of water in cell X.											(5 marks)
+-- answer --
+a	Root hair cell												1m
+b	Cell X has a root hair,											1m
+which provides a large surface area for the absorption of water. 			1m
+OR
+The root hair of cell X is long and fine.								1m
+They can easily grow between soil particles to absorb the water around them.															1m
+c	i	Transpiration pull										1m
+ii	Water is drawn up the xylem vessels by transpiration pull. Water in the cortex cells near the xylem vessels enters the xylem vessels.				1m
+As a result, a water potential gradient is set up across the cortex of the root.														1m
+Water moves inwards from cell to cell by osmosis				1m
+or along the cell walls across the cortex.						1m
+This lowers the water potential of cell X. Water in the soil enters cell X by osmosis.												1m	
+---------------------------------------------------
+
+[10251963]
+// Data handling // Calculation //
+*	Walter conducted an investigation of the change in mass of a plant in 1 day. The table below shows the lighting conditions during the investigation and the results. At 14:00, a fan was switched on to produce wind near the plant until the end of the day.
+
+Time of day	Lighting conditions	Mass of the plant (g)		
+02:00	Dark	334.7		
+05:00	Dark	334.4		
+08:00	Light	333.4		
+11:00	Light	328.4		
+14:00	Light	322.0	( fan on	
+17:00	Light	308.1		
+20:00	Light	307.3		
+23:00	Dark	306.9		
+02:00	Dark	306.7		
+
+a	Describe how water is lost from the plant.					(3 marks)
+b	i	Calculate the change in mass over the first 6 hours (02:00 to 08:00) and that over the next 6 hours (08:00 to 14:00).			(2 marks)
+ii	Explain the difference in the change in mass calculated in b i.														(3 marks)
+c	State how the mass of plant changed when the fan was on. Explain why such a change occurred.									(4 marks)
+
+-- answer --
+a	Water on the surfaces of the mesophyll cells evaporates into the air space.	1m
+The air space becomes almost saturated with water vapour.			1m
+Water vapour diffuses through the stomata into the atmosphere down the concentration gradient.										1m
+b	i	The first 6 hours: -1.3 g									1m
+The next 6 hours: -11.4 g									1m
+ii	The decreases in mass were due to water loss.					1m
+In the first 6 hours, there was no light and the stomata were closed. Less water vapour diffused out of the stomata.						1m
+In the next 6 hours, light was present and the stomata were opened. More water vapour diffused out of the stomata.						1m
+c	The mass of the plant showed a larger decrease (14.7 g from 14:00 to 20:00).															1m
+Wind blew away water vapour around the stomata.					1m
+The concentration gradient of water vapour between the air space and the surrounding air was steeper.									1m
+This increased the rate of diffusion and therefore the rate of transpiration increased.													1m	
+---------------------------------------------------
+
+[10251968]
+// Design experiment // Communication //
+*	a	Given several herbaceous plants and some dilute eosin solution in a flask, describe how one can show that water is transported in the xylem from the roots to leaves.										(4 marks)
+b	Explain the major mechanism of water transport in the xylem.	(5 marks)
+
+
+
+-- answer --
+a	Clean the roots of several herbaceous plants with water. Do not damage the roots.														1m
+Immerse the roots in dilute eosin solution.							1m
+At 5-minute intervals, pick a herbaceous plant and cut transverse sections of its roots, stems and leaves.										1m
+Observe the sections under a light microscope and identify the tissue stained red.														1m
+b	Water vapour evaporates from the mesophyll cells around the air spaces.	1m
+Water is drawn from the adjacent cells by osmosis. As a result, a water potential gradient is set up across the leaf.								1m
+Water is finally drawn from the xylem vessels.						1m
+This creates a force to pull water up the xylem vessels.				1m
+The continuous hollow tube-like structure of xylem vessels allows water to be carried up as a continuous stream of water.							1m	
+---------------------------------------------------
+
+[10252016]
+// Schematic diagram // Basic concepts //
+	Figure X below shows a plant. Three parts are labelled as P, Q and R.
+	
+
+Figure Y below shows the transverse section of part P.
+
+	
+
+a	What are the names of parts P, Q and R?					(3 marks)
+b	With reference to figure Y, give an example of a cell, a tissue and an organ.													(3 marks)
+c	Give one advantage and three disadvantages for an organism being multicellular.											(4 marks)
+
+-- answer --
+a	P: leaf													1m
+Q: stem													1m
+R: root													1m
+b	Cell: palisade mesophyll cell									1m
+Tissue: palisade mesophyll										1m
+Organ: leaf												1m
+c	Advantage:
+It enables division of labour.									1m
+Disadvantages:
+Support of the organism may be a problem.						1m
+Transport of materials may be a problem.							1m
+Coordination of different parts of the body may be a problem.			1m	
+---------------------------------------------------
+
+[10252030]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows the transverse section of a dicotyledonous root.
+	
+
+a	Name structures W, X, Y and Z.							(4 marks)
+b	Give two functions of structure Z.							(2 marks)
+c	State two structural features of structure X and explain how these features facilitate its function of transport.							(4 marks)
+
+-- answer --
+a	W: epidermis												1m
+X: xylem													1m
+Y: phloem													1m
+Z: cortex													1m
+b	It stores food 												1m
+and allows the passage of water and minerals across the root.			1m
+c	It is a hollow tube.											1m
+This allows the passage of water with little resistance.					1m
+The cells in it have thick and lignified cell walls.						1m
+This prevents structure X from collapsing under the great tension of transpiration pull.														1m	
+---------------------------------------------------
+
+[10252032]
+// Photomicrograph // Basic concepts //
+	The photomicrograph below shows the transverse section of a dicotyledonous stem.
+	
+
+a	Name structures P, Q, R, S and T.							(5 marks)
+b	With reference to the photomicrograph, state one structural difference between the cells in structure R and the cells in structure S.		(1 mark)
+c	Describe two structural adaptations of structure R for transport.	(4 marks)
+
+-- answer --
+a	P: epidermis												1m
+Q: cortex													1m
+R: phloem													1m
+S: xylem													1m
+T: pith													1m
+b	The cell walls of the cells in structure S are thicker than those of the cells in structure R.												1m
+c	The cells of structure R have pores on the end walls.					1m
+This allows organic nutrients to pass through.						1m
+The cells of structure R contain little cytoplasm and no nucleus.			1m
+This allows organic nutrients to move along the tube with little resistance.	1m	
+---------------------------------------------------
+
+[10252040]
+// Schematic diagram //
+	The diagram below shows a section of phloem which is responsible for the transport of organic nutrients in plants.
+	
+a	Name structures P and Q.								(2 marks)
+b	Name the process of transporting the organic nutrients by the phloem.															(1 mark)
+c	Describe how structures P and Q are involved in the transport of organic nutrients.												(2 marks)
+d	State how structure Q is adapted to the transport of organic nutrients.															(2 marks)
+
+-- answer --
+a	P: companion cell											1m
+Q: sieve tube												1m
+b	Translocation												1m
+c	P supports the metabolism of the sieve tube.						1m
+Q allows organic nutrients to flow in it.								1m
+d	The cells in Q contain little cytoplasm and no nucleus.					1m
+This allows organic nutrients to move along it with little resistance.		1m
+OR
+The cells in Q have pores on their end walls.						1m
+This allows the organic nutrients to pass through.					1m	
+---------------------------------------------------
+
+[10252043]
+// Photomicrograph // Comparison //
+	The photomicrograph below shows the transverse section of a leaf from a citrus plant.
+	
+
+a	Name structures P, Q, R, S and T.							(5 marks)
+b	Compare the densities of chloroplasts in structures Q and T. What is the significance of this distribution of chloroplasts?				(3 marks)
+c	Using the letters in the photomicrograph, state the structure(s) which transport(s)
+i	water and minerals from the roots to the leaf.			(1 mark)
+ii	food from the leaf to other parts of the plant.				(1 mark)
+
+-- answer --
+a	P: epidermis												1m
+Q: palisade mesophyll										1m
+R: xylem													1m
+S: phloem													1m
+T: spongy mesophyll											1m
+b	The density of chloroplasts is higher in structure Q.					1m
+Structure Q locates nearer to the upper side of the leaf.				1m
+A higher density of chloroplasts allows effective absorption of sunlight for photosynthesis.												1m
+c	i	R													1m
+ii	S													1m	
+---------------------------------------------------
+
+[10252045]
+// Data handling // Experiment // Calculation //
+*	In an experiment, four leaves of the same size were cut from a plant. The cut end of each leaf stalk was sealed. The upper surface, lower surface and both surfaces of leaves P, Q and R respectively were greased. Leaf S received no treatment. The mass of each leaf was measured after the treatment and after a 6-hour period.
+
+The table below shows the results.
+Leaf	Mass immediately after the treatment (g)	Mass after 6 hours (g)	
+P	10	7	
+Q	10	9.5	
+R	11	11	
+S	10	6	
+
+a	Why were the cut ends of the leaf stalks sealed?				(1 mark)
+b	Why is it important to use leaves of the same size?			(1 mark)
+c	For each of the leaves, calculate the decrease in mass after 6 hours.															(4 marks)
+d	Through which surface, upper or lower surface, was most water lost?															(1 mark)
+e	What can you tell about the relative numbers of stomata on the upper and lower surfaces of leaves from the results?					(1 mark)
+f	Except leaf R, all other leaves bent downwards after the experiment. Explain why.											(2 marks)
+
+
+-- answer --
+a	To prevent evaporation of water from the cut ends.					1m
+b	To ensure the leaves have more or less the same numbers of stomata.	1m
+c	Leaf P: 10 - 7 = 3 g											1m
+Leaf Q: 10 - 9.5 = 0.5 g										1m
+Leaf R: 11 - 11 = 0 g											1m
+Leaf S: 10 - 6 = 4 g											1m
+d	Lower surface												1m
+e	There were more stomata on the lower surfaces than on the upper surfaces.1m
+f	The leaves lost water. The cells in the leaf stalks became flaccid.			1m
+They could no longer support the leaves.							1m	
+---------------------------------------------------
+
+Essays
+
+[10252182]
+// Communication //
+*	Describe and explain the effect of light intensity and temperature on the rate of transpiration through stomata.								(10 marks)
+-- answer --
+Transpiration is the loss of water in the form of water vapour from the surfaces of plants due to evaporation.												1m
+Transpiration takes place mainly through stomata.						1m
+The rate of transpiration increases with light intensity.						1m
+As light intensity increases, the stomata open wider.						1m
+Water vapour in the air space diffuses out more rapidly through the stomata.	1m
+The rate of transpiration increases with temperature.						1m
+As temperature increases, the rate of evaporation of water from the surfaces of mesophyll cells increases.											1m
+Communication													3m	
+---------------------------------------------------
+
+[10252198]
+// Communication //
+*	Describe how the loss of water in the leaves creates transpiration pull and state the importance of transpiration pull to the plants.					(9 marks)
+-- answer --
+How transpiration pull is created:
+Water evaporates from the surfaces of the mesophyll cells near the air spaces.	1m
+Water is drawn from the adjacent cells by osmosis. As a result, a water potential gradient is set up across the leaves.									1m
+Water is finally drawn from the xylem vessels.							1m
+This creates a force called transpiration pull to pull water up the xylem vessels.	1m
+Importance of transpiration pull:
+Transpiration pull helps the transport of water and minerals up the stem.		1m
+It also helps the absorption of water by the roots.							1m
+Communication 												3m	
+---------------------------------------------------
+
+[10252210]
+// Communication //
+*	Plants absorb water from the soil via their roots.
+Describe the pathways and mechanisms by which water passes from the soil to the xylem vessels in the root.									(12 marks)
+-- answer --
+In the leaves, mesophyll cells near the air spaces lose water continuously into the air spaces.														1m
+This creates transpiration pull. Water is drawn up the xylem vessels from the roots to the leaves.														1m
+Water in the cortex cells near the xylem vessels of the roots enters the xylem vessels.																1m
+The water potentials of these cortex cells decrease. Water is drawn from the neighbouring cells by osmosis.										1m
+As a result, a water potential gradient is set up across the cortex of the roots.	1m
+Water moves from cell to cell along a water potential gradient by osmosis		1m
+through the cytoplasm and the vacuoles of cells.							1m
+Water also moves travels from one cell to another freely through the cell wall.	1m
+The water potentials of the root hair cells become lower than that of the soil. Water in the soil enters the root hair cells by osmosis.								1m
+Communication													3m	
+---------------------------------------------------
+
+[10252213]
+// Comparison // Communication // Applying concepts //
+*	A rose and a tulip were put in a glass without water. After an hour the tulip stalk bent but the rose stalk remained upright. Explain.					(10 marks)
+
+-- answer --
+The two flowers lost water due to transpiration.							1m
+The cells in the cortex and pith of their stems became flaccid.				1m
+The stalk of tulip was mainly supported by the turgidity of cells in the cortex and pith.																1m
+As the cells became flaccid, they could no longer support the stalk.			1m
+The stalk of rose was mainly supported by the rigidity of xylem.				1m
+The cell walls of xylem vessels contain lignin, which are hard and rigid.		1m
+This physical nature is independent of the water content of the plant.			1m
+Communication													3m	
+---------------------------------------------------

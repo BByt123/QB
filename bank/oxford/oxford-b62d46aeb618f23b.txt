@@ -1,0 +1,741 @@
+( Chapter 2		Human responsibilities for the 						environment
+
+Multiple-choice questions
+
+[10283543]
+// Applying concepts //
+(*	Trawling has been banned in Hong Kong waters since 2013. This policy aims to
+(1)	allow the fish population to grow.
+(2)	prevent destruction of the seabed habitats.
+(3)	lower the chance of algal blooms.
+A	(2) only
+B	(1) and (2) only
+C	(1) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10283546]
+// Applying concepts //
+(*	Which of the following combinations about the pollution control measures and the aspects of the 4 Rs principle they belong to is incorrect?
+	Pollution control measure		Aspect of the 4 Rs principle	
+A	Implementing the Energy Efficiency Labelling Scheme		Reduce	
+B	Using natural gas in power plants to generate electricity		Reuse	
+C	Collecting food waste and turning it into compost		Recycle	
+D	Using organic pesticides to control pests on farmlands		Replace	
+
+B	
+---------------------------------------------------
+
+[10283554]
+// Basic concepts //
+(	Which of the following are possible ways to conserve endangered plant species?
+(1)	Keeping their seeds in seed banks
+(2)	Cultivating them in protected areas
+(3)	Protecting their natural habitats
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283562]
+// Applying concepts //
+(*	Which of the following is/are the purpose(s) of keeping endangered animals in captivity in zoos?
+(1)	To allow the animals to breed and increase in number.
+(2)	To increase genetic variations among the individuals of the species.
+(3)	To educate the public about the importance of conservation.
+A	(1) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+B	
+---------------------------------------------------
+
+[10283572]
+// Applying concepts //
+(*	Which of the following help lessen the problem of global warming?
+(1)	Recycle waste paper.  
+(2)	Buy foods that are produced locally rather than those imported from foreign countries. 
+(3)	Treat sewage before discharging it into the sea. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+A	
+---------------------------------------------------
+
+[10283580]
+// Applying concepts //
+(	Which of the following is not a way of conserving the environment?
+A	Bring our own bags when shopping.
+B	Use electronic bills instead of traditional paper bills.
+C	Pay for the use of plastic shopping bags.
+D	Avoid using disposable utensils when we eat out.
+C	
+---------------------------------------------------
+
+[10283589]
+// Applying concepts //
+(	Which of the following is not a measure to control air pollution? 
+A	Build more roads to ease traffic congestion.
+B	Encourage the use of liquefied petroleum gas (LPG) in public transport.
+C	Switch off car engines while waiting.
+D	Install catalytic converters in all diesel vehicles.
+A	
+---------------------------------------------------
+
+[10283594]
+// Basic concepts //
+(*	Which of the following combinations of the problems encountered in practising organic farming and their solutions is not correct?
+Problem						Solution
+A	The soil becomes infertile.		Add compost to the soil.
+B	Nitrates in the soil are depleted.	Grow leguminous plants.
+C	Pest population increases.		Introduce biological control agents.
+D	Weeds increase. 				Add matrine to the soil.
+D	
+---------------------------------------------------
+
+[10283603]
+// Applying concepts //
+(*	Artificial reefs made from used tyres or concrete blocks are often placed on seabed. This is a measure to promote sustainable fisheries. 
+	
+
+How can placing artificial reefs on seabed help promote sustainable fisheries?
+A	The artificial reefs allow fish to hide from fishing nets.
+B	The artificial reefs provide a hard substratum for marine organisms.
+C	The artificial reefs reduce the harmful effects of pollution on marine organisms.
+D	The artificial reefs prevent other marine organisms from competing with fish for food.
+B	
+---------------------------------------------------
+
+[10283604]
+// Basic concepts //
+(	The photograph below shows a Chinese White Dolphin. 
+	
+
+Chinese White Dolphins mainly live in the North Lantau waters of Hong Kong. Which of the following are the threats faced by them?
+(1)	They are hunted for trading.
+(2)	Their habitats are destroyed due to reclamation and coastal development.
+(3)	They are killed by vessels.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) onlyD
+D	(1), (2) and (3)
+C	
+---------------------------------------------------
+
+[10283646]
+// Applying concepts //
+(*	Which of the following are the aims of setting up country parks in Hong Kong?
+(1)	To protect the plants in those areas.
+(2)	To provide habitats for different organisms.
+(3)	To raise public awareness of the importance of conservation.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283660]
+// Basic concepts //
+(	The photograph below shows a threatened species in Hong Kong. 
+ 	
+
+The survival of this species is threatened by
+(1)	intense interspecific competition.
+(2)	habitat destruction.
+(3)	over-hunting.
+A	(1) only
+B	(2) only
+C	(3) only
+D	(1) and (2) only
+B	
+---------------------------------------------------
+
+[10283663]
+// Applying concepts //
+(*	Which of the following actions help control pollution?
+(1)	Bring your own containers when having a takeaway.
+(2)	Use a milk bottle as a flowerpot.
+(3)	Sell the old computer to other people.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3) 
+D	
+---------------------------------------------------
+
+[10283668]
+// Basic concepts //
+(	Which of the following processes is carried out in the aeration tank of a sewage treatment works?
+A	screening
+B	sedimentation
+C	aerobic decomposition
+D	anaerobic decomposition
+C	
+---------------------------------------------------
+
+[10283669]
+// Applying concepts //
+(*	The photograph below shows three recycling bins. The three bins are used to collect aluminium cans, waste paper and plastic bottles. 
+	
+
+Which of the following are possible advantages of recycling to the environment?
+(1)	It helps lessen the problem of global warming.
+(2)	It helps maintain biodiversity. 
+(3)	It helps reduce deforestation. 
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283670]
+// Applying concepts //
+(*	Which of the following follow the concept of sustainable development?
+(1)	Catch the mature fish but not the juvenile fish.
+(2)	Use wind power instead of burning coal to generate electricity.
+(3)	Ban the trading of the endangered species.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283672]
+// Applying concepts //
+(	Which of the following substances can be recycled?
+(1)	plastic bags
+(2)	soft drink cans
+(3)	rechargeable batteries
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283676]
+// Applying concepts //
+(*	Which of the following are the ways of conservation?
+(1)	Protect the natural resources in the environment.
+(2)	Use resources in a sensible way.
+(3)	Replace the scarce resources with alternatives.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283692]
+// Applying concepts //
+(*	Which of the following help protect the environment?
+(1)	Replace non-renewable resources with renewable ones.
+(2)	Reduce the use of natural resources.
+(3)	Have good management of what must be used.
+A	(1) and (2) only
+B	(1) and (3) only
+C	(2) and (3) only
+D	(1), (2) and (3)
+D	
+---------------------------------------------------
+
+[10283696]
+// Applying concepts //
+(*	Which of the following statements about sustainable development is not correct?
+A	In the concept of sustainable development, environmental protection outweighs economic development.
+B	Sustainable development considers the interests of both the present and future generations.
+C	The achievement of sustainable development ensures a continuous supply of resources.
+D	In the long run, the achievement of sustainable development ensures the competitiveness of Hong Kong.
+A	
+---------------------------------------------------
+
+
+Short questions
+
+[10283772]
+// Applying concepts //
+(*	The photograph below shows a 'Recycle Train', which is a large box for collecting specific types of waste.
+	
+
+a	Describe briefly how CDs can be recycled.					(1 mark)
+b	i	Suggest the fate of the old textiles collected.				(1 mark)
+ii	Do you think the name 'Recycle Train' is appropriate for this collection box? Explain briefly.						(1 mark)
+
+
+-- answer --
+a	CDs are made of plastics. The plastics can be melted and turned into new products.													1m
+b	i	The old textiles may be distributed to people in need.				1m
+ii	The name 'Recycle Train' is not appropriate as collecting old textiles and re-distributing them to people in need is an example of 'reuse', not 'recycle'.															1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10283780]
+// Schematic diagram // Basic concepts //
+(	The flow chart below shows the sewage treatment process. Microorganisms are involved in steps X and Y.
+
+	
+
+a	Describe the role of microorganisms in step X. 				(2 marks)
+b	Describe the role of microorganisms in step Y. 				(2 marks)
+c	Suggest one use of the biogas produced in step Y.  			(1 mark)
+
+
+-- answer --
+a	Under aerobic conditions, microorganisms in the sewage act as decomposers 																1m
+to break down organic pollutants into harmless inorganic compounds, such as carbon dioxide and nitrates.									1m
+b	Under anaerobic conditions, 									1m
+anaerobic bacteria decompose organic matter in the sludge to produce biogas.																1m
+c	Methane can be used as a fuel to power the sewage treatment plant.		1m	
+---------------------------------------------------
+
+
+[10283783]
+// STSE connections // Applying concepts //
+(*	Suppose the government is planning to sell a piece of gei wai near Deep Bay for residential development. The government has set up a Think Tank to assess the environmental impacts of this plan.
+a	If you were a member of the Think Tank, evaluate the environmental impacts of this plan.									(3 marks) 
+b	The Think Tank suggested collecting public opinions about the development plan through questionnaires. Explain why it is important to open the plan up for general discussion.									(2 marks)
+
+-- answer --
+a	The plan may lead to losses of plants and animals, especially the rare species.															1m
+The wetland habitat in the Mai Po Inner Deep Bay area will be disturbed, leading to a decrease in the number of waterbirds living in the area.			1m
+This will lead to air and water pollution in that area due to an increase in traffic and illegal disposal of sewage and rubbish from homes.				1m
+b	To make sure the development complies with the construction regulations. /
+To keep everyone informed of the plan. /
+To collect counter arguments for improvement of the plan. /
+To declare consequences. (any 2)							1m x 2	
+---------------------------------------------------
+
+
+[10283786]
+// Matching //
+(	For each conservation area in Hong Kong listed in column 1, select one or more suitable description(s) listed in column 2. Put the appropriate letter(s) in the space provided.											(4 marks)
+Column 1		Column 2	
+a	Country park	      	A	It is protected for its special collection of animals and plants, and/or special geographical and geological features.
+	
+b	Marine park	      	B	It is a piece of constructed wetland.
+	
+c	Ramsar site	      	C	It is recognized by international convention about its ecological value.
+	
+d	Site of Special Scientific Interest (SSSI)	      	D	Fung Yuen Valley is an example.
+	
+		E	It is carefully protected for nature conservation.	
+
+-- answer --
+a	E 														1m
+b	E														1m
+c	C, E														1m
+d	A, D, E													1m	
+---------------------------------------------------
+
+[10283788]
+// Reading comprehension // STSE connections //
+(*	Read the following article and answer the questions.
+	In India, the wolf population declined in the 19th century due to hunting. The wolf was listed as an endangered species in 1972. A law based on the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) was passed by the Indian government to protect the wolves. However, some local people do not want the wolves to be protected because recently the wolves appear in urban areas, attack their children and eat up their livestock.
+ 	
+a	The wolves normally live in the wild and feed on wild animals like rabbits. Scientists believed that the changes in the living habits of the wolves are caused by the urbanization of India. Explain how urbanization has led to these changes in the living habits of the wolves.				(2 marks)
+b	Give one example of how the wolves can be protected in India based on CITES.												(1 mark)
+c	Apart from legislation, state two other ways the Indian government can conserve the wolves.									(2 marks)
+-- answer --
+a	The habitats of the wolves have been destroyed due to urbanization. Therefore, the wolves appear in urban areas.								1m
+Food supply of the wolves has reduced due to habitat destruction. Therefore, they feed on the livestock.											1m
+b	The government can set up a licensing system for the trade and possession of specimens of wolves. (or other reasonable answers)					1m
+c	Set up conservation areas for the wolves. / Conserve the habitats of the wolves. 																1m 
+Educate the local people to conserve the wolves. 					1m
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10283793]
+// Cross-topic // Reading comprehension // STSE connections //
+(*	Read the following article and answer the questions.
+	In Hong Kong, liquefied petroleum gas (LPG) public light buses and taxis were introduced in 2000. It is one of the strategies for pollution control. Some other clean fuels are used in vehicles in foreign countries. For example, the seeds of the oilseed rape (油菜) are rich in oil. This oil can be extracted to produce biodiesel. Replacing fossil fuels with biodiesel may help lessen the problems caused by increasing carbon dioxide level in the atmosphere. 
+	
+a	Explain why biodiesel is more environmentally friendly than fossil fuels.															(1 mark)
+b	Explain why replacing fossil fuels with biodiesel may help lessen the problems caused by increasing carbon dioxide level in the atmosphere.															(1 mark)
+c	Describe the possible effects of an increase in carbon dioxide level in the atmosphere on the environment.							(2 marks)
+d	State two difficulties that may be faced by the government in encouraging the drivers to use these environmentally friendly fuels. 		(2 marks)
+-- answer --
+a	Biodiesel is renewable.									1m
+b	Less carbon dioxide is produced when we use biodiesel.			1m
+c	An increase in carbon dioxide level in the atmosphere may enhance the greenhouse effect / lead to global warming.						1m
+The increase in global temperature may speed up the melting of sea ice / lead to unusual weather patterns / lead to extinction of species. 			1m
+	(or other correct answrers)
+d	The drivers may not want to install a new engine. / 
+The environmentally friendly fuels may be more expensive than traditional fuels. / 
+The maintenance cost of the new engine may be more expensive. / 
+The power provided by the environmentally friendly fuels may not be as strong as traditional fuels. (any 2 or other reasonable answers)				1m x 2	
+---------------------------------------------------
+
+[10283814]
+// Cross-topic // Basic concepts //
+(	a	Pesticides are often used to control pests in agriculture. State two harmful effects of pesticides on the environment. 					(2 marks)
+b	Describe a method of pest control that can ensure sustainable development in agriculture.									 		(1 mark)
+
+-- answer --
+a	Stable and persistent chemicals in some pesticides may accumulate in the body tissues of organisms. The concentration of the chemicals increases up the food chain and may harm the consumers at higher trophic levels. 			1m
+The pesticides may kill non-target organisms / beneficial organisms.		1m
+b	Use of biological control agents to kill pests. / 
+Use of organic pesticides extracted from plants to kill pests.				1m	
+---------------------------------------------------
+
+[10283817]
+// Basic concepts //
+(	The Mai Po Inner Deep Bay area was listed as a Ramsar Site in 1995.
+	
+What are the criteria for listing an area as a Ramsar site?			(4 marks)
+
+-- answer --
+It is a particularly good representation of a natural or near-natural wetland.		1m
+It supports a great variety of rare, vulnerable, or endangered species of plants or animals.														1m
+It holds more than 20 000 waterbirds.									1m
+It holds more than 1% of the total population of a species of waterbird.			1m	
+---------------------------------------------------
+
+
+[10283818]
+// Basic concepts //
+(	Complete the following paragraph with suitable words.			(3 marks)
+Ecological a                      can be carried out in the habitats that have been degraded or destroyed by human activities. The woodlands on hillsides can be recovered by b                     , i.e. the planting of the trees. Apart from recover damaged hillside and reduce soil erosion, the trees can provide c                      for animals. 
+
+-- answer --
+a	restoration													1m
+b	afforestation												1m
+c	habitats													1m	
+---------------------------------------------------
+
+
+Structured questions
+
+[10283960]
+// Cross-topic // Data handling // High order thinking //
+(**Biofuels can be produced from some types of plants. They can be used as alternatives to fossil fuels. The table below shows the information about biofuels produced from three different crops.
+	Maize	Sugar cane	Switch grass	
+Efficiency of manufacture^	1.2	9.1	3.1	
+Carbon dioxide emission#
+(kg MJ-1)	83	8	-24	
+Percentage change in carbon dioxide emission if this fuel replaced fossil fuel (%)	-18	-26	-124	
+Volume of fuel produced per hectare of crop (dm3)	1510	5900	3850	
+Need of water	high	high	medium	
+Need of fertilizer	high	high	low	
+Need of pesticide	high	medium	low	
+	^Efficiency of manufacture = 
+	#Carbon dioxide emission
+	 = mass of carbon dioxide released to the atmosphere by the growth of the crop,
+   manufacture and use of the fuel per unit of energy provided by the fuel
+
+
+a	Which crop is the best source of biofuel? Based on the information
+provided, give three reasons to support your answer.			(4 marks)
+b	Suggest two advantages and two disadvantages of using biofuels over fossil fuels.												(4 marks)
+c	Nowadays, biofuels are more expensive than fossil fuels. Suggest one way to reduce the price of biofuels using genetic engineering. Explain your answer.												(2 marks)
+
+-- answer --
+a	Sugar cane												1m
+The efficiency of manufacture of the biofuel produced from sugar cane is the highest.													1m
+The volume of fuel produced per hectare of crop is the highest.			1m
+The carbon dioxide emission is the lowest.							1m
+(or other reasonable answers)
+b	Advantages:
+Biofuels are renewable.										1m
+Using biofuels to replace fossil fuels can reduce carbon dioxide emission.	1m
+Disadvantages:
+A large area of land has to be used for growing plants to produce biofuels. Changes in land use may lead to a decrease in biodiversity.				1m
+Fertilizers or pesticides used in the growing of plants may lead to pollution.	1m
+(or other reasonable answers)
+c	The crops used to produce biofuels can be genetically modified using recombinant DNA technology to increase their productivity.						1m
+As the productivity increases, the cost for growing the crops becomes lower. Thus, the price of biofuels can be reduced.								1m	
+---------------------------------------------------
+
+[10283965]
+// Cross-topic // Reading comprehension // High order thinking //
+(**Read the following paragraph and answer the questions.
+The Millennium Seed Bank Project (MSBP) is an international conservation project. Its aim is to conserve 25% of the world's wild plant species by storing their seeds by 2020. Seeds of each species are collected from different sites in the wild. They are then dried and stored at -20 (C. Samples of the seeds are taken from time to time for germination tests.	
+
+a	State four advantages of storing seeds over keeping plants to conserve plant species.												(4 marks)
+b	Suggest how the seeds can be used in the future.				(1 mark)
+c	Explain why the seeds of each species are collected from different sites in the wild.												(2 marks)
+d	Explain why samples of the seeds are taken from time to time for germination tests.										(2 marks)
+
+-- answer --
+a	Most plants produce seeds in excess. Collecting seeds from the wild will not damage the environment.										1m
+Seeds take up little space for storage.								1m
+Seeds are easy to transport.									1m
+Seeds are less likely to be affected by diseases or pests.				1m
+(or other reasonable answers)
+b	Seeds can be taken out and grown into new plants when certain plant species become endangered.											1m
+c	This is to ensure there is a greater genetic variation among the seeds of the same species.													1m
+This increases the chance of survival of the species when the environmental conditions change.											1m
+d	This is to assess the viability of the seeds.							1m
+New seeds can be collected from the wild when the percentage of seeds that germinate becomes too low.									1m	
+---------------------------------------------------
+
+
+[10283971]
+// Cross-topic // High order thinking // Applying concepts //
+(*	Musk deer live in forested highlands in Asia and Russia. The male deer are known for their production of musk, a wax-like substance useful in the making of perfumes and traditional medicines. Musk deer have been threatened by illegal hunting for their musk and habitat destruction. In some parts of China, the populations have become very small and widely separated. In an effort to save the musk deer, the animals are listed under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). Captive breeding, primarily for commercial musk production, have also been carried out in various places in China.
+
+
+Musk deer	
+
+a	How may very small and widely separated populations of musk deer affect the whole species of musk deer?							(4 marks)
+b	Suggest two reasons why musk deer should be saved.			(2 marks)
+c	Explain how listing musk deer under CITES can help the conservation of musk deer.											(2 marks)
+d	Give one benefit and one drawback of captive breeding of musk deer for commercial musk production to the conservation of musk deer.	(2 marks)
+
+
+
+-- answer --
+a	The chance of inbreeding of musk deer may increase.					1m
+	Inbreeding results in a loss of genetic diversity.						1m
+	The species becomes less adapted to changes in the environment.		1m
+	Isolated populations may also evolve independently by natural selection and 	become different species.										1m
+b	Every species is important in maintaining ecological balance. The loss of musk 		deer may affect the survival of other species.						1m
+	Every species has the right to live and share natural resources on earth. We have 	no right to destroy the environment to such an extent that musk deer become 	threatened.												1m
+	(or other reasonable answers)
+c	International trade of musk is banned / limited / carefully controlled.		1m
+	The market declines and the incentive to hunt musk deer is reduced.		1m
+d	Benefit:
+	Survival of the species is improved by providing protection from hunting or 	predation / a suitable environment / enough food / health surveillance / mates for 		breeding.													1m
+	Drawback:
+	Survival of the species is threatened by inbreeding / stress caused by captivity or 	collection of musk / transmission of diseases between individuals / a lack of 	survival skills.												1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10283991]
+// Cross-topic // High order thinking // Applying concepts //
+(**Reed beds which comprise a large number of densely-grown common reed grasses can function as natural wastewater treatment facilities. Common reed grasses are aquatic plants. Their roots grow in submerged soil, while the leaves, flowers and part of the stems grow out of water. Their tissues have air spaces that allow oxygen to travel from the leaves to the roots. As oxygen diffuses out of the roots to the soil, oxygen concentration gradients are set up over short distances. The localized aerobic and anaerobic conditions created favour the growth of many microorganisms which help break down organic waste in wastewater into nitrates and nitrogen gas, etc. The adequate supply of oxygen to the roots also increases the absorption of breakdown products into the plants for growth.
+
+In the Hong Kong Wetland Park, runoff from Tin Shui Wai is pumped through reed beds to reduce the amount of organic waste. The water leaving the reed beds is then used in freshwater habitats in the park.
+
+A reed bed in the Hong Kong Wetland Park	
+
+a	Explain why aerobic and anaerobic conditions are important in the breakdown of organic waste in wastewater into nitrates and nitrogen gas.															(3 marks)
+b	Why can an adequate supply of oxygen increase the absorption of breakdown products by the common reed grasses?			(2 marks)
+c	If runoff containing a high level of nitrates is used directly in the freshwater habitats in the Hong Kong Wetland Park, algal blooms may occur. Explain why algal blooms can result in the death of aquatic organisms in the freshwater habitats.										(2 marks)
+d	Suggest three advantages of using reed beds to treat wastewater in the Hong Kong Wetland Park.									(3 marks)
+
+
+-- answer --
+a	Decomposers need oxygen to convert nitrogen in the organic waste into 	ammonium compounds.									1m
+	Nitrifying bacteria need oxygen to convert the ammonium compounds into nitrites 	and then nitrates.										1m
+	Denitrifying bacteria convert nitrates into nitrogen gas under anaerobic conditions.														1m
+b	The supply of oxygen allows the root cells to carry out aerobic respiration to 	produce ATP											1m
+	for the active transport of certain breakdown products.				1m
+c	At night, the algae use up the oxygen in the water for respiration. The dissolved 	oxygen level of water becomes very low.						1m
+	As a result, aquatic organisms that require oxygen for respiration may die of 	suffocation.											1m
+	(or other correct answers)	
+d	Using reed beds is more cost effective than running a wastewater treatment plant./
+	The operation does not require electricity. /
+	Reed beds create habitats to increase biodiversity. /
+	Reed beds are pleasant to look at.
+	(any 3 or other reasonable answers)							1m ( 3	
+---------------------------------------------------
+
+
+[10283996]
+// Reading comprehension // Applying concepts //
+(*	Read the article below and answer the questions.
+
+The black-faced spoonbill feeds on fish and shrimps in shallow water, mainly in coastal areas. Taiwan and the Pearl River Delta region are its major wintering sites. About 20% of its population stays in Mai Po Inner Deep Bay in Hong Kong in winter every year.
+
+black-faced spoonbill
+Because of rapid industrialization and urbanization in the Pearl River Delta region, the population of the black-faced spoonbill dropped below 300 in 1990. The governments implemented a number of conservation measures to protect the black-faced spoonbill. In 2012, the population of the black-faced spoonbill rose to over 2600.	
+
+a	Mai Po Inner Deep Bay is listed as a Site of Special Scientific Interest (SSSI) and a Ramsar site. What are the implications of an area being listed as
+i	an SSSI?											(1 mark)
+ii	a Ramsar site?										(1 mark)
+b	Suggest a reason to explain why rapid industrialization and urbanization in the Pearl River Delta region led to a decline in the population of the black-faced spoonbill.									(2 marks)
+c	Apart from listing the habitats of the black-faced spoonbill as a conservation area, suggest two other measures to conserve the black-faced spoonbill.												(2 marks)
+d	Tin Shui Wai New Town was built on wetlands in the northwest of the New Territories. The Hong Kong Wetland Park was set up to compensate for the loss of wetlands. Describe how the Hong Kong Wetland Park serves the purpose of wetland conservation. 							(2 marks)
+
+
+
+-- answer --
+a	i	No new development is allowed within an SSSI. Consideration must be given 	to conservation when development near the site is proposed.		1m
+ii	The government has to implement conservation and management plans to monitor the site.											1m
+b		Wetlands were cleared in the Pearl River Delta region for industrialization and 	urbanization. 												1m
+	The population of the black-faced spoonbill decreased due to the loss of breeding grounds.													1m
+	(or other reasonable answers)
+c	Set up laws to reduce the sources of pollution in the Pearl River Delta region.																1m
+	List the black-faced spoonbill as a protected species by law.				1m
+	(or other reasonable answers)
+d	Artificial wetlands in the Hong Kong Wetland Park create new habitats for wildlife.																1m
+	The Hong Kong Wetland Park can educate the public about the importance of 	wetland conservation by demonstrating the biodiversity of Hong Kong's wetland 	ecosystem.												1m
+	(or other reasonable answers)	
+---------------------------------------------------
+
+[10283998]
+// Overseas exam question // Cross-topic // Reading comprehension //
+(*	Read the passage below and then use the information in the passage, and your own understanding, to answer the questions which follow.
+The barn owl, Tyto alba, is an instantly recognizable white owl and is characteristic of lowland mixed farmland where it feeds on small mammals found in rough grassland along field margins, roadways, riverbanks, woodland edges and around farm buildings. In Northern Ireland, its diet consists mainly of mice, shrews and young rats. It nests inside buildings, mature hollow trees and rock crevices. It will also use nest boxes. 
+The barn owl has been in serious decline across Britain and Ireland since the 1930s. It is thought that, in Northern Ireland, there has been a decline of 69% between 1932 and 1985. Today the Northern Ireland population is estimated to be between 45-65 pairs. The population remains fragile and fragmented.
+Factors which have caused the decline are fairly well understood: a reduction in the area of rough grassland, loss of hedgerows, more frequent periods of heavy or continuous rain and flooding, loss of suitable nest and roost sites, and widespread use of rodenticides. Other hazards include road deaths and drowning in farmland water troughs. In the latter case, the birds bathe to remove parasites but, if they fall in, their soft plumage waterlogs very quickly.	
+
+a	Explain why rodenticides, which are used to kill rats and mice, would prove lethal to barn owls.										(2 marks)
+b	Barn owls have difficulty hunting in periods of sustained wet weather. Suggest two reasons for this. 								(2 marks)
+c	A number of schemes have been designed to develop favourable conditions for the improvement in barn owl numbers. Suggest three strategies which would be beneficial to barn owls. 							(3 marks)
+d	With a small and fragmented population of barn owls in Northern Ireland, there is a danger of inbreeding which would result in a loss of genetic diversity. Explain why genetic diversity (variability) is important to populations. 											(2 marks)
+						CCEA GCE (AS) Biology Module 2 Jun 2011 Q6b-e
+
+
+
+-- answer --
+a	Barn owls feed on mice and rats. 							1m
+Since an owl feeds on many mice or rats, rodenticides which are persistent accumulate in the owl and kill it.  							1m
+b	Small mammals are not active in wet weather. /
+Small mammals may be killed in flooded conditions. /
+The visibility is reduced in wet weather. This makes hunting difficult. 
+(any 2 or other reasonable answers)							1m x 2
+c	Reward farmers for leaving field margins uncultivated. /
+Restore the hedgerows. /
+Provide supplementary feed to attract mice, shrews and rats. /
+Install nest boxes. /
+Encourage reduction in the use of rodenticides / the use of non-persistant rodenticides. (any 3 or other reasonable answers)				1m x 3
+d	Genetic diversity is important for the adaptation of the species to changes in the environment.											1m
+With genetic diversity, some individuals survive when the environment changes. This helps avoid extinction.									1m 	
+---------------------------------------------------
+
+[10284007]
+// Drawing // Schematic diagram // Basic concepts //
+(	a	Using the terms given below only, construct a flow chart to show how sewage is treated in a sewage treatment works.				(3 marks)
+digester		grit channels		primary sedimentation tank
+effluent		sludge			final sedimentation tank 
+aeration tank	untreated sewage 	partially treated liquid	
+
+b	Describe how the organic matter in the sewage is broken down
+i	in the aeration tank. 								(3 marks)
+ii	in the digester.										(2 marks)
+c	Name two products produced in the digester and state the fate of each of them.												(2 marks)
+
+-- answer --
+a	
+
+															3m
+b	i	Air (oxygen) is continuously pumped into the partially treated liquid.	1m
+This allows the microorganisms in the sewage to aerobically break down															1m
+the organic matter in sewage into inorganic compounds such as carbon dioxide and nitrates.										1m
+ii	The bacteria in the sludge anaerobically break down				1m
+the organic matter in the sludge to produce biogas. 				1m
+c	Biogas is used as a fuel to power the sewage treatment plant.			1m
+The sludge is dried and disposed of in landfills or transferred to sludge treatment facilities. 													1m	
+---------------------------------------------------
+
+[10284010]
+// High order thinking // Applying concepts //
+(*	Foam plastic is widely used in packaging and making disposable lunch boxes. However, it causes environmental problems upon disposal.
+a	Suggest two actions that can be taken by each of the following people to reduce the pollution problems caused by foam plastic. You may consider the 4 Rs principle - Reduce, Reuse, Recycle and Replace.
+i	Industry owners									(2 marks)
+ii	Restaurant owners									(2 marks)
+iii	The government									(2 marks)
+b	Suggest and explain two ways of conserving the environment as a  consumer.											(4 marks)
+
+
+
+
+-- answer --
+a	i	Avoid non-essential packaging. / 
+Use recycled foam plastic. /
+Replace foam plastic with biodegradable materials for packaging. 
+(any 2 or other reasonable answers)						1m x 2
+ii	Encourage the customers to bring their own containers.		1m
+Replace the foam plastic lunch boxes with those made of biodegradable materials.											1m
+(or other reasonable answers)
+iii	Educate the public on the problems caused by foam plastic. 	1m
+Encourage the industrial sectors to use biodegradable materials by providing subsidies.											1m
+(or other reasonable answers)
+b	Any two ways with explanation:								2m x 2
+Bring your own bag when shopping 
+to cut down the production of plastic waste. 
+Do not buy products with too much packaging 
+to cut down the production of solid waste. 
+Buy electrical appliances with high energy efficiency 
+to reduce pollution caused by power plants indirectly.
+Buy recycled products 
+to cut down the production of solid waste and save resources.
+(or other reasonable answers)	
+---------------------------------------------------
+
+[10284013]
+// Cross-topic // Reading comprehension // Applying concepts //
+(*	Read the following article and answer the questions.
+Overnight, the small island in the Pacific Ocean becomes famous. A new species of bird has just been discovered by a small team of scientists.
+The chief scientist, Dr Smith said, 'We are surprised as the bird is of great use in ecological research.' After five-day work, the team estimated that there are 500 of the birds. 'The birds lose their ability to fly as they are too heavy. They cannot be found elsewhere and no other birds are able to live on the island.' Dr Smith continued.
+The governor of the island thanked the team for their effort and announced a new development project. A large pier, roads and hotels will be built in five years. The people on the island welcome the project and look forward to more tourists visiting the rare birds.
+However, a local environmental group strongly recommends an immediate conservation programme to protect the birds. They worry that the birds will become extinct soon.	
+
+a	Suggest two possible reasons to explain why the birds can only be found on the island but not in any other places.						(2 marks)
+b	Explain why the environmental group worries that the birds will become extinct soon.											(3 marks)
+c	The environmental group strongly recommends an immediate conservation programme to protect the birds. State three reasons why the birds should be conserved.											(3 marks)
+
+-- answer --
+a	They may feed on food that is present only on the island. /
+They may face no / little competition on the island as no other birds are living in the same habitat. /
+Natural predators may not be present on the island. (any 2)			1m x 2
+b	The tourists coming to the island may disturb the birds. /
+Building of the pier, roads and hotels may destroy the birds' habitat. /
+The birds may catch diseases from the foreign animals brought to the island by the tourists. /
+Predators of the birds may be brought to the island by the tourists. /
+Pollution may harm the birds. (any 3)							1m x 3
+
+c	Economic reason: The birds may act as a source of resources, e.g. medicines. /
+Ecological reason: The birds feed on some organisms at lower trophic levels. The extinction of the birds disturbs ecological balance. /
+Aesthetic reason: People enjoy seeing the birds in their natural habitats. /
+Moral reason: The birds have their right to live. (any 3)				1m x 3	
+---------------------------------------------------
+
+[10284018]
+// Schematic diagram // Basic concepts //
+(*	The diagram below shows the various components of a sewage treatment plant.
+	
+a	What is the function of the primary sedimentation tank?		(1 mark)
+b	Why is air bubbled into the aeration tank? Explain briefly.		(3 marks)
+c	i	What is the function of the digester? 					(1 mark)
+ii	Name the two products produced in the digester and state the fate of each of them.										(4 marks)
+d	After the various treatment processes in the sewage treatment works, the effluent may still cause algal blooms. Explain why.			(1 mark)
+-- answer --
+a	It allows the suspended solids to settle to the bottom for collection.		1m
+b	To provide aerobic conditions, 									1m
+which allow microorganisms in the sewage 						1m
+to break down the organic pollutants into harmless inorganic compounds.	1m
+c	i	To allow the breakdown of organic matter in the sludge by anaerobic bacteria.												1m
+ii	Biogas												1m
+It is used as a fuel to power the sewage treatment plant.			1m
+Sludge												1m
+It is dried and disposed of in landfills or transferred to sludge treatment facilities.. 												1m
+d	The effluent has a high content of nitrates which provide nutrients for the growth of algae.														1m	
+---------------------------------------------------
+
+[10284019]
+// Reading comprehension // Applying concepts //
+(*	Read the following article and answer the questions.
+'Slash and burn' is one of the methods for people to clear the forest or grassland areas for agriculture and animal farming. Most of the plants in a selected area are cut down, dried and burnt. Crops are then grown on the fertile land. After a few years, the fertility of the soil drops and poor crop growth results. People then move to other areas and the process is repeated.
+'Slash and burn' is considered as destructive to the ecology. If only a small number of people using this method, there is sufficient time for the cleared land to recover. But with a larger population, the forest or grassland areas will be destroyed eventually. In modern agriculture, chemical fertilizers are often used to maintain soil fertility.	
+
+a	Why is the land obtained by 'slash and burn' fertile?			(2 marks)
+b	Explain why 'slash and burn' is considered as destructive to ecology.																(2 marks)
+c	State four advantages of conserving a forest ecosystem.		(4 marks)
+d	Apart from using chemical fertilizers, suggest two other methods to maintain soil fertility.									(2 marks)
+
+-- answer --
+a	Plants are rich in nitrogen and other elements.					1m
+Burning of the plants releases the nutrients to the soil.				1m
+b	Large areas of plants are burnt.								1m
+Habitats of organisms are destroyed.							1m
+c	Trees provide timber, which is a renewable resource. /
+Forest ecosystem provides habitats for the wildlife. /
+It maintains biodiversity. /
+It maintains food webs / chains / supplies food. /
+It reduces soil erosion. /
+It maintains the balance of carbon dioxide in the atmosphere. /
+Organisms in the forest may act as sources of food, medicines and energy.
+(any 4 or other reasonable answers)							1m x 4
+d	Practise crop rotation. / Grow different types of plants on the same piece of land in different growing seasons or different years. / 
+Grow leguminous plants. /
+Add compost to the soil. (any 2 or other reasonable answers)		1m x 2	
+---------------------------------------------------
