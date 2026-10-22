@@ -13,6 +13,41 @@ export async function chooseSaveLocation(title,format) {
  const descriptions={pdf:'PDF document',word:'Word document',json:'JSON backup'};
  return window.showSaveFilePicker({suggestedName:`${safeFilename(title)}.${extension}`,types:[{description:descriptions[format] || 'File',accept:{[extension==='pdf'?'application/pdf':extension==='docx'?'application/vnd.openxmlformats-officedocument.wordprocessingml.document':'application/json']:[`.${extension}`]}}]});
 }
+export async function exportSourcePdf({source,text,title,outputHandle=null}) {
+ const {PDFDocument,StandardFonts,rgb}=window.PDFLib;
+ const doc=await PDFDocument.create();
+ const font=await doc.embedFont(StandardFonts.Courier);
+ const heading=await doc.embedFont(StandardFonts.HelveticaBold);
+ const canvas=document.createElement('canvas'),ctx=canvas.getContext('2d');
+ const width=503,size=9,lineHeight=13;let page,y;
+ const newPage=()=>{page=doc.addPage([595.28,841.89]);y=786;};
+ const write=async(row)=>{
+  if(y<55)newPage();
+  if(!row.trim()){y-=7;return;}
+  try{font.encodeText(row);page.drawText(row,{x:46,y,size,font});}
+  catch{
+   canvas.width=1509;canvas.height=45;ctx.font='27px "Courier New", "Microsoft JhengHei", monospace';ctx.textBaseline='top';ctx.fillStyle='#000';ctx.fillText(row,0,0);
+   const image=await doc.embedPng(await (await fetch(canvas.toDataURL('image/png'))).arrayBuffer());
+   page.drawImage(image,{x:46,y:y-4,width:503,height:15});
+  }
+  y-=lineHeight;
+ };
+ const measure=row=>{try{return font.widthOfTextAtSize(row,size);}catch{ctx.font='27px "Courier New", "Microsoft JhengHei", monospace';return ctx.measureText(row).width/3;}};
+ newPage();
+ const label=String(source.name).replace(/[^\x20-\x7e]/g,'?');
+ page.drawText(label,{x:46,y,size:Math.min(15,503/Math.max(1,heading.widthOfTextAtSize(label,1))),font:heading});y-=24;
+ await write('Oxford question bank - text edition');
+ await write('Figures and original formatting are not included in this edition.');y-=10;
+ for(const line of String(text).replace(/\r/g,'').replace(/[\x00-\x08\x0b\x0c\x0e-\x1f]/g,'').split('\n')){
+  let expanded='';for(const ch of line)expanded+=ch==='\t'?' '.repeat(4-expanded.length%4):ch;
+  let row='';
+  for(const ch of expanded){if(row && measure(row+ch)>width){const split=row.lastIndexOf(' ');if(split>row.length/2){await write(row.slice(0,split));row=row.slice(split+1);}else{await write(row);row='';}}row+=ch;}
+  await write(row);
+ }
+ for(const [i,p] of doc.getPages().entries())p.drawText((i+1)+' / '+doc.getPageCount()+' | Oxford text edition',{x:46,y:28,size:8,font,color:rgb(.4,.4,.4)});
+ doc.setTitle(title);
+ await downloadBlob(new Blob([await doc.save()],{type:'application/pdf'}),safeFilename(title)+'.pdf',outputHandle);
+}
 export async function exportPaper({questions,sources,title='Biology practice paper',format='pdf',includeAnswers=false,outputHandle=null,onProgress=()=>{}}) {
  if(!questions.length) throw new Error('Select at least one question.');
  if(questions.length>100) throw new Error('Export up to 100 questions per paper.');
@@ -46,6 +81,7 @@ export async function exportPaper({questions,sources,title='Biology practice pap
     const image=await pdfDoc.embedPng(data);page.drawImage(image,{x:46,y:y-canvas.height/2+size*.2,width:500,height:canvas.height/2});y-=size*1.6;
    }
   };
+  const textBlock=async text=>{for(const row of String(text).replace(/\t/g,'    ').split(/\r?\n/)){if(row.trim())await richLine(row);else y-=7;}};
   newPage();await richLine(title,21,bold);y-=8;
   line(`${questions.length} questions | HKDSE Biology`,10);line('Name: __________________________   Date: __________________');y-=22;
   const imageBlock=async(source,segment)=>{
@@ -65,13 +101,14 @@ export async function exportPaper({questions,sources,title='Biology practice pap
    line(`Question ${i+1} | ${q.type} | ${q.code}`,10,bold);
    await richLine(q.topic,9);y-=4;
    for(const segment of q.segments) await imageBlock(sourceMap.get(q.sourceId),segment);
+   if(!q.segments.length)await textBlock(q.text);
    y-=20;
   }
   if(includeAnswers){newPage();line('Answer key and marking schemes',19,bold);y-=15;
    for(let i=0;i<questions.length;i++){const q=questions[i];if(y<130)newPage();line(`Question ${i+1} | ${q.code}`,10,bold);
     if(q.answer)line(`Correct answer: ${q.answer}`);
     else if(q.answerSegments.length) for(const segment of q.answerSegments)await imageBlock(sourceMap.get(q.sourceId),segment);
-    else line(q.answerText || 'No marking scheme is available in the source.');y-=15;
+    else await textBlock(q.answerText || 'No marking scheme is available in the source.');y-=15;
    }
   }
   for(const [i,p] of pdfDoc.getPages().entries())p.drawText(`${i+1} / ${pdfDoc.getPageCount()}    Biology Bank`,{x:46,y:28,size:8,font:regular,color:rgb(.4,.4,.4)});
@@ -89,13 +126,14 @@ export async function exportPaper({questions,sources,title='Biology practice pap
    const q=questions[i];onProgress(i,questions.length);
    children.push(new Paragraph({text:`Question ${i+1} | ${q.type} | ${q.code}`,heading:HeadingLevel.HEADING_2,keepNext:true}),new Paragraph({children:[new TextRun({text:q.topic,size:19,color:'555555'})],keepNext:true}));
    for(const segment of q.segments)await addImage(q,segment);
+   if(!q.segments.length)for(const text of q.text.split(/\r?\n/))children.push(new Paragraph({text,spacing:{after:80}}));
    children.push(new Paragraph(''));
   }
   if(includeAnswers){children.push(new Paragraph({children:[new PageBreak()]}),new Paragraph({text:'Answer key and marking schemes',heading:HeadingLevel.HEADING_1}));
    for(let i=0;i<questions.length;i++){const q=questions[i];children.push(new Paragraph({text:`Question ${i+1} | ${q.code}`,heading:HeadingLevel.HEADING_2,keepNext:true}));
     if(q.answer)children.push(new Paragraph(`Correct answer: ${q.answer}`));
     else if(q.answerSegments.length)for(const segment of q.answerSegments)await addImage(q,segment);
-    else children.push(new Paragraph(q.answerText || 'No marking scheme is available in the source.'));
+    else for(const text of (q.answerText || 'No marking scheme is available in the source.').split(/\r?\n/))children.push(new Paragraph(text));
    }
   }
   const doc=new Document({creator:'Biology Bank',title,styles:{default:{document:{run:{font:'Arial',size:22,color:'000000'}},title:{run:{color:'000000'}},heading1:{run:{color:'000000'}},heading2:{run:{color:'000000'}}}},sections:[{properties:{page:{size:{width:12240,height:15840},margin:{top:800,bottom:800,left:800,right:800}}},children}]});

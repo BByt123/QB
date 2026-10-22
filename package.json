@@ -7,10 +7,11 @@
     "dev": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
     "index": "node scripts/index-bank.mjs",
+    "index:oxford": "node scripts/index-oxford.mjs",
     "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
-    "test:browser": "node tests/browser.mjs && node tests/workspace-browser.mjs",
-    "check": "node --check app.mjs && node --check lib.mjs && node --check rendering.mjs && node --check exports.mjs && node --check preferences.mjs && node --check taxonomy.mjs && node --check scripts/index-bank.mjs && node --check scripts/import-oxford.mjs"
+    "test:browser": "node tests/browser.mjs && node tests/workspace-browser.mjs && node tests/publisher-browser.mjs",
+    "check": "node --check app.mjs && node --check lib.mjs && node --check rendering.mjs && node --check exports.mjs && node --check preferences.mjs && node --check taxonomy.mjs && node --check scripts/index-bank.mjs && node --check scripts/import-oxford.mjs && node --check scripts/index-oxford.mjs && node --check scripts/oxford-questions.mjs"
   },
   "engines": { "node": ">=20" }
 }

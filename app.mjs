@@ -1,6 +1,6 @@
 import {TYPES,escapeHtml as e,filterQuestions,sampleQuestions,scoreQuiz,validateBackup,restoreQuiz} from './lib.mjs';
 import {renderQuestion,sourcePage,sourcePageCount} from './rendering.mjs';
-import {exportPaper,downloadBlob,chooseSaveLocation} from './exports.mjs';
+import {exportPaper,exportSourcePdf,downloadBlob,chooseSaveLocation} from './exports.mjs';
 import {CHAPTERS,canonicalTopic,topicLabel,topicOrder} from './taxonomy.mjs';
 import {language,theme,setLanguage,applyTheme,localize,translate} from './preferences.mjs';
 
@@ -15,6 +15,7 @@ let selected=new Set();
 let filters={search:'',topic:'',type:'',publisher:'',sort:'topic'};
 let page=1,view='home',collectionId='',activeQuestion=null,quiz=null,exporting=false,libraryMode='questions';
 let documentState=null,documentToken=0;
+const sourcePdfBusy=new Set();
 let sourceFilters={search:'',topic:'',publisher:''};
 let toastTimer,searchTimer;
 let paperTitle='Biology practice paper',paperAnswers=false;
@@ -96,9 +97,24 @@ function matchingSources(search=filters.search){
 }
 function sourceCard(source){
  const downloadLabel=sourceDownloadLabel(source);
- return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button><a class="icon-button" href="${e(source.downloadPath || source.path)}" download title="${e(downloadLabel)}" aria-label="${e(downloadLabel)}">${icon('download')}</a></div></article>`;
+ return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${source.format==='word-text'?`<a class="icon-button" href="${e(source.downloadPath || source.path)}" download title="${e(downloadLabel)}" aria-label="${e(downloadLabel)}">${icon('download')}</a>`:''}</div></article>`;
 }
 function sourceDownloadLabel(source){return source.format==='word-text'?(source.name.endsWith('.docx')?'Download original Word file':'Download text file'):'Download source PDF';}
+function sourcePdfButton(source){
+ if(source.format!=='word-text')return `<a class="button secondary source-pdf" href="${e(source.path)}" download="${e(source.name)}" title="Download PDF" aria-label="Download PDF">${icon('file-down')}<span>Download PDF</span></a>`;
+ return `<button class="button secondary source-pdf" data-action="download-source-pdf" data-id="${e(source.id)}" ${sourcePdfBusy.has(source.id)?'disabled':''} title="Download PDF (text edition)" aria-label="Download PDF (text edition)">${icon('file-down')}<span>${sourcePdfBusy.has(source.id)?'Preparing PDF...':'Download PDF'}</span></button>`;
+}
+async function downloadSourcePdf(id){
+ const source=sourcesById.get(id);if(!source || sourcePdfBusy.has(id))return;
+ const title=source.name.replace(/\.docx?$/i,'')+' (text edition)';
+ const handlePromise=askSaveLocation?chooseSaveLocation(title,'pdf'):Promise.resolve(null);
+ sourcePdfBusy.add(id);document.querySelectorAll('[data-action="download-source-pdf"]').forEach(button=>{if(button.dataset.id===id){button.disabled=true;button.setAttribute('aria-busy','true');button.querySelector('span').textContent=translate('Preparing PDF...');}});
+ try{
+  const outputHandle=await handlePromise,response=await fetch(new URL(source.textPath,document.baseURI));if(!response.ok)throw Error('Document could not be loaded.');
+  await exportSourcePdf({source,text:await response.text(),title,outputHandle});toast('PDF document saved.');
+ }catch(error){if(error.name!=='AbortError'){console.error(error);toast(`Export failed: ${error.message}`);}}
+ finally{sourcePdfBusy.delete(id);document.querySelectorAll('[data-action="download-source-pdf"]').forEach(button=>{if(button.dataset.id===id){button.disabled=false;button.removeAttribute('aria-busy');button.querySelector('span').textContent=translate('Download PDF');}});}
+}
 function renderLibraryFiles(){
  const sources=matchingSources(),size=16,pages=Math.max(1,Math.ceil(sources.length/size));page=Math.min(page,pages);
  $('#results').innerHTML=`<div class="results-toolbar"><span><strong>${sources.length}</strong> documents</span><button class="text-button" data-action="clear-filters">Clear filters</button></div>${filters.publisher==='Oxford'?'<p class="source-note">Oxford documents include text previews and original Word downloads.</p>':''}<div class="file-list">${sources.slice((page-1)*size,page*size).map(sourceCard).join('')}</div>${sources.length?`<div class="pagination"><button class="button secondary" data-action="previous-page" ${page===1?'disabled':''}>${icon('chevron-left')}Previous</button><span>Page <strong>${page}</strong> of ${pages}</span><button class="button secondary" data-action="next-page" ${page===pages?'disabled':''}>Next${icon('chevron-right')}</button></div>`:'<div class="empty-history">No matching documents.</div>'}`;
@@ -142,6 +158,8 @@ async function showDocument(id,number=1,backQuestion=''){
  documentState={id,page:Math.max(1,Number(number) || 1),zoom:1,pages:source.pages || 1,backQuestion};
  openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span><a class="button secondary" download href="${e(source.downloadPath || source.path)}">${icon('download')}${e(translate(sourceDownloadLabel(source)))}</a></div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate('Text preview only. Diagrams are not included; the original files are preserved locally.'))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
  token=documentToken;
+ $('.document-actions').insertAdjacentHTML('beforeend',sourcePdfButton(source));
+ if(source.format!=='word-text')$('.document-actions>a:not(.source-pdf)').remove();
  icons();
  try{
   if(source.format==='word-text'){
@@ -185,9 +203,27 @@ function saveCollectionDialog(){
 }
 function quizConfig(){
  openModal(`${modalHeader('Create a practice quiz','A new set for your next study session.')}<form class="dialog-body" data-form="quiz"><fieldset><legend>Topics</legend><label class="checkbox-label"><input type="checkbox" id="quiz-all-topics" ${!filters.topic?'checked':''}> All topics</label><div class="quiz-topic-list">${topics().map(t=>`<label class="checkbox-label"><input type="checkbox" name="topics" value="${e(t)}" ${!filters.topic || filters.topic===t?'checked':''}>${e(t)}</label>`).join('')}</div></fieldset><div class="form-grid"><label>Question type<select name="type"><option value="">Mixed questions</option>${Object.entries(TYPES).map(([key,name])=>`<option value="${key}" ${filters.type===key?'selected':''}>${name}</option>`).join('')}</select></label><label>Number of questions<input name="count" type="number" min="1" max="50" value="10" required></label><label>Time limit (minutes)<input name="minutes" type="number" min="0" max="180" value="0" required></label><label>Question pool<select name="pool"><option value="all">Entire library</option><option value="saved">Saved questions</option>${selected.size?'<option value="selected">Selected questions</option>':''}${personal.collections.map(c=>`<option value="${e(c.id)}">${e(c.name)}</option>`).join('')}</select></label></div><p class="field-error" id="quiz-config-error" role="alert"></p><button class="button primary full" type="submit">${icon('play')}Start quiz</button></form>`,'quiz-config-dialog');
- const counts=new Map();bank.questions.forEach(q=>{const topic=effective(q).topic;counts.set(topic,(counts.get(topic) || 0)+1);});
- document.querySelectorAll('.quiz-topic-list label').forEach(label=>{const input=label.querySelector('input'),count=counts.get(input.value) || 0;input.disabled=!count;if(!count)input.checked=false;label.lastChild.textContent=`${topicLabel(input.value,language)} (${count})`;label.classList.toggle('unavailable',!count);});
+ const form=$('[data-form="quiz"]');
+ form.insertAdjacentHTML('afterbegin',`<label class="quiz-publisher-field"><span>Question bank</span><select id="quiz-publisher" name="publisher"><option value="">Oxford and Aristo</option>${['Oxford','Aristo'].map(p=>`<option value="${p}" ${filters.publisher===p?'selected':''}>${p}</option>`).join('')}</select></label><p class="quiet quiz-bank-note">Oxford quizzes use standalone text questions; questions needing missing figures are excluded.</p><p class="quiet quiz-available" id="quiz-available" role="status"></p>`);
+ updateQuizConfig();
  icons();
+}
+function quizPool(form){
+ const pool=form.elements.pool.value;
+ const ids=pool==='saved'?personal.bookmarks:pool==='selected'?[...selected]:personal.collections.find(c=>c.id===pool)?.ids;
+ return filterQuestions(bank.questions,{publisher:form.elements.publisher.value,type:form.elements.type.value,overrides:personal.overrides,collectionIds:ids || null});
+}
+function updateQuizConfig(){
+ const form=$('[data-form="quiz"]');if(!form)return;
+ const counts=new Map();quizPool(form).forEach(q=>{const topic=effective(q).topic;counts.set(topic,(counts.get(topic) || 0)+1);});
+ const inputs=[...form.querySelectorAll('[name="topics"]')],all=$('#quiz-all-topics'),selectAll=all.checked;
+ inputs.forEach(input=>{const count=counts.get(input.value) || 0;input.disabled=!count;if(!count)input.checked=false;else if(selectAll)input.checked=true;input.parentElement.lastChild.textContent=`${topicLabel(input.value,language)} (${count})`;input.parentElement.classList.toggle('unavailable',!count);});
+ const enabled=inputs.filter(input=>!input.disabled),checked=enabled.filter(input=>input.checked);
+ all.disabled=!enabled.length;all.checked=!!enabled.length && checked.length===enabled.length;all.indeterminate=!!checked.length && checked.length<enabled.length;
+ const count=checked.reduce((n,input)=>n+counts.get(input.value),0);
+ $('#quiz-available').textContent=translate(`${count} matching questions`);
+ form.querySelector('button[type="submit"]').disabled=!count;
+ $('#quiz-config-error').textContent='';
 }
 function quizQuestions(){return (quiz?.ids || []).map(id=>questionsById.get(id)).filter(Boolean).map(effective);}
 function updateAnswered(){
@@ -206,7 +242,7 @@ async function renderActiveQuiz(){
  const q=items[quiz.current];const result=scoreQuiz(items,quiz.responses);
  $('#main').innerHTML=`<section class="page-heading"><div><div class="eyebrow">${quiz.finished?'SESSION COMPLETE':'IN PRACTICE'}</div><h1>${quiz.finished?'Your quiz results':'Biology practice'}</h1><p>${items.length} questions · ${[...new Set(items.map(q=>q.topic))].length} topics</p></div><div class="heading-actions">${!quiz.finished && quiz.deadline?`<span class="timer">${icon('timer')}<span id="quiz-timer"></span></span>`:''}<button class="button ${quiz.finished?'secondary':'primary'}" data-action="${quiz.finished?'new-quiz':'finish-quiz'}">${icon(quiz.finished?'plus':'flag')}${quiz.finished?'New quiz':'Finish quiz'}</button></div></section>
  ${quiz.finished?`<section class="quiz-score"><div><strong>${result.percent===null?'Complete':result.percent+'%'}</strong><span>${result.total?'Multiple-choice score':'Written practice'}</span></div><div><strong>${result.correct} / ${result.total}</strong><span>Correct MC answers</span></div><div><strong>${result.answered} / ${result.count}</strong><span>Questions answered</span></div><button class="button secondary" data-action="quiz-to-paper">${icon('file-stack')}Add quiz to paper</button></section>`:''}
- <div class="quiz-workspace"><aside class="quiz-navigation"><h2>Questions</h2><div class="quiz-numbers">${items.map((item,i)=>`<button class="${i===quiz.current?'current':''} ${quiz.responses[item.id]?'answered':''} ${quiz.finished && item.answer?(quiz.responses[item.id]===item.answer?'correct':'incorrect'):''}" data-action="quiz-jump" data-index="${i}" aria-label="Question ${i+1}" ${i===quiz.current?'aria-current="step"':''}>${i+1}</button>`).join('')}</div><p class="quiet">${result.answered} of ${items.length} answered</p>${quiz.finished?'':'<button class="text-button danger-text" data-action="discard-quiz">Discard session</button>'}</aside><section class="quiz-question"><div class="quiz-question-heading"><span class="type-badge ${q.type.toLowerCase()}">${TYPES[q.type]}</span><span>Question ${quiz.current+1} of ${items.length}</span><span class="quiet">${e(q.code)}</span></div><div id="quiz-render" class="question-render"></div>${q.type==='MC'?`<fieldset class="answer-options"><legend>Your answer</legend>${['A','B','C','D'].map(letter=>`<label class="answer-option ${quiz.responses[q.id]===letter?'chosen':''} ${quiz.finished && q.answer===letter?'correct-option':''}"><input type="radio" name="quiz-answer" value="${letter}" ${quiz.responses[q.id]===letter?'checked':''} ${quiz.finished?'disabled':''}><span>${letter}</span>${quiz.finished && q.answer===letter?icon('check'):''}</label>`).join('')}</fieldset>`:`<label class="written-answer">Your answer<textarea id="written-answer" rows="6" placeholder="Write your response..." ${quiz.finished?'readonly':''}>${e(quiz.responses[q.id] || '')}</textarea></label>`}${quiz.finished?`<div class="quiz-review"><h3>${q.type==='MC'?(q.answer?`Correct answer: ${q.answer}`:'Answer key'):'Marking scheme'}</h3>${q.type!=='MC'?'<p class="quiet">Written answers are self-assessed against the marking scheme.</p>':''}<div id="quiz-answer-render" class="question-render"></div></div>`:''}<div class="quiz-question-footer"><button class="button secondary" data-action="quiz-prev" ${quiz.current===0?'disabled':''}>${icon('chevron-left')}Previous</button><button class="button secondary" data-action="quiz-next" ${quiz.current===items.length-1?'disabled':''}>Next${icon('chevron-right')}</button></div></section></div>`;
+ <div class="quiz-workspace"><aside class="quiz-navigation"><h2>Questions</h2><div class="quiz-numbers">${items.map((item,i)=>`<button class="${i===quiz.current?'current':''} ${quiz.responses[item.id]?'answered':''} ${quiz.finished && item.answer?(quiz.responses[item.id]===item.answer?'correct':'incorrect'):''}" data-action="quiz-jump" data-index="${i}" aria-label="Question ${i+1}" ${i===quiz.current?'aria-current="step"':''}>${i+1}</button>`).join('')}</div><p class="quiet">${result.answered} of ${items.length} answered</p>${quiz.finished?'':'<button class="text-button danger-text" data-action="discard-quiz">Discard session</button>'}</aside><section class="quiz-question"><div class="quiz-question-heading"><span class="type-badge ${q.type.toLowerCase()}">${TYPES[q.type]}</span><span>Question ${quiz.current+1} of ${items.length}</span><span class="quiz-publisher">${e(q.publisher)}</span><span class="quiet">${e(q.code)}</span></div><div id="quiz-render" class="question-render"></div>${q.type==='MC'?`<fieldset class="answer-options"><legend>Your answer</legend>${['A','B','C','D'].map(letter=>`<label class="answer-option ${quiz.responses[q.id]===letter?'chosen':''} ${quiz.finished && q.answer===letter?'correct-option':''}"><input type="radio" name="quiz-answer" value="${letter}" ${quiz.responses[q.id]===letter?'checked':''} ${quiz.finished?'disabled':''}><span>${letter}</span>${quiz.finished && q.answer===letter?icon('check'):''}</label>`).join('')}</fieldset>`:`<label class="written-answer">Your answer<textarea id="written-answer" rows="6" placeholder="Write your response..." ${quiz.finished?'readonly':''}>${e(quiz.responses[q.id] || '')}</textarea></label>`}${quiz.finished?`<div class="quiz-review"><h3>${q.type==='MC'?(q.answer?`Correct answer: ${q.answer}`:'Answer key'):'Marking scheme'}</h3>${q.type!=='MC'?'<p class="quiet">Written answers are self-assessed against the marking scheme.</p>':''}<div id="quiz-answer-render" class="question-render"></div></div>`:''}<div class="quiz-question-footer"><button class="button secondary" data-action="quiz-prev" ${quiz.current===0?'disabled':''}>${icon('chevron-left')}Previous</button><button class="button secondary" data-action="quiz-next" ${quiz.current===items.length-1?'disabled':''}>Next${icon('chevron-right')}</button></div></section></div>`;
  icons();updateTimer();
  renderQuestion($('#quiz-render'),q,sourcesById.get(q.sourceId));
  if(quiz.finished)renderQuestion($('#quiz-answer-render'),q,sourcesById.get(q.sourceId),true);
@@ -262,6 +298,7 @@ document.addEventListener('click',async event=>{
  else if(action==='browse-oxford'){libraryMode='files';filters={search:'',topic:'',type:'',publisher:'Oxford',sort:'topic'};navigate('library');}
  else if(action==='library-mode'){libraryMode=button.dataset.mode;page=1;renderLibrary();icons();}
  else if(action==='view-source')showDocument(id,button.dataset.page,button.dataset.backQuestion);
+ else if(action==='download-source-pdf')await downloadSourcePdf(id);
  else if(action==='back-to-question')showQuestion(documentState.backQuestion);
  else if(action==='retry-document'){if(sourcesById.get(documentState.id).format==='word-text')showDocument(documentState.id,1,documentState.backQuestion);else renderDocumentPage();}
  else if(action==='document-prev' || action==='document-next'){documentState.page+=action==='document-next'?1:-1;renderDocumentPage();}
@@ -323,11 +360,12 @@ document.addEventListener('change',async event=>{
  else if(['source-topic','source-publisher'].includes(target.id)){sourceFilters[target.id==='source-topic'?'topic':'publisher']=target.value;renderSourceResults(sourceFilters.search);}
  else if(target.id==='include-answers')paperAnswers=target.checked;
  else if(target.id==='ask-save-location'){askSaveLocation=target.checked;try{localStorage.setItem('biology-ask-save-location',String(askSaveLocation));}catch{}}
- else if(['topic-filter','publisher-filter','sort'].includes(target.id)){filters[{'topic-filter':'topic','publisher-filter':'publisher',sort:'sort'}[target.id]]=target.value;page=1;if(view==='library' && target.id==='publisher-filter' && target.value==='Oxford'){libraryMode='files';renderLibrary();icons();}else renderResults();}
+ else if(['topic-filter','publisher-filter','sort'].includes(target.id)){filters[{'topic-filter':'topic','publisher-filter':'publisher',sort:'sort'}[target.id]]=target.value;page=1;renderResults();}
  else if(target.dataset.select){target.checked?selected.add(target.dataset.select):selected.delete(target.dataset.select);save();renderPaper();renderResults();}
  else if(target.id==='select-page'){getFiltered().slice((page-1)*12,page*12).forEach(q=>target.checked?selected.add(q.id):selected.delete(q.id));save();renderPaper();renderResults();}
- else if(target.id==='quiz-all-topics')document.querySelectorAll('[name="topics"]:not(:disabled)').forEach(c=>c.checked=target.checked);
- else if(target.name==='topics')$('#quiz-all-topics').checked=[...document.querySelectorAll('[name="topics"]:not(:disabled)')].every(c=>c.checked);
+ else if(target.closest('[data-form="quiz"]') && ['publisher','type','pool'].includes(target.name))updateQuizConfig();
+ else if(target.id==='quiz-all-topics'){document.querySelectorAll('[name="topics"]:not(:disabled)').forEach(c=>c.checked=target.checked);updateQuizConfig();}
+ else if(target.name==='topics'){$('#quiz-all-topics').checked=false;updateQuizConfig();}
  else if(target.name==='quiz-answer' && quiz && !quiz.finished){quiz.responses[quizQuestions()[quiz.current].id]=target.value;saveQuiz();document.querySelectorAll('.answer-option').forEach(label=>label.classList.toggle('chosen',label.querySelector('input').checked));updateAnswered();}
  else if(target.id==='import-backup'){
   try{const file=target.files[0];if(!file)return;if(file.size>5*1024*1024)throw new Error('Backup must be smaller than 5 MB.');const restored=validateBackup(JSON.parse(await file.text()),bank.questions.map(q=>q.id));personal={...restored,bookmarks:[...new Set([...personal.bookmarks,...restored.bookmarks])],collections:[...personal.collections.filter(c=>!restored.collections.some(r=>r.id===c.id)),...restored.collections],overrides:{...personal.overrides,...restored.overrides}};save();shell();toast('Backup imported.');}catch(error){toast(error.message);}target.value='';
@@ -345,10 +383,9 @@ document.addEventListener('submit',event=>{
  } else if(form.dataset.form==='organize'){
   personal.overrides[activeQuestion]={topic:data.get('topic').trim(),type:data.get('type'),tags:data.get('tags').trim()};save();showQuestion(activeQuestion);if(['library','saved','collection'].includes(view))renderLibrary();icons();toast('Question category updated.');
  } else if(form.dataset.form==='quiz'){
-  const selectedTopics=data.getAll('topics');const count=Number(data.get('count'));const minutes=Number(data.get('minutes'));const pool=data.get('pool');
+  const selectedTopics=data.getAll('topics');const count=Number(data.get('count'));const minutes=Number(data.get('minutes'));
   if(!selectedTopics.length){$('#quiz-config-error').textContent='Choose at least one topic.';return;}
-  const ids=pool==='saved'?personal.bookmarks:pool==='selected'?[...selected]:personal.collections.find(c=>c.id===pool)?.ids;
-  const candidates=filterQuestions(bank.questions,{type:data.get('type'),overrides:personal.overrides,collectionIds:ids || null}).filter(q=>selectedTopics.includes(effective(q).topic));
+  const candidates=quizPool(form).filter(q=>selectedTopics.includes(effective(q).topic));
   if(!candidates.length){$('#quiz-config-error').textContent='No questions match this topic, type and question pool.';return;}
   const items=sampleQuestions(candidates,count);
   quiz={ids:items.map(q=>q.id),responses:{},current:0,started:new Date().toISOString(),deadline:minutes?Date.now()+minutes*60000:null,finished:false};saveQuiz();$('#dialog').close();navigate('quiz');if(view==='quiz')renderActiveQuiz();if(items.length<count)toast(`Started with ${items.length} available questions.`);
@@ -364,6 +401,8 @@ async function start(){
   const response=await fetch(new URL('bank/index.json',document.baseURI));if(!response.ok)throw new Error('Question index is unavailable.');bank=await response.json();
   const oxfordResponse=await fetch(new URL('bank/oxford/catalog.json',document.baseURI));if(!oxfordResponse.ok)throw new Error('Oxford catalog is unavailable.');
   const oxford=await oxfordResponse.json();bank.sources=[...oxford.sources,...bank.sources.filter(s=>s.publisher!=='Oxford')];
+  const quizResponse=await fetch(new URL(oxford.quizPath,document.baseURI));if(!quizResponse.ok)throw new Error('Oxford question index is unavailable.');
+  const oxfordQuiz=await quizResponse.json();bank.questions=[...bank.questions.filter(q=>q.publisher!=='Oxford'),...oxfordQuiz.questions];
   bank.questions.forEach(q=>{q.sourceTopic=q.topic;q.topic=canonicalTopic(q.topic);});bank.sources.forEach(s=>{if(s.publisher!=='Oxford')s.topic=canonicalTopic(s.topic);});
   bank.topics=CHAPTERS.map(c=>c.topic);
   questionsById=new Map(bank.questions.map(q=>[q.id,q]));sourcesById=new Map(bank.sources.map(s=>[s.id,s]));

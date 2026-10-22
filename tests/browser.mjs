@@ -89,6 +89,7 @@ try {
  }
  await action('clear-filters').click();
  await action('quiz-config').click();
+ await page.locator('#quiz-publisher').selectOption('Aristo');
  await page.locator('[data-form="quiz"] [name="type"]').selectOption('MC');
  await page.locator('[data-form="quiz"] [name="count"]').fill('3');
  await page.locator('[data-form="quiz"] button[type="submit"]').click();
@@ -109,6 +110,7 @@ try {
  assert.equal(await page.locator('[name="quiz-answer"]:disabled').count(),4);
  await page.screenshot({path:'test-results/quiz.png'});
  await action('new-quiz').click();
+ await page.locator('#quiz-publisher').selectOption('Aristo');
  await page.locator('#quiz-all-topics').uncheck();
  await page.locator('[name="topics"]').first().check();
  const quizTopic=await page.locator('[name="topics"]').first().getAttribute('value');
@@ -136,6 +138,7 @@ try {
  assert.equal(await page.evaluate(()=>location.hash),'#settings','Skip link keeps current view');
  assert.equal(await page.evaluate(()=>document.activeElement.id),'main');
  await page.locator('#import-backup').setInputFiles({name:'invalid.json',mimeType:'application/json',buffer:Buffer.from('{}')});
+ await page.waitForFunction(()=>document.querySelector('#toast').textContent.includes('not a valid'));
  assert.match(await page.locator('#toast').textContent(),/not a valid/);
  await action('reset-data').click();await action('confirm-reset').click();
  await page.locator('#import-backup').setInputFiles('test-results/backup.json');
@@ -146,6 +149,7 @@ try {
  assert.equal(await page.locator('.file-item').count(),1);
  assert.ok((await page.locator('.file-item a[download]').getAttribute('href')).startsWith('bank/sources/'));
  await navigate('library');
+ await page.locator('#publisher-filter').selectOption('Aristo');
  await page.locator('[data-select]').first().check();
  await page.evaluate(()=>{window.showSaveFilePicker=async options=>{window.pickerOptions=options;return {createWritable:async()=>({write:async blob=>{window.savedPaperBytes=blob.size;},close:async()=>{window.savedPaperClosed=true;}})};};});
  await page.locator('#ask-save-location').check();

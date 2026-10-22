@@ -44,6 +44,7 @@ try{
  assert.match(await page.locator('#document-content').innerText(),/Evolution II/);
  assert.match(await page.locator('.preview-notice').textContent(),/文字預覽/);
  assert.match(await page.locator('.document-actions a').getAttribute('href'),/\.txt$/);
+ assert.equal(await page.locator('.document-actions [data-action="download-source-pdf"]').count(),1);
  await page.screenshot({path:'test-results/oxford-document.png'});
  await page.keyboard.press('Escape');
  await page.locator('#topic-filter').selectOption('');
