@@ -4,6 +4,7 @@ import {createHash} from 'node:crypto';
 import {createRequire} from 'node:module';
 import {CHAPTERS,chapterTopic} from '../taxonomy.mjs';
 import {indexOxford} from './index-oxford.mjs';
+import {prepareOxfordWord} from './prepare-oxford-word.mjs';
 const require=createRequire(import.meta.url);
 const WordExtractor=require('./vendor/word-extractor/word-ole-extractor.js');
 const FileReader=require('./vendor/word-extractor/file-reader.js');
@@ -43,4 +44,5 @@ for(const file of files){
 }
 await fs.writeFile(`${output}/catalog.json`,JSON.stringify({sources,chapters:CHAPTERS}));
 await indexOxford();
+await prepareOxfordWord({resourceRoot:root});
 console.log(`Imported ${sources.length} unique Oxford documents. Text previews and downloads; original DOCX updates included. Legacy Word diagrams remain in local originals.`);

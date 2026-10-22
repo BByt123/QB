@@ -26,6 +26,10 @@ test('Oxford catalog contains every unique source and all core and elective chap
   assert.equal(JSON.parse(fs.readFileSync(new URL('../'+source.path,import.meta.url))).textPath,source.textPath);
   assert.equal(source.questionCount,indexed.filter(q=>q.sourceId===source.id).length);
   assert.ok(fs.existsSync(new URL('../'+source.downloadPath,import.meta.url)),source.name);
+  assert.match(source.downloadPath,/\.docx$/);
+  assert.match(source.downloadName,/\.docx$/);
+  assert.equal(source.wordEdition,source.name.endsWith('.docx')?'original':'text');
+  assert.equal(fs.readFileSync(new URL('../'+source.downloadPath,import.meta.url)).subarray(0,2).toString(),'PK');
  }
 });
 test('Oxford quiz index has keyed, separate questions with valid chapters and no missing-figure references',()=>{

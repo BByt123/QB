@@ -96,10 +96,13 @@ function matchingSources(search=filters.search){
  return bank.sources.filter(s=>(!filters.topic || s.topic===filters.topic || s.topics?.includes(filters.topic)) && (!filters.publisher || filters.publisher===s.publisher) && terms.every(term=>`${s.name} ${s.title || ''} ${s.publisher} ${s.topic} ${topicLabel(s.topic,'zh')}`.toLocaleLowerCase().includes(term))).sort((a,b)=>topicOrder(a.topic)-topicOrder(b.topic) || a.name.localeCompare(b.name,undefined,{numeric:true}));
 }
 function sourceCard(source){
- const downloadLabel=sourceDownloadLabel(source);
- return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${source.format==='word-text'?`<a class="icon-button" href="${e(source.downloadPath || source.path)}" download title="${e(downloadLabel)}" aria-label="${e(downloadLabel)}">${icon('download')}</a>`:''}</div></article>`;
+ return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${sourceWordButton(source)}</div></article>`;
 }
-function sourceDownloadLabel(source){return source.format==='word-text'?(source.name.endsWith('.docx')?'Download original Word file':'Download text file'):'Download source PDF';}
+function sourceWordButton(source){
+ if(source.format!=='word-text' || !/\.docx$/i.test(source.downloadPath || ''))return '';
+ const label=source.wordEdition==='text'?'Download Word (text edition)':'Download Word (.docx)';
+ return `<a class="button secondary source-word" href="${e(source.downloadPath)}" download="${e(source.downloadName || source.name)}" title="${e(label)}" aria-label="${e(label)}">${icon('file-down')}<span>${e(label)}</span></a>`;
+}
 function sourcePdfButton(source){
  if(source.format!=='word-text')return `<a class="button secondary source-pdf" href="${e(source.path)}" download="${e(source.name)}" title="Download PDF" aria-label="Download PDF">${icon('file-down')}<span>Download PDF</span></a>`;
  return `<button class="button secondary source-pdf" data-action="download-source-pdf" data-id="${e(source.id)}" ${sourcePdfBusy.has(source.id)?'disabled':''} title="Download PDF (text edition)" aria-label="Download PDF (text edition)">${icon('file-down')}<span>${sourcePdfBusy.has(source.id)?'Preparing PDF...':'Download PDF'}</span></button>`;
@@ -156,10 +159,9 @@ async function showDocument(id,number=1,backQuestion=''){
  const source=sourcesById.get(id);if(!source)return;
  let token;
  documentState={id,page:Math.max(1,Number(number) || 1),zoom:1,pages:source.pages || 1,backQuestion};
- openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span><a class="button secondary" download href="${e(source.downloadPath || source.path)}">${icon('download')}${e(translate(sourceDownloadLabel(source)))}</a></div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate('Text preview only. Diagrams are not included; the original files are preserved locally.'))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
+ openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span>${sourceWordButton(source)}</div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate('Text preview only. Diagrams are not included. Word downloads are labelled as original files or text editions.'))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
  token=documentToken;
  $('.document-actions').insertAdjacentHTML('beforeend',sourcePdfButton(source));
- if(source.format!=='word-text')$('.document-actions>a:not(.source-pdf)').remove();
  icons();
  try{
   if(source.format==='word-text'){
@@ -167,9 +169,9 @@ async function showDocument(id,number=1,backQuestion=''){
    const text=source.textPath?await response.text():(await response.json()).text;
    if(token!==documentToken || !$('#document-content'))return;
    const sections=text.split(/\n\s*-{8,}\s*\n/);
-   const fragment=document.createDocumentFragment();
-   sections.forEach(text=>{const pre=document.createElement('pre');pre.className='document-text';pre.textContent=text.trim();fragment.append(pre);});
-   $('#document-content').replaceChildren(fragment);
+   const preview=document.createElement('div');preview.className='document-word-preview';
+   sections.forEach(text=>{const sheet=document.createElement('article');sheet.className='document-word-sheet';const body=document.createElement('pre');body.className='document-text';body.textContent=text.trim();sheet.append(body);preview.append(sheet);});
+   $('#document-content').replaceChildren(preview);
   }else{
    const pages=await sourcePageCount(source);if(token!==documentToken)return;
    documentState.pages=pages;documentState.page=Math.min(documentState.page,pages);
