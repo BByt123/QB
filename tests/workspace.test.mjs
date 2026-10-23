@@ -15,9 +15,13 @@ test('Oxford chapter order matches source headings and keeps custom topics',()=>
 });
 test('Oxford catalog contains every unique source and all core and elective chapters',()=>{
  const catalog=JSON.parse(fs.readFileSync(new URL('../bank/oxford/catalog.json',import.meta.url)));
+ const manifest=JSON.parse(fs.readFileSync(new URL('../bank/oxford/conversion-manifest.json',import.meta.url)));
  assert.equal(catalog.sources.length,46);
  assert.equal(new Set(catalog.sources.map(s=>s.id)).size,46);
- assert.equal(catalog.sources.filter(s=>s.original.endsWith('.docx')).length,5);
+ assert.equal(Object.keys(manifest.converted).length,47);
+ assert.ok(Object.values(manifest.converted).every(entry=>/^[a-f0-9]{64}$/.test(entry.sourceHash) && /^[a-f0-9]{64}$/.test(entry.docxHash)));
+ assert.equal(catalog.sources.filter(s=>s.wordEdition==='original').length,5);
+ assert.equal(catalog.sources.filter(s=>s.wordEdition==='text').length,41);
  const indexed=JSON.parse(fs.readFileSync(new URL('../'+catalog.quizPath,import.meta.url))).questions;
  for(const chapter of CHAPTERS)assert.ok(catalog.sources.some(s=>s.topic===chapter.topic),chapter.id);
  for(const source of catalog.sources){
@@ -29,9 +33,15 @@ test('Oxford catalog contains every unique source and all core and elective chap
   assert.match(source.downloadPath,/\.docx$/);
   assert.match(source.downloadName,/\.docx$/);
   assert.match(source.name,/\.docx$/);
-  assert.equal(source.wordEdition,source.original.endsWith('.docx')?'original':'text');
+  assert.ok(source.original.endsWith('.docx'));
+  const conversion=manifest.converted[source.original];
+  assert.equal(source.wordEdition,conversion?'text':'original');
+  const illustratedBook=catalog.sources.find(book=>book.wordEdition==='original' && book.topics?.includes(source.topic));
+  assert.equal(source.illustratedDocumentId,illustratedBook?.id);
+  if(conversion)assert.equal(source.id,`oxford-${conversion.sourceHash.slice(0,16)}`);
   assert.equal(fs.readFileSync(new URL('../'+source.downloadPath,import.meta.url)).subarray(0,2).toString(),'PK');
  }
+ assert.equal(catalog.sources.filter(source=>source.illustratedDocumentId).length,29);
 });
 test('Oxford quiz index has keyed, separate questions with valid chapters and no missing-figure references',()=>{
  const catalog=JSON.parse(fs.readFileSync(new URL('../bank/oxford/catalog.json',import.meta.url)));

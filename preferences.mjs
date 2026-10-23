@@ -1,4 +1,5 @@
 const dictionary={
+ 'Read complete book':'閱讀完整題庫','Download full DOCX with images':'下載含圖片的完整 DOCX','View complete illustrated book':'查看含圖片的完整題庫','Illustrated full book':'含圖片的完整題庫',
  'Home':'首頁','Workspace':'工作區','Biology Bank':'生物題庫','DSE Study Library':'DSE 學習題庫','HKDSE Biology':'香港中學文憑試生物科',
  'Question library':'題目庫','Your biology question bank':'題目庫','Saved questions':'已儲存題目','Practice quizzes':'練習測驗','Source documents':'原始文件','Settings':'設定','Settings & backup':'設定與備份','Collections':'收藏集','Collection':'收藏集','New collection':'新增收藏集','No collections yet':'尚未有收藏集','Library ready':'題庫已就緒','Saved on this device':'已儲存於此裝置','Open navigation':'開啟導覽','Close dialog':'關閉視窗','Main navigation':'主要導覽','Skip to content':'跳至主要內容',
  'Language':'語言','Appearance':'外觀','Light':'淺色','Dark':'深色','System':'跟隨系統','Display preferences':'顯示偏好','English':'English','Traditional Chinese':'繁體中文','Question text stays in its original language.':'題目內容保留原有語言。',

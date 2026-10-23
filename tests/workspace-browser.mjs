@@ -23,6 +23,11 @@ try{
  assert.equal(await page.locator('.hub-tile').count(),4);
  await imageCheck('.home-library img');
  await page.screenshot({path:'test-results/home-light.png',fullPage:true});
+ assert.match(await page.locator('.book-item').nth(1).textContent(),/Illustrated full book/);
+ await page.locator('.book-item').nth(1).click();
+ await page.locator('.word-image').first().scrollIntoViewIfNeeded();
+ await imageCheck('.word-image');
+ await page.keyboard.press('Escape');
  await page.locator('#language-select').selectOption('zh');
  await page.getByRole('heading',{name:'學習工作區',exact:true}).waitFor();
  assert.equal(await page.locator('html').getAttribute('lang'),'zh-Hant');
@@ -44,9 +49,10 @@ try{
  assert.match(await page.locator('#document-content').innerText(),/Evolution II/);
  assert.ok(await page.locator('.document-word-sheet').count()>0);
  assert.ok(await page.locator('.document-word-sheet').first().evaluate(el=>getComputedStyle(el).backgroundColor==='rgb(255, 255, 255)'));
- assert.match(await page.locator('.preview-notice').textContent(),/文字版預覽/);
+ assert.match(await page.locator('.preview-notice').textContent(),/表格及圖片/);
  assert.match(await page.locator('.document-actions .source-word').getAttribute('href'),/\.docx$/);
- assert.match(await page.locator('.document-actions .source-word').textContent(),/文字版/);
+ assert.match(await page.locator('.document-actions .source-word').textContent(),/含圖片/);
+ assert.ok(await page.locator('.word-image').count()>0);
  assert.equal(await page.locator('.document-actions [data-action="download-source-pdf"]').count(),1);
  await page.screenshot({path:'test-results/oxford-document.png'});
  await page.setViewportSize({width:375,height:844});
@@ -91,6 +97,18 @@ try{
  await page.locator('.question-preview').click();await imageCheck('#question-render .question-image:first-child');
  await action('view-source').click();await imageCheck('.document-page-image');
  await action('back-to-question').click();await imageCheck('#question-render .question-image:first-child');
+ await page.keyboard.press('Escape');
+ await page.locator('#publisher-filter').selectOption('Oxford');
+ await page.locator('#search').fill('');
+ await page.locator('#topic-filter').selectOption({index:2});
+ await page.waitForFunction(()=>document.querySelectorAll('.question-card').length>0);
+ await page.locator('.question-preview').first().click();
+ await page.locator('.question-dialog-meta [data-action="view-source"]').click();
+ await page.locator('.word-image').first().scrollIntoViewIfNeeded();
+ await page.waitForFunction(()=>[...document.querySelectorAll('.word-image')].some(image=>image.complete && image.naturalWidth>0));
+ assert.equal(await page.locator('.document-word-preview').getAttribute('data-edition'),'original');
+ await action('back-to-question').click();
+ assert.equal(await page.locator('.question-dialog-meta [data-action="view-source"]').count(),1);
  await page.keyboard.press('Escape');
  for(const width of [320,375,390,768,1024,1440]){
   await page.setViewportSize({width,height:900});

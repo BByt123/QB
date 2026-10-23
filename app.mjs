@@ -56,7 +56,13 @@ function shell(){
   <div class="nav-label collection-label">COLLECTIONS ${iconButton('new-collection','plus','New collection')}</div><div id="collection-nav">${personal.collections.length?personal.collections.map(c=>`<button class="nav-item ${view==='collection' && collectionId===c.id?'active':''}" data-action="open-collection" data-id="${e(c.id)}">${icon('folder')}<span>${e(c.name)}</span><span class="nav-count">${c.ids.length}</span></button>`).join(''):'<p class="sidebar-empty">No collections yet</p>'}</div>
   <div class="sidebar-bottom"><div class="library-status">${icon('hard-drive')}<span>Saved on this device</span></div>${navButton('settings','Settings & backup','settings-2')}</div>
  </aside><div class="workspace"><header class="topbar"><div class="breadcrumb">${iconButton('toggle-nav','menu','Open navigation')}<span>Workspace</span>${icon('chevron-right')}<strong>${view==='home'?'Home':view==='quiz'?'Practice quizzes':view==='sources'?'Source documents':view==='settings'?'Settings':view==='saved'?'Saved questions':view==='collection'?'Collections':'Question library'}</strong></div><div class="topbar-end"><label class="preference-control">${icon('languages')}<span class="sr-only">Language</span><select id="language-select" aria-label="Language"><option value="en" ${language==='en'?'selected':''}>English</option><option value="zh" ${language==='zh'?'selected':''}>繁體中文</option></select></label><label class="preference-control">${icon('sun-moon')}<span class="sr-only">Appearance</span><select id="theme-select" aria-label="Appearance">${['light','dark','system'].map(value=>`<option value="${value}" ${theme===value?'selected':''}>${value[0].toUpperCase()+value.slice(1)}</option>`).join('')}</select></label></div></header><main id="main" tabindex="-1"></main><footer class="page-footer"><span>Biology Bank</span><span>HKDSE Biology</span></footer></div>`;
- if(view==='home')renderHome();
+  if(view==='home'){
+   renderHome();
+   for(const tile of $('#main').querySelectorAll('.book-item')){
+    const source=sourcesById.get(tile.dataset.id);
+    if(source?.illustratedDocumentId)tile.querySelector('.quiet').firstChild.textContent=translate('Illustrated full book')+' ';
+   }
+  }
  else if(['library','saved','collection'].includes(view))renderLibrary();
  else if(view==='quiz')renderQuiz();
  else if(view==='sources')renderSources();
@@ -97,12 +103,17 @@ function matchingSources(search=filters.search){
  return bank.sources.filter(s=>(!filters.topic || s.topic===filters.topic || s.topics?.includes(filters.topic)) && (!filters.publisher || filters.publisher===s.publisher) && terms.every(term=>`${s.name} ${s.title || ''} ${s.publisher} ${s.topic} ${topicLabel(s.topic,'zh')}`.toLocaleLowerCase().includes(term))).sort((a,b)=>topicOrder(a.topic)-topicOrder(b.topic) || a.name.localeCompare(b.name,undefined,{numeric:true}));
 }
 function sourceCard(source){
- return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?(source.wordEdition==='text'?'Word preview (text edition)':'Word preview'):'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${sourceWordButton(source)}</div></article>`;
+ const destination=documentForSource(source);
+ const readLabel=completeBookFor(source) || source.wordEdition==='original'?'Read complete book':'Read document';
+ return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?(source.wordEdition==='text'?'Word preview (text edition)':'Word preview'):'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(destination.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(destination.id)}">${icon('book-open')}<span>${e(translate(readLabel))}</span></button>${sourcePdfButton(source)}${sourceWordButton(source)}</div></article>`;
 }
+function completeBookFor(source){return source?.illustratedDocumentId?sourcesById.get(source.illustratedDocumentId):null;}
+function documentForSource(source){return completeBookFor(source) || source;}
 function sourceWordButton(source){
  if(source.format!=='word-text' || !/\.docx$/i.test(source.downloadPath || ''))return '';
- const label=source.wordEdition==='text'?'Download Word (text edition)':'Download Word (.docx)';
- return `<a class="button secondary source-word" href="${e(source.downloadPath)}" download="${e(source.downloadName || source.name)}" title="${e(label)}" aria-label="${e(label)}">${icon('file-down')}<span>${e(label)}</span></a>`;
+ const book=completeBookFor(source),target=book || source;
+ const label=book || source.wordEdition==='original'?'Download full DOCX with images':'Download Word (text edition)';
+ return `<a class="button secondary source-word" href="${e(target.downloadPath)}" download="${e(target.downloadName || target.name)}" title="${e(translate(label))}" aria-label="${e(translate(label))}">${icon('file-down')}<span>${e(translate(label))}</span></a>`;
 }
 function sourcePdfButton(source){
  if(source.format!=='word-text')return `<a class="button secondary source-pdf" href="${e(source.path)}" download="${e(source.name)}" title="Download PDF" aria-label="Download PDF">${icon('file-down')}<span>Download PDF</span></a>`;
@@ -151,7 +162,7 @@ async function showQuestion(id,tab='question'){
  const original=questionsById.get(id);if(!original)return;activeQuestion=id;const q=effective(original);const source=sourcesById.get(q.sourceId);
  openModal(`${modalHeader(TYPES[q.type] || q.type,q.topic)}<div class="question-dialog-meta"><span>${e(q.code)}</span><span>${e(q.publisher)}</span><a class="text-button" href="${e(source.path)}#page=${q.segments[0]?.page || 1}" target="_blank" rel="noopener">Original source ${icon('external-link')}</a></div><div class="dialog-tabs"><button data-action="question-tab" data-tab="question" class="${tab==='question'?'active':''}">Question</button><button data-action="question-tab" data-tab="answer" class="${tab==='answer'?'active':''}">Answer key</button><button data-action="question-tab" data-tab="organize" class="${tab==='organize'?'active':''}">Organize</button></div><div class="dialog-body">${tab==='organize'?`<form data-form="organize"><label>Topic<input name="topic" required maxlength="120" list="topic-options" value="${e(q.topic)}"></label><datalist id="topic-options">${topics().map(t=>`<option value="${e(t)}">`).join('')}</datalist><label>Question type<select name="type">${Object.entries(TYPES).map(([key,name])=>`<option value="${key}" ${q.type===key?'selected':''}>${name}</option>`).join('')}</select></label><label>Tags<input name="tags" maxlength="300" value="${e(q.tags || '')}" placeholder="e.g. revision, difficult"></label><button class="button primary" type="submit">${icon('check')}Save category</button></form>`:'<div id="question-render" class="question-render"></div>'}</div><footer class="dialog-footer"><button class="button secondary" data-action="bookmark" data-id="${e(q.id)}">${icon('bookmark')}${personal.bookmarks.includes(q.id)?'Saved':'Save question'}</button><button class="button primary" data-action="toggle-paper-question" data-id="${e(q.id)}">${icon(selected.has(q.id)?'check':'plus')}${selected.has(q.id)?'Added to paper':'Add to paper'}</button></footer>`,'question-dialog');
  const sourceLink=$('.question-dialog-meta a');
- if(sourceLink){const button=document.createElement('button');button.className='text-button';button.dataset.action='view-source';button.dataset.id=source.id;button.dataset.page=q.segments[0]?.page || 1;button.dataset.backQuestion=id;button.innerHTML=`Original source ${icon('book-open')}`;sourceLink.replaceWith(button);}
+ if(sourceLink){const documentSource=documentForSource(source),button=document.createElement('button');button.className='text-button';button.dataset.action='view-source';button.dataset.id=documentSource.id;button.dataset.page=q.segments[0]?.page || 1;button.dataset.backQuestion=id;button.innerHTML=`${e(translate(documentSource===source?'Original source':'View complete illustrated book'))} ${icon('book-open')}`;sourceLink.replaceWith(button);}
  const subtitle=$('.dialog-header p');if(subtitle)subtitle.textContent=topicLabel(q.topic,language);
  icons();
  if(tab!=='organize')await renderQuestion($('#question-render'),original,source,tab==='answer');
@@ -312,7 +323,7 @@ document.addEventListener('click',async event=>{
  else if(action==='browse-library'){libraryMode='questions';if(filters.publisher==='Oxford')filters.publisher='';navigate('library');}
  else if(action==='browse-oxford'){libraryMode='files';filters={search:'',topic:'',type:'',publisher:'Oxford',sort:'topic'};navigate('library');}
  else if(action==='library-mode'){libraryMode=button.dataset.mode;page=1;renderLibrary();icons();}
- else if(action==='view-source')showDocument(id,button.dataset.page,button.dataset.backQuestion);
+  else if(action==='view-source')showDocument(documentForSource(sourcesById.get(id))?.id || id,button.dataset.page,button.dataset.backQuestion);
  else if(action==='download-source-pdf')await downloadSourcePdf(id);
  else if(action==='back-to-question')showQuestion(documentState.backQuestion);
  else if(action==='retry-document'){if(sourcesById.get(documentState.id).format==='word-text')showDocument(documentState.id,1,documentState.backQuestion);else renderDocumentPage();}
