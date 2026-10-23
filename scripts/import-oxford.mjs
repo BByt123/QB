@@ -12,14 +12,17 @@ const JSZip=require(process.env.JSZIP_MODULE || 'jszip');
 const root=path.resolve(process.argv[2] || '../resources/Oxford resource');
 const output='bank/oxford';
 await fs.mkdir(output,{recursive:true});
-const files=(await fs.readdir(root,{recursive:true})).filter(f=>/\.docx?$/.test(f)).sort();
+const allFiles=(await fs.readdir(root,{recursive:true})).filter(f=>/\.docx?$/i.test(f)).sort();
+const legacyStems=new Set(allFiles.filter(f=>/\.doc$/i.test(f)).map(f=>f.replace(/\.doc$/i,'' ).toLocaleLowerCase()));
+const files=allFiles.filter(f=>!(/\.docx$/i.test(f) && legacyStems.has(f.replace(/\.docx$/i,'').toLocaleLowerCase())));
 const sources=[],seen=new Set();
 for(const file of files){
  const full=path.join(root,file),bytes=await fs.readFile(full);
  const hash=createHash('sha256').update(bytes).digest('hex');if(seen.has(hash))continue;seen.add(hash);
- const name=path.basename(file),id=`oxford-${hash.slice(0,16)}`;
+ const originalName=path.basename(file),name=originalName.replace(/\.doc$/i,'.docx'),id=`oxford-${hash.slice(0,16)}`;
+ const originalDocx=/\.docx$/i.test(originalName);
  let text;
- if(name.endsWith('.docx')){
+ if(originalDocx){
   const zip=await JSZip.loadAsync(bytes),xml=await zip.file('word/document.xml').async('string');
   const {xml2js}=require(process.env.XML_MODULE || 'xml-js');
   const doc=xml2js(xml,{compact:false});
@@ -34,15 +37,15 @@ for(const file of files){
  const topic=elective?chapterTopic(elective[1]):chapter?chapterTopic(`Ch${Number(chapter[1])}`):'Oxford updates';
  const heading=text.split(/Multiple-choice questions/i)[0].replace(/\s+/g,' ').replace(/^\(\s*/,'').trim().slice(0,180);
  const previewPath=`${output}/${id}.json`,textPath=`${output}/${id}.txt`;
- const downloadPath=name.endsWith('.docx')?`${output}/${id}.docx`:textPath;
+ const downloadPath=`${output}/${id}.docx`;
  await fs.writeFile(textPath,text.replace(/\r/g,''),'utf8');
  await fs.writeFile(previewPath,JSON.stringify({textPath}));
- if(name.endsWith('.docx'))await fs.copyFile(full,downloadPath);
+ if(originalDocx)await fs.copyFile(full,downloadPath);
  const chapterIds=[...new Set([...text.matchAll(/(?:^|\n)\s*\(?\s*Chapter\s*(\d+)\s+/g)].map(m=>chapterTopic(`Ch${Number(m[1])}`)))];
- const record={id,name,title:name.endsWith('.docx')?`Oxford updates · ${name}`:heading,publisher:'Oxford',path:previewPath,textPath,downloadPath,format:'word-text',topic,topics:name.endsWith('.docx')?chapterIds:[topic],subchapter:elective?Number(elective[2]):null,pages:null,questionCount:0,preview:'text',original:file.replaceAll('\\','/')};
+ const record={id,name,title:originalDocx?`Oxford updates · ${name}`:heading,publisher:'Oxford',path:previewPath,textPath,downloadPath,format:'word-text',topic,topics:originalDocx?chapterIds:[topic],subchapter:elective?Number(elective[2]):null,pages:null,questionCount:0,preview:'text',original:file.replaceAll('\\','/')};
  sources.push(record);console.log(`${sources.length}. ${name} | ${heading} | ${text.length} characters`);
 }
 await fs.writeFile(`${output}/catalog.json`,JSON.stringify({sources,chapters:CHAPTERS}));
 await indexOxford();
 await prepareOxfordWord({resourceRoot:root});
-console.log(`Imported ${sources.length} unique Oxford documents. Text previews and downloads; original DOCX updates included. Legacy Word diagrams remain in local originals.`);
+console.log(`Imported ${sources.length} unique Oxford DOCX documents. Legacy DOC files are represented by labelled text editions; native DOCX updates are preserved.`);

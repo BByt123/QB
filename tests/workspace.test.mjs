@@ -17,7 +17,7 @@ test('Oxford catalog contains every unique source and all core and elective chap
  const catalog=JSON.parse(fs.readFileSync(new URL('../bank/oxford/catalog.json',import.meta.url)));
  assert.equal(catalog.sources.length,46);
  assert.equal(new Set(catalog.sources.map(s=>s.id)).size,46);
- assert.equal(catalog.sources.filter(s=>s.name.endsWith('.docx')).length,5);
+ assert.equal(catalog.sources.filter(s=>s.original.endsWith('.docx')).length,5);
  const indexed=JSON.parse(fs.readFileSync(new URL('../'+catalog.quizPath,import.meta.url))).questions;
  for(const chapter of CHAPTERS)assert.ok(catalog.sources.some(s=>s.topic===chapter.topic),chapter.id);
  for(const source of catalog.sources){
@@ -28,7 +28,8 @@ test('Oxford catalog contains every unique source and all core and elective chap
   assert.ok(fs.existsSync(new URL('../'+source.downloadPath,import.meta.url)),source.name);
   assert.match(source.downloadPath,/\.docx$/);
   assert.match(source.downloadName,/\.docx$/);
-  assert.equal(source.wordEdition,source.name.endsWith('.docx')?'original':'text');
+  assert.match(source.name,/\.docx$/);
+  assert.equal(source.wordEdition,source.original.endsWith('.docx')?'original':'text');
   assert.equal(fs.readFileSync(new URL('../'+source.downloadPath,import.meta.url)).subarray(0,2).toString(),'PK');
  }
 });

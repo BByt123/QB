@@ -34,6 +34,6 @@ test('every Word preview matches its downloadable document and has valid local c
   }
   visit(preview.blocks);assert.ok(text.length>1000,source.name);
   if(source.wordEdition==='original'){assert.ok(images>0,source.name+' images');assert.ok(tables>0,source.name+' tables');}
-  else assert.match(text,/Original diagrams, equations and formatting are not included/);
+  else assert.match(text,/Original diagrams, equations, formatting and page breaks may not be included/);
  }
 });
