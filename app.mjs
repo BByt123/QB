@@ -3,6 +3,7 @@ import {renderQuestion,sourcePage,sourcePageCount} from './rendering.mjs';
 import {exportPaper,exportSourcePdf,downloadBlob,chooseSaveLocation} from './exports.mjs';
 import {CHAPTERS,canonicalTopic,topicLabel,topicOrder} from './taxonomy.mjs';
 import {language,theme,setLanguage,applyTheme,localize,translate} from './preferences.mjs';
+import {renderWordPreview,renderWordTextPreview} from './word-preview.mjs';
 
 const $=selector=>document.querySelector(selector);
 const icon=name=>`<i data-lucide="${name}" aria-hidden="true"></i>`;
@@ -96,7 +97,7 @@ function matchingSources(search=filters.search){
  return bank.sources.filter(s=>(!filters.topic || s.topic===filters.topic || s.topics?.includes(filters.topic)) && (!filters.publisher || filters.publisher===s.publisher) && terms.every(term=>`${s.name} ${s.title || ''} ${s.publisher} ${s.topic} ${topicLabel(s.topic,'zh')}`.toLocaleLowerCase().includes(term))).sort((a,b)=>topicOrder(a.topic)-topicOrder(b.topic) || a.name.localeCompare(b.name,undefined,{numeric:true}));
 }
 function sourceCard(source){
- return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?'Text preview':'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${sourceWordButton(source)}</div></article>`;
+ return `<article class="file-item"><span class="file-item-icon ${source.publisher==='Oxford'?'lilac':'mint'}">${icon(source.format==='word-text'?'file-type-2':'file-text')}</span><div class="file-item-main"><span class="file-publisher">${e(source.publisher)} <span>·</span> ${source.format==='word-text'?(source.wordEdition==='text'?'Word preview (text edition)':'Word preview'):'PDF document'}</span><button class="file-item-title source-title" data-action="view-source" data-id="${e(source.id)}">${e(source.title || source.name)}</button><span class="quiet" data-content>${e(topicLabel(source.topic,language))}</span><small class="source-filename" data-content>${e(source.name)}</small></div><div class="file-item-actions"><button class="button secondary" data-action="view-source" data-id="${e(source.id)}">${icon('book-open')}<span>Read document</span></button>${sourcePdfButton(source)}${sourceWordButton(source)}</div></article>`;
 }
 function sourceWordButton(source){
  if(source.format!=='word-text' || !/\.docx$/i.test(source.downloadPath || ''))return '';
@@ -157,21 +158,30 @@ async function showQuestion(id,tab='question'){
 }
 async function showDocument(id,number=1,backQuestion=''){
  const source=sourcesById.get(id);if(!source)return;
+ const previewNotice=source.wordEdition==='original'?'Word preview includes supported formatting, tables and images. Pagination and complex Word elements may differ from the downloaded file.':'Word text edition preview. Original diagrams, equations and formatting are not included.';
  let token;
  documentState={id,page:Math.max(1,Number(number) || 1),zoom:1,pages:source.pages || 1,backQuestion};
- openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span>${sourceWordButton(source)}</div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate('Text preview only. Diagrams are not included. Word downloads are labelled as original files or text editions.'))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
+ openModal(`${modalHeader(source.title || source.name,topicLabel(source.topic,language))}<div class="document-actions">${backQuestion?'<button class="text-button" data-action="back-to-question">'+icon('arrow-left')+'Back to question</button>':''}<span>${e(source.publisher)}</span>${sourceWordButton(source)}</div>${source.format==='word-text'?'<p class="preview-notice">'+icon('info')+'<span>'+e(translate(previewNotice))+'</span></p>':`<div class="document-toolbar">${iconButton('document-prev','chevron-left','Previous page')}<label><span>Page</span><input id="document-page" aria-label="Document page" type="number" min="1" max="${documentState.pages}" value="${documentState.page}"><span id="document-page-count">/ ${documentState.pages}</span></label>${iconButton('document-next','chevron-right','Next page')}<span class="toolbar-divider"></span>${iconButton('document-zoom-out','minus','Zoom out')}<output id="document-zoom">100%</output>${iconButton('document-zoom-in','plus','Zoom in')}${iconButton('document-fit','maximize','Fit width')}</div>`}<div id="document-content" class="document-content" aria-live="polite"><div class="loading"><span class="spinner"></span>Loading document...</div></div>`,'document-dialog');
  token=documentToken;
  $('.document-actions').insertAdjacentHTML('beforeend',sourcePdfButton(source));
  icons();
  try{
   if(source.format==='word-text'){
-   const response=await fetch(new URL(source.textPath || source.path,document.baseURI));if(!response.ok)throw Error('Document could not be loaded.');
-   const text=source.textPath?await response.text():(await response.json()).text;
-   if(token!==documentToken || !$('#document-content'))return;
-   const sections=text.split(/\n\s*-{8,}\s*\n/);
-   const preview=document.createElement('div');preview.className='document-word-preview';
-   sections.forEach(text=>{const sheet=document.createElement('article');sheet.className='document-word-sheet';const body=document.createElement('pre');body.className='document-text';body.textContent=text.trim();sheet.append(body);preview.append(sheet);});
-   $('#document-content').replaceChildren(preview);
+   let rendered=false;
+   if(source.wordPreviewPath){
+    try{
+     const response=await fetch(new URL(source.wordPreviewPath,document.baseURI));if(!response.ok)throw Error('Word preview could not be loaded.');
+     const preview=await response.json();if(token!==documentToken || !$('#document-content'))return;
+     renderWordPreview($('#document-content'),preview,{translate});rendered=true;
+    }catch{/* Older deployments can still display the extracted text. */}
+   }
+   if(!rendered){
+    const response=await fetch(new URL(source.textPath || source.path,document.baseURI));if(!response.ok)throw Error('Document could not be loaded.');
+    const text=source.textPath?await response.text():(await response.json()).text;
+    if(token!==documentToken || !$('#document-content'))return;
+    renderWordTextPreview($('#document-content'),text,{translate});
+    $('.preview-notice span').textContent=translate('Text preview only. Diagrams are not included. Word downloads are labelled as original files or text editions.');
+   }
   }else{
    const pages=await sourcePageCount(source);if(token!==documentToken)return;
    documentState.pages=pages;documentState.page=Math.min(documentState.page,pages);

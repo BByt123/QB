@@ -13,6 +13,10 @@ const dictionary={
  'Text preview. Diagrams and original formatting are available in the original Word file.':'文字預覽。圖表及原有排版請參閱原始 Word 檔。','Library view':'題庫檢視','Library overview':'題庫概覽','Your question paper':'自訂試卷','Search source documents':'搜尋原始文件','Biology practice paper':'生物科練習試卷','Biology Bank | DSE Study Library':'生物題庫 | DSE 學習題庫','Version 1.0':'版本 1.0','No quiz-ready questions match this filter.':'此篩選沒有可用的測驗題目。','Oxford files are in the Files view.':'牛津題庫收錄於文件分頁。'
 };
 Object.assign(dictionary,{
+ 'Word preview':'Word 預覽','Word preview (text edition)':'Word 預覽（文字版）','Document table':'文件表格','Document image':'文件圖片',
+ 'Word preview includes supported formatting, tables and images. Pagination and complex Word elements may differ from the downloaded file.':'Word 預覽顯示支援的格式、表格及圖片。分頁及複雜的 Word 元素可能與下載檔案不同。',
+ 'Word text edition preview. Original diagrams, equations and formatting are not included.':'Word 文字版預覽。不包含原始圖表、方程式及排版。',
+ 'This image is available in the downloaded Word file.':'此圖片請參閱下載的 Word 檔案。',
  'Question bank':'題庫來源','Oxford and Aristo':'牛津及雅集','Download PDF (text edition)':'下載 PDF（文字版）',
  'Preparing PDF...':'正在準備 PDF…','PDF document saved.':'PDF 文件已儲存。',
  'Oxford quizzes use standalone text questions; questions needing missing figures are excluded.':'牛津測驗採用獨立文字題目；需要缺失圖表的題目不包括在內。',

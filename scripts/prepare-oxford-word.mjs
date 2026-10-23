@@ -31,5 +31,6 @@ export async function prepareOxfordWord({resourceRoot=path.resolve('../resources
  }
  await fs.writeFile(catalogPath,JSON.stringify(catalog));
  console.log(`Prepared ${catalog.sources.length} direct DOCX downloads: original DOCX resources and labelled legacy text editions.`);
+ console.log('After changing Word files, run npm run prepare:word-preview to refresh the formatted previews.');
 }
 if(process.argv[1] && pathToFileURL(path.resolve(process.argv[1])).href===import.meta.url)await prepareOxfordWord({resourceRoot:path.resolve(process.argv[2] || '../resources/Oxford resource')});

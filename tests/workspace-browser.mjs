@@ -12,9 +12,9 @@ page.on('pageerror',error=>errors.push(error.message));
 page.on('response',response=>{if(response.status()>=400)errors.push(`${response.status()} ${response.url()}`);});
 const action=name=>page.locator(`[data-action="${name}"]`);
 async function imageCheck(selector){
- await page.locator(selector).waitFor();
+ await page.locator(selector).first().waitFor();
  await page.waitForFunction(selector=>{const img=document.querySelector(selector);return img?.complete && img.naturalWidth>0;},selector);
- const ink=await page.locator(selector).evaluate(img=>{const c=document.createElement('canvas');c.width=img.naturalWidth;c.height=img.naturalHeight;const x=c.getContext('2d');x.drawImage(img,0,0);const a=x.getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<a.length;i+=4)if(a[i]<180 && a[i+1]<180 && a[i+2]<180)n++;return n;});
+ const ink=await page.locator(selector).first().evaluate(img=>{const c=document.createElement('canvas');c.width=img.naturalWidth;c.height=img.naturalHeight;const x=c.getContext('2d');x.drawImage(img,0,0);const a=x.getImageData(0,0,c.width,c.height).data;let n=0;for(let i=0;i<a.length;i+=4)if(a[i]<180 && a[i+1]<180 && a[i+2]<180)n++;return n;});
  assert.ok(ink>100,'Document image contains content');
 }
 try{
@@ -44,7 +44,7 @@ try{
  assert.match(await page.locator('#document-content').innerText(),/Evolution II/);
  assert.ok(await page.locator('.document-word-sheet').count()>0);
  assert.ok(await page.locator('.document-word-sheet').first().evaluate(el=>getComputedStyle(el).backgroundColor==='rgb(255, 255, 255)'));
- assert.match(await page.locator('.preview-notice').textContent(),/文字預覽/);
+ assert.match(await page.locator('.preview-notice').textContent(),/文字版預覽/);
  assert.match(await page.locator('.document-actions .source-word').getAttribute('href'),/\.docx$/);
  assert.match(await page.locator('.document-actions .source-word').textContent(),/文字版/);
  assert.equal(await page.locator('.document-actions [data-action="download-source-pdf"]').count(),1);
@@ -60,6 +60,18 @@ try{
  await page.waitForFunction(()=>document.querySelectorAll('.file-item').length===1 && document.querySelector('.source-filename')?.textContent.includes('qb update_4'));
  await page.locator('.file-item-title').click();await page.locator('.document-text').first().waitFor();
  assert.match(await page.locator('.document-actions a').getAttribute('href'),/\.docx$/);
+ assert.equal(await page.locator('.document-word-preview').getAttribute('data-edition'),'original');
+ assert.ok(await page.locator('.word-table').count()>0);
+ assert.ok(await page.locator('.word-image').count()>0);
+ assert.match(await page.locator('.preview-notice').textContent(),/表格及圖片/);
+ const wordImage=page.locator('.word-image').first();await wordImage.scrollIntoViewIfNeeded();await imageCheck('.word-image');
+ await page.screenshot({path:'test-results/oxford-word-formatted-desktop.png',animations:'disabled'});
+ await page.setViewportSize({width:375,height:844});await wordImage.scrollIntoViewIfNeeded();
+ assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+ assert.ok(await page.locator('#document-content').evaluate(el=>el.scrollWidth<=el.clientWidth+1));
+ assert.ok(await wordImage.evaluate(el=>el.getBoundingClientRect().width<=innerWidth));
+ await page.screenshot({path:'test-results/oxford-word-formatted-mobile.png',animations:'disabled'});
+ await page.setViewportSize({width:1440,height:1050});
  await page.keyboard.press('Escape');
  await page.locator('#search').fill('');
  await page.locator('#topic-filter').selectOption({index:34});
