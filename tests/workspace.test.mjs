@@ -3,6 +3,13 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {CHAPTERS,canonicalTopic,topicLabel,topicOrder} from '../taxonomy.mjs';
 import {parseOxfordQuestions} from '../scripts/oxford-questions.mjs';
+test('root-published subject paths have GitHub Pages fallback entrypoints',()=>{
+ for(const [folder,target] of [['biology','biology-index.html'],['economics','economics.html']]){
+  const entry=fs.readFileSync(new URL(`../${folder}/index.html`,import.meta.url),'utf8');
+  assert.match(entry,/http-equiv="refresh"/);
+  assert.match(entry,new RegExp(`\\.\\./${target}`),folder);
+ }
+});
 test('Oxford chapter order matches source headings and keeps custom topics',()=>{
  assert.equal(CHAPTERS.length,34);
  assert.deepEqual(CHAPTERS.map(c=>c.id),[...Array.from({length:30},(_,i)=>`Ch${i+1}`),'E1','E2','E3','E4']);

@@ -8,6 +8,7 @@ import {renderWordPreview,renderWordTextPreview} from './word-preview.mjs';
 const $=selector=>document.querySelector(selector);
 const icon=name=>`<i data-lucide="${name}" aria-hidden="true"></i>`;
 const iconButton=(action,name,label,extra='')=>`<button class="icon-button" data-action="${action}" title="${e(label)}" aria-label="${e(label)}" ${extra}>${icon(name)}</button>`;
+const hubHref=()=>location.pathname.endsWith('/biology/')||location.pathname.endsWith('/economics/')?'../':location.pathname.replace(/[^/]*$/,'');
 const STORAGE='biology-bank-v1';
 const QUIZ_STORAGE='biology-quiz-v1';
 let bank,questionsById,sourcesById;
@@ -54,7 +55,7 @@ function navButton(id,label,name,count,extra=''){return `<button class="nav-item
 function shell(){
  $('#app').innerHTML=`<div class="sidebar-backdrop" data-action="close-nav"></div><aside class="sidebar" aria-label="Main navigation">
   <a class="brand" href="#home"><span class="brand-symbol">${icon('sprout')}</span><span>Biology Bank<small>DSE Study Library</small></span></a>
-  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology</div><a class="subject-switch" href="../" title="${e(translate('Switch subject'))}">${icon('arrow-left-right')}<span>${e(translate('Switch subject'))}</span></a>
+  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology</div><a class="subject-switch" href="${e(hubHref())}" title="${e(translate('Switch subject'))}">${icon('arrow-left-right')}<span>${e(translate('Switch subject'))}</span></a>
   <div class="nav-label">WORKSPACE</div><nav>${navButton('home','Home','house')}${navButton('library','Question library','library',bank.questions.length)}${navButton('quiz','Practice quizzes','notebook-pen')}${navButton('saved','Saved questions','bookmark',personal.bookmarks.length)}${navButton('sources','Source documents','files',bank.sources.length)}</nav>
   <div class="nav-label collection-label">COLLECTIONS ${iconButton('new-collection','plus','New collection')}</div><div id="collection-nav">${personal.collections.length?personal.collections.map(c=>`<button class="nav-item ${view==='collection' && collectionId===c.id?'active':''}" data-action="open-collection" data-id="${e(c.id)}">${icon('folder')}<span>${e(c.name)}</span><span class="nav-count">${c.ids.length}</span></button>`).join(''):'<p class="sidebar-empty">No collections yet</p>'}</div>
   <div class="sidebar-bottom"><div class="library-status">${icon('hard-drive')}<span>Saved on this device</span></div>${navButton('settings','Settings & backup','settings-2')}</div>
