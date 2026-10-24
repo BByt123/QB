@@ -1,0 +1,2165 @@
+Chapter 3	Macroeconomic problems
+
+Multiple Choice Questions
+
+Question code: B5C03Q001
+Which of the following is an example of inflation?
+A.	Prices of all goods and services increase during long holidays.
+B.	The global shortage of oil has been driving up the prices of most goods and services for years.
+C.	The prices of imported cars keep increasing due to the increase in demand.
+D.	The price of pork increases continuously.
+
+Answer: B
+
+Question code: B5C03Q002
+Which of the following events can be evidence to suggest that Country H is facing deflation?
+A.	People consume less than before.
+B.	The price of food decreases.
+C.	Oil prices decrease rapidly.
+D.	The consumer price index decreases continuously.
+
+Answer: D
+
+Question code: B5C03Q003
+The following graph shows the percentage changes in price levels in Mactata City.
+
+Which of the following statements is correct?
+A.	At Point X, the price level in Mactata City remains constant.
+B.	At Point Y, Mactata City is facing inflation.
+C.	At Point Z, Mactata City is facing disinflation.
+D.	The price level in Mactata City at Point Y is lower than that at Point X.
+
+Answer: B
+
+Question code: B5C03Q004
+Which of the following statements about inflation are INCORRECT?
+(1)	It refers to the phenomenon of an increase in the general price level.
+(2)	When prices of all goods increase, inflation must occur.
+(3)	An increase in the price of a single good only is not inflation.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C03Q005
+Which of the following statements about inflation is correct?
+A.	Inflation can only be measured by the consumer price index.
+B.	After the government imposes a general sales tax, a once-and-for-all rise in the general price level occurs. This is an example of inflation.
+C.	If the GDP deflator is higher than 100, there is inflation.
+D.	Disinflation is a type of inflation.
+
+Answer: D
+
+Question code: B5C03Q006
+Inflation
+A.	is the phenomenon of a persistent increase in the output level.
+B.	must imply a lower standard of living.
+C.	does not affect resource allocation if it is fully anticipated.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C03Q007
+Deflation
+A.	is the phenomenon of a temporary decrease in the general price level.
+B.	can be a persistent fall in the general price level due to a persistent fall in the price of a single resource.
+C.	can be a once-and-for-all decrease in the general price level.
+D.	None of the above
+
+Answer: B
+Explanation
+If the general price level falls persistently, whatever the cause, deflation results.
+
+Question code: B5C03Q008
+Which of the following is an example of inflation?
+A.	The world price of gold increases persistently because the Swiss central bank increases its gold reserves.
+B.	Company A increases the prices of its products after the promotion period ends.
+C.	A bus company is allowed to increase its fees.
+D.	As oil prices continue to increase, the prices of most goods also continue to increase.
+
+Answer: D
+
+Question code: B5C03Q009
+Which of the following is an example of deflation?
+A.	Because of technological improvement, the price of smartphones drops continuously.
+B.	Due to the ban on smoking, the price of cigarettes decreases persistently.
+C.	The price level increases persistently but the percentage change declines.
+D.	The price level decreases persistently due to the discovery of new cheap energy.
+
+Answer: D
+
+Question code: B5C03Q010
+When there is inflation,
+A.	the general price level must be higher than 100.
+B.	the percentage change in the general price level must be increasing.
+C.	the prices of all goods must increase.
+D.	the general price level must be increasing.
+
+Answer: D
+
+Question code: B5C03Q011
+If the general price level decreases,
+A.	there is disinflation, provided that the GDP deflator is greater than 100.
+B.	deflation must exist.
+C.	the prices of all goods decrease.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C03Q012
+Study the following statistics about Country A.
+
+	Year 1	Year 2	Year 3	
+Nominal GDP ($ billion)	100	121	140	
+Real GDP ($ billion)	100	110	120	
+(Base Year = Year 1)
+
+Which of the following statements about Country A is correct?
+A.	The living standard of Country A has worsened during the period.
+B.	The general price level has decreased persistently during the period.
+C.	The growth rate of real GDP in Year 3 was 10%.
+D.	The country faced disinflation during the period.
+
+Answer: D
+
+Question code: B5C03Q013
+Study the following data about the Composite Consumer Price Index (CCPI) of Country A.
+
+	Year 1	Year 2	Year 3	Year 4		CCPI	150	140	130	120	
+
+According to the data above, we can conclude that
+A.	the country experienced inflation.
+B.	the country experienced disinflation.
+C.	the country experienced deflation.
+D.	No conclusion can be drawn as there is no information about the base year.
+
+Answer: C
+
+Question code: B5C03Q014
+Study the following information about the consumer price index in Year 4 and Year 5.
+
+	Year 4	Year 5	
+Consumer price index	110	120	
+
+Which of the following statements is INCORRECT according to the above table?
+A.	The cost of living in Year 5 was higher than that in Year 4.
+B.	The standard of living in Year 5 was lower than that in Year 4.
+C.	The purchasing power of money in Year 5 was lower than that in Year 4.
+D.	The consumer price growth in Year 5 was about 9.1%.
+
+Answer: B
+
+
+Question code: B5C03Q015
+Study the following table.
+
+Year	Year 1	Year 2	Year 3	
+GDP deflator	100	110	100	
+
+Which of the following statements is correct according to the above table?
+A.	The nominal GDP in Year 1 was equal to the nominal GDP in Year 3.
+B.	The real GDP in Year 1 was equal to the real GDP in Year 3.
+C.	The purchasing power of money in Year 2 was lower than that in Year 1 and 
+Year 3.
+D.	The economy experienced disinflation in Year 3.
+
+Answer: C
+
+Question code: B5C03Q016
+Suppose Year 1 is the base year for the consumer price index. If the consumer price index in Year 7 and Year 8 is 108 and 102.6, respectively, which of the following statements is true?
+A.	There was disinflation in Year 8.
+B.	The deflation rate between Year 7 and Year 8 was 5%.
+C.	The inflation rate in Year 7 was 8%.
+D.	The economy faced inflation in both Year 7 and Year 8.
+
+Answer: B
+
+Question code: B5C03Q017
+If the GDP deflator fell from 105 to 100 in a certain year, this implies that
+A.	the deflation rate was about 4.8%.
+B.	the prices of all goods fell by 4.8%.
+C.	the general income of people increased by 5%.
+D.	real GDP decreased by 5%.
+
+Answer: A
+
+
+Question code: B5C03Q018
+Which of the following situations can lead to inflation?
+A.	An increase in electricity charges
+B.	An increase in the sales tax
+C.	Rising property prices
+D.	Expectations of future economic prosperity leading to a persistent rise in the price level
+
+Answer: D
+
+Question code: B5C03Q019
+Country A's nominal GDP has decreased by 10% and its real GDP has increased by 20%. We can conclude that
+A.	everyone in Country A enjoys a higher living standard.
+B.	Country A's income distribution has become more uneven.
+C.	per capita real GDP must increase.
+D.	deflation may exist during this period.
+
+Answer: D
+
+Question code: B5C03Q020
+Brazil experienced high inflation in 2014. On 6 November 2014, the newly re-elected Brazilian President Dilma Rousseff stepped up her fight against high inflation. Which of the following could best explain why unanticipated inflation is not desirable?
+A.	Unanticipated inflation would redistribute income from the rich to the poor.
+B.	The elderly on fixed pension incomes would suffer from unanticipated inflation.
+C.	With unanticipated inflation, the aggregate output level would decrease. Thus, unanticipated inflation would hinder economic growth.
+D.	The Brazilian government has issued a large batch of government bonds.
+
+Answer: B
+
+Question code: B5C03Q021
+Which of the following parties will most likely benefit from unanticipated inflation?
+A.	An elderly person who holds most of his wealth in the form of gold
+B.	A supermarket which has issued a lot of gift coupons (購物禮券)
+C.	A retired police officer who receives a fixed monthly pension
+D.	A street beggar who keeps his wealth in the form of cash
+
+Answer: B
+
+Question code: B5C03Q022
+Study the following diagram.
+
+Which of the following conclusions can be drawn from the above diagram?
+A.	There was inflation from Year 1 to Year 2.
+B.	There was disinflation from Year 3 to Year 5.
+C.	Nominal wages were falling.
+D.	The cost of living was decreasing.
+
+Answer: D
+
+Question code: B5C03Q023
+Study the following diagram.
+
+Which of the following conclusions can be drawn from the above diagram?
+(1)	There was inflation during the entire period.
+(2)	The standard of living was increasing.
+(3)	The purchasing power of money was decreasing.
+(4)	Cash is preferred to real assets.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+
+Question code: B5C03Q024
+In 2014, John bought a bond with an expected real interest rate of 5%. He expected the inflation rate to be 3%. Later on, the actual inflation rate was 4%. Which of the following statements is correct?
+A.	John would gain from unanticipated inflation.
+B.	The actual real interest rate was 4%.
+C.	The actual nominal interest rate was 9%.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C03Q025
+Susan borrowed $12,000 from King Sing last year and promised to repay him this year with $500 more in interest. The price level was 125, and both Susan and King Sing did not expect any change in the price level. A year later, the price level became 150 and Susan repaid the money with interest as promised. Which of the following statements is correct?
+A.	King Sing will gain from the change in the price level.
+B.	The actual real value of the money that Susan repaid is $8,000.
+C.	The purchasing power of the money that Susan repaid increases.
+D.	The expected real value of the money that Susan repaid is $10,000.
+
+Answer: D
+
+
+Question code: B5C03Q026
+Mr Lee borrowed $50,000 from Miss Yeung last year and promised to repay her this year. Miss Yeung expected the inflation rate to be 5% and charged Mr Lee an 11% interest rate. The inflation rate turned out to be 4%.
+The expected real interest rate and the actual real interest rate are _____ and _____, respectively.
+A.	5% … 2%
+B.	5% … 4%
+C.	6% … 6%
+D.	6% … 7%
+
+Answer: D
+
+Question code: B5C03Q027
+On 12 August 2014, the Hong Kong Government issued the fourth batch of inflation-linked retail bonds (iBonds) worth HK$10 billion. If there was unexpected deflation in Hong Kong, which of the following parties would most likely lose?
+A.	The Hong Kong Government
+B.	The holders of iBonds
+C.	People who hold a lot of cash
+D.	None of the above parties would lose
+
+Answer: D
+
+Question code: B5C03Q028
+Which of the following will gain if unanticipated inflation occurs?
+A.	Banks which set fixed deposit rates
+B.	Employees who receive fixed salaries each month
+C.	Landlords who receive fixed rental payments
+D.	Debtors who pay monthly installments with an indexed interest rate
+
+Answer: A
+
+
+Question code: B5C03Q029
+Real value in a specified period
+A.	is value expressed in units of money in the base period.
+B.	increases if the general price level increases.
+C.	is equal to the nominal value in a specified period divided by the general price level in the base period.
+D.	has a larger purchasing power than real value in the base period if the current GDP deflator is smaller than 100.
+
+Answer: A
+Explanation
+Option D is not correct. Real value in a specified period has a larger purchasing power than real value in the base period only if real value in the specified period is greater than real value in the base period. The price effect has been eliminated in the calculation of real value and so information about the price level is irrelevant.
+
+Question code: B5C03Q030
+Study the following data about Firm A.
+
+Year	Price index	Nominal profit	
+2014	110	$11,000	
+2015	105	$10,500	
+
+At the end of 2014, Firm A expected that the deflation rate in 2015 would be 5%. Which of the following is INCORRECT?
+A.	Real profit in 2014 was $10,000.
+B.	There was no change in real profit from 2014 to 2015.
+C.	There was deflation in 2015.
+D.	The firm would gain from the unexpected change in the price index.
+
+Answer: D
+
+
+Question code: B5C03Q031
+Which of the following statements about the real interest rate is INCORRECT?
+A.	The real interest rate is the rate of change in the purchasing power of an asset over a specified period of time.
+B.	The real interest rate is equal to the nominal interest rate if the percentage change in the general price level is equal to zero.
+C.	If the real interest rate of an asset is positive, the real value of the asset increases over time.
+D.	If the real interest rate is greater than the inflation rate, debtors gain.
+
+Answer: D
+
+Question code: B5C03Q032
+Which of the following equations are correct?
+(1)	Real interest rate = Nominal interest rate + Deflation rate
+(2)	Expected real interest rate = Nominal interest rate - Expected inflation rate
+(3)	Nominal interest rate = Actual real interest rate + Actual inflation rate
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C03Q033
+Suppose the expected inflation rate and the expected real interest rate are 10% and 2%, respectively. If the actual inflation rate turns out to be 12%, then
+A.	creditors gain.
+B.	the nominal interest rate is 14%.
+C.	the actual real interest rate is 0%.
+D.	people will not keep their money in banks.
+
+Answer: C
+
+
+Question code: B5C03Q034
+When there is inflation,
+A.	the nominal interest rate cannot be negative.
+B.	the real interest rate can be smaller than zero.
+C.	the nominal interest rate can be smaller than the real interest rate.
+D.	the real interest rate will be equal to the nominal interest rate if the percentage change in the general price level is anticipated.
+
+Answer: B
+
+Question code: B5C03Q035
+Study the following diagram about the GDP deflator in Money Island.
+
+Which of the following is correct?
+A.	From Year 4 to Year 5, there was no change in the general price level.
+B.	The island experienced deflation during the period.
+C.	The standard of living was increasing during the period.
+D.	The cost of living was increasing from Year 1 to Year 2.
+
+Answer: D
+
+
+Question code: B5C03Q036
+Study the following diagram about the GDP deflator in Apple City.
+
+Which of the following is INCORRECT?
+A.	The city experienced deflation from Year 1 to Year 4.
+B.	Based on the above diagram, we cannot draw any conclusion about people's standard of living.
+C.	The cost of living was decreasing from Year 1 to Year 4.
+D.	The city experienced disinflation during the period.
+
+Answer: D
+
+Question code: B5C03Q037
+Study the following diagram about the GDP deflator in Apple City.
+
+
+Which of the following is INCORRECT?
+(1)	The city experienced inflation from Year 1 to Year 3.
+(2)	The city experienced deflation in Year 4.
+(3)	The city experienced disinflation in Year 5.
+(4)	The general price level in Year 4 was the lowest among all five years.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+Explanation
+Option (4) is not correct. Suppose the percentage changes in the GDP deflator in Year 2, Year 3, Year 4 and Year 5 are about 3%, 4%, -1% and -0.5%, respectively. If the GDP deflator in Year 1 is 100, then the GDP deflator in the other four years is 103, 107.12, 106.05 and 105.52, respectively. The general price levels in Year 1 and Year 5 are lower than that in Year 4.
+Actually, as the percentage change in the GDP deflator in Year 5 is negative, the GDP deflator in Year 5 must be smaller than that in Year 4 (the preceding year of Year 5).
+
+Question code: B5C03Q038
+Study the following diagram about the Composite Consumer Price Index (CCPI) in Apple City.
+
+
+From the above diagram, which of the following conclusions can be drawn?
+(1)	In Year 1, indexed future payment providers gained.
+(2)	In Year 3, the general price level was the highest among all five years.
+(3)	In Year 4, the cost of living decreased.
+(4)	In Year 5, fixed future payment providers gained.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: C
+
+Question code: B5C03Q039
+Study the following diagram about the Composite Consumer Price Index (CCPI) in Apple City.
+
+From the above diagram, which of the following conclusions can be drawn?
+(1)	In Year 1, the standard of living was the highest among all five years.
+(2)	In Year 4, the purchasing power of money was the lowest among all five years.
+(3)	In Year 5, there was disinflation.
+(4)	In Year 5, the cost of living was the highest among all five years.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+
+Question code: B5C03Q040
+* Study the following diagram about the GDP deflator in Forbidden Island.
+
+
+From the diagram above, we can conclude that
+A.	In Year 1, providers of fixed future payments gain.
+B.	In Year 1, there was no inflationary effect.
+C.	In Year 2, there was disinflation.
+D.	From Year 4 to Year 5, recipients of fixed future payments lose.
+
+Answer: D
+Explanation
+To answer this question, students should first find the differences between the actual inflation rate and the expected inflation rate.
+
+Then, students can use the concepts of unanticipated inflation and deflation in the textbook to tackle this question. If the difference is negative, the redistributive effect will be similar to the situation of unanticipated deflation. If the difference is positive, the redistributive effect will be similar to the situation of unanticipated inflation. If the difference is equal to zero, there is anticipated inflation / deflation and so no party gains or loses.
+
+Question code: B5C03Q041
+Refer to the following diagram about Hong Kong's GDP deflator from 2004 to 2013.
+
+
+Source: The Census and Statistics Department
+
+According to the above diagram, we can conclude that
+A.	the nominal GDP increased between 2006 and 2008.
+B.	the real GDP increased between 2004 and 2006.
+C.	the purchasing power of money was decreasing between 2010 and 2013.
+D.	there was disinflation between 2008 and 2010.
+
+Answer: C
+
+Question code: B5C03Q042
+Which of the following is NOT an effect of inflation?
+A.	Everyone's standard of living decreases.
+B.	Borrowers who pay fixed interest rates gain.
+C.	The purchasing power of money decreases.
+D.	Domestically produced goods become less competitive.
+
+Answer: A
+
+Question code: B5C03Q043
+Which of the following about the effects of deflation is correct?
+A.	Government tax revenue increases
+B.	The purchasing power of money decreases
+C.	The prices of all consumer goods decrease
+D.	Income redistribution takes place
+
+Answer: D
+
+Question code: B5C03Q044
+If the inflation rate is higher than zero, which of the following statements is correct?
+A.	Debtors will gain unexpectedly.
+B.	The cost of living will increase.
+C.	The purchasing power of money will increase.
+D.	The standard of living will increase.
+
+Answer: B
+
+Question code: B5C03Q045
+If inflation is fully anticipated, then
+A.	there is no resource reallocation.
+B.	the standard of living may fall.
+C.	the purchasing power of money will remain unchanged.
+D.	the cost of living will remain unchanged.
+
+Answer: B
+
+Question code: B5C03Q046
+Ming has retired and holds a lot of non-monetary assets. He can correctly foresee the inflation rate. Which of the following is correct?
+A.	The real value of his wealth will not change.
+B.	His real wealth must decrease during inflation.
+C.	He can enjoy more goods after he retires.
+D.	He may still suffer from the effects of inflation.
+
+Answer: D
+
+
+Question code: B5C03Q047
+Anticipated deflation
+A.	will not reduce workers' incomes.
+B.	will not affect fixed income earners.
+C.	will not affect the real value of wealth.
+D.	will not reduce the purchasing power of money.
+
+Answer: D
+
+Question code: B5C03Q048
+During unanticipated deflation, those who receive pensions (退休金) will ________ because ________.
+A.	gain; the real value of pension income increases
+B.	gain; the real interest rate is higher than the nominal interest rate
+C.	lose; the nominal value of pension income decreases
+D.	lose; the pension income may not be indexed
+
+Answer: A
+
+Question code: B5C03Q049
+Which of the following parties will most likely lose during unanticipated inflation?
+A.	People who repay fixed mortgage loans to banks every month
+B.	Low-income families which receive a fixed transfer payment from the government every month
+C.	Tenants who pay $20,000 rent to landlords every month
+D.	A rich person who invests $0.1 billion in real assets every month
+
+Answer: B
+
+
+Question code: B5C03Q050
+The following table shows the Composite Consumer Price Index (CCPI) between Year 2 and Year 4.
+	Year 2	Year 3	Year 4	
+Percentage change in CCPI	-3.6	-2.6	-0.4	
+
+According to the above information, we can conclude that
+A.	the cost of living decreased between Year 2 and Year 4.
+B.	the purchasing power of money decreased between Year 2 and Year 4.
+C.	the general standard of living in Year 4 was higher than that in Year 2.
+D.	there was disinflation during the period.
+
+Answer: A
+
+Question code: B5C03Q051
+The following table shows Country A's GDP between Year 1 and Year 4.
+
+	Year 1	Year 2	Year 3	Year 4	
+Nominal GDP ($ billion)	13	14	16	17	
+Real GDP ($ billion)	13	15	17	18	
+
+According to the above information, we can conclude that
+A.	Year 1 is the base year.
+B.	the purchasing power of money decreased from Year 2 to Year 4.
+C.	income distribution became more even.
+D.	per capita real income increased during the period.
+
+Answer: B
+
+
+Question code: B5C03Q052
+Which of the following is counted as an unemployed person in Hong Kong?
+A.	Anson, a househusband, who takes care of his own family and does not have a job
+B.	Betty, a freelance translator, who works less than 35 hours a week and is seeking more work
+C.	Chun, who previously worked at a garment factory and has failed to find a job for three years and decides to retire earlier
+D.	Doris, who has resigned from her original job and is now looking for a new one
+
+Answer: D
+
+Question code: B5C03Q053
+Many people in Hong Kong work at their own businesses. Recently, due to the rapid increase in rents, some businesspeople have gone out of business. They are looking for jobs to earn a more stable income. How will this affect Hong Kong's labour market?
+(1)	The unemployment rate will increase.
+(2)	The unemployment rate will decrease.
+(3)	The labour force will increase.
+(4)	The labour force will remain unchanged.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B5C03Q054
+Suppose the underemployment rate of an economy is 2% and 60,000 people are underemployed. If the unemployment rate is 4%, the unemployed population is _________.
+A.	120,000
+B.	125,000
+C.	3,000,000
+D.	3,125,000
+
+Answer: A
+
+Question code: B5C03Q055
+Which of the following persons is/are included in the labour force?
+(1)	Mrs Au, who is a rich housewife and not willing to work 
+(2)	Bob, who is a needy university student and searching for a part-time job
+(3)	Candy, who is a retired person and searching for voluntary work
+A.	(2) only
+B.	(3) only
+C.	(1) and (2) only
+D.	(2) and (3) only
+
+Answer: A
+
+Question code: B5C03Q056
+Isabella marries a rich man and becomes a rich housewife. She receives $1 million per month from her husband in pocket money. Which of the following statements about Isabella is correct?
+A.	She is classified as unemployed.
+B.	She is classified as employed.
+C.	The pocket money is counted in GDP.
+D.	She is not included in the labour force.
+
+Answer: D
+
+Question code: B5C03Q057
+Rachel, a retired chief government officer, becomes a consultant at a property development company. She charges the company a high consultancy fee but she only needs to work two days a week. Which of the following statements must be correct?
+A.	She is classified as underemployed.
+B.	She is not classified as employed as she is retired.
+C.	Her consultancy fee should not be included in GDP because this is merely a transfer of money.
+D.	She is included in the labour force.
+
+Answer: D
+Explanation:
+Provided that Rachel has to provide consultancy services to the property development company, the consultancy fee should be included in GDP.
+
+Question code: B5C03Q058
+After being laid off, Mr Ho was very upset. He wanted to have a rest and decided to temporarily not look for a job. He took part in a TV game show and was lucky enough to win $10,000 in cash. Then, he visited Tengger Desert, Inner Mongolia (內蒙古騰格里沙漠). After the visit, he started looking for a job but failed to find one. Mr Ho is included in the
+(1)	labour force.
+(2)	unemployed population.
+(3)	underemployed population.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1) and (3) only
+
+Answer: C
+
+Question code: B5C03Q059
+Which of the following people is/are NOT included in the unemployed population?
+(1)	University students who want to find a part-time job
+(2)	Part-time volunteer workers who find full-time jobs
+(3)	People who involuntarily work less than 30 hours a week
+A.	(2) only
+B.	(3) only
+C.	(1) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B5C03Q060
+Study the following table.
+
+Employed population	3.5 million	
+Unemployed population	0.5 million	
+Underemployed population	0.3 million	
+Non-working population	1.5 million	
+
+The size of the labour force is
+A.	3.5 million.
+B.	4 million.
+C.	4.3 million.
+D.	5 million.
+
+Answer: B
+
+Question code: B5C03Q061
+Study the following table.
+
+Employed population	3.5 million	
+Unemployed population	0.5 million	
+Underemployed population	0.3 million	
+Non-working population	1.5 million	
+
+What is the unemployment rate?
+A.	10%
+B.	12.5%
+C.	14.3%
+D.	20%
+
+Answer: B
+
+Question code: B5C03Q062
+Study the following information.
+
+Employed population	3,600,000	
+Unemployed population	400,000	
+Underemployed population	300,000	
+
+The employment rate is
+A.	10%.
+B.	69.78%.
+C.	90%.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C03Q063
+Study the following table.
+
+Unemployment rate	20%	
+Underemployment rate	10%	
+
+Suppose the labour force is 3,000,000. The number of employed persons is
+A.	2,100,000.
+B.	2,400,000.
+C.	2,700,000.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C03Q064
+Study the following table.
+Labour force	6,200,000	
+Unemployed population	460,000	
+Under-employed population	105,000	
+
+The employment rate is
+A.	90.89%.
+B.	92.58%.
+C.	93.09%.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B5C03Q065
+Study the following information about Country A.
+Labour force	1,200,000	
+Employed population	1,000,000	
+Underemployed population	50,000	
+
+The unemployment rate and underemployment rate in Country A are ________ and ________, respectively.
+A.	83.33%; 4.17%
+B.	16.67%; 4.17%
+C.	83.33%; 5%
+D.	16.67%; 5%
+
+Answer: B
+
+Question code: B5C03Q066
+Many retirees in Hong Kong choose to return to their home towns in the mainland. As a result, the unemployment rate of Hong Kong will
+A.	increase.
+B.	decrease.
+C.	increase, decrease or remain unchanged.
+D.	remain unchanged.
+
+Answer: D
+
+Question code: B5C03Q067
+Which of the following implies an increase in the unemployment rate?
+A.	The percentage increase in the labour force is greater than that of the employed population.
+B.	The percentage increase in the employed population is greater than that of the labour force.
+C.	Both the employed population and the labour force decrease.
+D.	Both the unemployed population and the labour force increase.
+
+Answer: A
+
+
+Question code: B5C03Q068
+* Study the following newspaper cutting.
+According to the above information, other things being equal, the influx of fresh graduates into the labour market will
+(1)	increase both the number of unemployed persons and the labour force in May.
+(2)	increase the unemployment rate in May.
+(3)	increase the number of employed persons in May.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C03Q069
+Which of the following are the costs of unemployment?
+(1)	The standard of living of the unemployed falls.
+(2)	The government needs to spend more money on public security due to a higher crime rate.
+(3)	Property prices decrease.
+(4)	Economic output is lower.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: D
+
+Question code: B5C03Q070
+Which of the following are NOT costs of unemployment to the unemployed?
+A.	Payment of education fees
+B.	Lower standard of living
+C.	Productivity decreases
+D.	Income decreases
+
+Answer: A
+
+Question code: B5C03Q071
+Which of the following are NOT the costs of unemployment to society?
+(1)	Government tax revenue decreases.
+(2)	More people are dissatisfied with the government and this may cause political instability.
+(3)	National income will drop.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of them are costs of unemployment to society.
+
+Answer: C
+
+Question code: B5C03Q072
+Which of the following is a cost of unemployment to society?
+A.	The cost of living increases
+B.	Some labourers have been idle
+C.	The population decreases
+D.	A lower standard of living
+
+Answer: B
+
+Question code: B5C03Q073
+The following phenomena are observed in an economy:
+	(1)	Investors start to withdraw their money from the economy.
+	(2)	Producer inventories accumulate.
+	(3)	The aggregate output level starts to decrease.
+The economy is most likely in the _____________ phase of a business cycle.
+A.	peak
+B.	expansion
+C.	trough
+D.	contraction
+
+Answer: D
+
+Question code: B5C03Q074
+The following diagram shows the business cycle of an economy.
+
+Which of the following statements about Point X is INCORRECT?
+A.	The economy is in a recession.
+B.	Real income is increasing.
+C.	The economy's aggregate output is contracting.
+D.	The unemployment rate is increasing.
+
+Answer: C
+
+Question code: B5C03Q075
+The following shows an economy's GDP growth rate.
+
+Which of the following statements about the economy at Time X are correct?
+(1)	The economy is in a recovery.
+(2)	The output level increases.
+(3)	The general price level increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+Option (1) is correct. As the real GDP growth rate is increasing, the economy is in recovery.
+Option (3) is not correct. As the real GDP growth rate is equal to the nominal GDP growth rate, the growth rate of the general price level is zero, i.e., the general price level remains unchanged.
+
+Question code: B5C03Q076
+Country H is facing a large fiscal deficit and trade deficit. In the following diagram, X is in a certain phase of a business cycle.
+
+Which of the following phenomena will likely be observed at X?
+(1)	A decrease in the unemployment rate
+(2)	Deteriorating business confidence 
+(3)	A decrease in the fiscal deficit
+(4)	A decrease in the trade deficit
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+Explanation
+Option (4) is not correct. When there is an increase in real GDP, the trade balance will most likely deteriorate, i.e., the trade balance decreases or the trade deficit increases.
+
+Question code: B5C03Q077
+In the following diagram, Y is in a certain phase of a business cycle.
+
+____________ will remain low at Y.
+(1)	The unemployment rate
+(2)	Firm inventories
+(3)	Transfer payments
+(4)	Sales receipts
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (2) and (3) only
+
+Answer: D
+
+Question code: B5C03Q078
+Business cycles refer to
+A.	the short run rapid growth of real GDP.
+B.	long run cyclical fluctuations in the real GDP.
+C.	short run cyclical fluctuations in the potential GDP around the long run trend.
+D.	short run cyclical fluctuations in the real GDP around the long run trend.
+
+Answer: D
+
+
+Question code: B5C03Q079
+Which of the following statements about the business cycle is correct?
+A.	All business cycles have four phases, namely recession, depression, recovery and peak.
+B.	The defining feature of each phase is fluctuation in the potential GDP.
+C.	The peak is also called prosperity or expansion.
+D.	A recession is also called a contraction.
+
+Answer: D
+
+Question code: B5C03Q080
+Which of the following is NOT a characteristic of a depression?
+A.	Weak consumption
+B.	Many firms wind up
+C.	High unemployment rate
+D.	Government tax revenue increases
+
+Answer: D
+
+Question code: B5C03Q081
+When an economy approaches a trough, which of the following phenomena may be observed?
+(1)	The real value of private consumption expenditure decreases rapidly.
+(2)	Real GDP is at its lowest.
+(3)	The unemployment rate rises.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C03Q082
+Which of the following is LEAST likely to take place during a recession?
+A.	Real national income decreases.
+B.	The government fiscal balance improves.
+C.	Business confidence deteriorates.
+D.	The unemployment rate increases.
+
+Answer: B
+
+Question code: B5C03Q083
+Which of the following will be found during an economic boom?
+(1)	High employment rate
+(2)	High retail receipts
+(3)	High factory vacancy rate
+(4)	High GDP growth
+A.	(1) and (2) only
+B.	The factory vacancy rate decreases
+C.	(3) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: D
+
+Question code: B5C03Q084
+Which of the following is LEAST likely a characteristic of an economic peak?
+A.	Consumption expenditure increases.
+B.	Factory vacancy rate decreases
+C.	Real gross investment expenditure starts to rise.
+D.	Number of people receiving unemployment allowances decreases.
+
+Answer: C
+
+Question code: B5C03Q085
+Which of the following is LEAST likely a characteristic of a recovery?
+A.	The number of applications for the Protection of Wages on Insolvency Fund (破產欠薪保障基金) drops.
+B.	More job opportunities are available.
+C.	Business people are optimistic about business prospects.
+D.	Retail receipts are decreasing.
+
+Answer: D
+
+
+Question code: B5C03Q086
+Read the following report on Country A's economy.
+
+Country A is most likely at/in a
+A.	peak.
+B.	recession.
+C.	trough.
+D.	recovery.
+
+Answer: C
+
+Question code: B5C03Q087
+Study the following table.
+
+Year	3	4	5	
+Real GDP ($ billion)	10	12	16	
+Price index	10	12	14	
+
+The economy was in/at a ________ between Year 3 and Year 4.
+A.	trough
+B.	recovery
+C.	peak
+D.	recession
+
+Answer: B
+
+Question code: B5C03Q088
+Study the following table.
+Year	3	4	5	
+Real GDP growth rate (%)	2	-1	-2	
+GDP deflator	110	112	110	
+
+The economy was in/at a ________ between Year 3 and Year 4.
+A.	trough
+B.	recovery
+C.	peak
+D.	recession
+
+Answer: D
+
+Question code: B5C03Q089
+Study the following table.
+Year	3	4	5	
+Nominal GDP growth rate (%)	5	4	10	
+GDP deflator growth rate (%)	1	-3	1	
+
+The economy was in/at a ________ between Year 3 and Year 4.
+A.	trough
+B.	recovery
+C.	peak
+D.	recession
+
+Answer: B
+Explanation
+Real GDP growth rates in Year 3, Year 4 and Year 5 were about 4%, 7% and 9%, respectively. Real GDP was increasing but was not at its highest between Year 3 and Year 4. Thus, the economy was in a recovery between Year 3 and Year 4.
+
+Question code: B5C03Q090
+Study the following information.
+Year	Year 4	Year 5	
+Real GDP ($ billion)	100	110	
+Nominal GDP ($ billion)	120	132	
+
+Which of the following statements is correct?
+A.	The inflation rate between Year 4 and Year 5 was 0%.
+B.	The economy was at a peak.
+C.	The unemployment rate increased in Year 5.
+D.	The standard of living must improve during the period.
+
+Answer: A
+
+Question code: B5C03Q091
+Study the following diagram.
+
+X is the period of
+A.	trough.
+B.	recovery.
+C.	peak.
+D.	recession.
+
+Answer: B
+
+Question code: B5C03Q092
+Study the following diagram.
+
+Which of the following are the possible features of an economy at Point Z?
+(1)	Real consumption expenditure decreases.
+(2)	Full employment GDP decreases.
+(3)	The unemployment rate increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+Explanation
+Option (2) is not correct. As the trend growth rate is positive, the full employment GDP must increase.
+
+Question code: B5C03Q093
+Study the following diagram.
+
+Which of the following are the possible features of an economy at Point H?
+(1)	The growth rate of real consumption expenditure is decreasing.
+(2)	The employment rate is decreasing.
+(3)	The growth rate of real investment expenditure is decreasing.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C03Q094 (new)
+If the expected deflation rate is greater than zero, the __________ is greater than the __________.
+A.	nominal interest rate … expected real interest rate
+B.	expected real interest rate … nominal interest rate
+C.	nominal interest rate … actual real interest rate
+D.	actual real interest rate … nominal interest rate
+
+Answer: B
+
+Question code: B5C03Q095 (new)
+When people expect deflation to occur,
+A.	the expected real interest rate will be higher than the nominal interest rate.
+B.	the expected real interest rate will be lower than the nominal interest rate.
+C.	the actual real interest rate will be equal to the nominal interest rate.
+D.	the expected real interest rate may be higher than, lower than or equal to the nominal interest rate.
+
+Answer: A
+
+Question code: B5C03Q096 (new)
+When people expect deflation, which of the following is correct?
+A.	The nominal interest rate is negative.
+B.	The expected real interest rate is higher than the nominal interest rate.
+C.	The actual inflation rate is negative.
+D.	All of the above
+
+Answer: B
+
+Question code: B5C03Q097 (new)
+If the actual inflation rate is positive,
+A.	the actual real interest rate must be positive.
+B.	the actual real interest rate must be negative.
+C.	the nominal interest rate is higher than the actual real interest rate.
+D.	the nominal interest rate is lower than the actual real interest rate.
+
+Answer: C
+
+
+Question code: B5C03Q098 (new)
+The nominal interest rate and the expected inflation rate are 6% and 4%, respectively. Suppose the actual inflation rate is 2%. The actual real interest rate is __________ than the expected real interest rate by __________.
+A.	higher … 2%
+B.	higher … 4%
+C.	lower … 2%
+D.	lower … 4%
+
+Answer: A
+
+Question code: B5C03Q099 (new)
+Emily invested $20,000 in bonds in Year 1 at a nominal interest rate of 10%. She did not expect the price level to change. However, the price index increased from 100 to 103 during this period. The expected real interest rate and actual real interest rate are __________ and __________, respectively.
+A.	3% … 10%
+B.	7% … 10%
+C.	10% … 3%
+D.	10% … 7%
+
+Answer: D
+
+Question code: B5C03Q100 (new)
+Given that the nominal interest rate is fixed. When the actual real interest rate is greater than the expected real interest rate, this implies that
+	(1)	there is deflation.
+	(2)	the inflation rate is lower than expected.
+	(3)	the deflation rate is higher than expected.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B5C03Q101 (new)
+Suppose people expected the price level to drop but that it increased instead. The nominal interest rate will be __________ than the expected real interest rate, and the actual real interest will be __________ than the expected real interest rate.
+A.	higher … higher
+B.	higher … lower
+C.	lower … higher
+D.	lower … lower
+
+Answer: D
+
+Question code: B5C03Q102 (new)
+If the actual real interest rate is lower than the nominal interest rate, which of the following must be correct?
+A.	Debtors gain.
+B.	The expected real interest rate is higher than the actual real interest rate.
+C.	The inflation rate is positive.
+D.	All of the above
+
+Answer: C
+
+Question code: B5C03Q103 (new)
+When the expected inflation rate is positive,
+A.	the nominal interest rate must be equal to the expected inflation rate.
+B.	the expected real interest rate must be smaller than the nominal interest rate.
+C.	no one will lend as people expect the purchasing power of fixed interest income to fall.
+D.	the actual inflation rate must be positive.
+
+Answer: B
+
+
+Question code: B5C03Q104 (new)
+If the nominal interest rate is equal to the expected inflation rate,
+(1)	the expected real interest rate is zero.
+(2)	payers of fixed future payments will gain when the actual inflation rate is as expected.
+(3)	the actual real interest rate will be negative when the actual inflation rate is higher than expected.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C03Q105 (new)
+In Country X, the nominal interest rate is equal to the expected real interest rate. Which of the following are implied?
+(1)	The price level is not expected to change.
+(2)	The actual real interest rate will be greater than the nominal interest rate if there is deflation.
+(3)	Borrowers will lose if there is inflation.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C03Q106 (new)
+Suppose people expected no change in the price level. If the expected real interest rate is greater than the actual real interest rate, which of the following can gain?
+	(1)	John, who is paying $300 per month buying a TV set by installments
+	(2)	Mary, a pension holder who receives a $6,000 pension every month
+	(3)	Samuel, who will pay a school fee of $20,000 in the future
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C03Q107 (new)
+Serena did not expect any inflation last year. She invested in a business and expected a 7% annual nominal rate of return. The inflation rate turned out to be 2% and the business generated an 8% nominal rate of return. Which of the following are correct?
+(1)	Serena's expected real rate of return of the investment was 7%.
+(2)	The actual real rate of return of the investment was 10%.
+(3)	Serena suffered a loss from the change in price level.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C03Q108 (new)
+The expected inflation rate is 1% and the nominal interest rate is 5%. If the actual real interest rate is 4%,
+A.	lenders will gain.
+B.	borrowers will gain.
+C.	neither lender nor borrowers will gain.
+D.	both lenders and borrowers will lose.
+
+Answer: C
+
+Question code: B5C03Q109 (new)
+Karmen holds a bond with an expected real interest rate of 3%. She will gain if the nominal interest rate and actual inflation rate are __________ and __________, respectively.
+A.	4% … 2%
+B.	4% … 1%
+C.	2% … -2%
+D.	B and C
+
+Answer: C
+
+Question code: B5C03Q110 (new)
+Eric invested in Firm X. Study the following table.
+	Inflation rate	Nominal rate of return	
+Expected	2%	6%	
+Actual	Y	8%	
+Eric will gain if the value of Y is __________.
+A.	2%
+B.	4%
+C.	6%
+D.	8%
+
+Answer: A
+
+Question code: B5C03Q111 (new)
+The inflation rate was expected to be 1%. If it turns out to be 4%, 
+A.	time deposit holders will lose.
+B.	payers of fixed future payments will lose.
+C.	recipients of floating future payments will gain.
+D.	the nominal value of money will decrease.
+
+Answer: A
+
+Question code: B5C03Q112 (new)
+Yoyo has borrowed $10,000 from Carmela at a nominal interest rate of 5%. Neither of them expected the price level to change. Under which of the following situations will Carmela gain?
+	(1)	Actual real interest rate > Nominal interest rate
+	(2)	Actual inflation rate - Expected inflation rate = -1%
+	(3)	Actual inflation rate < 0
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C03Q113 (new)
+* Suppose people do not expect any change in the price level. When the actual real interest rate is greater than the nominal interest rate,
+	(1)	the cost of living has increased.
+	(2)	people holding monetary assets will gain.
+	(3)	the volume of imports decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation
+When the actual real interest rate is greater than the nominal interest rate, there is deflation.
+Option (2) is correct as the real values of monetary assets increase during deflation.
+Option (3) is correct as the prices of foreign products rise relative to the prices of domestic products.
+
+
+Short Questions
+
+Question code: B5C03Q301
+(a)	What is inflation?	(2 marks)
+(b)	What is the difference between deflation and disinflation?	(4 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+(b)	During deflation, the general price level decreases persistently (i.e., negative inflation rate).	(2 marks)
+	During disinflation, the general price level still increases persistently but at a declining rate (i.e., positive but decreasing inflation rate).	(2 marks)
+
+Question code: B5C03Q302
+(a)	Define inflation.	(2 marks)
+(b)	Explain whether the introduction of a general sales tax will cause inflation.
+	(2 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+(b)	•	No.	(1 mark)
+•	Although the prices of all goods increase after the introduction of the tax, the increase in the prices is once-and-for-all, not a persistent increase.	(1 mark)
+
+Question code: B5C03Q303
+(a)	Define inflation.	(2 marks)
+(b)	'After the government increases textbook assistance for students, the prices of textbooks increase persistently.' Explain whether this case is an example of inflation.	(2 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+(b)	•	No.	(1 mark)
+•	The persistent increase in the price of textbooks cannot bring about a persistent increase in general prices. Thus, this case is not an example of inflation.	(1 mark)
+
+Question code: B5C03Q304
+(a)	Define disinflation and deflation.	(4 marks)
+
+(b)	Study the following diagram about the change in the Composite Consumer Price Index (CCPI). Determine whether the economy experienced disinflation or deflation during the following period.
+(i)	From Year 1 to Year 2	(1 mark)
+(ii)	From Year 3 to Year 5	(1 mark)
+
+
+Answers:
+(a)	Disinflation is the phenomenon of a persistent increase in the general price level but at a declining rate.	(2 marks)
+Deflation is the phenomenon of a persistent decrease in the general price level.
+	(2 marks)
+(b)	(i)	Deflation	(1 mark)
+(ii)	Disinflation	(1 mark)
+
+Question code: B5C03Q305
+(a)	Define inflation and disinflation.	(4 marks)
+(b)	Study the following diagram about the change in the GDP deflator.
+
+Explain whether the economy experienced inflation during the following period.
+(i)	From Year 1 to Year 2	(1 mark)
+(ii)	From Year 3 to Year 5	(1 mark)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+Disinflation is the phenomenon of a persistent increase in the general price level but at a declining rate.	(2 marks)
+(b)	(i)	No. As the percentage changes in the GDP deflator are negative, the economy experienced deflation during the period.	(1 mark)
+(ii)	Yes. As the percentage changes in the GDP deflator are positive, the economy experienced inflation during the period.	(1 mark)
+
+Question code: B5C03Q306
+Study the following data about the Composite Consumer Price Index (CCPI) of Country H. The government increased the sales tax in April.
+
+	March	April	May	June		CCPI	100	111	111	111	
+
+(a)	Define inflation and inflation rate.	(4 marks)
+(b)	Calculate the inflation rate in April.	(1 mark)
+(c)	Explain whether the country experienced inflation during the period from March to June.	(2 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+Inflation rate is the (positive) percentage change in the general price level in a specified period.	(2 marks)
+(b)	(111 - 100) ÷ 100 × 100% = 11%	(1 mark)
+(c)	No. The increase in the sales tax only resulted in a once-and-for-all increase in the general price level. Since the general price level did not rise persistently, there was no inflation.	(2 marks)
+
+
+Question code: B5C03Q307
+Study the following data about the GDP deflator of Country G. Oil prices in the country have increased persistently.
+
+	Year 1	Year 2	Year 3	Year 4		GDP deflator	100	120	180	360	
+
+(a)	Define inflation and inflation rate.	(4 marks)
+(b)	Calculate the inflation rates in Year 2, Year 3 and Year 4.	(3 marks)
+(c)	Explain whether the country experienced inflation during the period.	(1 mark)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+The inflation rate is the (positive) percentage change in the general price level in a specified period.	(2 marks)
+(b)	Year 2's inflation rate = (120 - 100) ÷ 100 × 100% = 20%	(1 mark)
+Year 3's inflation rate = (180 - 120) ÷ 120 × 100% = 50%	(1 mark)
+Year 4's inflation rate = (360 - 180) ÷ 180 × 100% = 100%	(1 mark)
+(c)	Yes. As the general price level increased persistently, there was inflation.	(1 mark)
+
+Question code: B5C03Q308
+Study the following information about Hong Kong's economy.
+
+Year	Composite consumer price index (CCPI)	
+2011	106.0	
+2012	110.3	
+2013	115.1	
+Source: Census and Statistics Department
+
+(a)	Calculate the percentage changes in CCPI in 2012 and 2013 (correct to 1 decimal place). Determine whether Hong Kong experienced inflation or deflation in 2012 and 2013.	(4 marks)
+(b)	Explain ONE advantage of CPI over the GDP deflator.	(2 marks)
+(c)	Suppose people expected the annual inflation rate was 4% from 2011 to 2013. Based on your result in (a), explain whether the following parties would gain or lose.
+(i)	In 2011, Morris bought bonds with a fixed nominal interest rate of 4.5%.
+	(2 marks)
+(ii)	In 2011, John borrowed money from a bank to buy a luxury car as a gift to her girlfriend and agreed to repay a fixed monthly installment loan over ten years.
+	(2 marks)
+
+Answers:
+(a)	The percentage change in CCPI in 2012 = (110.3 - 106.0)/106.0 = 4.1%	(1 mark)
+	Hong Kong experienced inflation in 2012.	(1 mark)
+	The percentage change in CCPI in 2013 = (115.1 - 110.3)/110.3 = 4.4%	(1 mark)
+	Hong Kong experienced inflation in 2013.	(1 mark)
+(b)	CPI can better reflect households' cost of living as it only measures the prices of products generally purchased by domestic households.	(2 marks)
+(c)	(i)	He will lose.	(1 mark)
+		The real interest rate he receives is lower than he expected.	(1 mark)
+	(ii)	He will gain.	(1 mark)
+		The real value of the installments he pays is less than he expected.	(1 mark)
+	
+Question code: B5C03Q309
+Read the following news extract.
+
+According to the Census and Statistics Department, the composite consumer price index rose 6.6% year-on-year in September while economists had predicted a 6.2% increase.
+The Census and Statistics Department expected that the consumer price index would continue to increase as there are local cost pressures and rises in import prices.
+	21st Oct, 2014
+
+(a)	What is inflation? Based on the news extract, explain whether Hong Kong experienced inflation at that time.	(4 marks)
+(b)	The government issued new inflation-linked bonds (iBonds) totalling $10 billion in July 2014. Explain whether the government or holders of iBonds will suffer from the change in the consumer price index mentioned in the news extract.
+	(4 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+	Hong Kong experienced inflation because there was an increase in the general price level over a year.	(2 marks)
+(b)	Neither party will gain or lose.	(1 mark)
+	The interest on iBonds will be adjusted based on actual inflation. As a result, the real value of interest income/payment remains unchanged under unanticipated inflation.	(3 marks)
+
+Question code: B5C03Q310
+(a)	Express the real interest rate in terms of the nominal interest rate and the inflation rate.	(2 marks)
+(b)	It was expected that there would be no inflation this year. However, the inflation rate has turned out to be 1%. Explain whether the following people will gain or lose.
+	(i)	A lender who receives repayments at a fixed interest rate	(2 marks)
+	(ii)	An employer who adjusts wages according to the expected inflation rate
+	(2 marks)
+
+Answers:
+(a)	Real interest rate = Nominal interest rate - Inflation rate	(2 marks)
+(b)	(i)	He will lose.	(1 mark)
+		The real interest rate he receives is lower than he expected.	(1 mark)
+	(ii)	He will gain.	(1 mark)
+		The real value of wages he pays is less than he expected.	(1 mark)
+
+Question code: B5C03Q311
+(a)	Use ONE formula to show the relationship between the expected real interest rate and the expected inflation rate.	(2 marks)
+(b)	In Year 1, Samuel deposited money into a bank and the bank agreed to pay him a nominal interest rate of 2%. He expected that there would be inflation in Year 2. Instead, there was deflation in Year 2. Explain whether the nominal interest rate will be higher than the actual real interest rate.	(3 marks)
+
+Answers:
+(a)	Expected real interest rate = Nominal interest rate - Expected inflation rate
+	(2 marks)
+(b)	Actual real interest rate = Nominal interest rate - Actual inflation rate	(1 mark)
+As the actual inflation rate in Year 2 was negative, the nominal interest rate must be smaller than the actual real interest rate.	(2 marks)
+
+Question code: B5C03Q312
+(a)	What is deflation? What is indexation?	(4 marks)
+(b)	How does deflation affect the economic welfare of the following parties?
+(i)	Recipients of indexed future payments	(2 marks)
+(ii)	Recipients of fixed future payments	(2 marks)
+
+
+Answers:
+(a)	Deflation refers to a persistent decrease in the general price level.	(2 marks)
+Indexation refers to the automatic adjustment of future payments according to a price index that reflects the cost of living.	(2 marks)
+(b)	(i)	As the future payments are indexed, they will be adjusted automatically according to the price index. Thus, deflation will not affect the purchasing power (or real value) of the future payments or the economic welfare of the recipients.	(2 marks)
+(ii)	Deflation will increase the purchasing power of money and the purchasing power (or real value) of fixed future payments. As a result, the economic welfare of recipients of fixed future payments will increase during deflation.	
+	(2 marks)
+
+Question code: B5C03Q313
+(a)	Define deflation.	(2 marks)
+(b)	After the exemption of duties on wine, the price of wine decreases. Explain whether this is an example of deflation.	(2 marks)
+
+Answers:
+(a)	Deflation is the phenomenon of a persistent decrease in the general price level.
+	(2 marks)
+(b)	•	No.	(1 mark)
+•	A fall in the price of a single good (wine) is not deflation.	(1 mark)
+
+Question code: B5C03Q314
+(a)	What are nominal value and real value in a specified period?	(4 marks)
+(b)	How can real value be determined from nominal value? Show this in an equation.	(1 mark)
+
+
+Answers:
+(a)	Nominal value in a specified period is value expressed in units of money in that period.	(2 marks)
+Real value in a specified period is value expressed in units of money in the base period.	(2 marks)
+(b)	Real value = Nominal value in a specified period ÷ Price index in the period × 100
+	(1 mark)
+
+Question code: B5C03Q315
+Study the following data.
+
+Year	Price index	Mr Chan's nominal income ($ million)	
+4	100	1	
+5	120	1.3	
+
+(a)	Find Mr Chan's real income in Year 4 and Year 5.	(2 marks)
+(b)	Must Mr Chan's standard of living improve? Explain with ONE reason.	(3 marks)
+
+Answers:
+(a)	Mr Chan's real income in Year 4 = $1 million (as the price index = 100)	(1 mark)
+Mr Chan's real income in Year 5 = $1.3 million ÷ 120 × 100 = $1.08 million
+	(1 mark)
+(b)	Not necessarily.	(1 mark)
+The value of leisure is not counted. Mr Chan may give up more leisure in exchange for higher real income.	(2 marks)
+(Any other reasonable answer.)
+
+Question code: B5C03Q316
+Study the following data.
+
+Year	Price index	Real GDP ($ million)	
+4	110	100	
+5	130	90	
+
+(a)	Find nominal GDPs in Year 4 and Year 5.	(2 marks)
+(b)	In which year is the purchasing power of nominal GDP greater? Explain.	(2 marks)
+(c)	In light of the results in (a) and (b), explain why an increase in nominal GDP may NOT imply an improvement in economic welfare.	(2 marks)
+
+Answers:
+(a)	Nominal GDP in Year 4 = $100 million × 110 ÷ 100 = $110 million	(1 mark)
+Nominal GDP in Year 5 = $90 million × 130 ÷ 100 = $117 million	(1 mark)
+(b)	Year 4	(1 mark)
+as the price level in Year 4 is smaller.	(1 mark)
+(c)	An increase in nominal GDP may be caused by an increase in the general price level rather than an increase in the volume of production. Thus, even though there is an increase in nominal GDP, real GDP may still decrease. For example, in this case, nominal GDP increased from Year 4 to Year 5, but real GDP decreased in this period.	(2 marks)
+
+Question code: B5C03Q317
+(a)	What are nominal and real interest rates?	(4 marks)
+(b)	How can the real interest rate be found from the nominal interest rate? Show this in an equation.	(1 mark)
+
+Answers:
+(a)	Nominal interest rate is the rate of change in the nominal value (or money value) of an asset over a specified period.	(2 marks)
+Real interest rate is the rate of change in the real value (or purchasing power) of an asset over a specified period.	(2 marks)
+(b)	Real interest rate = Nominal interest rate - Inflation rate	(1 mark)
+
+Question code: B5C03Q318
+Suppose the expected deflation rate and the nominal interest rate are 1% and 2%, respectively.
+(a)	Find the expected real interest rate.	(2 marks)
+(b)	Suppose the actual inflation rate turns out to be 1%.
+(i)	What would the actual real interest rate be?	(2 marks)
+(ii)	Would debtors or creditors gain or lose in this case?	(2 marks)
+
+
+Answers:
+(a)	Expected real interest rate
+= Nominal interest rate + Expected deflation rate	(1 mark)
+= 2% + 1% = 3%	(1 mark)
+(b)	(i)	Actual real interest rate
+= Nominal interest rate - Actual inflation rate	(1 mark)
+= 2% - 1% = 1%	(1 mark)
+(ii)	In this case, debtors would gain (unexpectedly) as the actual real interest rate (1%) paid was lower than the expected real interest rate (3%).	(1 mark)
+On the other hand, creditors would lose (unexpectedly) as the actual real interest rate (1%) received was lower than the expected real interest rate (3%).
+	(1 mark)
+
+Question code: B5C03Q319
+Explain how inflation affects the following items.
+(a)	The purchasing power of money	(2 marks)
+(b)	The competitiveness of domestic exports	(2 marks)
+
+Answers:
+(a)	When the general price level increases, the same basket of goods and services will cost consumers more. This means that the purchasing power of money will decrease.	(2 marks)
+(b)	Inflation increases the cost of domestic production and the prices of domestic exports. As a result, it lowers the competitiveness of domestic exports.	(2 marks)
+
+Question code: B5C03Q320
+Suppose people borrow from banks to finance the purchase of a home at a fixed interest rate.
+(a)	Explain who will gain and who will lose during a period of unanticipated deflation.	(4 marks)
+(b)	Explain who will gain and who will lose during a period of anticipated inflation.
+	(2 marks)
+
+
+Answers:
+(a)	•	Borrowers will lose,	(1 mark)
+because the purchasing power of the money they repay to banks increases.
+	(1 mark)
+	•	Banks will gain,	(1 mark)
+because the purchasing power of money they get back from borrowers increases.	(1 mark)
+(b)	Under anticipated inflation, borrowers and banks have correctly anticipated the change in the real value of future payments. Since the actual change is expected, no party gains or loses due to the anticipated inflation.	(2 marks)
+
+Question code: B5C03Q321
+Suppose Peter lends $500,000 to Pan at an interest rate of 20% (per annum).
+(a)	Explain who will gain and who will lose during a period of unexpected inflation.	(4 marks)
+(b)	Suggest ONE method to avoid the wealth redistributive effects in (a).	(2 marks)
+
+Answers:
+(a)	•	Peter will lose,	(1 mark)
+because the purchasing power of the money he receives decreases with inflation.	(1 mark)
+	•	Pan will gain,	(1 mark)
+because the purchasing power of the money she pays back decreases with inflation.	(1 mark)
+(b)	They can index the interest rate of the loan so that the interest rate will change　automatically along with a price index. This offsets the increase in the price level and maintains the purchasing power of the future payment.	(2 marks)
+(Any other reasonable answers.)
+
+
+Question code: B5C03Q322
+Study the following diagram about the Composite Consumer Price Index (CCPI).
+
+Explain whether the following parties would gain or lose during the period from Year 3 to Year 5.
+(a)	A government which issued bonds at fixed interest rates	(2 marks)
+(b)	The elderly who received a fixed amount of the Normal Old Age Allowance (普通高齡津貼)	(2 marks)
+
+Answers:
+(a)	As there was unexpected inflation during the period, the real value of fixed interest payments the government paid was lower than expected.	(1 mark)
+Thus, the government would gain unexpectedly during the period.	(1 mark)
+(b)	As there was unexpected inflation during the period, the real value of the allowance the elderly received was lower than expected.	(1 mark)
+Thus, the elderly would lose unexpectedly during the period.	(1 mark)
+
+Question code: B5C03Q323
+Besides income redistributive effects, what are the effects of inflation? Briefly explain TWO of them.	(4 marks)
+
+Answers:
+The following are the effects of inflation:
+•	The cost of living rises and the purchasing power of money drops;
+•	The standard of living may fall;
+•	Resources are reallocated;
+•	Volume of exports decreases while volume of imports increases.
+(Any TWO of the above with brief explanations. 2 marks each.)
+
+Question code: B5C03Q324
+Besides income redistributive effects, what are the effects of deflation? Briefly explain TWO of them.	(4 marks)
+
+Answers:
+The following are the effects of deflation:
+•	The cost of living falls and the purchasing power of money rises;
+•	The standard of living may rise;
+•	Resources are reallocated;
+•	Volume of exports increases while volume of imports decreases.
+(Any TWO of the above with brief explanations. 2 marks each.)
+
+Question code: B5C03Q325
+Study the following diagram about the labour market in Hong Kong.
+
+Source: Census and Statistics Department
+
+(a)	Use a formula to define the unemployment rate.	(1 mark)
+*(b)	Explain whether the unemployed population increased in 2013.	(4 marks)
+(c)	State TWO costs of unemployment to society.	(2 marks)
+
+Answers:
+(a)	Unemployment rate = 	(1 mark)
+(b)	Unemployment rate in 2013
+	= 
+	where g% is the growth rate of unemployed population
+	( 3.4% = 3.3% ×
+	( 1 + g% = 1.05
+	( g% = 5%	(3 marks)
+	As the growth rate of the unemployed population was positive, the unemployed population increased.	(1 mark)
+(c)	Possible costs:
+•	Loss of output
+•	Social problems
+(Or any other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B5C03Q326
+Salt City has many NEET youths (i.e., youths who are 'not in education, employment or training' 尼特族／啃老族). They have finished their studies and are old enough to work. However, they do not bother to look for jobs, but rely on their parents.
+(a)	Explain whether NEET youths should be included in the unemployed population, according to the economic definition of unemployed persons.	(3 marks)
+(b)	The government wants to tackle the problem. Explain the immediate effects on the unemployment rate of the following policies.
+	(i)	Introduce vocational training programmes for NEET youths to continue their studies.	(3 marks)
+	(ii)	Reward NEET youths who are successfully recruited.	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	Although they do not have jobs, they do not actively look for work. They are neither included in the labour force nor in the unemployed population.	(2 marks)
+(b)	(i)	This policy does not immediately affect the unemployment rate.	(1 mark)
+		Some of them may enrol in the programmes and become students. However, students are not included in the labour force and unemployed population. So, this does not affect the unemployment rate.	(2 marks)
+
+	(ii)	The effect is uncertain.	(1 mark)
+		This policy may encourage NEET youths to join the labour force and look for a job. However, some may be recruited and some may become unemployed persons. The effect on the unemployment rate depends on the percentage changes in the labour force and the unemployed population.	(2 marks)
+
+Question code: B5C03Q327
+'When the unemployment rate increases, the unemployed population must increase at a faster rate than that of the labour force.'
+Explain whether this statement is correct.	(4 marks)
+
+Answers:
+•	Incorrect. The rise in the unemployment rate may not imply that both the unemployed population and the labour force increase.	(1 mark)
+Unemployment rate = 	(1 mark)
+An increase in the unemployment rate may also be due to either one of the following:
+•	a decrease in the labour force while the unemployed population remains unchanged;
+•	both the unemployed population and the labour force decrease, but the unemployed population decreases at a slower rate than the labour force.
+(Either one, 2 marks)
+
+Question code: B5C03Q328
+Ming said, 'When the unemployment rate drops, the employment rate must increase.'
+Do you agree?	(4 marks)
+
+Answers:
+•	Agree.	(1 mark)
+•	Labour force = Employed population + Unemployed population	(1 mark)
+•	Employment rate	 = 	(1 mark)
+
+= 1 -
+= 1 - Unemployment rate	(1 mark)
+•	Therefore, the employment rate must increase when the unemployment rate drops.	
+
+Question code: B5C03Q329
+In recent years, many Hong Kong residents have rushed to the mainland to find a job. Explain how this affects the unemployment rate in Hong Kong.	(5 marks)
+
+Answers:
+•	The unemployed population will decrease.	(1 mark)
+•	The labour force will decrease.	(1 mark)
+•	The effect on the unemployment rate depends on the magnitude of the changes in the unemployed population and the labour force. 	(1 mark)
+•	If the percentage decrease in the unemployed population is higher than the percentage decrease in the labour force, the unemployment rate will decrease.
+OR
+If the percentage decrease in the unemployed population is lower than the percentage decrease in the labour force, the unemployment rate will increase.
+OR
+If the percentage decrease in the unemployed population is equal to the percentage decrease in the labour force, the unemployment rate will remain unchanged.
+(Any ONE of the above, 2 marks)
+
+Question code: B5C03Q330
+Explain how unemployment affects the following items:
+(a)	Crime rate	(2 marks)
+(b)	The aggregate output of society	(2 marks)
+
+Answers:
+(a)	Some of the unemployed may turn to crimes such as robbery and theft, so the crime rate will probably increase.	(2 marks)
+(b)	When some workers are unemployed, human resources which could have been used in production are wasted. As a result, the aggregate output of an economy is reduced.	(2 marks)
+
+Question code: B5C03Q331
+Chun has been unemployed for one year. Recently, he succeeded in applying for admission to a full-time postgraduate programme. Under this programme, he will enjoy a scholarship (獎學金) but is not allowed to have any formal job attachment.
+(a)	State TWO possible costs of unemployment to Chun.	(2 marks)
+(b)	Explain whether Chun is included in the following group.
+(i)	Employed persons	(2 marks)
+(ii)	Labour force	(2 marks)
+
+Answers:
+(a)	Possible costs:
+•	Lower standard of living
+•	Family problems
+•	Loss of skills
+(Any TWO of the above or other reasonable answers. 1 mark each)
+(b)	(i)	The scholarshipship is not payment for work. Chun does not work for pay. He is not included in the groups of employed persons.	(2 marks)
+(ii)	As Chun is neither an employed person nor an unemployed person, he is not included in the labour force.	(2 marks)
+
+Question code: B5C03Q332
+(a)	Define business cycles.	(2 marks)
+(b)	Compare recession and peak in terms of real GDP.	(2 marks)
+
+Answers:
+(a)	Business cycles refer to short run cyclical fluctuations in the real GDP around the long run trend.	(2 marks)
+(b)	Real GDP decreases when the economy is in recession.	(1 mark)
+	Real GDP is at the highest point in a business cycle when the economy is at the peak.	(1 mark)
+
+
+Question code: B5C03Q333
+Study the diagram below about the business cycle of a country and answer the following questions.
+
+
+
+(a)	Point H is at the ____________ phase of the business cycle.	(1 mark)
+(b)	Apart from the level of real GDP, state TWO general phenomena that can be observed in this phase.	(2 marks)
+(c)	Generally, economists use real GDP instead of nominal GDP to determine the phase of a business cycle. Explain the rationale behind this.	(2 marks)
+
+Answers:
+(a)	Peak	(1 mark)
+(b)	(	High economic confidence and economic activities
+	(	Low unemployment rate
+	(	High real values of private consumption expenditure, investment expenditure, imports, sales receipts and tax revenue (either one)
+	(	High inflation rate
+	(Any TWO of the above or other reasonable answer. 1 mark × 2 = 2 marks)
+(c)	This is because real GDP can better measure aggregate output as the effect of the price level on GDP has been eliminated.	(2 marks)
+
+Question code: B5C03Q334
+Economy H experiences a great depression. Both the unemployment rate and the crime rate rise to a record high.
+(a)	What are a trough and a depression?	(3 marks)
+(b)	State TWO possible costs of unemployment to Economy H.	(2 marks)
+
+Answers:
+(a)	Trough is the lowest point of a business cycle in which economic activities are at their lowest level.	(1 mark)
+The defining feature of a trough is that the real GDP is at its lowest.	(1 mark)
+Depression is an extremely severe trough.	(1 mark)
+(b)	Possible costs:
+•	Loss of output
+•	Social problems
+(Any other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B5C03Q335
+Study the following unemployment information for Country A.
+
+Period	Unemployment rate (%)	
+July 2013 - Sept. 2013	10	
+Oct. 2013 - Dec. 2013	7	
+Jan. 2014 - March 2014	3	
+
+(a)	Define the unemployment rate in an equation.	(1 mark)
+(b)	Based on the data above, explain how the number of unemployed persons in Country A changed during the period from October 2013 to December 2013 if the labour force did not change during the whole period.	(2 marks)
+(c)	Explain which phase of a business cycle Country A was most likely in during the period from October 2013 to December 2013.	(3 marks)
+
+Answers:
+(a)	Unemployment rate = Unemployed persons ÷ Labour force × 100%	(1 mark)
+(b)	As the labour force did not change, the decrease in the unemployment rate must imply a decrease in the number of unemployed persons.	(2 marks)
+(c)	Recovery / expansion	(1 mark)
+During the period, as the unemployment rate decreased, the real GDP most likely increased.	(1 mark)
+However, it is not a peak as its unemployment rate is not at the lowest level.
+	(1 mark)
+
+
+Question code: B5C03Q336
+Study the following diagram about Country D's economic situation.
+
+(a)	Define the business cycle with reference to the diagram above. List the FOUR phases of a business cycle.	(4 marks)
+(b)	Identify in which phase of a business cycle Point E is.	(1 mark)
+
+Answers:
+(a)	Business cycle refers to short run cyclical fluctuations in the growth rate of real GDP around the long run trend.	(2 marks)
+The four phases are recession (contraction), trough, recovery (expansion) and peak (prosperity or boom).
+(0.5 marks for each phase.)
+(b)	Recovery / expansion	(1 mark)
+
+Question code: B5C03Q337
+Study the following newspaper cutting about Golden City.
+
+(a)	Define a business cycle and state the FOUR phases of a business cycle.	(4 marks)
+
+(b)	Identify in which phase of a business cycle the city is. In the diagram below, use 'X' to label where the city is.	(2 marks)
+
+	
+
+(c)	State ONE possible cost of unemployment to society.	(1 mark)
+
+Answers:
+(a)	Business cycle refers to short run cyclical fluctuations in the real GDP around the long run trend.	(2 marks)
+The four phases are recession (contraction), trough, recovery (expansion) and peak (prosperity or boom).
+(0.5 marks for each phase.)
+(b)	Trough / Depression	(1 mark)
+
+	(1 mark)
+(c)	Possible costs to society:
+•	Loss of output
+•	Social problems
+(Any ONE of the above or other reasonable answer. 1 mark)
+
+Question code: B5C03Q338 (new)
+Study the following information about an economy's price level in 2014 and 2015.
+
+Year	Composite consumer price index (CCPI)	
+2014	120	
+2015	123	
+
+(a)	Calculate the inflation rate in 2015.	(2 marks)
+(b)	Suppose Rose made an investment in 2014 and expected no inflation. She expected the investment to generate a nominal rate of return of 8% after one year. Explain the investment's minimum actual nominal rate of return that would meet Rose's expectations on the real rate of return.	(3 marks)
+
+Answers:
+(a)	Inflation rate in 2015 = (123 - 120)/120 × 100% = 2.5%	(2 marks)
+(b)	Rose's expected real rate of return is 8% as she did not expect any changes in the price level.	(1 mark)
+	To maintain an 8% actual real rate of return,
+	the minimum actual nominal rate of return = 8% + 2.5% = 10.5%	(2 marks)
+
+Question code: B5C03Q339 (new)
+In 2015, Keith made an investment. He expected no change in the price level and a 2% nominal rate of return from the investment.
+(a)	Find Keith's expected real rate of return from the investment.	(2 marks)
+(b)	Suppose the nominal rate of return turns out to be 5%. Explain under what circumstances Keith's expectation of the real rate of return would not be met.
+	(3 marks)
+
+Answers:
+(a)	Expected real rate of return
+	= Nominal rate of return - Expected inflation rate	(1 mark)
+	= 2% - 0%
+	= 2%	(1 mark)
+(b)	Keith's expectation would not be met if the actual real rate of return from the investment is lower than 2%.	(1 mark)
+	The actual real rate of return would be lower than 2% if inflation is 3% or higher.	(2 marks)
+
+Question code: B5C03Q340 (new)
+Country C's consumer price index is shown as follows:
+Year	Consumer price index	
+2015	130	
+2016	139	
+(a)	Calculate the inflation rate of Country C in 2016.	(1 mark)
+(b)	Given the situation in (a), would the nominal interest rate be higher than or lower than the real interest rate? Explain.	(2 marks)
+
+Answers:
+(a)	Inflation rate = (139 - 130) ÷ 130 × 100% = 6.92%	(1 mark)
+(b)	Nominal interest rate = Real interest rate + Inflation rate	(1 mark)
+	With a positive inflation rate in 2016, the nominal interest rate would be higher than the real interest rate.	(1 mark)
+
+Question code: B5C03Q341 (new)
+(a)	Express the real interest rate in terms of the nominal interest rate.	(1 mark)
+(b)	Suppose people expect no inflation. By comparing the expected and actual real interest rates, explain whether lenders who receive fixed nominal interest rates will gain or lose when inflation occurs.	(3 marks)
+
+Answers:
+(a)	Real interest rate = Nominal interest rate - Inflation rate	(1 mark)
+(b)	As there is no inflation is expected, the expected real interest rate is equal to the nominal interest rate.	(1 mark)
+	When inflation occurs, the actual real interest rate is lower than the nominal interest rate.	(1 mark)
+	As the actual real interest rate that lenders receive is lower than expected, lenders lose.	(1 mark)
+
+Question code: B5C03Q342 (new)
+City T has experienced deflation for three years. People in the city expect the price level to continue falling this year.
+(a)	Explain whether the expected real interest rate is higher or lower than the nominal interest rate.	(3 marks)
+
+(b)	Explain whether borrowers would gain or lose if inflation eventually occurs given that the borrowing rate is fixed.	(4 marks)
+
+Answers:
+(a)	Expected real interest rate = Nominal interest rate - Expected inflation rate
+	(1 mark)
+	As people expect deflation, the expected inflation rate is negative. Hence, the expected real interest rate is higher than the nominal interest rate.	(2 marks)
+(b)	Actual real interest rate = Nominal interest rate - Actual inflation rate	(1 mark)
+	The actual real interest rate is lower than the nominal interest rate when there is inflation.	(1 mark)
+	Borrowers gain because the actual real interest rate they pay is lower than expected.	(2 marks)
+
+Question code: B5C03Q343 (new)
+Explain whether the following people would gain or lose if unexpected deflation occurs.
+(a)	Eric, who has a time deposit at a fixed nominal interest rate of 1.5%	(2 marks)
+(b)	Marie, who has borrowed $100 million from a bank at a floating interest rate
+	(2 marks)
+
+Answers:
+(a)	Gain, because	(1 mark)
+	the purchasing power of the interest he receives would increase under unexpected deflation.	(1 mark)
+(b)	No gain and no loss, because	(1 mark)
+	the purchasing power of the interest would remain unchanged as the interest rate would be adjusted according to the inflation rate.	(1 mark)
+
+Question code: B5C03Q344 (new)
+* 'Tenants paying fixed monthly rents lose when the expected real interest rate is higher than the nominal interest rate.' Do you agree? Explain.	(3 marks)
+
+Answers:
+No. It depends on the actual outcome.	(1 mark)
+When there is unexpected inflation (or the actual deflation rate is smaller than the expected deflation rate), the purchasing power (real value) of the rental payments is lower than expected. In this case, tenants will gain.	(2 marks)
+
+Question code: B5C03Q345 (new)
+Sandy bought a bond with a 5% annual nominal interest rate in 2015. She expected 2% inflation that year.
+(a)	Calculate Sandy's expected real rate of return from the bond.	(2 marks)
+(b)	Suppose the inflation rate in 2015 turned out to be 1%. Explain whether Sandy would gain or lose, with reference to your answer in (a).	(4 marks)
+
+Answers:
+(a)	Expected real rate of return
+	= Nominal rate of return - Expected inflation rate	(1 mark)
+	= 5% - 2%
+	= 3%	(1 mark)
+(b)	Actual real rate of return
+	= Nominal rate of return - Actual inflation rate	(1 mark)
+	= 5% - 1%
+	= 4%	(1 mark)
+	Sandy would gain because the actual real rate of return is higher than the expected real rate of return.	(2 marks)
+
+Question code: B5C03Q346 (new)
+The following table shows the price index of Country A.
+Year	Price index	
+1	200	
+2	204	
+(a)	Calculate the inflation rate in Year 2.	(1 mark)
+(b)	Amber invested $100,000 in a project in Year 1 for an expected return of $20,000 in Year 2.
+	If she expected the inflation rate to be 3% per year, explain whether she would gain or lose.	(3 marks)
+
+Answers:
+(a)	Inflation rate = (204 - 200) ÷ 200 × 100% = 2%	(1 mark)
+(b)	She would gain because	(1 mark)
+	the actual inflation rate was lower than what she expected. The actual real rate of return (20% - 2% = 18%) was greater than the expected real rate of return 
+(20% - 3% = 17%).	(2 marks)
+
+Question code: B5C03Q347 (new)
+* Country H's government issued a bond where the nominal interest rate is equal to the actual inflation rate. Bondholders are also guaranteed to receive a rate of at least 1%. The following table shows Country H's composite consumer price index (CCPI).
+Year	CCPI	
+1	100	
+2	103.5	
+3	102	
+Suppose people expected the inflation rate to be 2% per year. Explain, in terms of the realised real interest rate, whether bondholders would gain or lose in Years 2 and 3, respectively.	(5 marks)
+
+Answers:
+Real interest rate = Nominal interest rate - Inflation rate	(1 mark)
+In Year 2, the actual inflation rate was 3.5% and so was the nominal interest rate.
+	(1 mark)
+Therefore, the realised real interest rate was zero, which was the same as the expected real interest rate. They would not gain or lose.	(1 mark)
+In Year 3, deflation occurred and the actual inflation rate was -1.45%.	(1 mark)
+With a 1% nominal interest rate, the realised real interest rate was 2.45%, which was greater than the expected real interest rate. They would gain.	(1 mark)
+
+
+Structured Questions
+
+Question code: B5C03Q501
+City J had experienced inflation for years. The average inflation rate for the past decade was 7%. The average wage of workers has remained the same as it was ten years ago.
+(a)	(i)	What is inflation?	(2 marks)
+	(ii)	How does the purchasing power of money change during inflation?	(1 mark)
+(b)	The owner of a factory said, 'The standard of living of my employees should have improved. As I raise their wages by 5% every year, they have more money to spend.' Explain why he is WRONG.	(3 marks)
+
+(c)	Suppose it is expected that the inflation rate will be 1% this year. However, there is 1% deflation instead. Explain whether the following would gain or lose by calculating the expected and actual real interest rate.
+	(i)	A flat owner who makes mortgage payments to the bank at a fixed 5% per annum interest rate	(3 marks)
+	(ii)	A student who lent money to his classmate last year and promised only to collect the principal this year	(3 marks)
+
+Answers:
+(a)	(i)	Inflation is the phenomenon of a persistent increase in the general price level.	(2 marks)
+	(ii)	During inflation, the purchasing power of money decreases.	(1 mark)
+
+(b)	The average rise in the nominal wages of his workers is lower than the average inflation rate.	(1 mark)
+	The real wages of his workers decrease.	(1 mark)
+	Since their income has less purchasing power, their living standards will fall.
+	(1 mark)
+
+(c)	(i)	Expected real interest rate = 5% - 1% = 4%	(1 mark)
+		Actual real interest rate = 5% - (-1%) = 6%	(1 mark)
+		He loses because the actual interest rate he pays is more than he expected.
+	(1 mark)
+	(ii)	Expected real interest rate = 0% - 1% = -1%	(1 mark)
+		Actual real interest rate = 0% - (-1%) = 1%	(1 mark)
+		He gains because the actual interest rate he receives is more than he expected.
+	(1 mark)
+
+Question code: B5C03Q502
+The following figure shows the business cycle of Los Santos.
+
+Suppose the economy of Los Santos is at Point X.
+(a)	(i)	In which phase is Los Santos?	(1 mark)
+	(ii)	Are the unemployment rate and inflation rate in Los Santos high or low?
+	(2 marks)
+(b)	Explain why the following people are NOT included in the labour force.
+	(i)	A rich woman who only works for charity without receiving any wages
+	(2 marks)
+	(ii)	A man who is available to work but has no intention of finding a job as he is enjoying unemployment benefits	(2 marks)
+(c)	After a few years, the real GDP of Los Santos grows faster than before. The number of employed persons increases. However, the unemployment rate remains the same as before.
+	(i)	State the formula of the unemployment rate.	(2 marks)
+	(ii)	Suggest ONE possible reason to explain the phenomenon mentioned above.
+	(3 marks)
+(d)	List ONE cost of unemployment to each of the following.
+	(i)	Society	(1 mark)
+	(ii)	The unemployed	(1 mark)
+
+Answers:
+(a)	(i)	Trough (or depression)	(1 mark)
+	(ii)	The unemployment rate should be high.	(1 mark)
+		The inflation rate should be low.	(1 mark)
+
+(b)	(i)	The woman is not included in the labour force because she is not working for pay or profit.	(2 marks)
+	(ii)	As the man is not seeking work, he is not counted in the labour force.
+	(2 marks)
+
+(c)	(i)	
+			(2 marks)
+	(ii)	There is an increase in the labour force.	(1 mark)
+If the percentage increase in the unemployed population is the same as that in the labour force, the unemployment rate remains unchanged.	(2 marks)
+
+(d)	(i)	Loss of output / higher crime rate / political instability	(1 mark)
+	(ii)	Lower living standard / family problems / loss of skills	(1 mark)
+
+
+Question code: B5C03Q503
+(a)	Study the following data in Year 4 and Year 5.
+
+	Year 4	Year 5	
+Real GDP ($ billion)	15	20	
+Nominal GDP ($ billion)	30	50	
+	
+(i)	Find the GDP deflators in Year 4 and Year 5.	(2 marks)
+(ii)	Calculate the percentage change in the GDP deflator between the two years. Explain whether it is an inflation rate or deflation rate.	(2 marks)
+(b)	Explain who will gain and who will lose during unanticipated inflation in the following situations:
+(i)	A tenant signs a two-year contract for $20,000 fixed rent a month.	(2 marks)
+(ii)	A retired government chief official receives an indexed retirement pension every month from the government.	(2 marks)
+(iii)	A person puts $30,000 in his time deposit account at a bank. The time deposits pay a fixed interest.	(2 marks)
+(iv)	A supermarket always asks wholesalers to supply goods in advance (預先供應貨物) and pays the wholesalers waits until the bill is in arrears (延遲清還貨款) before it pays the wholesalers.	(2 marks)
+
+Answers:
+(a)	(i)	The GDP deflator in Year 4 = 30 ÷ 15 × 100 = 200	(1 mark)
+The GDP deflator in Year 5 = 50 ÷ 20 × 100 = 250	(1 mark)
+(ii)	The percentage change in the GDP deflator = (250 - 200) ÷ 200 = 25%
+	(1 mark)
+An inflation rate as it is positive.	(1 mark)
+
+(b)	(i)	•	The tenant will gain while the landlord will lose.	(1 mark)
+•	Reason: The purchasing power of the rent paid by the tenant and received by the landlord will decrease unexpectedly during unanticipated inflation.
+	(1 mark)
+(ii)	•	None of the parties will gain or lose.	(1 mark)
+•	Reason: The nominal value of a pension will adjust according to the change in the price index and so its real value will remain unchanged.
+	(1 mark)
+
+(iii)	•	The time deposit holder will lose while the bank will gain.	(1 mark)
+•	Reason: The purchasing power of the fixed interest received by the time deposit holder and paid by the bank will decrease unexpectedly during unanticipated inflation.	(1 mark)
+(iv)	•	The supermarket will gain while the wholesalers will lose.	(1 mark)
+•	Reason: The purchasing power of the payment from the supermarket to the wholesalers will decrease unexpectedly during unanticipated inflation.
+	(1 mark)
+
+Question code: B5C03Q504
+Study the following data about an economy.
+
+Year	4	5	6	
+Real GDP ($ billion)	30	30	40	
+GDP deflator	100	80	60	
+
+(a)	Calculate the nominal GDP in Year 4 and Year 5.	(2 marks)
+(b)	Based on the result in (a), explain why the real GDP is a better indicator of economic welfare than the nominal GDP.	(3 marks)
+(c)	Based on the GDP deflator from Year 4 to Year 5, what economic phenomenon is illustrated?	(1 mark)
+(d)	Apart from the above data, what indicator can be used to measure the economic phenomenon mentioned in (c)?	(1 mark)
+(e)	Explain the effects of the economic phenomenon in (c) on the following parties if the parties do not expect it to happen:
+(i)	An artist signs a 10-year contract with a television broadcasting company stipulating a $12,000 fixed monthly salary.	(2 marks)
+(ii)	A primary school student receives pocket money from his mother daily. His mother adjusts the amount of pocket money every day according to the cost of living.	(2 marks)
+
+Answers:
+(a)	Nominal GDP in Year 4 = $(30 × 100 ÷ 100) billion = $30 billion	(1 mark)
+	Nominal GDP in Year 5 = $(30 × 80 ÷ 100) billion = $24 billion	(1 mark)
+
+
+(b)	A decrease in the general price level does not worsen economic welfare, while a decrease in the volume of aggregate output does.	(1 mark)
+A decrease in nominal GDP may not imply a decline in economic welfare because it may be caused by a decrease in the general price level rather than a decrease in the volume of production (as illustrated in this case).	(1 mark)
+The change in real GDP reflects the change in the volume of aggregate output, with the effect of price changes eliminated.	(1 mark)
+Thus, real GDP is a better indicator of economic welfare.
+
+(c)	Deflation, because the GDP deflator has decreased during the period.	(1 mark)
+
+(d)	Consumer price indices	 (1 mark)
+
+(e)	(i)	•	The artist will gain while the television broadcasting company will lose.
+	(1 mark)
+•	Reason: The purchasing power of the fixed payment received by the artist and paid by the company increases unexpectedly during unanticipated deflation.	(1 mark)
+(ii)	•	None of the parties will lose.	(1 mark)
+•	Reason: The purchasing power of the pocket money received by the student and paid by his mother remains unchanged.	(1 mark)
+
+Question code: B5C03Q505
+(a)	Calculate the unemployment rate and underemployment rate based on the following information.	(4 marks)
+
+Employed population	40,000	
+Unemployed population	10,000	
+Underemployed population	100	
+
+(b)	Explain if the following people are classified as unemployed:
+(i)	Mr Chan, who opened an online shop after he was laid off	(2 marks)
+(ii)	Mr Lee, who is a voluntary worker in YMCA and wants to find a paid job
+	(2 marks)
+(iii)	Mrs Tam, a housewife, who devotes all her time to tutoring her daughter in mathematics	(2 marks)
+*(iv)	Mrs Hung who is a retired person and willing work part-time 	(3 marks)
+
+Answers:
+(a)	Unemployment rate =× 100% = 20%	(2 marks)
+	Underemployment rate = × 100% = 0.2%	(2 marks)
+
+(b)	(i)	Mr Chan is not classified as unemployed since he is self-employed.	(2 marks)
+(ii)	Mr Lee is classified as unemployed since he is not at work for pay or profit and he is available for and seeking work.	(2 marks)
+(iii)	Mrs Tam is not classified as unemployed. The tutoring service is unpaid work for self-consumption. It is not a formal job attachment. She is not included in the labour force as she is not available for work.	(2 marks)
+(iv)	Miss Hung is classified as unemployed. Although she is retired, she will be included in the labour force if she is available for and seeking work. She is an unemployed person as she does not have a job but wants to find a job.
+	(3 marks)
+
+Question code: B5C03Q506
+Study the following table.
+
+Employment rate (%)	95	
+Underemployment rate (%)	10	
+Total population (million)	1	
+
+(a)	Suppose the proportion of the labour force in the total population is 80%. Calculate the unemployed population and the underemployed population.
+	(6 marks)
+(b)	Explain if the following people are classified as underemployed:
+(i)	Keung, a disabled person, follows his doctor's advice not to work more than ten hours per week	(2 marks)
+(ii)	Florence, who resigns from her job because she has to take care of her family
+	(2 marks)
+(iii)	Ming, who worked 60 hours per week and is required to switch to part-time work (30 hours per week) due to the restructuring of his company	(2 marks)
+
+
+Answers:
+(a)	Labour force = 1,000,000 × 80% = 800,000	(1 mark)
+	Since the employment rate is 95%, the unemployment rate is 5% (= 100% - 95%).	(1 mark)
+Unemployment rate = × 100%	(1 mark)
+( Unemployed population = 5% × 800,000 = 40,000	(1 mark)
+Underemployment rate = × 100%	(1 mark)
+	( Underemployed population = 10% × 800,000 = 80,000	(1 mark)
+
+(b)	(i)	Keung is not classified as underemployed since he is not seeking additional work.	(2 marks)
+(ii)	Florence is not classified as underemployed because she chooses to resign from her present job in order to take care of her family.	(2 marks)
+(iii)	Ming is classified as underemployed because he is willing and able to have more work.	(2 marks)

@@ -18,6 +18,29 @@ fieldset{border:0;padding:0;margin:0}legend{font-size:13px;font-weight:600;margi
 .source-word{white-space:normal}.file-item-actions .source-word{width:auto;min-height:44px}.file-item-actions .source-word>span{display:inline}.document-actions{flex-wrap:wrap}.document-actions .source-word{min-height:44px}
 @media(max-width:760px){.file-item-actions .source-word{max-width:115px;padding:8px;font-size:10px;line-height:1.4;gap:5px}.file-item-actions .source-word svg{flex:0 0 15px;width:15px}.document-actions .source-word{font-size:11px;max-width:100%;overflow-wrap:anywhere}.document-actions>.source-pdf{min-height:44px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+.hub-page{min-height:100vh;background:var(--bg);color:var(--ink)}
+.subject-hub{width:min(1120px,calc(100% - 48px));margin:0 auto;padding:26px 0 30px}
+.hub-topbar{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.hub-topbar .brand{color:var(--ink);text-decoration:none}
+.hub-preferences{display:flex;gap:10px}
+.hub-preferences select{min-height:38px;border:1px solid var(--line);background:var(--surface);border-radius:6px;padding:0 28px 0 10px;color:var(--ink);font-size:12px}
+.hub-hero{padding:88px 0 46px;max-width:700px}
+.hub-hero h1{font-size:clamp(36px,5vw,62px);line-height:1.03;letter-spacing:-.03em;margin:10px 0 18px}
+.hub-hero p{max-width:560px;color:var(--muted);font-size:16px;line-height:1.65}
+.subject-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.subject-card{min-height:300px;padding:28px;display:flex;flex-direction:column;align-items:flex-start;gap:13px;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);background:var(--surface);box-shadow:0 10px 28px #18251b0c;transition:transform .16s,box-shadow .16s,border-color .16s}
+.subject-card:hover{transform:translateY(-3px);box-shadow:0 18px 34px #18251b16;border-color:var(--green)}
+.subject-card-icon{width:52px;height:52px;display:grid;place-items:center;border-radius:12px;background:var(--mint);color:var(--green)}
+.economics-card .subject-card-icon{background:#e9f1fb;color:#28639b}
+.subject-card-icon svg{width:25px;height:25px}
+.subject-card-kicker{font-size:11px;font-weight:700;letter-spacing:.13em;color:var(--muted)}
+.subject-card h2{font-size:27px;margin:0}
+.subject-card p{max-width:390px;color:var(--muted);line-height:1.6;font-size:13px;margin:0}
+.subject-card-action{display:flex;align-items:center;gap:8px;margin-top:auto;color:var(--green);font-size:13px;font-weight:650}
+.subject-card-action svg{width:16px;height:16px}
+.hub-footer{display:flex;gap:18px;justify-content:flex-start;padding:36px 0 0;color:var(--muted);font-size:11px}
+@media(max-width:700px){.subject-hub{width:min(100% - 32px,560px);padding-top:18px}.hub-topbar{align-items:flex-start}.hub-topbar .brand small{display:none}.hub-preferences{gap:5px}.hub-preferences select{font-size:10px;min-height:34px}.hub-hero{padding:65px 0 32px}.hub-hero h1{font-size:38px}.hub-hero p{font-size:14px}.subject-grid{grid-template-columns:1fr;gap:12px}.subject-card{min-height:250px;padding:23px}.subject-card h2{font-size:24px}.hub-footer{flex-direction:column;gap:5px;padding-top:25px}}
 .document-content:has(.document-word-preview){background:#e8ece9;padding:24px 18px}.document-word-preview{display:flex;flex-direction:column;align-items:center;gap:24px}.document-word-sheet{width:min(100%,780px);min-height:990px;padding:76px 78px;background:#fff;color:#202522;border:1px solid #d8ddda;box-shadow:0 2px 6px #20252216,0 18px 38px #20252212}.document-word-sheet .document-text{margin:0;padding:0;background:transparent;color:inherit;font:400 15px/1.85 Calibri,Aptos,Arial,sans-serif;white-space:pre-wrap;overflow-wrap:anywhere;tab-size:4}
 @media(max-width:760px){.document-content:has(.document-word-preview){padding:12px 8px}.document-word-preview{gap:14px}.document-word-sheet{min-height:700px;padding:48px 36px}.document-word-sheet .document-text{font-size:13px;line-height:1.75}}
 @media(max-width:390px){.document-word-sheet{min-height:620px;padding:38px 26px}.document-word-sheet .document-text{font-size:12px;line-height:1.7}}

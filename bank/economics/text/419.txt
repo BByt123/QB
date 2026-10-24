@@ -1,0 +1,563 @@
+Chapter 19		Monopoly pricing
+
+Short Questions
+
+Question code: B4C19Q301
+The following table shows the total revenue (TR), average revenue (AR) and marginal revenue (MR) of a monopolist under simple monopoly pricing. Complete the table below.		(7 marks)
+
+Price ($)	Quantity sold (units)	TR ($)	AR ($)	MR ($)	
+30	1				
+	2			20	
+	3		20		
+	4	60			
+10	5		10		
+
+Answers:
+Price ($)	Quantity sold (units)	TR ($)	AR ($)	MR ($)	
+30	1	30	30	30	
+25	2	50	25	20	
+20	3	60	20	10	
+15	4	60	15	0	
+10	5	50	10	-10	
+		(0.5 marks × 14 = 7 marks)
+
+
+Question code: B4C19Q302 (new)
+* The following shows the demand schedule for Good X. The market is monopolised by Firm A and simple monopoly pricing is practised.
+
+Price ($)	Quantity demanded (units)	
+50	1	
+40	2	
+30	3	
+20	4	
+10	5	
+
+Use the above table to illustrate that the average revenue (AR) schedule of Firm A is the same as the demand schedule.	(6 marks)
+
+Answers:
+Under simple monopoly pricing, the average revenue is the same as the price. This is because the monopolist charges the same price for every unit of Good X.	(2 marks)
+
+Hence, the AR schedule is as follows:
+Quantity sold (units)	Average revenue ($)	
+1	50	
+2	40	
+3	30	
+4	20	
+5	10	
+	(2 marks)
+
+Since there is only one seller in the market, the quantity sold is the same as the quantity demanded. As a result, the AR schedule is the same as the demand schedule.	(2 marks)
+
+
+Question code: B4C19Q303 (new)
+The following shows the demand schedule for Good X. The market is monopolised by Firm A and simple monopoly pricing is practised.
+
+Price ($)	Quantity demanded (units)	
+50	1	
+40	2	
+30	3	
+20	4	
+10	5	
+
+Use the above table to illustrate the relationship between the price and the marginal revenue.	(4 marks)
+
+Answers:
+The following gives the marginal revenue (MR) schedule of Firm A:
+Price ($)	Quantity sold (units)	Total revenue ($)	Marginal revenue ($)	
+50	1	50	50	
+40	2	80	30	
+30	3	90	10	
+20	4	80	-10	
+10	5	50	-30	
+	(2 marks)
+
+MR is smaller than the price when the quantity sold is greater than 1 unit.	(2 marks)
+
+Question code: B4C19Q304
+(a)	State the difference between a monopolist and a producer in a perfectly competitive market in terms of their influence on the market price.	(2 marks)
+(b)	Explain why the demand curve faced by a monopolist is downward sloping.
+	(2 marks)
+
+
+Answers:
+(a)	A monopolist is a price searcher and can affect the market price while a producer in a perfectly competitive market is a price taker and cannot affect the market price.	(2 marks)
+(b)	A monopolist is the only supplier in the market and has monopoly power to influence the market price. Therefore, a monopolist faces the market demand curve, which is downward sloping.	(2 marks)
+
+Question code: B4C19Q305 (new)
+Indicate the monopoly price (PM) and profit-maximising output (QM) under simple monopoly pricing on the following diagram.	(3 marks)
+
+
+
+Answers:
+Indicate on the diagram:
+(	Correct marginal revenue curve	(1 mark)
+(	Profit-maximising output which is determined by MR = MC	(1 mark)
+(	Monopoly price which is determined by the QM and AR curve	(1 mark)
+
+
+
+Question code: B4C19Q306
+The following table gives information about a monopolist. The fixed cost is $31.
+
+Price ($)	Output (units)	TR ($)	MR ($)	TC ($)	MC ($)	
+63	1			32		
+54	2			35		
+45	3			41		
+36	4			50		
+27	5			65		
+18	6			85		
+9	7			112		
+
+(a)	Complete the table above.	(6 marks)
+(b)	Find the profit-maximising output and the corresponding monopoly profit.
+		(3 marks)
+
+
+Answers:
+(a)	
+Price ($)	Output (units)	TR ($)	MR ($)	TC ($)	MC ($)	
+63	1	63	63	32	1	
+54	2	108	45	35	3	
+45	3	135	27	41	6	
+36	4	144	9	50	9	
+27	5	135	-9	65	15	
+18	6	108	-27	85	20	
+9	7	63	-45	112	27	
+			(2 marks for TR, 2 marks for MR, 2 marks for MC)
+(b)	The profit-maximising output is 4 units, where MR = MC = $9.	(1 mark)
+	Monopoly profit = TR - TC = $144 - $50 = $94	(2 marks)
+
+Question code: B4C19Q307
+The following is a demand schedule that a monopolist faces.
+
+Price ($)	1	2	3	4	5	6	7	
+Qd (units)	6	5	4	3	2	1	0	
+
+Suppose its marginal cost is constant at $2. What are the profit-maximising output and price under simple monopoly pricing?	(4 marks)
+
+Answers:
+Price ($)	1	2	3	4	5	6	7		Qd (units)	6	5	4	3	2	1	0		TR ($)	6	10	12	12	10	6	0		MR ($)	-4	-2	0	2	4	6	(		MC ($)	2	2	2	2	2	2	(			(2 marks for correctly writing out MRs at all output levels)
+The monopolist will produce 3 units since MR = MC = $2 at this output level. 		(1 mark)
+Refer to the demand schedule. When output is 3 units, the price is $4.	(1 mark)
+
+
+Question code: B4C19Q308 (new)
+The following information refers to a monopolist. The fixed cost is $5.
+
+Price ($)	Output (units)	TR
+($)	TC
+($)	MR
+($)	MC
+($)	
+70	1		20			
+55	2		60			
+40	3		105			
+25	4		170			
+10	5		240			
+
+Complete the above table and find the profit-maximising price and output of the firm under simple monopoly pricing.	(5 marks)
+
+Answers:
+Price ($)	Output (units)	TR
+($)	TC
+($)	MR
+($)	MC
+($)	
+70	1	70	20	70	15		55	2	110	60	40	40		40	3	120	105	10	45		25	4	100	170	-20	65		10	5	50	240	-50	70		(1 mark each for correctly writing out TRs, MRs and MCs at all output levels, total 
+3 marks)
+The profit-maximising output level is 2 units and the price is $55.	(2 marks)
+
+Question code: B4C19Q309 (new)
+Explain with a diagram why a monopoly is inefficient under simple monopoly pricing.	(6 marks)
+
+
+Answers:
+Indicate on the diagram:
+•	Output under simple monopoly pricing	(1 mark)
+•	Deadweight loss (shaded area)	(1 mark)
+
+Verbal elaboration:
+•	Under simple monopoly pricing, the marginal revenue (MR) curve lies below the demand curve.	(1 mark)
+•	The profit-maximising output (QM) is determined by the intersection of the MR curve and the marginal cost (MC) curve.	(1 mark)
+•	At QM, marginal benefit is greater than marginal cost (MBM > MCM). Therefore, the monopolist underproduces.	(1 mark)
+•	A deadweight loss exists and there is inefficiency.	(1 mark)
+
+Question code: B4C19Q310
+Suppose a monopolist adopts simple monopoly pricing.
+(a)	What condition will allow the monopolist to maximise its profits?	(1 mark)
+(b)	Is the price lower than, higher than or equal to the marginal revenue at the profit-maximising output level? Explain your answer briefly.	(3 marks)
+(c)	(i)	What is the condition for efficiency in resource allocation?	(1 mark)
+	(ii)	Explain the inefficiency caused by simple monopoly pricing.	(3 marks)
+
+
+Answers: 
+(a)	Marginal revenue = Marginal cost	(1 mark)
+(b)	The price is greater than the MR at the profit-maximising output level.	(1 mark)
+	This is because the MR curve lies below the demand curve.	(1 mark)
+	The price is determined according to the demand curve.	(1 mark)
+(c)	(i)	Marginal benefit = Marginal cost	(1 mark)
+	(ii)	Under simple monopoly pricing, P > MC at the profit-maximising output level. Thus, MB > MC and there is underproduction. Efficiency is not attained and a deadweight loss exists.	(3 marks)
+(Graphical illustration is also accepted.)
+
+Question code: B4C19Q311
+The following information is about a monopolist who practises simple monopoly pricing.
+
+Price ($)	Output (units)	AR
+($)	AC
+($)	MR
+($)	MC
+($)	
+20	1	20	5	20	5	
+16	2	16	4	12	3	
+12	3	12	4	4	4	
+9	4	9	4.25	0	5	
+6	5	6	4.6	-6	6	
+3	6	3	5	-12	7	
+
+Given that the prices on the above table equal the marginal benefits of consumers at the corresponding quantities, has the monopolist attained efficiency? If not, calculate the deadweight loss.	(6 marks)
+
+Answers:
+No. The profit-maximising output is 3 units, where MR = MC = $4. However, the efficient output level is 5 units, where MB = MC = $6. There is underproduction of output. 	(3 marks)
+Deadweight loss equals the loss in total social surplus (= Total benefit - Total cost) when the output level is not at the efficient level. In the above case, it is equal to $4 
+(= $9 ( $5).	(3 marks)
+
+
+Question code: B4C19Q312
+A monopoly under simple monopoly pricing must be inefficient. Do you agree? Explain.	(5 marks)
+
+Answers:
+Agree.
+A monopolist will maximise profit by producing at the output level where MR = MC.	(1 mark)
+Under simple monopoly pricing, the MR curve lies below the demand curve. As a result, at the profit-maximising output level, the price is greater than MR and, hence, the price is greater than MC.	(2 marks)
+This means that the MB of the good to consumers exceeds the MC of producing the last unit (MB > MC). There is underproduction of output. Deadweight loss exists at this output level.	(2 marks)
+(Graphical illustration is also accepted.)
+
+Question code: B4C19Q313
+* 'If firms operating in a perfectly competitive market combine and monopolise the market, both consumers and the combined firm must suffer under simple monopoly pricing.' Suppose the demand and cost curves remain unchanged before and after the integration. Comment on this statement using separate diagrams.	(8 marks)
+
+Answers:
+
+The statement is wrong.
+After the perfectly competitive market is monopolised, output decreases (Qc ( Qm) and the market price increases (Pc ( Pm).	(1 mark)
+It is true that consumers must suffer as they enjoy less output at a higher price. The consumer surplus decreases after the market is monopolised.	(2 marks)
+However, the combined firm can sell its output at a higher price, though less output is sold, to maximise its profit. The producer surplus increases after the market is monopolised. Thus, the combined firm will benefit.	(2 marks)
+
+Question code: B4C19Q314
+* Explain why output levels in a perfectly competitive market and a monopoly under simple monopoly pricing are different even though profit-maximising conditions in both markets are the same. Assume that the demand and cost curves are the same in both markets.	(6 marks)
+
+Answers:
+Sellers in both markets will produce at the output level where MR = MC. 	(1 mark)
+However, when a monopolist practises simple monopoly pricing, MR < P. As a result, at the profit maximising output level (where MR = MC), MC < P, and this means MC < MB (because consumers will buy the quantity where MB = P).	(2 marks)
+By comparison, in a perfectly competitive market, sellers are price takers and the equilibrium output level is where MC = MB.	(2 marks)
+Given that the demand and cost curves are the same in both markets, the output levels in the two markets are different.	(1 mark)
+(Graphical illustration is also accepted.)
+
+Question code: B4C19Q315 (new)
+Neway's market share in the Hong Kong karaoke market is nearly 90%. Explain whether the following practices by Neway constitute price discrimination.
+(a)	It charges higher prices at Neway CEO branches, which are more luxurious than other branches.	(3 marks)
+(b)	Customers who come at night are charged higher prices.	(3 marks)
+(c)	Full-time students are charged lower prices.	(3 marks)
+
+
+Answers:
+(a)	No.	(1 mark)
+	The services provided at Neway CEO branches are superior to other branches.
+	(2 marks)
+(b)	No.	(1 mark)
+	As more people go to Neway at night, the cost of serving a customer at night is higher. Also, all customers face the same 'higher prices' at night.	(2 marks)
+(c)	Yes.	(1 mark)
+	The cost of serving students and other customers is the same. Therefore, the price difference should be due to reasons other than cost differences.	(2 marks)
+
+Question code: B4C19Q316
+(a)	Define price discrimination.	(2 marks)
+(b)	Explain whether the following practices constitute price discrimination.
+	(i)	Students are offered a $6 discount for a lunch set.	(3 marks)
+	(ii)	For the same concert, the price of some balcony (樓座) seats is higher than rear stall (大堂後座) seats.	(3 marks)
+
+Answers:
+(a)	Price discrimination is the practice of charging different buyers different prices for the same good for reasons other than differences in costs.	(2 marks)
+(b)	(i)	Yes.	(1 mark)
+		Provided that the lunch set is the same for students and non-students, the price difference is for reasons other than differences in costs.	(2 marks)
+	(ii)	No.	(1 mark)
+		Balcony seats and rear stall seats offer different levels of enjoyment. They are not the same good.	(2 marks)
+
+Question code: B4C19Q317
+Classify the following practices into different degrees of price discrimination. Explain your answer briefly.
+(a)	A telecommunications company charges customers $300 each month for the first 2GB mobile data and $250 for the next 2GB of data.	(3 marks)
+(b)	A Japanese mobile phone manufacturer retains more products for the domestic market and charges a lower price, and sells less in foreign markets at a higher price. (Suppose the production costs for domestic and foreign markets are the same.)	(3 marks)
+
+Answers:
+(a)	This is second-degree price discrimination 	(1 mark)
+	as the producer charges different prices for different blocks of mobile data usage.	(2 marks)
+(b)	This is third-degree price discrimination	(1 mark)
+	as the manufacturer charges different prices in two market segments.	(2 marks)
+
+Question code: B4C19Q318 (new)
+MTR has introduced the MTR City Saver (港鐵都會票) that allows 40 single journeys covering designated urban stations for a fixed price.
+(a)	Who are more likely to buy the MTR City Saver? People who often take high-fare rides or those who often take low-fare rides?	(1 mark)
+(b)	Explain whether the MTR City Saver is a price discrimination arrangement. If it is, state the type of price discrimination to which it belongs.	(4 marks)
+
+Answers:
+(a)	People who often take high-fare rides are more likely to buy the MTR City Saver.
+	(1 mark)
+(b)	Yes.	(1 mark)
+The pricing arrangement separates frequent high-fare riders from other passengers. They are charged lower prices but not because the cost of serving them is different.	(2 marks)
+This is third-degree price discrimination.	(1 mark)
+
+Question code: B4C19Q319
+Hong Kong Disneyland has three types of one-day admission tickets, namely Adult, Child (aged 3-11) and Senior (aged 65 or above). The prices of Adult, Child and Senior tickets are $499, $355 and $100, respectively.
+(a)	What is price discrimination?	(2 marks)
+(b)	Is the above pricing arrangement an example of price discrimination? If yes, to which type of price discrimination does it belong?	(3 marks)
+
+
+Answers:
+(a)	Price discrimination is the practice of charging different buyers different prices for the same good for reasons other than differences in costs.	(2 marks)
+(b)	Yes. This is because different prices are charged to adults, children and the elderly even though the costs of serving them are the same.	(2 marks)
+	This belongs to third-degree price discrimination (market segmentation) because different prices are charged in three different market segments.	(1 mark)
+	(Accept other reasonable answer.)
+
+Question code: B4C19Q320
+John says, 'Having a dish of Yangzhou fried rice in a restaurant at lunchtime is more expensive than having one at teatime in the same restaurant. The restaurant is practising first-degree price discrimination.'
+Mary says, 'I think the discount that the restaurant offers to students is an example of first-degree price discrimination.'
+Comment on John and Mary's statements. 	(6 marks)
+
+Answers:
+John's statement is wrong because the portion size of the Yangzhou fried rice served at lunchtime and teatime is usually different. The portion size of dishes at teatime is usually smaller. Even if the size is the same, the marginal cost of serving a customer a dish of Yangzhou fried rice at lunchtime (the peak hour of business for a restaurant) is much higher than at teatime. Therefore, the practice is not price discrimination.
+	(4 marks)
+Mary's statement is also wrong. A student discount is an example of third-degree discrimination instead of first-degree discrimination. The restaurant charges different prices in two market segments, students and non-students.	(2 marks)
+
+Question code: B4C19Q321
+Give ONE reason to explain why the following producers may fail to practise price discrimination effectively.
+(a)	A small meat stall in Hong Kong charges frequent customers a lower price but other customers pay a higher price.	(2 marks)
+(b)	Hong Kong Disneyland charges local visitors a lower price but tourists pay a higher price.	(2 marks)
+
+
+Answers:
+(a)	The meat stall does not have enough monopoly power to control output and prices. Consumers can easily switch to other sellers. (Accept other reasonable answers.)	(2 marks)
+(b)	The market is not separable. If Hong Kong Disneyland does not check every visitor's identity document, local people buying tickets at a lower price may resell them to tourists who have to pay a higher price. (Accept other reasonable answers.)	(2 marks)
+
+Question code: B4C19Q322
+Some large tutorial schools in Hong Kong offer scholarships and tuition fee refunds to students who obtain excellent results in public examinations.
+(a)	Explain why this arrangement can be an example of price discrimination and state to which type of price discrimination it belongs.	(3 marks)
+(b)	Suggest TWO conditions for successful implementation of this type of price discrimination.	(4 marks)
+
+Answers:
+(a)	This can be an example of price discrimination because tuition fees for bright students are effectively lower than those for normal students even though they receive the same tuition services.	(2 marks)
+It belongs to third-degree price discrimination.	(1 mark)
+(b)	Conditions for successful implementation of third-degree price discrimination:
+•	The tutorial schools must have some monopoly power to control prices. This means that if a tutorial school raises tuition fees for normal students (while lowering tuition fees for bright students), not all of them would be able to switch to other tutorial schools.
+•	The tutorial schools are able to segment the market. In other words, it is difficult for bright students to resell their tutorial services to normal students.
+•	Bright students and normal students must have different demand elasticities. Otherwise, tutorial schools cannot increase their profit by charging bright students lower tuition fees while charging normal students higher tuition fees.
+•	The information cost for the tutorial schools is low, i.e., they can easily distinguish between bright students and normal students. (In fact, the information cost is low because students who want to get scholarships or tuition fee refunds will voluntarily provide their public exam results to the tutorial schools.)
+(Any TWO of the above, 2 marks ( 2 = 4 marks)
+
+Question code: B4C19Q323
+(a)	Define perfect price discrimination and market segmentation.	(4 marks)
+(b)	Contrast these two pricing arrangements.	(4 marks)
+
+Answers:
+(a)	Perfect price discrimination is the practice of charging each buyer according to the buyer's maximum willingness to pay for each extra unit of the good.	(2 marks)
+Market segmentation is a situation where the seller charges different prices in two or more market segments at the same time.	(2 marks)
+(b)	Under perfect price discrimination, different consumers pay different prices for every unit consumed. Under market segmentation, consumers in different market segments pay different prices, while consumers in the same market segment face the same price.	(2 marks)
+	Moreover, market segmentation requires different demand elasticities between buyers but perfect price discrimination does not.	(2 marks)
+	(Accept other correct differences between the two pricing arrangements.)
+
+Structured Questions
+
+Question code: B4C19Q501
+Country A is a country that consists of three main islands, namely Pearl Island, Gold Island and Silver Island. A ferry is the only way for Pearl Island residents to get to Gold Island. Suppose the market price is $6 and that there are many small ferry service providers who are not able to affect the market price. The following table shows a ferry service provider's cost schedule. The fixed cost of the ferry service provider is $1.
+
+No. of passengers	Total variable cost ($)	
+1	4	
+2	5	
+3	7	
+4	11	
+5	17	
+6	25	
+
+(a)	Calculate the profit-maximising output and profit for the above service provider.		(4 marks)
+*(b)	Recently, New Ferry, one of the ferry service providers between Pearl Island and Gold Island, acquired all of its competitors in order to monopolise the market. Suppose the cost schedule of New Ferry is the same as above and that it faces the following demand schedule:
+	
+Price ($)	No. of passengers	
+40	1	
+36	2	
+32	3	
+28	4	
+24	5	
+20	6	
+	
+	Calculate the market price, profit-maximising output and profit for New Ferry under simple monopoly pricing.	(7 marks)
+(c)	As a consumer, would you prefer a single-supplier market or a perfectly competitive market? Support your answer with TWO reasons.	(4 marks)
+
+
+Answers:
+(a)
+Price ($)	No. of passengers	MR
+($)	MC
+($)	
+6	1	6	4	
+6	2	6	1	
+6	3	6	2	
+6	4	6	4	
+6	5	6	6	
+6	6	6	8	
+	(2 marks)
+The profit-maximising output would be serving 5 passengers, at which MR equals MC.	(1 mark)
+The profit for the firm = TR ( TC = $30 ( $18 = $12	(1 mark)
+
+(b)	
+Price ($)	No. of passengers	MR
+($)	MC
+($)	
+40	1	40	4	
+36	2	32	1	
+32	3	24	2	
+28	4	16	4	
+24	5	8	6	
+20	6	0	8	
+		(3 marks)
+	The profit-maximising output for New Ferry would be serving 5 passengers. This is because New Ferry will suffer from a decrease in total profit of $8 (= 0 ( $8) if it serves the 6th passenger.	(2 marks)
+	At this level of output, the market price is $24. 	(1 mark)
+	Its profit is $102 (= $120 ( $18).	(1 mark)
+
+(c)	As a consumer, I would prefer a perfectly competitive market to a monopoly. This is because a perfectly competitive market offers a:
+•	Lower market price
+•	Higher output level
+•	More consumer surplus
+(Any TWO reasons, 2 marks × 2 = 4 marks)
+
+
+Question code: B4C19Q502
+(a)	Are the following examples of price discrimination? Explain.	
+(i)	A Taiwanese bubble tea chain charges consumers a higher price for bubble tea at its shop in Mongkok than in Yuen Long. 	(2 marks)
+(ii)	Towngas offers a 50% discount to the elderly. 	(2 marks)
+*(iii)	A bakery offers a 30% discount on its bread after 7 pm every day.	(2 marks)
+(iv)	A butcher usually charges his frequent customers a lower price.	(2 marks)
+(b)	Give TWO reasons to explain why it is possible to practise price discrimination in the above cases.	(4 marks)
+(c)	Are the price discrimination arrangements in (a) necessarily profitable? Why?
+	(2 marks)
+
+Answers:
+(a)	(i)	No. The shops are located in different districts. The rental expense of a shop in Mongkok is likely higher than that in Yuen Long. Hence, the cost of serving bubble tea at the Mongkok shop is higher.	(2 marks)
+(ii)	Yes. The cost of providing gas to the elderly and non-elderly is the same.		(2 marks)
+(iii)	No. Bread freshness drops during the day. Fresh bread and stale (不新鮮) bread are not the same good to consumers. Moreover, all customers receive the 30% discount after 7 pm.	(2 marks)
+(iv)	Yes. The cost of selling meat to a frequent customer is the same as that of selling to a non-frequent customer.	(2 marks)
+
+(b)	In cases (ii) and (iv), the sellers can practise price discrimination because the following conditions are satisfied:
+•	The sellers have monopoly power
+•	The markets are separable
+•	The sellers have low information costs
+•	Buyers have different demand elasticities
+(Any TWO of the above, 2 marks ( 2 = 4 marks)
+
+(c)	No. Whether it is profitable to practise price discrimination depends on the benefits and costs of doing so. Even if the information cost and transaction cost are low in both cases, it is still not profitable to do so if the costs outweigh the benefits.	(2 marks)
+
+
+Question code: B4C19Q503
+Every year, a Lunar New Year fair is held at Victoria Park. At the fair, a wide variety of merchandise like flowers, toys, Feng Shui products, etc., can be found. Suppose many small stalls sell a Feng Shui product called Pixius (貔貅). Pixius is a durable good.
+(a)	Different stalls at the fair sell Pixius at different prices. Does this constitute price discrimination? Explain your answer.	(3 marks)
+*(b)	A stall lowers the price of Pixius on the last day of the fair. Does this constitute price discrimination? Explain your answer.	(4 marks)
+(c)	A stall sells Pixius to different customers at different prices at a particular time during the fair. Does this constitute price discrimination? Explain your answer.		(3 marks)
+(d)	List THREE conditions for price discrimination.	(3 marks)
+
+Answers:
+(a)	No. This is because different shops have different costs. They may source Pixius from different suppliers. Moreover, their rental and wage expenses are different.		(3 marks)
+
+(b)	No. The Pixius products that have not yet been sold at the fair have to be transported to and stored in other places. Since additional costs and effort are being incurred to sell them later, the future return is lower. The opportunity cost of selling a Pixius at the fair is the return of selling the Pixius after the fair. As the end of the fair gets closer, the likelihood of selling the stock at the original price is lower and lower, and the cost of selling Pixius at the fair decreases. Moreover, all customers on the last day of the fair can buy Pixius at the lower price. They are not charged different prices.	(4 marks)
+
+(c)	Yes. The cost at the same stall of selling Pixius to different customers should be the same at a particular time during the fair. Thus, the price difference is not due to the cost.	(3 marks)
+
+
+(d)	Conditions for price discrimination:
+•	Monopoly power
+•	Separable market
+•	Different demand elasticities
+•	Low information costs for the seller
+•	Buyers have different information costs
+(Any THREE of the above, 1 mark ( 3 = 3 marks)
+
+Question code: B4C19Q504
+Toda Island is a remote and isolated island. Mr Villa is able to get all of the fishermen on the island to work for him. His company is now the only supplier of fish on Toda Island.
+(a)	The following diagram shows the demand and marginal cost (MC) curves that 
+Mr Villa's company faces.
+	
+	Suppose the company adopts simple monopoly pricing.
+	(i)	Show the profit-maximising output and monopoly price on the above figure. Explain your answer briefly.	(5 marks)
+	(ii)	Indicate the efficient output and deadweight loss on the above figure. Explain the cause of the deadweight loss.	(3 marks)
+(b)	Mr Villa has discovered the country of Redland, located on a continent, and set up branches there. Production costs in Redland and on Toda Island are the same. The company now charges the same prices in both places. 'To make more profit, I can charge every consumer the maximum amount that he is willing to pay for each extra unit of my product,' Mr Villa said.
+
+	(i)	Which type of price discrimination is Mr Villa talking about? Explain why it is difficult to carry out this type of price discrimination.	(2 marks)
+	(ii)	Suppose consumers on Toda Island are isolated from those in Redland and that the demand for fishery products in Redland is less elastic than it is on Toda Island. Suggest a type of price discrimination and briefly explain how it should be carried out.	(3 marks)
+
+Answers:
+(a)	
+	(i)	Indicate on the diagram:
+		(	Correct marginal revenue curve	(1 mark)
+		(	Profit-maximising output	(1 mark)
+		(	Monopoly price	(1 mark)
+		Verbal elaboration:
+		The company will produce at the output level where MR is equal to MC.
+			(1 mark)
+		The company will use the demand curve to determine the monopoly price at the profit-maximising output level.	(1 mark)
+	(ii)	Indicate on the diagram:
+		(	Efficiency output	(1 mark)
+		(	Deadweight loss	(1 mark)
+		Verbal elaboration:
+		The deadweight loss is caused by underproduction as output is lower than the efficient level.	(1 mark)
+
+
+(b)	(i)	First-degree price discrimination.	(1 mark)
+		It is very costly to find information about each buyer's demand curve.
+	(1 mark)
+	(ii)	Third-degree price discrimination.	(1 mark)
+		Mr Villa should sell less and charge a higher price in Redland and sell more and charge a lower price on Toda Island.	(2 marks)
+
+Question code: B4C19Q505
+Roberto has a monopoly on salt in a small coastal city in the country of Nephalem. He faces the following demand schedule. 
+
+Price ($)	Output (units)	
+48	1	
+42	2	
+36	3	
+30	4	
+24	5	
+18	6	
+
+The marginal cost is constant at $12 and the total fixed cost is $10.
+(a)	Find the profit-maximising output and the corresponding price and profit.
+	(6 marks)
+(b)	Define price discrimination.	(2 marks)
+(c)	List TWO conditions of price discrimination.	(2 marks)
+(d)	Over time, Roberto has become the only salt seller in Nephalem. Roberto's production bases are in the eastern coastal region. Explain whether the following behaviours necessarily constitute price discrimination.
+	(i)	Roberto sells salt in the western region of Nephalem at a higher price than in the eastern region.	(3 marks)
+	(ii)	Roberto offers a discount to restaurants which buy in large quantities.
+	(3 marks)
+
+
+Answers:
+(a)	
+Price ($)	Output (units)	MR ($)	MC ($)	
+48	1	48	12	
+42	2	36	12	
+36	3	24	12	
+30	4	12	12	
+24	5	0	12	
+18	6	-12	12	
+		(2 marks for marginal revenue)
+	The profit-maximising output is 4 units where MR = MC = $12.	(1 mark)
+	The monopoly price = $30	(1 mark)
+	The corresponding profit = TR - TC = $120 - ($48 + $10) = $62	(2 marks)
+
+(b)	Price discrimination is the practice of charging different buyers different prices for the same good for reasons other than differences in costs.	(2 marks)
+
+(c)	(	The seller has monopoly power
+	(	Separable market
+	(	Different demand elasticities
+	(	Low information costs for the seller
+	(	Buyers have different information costs
+	(Any TWO of the above, 1 mark × 2 = 2 marks)
+
+(d)	(i)	No.	(1 mark)
+		The price difference may be due to the extra cost of transporting salt from production bases in the eastern region to the western region.	(2 marks)
+	(ii)	No.	(1 mark)
+		As the restaurants buy salt in large quantities, Roberto may enjoy economies of scale when supplying those restaurants. Therefore, the discount may be due to lower production costs.	(2 marks)

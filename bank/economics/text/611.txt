@@ -1,0 +1,1519 @@
+Chapter 11	International trade (I) - free trade and principle of comparative advantage
+
+Multiple Choice Questions
+
+Question code: B6C11Q001 (new)
+The amount of resources required to produce 1 unit of T-shirts or socks is shown as follows.
+
+		T-shirts	Socks	
+Country A	5 units	3 units	
+Country B	2 units	1 unit	
+
+Which of the following statements is NOT correct?
+A.	Country B has an absolute advantage in producing T-shirts.
+B.	Country B has an absolute advantage in producing socks.
+C.	Country B has a comparative advantage in producing T-shirts.
+D.	Country B has a comparative advantage in producing socks.
+
+Answer: C
+
+Question code: B6C11Q002 (new)
+If a country has an absolute advantage in producing Good X over another country,
+A.	that country can use fewer resources than the other country to produce 1 unit of Good X.
+B.	that country has a comparative advantage in producing Good X.
+C.	that country will specialise in producing Good X.
+D.	that country has a lower cost than the other country in producing Good X.
+
+Answer: A
+
+
+Question code: B6C11Q003
+Which of the following statements about absolute advantage and comparative advantage is correct?
+A.	A country has an absolute advantage over another country in the production of Good X if it produces a larger amount of Good X than the other country.
+B.	A country has an absolute advantage over another country in the production of Good Y if it uses a smaller amount of resources to produce Good Y than the other country.
+C.	A Country has a comparative advantage over another country in the production of Good Z if it can produce Good Z at a lower opportunity cost than the other country.
+D.	All of the above
+
+Answer: C
+
+Question code: B6C11Q004
+Which of the following statements about absolute advantage is INCORRECT?
+A.	A country with a comparative advantage in a good also has an absolute advantage in that good.
+B.	A country with an absolute advantage in a good can produce more of the good with the same amount of resources.
+C.	A country with an absolute advantage in a good can produce the same amount of the good with fewer resources.
+D.	Absolute advantage has nothing to do with costs that are measured in terms of another good.
+
+Answer: A
+
+
+Question code: B6C11Q005
+Which of the following statements is correct?
+A.	If trade involves transport costs and transaction costs, we cannot determine which country has a comparative advantage in producing each good.
+B.	We can determine which country has a comparative advantage only when the marginal costs of production of all countries are constant.
+C.	A comparative advantage can be determined only when countries have the same production costs for different goods.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C11Q006
+Suppose there are two countries (X and Y) and only two goods are produced (A and B). If Country X has a comparative advantage in producing Good A,
+A.	Country X also has a comparative advantage in producing Good B.
+B.	Country Y must have a comparative advantage in producing Good B.
+C.	Country Y must suffer from an absolute disadvantage in producing both Good A and Good B.
+D.	the two countries will trade with each other.
+
+Answer: B
+
+Question code: B6C11Q007
+Suppose there are only two goods: Good X and Good Y. If Japan has a comparative advantage in producing Good X,
+A.	it cannot have an absolute advantage in producing Good Y.
+B.	compared with other countries, it needs to forgo a smaller amount of another good to produce each unit of Good X.
+C.	it can have a comparative advantage in producing Good Y.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B6C11Q008
+Country J can produce 4 units of atomic bombs or 2 units of hydrogen bombs with 1 unit of resources, while Country A can produce 10 units of atomic bombs or 5 units of hydrogen bombs with 1 unit of the same resources. We can conclude that
+A.	Country J has an absolute advantage in producing atomic bombs.
+B.	Country J has a comparative advantage in producing atomic bombs.
+C.	the two countries will not trade with each other as Country A has an absolute advantage in producing both atomic bombs and hydrogen bombs.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C11Q009
+Suppose Country T and Country S have 6 and 10 units of resources, respectively. Each country uses half of its resources to produce Good X. Country T produces 30 units of Good X and 60 units of Good Y. Country S produces 45 units of Good X and 90 units of Good Y. We can conclude that
+A.	Country S has an absolute advantage in producing Good X.
+B.	Country S has a comparative advantage in producing Good X.
+C.	Country T has an absolute advantage in producing Good Y.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C11Q010 (new)
+In Country X, the cost of producing 1 unit of strawberries is 10 units of bananas while the cost of producing 1 unit of bananas is 0.1 units of strawberries. 
+In Country Y, 5 units of resources are needed to produce 1 unit of bananas while 10 units of resources are need to produce 1 unit of strawberries. 
+We can conclude that
+A.	Country X has an absolute advantage in producing bananas.
+B.	Country X has a comparative advantage in producing bananas.
+C.	Country X has a comparative advantage in producing strawberries.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B6C11Q011
+The following table shows the number of working hours required to produce 1 unit of wheat or soybeans in Country E and Country F.
+
+	Wheat	Soybeans	
+Country E	4 hours	1 hour	
+Country F	2 hours	0.2 hours	
+
+Which of the following statements are correct?
+(1)	Country F has a comparative advantage in producing soybeans.
+(2)	Country F has an absolute advantage in producing wheat.
+(3)	Country F has an absolute advantage in producing soybeans.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C11Q012
+The following table shows the resource requirements for producing 1 unit of oranges or apples in Country A and Country B.
+
+		Oranges	Apples	
+Country A	5 units	8 units	
+Country B	6 units	4 units	
+
+Which of the following are correct?
+(1)	Country A has a comparative advantage in producing oranges.
+(2)	Country A has a comparative advantage in producing apples.
+(3)	Country B has an absolute advantage in producing oranges.
+(4)	Country B has an absolute advantage in producing apples.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B6C11Q013
+The following table shows the production combinations of Country A and Country B before they trade.
+
+	Computer software (units)		Laptops (units)	
+Country A	200	AND	50	
+Country B	100	AND	100	
+
+Which of the following statements are correct conclusions?
+(1)	Country A has a comparative advantage in producing computer software.
+(2)	Country B has a comparative advantage in producing laptops.
+(3)	Country A has an absolute advantage in producing computer software.
+(4)	Country B has an absolute advantage in producing laptops.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2), (3) and (4)
+D.	None of the above can be concluded.
+
+Answer: D
+
+Question code: B6C11Q014 (new)
+Which of the following statements is INCORRECT?
+A.	A country has an absolute advantage over another country in the production of a good if it can produce the same amount of the good as the other country with fewer resources.
+B.	It is possible for one country to have both an absolute advantage and a comparative advantage in the same good.
+C.	Two countries will not trade a good if neither of them has an absolute advantage in that good.
+D.	All of the above statements are correct.
+
+Answer: C
+
+
+Question code: B6C11Q015
+Suppose all countries produce only two goods: Good X and Good Y. When the opportunity costs of producing two goods in some countries are the same, which of the following statements are INCORRECT?
+(1)	Absolute advantage may exist.
+(2)	Comparative advantage does not exist.
+(3)	International trade will not exist.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C11Q016 (new)
+The amount of food or drinks that two countries can produce with 1 man-hour is shown as follows.
+
+	Food (units)		Drinks (units)	
+Country A	50	OR	70	
+Country B	60	OR	80	
+
+Suppose each country spends 3 man-hours on production and will practise complete specialisation based on the principle of comparative advantage. The two countries can produce a total of ______ units of food and _____ units of drinks.
+A.	150 ... 210
+B.	150 ... 240
+C.	180 ... 210
+D.	180 ... 240
+
+Answer: C
+
+
+Question code: B6C11Q017
+Which of the following statements about the principle of comparative advantage is correct?
+A.	Trade will occur if each country specialises in producing the good in which it has a comparative advantage.
+B.	The gain from trade can be shared equally among countries.
+C.	Compared with no trade, the total world output will increase if all countries specialise in producing the goods in which they have comparative advantages.
+D.	The country with a higher cost of producing a good will enjoy less of a gain from trade.
+
+Answer: C
+
+Question code: B6C11Q018
+According to the principle of comparative advantage,
+A.	the terms of trade is determined by the demand for and the supply of a good.
+B.	international trade must be good for all countries.
+C.	a country can enjoy economies of scale if it engages in international trade.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C11Q019
+Suppose Country A and Country B only produce Good X and Good Y. Which of the following descriptions are INCORRECT?
+(1)	If Country A has an absolute advantage in producing Good X, it can gain more from trading Good X.
+(2)	If Country A has a comparative advantage in producing Good X, it can gain more from trading Good X.
+(3)	If the two countries specialise in producing the goods in which they have absolute advantages, their total output will be maximised.
+(4)	If the unit production costs of Country A and Country B are different, the two countries will definitely trade.
+A.	(1) and (3) only
+B.	(1), (2) and (4) only
+C.	(2), (3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: D
+
+Question code: B6C11Q020 (new)
+Suppose Country A and Country B only produce Good X and Good Y. If Country A has an absolute advantage in producing Good X while Country B has an absolute advantage in producing Good Y, which of the following statements is correct?
+A.	The comparative advantages cannot be determined.
+B.	Country A will import Good X and export Good Y.
+C.	The total output will be maximised if Country A produces only Good X and Country B produces only Good Y.
+D.	Mutually beneficial trade is not possible between Country A and Country B.
+
+Answer: C
+
+Question code: B6C11Q021 (new)
+Suppose Country A only produces two goods: Good X and Good Y, and it has a comparative advantage in producing Good X. Which of the following statements is correct?
+A.	Country A has an absolute advantage in producing Good X.
+B.	Country A can have a comparative advantage in producing Good Y.
+C.	Country A will consume more of Good X and Good Y if it specialises in producing Good X and imports Good Y from other countries.
+D.	None of the above
+
+Answer: D
+Explanation
+Option C is incorrect. It is possible that Country A only consumes more of Good X or Good Y after specialisation and trade.
+
+Question code: B6C11Q022
+Suppose there are only two goods. If Country A has a comparative advantage in producing one of them,
+A.	it has a higher productivity in producing that good.
+B.	it will engage in trade.
+C.	it can gain from exporting that good under any terms of trade.
+D.	its opportunity cost for producing that good is lower than other countries.
+
+Answer: D
+
+Question code: B6C11Q023
+Study the following table which shows the amount of two goods that 1 unit of resources can produce for each of the two countries.
+
+	Textiles (units)		Computers (units)	
+China	12	OR	5	
+US	24	OR	20	
+
+According to the principle of comparative advantage, China should export ____________ and the US should export ____________.
+A.	textiles … textiles
+B.	computers … computers
+C.	computers … textiles
+D.	textiles … computers
+
+Answer: D
+
+Question code: B6C11Q024
+Suppose Brazil and Argentina only produce footballs and sports shoes. The following table shows the amount of the two goods that can be produced with 1 unit of resources by the two countries.
+
+	Footballs (units)		Sports shoes (units)	
+Brazil	12	OR	6	
+Argentina	16	OR	6	
+
+Which of the following is correct?
+A.	If Brazil specialises in producing footballs and Argentina specialises in producing sports shoes, the total output of the two countries will be maximised.
+B.	According to the principle of comparative advantage, Brazil should specialise in producing sports shoes.
+C.	If the two countries use half of their resources to produce footballs and the other half to produce sports shoes, the total output of the two countries will be maximised.
+D.	None of the above
+
+Answer: B
+
+Question code: B6C11Q025 (new)
+The following table shows the quantity of toys or books that two countries can produce with all of their resources.
+
+	Toys (units)		Books (units)	
+Country X	10	OR	8	
+Country Y	5	OR	6	
+
+Which of the following is correct?
+A.	Country Y has an absolute advantage in producing books.
+B.	Country X has a comparative advantage in producing books.
+C.	If the terms of trade is 5 units of toys = 3 units of books, both countries can gain from trade.
+D.	If the transaction cost for each unit of toys traded is 0.3 units of books, mutually beneficial trade is possible.
+
+Answer: D
+
+Question code: B6C11Q026 (new)
+The following table shows the amount of inputs required to produce 1 unit of speakers or keyboards.
+
+	Speakers	Keyboards	
+Country A	4 units	2 units	
+Country B	3 units	5 units	
+
+Under which terms of trade can both countries benefit from trade?
+A.	1 unit of speakers = 0.5 units of keyboards
+B.	1 unit of speakers = 1.5 units of keyboards
+C.	1 unit of speakers = 2.5 units of keyboards
+D.	1 unit of speakers = 3.5 units of keyboards
+
+Answer: B
+
+
+Question code: B6C11Q027 (new)
+Country U can produce 25 units of Good X or 30 units of Good Y with 1 unit of resources. Which of the following is correct?
+A.	Country U has a comparative advantage in producing Good Y.
+B.	Country U's cost of producing 1 unit of Good X is 0.83 units of Good Y.
+C.	If the terms of trade is 2 units of Good X = 3 units of Good Y, Country U can gain from exporting Good X.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C11Q028 (new)
+The following table shows the amount of jeans and shirts that Country M and 
+Country N can produce with all of their resources.
+
+	Jeans (units)		Shirts (units)	
+Country M	80	OR	80	
+Country N	60	OR	120	
+
+If the terms of trade is 1 unit of jeans = 1.25 units of shirts, which of the following is correct?
+A.	Country M will gain 0.5 units of jeans per unit of imports.
+B.	Country M will gain 0.25 units of shirts per unit of exports.
+C.	Country N will gain 0.75 units of jeans per unit of exports.
+D.	Country M and Country N will not trade.
+
+Answer: B
+
+
+Question code: B6C11Q029 (new)
+Suppose Country J and Country U each has 5 units of resources. The following table shows the output of batteries or torches using all their resources.
+
+	Batteries (units)		Torches (units)	
+Country J	120	OR	100	
+Country U	110	OR	80	
+
+If they practise complete specialisation based on the principle of comparative advantage, Country J can gain from __________ batteries when the terms of trade is __________.
+A.	exporting ... 8 units of batteries = 6 units of torches
+B.	exporting ... 8 units of batteries = 7 units of torches
+C.	importing ... 8 units of batteries = 6 units of torches
+D.	importing ... 8 units of batteries = 7 units of torches
+
+Answer: C
+
+Question code: B6C11Q030 (new)
+Country P and Country Q evenly allocate their resources into the production of cocoa and bicycles. The following shows their production information.
+
+	Cocoa (units)		Bicycles (units)	
+Country P	45	AND	15	
+Country Q	40	AND	24	
+
+Which of the following statements is/are correct?
+(1)	Country P has a comparative advantage in producing cocoa.
+(2)	Country Q has an absolute advantage in producing bicycles.
+(3)	If both countries specialise according to the principle of comparative advantage, the total output of both goods will increase.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B6C11Q031 (new)
+* Country P and Country Q evenly allocate their resources into the production of cocoa and bicycles. The following shows their production information.
+
+	Cocoa (units)		Bicycles (units)	
+Country P	45	AND	15	
+Country Q	40	AND	24	
+
+Suppose Country P and Country Q trade with each other and the terms of trade is 
+1 unit of cocoa = 0.4 unit of bicycles. If the importing country has to pay 0.1 units of bicycles for each unit of cocoa imported, the importing country gains __________ units of bicycles from importing 10 units of cocoa.
+A.	0.1
+B.	1
+C.	5
+D.	8.3
+
+Answer: B
+
+Question code: B6C11Q032 (new)
+The following table shows the amount of resources required to produce each unit of televisions or cosmetics.
+
+	Televisions	Cosmetics	
+Country J	10 units	5 units	
+Country K	15 units	6 units	
+
+Which of the following statements are correct?
+(1)	Country J has an absolute advantage in producing cosmetics.
+(2)	Country K has a comparative advantage in producing cosmetics.
+(3)	If the two countries trade with each other, Country J will import cosmetics and export televisions.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C11Q033 (new)
+The following table shows the amount of resources required to produce each unit of televisions or cosmetics.
+
+	Televisions	Cosmetics	
+Country J	10 units	5 units	
+Country K	15 units	6 units	
+
+Suppose Country J and Country K trade with each other and the exporting country has to pay 0.1 units of cosmetics for each unit of televisions exported. Which of the following terms of trade is possible for the trade between the two countries?
+A.	1 unit of televisions = 1 unit of cosmetics
+B.	1 unit of televisions = 2.1 units of cosmetics
+C.	1 unit of televisions = 2.3 units of cosmetics
+D.	1 unit of televisions = 2.6 units of cosmetics
+
+Answer: C
+
+Question code: B6C11Q034 (new)
+If we know the amounts of two goods that two countries can produce with all their inputs, we can find out
+(1)	which country has an absolute advantage in producing each good.
+(2)	the direction of trade in the goods between the two countries.
+(3)	the minimum transaction cost that would make the trade between the two countries impractical.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B6C11Q035
+Study the following table which shows the amount of two goods that 1 unit of resources can produce for each of the two countries.
+
+	Textiles (units)		Computers (units)	
+China	4	OR	4	
+US	6	OR	8	
+
+In the trade between China and the US, which of the following can be a mutually acceptable terms of trade?
+A.	1 unit of computers for 1.1 units of textiles
+B.	1 unit of textiles for 0.8 units of computers
+C.	1 unit of computers for 0.5 units of textiles
+D.	1 unit of textiles for 1.25 units of computers
+
+Answer: D
+
+Question code: B6C11Q036
+The following table shows the amount of resources required to produce 1 unit of goods in two countries.
+
+	Smartphones	HDTV sets	
+Korea	5 units	10 units	
+Japan	8 units	4 units	
+
+Which of the following CANNOT be the mutually acceptable terms of trade for them?
+A.	1 unit of smartphones for 0.6 units of HDTV sets
+B.	1 unit of smartphones for 1.2 units of HDTV sets
+C.	1 unit of HDTV sets for 1.8 units of smartphones
+D.	1 unit of HDTV sets for 2.4 units of smartphones
+
+Answer: D
+
+
+Question code: B6C11Q037
+* The following table shows the amount of goods that can be produced with 1 unit of resources in Country A and Country B.
+
+	Red wine (units)		White wine (units)	
+Country A	4	OR	12	
+Country B	X	OR	18	
+
+Suppose the two countries agree to exchange 1 unit of red wine for 4 units of white wine. Which of the following CANNOT be the value of X?
+A.	2
+B.	3
+C.	4
+D.	5
+
+Answer: D
+
+Question code: B6C11Q038
+* The following table shows the resource requirements for producing 1 unit of kimchi (泡菜) and 1 unit of takoyaki (章魚燒) in Japan and Korea.
+
+	Kimchi	Takoyaki	
+Japan	20 units	4 units	
+Korea	2 units	30 units	
+
+If the exporting country needs to pay 0.2 units of imported goods as a transportation cost, which of the following can be the mutually acceptable terms of trade between the two countries?
+A.	1 unit of kimchi for 0.3 units of takoyaki
+B.	1 unit of kimchi for 15 units of takoyaki
+C.	1 unit of takoyaki for 0.3 units of kimchi
+D.	1 unit of takoyaki for 20 units of kimchi
+
+Answer: A
+Explanation
+The following table shows their opportunity costs:
+	Kimchi	Takoyaki	
+Japan	5 units of takoyaki	0.2 units of kimchi	
+Korea	0.067 units of takoyaki	15 units of kimchi	
+
+Option C is incorrect because after paying 0.2 units of kimchi as a transportation cost, Japan's gain from exporting 1 unit of takoyaki is -0.1 (= 0.3 - 0.2 - 0.2) units of kimchi.
+
+Question code: B6C11Q039
+If Country A imports Good X from Country B, which of the following statements must be correct?
+A.	Workers in Country A are less productive in producing Good X than those in Country B.
+B.	Country A cannot produce Good X.
+C.	Country A has an absolute disadvantage in producing Good X.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C11Q040
+Which of the following can be the possible reasons why Country A does not trade with Country B?
+(1)	The labour productivity of Country B is lower than that of Country A.
+(2)	The gains from trade for Country A are smaller than transport costs.
+(3)	The production costs of the two countries are the same.
+(4)	Country B has absolute disadvantages in all goods.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: C
+
+Question code: B6C11Q041
+Which of the following statements is correct?
+A.	A country can have a comparative disadvantage in all goods.
+B.	A country cannot have an absolute advantage in all goods.
+C.	Two countries will trade with each other if the terms of trade are higher than their opportunity costs.
+D.	If the transportation cost is higher than the production cost difference between two countries, the countries will not trade with each other.
+
+Answer: D
+
+Question code: B6C11Q042
+Which of the following descriptions is correct?
+A.	According to the principle of comparative advantage, trade must be beneficial.
+B.	If the terms of trade is higher than the cost of a country but lower than the cost of another country, then the two countries may engage in trade.
+C.	According to the principle of comparative advantage, countries should specialise in producing the goods for which their productivity is higher.
+D.	If the terms of trade is closer to the cost of the exporting country, the gains from trade for the exporting country are higher than that for the importing country.
+
+Answer: B
+
+Question code: B6C11Q043
+The following table shows the resource requirements for producing 1 unit of cookies and 1 unit of cheese in Denmark and Holland.
+
+	Cookies	Cheese	
+Denmark	8 units	4 units	
+Holland	2 units	6 units	
+
+Which of the following statements is INCORRECT?
+A.	Demark has an absolute disadvantage in producing cookies.
+B.	According to the principle of comparative advantage, Holland should not export cheese to Denmark.
+C.	When the terms of trade is 1 unit of cookies to 0.3 units of cheese, the two countries will not trade with each other.
+D.	For each cookie exported, if transaction costs are equal to 0.2 units of cheese, the two countries will trade with each other.
+
+Answer: D
+
+
+Question code: B6C11Q044
+* The following table shows the amount of goods that can be produced with 1 unit of resources in Canada and Mexico.
+
+	Beer		Cigars	
+Canada	1 unit	OR	10 units	
+Mexico	2 units	OR	12 units	
+
+If 1 unit of beer can be exchanged for 7 units of cigars, the gains from trade for Mexico from importing 10 units of goods are
+A.	0.24 units of beer.
+B.	0.67 units of beer.
+C.	10 units of cigars.
+D.	30 units of cigars.
+
+Answer: A
+
+Question code: B6C11Q045
+The following table shows the amount of goods that can be produced with 1 unit of resources in Australia and Thailand.
+
+	Abalone		Mangoes	
+Australia	10 units	OR	2 units	
+Thailand	4 units	OR	32 units	
+
+Suppose the original terms of trade is 1 unit of mangoes : 0.18 units of abalone. Now, the terms of trade changes to 1 unit of mangoes : 0.13 units of abalone. The total gains from trading 10 units of mangoes for the two countries will
+A.	increase by 0.5 units of abalone.
+B.	decrease by 0.5 units of abalone.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B6C11Q046
+* The following table shows the amount of goods that can be produced in Australia and Thailand with 1 unit of resources.
+
+	Abalone		Mangoes	
+Australia	10 units	OR	2 units	
+Thailand	4 units	OR	32 units	
+
+Suppose the original terms of trade is 1 unit of mangoes : 0.18 units of abalone. Now, the terms of trade changes to 1 unit of mangoes : 0.1 units of abalone. Thailand's unit gains from trading mangoes will
+A.	increase by 0.08 units of abalone.
+B.	decrease by 0.08 units of abalone.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: D
+Explanation
+Opportunity cost of producing mangoes in Thailand = 4 ÷ 32 = 0.125 units of abalone
+Opportunity cost of producing mangoes in Australia = 10 ÷ 2 = 5 units of abalone
+As the new terms of trade is lower than both countries' cost of producing mangoes, there will be no trade.
+
+Question code: B6C11Q047
+The following table shows the amount of goods that can be produced with 1 unit of resources in Taiwan and Macau.
+
+	Dried pork (units)	Almond biscuits (units)	
+Taiwan	20	10	
+Macau	30	40	
+
+If 1 unit of dried pork can be exchanged for 0.5 units of almond biscuits, which of the following statements are correct?
+(1)	Taiwan can gain from exporting almond biscuits.
+(2)	Macau can gain from importing dried pork.
+(3)	Their potential gain from trading 1 unit of almond biscuits is 1.25 units of dried pork.
+(4)	Taiwan will not trade dried pork with Macau.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(2), (3) and (4) only
+D.	None of the above
+
+Answer: C
+
+Question code: B6C11Q048
+The following table shows the amount of goods that 1 unit of resources can produce in Norway and Sweden.
+
+	Tuna		Chocolate	
+Norway	5 units	OR	8 units	
+Sweden	8 units	OR	12 units	
+
+Suppose the two countries have to pay 0.1 units of tuna in total as a transportation cost for each unit of goods transacted. If the terms of trade is 1 unit of chocolate for ________ units of tuna, the two countries can gain from trade.
+A.	1.5
+B.	1.55
+C.	1.6
+D.	None of the above
+
+Answer: D
+
+Question code: B6C11Q049
+Suppose there are two countries that produce two goods. When the unit opportunity costs for producing the two goods in the two countries are the same,
+(1)	an absolute advantage cannot exist.
+(2)	a comparative advantage may still exist.
+(3)	the two countries may engage in trade if the total gains from trade are greater than the transaction costs.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C11Q050
+If two countries trade with each other,
+A.	their autarkic production costs must be different.
+B.	their cost of transporting goods must be zero.
+C.	they must specialise in producing some goods.
+D.	no country will have an absolute advantage in all goods.
+
+Answer: A
+
+Question code: B6C11Q051
+* Before an earthquake, Country X exported Good A to Country Y while Country Y exported Good B to Country X. Suppose the productivity of the two countries decreases after the earthquake in the sense that the same amount of resources can only produce half of the goods. Which of the following statements is correct?
+(1)	Trade between the two countries will stop.
+(2)	Both countries will have less of a gain from trade for each unit of the goods imported or exported.
+(3)	The pattern of trade will be the same as before.
+(4)	Their absolute advantages do not change.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: C
+
+Question code: B6C11Q052
+* Initially, Country A exported Good X to Country B, while Country B exported 
+Good Y to Country A. Suppose the productivity of the two countries increases: the productivity of Country A increases by 200% while the productivity of Country B increases by 100%. Which of the following is correct?
+A.	Country A's opportunity costs in producing both goods will increase by 200%.
+B.	Country A has an absolute advantage in producing both goods.
+C.	The unit gains from trade are the same as that before the improvement in productivity.
+D.	Country A will determine the terms of trade.
+
+Answer: C
+
+Question code: B6C11Q053
+Suppose there are three countries (X, Y and Z) and only two goods produced (A and B). If Country X exports Good A to Country Y, which of the following statements are correct?
+(1)	Country Y will export Good B to Country X.
+(2)	Country Z will have a comparative advantage in producing Good B.
+(3)	For Good A, the terms of trade will be determined by Country X.
+(4)	Country Z may also export Good A to Country Y.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B6C11Q054
+Before an earthquake, Country J was self-sufficient. After the earthquake, the nuclear energy plant in Country J was destroyed and all food produced in Country J was contaminated by radiation (受輻射污染). Although the international price of food has doubled, Country J still imports food from Country S to solve its food shortage problem. Which of the following statements is correct?
+A.	Country J cannot benefit from importing food as the price is unreasonably high.
+B.	The terms of trade will be determined by Country S.
+C.	Country S must gain more from the trade than Country J.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C11Q055 (new)
+* The following table shows the production and consumption information of 
+Country T. Country T evenly allocates its resources into the production of pork and rice before trade.
+
+	Pork (units)		Rice (units)	
+Total production without trade	30	AND	80	
+Total production with specialisation	50	AND	0	
+Total consumption with trade	40	AND	90	
+
+Suppose Country S, whose cost of producing 1 unit of rice is 0.1 units of pork, trades with Country T. Which of the following statements is correct?
+A.	Country P's gain from trade is 0.3 units of pork.
+B.	Country S's gain from trade is 1 unit of rice.
+C.	The total gain from trade is 8 units of rice.
+D.	All of the above
+
+Answer: B
+
+Question code: B6C11Q056 (new)
+* The following table shows the production and consumption information for 
+Country T. Country T evenly allocates its resources into the production of pork and rice before trade.
+
+	Pork (units)		Rice (units)	
+Total production without trade	30	AND	80	
+Total production with specialisation	50	AND	0	
+Total consumption with trade	40	AND	90	
+
+Which of the following statements is correct?
+A.	The terms of trade is 1 unit of pork = 2.25 units of rice.
+B.	Country T has an absolute advantage in producing pork over the country with which it trades.
+C.	A country whose cost of producing 1 unit of rice is 0.2 units of pork may be Country T's trading partner.
+D.	Country T's gain from trading each unit of pork is 5 units of rice.
+
+Answer: D
+
+Question code: B6C11Q057
+The following table shows the production combinations of Country X.
+
+	Food (units)		Comic books (units)	
+Production combinations before trade	100	AND	300	
+Production combinations after specialisation	200	AND	0	
+
+Suppose the marginal costs of producing both goods are constant. According to the above information, the opportunity cost of producing 1 unit of food in Country X is _________ units of comic books.
+A.	
+B.	
+C.	
+D.	There is insufficient information to determine.
+
+Answer: B
+
+Question code: B6C11Q058
+The following table shows the production and consumption data of Country Y.
+
+	Vehicles (units)		Diamonds (units)	
+Production combinations before trade	10	AND	20	
+Production combinations after specialisation	20	AND	0	
+Consumption before trade	10	AND	20	
+Consumption after trade	10	AND	30	
+
+According to the above information, what are Country Y's total gains from trade and the terms of trade?
+A.	1 unit of diamonds; 1 unit of vehicles to 3 units of diamonds
+B.	10 units of diamonds; 1 unit of vehicles to 3 units of diamonds
+C.	10 units of diamonds; 1 unit of vehicles to 1 unit of diamonds
+D.	30 units of diamonds; 1 unit of vehicles to 1 unit of diamonds
+
+Answer: B
+
+Question code: B6C11Q059 (new)
+* The following table shows the production and consumption information of 
+Country Y.
+
+	Milk (units)		Bread (units)	
+Total production without trade	40	AND	60	
+Total production with complete specialisation	0	AND	180	
+Total consumption with trade	80	AND	100	
+
+Which of the following statements are correct?
+(1)	The cost of producing 1 unit of milk in Country Y is 1.5 units of bread.
+(2)	The terms of trade is 1 unit of milk : 1 unit of bread.
+(3)	The gain from trading 1 unit of milk is 2 units of bread
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation
+Country Y has to forgo 40 units of milk in order to produce extra 120 units of bread. Hence, the cost of producing 1 unit of milk is 3 units of bread. Option (1) is not correct.
+Country Y exports 80 units of bread in exchange for 80 units of milk. Option (2) is correct.
+Gain from trading 1 unit of milk
+= Cost of producing 1 unit of milk - Cost of importing 1 unit of milk
+= 3 - 1 = 2 units of bread
+Option (3) is correct.
+
+
+Question code: B6C11Q060
+* Before trading, Country A and Country B use half of their resources to produce wheat and the other half to produce machines. The following table gives information about the two countries before and after they trade according to the principle of comparative advantage.
+
+		Wheat (units)		Machines (units)	
+Country A	Production combinations before trade	50	AND	80	
+	Consumption combinations after trade	60	AND	90	
+Country B	Production combinations before trade	90	AND	45	
+	Consumption combinations after trade	120	AND	X	
+
+Suppose Country A does not keep any stock of machines. From the data above, which of the following conclusions can be drawn?
+A.	The total gains from trade for the two countries are 40 units of wheat.
+B.	The terms of trade is 1 unit of wheat : 1 unit of machines.
+C.	The value of X is 70.
+D.	There is insufficient information to determine.
+
+Answer: C
+Explanation
+Option A is incorrect. In this case, total production is equal to total consumption. To find the total gains from trade, we need to compare the total production (consumption) before trade and the total production (consumption) after trade. The total production of wheat before trade is 140 units while the total production of wheat after trade is 180 units. The total production of machines before trade is 125 units while the total production after trade is 160 units. Thus, the total gains from trade are 40 units of wheat and 35 units of machines.
+Option C is correct. When Country A specialises in producing machines, it can produce 160 units of machines. As Country A consumes 90 units of machines after trade, Country B can only consume 70 units of machines.
+
+
+Question code: B6C11Q061
+* Suppose the marginal costs of producing wheat and machines are constant. Before trading, Country A and Country B use half of their resources to produce wheat and the other half to produce machines. The following table gives information about the two countries before and after they trade according to the principle of comparative advantage.
+
+		Wheat (units)		Machines (units)	
+Country A	Production combinations before trade	50	AND	80	
+	Consumption combinations after trade	X	AND	100	
+Country B	Production combinations before trade	90	AND	45	
+	Consumption combinations after trade	2X	AND	Y	
+
+Suppose both countries keep no inventory. The values of X and Y are _________ and _________, respectively.
+A.	60 … 60
+B.	40 … 70
+C.	70 … 50
+D.	Insufficient information to answer.
+
+Answer: A
+Explanation
+After complete specialisation, the total production of wheat is 180 units while the total production of machines is 160 units. These are the maximum amounts of goods that the two countries can consume. Hence,
+X + 2X = 180 ( X = 60
+100 + Y = 160 ( Y = 60
+
+Question code: B6C11Q062
+Comparative advantage determines
+A.	the gains from trade between two countries.
+B.	the terms of trade between two countries.
+C.	the quantity of goods consumed by two countries.
+D.	None of the above
+
+Answer: D
+
+Short Questions
+
+Question code: B6C11Q301 (new)
+(a)	'When a country has an absolute advantage over another country in producing Good X, it must have a comparative advantage over the other country in producing Good X.' Do you agree? Explain.	(3 marks)
+(b)	'When a country has a comparative advantage over another country in producing Good Y, it must have an absolute advantage over the other country in producing Good Y.' Do you agree? Explain.	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+Even if a country has a higher productivity in producing Good X than the other country, it may have a higher cost (i.e., forgoing a larger amount of another good) of producing Good X than the other country.	(2 marks)
+(b)	No.	(1 mark)
+Even if a country has a lower cost (i.e., forgoing a smaller amount of another good) of producing Good Y than the other country, it may have lower productivity in producing Good Y than the other country.	(2 marks)
+
+Question code: B6C11Q302
+(a)	What is absolute advantage?	(2 marks)
+(b)	'It is impossible for a country to have absolute disadvantages in producing all goods.' Do you agree? Briefly explain.	(2 marks)
+
+Answers:
+(a)	A country has an absolute advantage over another country in the production of a good if it can produce a larger amount of the good than the other country with the same amount of resources.	(2 marks)
+(b)	No.	(1 mark)
+It is possible for a country to have lower productivity than the other country in producing all goods.	(1 mark)
+
+
+Question code: B6C11Q303
+(a)	What is the meaning of absolute advantage?	(2 marks)
+(b)	Suppose the amount of resources in Country A is double that of Country B, and the two countries can produce the same amount of Good X and Good Y with all of their resources. Explain which country has the absolute advantages in producing these two goods.	(2 marks)
+
+Answers:
+(a)	A country has an absolute advantage over another country in the production of a good if it can produce a larger amount of the good than the other country with the same amount of resources.	(2 marks)
+(b)	Country B will have absolute advantages in producing both Good X and Good Y as it can use a smaller amount of resources than Country A to produce the same amount of the two goods.	(2 marks)
+
+Question code: B6C11Q304
+(a)	What is comparative advantage?	(2 marks)
+(b)	'Suppose there are two goods: Good X and Good Y. If Country A can use a smaller amount of resources than Country B to produce the same amount of 
+Good X and Good Y, it will have comparative advantages in producing both 
+Good X and Good Y.' Is this statement correct? Explain.	(3 marks)
+
+Answers:
+(a)	A country has a comparative advantage over another country in the production of a good if it can produce the good at a lower opportunity cost than the other country.	(2 marks)
+(b)	Incorrect.	(1 mark)
+It is impossible for Country A to have comparative advantages in producing all goods.	(2 marks)
+
+Question code: B6C11Q305
+(a)	State the principle of comparative advantage.	(2 marks)
+(b)	Suppose on Planet X all countries have the same production technology in all goods: the amount of output produced is the same for a given amount of resources in all countries. Explain whether the total output will increase if two countries trade according to the principle of comparative advantage.	(2 marks)
+
+
+Answers:
+(a)	The principle of comparative advantage states that if each country specialises in producing the good in which it has a comparative advantage, total world output will increase.	(2 marks)
+(b)	As production costs are the same in the countries, no country has comparative advantages in producing the goods. No cost can be saved by reallocating the production of a good. Thus, total output will remain unchanged.	(2 marks)
+
+Question code: B6C11Q306 (new)
+The following table shows the amount of goods that each unit of resources can produce in Country X and Country Y. Both countries only produce paper and cheese.
+
+	Paper (units)		Cheese (units)	
+Country X	10	OR	40	
+Country Y	25	OR	50	
+
+(a)	Determine which country has a comparative advantage in producing each of the goods.	(6 marks)
+(b)	Suppose both countries have 10 units of resources, and employ 6 units in producing paper while 4 units are employed in producing cheese before trade. Explain whether this case can illustrate the principle of comparative advantage if both countries engage in complete specialisation.	(6 marks)
+
+Answers:
+(a)	Cost of producing paper in Country X
+	= 40 ÷ 10 = 4 units of cheese	(1 mark)
+	Cost of producing paper in Country Y
+	= 50 ÷ 25 = 2 units of cheese	(1 mark)
+	As Country Y can produce paper at a lower cost, it has a comparative advantage in producing paper.	(1 mark)
+	Cost of producing cheese in Country X
+	= 10 ÷ 40 = 0.25 units of paper	(1 mark)
+	Cost of producing cheese in Country Y
+	= 25 ÷ 50 = 0.5 units of paper	(1 mark)
+	As Country X can produce cheese at a lower cost, it has a comparative advantage in producing cheese.	(1 mark)
+(b)	Total production of paper before trade
+	= 10 × 6 + 25 × 6 = 210 units	(1 mark)
+	Total production of cheese before trade
+	= 40 × 4 + 50 × 4 = 360 units	(1 mark)
+	Total production of paper after complete specialisation
+	= 25 × 10 = 250 units	(1 mark)
+	Total production of cheese after complete specialisation
+	= 40 × 10 = 400 units	(1 mark)
+	The case can illustrate the principle of comparative advantage because the total output of all countries increases.	(2 marks)
+
+Question code: B6C11Q307
+Suppose Country A and Country B produce only peanuts and almonds. The following table shows the amount of peanuts or almonds produced per unit of resources.
+
+	Peanuts (units)	Almonds (units)	
+Country A	15	12	
+Country B	20	16	
+
+(a)	Which country has an absolute advantage in producing peanuts? Which country has a comparative advantage in producing almonds? Explain.	(4 marks)
+(b)	Explain whether Country A and Country B will trade peanuts with each other.
+	(2 marks)
+
+Answers:
+(a)	Country B can produce a larger amount of peanuts per unit of input. Thus, it has an absolute advantage in producing peanuts.	(2 marks)
+Country A's opportunity cost of producing 1 unit of almonds is 1.25 (= 15 / 12) units of peanuts. Country B's opportunity cost of producing 1 unit of almonds is also 1.25 (= 20 / 16) units of peanuts. As both countries have the same cost in producing almonds, no country has a comparative advantage in producing almonds.	(2 marks)
+(b)	Country A's opportunity cost of producing 1 unit of peanuts is 0.75 (= 12 / 15) units of almonds while Country B's opportunity cost of producing 1 unit of peanuts is also 0.75 (= 16 / 20) units of almonds. 
+(Or: Since their opportunity costs of producing almonds are the same, their opportunity cost of producing peanuts are also the same.)	(1 mark)
+Since their opportunity costs of producing peanuts are the same, they will not trade with each other.	(1 mark)
+
+
+Question code: B6C11Q308
+The following table shows the number of working hours required to produce 1 unit of apple juice or orange juice in two countries.
+
+	Apple juice	Orange juice	
+Country A	2 hours	4 hours	
+Country B	3 hours	12 hours	
+
+Explain the direction of trade between them according to the principle of comparative advantage.	(6 marks)
+
+Answers:
+•	The following table shows the opportunity costs in the two countries.
+
+	Apple juice	Orange juice	
+Country A	0.5 units of orange juice	2 units of apple juice	
+Country B	0.25 units of orange juice	4 units of apple juice	
+		(2 marks)
+•	Country A has a comparative advantage in producing orange juice since its cost of producing orange juice is lower. Therefore, Country A should export orange juice to Country B.	(2 marks)
+•	Country B has a comparative advantage in producing apple juice since its cost of producing apple juice is lower. Therefore, Country B should export apple juice to Country A.	(2 marks)
+
+Question code: B6C11Q309
+* Country A uses an equal amount of resources to produce food and machines; Country B uses 40% of its resources to produce food and 60% of its resources to produce machines. The following table shows their production combinations.
+
+	Food (units)		Machines (units)	
+Country A	50	AND	100	
+Country B	40	AND	60	
+
+Explain the pattern of trade between the two countries according to the principle of comparative advantage.	(7 marks)
+
+Answers:
+•	The following table shows the amount of goods that can be produced with all the resources in each country:
+
+	Food (units)		Machines (units)	
+Country A	100	OR	200	
+Country B	100	OR	100	
+		(1 mark)
+•	The following table shows the opportunity costs of producing 1 unit of goods in the two countries:
+
+	Food	Machines	
+Country A	2 units of machines	0.5 units of food	
+Country B	1 unit of machines	1 unit of food	
+		(2 marks)
+•	Since Country A's cost of producing machines is lower, Country A has a comparative advantage in producing machines. Therefore, Country A should export machines to Country B.	(2 marks)
+•	Since Country B's cost of producing food is lower, Country B has a comparative advantage in producing food. Therefore, Country B should export food to 
+Country A.	(2 marks)
+
+Question code: B6C11Q310 (new)
+Country A can produce 1 unit of Good X or 2 units of Good Y with 1 unit of inputs, while Country B can produce 2 units of Good X or 3 units of Good Y with the same amount of inputs.
+(a)	Which country has an absolute advantage in producing Good X? Explain.
+	(2 marks)
+(b)	Which country has a comparative advantage in producing Good X? Explain.
+	(2 marks)
+(c)	What is the range in the terms of trade that allows both countries to gain from trade? Explain your answer briefly.	(2 marks)
+
+Answers:
+(a)	Country B has an absolute advantage in producing Good X.	(1 mark)
+With 1 unit of inputs, Country B's output (2 units of Good X) is greater than Country A's (1 unit of Good X).	(1 mark)
+(b)	Country B has a comparative advantage in producing Good X.	(1 mark)
+To produce 1 unit of Good X, Country B's cost (1.5 units of Good Y) is lower than that of Country A (2 units of Good Y).	(1 mark)
+(c)	The terms of trade should lie between their unit costs,	(1 mark)
+	i.e., 1.5Y < 1X < 2Y (or 0.5X < 1Y < 0.67X).	(1 mark)
+
+Question code: B6C11Q311 (new)
+The following shows the amount of paper or pencils that two countries can produce with 1 unit of resources.
+
+	Paper (units)		Pencils (units)	
+Country A	20	OR	22	
+Country B	16	OR	24	
+
+Suppose each country has 10 units of resources.
+(a)	If both countries completely specialise in producing the good in which they have a comparative advantage, find the total output of the two goods.	(6 marks)
+(b)	If 1 unit of paper can be exchanged by one country for the other country's 1.2 units of pencils, find the two countries' gain from each unit of paper exchanged,
+respectively.	(4 marks)
+
+Answers:
+(a)	Country A's cost of producing 1 unit of paper 
+	= 22 ÷ 20 = 1.1 units of pencils	(1 mark)
+	Country B's cost of producing 1 unit of paper
+	= 24 ÷ 16 = 1.5 units of pencils	(1 mark)
+	Hence, Country A has a comparative advantage in producing paper while 
+Country B has a comparative advantage in producing pencils.	(2 marks)
+	Total output of paper = 10 × 20 = 200 units of paper	(1 mark)
+	Total output of pencils = 10 × 24 = 240 units of pencils	(1 mark)
+(b)	Country A's gain from each unit of paper exported
+= 1.2 - 1.1 = 0.1 units of pencils	(2 marks)
+Country B's gain from each unit of paper imported
+= 1.5 - 1.2 = 0.3 units of pencils	(2 marks)
+
+Question code: B6C11Q312 (new)
+The following shows the amount of inputs needed to produce 1 unit of cotton or wool in two countries.
+
+	Cotton	Wool	
+Country A	5 units	4 units	
+Country B	6 units	8 units	
+
+(a)	Which country has a comparative advantage in producing cotton? Explain.
+	(3 marks)
+(b)	If the gain from trade is shared equally among the countries, what is the terms of trade? Explain your answer briefly.	(2 marks)
+(c)	Suppose there is a transaction cost for each unit of cotton traded. What is the minimum amount of the transaction cost that makes trading not mutually beneficial?	(2 marks)
+
+Answers:
+(a)	Country A's cost of producing 1 unit of cotton
+= 5 ÷ 4 = 1.25 units of wool	(1 mark)
+Country B's cost of producing 1 unit of cotton
+= 6 ÷ 8 = 0.75 units of wool	(1 mark)
+Therefore, Country B has a comparative advantage in producing cotton.	(1 mark)
+(b)	As the gain from trade is shared equally, the terms of trade must be the average of the two countries' production costs.	(1 mark)
+	Terms of trade:
+	1 unit of cotton = (1.25 + 0.75) ÷ 2 = 1 unit of wool	(1 mark)
+(c)	If the transaction cost is greater than or equal to the total gain from trade, trade will not be mutually beneficial.	(1 mark)
+	Minimum amount = Total gain from trade = 1.25 - 0.75 = 0.5 units of wool
+	(1 mark)
+
+Question code: B6C11Q313 (new)
+The following table shows the amount of resources required to produce 1 unit of ham or 1 unit of eggs in Country E and Country F.
+
+	Ham	Eggs	
+Country E	12	8	
+Country F	30	15	
+
+(a)	Which country has a comparative advantage in producing ham? Explain your answer briefly.	(3 marks)
+(b)	Suppose the terms of trade is 1 unit of ham = 1.9 units of eggs, and the transaction cost of each unit of ham is 0.3 units of eggs. If each of the countries pays half of the transaction cost, explain whether the countries would trade with each other.
+	(2 marks)
+
+
+Answers:
+(a)	Country E's cost of producing 1 unit of ham = 12 ÷ 8 = 1.5 units of eggs	(1 mark)
+	Country F's cost of producing 1 unit of ham = 30 ÷15 = 2 units of eggs	(1 mark)
+	As Country E can produce ham at a lower cost, it has a comparative advantage in producing ham.	(1 mark)
+(b)	Country F's gain from importing each unit of ham
+	= 2 - 1.9 - 0.15 = -0.05 units of eggs	(1 mark)
+	As Country F cannot gain from trade, it will not trade with Country E.	(1 mark)
+
+Question code: B6C11Q314
+The following table shows the amount of two goods that 1 unit of resources can produce in Country A and Country B.
+
+	Pears (units)		Books (units)	
+Country A	3	OR	6	
+Country B	2	OR	8	
+
+(a)		Suppose 1 unit of pears can be exchanged for 3 units of books. Based on the above information, explain why the trade between the two countries is mutually beneficial.	(4 marks)
+(b)	Give ONE economic reason why the two countries may NOT trade.	(1 mark)
+
+Answers:
+(a)	The cost of producing 1 unit of a good for both countries:
+
+	Pears (P)	Books (B)	
+Country A	2B	0.5P	
+Country B	4B	0.25P	
+	(2 marks)
+The terms of trade is 1 unit of pears for 3 units of books. By exporting 1 unit of pears, Country A can gain 1 (= 3 - 2) unit of books. By importing 1 unit of pears, Country B can gain 1 (= 4 - 3) unit of books. Both countries will gain from trade and so the trade is mutually beneficial.	(2 marks)
+(b)	They will not trade with each other if the gains from trade are smaller than the transport costs and transaction costs.	(1 mark)
+
+
+Question code: B6C11Q315
+The following table shows the amount of goods that can be produced with 1 unit of resources.
+
+	Beer (units)		Potato chips (units)	
+US	1,100	OR	550	
+Canada	700	OR	420	
+
+Suppose there is no transaction cost. According to the above table, calculate the range of the terms of trade (for 1 unit of beer) that is mutually beneficial to the two 
+countries.	(3 marks)
+
+Answers:
+The US's cost of producing 1 unit of beer
+= 550 ÷ 1,100 = 0.5 units of potato chips	(1 mark)
+Canada's cost of producing 1 unit of beer
+= 420 ÷ 700 = 0.6 units of potato chips	(1 mark)
+Hence, the terms of trade for 1 unit of beer should lie between 0.5 units of potato chips and 0.6 units of potato chips.	(1 mark)
+
+Question code: B6C11Q316
+Suppose there are only two goods: electronic watches and toys. The cost of producing 1 unit of electronic watches in Hong Kong is 5 units of toys.
+(a)	Calculate the cost of producing 1 unit of toys in Hong Kong.	(1 mark)
+(b)	Explain if Hong Kong has a comparative advantage in producing watches or toys based on the information provided and your answer in (a).	(3 marks)
+(c)	Suppose the terms of trade is 1 unit of electronic watches : 6 units of toys. If there are no transport costs and transaction costs, explain which goods will be exported by Hong Kong. Calculate Hong Kong's unit gain from exports.	(2 marks)
+
+Answers:
+(a)	0.2 (= 1 / 5) units of electronic watches	(1 mark)
+(b)	We cannot determine whether Hong Kong has a comparative advantage in producing either of the goods.	(1 mark)
+	Comparative advantage is the comparison in costs of producing a good between two or more countries. But we only have the information for Hong Kong.
+	(2 marks)
+(c)	Hong Kong will export electronic watches as its cost is smaller than the terms of trade.	(1 mark)
+	It can gain 1 unit of toys from each electronic watch exported.	(1 mark)
+
+Question code: B6C11Q317 (new)
+The following table shows the amount of cakes (C) and mangoes (M) that one unit of resources can produce in Country X and Country Y.
+
+	Cakes (units)	Mangoes (units)	
+Country X	20	5	
+Country Y	32	4	
+
+(a)	Which country has a comparative advantage in producing cakes? Explain your answer briefly.	(3 marks)
+(b)	Explain whether the following are possible terms of trade for the trade between Country X and Country Y.
+	(i)	1C = 1M	(2 marks)
+	(ii)	1C = 0.1M	(2 marks)
+
+Answers:
+(a)	Opportunity cost of producing 1 unit of cakes in Country X (in terms of mangoes) = 5 ÷ 20 = 0.25 units of mangoes	(1 mark)
+	Opportunity cost of producing 1 unit of cakes in Country Y (in terms of mangoes) = 4 ÷ 32 = 0.125 units of mangoes	(1 mark)
+	Country Y has a comparative advantage in producing cakes since it can produce at a lower cost than Country X.	(1 mark)
+(b)	(i)	No, Country X would not import cakes because its cost of producing cakes is lower than the terms of trade.	(2 marks)
+		OR
+		No, Country X would not export mangoes as its cost of producing mangoes is higher than the terms of trade.	(2 marks)
+	(ii)	No, Country Y would not export cakes as its cost of producing cakes is higher than the terms of trade.	(2 marks)
+		OR
+		No, Country Y would not import mangoes as its cost of producing mangoes is lower than the terms of trade.	(2 marks)
+
+
+Question code: B6C11Q318
+The following table shows the output per unit of resources in each of the two countries.
+
+	Fashions (units)		Hamburgers (units)	
+US	6	OR	12	
+France	12	OR	9	
+
+(a)	Which country has a comparative advantage in producing fashions? Show your steps.	(3 marks)
+(b)	Suppose 4 units of fashions can be exchanged for 5 units of hamburgers. Calculate the US's gain from trading 1 unit of fashions if 
+(i)	there are no other costs involved in the trade between them;	(2 marks)
+(ii)	the US has to pay an insurance cost of 0.75 units of hamburgers per unit of fashions traded.	(2 marks)
+
+Answers:
+(a)	The opportunity cost of producing 1 unit of fashions in the US 
+	= 12 ÷ 6 = 2 units of hamburgers	(1 mark)
+	The opportunity cost of producing 1 unit of fashions in France
+	= 9 ÷ 12 = 0.75 units of hamburgers	(1 mark)
+	Since France has a lower opportunity cost of producing 1 unit of fashions, it has a comparative advantage in producing fashions.	(1 mark)
+(b)	(i)	For each unit of fashions imported, the US's gain
+= Domestic cost of producing 1 unit of fashions - Cost of obtaining 1 unit of fashions from trade
+	= (2 - 1.25) units of hamburgers	(1 mark)
+	= 0.75 units of hamburgers	(1 mark)
+(ii)	For each unit of fashions imported, the US's gain
+= Domestic cost of producing 1 unit of fashions - Cost of obtaining 1 unit of fashions from trade - Per-unit insurance cost
+= (2 - 1.25 - 0.75) unit of hamburgers	(1 mark)
+= 0 units of hamburgers	(1 mark)
+
+
+Question code: B6C11Q319
+The following table shows the amount of resources required to produce 1 unit of clothes or food in two countries.
+
+	Clothes	Food	
+Greece	20 units of resources	50 units of resources	
+Russia	40 units of resources	80 units of resources	
+
+(a)	Which country has a comparative advantage in producing food? Show your steps.	(3 marks)
+(b)	Calculate the minimum transaction cost per unit of food which will make the two countries stop trading. Briefly explain your answer.	(3 marks)
+(c)	Suppose 1 unit of food can be exchanged for 2.2 units of clothes. Under a situation where there is no transaction cost, calculate the gains from trade for Greece by importing 1 unit of goods.	(3 marks)
+
+Answers:
+(a)	The opportunity cost of producing 1 unit of food in Greece is 2.5 (= 50 / 20) units of clothes.	(1 mark)
+	The opportunity cost of producing 1 unit of food in Russia is 2 (= 80 / 40) units of clothes.	(1 mark)
+	Since Russia's cost of producing 1 unit of food is lower, it has a comparative advantage in producing food.	(1 mark)
+(b)	When the total transaction cost is higher than the total gains from trade for the two countries, they will stop trading.	(1 mark)
+	The total gains from trade are equal to the difference in the two countries' opportunity costs. Therefore, the minimum transaction cost per unit of food which will make the two countries stop trading 
+	= (2.5 - 2) units of clothes	(1 mark)
+	= 0.5 units of clothes	(1 mark)
+(c)	Since Greece's cost of producing food is higher than Russia's, Greece will import food from Russia.	(1 mark)
+	The gains from trade for Greece by importing 1 unit of food
+	= Domestic cost - The cost of getting 1 unit of food from trade
+	= (2.5 - 2.2) units of clothes	(1 mark)
+	= 0.3 units of clothes	(1 mark)
+
+
+Question code: B6C11Q320
+The following table shows the amount of resources required to produce 1 unit of Good X or Good Y in two countries.
+
+	Good X	Good Y	
+Country A	15 units of resources	30 units of resources	
+Country B	25 units of resources	40 units of resources	
+
+(a)	Which country has an absolute disadvantage in both goods? Explain.	(2 marks)
+(b)	Explain which country has the comparative advantage in Good Y.	(3 marks)
+(c)	Based on the results in (a) and (b), is the possession of absolute advantage necessary for comparative advantage in a good? Briefly explain you answer.
+	(3 marks)
+
+Answers:
+(a)	Country B because	(1 mark)
+it has to use a greater amount of resources to produce the same amount of the two goods.	(1 mark)
+(b)	Opportunity cost of producing 1 unit of Good Y in Country A
+	= 30 ÷ 15 = 2 units of Good X	(1 mark)
+	Opportunity cost of producing 1 unit of Good Y in Country B
+	= 40 ÷ 25 = 1.6 units of Good X	(1 mark)
+Since Country B has a lower opportunity cost, it has a comparative advantage over Country A in producing Good Y.	(1 mark)
+(c)	Although Country B has an absolute disadvantage in both goods, it has a comparative advantage in Good Y.	(1 mark)
+	Therefore, having an absolute advantage is not necessary for a comparative advantage in a good.	(2 marks)
+
+Question code: B6C11Q321
+The following table shows the pre-trade production combinations in the US and Hong Kong. Suppose the marginal costs of producing both goods are constant.
+
+	Food (units)		Computers (units)	
+US	16	AND	20	
+Hong Kong	16	AND	32	
+
+The US employs 8 units of resources while Hong Kong employs 6 units of resources. Their resources are divided equally to produce food and computers.
+(a)	Which region has an absolute advantage in producing each good? Which region has a comparative advantage in producing each good?	(7 marks)
+(b)	If the US consumes 12 units of food and 30 units of computers after specialisation, find the consumption combination of Hong Kong and the terms of trade between the two regions.	(4 marks)
+
+Answers:
+(a)	The amount of the two goods that 1 unit of resources can produce:
+
+	Food (units)		Computers (units)	
+US	4	OR	5	
+Hong Kong	5.33	OR	10.67	
+	(1 mark)
+(Note: To determine which region has an absolute advantage, we need to compare the amounts of output produced by the same amount of resources.)
+
+Hong Kong can produce a larger amount of food and computers than the US per unit of resources. Therefore, Hong Kong has absolute advantages in producing both food and computers.	(2 marks)
+
+The opportunity costs in the two regions are:
+
+	Food (F)	Computers (C)	
+US	1.25C (= 20C / 16)	0.8F (= 16F / 20)	
+Hong Kong	2C (= 32C / 16)	0.5F (=16F / 32)	
+	(2 marks)
+(Note: As both regions use an equal division of resources to produce food and computers, we can simply use the table in the question to find the opportunity costs. If the amount of resources used in producing food is not equal to the amount of resources used in producing computers, we need to find the amount of output with the same amount of resources before calculating the opportunity costs.)
+
+Hong Kong has a comparative advantage in producing computers since its cost (0.5F) is lower.	(1 mark)
+The US has a comparative advantage in producing food since its cost (1.25C) is lower.	(1 mark)
+
+(b)	The production combinations after specialisation:
+
+	Food (units)		Computers (units)	
+US	32	AND	0	
+Hong Kong	0	AND	64	
+		(1 mark)
+	The final consumption combination of Hong Kong is 20 (= 32 - 12) units of food and 34 (= 64 - 30) units of computers.	(1 mark)
+This implies the US exports 20 units of food for 30 units of computers. Therefore, the terms of trade is 1 unit of food for 1.5 units of computers (or 1 unit of computers for 0.67 units of food).	(2 marks)
+
+Question code: B6C11Q322
+Both Hong Kong and Macau have 2 units of resources. They use an equal division of resources to produce biscuits and cakes.
+
+	Biscuits (units)		Cakes (units)	
+Hong Kong	75	AND	25	
+Macau	40	AND	20	
+
+(a)	Explain which region has a comparative advantage in producing biscuits.
+		(2 marks)
+(b)	The two regions trade according to the principle of comparative advantage. The consumption combinations after trade in Hong Kong are 100 units of biscuits and 20 units of cakes. Find the final production combinations of Hong Kong and Macau. Calculate the terms of trade between the two regions and the gains from trade for Hong Kong in importing goods from Macau.	(7 marks)
+
+Answers:
+(a)	•	Hong Kong's cost of producing 1 unit of biscuits is 0.33 (= 25 / 75) units of cakes; Macau's cost of producing 1 unit of biscuits is 0.5 (= 20 / 40) units of cakes.	(1 mark)
+•	Hong Kong has a comparative advantage in producing biscuits since its cost is lower.	(1 mark)
+(b)	•	Opportunity costs in the two regions:
+
+	Biscuits	Cakes	
+Hong Kong	0.33 units of cakes	3 units of biscuits	
+Macau	0.5 units of cakes	2 units of biscuits	
+(1 mark for opportunity costs of producing cakes)
+•	According to the principle of comparative advantage, Hong Kong should specialise in producing biscuits while Macau should specialise in producing cakes. The production combinations of the two regions after specialisation are as below:
+
+	Biscuits (units)		Cakes (units)	
+Hong Kong	150	AND	0	
+Macau	0	AND	40	
+	(2 marks)
+•	Hong Kong's consumption combinations after trade are 100 units of biscuits and 20 units of cakes. This implies Hong Kong imports 20 units of cakes with 50 (= 150 - 100) units of biscuits, so the terms of trade is 1 unit of cakes for 2.5 units of biscuits.	(2 marks)
+•	Hong Kong's cost of producing 1 unit of cakes is 3 units of biscuits. By importing 1 unit of cakes, it needs to pay 2.5 units of biscuits. Therefore, the gain from trade for Hong Kong in importing 1 unit of cakes is 0.5 units of biscuits.	(1 mark)
+•	The gains from trade for Hong Kong in importing 20 units of cakes are 10
+(= 0.5 × 20) units of biscuits.	(1 mark)
+
+Structured Questions
+
+Question code: B6C11Q501 (new)
+The following table shows the amount of goods that can be produced by two countries in 100 man-hours.
+
+	Ships (units)		Planes (units)	
+Country J	40	OR	100	
+Country U	60	OR	30	
+
+(a)	Which country has a comparative advantage in producing planes? Explain.
+	(3 marks)
+(b)	Find the range of the terms of trade that makes trading between the two countries mutually beneficial.	(2 marks)
+(c)	Suppose each country evenly allocates 2,000 man-hours to produce both goods before trade. Recently, Country J and Country U have produced and traded according to the principle of comparative advantage.
+(i)	State the principle of comparative advantage.	(2 marks)
+*(ii)	Can the above case illustrate the principle of comparative advantage? Explain your answer with calculation.	(6 marks)
+
+Answers:
+(a)	Country J's cost of producing 1 unit of planes
+	= 40 ÷ 100 = 0.4 units of ships	(1 mark)
+	Country U's cost of producing 1 unit of planes
+	= 60 ÷ 30 = 2 units of ships	(1 mark)
+	Therefore, Country J has a comparative advantage in producing planes.	(1 mark)
+(b)	2 units of ships > 1 unit of planes > 0.4 units of ships	(2 marks)
+(c)	(i)	The principle of comparative advantage states that if each country specialises in producing the good in which it has a comparative advantage, the total output of all countries can increase.	(2 marks)
+	(ii)	Total production of ships before trade
+		= 40 × 10 + 60 × 10 = 1,000 units	(1 mark)
+		Total production of planes before trade
+		= 100 × 10 + 30 × 10 = 1,300 units	(1 mark)
+		According to the principle, Country J will completely specialise in producing planes while Country U will completely specialise in producing ships.
+	(1 mark)
+		Total production of ships after trade
+		= 60 × 20 = 1,200 units	(1 mark)
+		Total production of planes after trade
+		= 100 × 20 = 2,000 units	(1 mark)
+		As the outputs of both goods increase after trade, the principle of comparative advantage can be illustrated.	(1 mark)
+
+
+Question code: B6C11Q502 (new)
+The following shows the amount of inputs needed to produce 1 unit of rice or 1 unit of flowers.
+
+	Rice	Flowers	
+Country A	4 units	8 units	
+Country B	8 units	12 units	
+
+(a)	(i)	Complete the following table.	(4 marks)
+	
+	Cost of producing 
+1 unit of rice	Cost of producing 
+1 unit of flowers	
+Country A	_______ units of flowers	_______ units of rice	
+Country B	_______ units of flowers	_______ units of rice	
+
+(ii)	Explain which country will export rice.	(2 marks)
+(b)	Suppose the rainfall in Country A decreases. As a result, the production of 1 unit of rice now requires 8 units of inputs.
+	(i)	Explain which country will export rice.	(3 marks)
+(ii)	Suppose the terms of trade is 1 unit of rice for 0.6 units of flowers.
+(I)	Can Country B gain from trading rice before the change? Explain.
+	(2 marks)
+(II)	Can Country B gain from trading rice after the change? Explain.	(2 marks)
+
+Answers:
+(a)	(i)	
+	Cost of producing 
+1 unit of rice	Cost of producing 
+1 unit of flowers	
+Country A	0.5 units of flower	2 units of rice	
+Country B	0.67 units of flower	1.25 units of rice	
+			(4 marks)
+(ii)	Country A will export rice	(1 mark)
+because Country A has a lower cost of producing rice.	(1 mark)
+(b)	(i)	Country B will export rice.	(1 mark)
+Country A's cost of producing 1 unit of rice becomes 1 unit of flowers.
+	(1 mark)
+Therefore, Country B has a lower cost in producing rice.	(1 mark)
+	(ii)	(I)	Country B can gain from importing rice before the change.	(1 mark)
+The gain is 0.07 units of flowers for each unit of rice imported.	(1 mark)
+(II)	Country B cannot gain from exporting rice after the change.	(1 mark)
+Because Country B's production cost is higher than the terms of trade.
+	(1 mark)
+
+Question code: B6C11Q503
+The following table shows the amount of two goods that 1 unit of resources can produce in two countries:
+
+	Good X (units)		Good Y (units)	
+Country A	3	OR	12	
+Country B	4	OR	6	
+
+(a)	Calculate a range for the terms of trade (for 1 unit of Good X) which is mutually beneficial to both countries.	(3 marks)
+(b)	Suppose there is technological progress in producing Good Y in Country B and that it now can produce 20 units of Good Y with 1 unit of resources.
+(i)	Explain which country has a comparative advantage in producing Good Y.
+	(3 marks)
+(ii)	Suppose the terms of trade is 4.5 units of Good Y for 1 unit of Good X.
+(I)	Calculate and explain the gains from trade to both countries from exporting 1 unit of a good.	(6 marks)
+(II)	If Country B has to pay 1 unit of Good Y as a transport cost for every unit of imported goods, explain whether Country B can benefit from imports.
+	(4 marks)
+
+Answers:
+(a)	The costs of producing 1 unit of Good X in both countries are:
+Country A: 1 unit of Good X = 4 units of Good Y	(1 mark)
+Country B: 1 unit of Good X = 1.5 units of Good Y	(1 mark)
+Therefore, the terms of trade should lie within this range:
+1.5 units of Good Y < 1 unit of Good X < 4 units of Good Y	(1 mark)
+
+(b)	(i)	Opportunity cost of producing 1 unit of Good Y in Country A
+		= 3 ÷ 12 = 0.25 units of Good X	(1 mark)
+		Opportunity cost of producing 1 unit of Good Y in Country B
+		= 4 ÷ 20 = 0.2 units of Good X	(1 mark)
+	The cost of producing Good Y in Country B is lower than that in Country A. Therefore, Country B has a comparative advantage in producing Good Y.
+	(1 mark)
+(ii)	(I)	According to the principle of comparative advantage, Country A should specialise in the production of Good X while Country B should specialise in the production of Good Y.
+The terms of trade is 4.5 units of Good Y for 1 unit of Good X, i.e.,
+1 unit of Good X = 4.5 units of Good Y or
+1 unit of Good Y = 0.22 units of Good X	(2 marks)
+The cost of producing 1 unit of Good X in Country A is 4 units of Good Y. Country A can receive 4.5 units of Good Y by exporting 1 unit of Good X. So, it gains 0.5 (= 4.5 - 4) units of Good Y.	(2 marks)
+The cost of producing 1 unit of Good Y in Country B is 0.2 units of 
+Good X. Country B can receive 0.22 units of Good X by exporting 1 unit of Good Y. So, it gains 0.02 (= 0.22 - 0.2) units of Good X.	(2 marks)
+(II)	The cost of producing 1 unit of Good X in Country B is 5 units of Good Y. The price of importing 1 unit of Good X is 4.5 units of Good Y. Without the transport cost, the unit gain from importing Good X is 0.5 units of Good Y.	(2 marks)
+However, Country B has to pay 1 unit of Good Y for every unit of imported good (Good X) as a transport cost. Because the unit transport cost is greater than the unit gain from importing Good X, Country B cannot benefit from imports.	(2 marks)
+
+Question code: B6C11Q504 (new)
+The following table shows the amount of resources (R) required for producing 1 unit of goods in Country A and Country B.
+
+	Wheat	Hot dogs	
+Country A	20R	30R	
+Country B	25R	20R	
+
+(a)	(i)	Calculate the opportunity costs of producing both goods in both countries.
+	(4 marks)
+(ii)	Explain which country has a comparative advantage in producing wheat.
+	(1 mark)
+(iii)	Based on the principle of comparative advantage, explain the direction of trade between the two countries.	(2 marks)
+(b)	Suppose the cost of transporting 1 unit of wheat is 0.3 units of hot dogs.
+	(i)	Explain whether trade is possible between Country A and Country B.
+	(3 marks)
+(ii)	If the terms of trade is 1 unit of wheat = 0.9 units of hot dogs, explain whether trade would be possible when the transportation cost is completely paid by
+	(I)	Country A.	(3 marks)
+	(II)	Country B.	(3 marks)
+
+Answers:
+(a)	(i)	The opportunity cost of producing wheat in Country A
+		= 20 ÷ 30 = 0.67 units of hot dogs	(1 mark)
+		The opportunity cost of producing hot dogs in Country A
+		= 30 ÷ 20 = 1.5 units of wheat	(1 mark)
+		The opportunity cost of producing wheat in Country B
+		= 25 ÷ 20 = 1.25 units of hot dogs	(1 mark)
+		The opportunity cost of producing hot dogs in Country B
+		= 20 ÷ 25 = 0.8 units of wheat	(1 mark)
+(ii)	Country A has a comparative advantage in producing wheat as its opportunity cost is lower.	(1 mark)
+(iii)	As Country A has a comparative advantage in producing wheat, it will specialise in producing wheat and export wheat to Country B.	(1 mark)
+	Country B has a comparative advantage in producing hot dogs. So, it will specialise in producing hot dogs and export hot dogs to Country A.	(1 mark)
+
+(b)	(i)	The total gain from trading 1 unit of wheat
+		= 1.25 - 0.67 = 0.58 units of hot dogs	(1 mark)
+		As the total gain from trade is greater than the transportation cost, trade is possible between the two countries.	(2 marks)
+(ii)	(I)	Country A's gain from trading 1 unit of wheat
+		= 0.9 - 0.67 - 0.3 = -0.07 units of hot dogs	(1 mark)
+		As Country A cannot gain from trade, it would not export wheat and trade would not be possible.	(2 marks)
+	(II)	Country B's gain from trading 1 unit of wheat
+		= 1.25 - 0.9 - 0.3 = 0.05 units of hot dogs	(1 mark)
+		As Country B can gain from trade, it would import wheat. Country A can also gain from exporting wheat (= 0.9 - 0.67 = 0.23 units of hot dogs). Thus, trade would be possible.	(2 marks)
+
+
+Question code: B6C11Q505
+The following table shows the actual output of Country J and Country K. Each uses 20% of the resources to produce computers and the other 80% to produce clothing.
+
+	Computers (units)	Clothing (units)	
+Country J	20	100	
+Country K	10	400	
+
+(a)	Can we conclude that Country J has an absolute advantage in producing computers and Country K has an absolute advantage in producing clothing? Explain your answers.	(4 marks)
+(b)	Calculate the opportunity cost of producing 1 unit of computers for each country. If they trade, explain which country will export computers. Show your steps.
+	(6 marks)
+(c)	Calculate the minimum transportation cost per unit of computers which would lead to a total stoppage of trade between the two countries. Explain your answer.
+	(4 marks)
+(d)	Suppose after a catastrophic earthquake, Country J's outputs of both goods decline to 20% of what they were before the earthquake. What will the new pattern of trade between the two countries be? Explain.	(4 marks)
+
+Answers:
+(a)	No. Absolute advantage means that a country can produce more goods given the same amount of resources.	(2 marks)
+	Since we do not know the amount of resources in the two countries, we cannot tell whether the actual outputs given are produced by the same amount of resources. Thus, there is insufficient information to draw that conclusion.	(2 marks)
+
+(b)	Country J can produce 100 (= 20 / 0.2) units of computers or 125 (= 100 / 0.8) units of clothing with all of its resources.	(1 mark)
+	Therefore, the opportunity cost of producing 1 unit of computers for Country J is 1.25 (= 125 / 100) units of clothing.	(1 mark)
+	Country K can produce 50 (= 10 / 0.2) units of computers or 500 (= 400 / 0.8) units of clothing with all of its resources.	(1 mark)
+	Therefore, the opportunity cost of producing 1 unit of computers for Country K is 10 (= 500 / 50) units of clothing.	(1 mark)
+	Thus, Country J has a comparative advantage in producing computers.	(1 mark)
+	Country J should export computers.	(1 mark)
+
+(c)	Whenever the total gain from trade is smaller than the transportation cost per unit of computers, trade will stop.	(2 marks)
+	Therefore, the minimum transportation cost per unit of computers 
+	= (10 - 1.25) units of clothing	(1 mark)
+	= 8.75 units of clothing	(1 mark)
+
+(d)	After the earthquake, Country J could produce 20 units (100 units × 20%) of computers or 25 units (125 units × 20%) of clothing with all of its resources.
+	(1 mark)
+	The opportunity costs of producing computers and clothing are the same as before.	(1 mark)
+	Since the opportunity costs of producing the two goods in the two countries remain unchanged, the pattern of comparative advantages in the two goods is the same as before.	(1 mark)
+	Therefore, the pattern of trade will be the same as it was.	(1 mark)

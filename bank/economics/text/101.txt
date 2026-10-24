@@ -1,0 +1,2415 @@
+Chapter 1	What is economics?
+
+Multiple Choice Questions
+
+Question code: B1C01Q001
+Economics is the study of
+A.	how to make rational investments.
+B.	how to solve the problem of scarcity.
+C.	how to allocate resources under scarcity.
+D.	how to make income distribution more even.
+
+Answer: C
+Explanation
+The problem of scarcity can never be solved since our limited resources are always insufficient to satisfy our unlimited wants.
+
+Question code: B1C01Q002
+*Which of the following statements about economics are correct?
+(1)	Economics is a social science in which scarcity is assumed.
+(2)	Economics doesn't exist if we can satisfy all our wants.
+(3)	Economics is a subject about how to get rich.
+(4)	Economics assumes there must be some economic goods.
+A.	(1) and (2) only
+B.	(2) and (4) only
+C.	(3) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: D
+
+Question code: B1C01Q003
+Economics is the study of 
+A.	how people minimise their wants.
+B.	how people maximise their resources.
+C.	how people use unlimited resources to satisfy human wants.
+D.	how people make decisions to satisfy as much of their wants as possible.
+
+Answer: D
+
+
+Question code: B1C01Q004
+Which of the following is NOT included in the study of microeconomics?
+A.	Consumption decisions made by a Hong Kong consumer.
+B.	Investment decisions made by a US investor.
+C.	The problem of fiscal deficits (財政赤字) in Hong Kong.
+D.	How a firm reacts to a price-cutting programme by its competitors.
+
+Answer: C
+
+Question code: B1C01Q005
+Which of the following is NOT included in the study of macroeconomics?
+A.	The monetary policies (貨幣政策) of the Hong Kong Monetary Authority 
+B.	The impact of an increase in the interest rate on GDP
+C.	Pricing problems at Hong Kong Disneyland
+D.	Unemployment problems caused by economic restructuring (經濟轉型)
+
+Answer: C
+
+Question code: B1C01Q006
+Which of the following is NOT included in the study of macroeconomics?
+A.	The relationship between economic growth and the inflation rate
+B.	Effects of an increase in taxation on the property market
+C.	Effects of privatisation (私有化) of government services on efficiency
+D.	Effects of the US government's restrictions on textiles from the mainland on Hong Kong's economy
+
+Answer: C
+
+Question code: B1C01Q007
+Which of the following does NOT fall into the study of microeconomics?
+A.	How much output a firm produces
+B.	How an inflow of capital from the mainland affects aggregate consumption (總消費) in Hong Kong
+C.	How an increase in stock price volatility (價格波動) affects the investment decision of individual investors
+D.	How individual banks react to HSBC's decision to raise the mortgage rate
+
+Answer: B
+
+Explanation
+The effect of the inflow of capital from the mainland on aggregate consumption in Hong Kong concerns the performance of the economy as a whole. Therefore, it belongs to the study of macroeconomics.
+
+Question code: B1C01Q008
+Which of the following does NOT fall into the study of macroeconomics?
+A.	The relationship between the inflation rate and the unemployment rate
+B.	The effects of a US recession (經濟衰退) on Hong Kong's exports
+C.	How to improve the performance of civil servants by redesigning their salary structure
+D.	How a slowdown in the growth of the mainland economy affects Hong Kong's GDP
+
+Answer: C
+Explanation
+Option C concerns how to affect the behaviour of a particular group of people (civil servants). Therefore, it falls into the study of microeconomics.
+
+Question code: B1C01Q009
+Which of the following is correct?
+A.	If there is scarcity, wants are unlimited.
+B.	If there is no scarcity, we do not have to make choices.
+C.	If there are limited resources, there are unlimited wants.
+D.	If wants are unlimited, there is scarcity.
+
+Answer: B
+
+Question code: B1C01Q010
+The existence of scarcity implies that
+A.	wants have to be limited.
+B.	there are no free goods in the real world.
+C.	people must pay prices for the goods they want.
+D.	people have to make choices to decide what wants to satisfy.
+
+Answer: D
+
+
+Question code: B1C01Q011 (new)
+Which of the following statements about scarcity is correct?
+A.	If goods and services are evenly distributed among all people, there will be no scarcity.
+B.	Even a person has a lot of money, he still faces scarcity.
+C.	Scarcity can be solved by making good choices.
+D.	A resource is not scarce if it is plentiful.
+
+Answer: B
+
+Question code: B1C01Q012
+Which of the following statements about scarcity is INCORRECT?
+A.	Even if human wants were limited, the problem of scarcity may still exist.
+B.	When Peter studies all night in hopes of getting an A in the coming examination, scarcity is implied.
+C.	Scarcity implies we desire more of everything.
+D.	Scarcity is a relative concept because we have to compare the quantity available of a resource to its quantity desired to determine whether the resource is scarce.
+
+Answer: C
+Explanation
+We do not desire more of a free good despite the existence of scarcity as a universal phenomenon.
+
+Question code: B1C01Q013
+Scarcity arises because
+(1)	resources are fixed in supply.
+(2)	resources are limited.
+(3)	human wants are unlimited.
+A.	(2) only
+B.	(3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B1C01Q014
+* Which of the following is INCORRECT?
+A.	Because of scarcity, we have to make choices.
+B.	Choices imply scarcity.
+C.	The wealthiest man in the world need not make choices.
+D.	If there are no options to choose from, there will be no cost.
+
+Answer: C
+
+Question code: B1C01Q015
+Which of the following is correct?
+A.	Want is the same as demand.
+B.	A rich person does not face the problem of scarcity.
+C.	If a price has to be paid for a good, it must be scarce.
+D.	A resource must be scarce.
+
+Answer: C
+
+Question code: B1C01Q016
+* Which of the following statements about wants is correct?
+A.	Wants must be abstract (抽象).
+B.	When a want is satisfied, scarcity no longer exists.
+C.	The existence of wants implies the existence of scarcity.
+D.	The rich may still have unsatisfied wants.
+
+Answer: D
+Explanation
+•	Wants can be both abstract and concrete (具體). For example, when people are hungry, they want to have food. The want for food is a concrete one. Therefore, Option A is incorrect.
+•	When a want is satisfied, other wants may emerge. Therefore, our resources are still not enough to satisfy all of our wants. Scarcity still exists in this case. Option B is incorrect. 
+•	Although the rich have more resources to satisfy their wants, they still have wants which cannot be satisfied with their resources. Therefore, Option D is correct.
+
+
+Question code: B1C01Q017 (new)
+Which of the following statements about opportunity cost is correct?
+A.	All the options forgone are considered opportunity costs.
+B.	When there are no options, opportunity cost still exists.
+C.	When the value of an option decreases, the opportunity cost of choosing that option decreases.
+D.	When the value of the highest-valued option forgone increases, the opportunity cost increases.
+
+Answer: D
+
+Question code: B1C01Q018
+There is NO opportunity cost when there is 
+A.	no money cost.
+B.	only one person.
+C.	no choice.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C01Q019 (new)
+Opportunity cost is not involved when 
+A.	Hong Ki releases (推出) a Japanese CD instead of a Korean one.
+B.	Justin learns music in his spare time.
+C.	Danny is injured and has to give up acting in a film.
+D.	Sammy decides to host (主持) a TV show.
+
+Answer: C
+
+Question code: B1C01Q020
+Which of the following is the LEAST likely cost of playing a computer game?
+A.	Electricity is used.
+B.	The unhappiness we feel if our friends beat us at the game.
+C.	The money paid to buy the game software.
+D.	The cost of repairing the computer because of wear-and-tear.
+
+Answer: B
+Explanation
+Option B refers to the situation where the value of playing a computer game decreases. It is not related to the highest-valued option forgone.
+
+Question code: B1C01Q021 (new)
+Mary is an accounting student who is very interested in singing. She will graduate soon and is choosing between two career paths: either being an accountant or being a singer. If she chooses to be an accountant, what will her opportunity cost be?
+A.	The tuition fee she paid to develop her singing skills 
+B.	The university tuition fee to study accounting
+C.	The income from being a singer
+D.	The income from being an accountant
+
+Answer: C
+
+Question code: B1C01Q022
+Alice has three options after she graduates: being a policewoman, being a saleslady, and continuing her studies. Her cost of being a policewoman is 
+A.	being a saleslady.
+B.	continuing her studies.
+C.	being a saleslady or continuing her studies.
+D.	being a saleslady and continuing her studies.
+
+Answer: C
+
+Question code: B1C01Q023
+Since Kwan was a child, she has most wanted to be a model, and being a reporter is her second choice. However, she cannot become a model because she is overweight (過重的). 
+What of the following statements is correct?
+A.	Her cost of being a model is the income from being a reporter.
+B.	Her cost of being a reporter is the income from being a model.
+C.	Her cost of being a model is zero.
+D.	Her cost of being a reporter is zero.
+
+Answer: D
+
+
+Question code: B1C01Q024
+Since Kwan was a child, she has most wanted to be a model, and being a reporter is her second choice. However, she could not become a model because she was overweight (過重的).
+Suppose Kwan loses weight and can now be a model. Which of the following is correct?
+A.	Her cost of being a reporter increases.
+B.	Her cost of being a reporter decreases.
+C.	Her cost of being a reporter remains unchanged.
+D.	The change in her cost of being a reporter is uncertain.
+
+Answer: A
+
+Question code: B1C01Q025
+A lawyer asks his secretary to type a letter for him even though both of them are equally efficient in typing. This is because the cost of typing the letter will be higher for 
+A.	the lawyer as his income per hour is higher.
+B.	the lawyer as his social status is higher.
+C.	the secretary as her income per hour is higher.
+D.	the secretary as her social status is higher.
+
+Answer: A
+
+Question code: B1C01Q026
+Suppose the time required for Ming and his boss to prepare a balance sheet (資產負債表) is the same. If his boss asks Ming to prepare a balance sheet for him, this implies 
+A.	his boss's cost of letting Ming prepare the balance sheet is higher than that of preparing it himself.
+B.	his boss's cost of letting Ming prepare the balance sheet is lower than that of preparing it himself.
+C.	his boss's cost of letting Ming prepare the balance sheet is very low.
+D.	his boss's cost of letting Ming prepare the balance sheet is very high.
+
+Answer: B
+
+
+Question code: B1C01Q027 (new)
+Which of the following would increase the cost to Hong Kong of constructing the Express Rail Link (廣深港高速鐵路) ?
+A.	Employing more local construction workers.
+B.	The construction causes greater environmental damage than expected.
+C.	The railway is not as profitable as had been forecast.
+D.	The length of the railway within Hong Kong is shortened.
+
+Answer: B
+
+Question code: B1C01Q028 (new)
+How will the cost of buying a fish change if before the transaction Tom finds that the fish is not fresh ?
+A.	It will decrease because the value of the fish to Tom has decreased.
+B.	It will remain unchanged because there is no change in the value of the highest-valued option forgone of buying the fish.
+C.	It will increase because the fish does not taste delicious after it is cooked.
+D.	It will increase because fewer people want to buy the fish.
+
+Answer: B
+
+Question code: B1C01Q029 (new)
+Which of the following would increase Macro's cost of watching a football match?
+A.	Macro's favourite player is injured in the match because of the poor quality of the football pitch.
+B.	Macro's favourite team performs poorly after a new manager takes office.
+C.	Extra time is needed to determine the winner.
+D.	Macro gets an autograph (簽名) from his favourite player.
+
+Answer: C
+
+Question code: B1C01Q030 (new)
+Tosca can go to school by bus or minibus. Which of the following would lower her cost of taking bus?
+A.	The buses become more crowded because more tourists are taking the buses.
+B.	After the bus route is reorganised, it takes less time for Toscato get to school by bus.
+C.	Minibus drivers are polite.
+D.	Tosca's friends start taking the bus to school.
+
+Answer: B
+
+Question code: B1C01Q031 (new)
+Simon loves outdoor activities and video games. He is going to take his exams soon. Which of the following would increase the cost of studying diligently (努力地)?
+A.	A scholarship will be offered to students with excellent exam results.
+B.	Exams become less important to his final result.
+C.	Outdoor activities are no longer an option due to bad weather.
+D.	An entertaining video game is introduced which Simon would play if he did not have to study.
+
+Answer: D
+
+Question code: B1C01Q032
+The following shows Peter's preferences for how to spend a weekend.
+
+1st choice: playing with his friends
+2nd choice: working as a clerical assistant	
+
+Peter chooses to play with his friends, and thus spends $500 over the weekend. If Peter could have earned $1,000 as a clerical assistant, what is his cost of playing with his friends?
+A.	$500
+B.	$1,000
+C.	$1,500
+D.	None of the above as the value of playing with his friends is not provided.
+
+Answer: C
+
+Question code: B1C01Q033
+Edmond must choose between a chicken meal and a seafood meal. As Edmond is allergic (過敏的) to seafood, he needs to pay $350 for medicine if he chooses the seafood set. What is his cost of choosing the seafood set?
+A.	$350
+B.	The chicken set
+C.	$350 and the chicken set
+D.	None of the above
+
+Answer: C
+
+Question code: B1C01Q034 (new)
+* Which of the following would raise the cost of unpacking a cartoon figure?
+A.	The figure will rust if unpacked, ruining its appearance.
+B.	The official price of buying the figure has increased, other things being equal.
+C.	The market value of an unopened figure increases.
+D.	None of the above
+
+Answer: C
+Explanation
+•	Option A would only lower the value of unpacking the figure without affecting the cost.
+•	Option B is not correct. The buying price of the figure is not related to the cost of unpacking it because it has been bought already.
+•	Option C is correct because the highest-valued option forgone of unpacking the figure is keeping it unopened.
+
+Question code: B1C01Q035 (new)
+Samuel paid $450 for Gloria's concert ticket. The concert is two hours. He notices today that he can resell the ticket for $500. Also, if he doesn't attend the concert, he could work and earn $50/hour.
+What is Samuel's cost of attending the concert?
+A.	$450
+B.	$500
+C.	$550
+D.	$600
+
+Answer: D
+
+
+Question code: B1C01Q036 (new)
+Samuel paid $450 for Gloria's concert ticket. The concert takes two hours. If he doesn't attend the concert, he could work and earn $100/hour. His workplace is near where the concert is being held and can be reached in half an hour. After the concert has gone on for half an hour, Samuel feels bored and wonders whether he should leave and go to work for an hour.
+What is Samuel's cost of staying until the end of the concert?
+A.	$50
+B.	$100
+C.	$300
+D.	$650
+
+Answer: B
+
+Question code: B1C01Q037 (new)
+Rebecca's company provides compensation of $45/hour for overtime work (i.e., after 5 pm). Rebecca originally plans to work until 8 pm today and will then go home for  dinner. However, Stephen calls Rebecca and invites her out for dinner. Rebecca finally leaves the office at 6 pm and Stephen drives her to a restaurant. What is Rebecca's cost of having dinner with Stephen?
+A.	0
+B.	$45
+C.	$90
+D.	$135
+
+Answer: C
+
+Question code: B1C01Q038 (new)
+Rebecca originally plans to go home for dinner with her roommate Sara. However, Stephen calls Rebecca and invites her out for dinner. Which of the following will increase Rebecca's cost of having dinner with Stephen?
+A.	If she does not have dinner with Sara, Sara will lock the room door. (Rebecca has forgotten to bring her room key.)
+B.	If she has dinner with Sara, she needs to pay for Sara's dinner.
+C.	She loves Stephen and she enjoys having with him. 
+D.	Stephen is very boring.
+
+Answer: A
+
+
+Question code: B1C01Q039 (new)
+* Oliver has bought air tickets between Hong Kong and London for $13,000. He plans to see a football match there and has bought a ticket for a match between Arsenal and Liverpool for $2,000. Recently, a company offered Oliver a summer job opportunity from which he may earn $12,000.If he accepts this offer, he will not have time to travel to London. Oliver finds that he can sell the ticket for the match online for $2,500. However, the air tickets are not refundable. What is Oliver's cost of seeing the match?
+A.	$13,500
+B.	$14,500
+C.	$15,000
+D.	$27,500
+
+Answer: B
+Explanation
+•	Full cost = Cost of using the match ticket + Time cost
+•	The cost of using the match ticket is $2,500, instead of $2,000. The $2,000 is the cost that Oliver paid which he cannot recover. Only the resell price of $2,500 is an option available to Oliver at present.
+•	The time cost is $12,000, which is the value of the best alternative use of the time.
+•	Therefore, the full cost = $2,500 + $12,000 = $14,500.
+•	The price of the air tickets should not be considered as it has been paid and the tickets are not refundable.
+
+Question code: B1C01Q040
+Suppose Joey takes a two-week holiday after her concert. Her choices about how she can use the time are as follows:
+
+First choice: Taking a tour to South Africa
+Second choice: Taking a short course to learn Korean
+Third choice: Taking a rest at home	
+
+What is Joey's cost of choosing to rest at home?
+A.	The tour to South Africa
+B.	The short course to learn Korean
+C.	The tour to South Africa or the short course to learn Korean
+D.	The tour to South Africa and the short course to learn Korean
+
+
+Answer: A
+Explanation
+•	Cost refers to the highest-valued option forgone when making a choice. Among the two forgone options, the tour to South Africa is the highest-valued. Therefore, Option A is Joey's cost of choosing to rest at home.
+•	Even if Joey does not decide to rest at home, she cannot go on the tour to South Africa AND take the short course to learn Korean at the same time. Therefore, she does not forgo both of them when she chooses to rest at home. So, Option D is incorrect. 
+
+Question code: B1C01Q041
+During the summer holiday, Susan can earn either $7,000 as a lifeguard (救生員) or $6,000 as a waitress. If she does not work, she will travel to Japan and the expense of the trip will be $8,000. Her cost of travelling to Japan is 
+A.	$13,000.
+B.	$8,000.
+C.	$14,000.
+D.	$15,000.
+
+Answer: D
+
+Question code: B1C01Q042(new)
+Fun's school requires students to participate in one of the following summer activities: study travel to Britain, a Korean class or a yoga (瑜伽) class. However, Fun can neither afford the study travel nor the Korean class. Fun's cost of participating in the yoga class is 
+A.	study travel and the Korean class.
+B.	study travel or the Korean class.
+C.	study travel.
+D.	None of the above
+
+Answer: D
+Explanation
+Fun can only afford the yoga class. She has no other choices.
+
+
+Question code: B1C01Q043
+Cost changes when the choice is changed from __________ to ___________.
+A.	the most preferred alternative … the second preferred alternative
+B.	the second preferred alternative … the third preferred alternative
+C.	the third preferred alternative … the fourth preferred alternative
+D.	the fourth preferred alternative … the least preferred alternative
+
+Answer: A
+Explanation
+Refer to the following table for the cost involved in different cases.
+Option	The cost before the change	The cost after the change	
+A	The second preferred alternative	The most preferred alternative	
+B	The most preferred alternative	The most preferred alternative	
+C	The most preferred alternative	The most preferred alternative	
+D	The most preferred alternative	The most preferred alternative	
+
+Question code: B1C01Q044
+Mary is deciding which of two ways to spend her weekend:
+	(I)	Watching a film, for which she has already bought a ticket
+	(II)	Tutoring a primary student to earn $200
+Which of the following will increase Mary's opportunity cost of watching the film?
+A.	Her friend offers to buy the ticket at a discounted price, but no one else will buy the ticket.
+B.	She discovers that she was failed to save $5 when she bought the ticket because she forgot to show her student card.
+C.	Due to traffic congestion, she arrives at the cinema late after the film has been on for 20 minutes.
+D.	The primary student always misbehaves.
+
+Answer: A
+Explanation
+•	Option A is the answer. Since Mary's friend offers to buy the ticket, if Mary chooses Option (II), she can resell the ticket to her friend and earn $200. In this case, the value of the highest-valued option forgone increases.
+•	Option B is incorrect because Mary has already paid for the ticket.
+•	Option C is incorrect because this only affects the value of watching the film, not the value of the highest-valued option forgone.
+•	Option D is incorrect. The opportunity cost of watching the film is the value of tutoring the primary student. If the student always misbehaves, the value of tutoring does not change. The cost of watching the film does not change either.
+
+Question code: B1C01Q045
+Leo plans either to go fishing at Sai Kung or to read a novel (小說) at home. Which of the following will lower Leo's cost of choosing to read a novel at home?
+A.	A red rainstorm warning signal (紅色暴雨警告訊號) is hoisted (懸掛).
+B.	The price of novels drops.
+C.	The novel is unexpectedly interesting.
+D.	Sai Kung is unexpectedly scenic (景色優美的).
+
+Answer: A
+
+Question code: B1C01Q046
+Keung has two options: travelling to Tibet, or writing a textbook for the new syllabus. Which of the following will increase his cost of travelling to Tibet?
+A.	The weather is good in Tibet when Keung visits.
+B.	Tibet's scenery is not as beautiful as expected.
+C.	The demand for textbooks increases tremendously.
+D.	The government postpones the commencement date (推行日期) for the new syllabus to 2046.
+
+Answer: C
+
+Question code: B1C01Q047 (new)
+Below are the university programmes chosen by Peter on his university application:
+
+1st choice: Faculty of Medicine
+2nd choice: Faculty of Civil Engineering
+3rd choice: Faculty of Nursing	
+
+Suppose the starting salary for a medical graduate is expected to increase. Peter's cost of choosing to study medicine will 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	increase or decrease.
+
+Answer: C
+
+
+Question code: B1C01Q048
+Ming is a tour guide. In order to better utilise his free time, he decides to take one of the following diploma courses. Assuming that the three courses require the same amount of time and money, Ming's preference for them is shown below:
+
+First choice: Basic economics
+Second choice: Basic spoken English
+Third choice: Basic Putonghua	
+
+Suppose the prospects for tour guides who have completed the basic spoken English diploma course is better. Which of the following is correct?
+A.	Ming's cost of taking the basic economics course increases.
+B.	Ming's cost of taking the basic economics course decreases.
+C.	Ming's cost of taking the basic economics course remains unchanged.
+D.	The change in Ming's cost of taking the basic economics course is uncertain.
+
+Answer: A
+
+Question code: B1C01Q049 (new)
+Which of the following will affect Mrs Chow's opportunity cost of planting strawberries on her farm?
+A.	Strawberries become cheaper.
+B.	Strawberry seeds become cheaper.
+C.	Mrs Chow's country bans the export (出口) of strawberries.
+D.	Mrs Chow expects a good harvest this year.
+
+Answer: B
+
+Question code: B1C01Q050
+Which of the following will reduce Mr Chan's cost of making payments by credit cards?
+A.	Credit card information leakage becomes more serious.
+B.	Many shops offer special discounts to customers who pay in cash.
+C.	The annual fees of credit cards increase.
+D.	The grace period (免息還款期) enjoyed by credit card holders is extended to six months.
+
+Answer: D
+
+
+Question code: B1C01Q051
+Mr Lee has $300,000. The following options for how he can use the money are arranged according to his preferences:
+
+(1)	Pursuing a higher degree in the US
+(2)	Starting a small business
+(3)	Making a down payment (首期) on the flat he bought
+(4)	Paying for a round-the-world trip (環遊世界的旅程) for the family	
+
+Mr Lee's cost of starting a small business is giving up 
+A.	$300,000.
+B.	the chance of getting a higher degree in the US.
+C.	the flat.
+D.	None of the above
+
+Answer: B
+Explanation
+Option A is not correct because keeping the $300,000 is not one of the options.
+
+Question code: B1C01Q052 (new)
+Mr Wong has a two-week vacation. The following is how he prefers to spend his vacation:
+
+(1)	Skiing in Switzerland
+(2)	Watching football matches in England
+(3)	Diving in Indonesia
+(4)	Visiting relatives in Taiwan	
+
+Mr Wong's cost of watching football matches in England is giving up the option of 
+A.	skiing in Switzerland.
+B.	diving in Indonesia.
+C.	visiting relatives in Taiwan.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B1C01Q053
+* Which of the following situations is (are) opportunity cost(s) involved?
+(1)	Hins launches a Mandarin (國語) album instead of a Cantonese one.
+(2)	Eddie has to quit his current job because of a serious illness.
+(3)	Eason chooses to buy an apartment in Jardine's Lookout rather than one in Tseung Kwan O.
+A.	(1) only
+B.	(2) only
+C.	(1) and (3) only
+D.	All of the above
+
+Answer: C
+Explanation
+•	In (1) and (3), since choices are available, people have to forgo something for the chosen option. Therefore, opportunity costs are involved. 
+•	In (2), Eddie has no choice but to quit his current job because of a serious illness. Therefore, costs are not involved in this case. 
+
+Question code: B1C01Q054
+Today is Fiona's birthday. She can have dinner with her boyfriend tonight. If she does not have dinner with him, she can work as a model for an advertisement for $20,000. She can also perform in a show for $15,000. What is Fiona's cost of choosing to have dinner with her boyfriend tonight?
+A.	$35,000
+B.	$20,000
+C.	$15,000
+D.	$0
+
+Answer: B
+Explanation
+•	Cost is the highest-valued option forgone in making a choice. If Fiona does not choose to have dinner with her boyfriend, she has two options: earning $20,000 as a model for an advertisement and earning $15,000 as a reward for her performance in a show. Among the two options, earning $20,000 as a model in an advertisement (Option B) is the highest-valued option forgone.
+•	Since Fiona cannot appear in the advertisement and the show at the same time, her cost of choosing to have dinner with her boyfriend is not the sum of the incomes from these two jobs, i.e. $15,000 + $20,000 = $35,000 (Option A). 
+
+
+Question code: B1C01Q055
+Mrs Lee owns a fish stall at a market. Which of the following will decrease her cost of running the fish stall?
+A.	Sales at the fish stall increase as the economy recovers.
+B.	Since consumers are afraid of ciguatoxin (雪卡毒), they have reduced their consumption of coral reef fish (珊瑚魚), and this has led to a drop in sales.
+C.	Mrs Lee's income from investing in stocks increases.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C01Q056
+* A German tourist is choosing between a tour to Ocean Park and Hong Kong Disneyland. Which of the following will lead to an increase in his cost of choosing to visit Hong Kong Disneyland?
+A.	The price of hotel accommodation in Hong Kong increases.
+B.	Ocean Park introduces a new thrill ride (機動遊戲).
+C.	The services provided at Hong Kong Disneyland are better than expected.
+D.	Hong Kong Disneyland builds a zoo within it.
+
+Answer: B
+Explanation
+•	Whether the tourist visits Ocean Park or Hong Kong Disneyland, he still has to pay the increased cost of hotel accommodation in Hong Kong. Therefore, Option A does not increase his cost of choosing to visit Hong Kong Disneyland.
+•	The fact that the services provided at Hong Kong Disneyland are better than expected only increases the value of the chosen option - visiting Hong Kong Disneyland. Option C does not affect the value of the highest-valued option forgone.
+•	The fact that Hong Kong Disneyland builds a zoo within it only affects the value of the chosen option. Therefore, Option D does not affect the value of the highest-valued option forgone. 
+
+
+Question code: B1C01Q057 (new)
+Raymond can choose one of the following activities this Saturday:
+
+1st choice: surfing (滑浪)
+2nd choice: playing board games with friends
+3rd choice: cycling	
+
+If Raymond's friends do not have time to play board games with him, his cost of cycling will __________ because __________.
+A.	decrease … he has fewer choices
+B.	increase … the value of surfing increases
+C.	remain unchanged … the highest-valued option forgone remains unchanged
+D.	remain unchanged … he will not choose to go cycling
+
+Answer: C
+
+Question code: B1C01Q058
+Study the following information below:
+
+Square K Convenience Store
+Each coupon can be redeemed for one can of Coke or two packs of chewing gum.
+
+#This coupon can be used at any Square K store at any time but cannot be exchanged for cash.	
+
+What is the cost of redeeming one can of Coke with the above coupon?
+A.	One pack of chewing gum
+B.	Two packs of chewing gum
+C.	An amount of cash equal to the market value of one can of Coke or two packs of chewing gum
+D.	None of the above
+
+Answer: B
+Explanation
+•	Since the coupon can be used to redeem one can of Coke or two packs of chewing gum, choosing one can of Coke means forgoing two packs of chewing gum. Therefore, Option B is the cost of choosing one can of Coke.
+•	Since the coupon cannot be used to exchange for cash, this is not an option for the coupon holder. Therefore, Option C cannot be the cost.
+
+Question code: B1C01Q059 (new)
+Study the following information below:
+
+Square K Convenience Store
+Each coupon can be redeemed for one can of Coke or two packs of chewing gum.
+
+#This coupon can be used at any Square K store at any time but cannot be exchanged for cash.	
+
+Under which of the following situations will the cost of redeeming one can of Coke increase?
+A.	The weather is hot and people want to drink more Coke.
+B.	Chewing gum is out of stock at all Square K stores.
+C.	A pack of chewing gum becomes larger now.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C01Q060
+Faithful Department Store launches a gift redemption scheme to celebrate its 10th anniversary: a customer who spends over $200 can receive a stamp and the number of stamps required to redeem various types of gift are shown below:
+
+Number of stamps required	Gifts	
+10	A pack of chopsticks	
+50	A teapot	
+100	A wok	
+
+What is the cost of redeeming a teapot with 50 stamps?
+A.	A pack of chopsticks
+B.	0.5 wok
+C.	5 packs of chopsticks
+D.	None of the above
+
+Answer: C
+Explanation
+•	With 50 stamps, one can redeem either a teapot or 5 (= 50/10) packs of chopsticks. Therefore, the cost of redeeming a teapot with 50 stamps is 5 packs of chopsticks (Option C).
+•	The department store would not allow a customer to redeem 0.5 wok. The option of redeeming 0.5 wok is not available. Therefore, Option B is incorrect. 
+
+Question code: B1C01Q061
+Joe is planning to buy a high-definition television set (HDTV) (高清電視機). He is choosing between a Brand A HDTV and a Brand B HDTV, both of which cost $25,000. Suppose a free gift of $2,000 in Wellcome cash coupons will be offered to every customer who purchases a Brand B HDTV. What will be the change in Joe's cost of buying a Brand A HDTV?
+A.	Increases
+B.	Decreases
+C.	Remains unchanged
+D.	Uncertain
+
+Answer: A
+Explanation
+With $25,000, Joe could have bought either (1) a Brand A HDTV or (2) a Brand B HDTV. Now, with $25,000, Joe can buy either (1) a Brand A HDTV or (2) a Brand B HDTV plus $2,000 Wellcome cash coupons. Therefore, the cost of choosing a Brand A HDTV increases from a Brand B HDTV to a Brand B HDTV plus $2,000 Wellcome cash coupons.
+
+Question code: B1C01Q062 (new)
+Which of the following statements about free goods is correct?
+A.	A good which is free-of-charge must be a free good.
+B.	A free good must be free-of-charge.
+C.	There are no free goods because we have to face scarcity.
+D.	A free good must be plentiful in supply.
+
+Answer: B
+
+Question code: B1C01Q063 (new)
+Free mask samples distributed on the street during a promotion are __________ because ________.
+A.	economic goods … more of them are preferred
+B.	economic goods … they can be used to satisfy people's wants
+C.	free goods … they are free-of-charge
+D.	free goods … they are not obtained from scarce resources
+
+Answer: A
+
+Question code: B1C01Q064 (new)
+In Hong Kong, WiFi wireless internet access services are provided in many government premises free-of-charge. These WiFi wireless internet access services are
+A.	economic goods because the amount of services provided is limited.
+B.	economic goods because more of the services are preferred.
+C.	free goods because the services can be used by many people at the same time.
+D.	free goods because no one is willing to pay for the services.
+
+Answer: B
+
+Question code: B1C01Q065 (new)
+Which of the following statements correctly describes the difference between economic goods and free goods? 
+A.	An economic good must be priced while a free good must be free-of-charge.
+B.	An economic good can satisfy human wants while a free good cannot.
+C.	People prefer more economic goods but do not prefer more free goods.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C01Q066 (new)
+Which of the following is the closest example of free goods?
+A.	Air pollutants
+B.	Fresh air outdoors
+C.	Air in an oxygen tank
+D.	Cool air in an air-conditioned room
+
+Answer: B
+
+Question code: B1C01Q067 (new)
+Free goods
+A.	do not exist in the real world.
+B.	must be plentiful in supply.
+C.	are not needed by people.
+D.	are goods that nobody wants to pay for.
+		
+Answer: D
+
+
+Question code: B1C01Q068 (new)
+If a good _______, it is a free good.
+A.	is obtained without cost
+B.	is not desired by anybody
+C.	has no use
+D.	is free-of-charge
+
+Answer: A
+
+Question code: B1C01Q069 (new)
+Which of the following is correct about a free good?
+(1)	Its quantity can satisfy all human wants for it.
+(2)	No cost is involved in obtaining and using it.
+(3)	It is free-of-charge.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C01Q070
+Which of the following is/are (a) good(s) in economics?
+(1)	Juno's CD
+(2)	Odour (臭氣) at a landfill (堆填區)
+(3)	An economics textbook
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1) and (3) only
+
+Answer: D
+Explanation
+•	Juno's CD and economics textbooks are economic goods as people are willing to pay a price to obtain them. Remember, economic goods are also a kind of good. 
+•	Odour from the rubbish buried at a landfill is not desirable. It is a not a good in economics.
+
+
+Question code: B1C01Q071
+Something is an economic good if
+(1)	it has a price.
+(2)	a cost is involved in producing it.
+(3)	people cannot live without it.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C01Q072
+Which of the following statements about economic goods are correct?
+A.	Production is required for all economic goods.
+B.	Economic goods must be sold at a price.
+C.	Only economic goods can satisfy human wants.
+D.	The existence of economic goods implies the existence of scarcity.
+
+Answer: D
+Explanation
+•	Some economic goods do not require production. For example, natural resources do not require production. Therefore, Option A is incorrect.
+•	Although economic goods can be bought and sold on the market, they can also be given away free of charge by their owners. For example, free samples are deliberately distributed by producers to people as a method of promotion. Therefore, Option B is incorrect.
+•	Both economic goods and free goods are goods. All goods can satisfy human wants. For example, air is a free good but it can satisfy the human need to breathe. Therefore, Option C is incorrect.
+
+Question code: B1C01Q073
+* Which of the following statements about free good is correct?
+A.	It is a good for which the quantity available is sufficient to satisfy people's wants at zero price.
+B.	Its quantity available must not be small.
+C.	It is not wanted by anyone.
+D.	A price must be paid to obtain it.
+
+Answer: A
+Explanation
+•	A good in small supply can still be a free good if the quantity wanted by people is even smaller than the quantity available at zero price. Therefore, Option A is correct.
+•	A free good is not a good not wanted by anyone. It is still wanted by people. However, its quantity available is enough to satisfy all people's wants at zero price. Therefore, Option C is incorrect. 
+•	Since the quantity available is sufficient to satisfy all people's wants at zero price, no one is willing to pay a price to obtain it. Therefore, no price must be paid for it. Option D is incorrect. 
+
+Question code: B1C01Q074
+Which of the following statements about 'goods' in economics is correct?
+A.	Goods are something whose quantity is insufficient to satisfy all our wants.
+B.	People are willing to pay for goods.
+C.	More is better than less.
+D.	Some is better than none.
+
+Answer: D
+
+Question code: B1C01Q075
+Which of the following statements about economic goods is correct?
+A.	Their quantities cannot satisfy everyone's needs.
+B.	Their quantities cannot satisfy everyone's wants.
+C.	More of them are not preferred.
+D.	They are gifts from nature.
+
+Answer: B
+
+Question code: B1C01Q076
+Air is a free good because
+A.	it is free of charge.
+B.	more of it is not desired.
+C.	there is a lot of air on the earth
+D.	All of the above
+
+Answer: B
+Explanation
+Options A and C are incorrect. If people wanted to have more air, then air is an economic good even though it is free of charge or there is an abundant amount of it.
+
+Question code: B1C01Q077
+Suppose the MTRC launches the 'Ride 10 Get 1 Free' (搭十送一) promotion again. Passengers who make 10 journeys in a week using the same Octopus card can get a free, single journey ticket.
+These free, single journey tickets are
+A.	free goods because every eligible passenger can get a free ticket.
+B.	free goods because the cost of serving an additional passenger is zero.
+C.	economic goods because many people want to have the free tickets.
+D.	economic goods because there are not enough to satisfy all our wants.
+
+Answer: D
+
+Question code: B1C01Q078 (new)
+Stones collected from Mars (火星) are ______________ because _____________.
+A.	economic goods … their quantity is limited
+B.	economic goods … scientists want more of them
+C.	free goods … they do not have alternative uses
+D.	free goods … their quantity is unlimited
+
+Answer: B
+Explanation
+•	Stones from Mars are economic goods. Scientists prefer more of them for scientific research.
+•	These stones do have alternative uses, such as being exhibited.
+
+Question code: B1C01Q079
+A good body shape is a(an) ______________ because ______________.
+A.	economic good; people want it
+B.	economic good; some people have to exercise regularly to maintain it
+C.	free good; it is a gift from nature
+D.	free good; some people already have it
+
+Answer: B
+Explanation
+•	A good body shape is an economic good as people are willing to pay a price (cost) for it. This is evident as people are willing to pay for fitness classes, medical treatment and various other services.
+•	The fact that some people are willing to exercise regularly to maintain their shape means some people are willing to pay a price (cost) to achieve it. Therefore, a good body shape is an economic good. 
+
+Question code: B1C01Q080
+Which of the following is NOT a good in economics?
+A.	Air
+B.	Bad smell
+C.	Distilled water (蒸餾水)
+D.	Countryside scenery
+
+Answer: B
+
+Question code: B1C01Q081
+* Which of the following is NOT an economic good in a one-man economy?
+A.	Clean air
+B.	Mild sunshine
+C.	Clean water
+D.	Money
+
+Answer: D
+Explanation
+In a one-man economy, there is no exchange between people, where money can be used.
+
+Question code: B1C01Q082
+Which of the following is a free good?
+A.	The scenery of the countryside for people living in Kowloon
+B.	A free book given to a teacher by a publisher (出版商)
+C.	Water in a desert
+D.	Sand in a desert
+
+Answer: D
+
+Question code: B1C01Q083
+Which of the following is NOT a good?
+A.	Sunshine when the UV Index (紫外線指數) is very high
+B.	Clean air when the Air Pollution Index is extremely high
+C.	Deep sea fish
+D.	Herbs (草藥) on a mountain
+
+Answer: A
+
+Question code: B1C01Q084
+Which of the following is NOT a good?
+A.	Fresh air on Ma On Shan
+B.	Rubbish in Victoria Harbour
+C.	Coral reefs (珊瑚礁) in Hoi Ha Wan (海下灣)
+D.	Natural scenery in Sai Kung
+
+Answer: B
+
+Question code: B1C01Q085
+Jay's new album is a(an) __________ good because ___________.
+A.	free; people can listen to the songs on the album on the radio
+B.	free; people can download the songs on the album from some websites
+C.	economic; people are willing to pay a price to get it
+D.	economic; people cannot listen to songs on the album without buying it
+
+Answer: C
+Explanation
+•	A free good is a good whose quantity available is sufficient to satisfy all people's wants at zero price. An economic good is a good whose quantity available is insufficient to satisfy all people's wants at zero price. Therefore, people are willing to pay a price (cost) to obtain it. Option C is correct. 
+•	Although people can listen to the songs on the album on the radio or download them from some websites free of charge, they still have to pay a price for the album on which Jay's songs are recorded. Therefore, Options A and B are incorrect. 
+
+Question code: B1C01Q086
+Polluted water discharged from a factory is NOT a good because 
+A.	there is no market price for it.
+B.	people can obtain it without incurring costs.
+C.	it cannot satisfy human wants.
+D.	its production involves no opportunity costs.
+
+Answer: C
+
+
+Question code: B1C01Q087
+Economic goods
+A.	do not exist in poor countries.
+B.	are scarce.
+C.	are allocated evenly.
+D.	are in abundant supply.
+
+Answer: B
+
+Question code: B1C01Q088
+Which of the following about free goods is correct?
+A.	Free goods can satisfy the wants of the poor as well as the rich.
+B.	Free goods are usually allocated by the market mechanism.
+C.	The supply of free goods is unlimited.
+D.	Free goods confirm the existence of scarcity.
+
+Answer: A
+
+Question code: B1C01Q089
+Which of the following situations does NOT involve scarcity?
+A.	Victims of the Sichuan earthquake want more relief (救濟) from the rest of world.
+B.	There is plenty of snow on Mount Everest. 
+C.	People queue up for free tickets to Yumiko's concert.
+D.	Alex cannot get a copy of am 730 when he arrives at the MTR station after 9am. 
+
+Answer: B
+Explanation
+•	In Options A, C and D, people (victims of the Sichuan earthquake, Yumiko's fans and Alex) want to have more of the goods (relief, Yumiko's free concert tickets and am 730). These goods are economic goods. 
+•	Since no one is willing to pay for the snow, it is a free good. Option B does not involve scarcity.
+
+
+Question code: B1C01Q090
+Textbooks purchased by students and free textbooks given to teachers by publishers (出版商) are 
+A.	economic goods and free goods, respectively.
+B.	free goods and economic goods, respectively.
+C.	both free goods.
+D.	both economic goods.
+
+Answer: D
+Explanation
+•	Textbooks purchased by students are obviously economic goods as students have already paid a price for them.
+•	Although publishers give textbooks to teachers free of charge, these textbooks are economic goods too. Teachers want more of these textbooks, perhaps for other purposes: to give them to relatives, friends and their students. 
+
+Question code: B1C01Q091
+Free shuttle bus service provided by MegaBox is ___________ as ____________.
+A.	a free good; it is provided free of charge to everyone
+B.	a free good; the buses have no alternative uses
+C.	an economic good; more frequent and comfortable shuttle bus service is desired by people
+D.	an economic good; people who live outside Kowloon Bay need it
+
+Answer: C
+Explanation
+A good which is needed by people may not be an economic good. Air, which is needed by people for survival, is also a free good. Therefore, Option D is incorrect.
+
+Question code: B1C01Q092
+Which of the following items are free goods?
+(1)	sunlight in the desert
+(2)	water in the Pacific Ocean
+(3)	solar energy collected from solar panels (太陽能光伏板)
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B1C01Q093 (new)
+Which of the following are economic goods?
+(1)	Bottled water
+(2)	Tap water
+(3)	Rainwater
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B1C01Q094
+Jolin buys a new necklace (項鍊) for $50,000 to wear on a TV show. This implies that 
+(1)	the necklace is a scarce good.
+(2)	the necklace is a free good.
+(3)	the necklace's quantity desired is greater than its quantity available at zero price.
+(4)	the necklace's quantity desired is greater than its quantity available at all prices.
+A.	(1) only
+B.	(2) only 
+C.	(1) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: C
+Explanation
+•	The fact that Jolin pays $50,000 for the necklace means that the necklace is a scarce or an economic good. Therefore, (1) is correct. 
+•	Since the necklace is an economic good, the quantity desired by people at zero price is greater than the quantity available. Therefore, (3) is correct. 
+•	However, as the price for the necklace increases, its quantity desired decreases. There exists a positive price above which the quantity desired is no longer larger the quantity available. Therefore, (4) is incorrect.  
+
+
+Question code: B1C01Q095
+Which of the following descriptions about free goods is correct?
+A.	Air is not a free good because human beings cannot live without air.
+B.	Free goods must be free of charge.
+C.	People do not want free goods.
+D.	The price of free goods is not necessarily zero.
+
+Answer: B
+
+Question code: B1C01Q096
+Free newspapers are available in the morning at MTR stations. These newspapers are ______________ because ______________.
+A.	free goods; they are free of charge
+B.	free goods; MTR passengers do not give up anything to get the newspapers
+C.	economic goods; more newspapers are wanted
+D.	economic goods; only those who take MTR rides can get the newspapers
+
+Answer: C
+
+Question code: B1C01Q097 (new)
+An insurance company provides a free enquiry hotline for its potential customers. This service is ______________ because ______________.
+A.	a free good … providing this service does not involve cost
+B.	a free good … people can enjoy the service without paying
+C.	an economic good … people want more of it
+D.	an economic good … it is a professional service
+
+Answer: C
+
+Question code: B1C01Q098
+In Hong Kong, some charitable organisations distribute packs of rice free of charge to the elderly on a 'first-come, first-served basis'. The pack of rice received by the elderly is 
+A.	a free good as it is free of charge.
+B.	a free good as everyone can get it.
+C.	an economic good as people have to spend time queuing for the rice.
+D.	an economic good as people love eating rice.
+
+Answer: C
+
+Question code: B1C01Q099
+In Hong Kong, when the Observatory issues the cold weather warning, the Home Affairs Department will open temporary shelters for the needy. These temporary shelters are ___________.
+A.	free goods, because the users do not have to pay
+B.	free goods, because they are open to everyone
+C.	economic goods, because they are well-equipped
+D.	economic goods, because costs are involved in providing them
+
+Answer: D
+
+Question code: B1C01Q100
+Free television programmes on some buses are 
+A.	free goods as they are free of charge.
+B.	economic goods as a price has already been charged in the form of increased fares.
+C.	free goods as everyone on the bus can enjoy them.
+D.	economic goods as the bus companies have to pay for the cost of providing them on their buses.
+
+Answer: D
+
+Question code: B1C01Q101
+A legislative councilor (立法會議員) provides free legal consultation (法律諮詢) service for citizens. This service is 
+A.	a free good, because it is free of charge.
+B.	an economic good, because citizens have already paid for it in terms of their votes.
+C.	a free good, because everyone is equal before the law.
+D.	an economic good, because citizens want more free legal consultation service.
+
+Answer: D
+
+Question code: B1C01Q102 (new)
+A free good must be 
+A.	free of charge.
+B.	something we prefer some of to none of.
+C.	sufficient to satisfy everyone's want for it.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C01Q103 (new)
+Used cans and paper boxes are
+A.	economic goods, because some people prefer more of them.
+B.	free goods, because they are discarded (被人棄置的).
+C.	consumer goods, becaue they can satisfy human wants.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C01Q104
+Ming got a free gift with a coupon from a newspaper. Which of the following statements is correct?
+A.	The gift is a free good.
+B.	The gift is an economic good.
+C.	The cost for the producers to promote by giving out free gifts is zero.
+D.	Ming's cost of getting the gift is zero.
+
+Answer: B
+
+Question code: B1C01Q105
+Which of the following statements about production is correct? 
+A.	Investors engage in production when they buy shares on the stock market.
+B.	Households cannot engage in production since they are consumption units.
+C.	Transportation of goods is not a production activity since the goods involved do not experience any change in their physical characteristics.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C01Q106
+Consumption takes place when 
+A.	Mary, a student, watches a movie for recreation at a cinema.
+B.	John, an office assistant, cleans the office floor for his boss.
+C.	George, a computer game designer, tests a game designed by his colleagues.
+D.	Esther, a fashion designer, designs fashions for her friends.
+
+Answer: A
+
+
+Question code: B1C01Q107
+Production takes place when 
+A.	Ming goes to a pub (酒吧) with his colleagues.
+B.	Keung attends a seminar (研討會) with his colleagues.
+C.	Fun walks on a beach with her boyfriend.
+D.	Lei is in Europe on vacation.
+
+Answer: B
+
+Question code: B1C01Q108 (new)
+Which of the following activities belong to consumption?
+A.	Alice, a swimmer, attends the Olympic Games.
+B.	Freddie, a volunteer, tidies up an elderly person's home.
+C.	Paul, a musician, plays the guitar for his friends. 
+D.	Eddie, a salesman, shows potential customers how to use a smartphone.
+
+Answer: C
+Explanation
+•	Consumption is an activity through which human wants are satisfied.
+•	In Option C, by playing the guitar for his friends, Paul satisfies his desire to entertain his friends with his guitar playing skills. Therefore, this is an act of consumption.
+
+Question code: B1C01Q109
+Which of the following activities does NOT belong to production?
+A.	Judy reads the Economist for information to be used in her work.
+B.	Felix chats with her colleagues.
+C.	Gary plays a game for the TV programme 'Running Man'.
+D.	Eason appears with his daughter in a show. 
+
+Answer: B
+Explanation
+•	In Options A, C and D, Judy, Gary and Eason all engage in production.
+•	Chatting (Option B) is an act of consumption. 
+
+
+Question code: B1C01Q110 (new)
+Which of the following statements about interest / interest rates is correct?
+A.	Borrowers forgo present consumption to earn interest for more future consumption. 
+B.	Interest is a premium received for postponing current consumption.
+C.	An increase in the interest rate leads to a lower cost of present consumption.
+D.	An increase in the interest rate decreases the return on deferring consumption.
+
+Answer: B
+
+Question code: B1C01Q111 (new)
+Which of the following statements about interest is INCORRECT?
+A.	Interest exists in an economy without money.
+B.	When interest rates increase, the cost of present consumption increases.
+C.	Interest is not considered when a person uses his own money for present consumption.
+D.	Interest is compensation for using resources later.
+
+Answer: C
+
+Question code: B1C01Q112
+Which of the following statements about interest is INCORRECT?
+A.	The existence of interest implies scarcity.
+B.	The interest rate affects the allocation between present and future consumption.
+C.	When a person uses his own savings to purchase a flat, no interest cost is involved.
+D.	None of the above is the answer.
+
+Answer: C
+Explanation
+•	Option A is not the answer. Interest is the cost of earlier availability of goods. When people are willing to pay a cost for earlier availability of goods, the option of consuming the goods earlier is in itself an economic (or scarce) good. Scarcity is therefore implied.
+•	Option B is not the answer. When the interest rate increases, the cost of present consumption increases and people tend to defer their consumption in order to consume more in the future.
+•	Option C is the answer because when a person uses his own savings to purchase a flat, he has given up the option of depositing the money in the bank to earn interest. Hence, interest cost is involved.
+
+Question code: B1C01Q113
+When the interest rate increases,
+	(1)	people will save more because the cost of present consumption increases.
+	(2)	a factory will borrow money to buy more machines because more people are willing to loan money.
+	(3)	people will reduce their current consumption to consume more in the future.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+Explanation
+Option (2): As interest represents the cost of earlier availability of resources, an increase in the interest rate will decrease borrowing.
+
+Question code: B1C01Q114
+Which of the following statements are correct?
+(1)	An increase in interest rate means that the cost of present consumption increases. 
+(2)	Interest is the price a borrower pays to obtain goods earlier. 
+(3)	If the mortgage interest rate increases, people will tend to postpone their purchase of property. 
+(4)	If people are indifferent (不在乎) to present consumption and future consumption, there will be no interest.
+A.	(1), (2) and (3) only
+B.	(1), (2) and (4) only
+C.	(3) and (4) only
+D.	All of the above
+
+Answer: D
+
+
+Question code: B1C01Q115
+Suppose the interest rate decreases from 3% to zero. Which of the following statements is true?
+A.	More people will save money.
+B.	The cost of earlier consumption decreases.
+C.	Firms will borrow less money from banks. 
+D.	People are worse off because they receive less interest from bank deposits.
+
+Answer: B
+
+Question code: B1C01Q116
+Which of the following statements about interest is INCORRECT?
+A.	Interest is the cost of earlier availability of goods.
+B.	Interest is the compensation for deferring consumption of goods and services.
+C.	Interest still exists even without money.
+D.	An increase in interest will only increase the cost of present consumption, without affecting the cost of production. 
+
+Answer: D
+
+Question code: B1C01Q117
+* Which of the following about interest is true?
+(1)  When the interest rate is zero, the cost of present consumption is zero. 
+(2)  Interest can be in the form of goods and services.
+(3)  A fall in interest rate increases future consumption.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1) and (3) only
+
+Answer: B
+
+
+Question code: B1C01Q118
+John has $10,000. His order of preference is as follows: 
+
+First priority: Lend the money to Mary and earn $1,000 interest per year. 
+Second priority: Deposit the money in a bank and earn $700 interest per year. 
+Third priority: Buy a new laptop which costs $10,000. 	
+
+What is John's cost of lending the money to Mary?
+A.	Buying a new laptop
+B.	Earning $700 interest annually by depositing money in the bank
+C.	Earning $700 interest annually by depositing money in the bank and the new laptop
+D.	$10,000
+
+Answer: B 
+
+Question code: B1C01Q119
+John has $10,000. His order of preference is as follows: 
+
+First priority: Lend the money to Mary and earn $1,000 interest per year. 
+Second priority: Deposit the money in a bank and earn $700 interest per year. 
+Third priority: Buy a new laptop which costs $10,000. 	
+
+Suppose the bank raises its interest rate, and John can earn $800 interest by depositing the money in the bank. Will the cost of lending money to Mary increase?
+A.	Yes, as the increase in the interest rate will increase the cost of buying the laptop. 
+B.	Yes, as the interest forgone by depositing money in the bank increases. 
+C.	No, as lending money to Mary is his first priority. 
+D.	No, as lending money to Mary can earn him more.
+
+Answer: B
+
+
+Question code: B1C01Q120
+* John has $10,000. His order of preference is as follows: 
+
+First priority: Lend the money to Mary and earn $1,000 interest per year. 
+Second priority: Deposit the money in a bank and earn $700 interest per year. 
+Third priority: Buy a new laptop which costs $10,000. 	
+
+Suppose John finds that Mary has been laid off (解僱) recently and may not be able to repay the principal and interest to him. Will John's cost of lending to Mary increase? 
+A.	Yes, as he cannot get back any money. 
+B.	Yes, as he could have earned $700 if he deposited the money in a bank.
+C.	No, as the cost will change only if there is a change in the highest-valued option forgone. 
+D.		No, as Mary may repay the debt (負債) later. 
+
+Answer: C
+
+Question code: B1C01Q121
+Mr Lee buys a private car with an instalment loan. Which of the following situations will increase the opportunity cost of buying a private car?
+A.	The insurance on the private car falls.
+B.	The interest rate increases.
+C.	The cost of maintaining the car increases.
+D.	The car is damaged by a naughty child in a car park.
+
+Answer: B
+
+Question code: B1C01Q122
+According to research evidence, more and more university students finance their daily consumption by borrowing even though they do not have a regular job. Which of the following statements can explain this phenomenon?
+A.	More and more people are willing to save their money in the bank to get interest.
+B.	The Hong Kong Monetary Authority (香港金融管理局) does not impose any restrictions on applications for credit cards.
+C.	The interest rate is rising.
+D.	University students have a growing preference to obtain goods and services earlier.
+
+Answer: D
+
+Question code: B1C01Q123 (new)
+Refer to the following circular flows of an economy.
+
+
+Flow H most likely refers to _______.
+A.	factor income
+B.	production cost
+C.	expenditure on goods and services
+D.	factor market
+
+Answer: C
+
+Question code: B1C01Q124
+Which of the following statements about economic activities is INCORRECT?
+A.	Factors of production refer to all the resources used in production.
+B.	Buying clothes from a boutique is an act of consumption.
+C.	The firm employs various factors of production.
+D.	The household provides finished goods.
+
+Answer: D
+
+Question code: B1C01Q125
+Which of the following statements about the basic circular flow model is INCORRECT?
+A.	Households' expenditure equals firms' income.
+B.	Firms have to pay households 'cost' for the factors of production they use.
+C.	Households have to pay firms 'expenditure' for the products they purchase.
+D.	Firms provide factors of production.
+
+Answer: D
+
+
+Question code: B1C01Q126
+Which of the following statements is correct?
+A.	The household consumes goods but not services.
+B.	In product market, the household sells finished products to the firm.
+C.	The firm employs factors of production provided by the household.
+D.	The firm is the unit responsible for making investment.
+
+Answer: C
+Explanation
+•	The household consumes both goods and services.
+•	In factor market, the household sells factors of production to the firm; in product market, the firm sells finished products to the household.
+•	The firm is the unit responsible for production. 
+
+Question code: B1C01Q127 (new)
+Which of the following is a normative statement?
+A.	Singapore's economy has grown faster than Hong Kong's economy in recent years.
+B.	The satisfaction of being a teacher should be higher than that of being a businessperson.
+C.	Couples with higher incomes have a higher chance of divorcing (離婚).
+D.	More than half of the employed persons in Hong Kong admit they are unhappy.
+
+Answer: B
+Explanation
+Option A is a positive statement because it is refutable by checking the economic growth data of the two economies.
+Option C is a positive statement because we can check the correlation between income and divorce rates.
+Option D is a positive statement. Although 'unhappy' is a value judgement, the statement is about facts. It is refutable by surveying employed persons in Hong Kong.
+Option B is a normative statement because it is not refutable by facts.
+
+
+Question code: B1C01Q128 (new)
+Which of the following is a correct description of a normative statement?
+A.	A normative statement must be refuted by facts.
+B.	A normative statement cannot be supported by data.
+C.	No one agrees with a normative statement.
+D.	Appealing to facts does not help settle disagreements on a normative statement.
+
+Answer: D
+
+Question code: B1C01Q129 (new)
+How does a positive statement differ from a normative statement?
+A.	A positive statement is correct, but a normative statement is not correct.
+B.	A positive statement is more meaningful.
+C.	Disputes over a positive statement can be settled by checking the facts.
+D.	None of the above
+
+Answer: C
+
+Question code: B1C01Q130
+A positive statement
+A.	must be based on facts.
+B.	cannot be rejected by facts.
+C.	must contain statistics (統計).
+D.	None of the above
+
+Answer: D
+
+Question code: B1C01Q131
+'The introduction of an environmental levy on plastic shopping bags (膠袋徵費) will only benefit the manufacturers of recycled bags (環保袋) without solving any environmental problem.'
+The statement above is a ______________ statement as it ________________.
+A.	normative; involves a value judgement
+B.	normative; is wrong
+C.	positive; is the actual case in Hong Kong
+D.	positive; is refutable by facts
+
+Answer: D
+
+
+Question code: B1C01Q132
+Which of the following is/are (a) positive statement(s)?
+(1)	The imposition of a minimum wage (最低工資) will widen the income gap (收入差距).
+(2)	Labour unions (工會) are important for workers in bargaining for better pay.
+(3)	It is unfair to low-skilled workers if a minimum wage is imposed in Hong Kong.
+(4)	More unskilled workers will lose their jobs if a minimum wage is imposed in Hong Kong.
+A.	(1) and (4)
+B.	(2) and (3)
+C.	(1), (2) and (3)
+D.	(1), (2) and (4)
+
+Answer: A
+
+Question code: B1C01Q133
+Which of the following statement(s) is/are (a) positive statement(s)?
+(1)	Resource allocation is fairer in a market economy than that in planned economy.
+(2)	In general, the national income in a market economy is higher than that in planned economy.
+(3)	The interest rate in Hong Kong is too low.
+A.	(1) only
+B.	(2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: B
+
+
+Short Questions
+
+Question code: B1C01Q301 (new)
+(a)	Why does scarcity arise?	(2 marks)
+(b)	What is the relationship between scarcity and choice?	(2 marks)
+
+Answers: 
+(a)	Scarcity arises when we want more than what we have.	(2 marks)
+(b)	Because of scarcity, we cannot satisfy every want. We have to make choices to decide what wants to satisfy and what wants to give up in order to better utilise the scarce resources or goods that we have.	(2 marks)
+
+Question code: B1C01Q302 (new)
+(a)	Define scarcity.	(2 marks)
+(b)	'A good is not scarce if human wants for it are limited.' Do you agree?	(3 marks)
+
+Answers:
+(a)	Scarcity is the problem that arises when we want more than what we have.			(2 marks)
+(b)	•	Disagree. A good can be scarce even if human wants for it are limited.	(1 mark)
+	•	Its quantity available may not be sufficient for the wants.	(2 marks)
+
+Question code: B1C01Q303
+Scarcity implies that human wants are unlimited. Do you agree? Explain.	(3 marks)
+
+Answers:
+•	Disagree.	(1 mark)
+•	Scarcity means we want more than we have. It exists as long as the available quantity of resources is insufficient to satisfy our wants for them, whether human wants are limited or unlimited.	(2 marks)
+
+
+Question code: B1C01Q304 (new)
+City Y was surrounded by Country Q's army. City Y was too weak to resist and had no support. The general of Country Q's army urged City Y to open the gates. He shouted, 'Surrender and I promise we will only take your money and treasure. Otherwise, after we break into the city, we will kill everyone inside.' 
+(a)	What was City Y's cost of surrendering?	(2 marks)
+(b)	Suppose the lord of City Y gave half of the city's money and treasure to Country Q's army and begged them to leave. However, the army insisted on surrounding the city until it fell. How would City Y's cost of surrendering change?	(3 marks)
+
+Answers:
+(a)	The cost of surrendering was giving up all of the city's money and treasure.
+			(2 marks)
+(b)	The cost of surrendering decreased	(1 mark)
+	because the amount of money and treasure to be given up when they surrendered decreased.	(2 marks)
+
+Question code: B1C01Q305 (new)
+The following shows Joe's preferences for lunch:
+
+1st choice: Maxim's MX 
+2nd choice: Fairwood
+3rd choice: McDonald's	
+
+Suppose the prices of a set lunch at the three restaurants are the same.
+(a)	What is Joe's cost of having lunch at Fairwood?	(2 marks)
+(b)	Explain how his cost of choosing McDonald's will change if Joe finds that Maxim's MX has closed for renovations.	(4 marks)
+
+Answers:
+(a)	Joe's cost of having lunch at Fairwood is the value of having lunch at Maxim's MX.	(2 marks)
+(b)	When Maxim's MX is unavailable, his cost of choosing McDonald's becomes the value of having his lunch at Fairwood. 	(2 marks)
+	Since the value of having his lunch at Fairwood is lower than that at Maxims' MX, his cost of having lunch at McDonald's decreases.	(2 marks)
+
+
+Question code: B1C01Q306 (new)
+Karen has recently spent $5 million to buy an apartment in Shatin. She lives in the apartment and pays a $2,000 management fee every month. If she rents her apartment to a tenant, she can earn a rental income of $8,000 per month and the tenant will pay the management fee. What is Karen's cost of living in the apartment? Explain.
+			(4 marks)
+
+Answers:
+$10,000 per month.	(1 mark)
+If Karen lives in her apartment, she has to pay the monthly management fee ($2,000). At the same time, she has to forgo the monthly rental income from renting out the apartment ($8,000).	(3 marks)
+
+Question code: B1C01Q307 (new)
+Bruce is a teacher at a private school. He is good at playing football and a football club has offered to sign him as a professional player. He is deciding whether to accept the offer.
+(a)	Explain how the cost of accepting the offer will change if Bruce's school gives him a salary increase.	(3 marks)
+(b)	The club tells Bruce that he can only play as a defender (後衛) while he wants to play as a striker (前鋒). Explain whether this will affect his cost of accepting the offer.	(3 marks)
+
+Answers:
+(a)	The cost of accepting the offer is the value of being a teacher at the school.
+			(1 mark)
+	The cost will increase when his salary at the school increases.	(2 marks)
+(b)	No.	(1 mark)
+	This only affects the value of accepting the offer but not the value of the forgone option (being a teacher).	(2 marks)
+
+
+Question code: B1C01Q308 (new)
+Gloria has graduated from a secondary school. She is now looking for a full-time job. Her preferences are listed below:
+
+1st choice: to be a full-time model
+2nd choice: to be a beautician (美容師)
+3rd choice: to work as a manager in a fast food shop	
+
+Briefly explain whether Gloria's opportunity cost of being a full-time model will change in the following situations:
+(a)	The income of a full-time model is unstable.	(3 marks)
+(b)	Gloria has lost interest in being a beautician.	(3 marks)
+(c)	An overseas university admits Gloria and she enjoys studying at university more than she wants to be a full-time model.	(3 marks)
+
+Answers:
+(a)	The cost will not change.	(1 mark)
+	This only changes the value of being a full-time model without affecting the value of the highest-valued option forgone (being a beautician).	(2 marks)
+(b)	The cost will decrease.	(1 mark)
+	As Gloria has dropped the idea of being a beautician, the cost of being a full-time model decreases to the value of working as a manager in a fast food shop.
+		(2 marks)
+(c)	The cost will increase.	(1 mark)
+	As the value of studying at university is higher than that of being a full-time model, the highest-valued option forgone of being a full-time model becomes studying at university.	(2 marks)
+
+Question code: B1C01Q309
+(a)	Define opportunity cost.	(2 marks)
+(b)	Mr Chan was robbed when he went home last night. The robber said to him, 'Give me all your money or I will kill you.'
+Suppose the robber did what he said and he was able kill Mr Chan. What was his cost of not giving the robber his money?	(2 marks)
+Answers:
+(a)	Opportunity cost is the highest-valued option forgone when making a choice.				(2 marks)
+(b)	His cost of not giving the money is the value of his life forgone.	(2 marks)
+
+
+Question code: B1C01Q310 (new)
+The following shows Eddie's preferences for dinner:
+
+1st choice: Cantonese restaurant 
+2nd choice: Italian restaurant
+3rd choice: Western fast food restaurant	
+
+(a)	What is his cost of dining at the Italian restaurant?	(2 marks)
+(b)	Under the following situations, explain how the cost of dining at the Cantonese restaurant will change.
+	(i)	Eddie enjoys his dinner with his wife, and his wife hates eating Western fast food.	(3 marks)
+	(ii)	The Italian restaurant introduces new dishes that appeal to Eddie.	(3 marks)
+
+Answers:
+(a)	Eddie's cost of dining at the Italian restaurant is giving up dining at the Cantonese restaurant.	(2 marks)
+(b)	(i)	•	This will only lower the value of the third choice.	(1 mark)
+•	Since the value of the highest-valued option forgone (dining at the Italian restaurant) remains unchanged, Eddie's opportunity cost of dining at the Cantonese restaurant remains unchanged.	(2 marks)
+	(ii)	•	This will increase the value of dining at the Italian restaurant, which is the highest-valued option forgone.	(2 marks)
+•	Thus, Eddie's opportunity cost of dining at the Cantonese restaurant increases.	(1 mark)
+
+
+Question code: B1C01Q311 (new)
+The following are Ming's preferences for entertainment:
+
+1st choice: Attending a concert
+2nd choice: Watching TV at home
+3rd choice: Seeing a movie	
+
+(a)	What is Ming's cost of choosing to attend a concert?	(2 marks)
+(b)	Explain how Ming's cost of choosing to attend a concert will change if the quality of TV programmes decreases.	(3 marks)
+
+Answers:
+(a)	Ming's cost of choosing to attend a concert is giving up the option of watching TV at home. 	(2 marks)
+(b)	•	This will lower the value of watching TV at home, which is the highest-valued option forgone.	(2 marks)
+	•	His cost of choosing to attend a concert will decrease.	(1 mark)
+
+Question code: B1C01Q312 (new)
+Peter has recently won a transferable air ticket to Japan on a quiz show (問答遊戲節目).
+Peter said, 'There is no cost to me of using this ticket.' Is he right? Explain.	(4 marks)
+
+Answers:
+•	No.
+•	It takes time to use the air ticket to travel to Japan. Therefore, time cost is involved in using the air ticket.	(2 marks)
+•	The cost also includes the money Peter can get from selling the air ticket.
+		(2 marks)
+
+
+Question code: B1C01Q313
+Ming was awarded a scholarship which he used to buy a lot of economics reference books. One of his classmates said to him, 'Your cost of buying economics reference books with the scholarship is zero.'
+Do you agree with Ming's classmates? Explain with an example.	(4 marks)
+
+Answers:
+•	Disagree.
+•	Since Ming may use the scholarship for other purposes, his cost of using the scholarship to buy economics reference books is not zero. His cost of buying economics reference books is the highest-valued option forgone. If buying English reference books is the highest-valued option forgone, Ming's cost of buying economic reference books is giving up English reference books.	(4 marks)
+
+Question code: B1C01Q314 (new)
+Kenneth is searching for a teaching job. He has been offered three teaching posts at different schools. His order of preference for the teaching posts is as follows:
+
+I.	Teaching economics at a school in Ma On Shan
+II.	Teaching accounting at a school in Kowloon Tong
+III.	Teaching business studies at a school in Wong Tai Sin	
+
+(a)	What is his cost of choosing the teaching post in Kowloon Tong?	(2 marks)
+(b)	Explain whether his cost of choosing the teaching post in Ma On Shan will change if the school in Kowloon Tong closes down.	(3 marks)
+
+Answers:
+(a)	The option of teaching economics at the school in Ma On Shan	(2 marks)
+(b)	Yes. As the option of teaching accounting at a school in Kowloon Tong (the high-valued option forgone) is no longer available, the cost will decrease to the value of teaching business studies at a school in Wong Tai Sin.	(3 marks)
+
+
+Question code: B1C01Q315 (new)
+Fun is a public housing applicant. Public housing units at three locations are available and arranged according to her preference as follows:
+
+1st choice: Ma On Shan
+2nd choice: Tin Shui Wai
+3rd choice: Tiu Keng Leng	
+
+(a)	What is Fun's cost of choosing the public housing unit in Tiu Keng Leng?				(2 marks)
+(b)	Explain whether her cost of choosing the public housing unit in Ma On Shan will change if the government plans to build a new railway station in Tin Shui Wai.			(3 marks)
+
+Answers:
+(a)	The forgone option of the public housing unit in Ma On Shan	(2 marks)
+(b)	Yes, because this will increase the value of the highest-valued option forgone, i.e., the value of the public housing unit in Tin Shui Wai. Fun's cost of choosing the public housing unit in Ma On Shan will increase.	(3 marks)
+
+Question code: B1C01Q316 (new)
+Miss Chan operates a fast food shop, the premises of which are also owned by her.She does not have to pay any rent. 
+(a)	Explain whether her cost of operating the fast food shop at the premises is zero.
+		(4 marks)
+(b)	Miss Chan spent $20 million to buy the premises in 1997. Recently, a property developer has offered her $10 million for the premises. In the end, she refused to sell her premises. What is Miss Chan's cost of keeping the premises? Briefly explain.	(3 marks)
+
+Answers:
+(a)	•	No, her cost is not zero.	(1 mark)
+•	Opportunity cost is the highest-valued option forgone in making a choice. 				(1 mark)
+•	The cost of operating the fast food shop at the premises is giving up the rental income from letting out the shop. 	(2 marks)
+(b)	•	The cost is $10 million.	(1 mark)
+•	The $10 million is the highest-valued option forgone that is available when Miss Chan makes her decision.	(2 marks)
+
+
+Question code: B1C01Q317
+Karen has recently spent $5 million to buy an apartment in Shatin. Suppose the market price of a similar apartment in Shatin later rises to $6.5 million but the market rent remains unchanged. Is there any change in Karen's cost of owning the apartment? Explain.	(3 marks)
+
+Answers:
+•	The cost increases.	(1 mark)
+•	The highest-valued option forgone of owning the apartment is the resale of the apartment. Therefore, the cost increases to $6.5 million.	(2 marks)
+
+Question code: B1C01Q318 (new)
+Mr Chan has paid a $100 enrolment fee to take an intensive English course at Tutorial Centre A. The money is non-refundable. Later, he finds that his favourite English tutor has left to work at Tutorial Centre B.
+(a)	Explain whether the above event will affect Mr Chan's cost of enrolling in the intensive course.	(3 marks)
+(b)	Mr Chan decides not to take the course at Tutorial Centre A. Explain whether the enrolment fee of $100 is included in the cost of making this decision.	(2 marks)
+
+Answers:
+(a)	•	No, because:	(1 mark)
+	•	this will only reduce the value of enrolling in the intensive English course, but not the value of the highest-valued option forgone.	(2 marks)
+(b)	No, because the $100 is an irrecoverable past expenditure. 	(2 marks)
+
+Question code: B1C01Q319
+Miss Chan paid $2,000 for a dog training course. After a few lessons, she discovered that her dog behaved worse. Is the $2,000 included in the cost of continuing to attend the training course? Explain. 	(3 marks)
+
+Answers:
+•	Not included.	(1 mark)
+•	The $2,000 payment is a past expenditure. It is no longer an option available at present and does not affect the cost of present decision.	(2 marks)
+
+Question code: B1C01Q320
+Andy is attending a tutorial lesson. Explain how the following events will affect his cost of attending this lesson.
+(a)	The lesson is so boring that he is falling asleep.	(3 marks)
+(b)	He is told that starting from the next lesson, the tuition fee will increase by 10%.	
+			(3 marks)
+(c)	The lesson runs over by half an hour.	(3 marks)
+
+Answers:
+(a)	•	The cost will not change.	(1 mark)
+	•	This only reduces the value of the chosen option (i.e., attending the lesson), not the highest-valued option forgone.	(2 marks)
+(b)	•	The cost will not change.	(1 mark)
+	•	The tuition fee increase starts only from the next lesson and is therefore irrelevant to his cost of attending the current lesson.	(2 marks)
+(c)	•	The cost will increase.	(1 mark)
+	•	The extra half an hour increases Andy's time cost of attending the lesson. He has to give up the highest-valued alternative activity/activities in which he could have participated during this half an hour.	(2 marks)
+
+Question code: B1C01Q321 (new)
+Mr Tsoi has rented a flat in Mongkok. Recently, he won a $38 million Mark Six prize  and is considering how to use the money. He has three options:
+
+1.	Buying the flat in which he lives
+2.	Making an investment which has a guaranteed annual return of $X
+3.	Depositing the prize money into the bank to earn an annual interest rate of 1%	
+
+*(a)	Find the minimum value of X that makes the option of investing more preferable to that of depositing the money into the bank. Explain your answer.	
+			(4 marks)
+(b)	Explain whether the following statements are correct.
+	(i)	Mr Tsoi's cost of buying the flat is zero as the money he spent is from the Mark Six prize.	(3 marks)
+	(ii)	Once Mr Tsoi has bought the flat, his cost of living in the flat is zero. This is because he no longer has to pay any rent.	(3 marks)
+
+Answers:
+(a)	•	The option of making the investment is more preferable to depositing the money when the former yields a higher return than the latter, i.e., the investment return is greater than $38 million × 1%.	(2 marks)
+	•	X > 38 million × 1% ( x > 0.38 million	(2 marks)
+(b)	(i)	•	Incorrect.	(1 mark)
+		•	This involves a cost of using the money when the money spent has  alternative uses, regardless of where the money comes from.	(2 marks)
+	(ii)	•	Incorrect.	(1 mark)
+		•	Mr Tsoi's cost of living in his own flat is not zero because there are alternative uses of the flat which he gives up if he decides to live in it.
+			 	(2 marks)
+
+
+Question code: B1C01Q322
+As the salaries of women continue to increase, some women earn more than their husbands. In these families, it is becoming more common for the husbands to quit their jobs to look after their children. Use the concept of cost to explain this phenomenon.	(5 marks)
+
+Answers: 
+When a family member quits his/her job to take care of the children, he/she forgoes a salary.	(1 mark)
+Hence, if the husband earns less than his wife, his cost of giving up the job to look after the children is lower, compared with his wife.	(2 marks)
+Since the husband's cost is lower, he is the one who would more likely quit his job to look after the children. 	(2 marks)
+
+Question code: B1C01Q323 (new)
+Statement 1: Seawater is a free good.
+Statement 2: Seawater is an economic good.
+Under what situation is Statement 1 correct? Under what situation is Statement 2 correct? Explain with ONE example for each situation.	(4 marks)
+
+Answers:
+In the ocean, seawater is a free good because its amount can satisfy all human wants for it.		(2 marks)
+Seawater used for flushing or keeping fish is an economic good because its amount cannot satisfy all human wants for it. / More is preferred. / It involves costs to provide seawater for flushing or keeping fish.	(2 marks)
+(Accept any other reasonable answers.)
+
+
+Question code: B1C01Q324 (new)
+Suppose MTRC finds that there is a crack in a track. The company disrupts its railway service and provides a free shuttle-bus service (接駁巴士服務) to its passengers. Explain whether the shuttle-bus service is a free good.	(3 marks)
+
+Answers:
+Not a free good.	(1 mark)
+More of the bus service is preferred to less. / Resources used in providing the bus service have alternative uses. / There are costs of providing the bus service.	(2 marks)
+
+
+Question code: B1C01Q325 (new)
+Define 'free goods'. Some bloggers share their articles on their blogs free of charge. Explain whether those articles are free goods.	(5 marks)
+
+Answers:
+Free goods are goods whose available quantities are sufficient to satisfy all our wants (or: more of them are not preferred).	(2 marks)
+Those articles are not free goods because 	(1 mark)
+more of them are preferred / there is a cost to providing those articles.	(2 marks)
+
+Question code: B1C01Q326
+Explain with TWO reasons whether free job magazines distributed in the street are free goods.	(5 marks)
+
+Answers:
+•	No. They are not free goods because:	(1 mark)
+•	costs are involved in providing them, such as printing papers;	(2 marks)
+•	their quantity supplied is insufficient to satisfy all our wants.	(2 marks)
+
+Question code: B1C01Q327
+Use ONE reason to explain whether the free electronic mail boxes provided by different websites are free goods.	(3 marks)
+
+Answers:
+They are not free goods.	(1 mark)
+Reasons:
+•	Cost is involved in providing them, such as management fee.
+•	Their quantities are not sufficient to satisfy everyone's wants. People want more electronic mail boxes with larger capacities.
+(Any ONE of the above or other reasonable answer. 2 marks)
+
+
+Question code: B1C01Q328
+To improve the image of air travel, an airline company held a lucky draw to give away a fixed amount of free air tickets. Explain whether these free tickets are free goods.				(3 marks)
+
+Answers:
+No.			(1 mark)
+Reasons:
+•	People want to have more free tickets.
+•	The production of airline services requires the use of scarce resources which have alternative uses.
+(Any ONE of the above or other reasonable answer. 2 marks)
+
+Question code: B1C01Q329 (new)
+In view of the upsurge (激增) in cases of falling aluminium windows, the Hong Kong Housing Authority has decided to provide a free window checking service for residents at its housing estates.
+'This free window checking service is NOT a free good because people want more of it,' Freda said.
+Besides the reason suggested by Freda, provide TWO reasons to support her statement.	(4 marks)
+
+Answers:
+•	Providing the service requires the use of scarce resources (such as the required equipment) which have alternative uses.	(2 marks)
+•	People are willing to pay for the service.	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B1C01Q330
+(a)	Define free goods.	(2 marks)
+(b)	'If a good is fixed in supply, then the quantity available must be insufficient to satisfy all our wants. So it must be an economic good.'
+	Is this statement true? Explain.	(3 marks)
+
+Answers:
+(a)	Free goods are goods whose available quantities are sufficient to satisfy all our wants (Or: more of them are not preferred).	(2 marks)
+(b)	•	False, a good with a fixed supply may be a free good.	(1 mark)
+	•	The fixed quantity may be so large that it is sufficient to satisfy everyone's wants.	(2 marks)
+
+Question code: B1C01Q331
+Mr Wong runs a restaurant. He finds out that business at his restaurant is worse than expected. He wants to attract more customers by giving a small bowl of bird's nest (燕窩) free of charge to each customer whose bill is over $200.
+(a)	Does unexpectedly poor business at the restaurant increase his cost of running the restaurant? Explain your answer.	(3 marks)
+(b)	Is the free bird's nest a free good? Explain your answer.	(3 marks)
+
+Answers:
+(a)	•	No.	(1 mark)
+	•	This will only decrease the value of running the restaurant but not the value of his highest-valued option forgone.	(2 marks)
+(b)	The free bird's nest is not a free good. Reasons:	(1 mark)
+	•	More free bird's nest is wanted.	(1 mark)
+	•	There are costs involved in the provision of bird's nest.	(1 mark)
+
+Question code: B1C01Q332
+(a)	Define free goods.	(2 marks)
+(b)	Miss Lee has bought a lot of chocolate bars from a supermarket. Before the examination began, Miss Lee said, 'Students who get an A grade in the examination will each be awarded a chocolate bar.'
+	Explain with TWO reasons why the chocolate bars awarded to students are NOT a free good.	(4 marks)
+
+Answers:
+(a)	Free goods are goods whose available quantities are sufficient to satisfy all our wants (Or: more of them are not preferred). 	(2 marks)
+(b)	•	Students prefer more of the chocolate bars.	(2 marks)
+	•	Miss Lee needs to pay money to buy the chocolate bars.	(2 marks)
+
+
+Question code: B1C01Q333
+Mr Chan is an indigenous (土生土長的) resident of a village in the New Territories. Recently, he has been allocated a New Territories small house (丁屋) in the village. Some say that the small house is a free good. Do you agree? 	(4 marks)
+
+Answers:
+•	Disagree. The small house is not a free good.	(1 mark)
+•	People prefer more small houses. This implies that the quantity of small houses is not sufficient to satisfy all people's wants. Therefore, they are not a free good.	
+			(3 marks)
+
+Question code: B1C01Q334
+Suggest ONE scenario in which shells are
+(a)	a free good.	(2 marks)
+(b)	an economic good.	(2 marks)
+
+Answers:
+(a)	Shells in the sea	(2 marks)
+	(Accept other reasonable answers.)
+(b)	Shells used to make ornaments	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B1C01Q335
+Leon is a singer. He performed at a charity concert last Christmas and did not receive any income from this concert. Some free tickets were offered to sick children.
+(a)	Explain whether this concert is an activity of production.	(2 marks)
+(b)	Explain whether the free concert tickets are free goods.	(2 marks)
+
+Answers:
+(a)	Yes, it is a kind of production as he uses inputs (voices) to produce goods (songs) for his audience.	(2 marks)
+(b)	No, they are not free goods as more free tickets are wanted.	(2 marks)
+
+
+Question code: B1C01Q336
+The Garden at Government House (香港禮賓府花園) is open several times a year for public visits. The Ballroom can be reserved three days a month by local charitable, non-profit making or public organisations for various events.
+(a)	Explain whether public visiting the Garden at Government House belongs to consumption.	(2 marks)
+(b)	Explain whether the Ballroom, which can be reserved for free, is a free good.				(2 marks)
+
+Answers:
+(a)	Yes, this belongs to consumption, because viewing the Garden scenery at Government House can directly satisfy visitors' wants.	(2 marks)
+(b)	It is not a free good because people want more of it.	(2 marks)
+
+Question code: B1C01Q337
+Explain whether each of the following activities belongs to consumption or production.
+(a)	Mr Lee, a liberal studies teacher, reads the newspapers in preparation for tomorrow's lesson.	(2 marks)
+(b)	Mrs Wong studies primary school profiles (小學概覽), searching for the most suitable school for her daughter.	(2 marks)
+
+Answers:
+(a)	•	Production because	(1 mark)
+	•	Mr Lee transforms his labour effort and capital (i.e., the newspapers) into teaching materials (outputs).	(1 mark)
+(b)	•	Consumption because	(1 mark)
+	•	this satisfies Mrs Wong's wants of choosing the most suitable school for her daughter.	(1 mark)
+
+Question code: B1C01Q338 (new)
+Mary has borrowed a comic book from John. Later, she returns the book to John and adds a lucky charm (幸運符). 
+(a)	To a borrower, what is interest?	(2 marks)
+(b)	Explain whether interest is involved in the above situation.	(2 marks)
+
+Answers:
+(a)	To a borrower, interest is the cost of earlier availability of goods or resources.
+			(2 marks)
+(b)	Yes, the lucky charm is the interest involved. 	(2 marks)
+
+Question code: B1C01Q339 (new)
+'When interest rates increase, people will reduce their present consumption.' Explain why this statement is correct.	(4 marks)
+
+Answers:
+Interest is the cost of earlier availability of goods or resources.	(2 marks)
+To consume presently, people need to forgo interest income or pay interest.	(1 mark)
+When interest rates increase, the cost of present consumption increases and this discourages people from present consumption.	(1 mark)
+
+Question code: B1C01Q340
+Why are people willing to pay interest when they purchase a house with a mortgage? 				(3 marks)
+
+Answers:
+•	People are impatient to consume, i.e., they prefer having goods sooner than later. 				(1 mark)
+•	With a mortgage, people can own a house earlier.	(1 mark)
+•	Interest is the price borrowers pay for earlier availability of goods or services (ownership of a house).	(1 mark)
+
+Question code: B1C01Q341
+Explain the relationship between interest, present consumption and saving.	(4 marks)
+
+Answers:
+•	Interest is the cost of earlier consumption.	(1 mark)
+•	If people use more of their income for present consumption, they can save less.		(1 mark)
+•	Therefore, when interest rate increases, present consumption decreases but saving increases. 	(2 marks)
+
+
+Question code: B1C01Q342 (new)
+April: I want to buy an iPhone that costs $5,688, but I don't have the money. Can you lend me money to buy it now?
+Bob: Sure. I have $5,688. But you have to repay me $7,002 in one year.
+April: That's fine!
+(a)	What is interest?	(1 mark)
+(b)	Calculate the amount of interest April has to pay Bob in a year.	(1 mark)
+(c)	Suppose a bank offers a 5% interest rate per annum to depositors. If Bob can either lend the money ($5,688) to April or deposit it into the bank, which option will he choose? Explain. 	(3 marks)
+(d)	Suppose the resale price of an iPhone increases to $10,000 shortly after April buys it. Will April's cost of keeping the iPhone be affected? Explain.	(2 marks)
+
+Answers:
+(a)	Interest is the cost of earlier availability of goods or resources.	(1 mark)
+	or
+Interest is the compensation for deferring consumption of goods or the use of resources.	(1 mark)
+(b)	Interest April has to pay
+	= $7,002 - $5,688
+	= $1,314	(1 mark)
+(c)	•	If Bob deposits the money into the bank, he will get $5,688 × (1 + 5%) 
+		= $5,972.4.	 (1 mark)
+	•	Since Bob can get back $7,002 by lending to April, he will choose to lend his money to April.	(2marks)
+	OR
+	•	The interest income from depositing the money = $284.4	(1 mark)
+	•	As the interest income from lending money to April ($1,314) is greater, Bob will choose to lend his money to April.	(2 marks)
+(d)	•	Yes, the cost of keeping the iPhone will increase. 	(1 mark)
+	•	This is because April can now resell the iPhone at a higher price.	(1 mark)
+
+
+Question code: B1C01Q343
+John and Ling want to buy a flat before their marriage. However, they do not have enough money to buy one. So, they apply for a mortgage loan (i.e., to borrow money from a bank so that they can buy the flat) and will repay the money plus interest later. Explain why John and Ling need to pay interest to borrow money.	(4 marks)
+
+Answers:
+•	As John and Ling prefer earlier consumption (to buy a flat even though they do not have enough money now), they need to borrow money for the purchase. 		(1 mark)
+•	On the other hand, they have to compensate the lender (e.g., bank) with interest whom sacrifices present consumption and lends them money. 	(2 marks)
+•	So, they repay the principal plus interest in the future; the interest is the compensation for deferring consumption of goods.	(1 mark)
+
+Question code: B1C01Q344
+'Buying a High-definition television (HDTV) now or later makes no difference if its price remains unchanged.'
+Do you agree with this statement? Explain your answer. 	(4 marks)
+
+Answers:
+•	No. Goods with the same physical characteristics are not really the same if they are available for consumption at different times. 	(2 marks)
+•	As we prefer having goods earlier to later, the option of consuming goods earlier is in itself an economic good.	(2 marks)
+
+Question code: B1C01Q345
+* Some people borrow money from loan sharks (高利貸) while others lend money to people. How would you explain this phenomenon? 	(5 marks)
+
+Answers:
+•	Different people may have different preferences towards present consumption and future consumption. 	(1 mark)
+•	Some people have a stronger preference towards present consumption. They are willing to pay more to buy goods and services by borrowing from loan sharks.		(2 marks)
+•	Some people are more willing to postpone their consumption and offer loans in return for interest in order to enjoy a greater future consumption.	(2 marks)
+
+
+Question code: B1C01Q346 (new)
+Study the conversation below.
+'Public library services are a free good as they are provided free of charge,' John said.
+'The services are an economic good. The government should not provide them free of charge,' Mary said.
+(a)	Identify the positive statement(s) and the normative statement(s) in the above conversation.	(3 marks)
+(b)	Explain whether John is correct.	(3 marks)
+
+Answers:
+(a)	John's statement is a positive statement.	(1 mark)
+	Mary's first statement is a positive statement while her second statement is a normative statement.	(2 marks)
+(b)	John is not correct. Public library services are an economic good as more are preferred / it involves costs to provide the services.	(3 marks)
+
+Question code: B1C01Q347
+Stephy: 'I am too heavy.'
+Janice: 'I am heavier than you.'
+Which of the above statements is positive? Which of them is normative? Explain your answer. 	(4 marks)
+
+Answers:
+•	Stephy's statement is normative. It involves value judgment (too heavy) and disagreements cannot be settled by appealing to facts.	(2 marks)
+•	Janice's statement is positive. It does not involve value judgment and disagreements can be settled by appealing to facts (weight can be measured and compared).	(2 marks)
+
+Question code: B1C01Q348
+Identify whether the following is a positive statement or normative statement.
+(a)	In a market economy, people follow government plans and commands in production and consumption.	(1 mark)
+(b)	For specialisation to occur, exchange must take place.	(1 mark)
+(c)	The government should impose a maximum working hours law.	(1 mark)
+
+Answers:
+(a)	Positive statement	(1 mark)
+(b)	Positive statement	 (1 mark)
+(c)	Normative statement 	(1 mark)
+
+Question code: B1C01Q349
+(a)	What are positive statements?	(2 marks)
+(b)	Explain whether each of the following is a positive statement.
+(i)	The government should enhance the protection of intellectual property rights to maintain Hong Kong's competitiveness.	(2 marks)
+(ii)	If the government gives a low-income allowance to the poor, income distribution will be more even.	(2 marks)
+
+Answers:
+(a)	Positive statements are statements about facts. They do not involve any value judgements. We can test them by checking facts.	(2 marks)
+(b)	(i)	No. It is a normative statement.	(1 mark)
+		It involves a value judgement about what the government 'should' do.	(1 mark)
+	(ii)	Yes. It is a positive statement.	(1 mark)
+		It is about facts. Whether the income distribution will be more even after introducing a low-income allowance can be tested by checking facts.	(1 mark)
+
+Question code: B1C01Q350
+'Since positive statements are about facts, positive statements must be true.' Do you agree? Explain.	(3 marks)
+
+Answers:
+•	No. Positive statements can be false.	(1 mark)
+•	It is true that positive statements are statements about facts. However, if we find that these statements are inconsistent with facts, we can refute them.	(2 marks)
+
+
+
+Structured Questions
+
+Question code: B1C01Q501 (new)
+In September 2014, Apple launched its new iPhone 6. Wherever iPhone 6 was sold,  there were long queues for it. Just as in Australia, more than 1,000 people lined up outside Apple's flagship store in Sydney to wait to buy it. People who did not want to wait in line could hire professional line sitters to wait. In New York, the hourly rates of a professional line sitter can be as high as US$25 (equal to HK$195). Some entrepreneurs have even set up companies to provide waiting services.
+(a)	Everyone can wait in line free of charge. Why do people hire line sitters to wait in line? Explain.	(3 marks)
+(b)	What is an economic good? With reference to the above information, explain why iPhone 6 is an economic good.	 (4 marks)
+(c)	The official price of iPhone 6 (16GB) is $5,688 and its resale price is $10,000. Explain whether the following situations will affect the cost of owning an 
+iPhone 6 (16GB).
+	(i)	The resale price of iPhone 6 (16GB) rises to $12,000.	(2 marks)
+(ii)	All telecommunication service providers raise their monthly service fees.
+					(2 marks)
+(d)	Explain whether the following statements are positive or normative.
+	(i)	The government should prohibit line sitting as this will push up the prices of goods.	(2 marks)
+	(ii)	'First-come, first-served' is the fairest criterion for distributing goods.
+					(2 marks)
+
+Answers:
+(a)	Some people may have a higher time cost than others.	(1 mark)
+	To save on their time cost, they may hire people to wait for them so they don't have to wait in line.	(2 marks)
+
+(b)	An economic good is a good whose quantity available is insufficient to satisfy all people's wants.	(2 marks)
+	iPhone 6 is an economic good because people are willing to spend time and money to obtain it / more is preferred to less.	(2 marks)
+
+(c)	(i)	The cost of owning an iPhone 6 is its resale price.	(1 mark)
+		Thus, the cost of owning an iPhone 6 rises from $10,000 to $12,000.	(1 mark)
+	(ii)	This will only affect the cost of using an iPhone 6.	(1 mark)
+		The cost of owning an iPhone 6 (the resale value) remains unchanged.	(1 mark)
+
+(d)	(i)	Normative statement	(1 mark)
+		Whether the government should prohibit line sitting involves a value judgement.	(1 mark)
+	(ii)	Normative statement	(1 mark)
+		Whether a criterion is fair or not involves a value judgement.	(1 mark)
+
+Question code: B1C01Q502 (new)
+Mark and Janice decide to go to a Friday night concert. Mark has spent $3,000 to buy two concert tickets. On the day of the concert, a typhoon strikes. Although the weather is extremely bad, the concert is held as scheduled. The following phone conversation takes place between Mark and Janice.
+'Oh, no! The weather is very bad! I want to stay at home,' Janice said.
+'Since I have spent $3,000 for the two tickets, we should go to the concert,' Mark said.
+(a)	What is opportunity cost? Do you think Mark is correct? Explain with the concept of opportunity cost.	(4 marks)
+(b)	Under the following situations, explain whether the ticket price should be included in Janice's cost of going to the concert.
+(i)	Janice does not need to give back to Mark the money he spent to buy the ticket, whether she goes to the concert or not.	(3 marks)
+*(ii)	If Janice decides not to go to the concert, she needs to give back to Mark the money he spent to buy the ticket. She does not have to pay if she goes to the concert with Mark.	(3 marks)
+(c)	In the end, Mark and Janice go to the concert. Explain whether the following events will affect their cost of going to the concert.
+	(i)	Due to the bad weather, they need to spend additional hour to get  to the concert.	(2 marks)
+	(ii)	The concert ends one hour earlier.	(2 marks)
+(d)	Determine whether the following statements are positive or normative.
+	(i)	The concert is entertaining.	(2 marks)
+	(ii)	Due to the typhoon, fewer people attend the concert.	(2 marks)
+
+
+Answers:
+(a)	Opportunity cost is the highest-valued option forgone.	(2 marks)
+	Mark is incorrect. The $3,000 is an irrecoverable past expenditure and should not be considered when deciding whether to go to the concert. 	(2 marks)
+
+(b)	(i)	Not included. In this case, the money Mark spent on the tickets does not affect her value of staying at home (her highest-valued option forgone).	(3 marks)
+	(ii)	Included. The cost of going to the concert is the value of not going to the concert. In this case, the value of not going to the concert will decrease as she needs to pay back to Mark the money he spent if she does not go to the concert.
+	(3 marks)
+
+(c)	(i)	The cost will increase as they spend more resources (time) to go to the concert.		(2 marks)
+	(ii)	The cost will decrease as they spend less time at the concert.	(2 marks)
+
+(d)	(i)	Normative statement	(1 mark)
+		Whether the concert is entertaining involves a value judgement.	(1 mark)
+	(ii)	Positive statement	(1 mark)
+The statement is about facts and is refutable. It can be tested by checking the facts.	(1 mark)
+
+
+Question code: B1C01Q503 (new)
+The government plans to extend the railway network. Under a development plan for 2018-2026, seven railway projects will be undertaken. The total cost of the railway plan is about HK$110 billion. Most people are in favour of this plan. However, some think that the cost is too high and the government should spend its money on other areas like education and public health.
+Suppose the government has the following policy priorities:
+1st choice	Transportation	
+2nd choice	Education	
+3rd choice	Public health	
+
+(a)	Given the following events, explain whether the opportunity cost of extending the railway network will necessarily remain unchanged.
+(i)	It is expected that greenhouse gas emissions will fall by 4% a year when the new lines are completed.	(2 marks)
+(ii)	It is expected that there will be a shortage of construction workers and the construction period will have to be extended.	(3 marks)
+*(iii)	The chance of an Ebola (伊波拉病毒) outbreak in Hong Kong increases.
+		(3 marks)
+(b)	Suppose the government decides to provide the railway service to the public free-of-charge. Explain whether the free railway service provided by the government is a free good.	(3 marks)
+(c)	Explain whether the following activities are production or consumption.
+(i)	Samuel, a courier, takes the train to deliver business letters to other companies.		(2 marks)
+	(ii)	Morris takes the train to go on a picnic with his girlfriend.	(2 marks)
+
+Answers:
+(a)	(i)	Yes. It will only affect the value of extending the railway network and the value of the highest-valued option forgone remains unchanged.	(2 marks)
+	(ii)	No, it will increase the opportunity cost. The shortage of construction workers will increase the wages of construction workers. The money cost may increase. The extension of the construction period will increase both the expenditure on the construction and the time cost.	 (3 marks)
+	(iii)	No, as the value of the third choice (public health) increases, it is possible that the value of the third choice will become higher than that of the second choice. The cost of extending the railway network may change from the value of spending the money on education to the value of spending it on public health. 
+				(3 marks)
+
+(b)	Not a free good.	(1 mark)
+	More is preferred to less. / Providing the services involves a cost.	(2 marks)
+
+(c)	(i)	Production as	(1 mark)
+		Samuel provides courier services.	(1 mark)
+	(ii)	Consumption as	(1 mark)
+		this satisfies Morris's desire to go on a picnic with his girlfriend.	(1 mark)
+
+Question code: B1C01Q504
+Mr Chan is a taxi driver who owns his taxi. 
+(a)	Define opportunity cost. What is Mr Chan's cost of driving his own taxi?	(4 marks)
+(b)	Give an example where Mr Chan's opportunity cost of driving his own taxi increases. Explain your answer.	(2 marks)
+(c)	If Mr Chan is frequently robbed when driving his taxi at night, does this increase his cost of driving his own taxi? Explain.	(3 marks)
+
+Answers:
+(a)	•	Opportunity cost is the highest-valued option forgone in making a choice.					(2 marks)
+	•	Mr Chan's cost of driving his own taxi is the income that can otherwise be obtained if he does not choose to drive his own taxi.	(2 marks)
+
+(b)	Any correct example with explanation.	(2 marks)
+Example: If the income from renting out the taxi increases, the cost to Mr Chan of driving his own taxi will increase as his forgone income increases.
+
+(c)	•	No, this will only affect the value of driving his own taxi.	(1 mark)
+	•	But the value of his highest-valued option forgone is not affected.	(2 marks)
+
+
+Question code: B1C01Q505
+Mr Chan is a fisherman. He owns his fishing boat.
+(a)	Define opportunity cost. What is Mr Chan's cost of renting out his fishing boat?
+				(4 marks)
+(b)	Explain how Mr Chan's cost of renting out his fishing boat will change during fishing moratoria (休漁期).	(2 marks)
+(c)	Suppose his fish catch decreases tremendously due to pollution. Explain how this will affect Mr Chan's cost of renting out his fishing boat.	(2 marks)
+
+Answers:
+(a)	•	Opportunity cost is the highest-valued option forgone in making a choice.		(2 marks)
+	•	Mr Chan's cost of renting out his fishing boat is giving up the fish catch he could have had using his own fishing boat.	(2 marks)
+
+(b)	During fishing moratoria, Mr Chan's cost of renting out his fishing boat decreases. This is because the catch of fish he could have had using his own fishing boat decreases.	(2 marks)
+
+(c)	Mr Chan's cost of renting out his fishing boat decreases because the catch of fish he could have had using his own fishing boat falls due to pollution.	(2 marks)
+
+Question code: B1C01Q506
+Joe is searching for a job. He has three options from which to choose: being a teacher, a management trainee or a sales executive. Suppose the monthly incomes of the three jobs are the same. Joe's preferences for the jobs are as follows:
+
+1st choice: Teacher
+2nd choice: Management trainee
+3rd choice: Sales executive	
+
+Finally, Joe chooses to be a teacher.
+(a)	(i)	Define opportunity cost.	(2 marks)
+	(ii)	What is his cost of choosing to be a teacher? Explain.	(3 marks)
+(b)	Suppose later Joe finds out the workload of a teacher is very heavy. Will this change his cost of choosing to be a teacher? Explain.	(3 marks)
+(c)	At the beginning of a school year, Joe receives free textbooks from local publishers.
+	(i)	Define free goods.	(2 marks)
+	(ii)	Are these books free goods? Explain.	(3 marks)
+(d)	Classify the following items into consumption and production. Explain your answer.
+	(i)	Joe prepares notes for students at home; and	(3 marks)
+	(ii)	Joe takes his class to a country park at Tai Po for a school picnic.	(3 marks)
+
+Answers:
+(a)	(i)	Opportunity cost is the highest-valued option forgone in making a choice.					(2 marks)
+	(ii)	His cost of choosing to be a teacher is the forgone option of being a management trainee. 	(3 marks)
+
+(b)	No, this will only lower the value of being a teacher. Since the value of the highest-valued option forgone, that is, the option of being a management trainee, remains unchanged, the cost remains unchanged.	(3 marks)
+
+(c)	(i)	Free goods are goods whose available quantities are sufficient to satisfy all our wants (Or: more of them are not preferred).	(2 marks)
+	(ii)	•	No, they are not free goods. Reasons:	(1 mark)
+		•	People want more free textbooks. / There is a cost involved in the production of those free textbooks.	 (2 marks)
+
+(d)	(i)	•	It is production.	(1 mark)
+		•	Because he uses his labour, computer and printer to produce notes for his class.	(2 marks)
+	(ii)	•	It is production.	(1 mark)
+		•	Because Joe provides educational services.	(2 marks)
+
+
+Question code: B1C01Q507
+Ming is choosing pets. He can choose one of the following: a dog, a cat and a snake. Suppose the prices of the three pets are the same. Ming's preferences for the pets are as follows:
+
+1st choice: Snake
+2nd choice: Cat
+3rd choice: Dog	
+
+(a)	(i)	Define opportunity cost.	(2 marks)
+	(ii)	What is Ming's cost of choosing a snake?	(1 mark)
+(b)	Suppose Ming later finds out that the snake is poisonous. Explain whether this will affect his cost of choosing a snake.	(3 marks)
+(c)	Ming's uncle gave him a cat and a dog this summer vacation.
+	(i)	Define scarcity.	(2 marks)
+	(ii)	'Ming does not have to face scarcity anymore as his wants for a cat and a dog are satisfied.'
+		Do you agree? Explain.	(3 marks)
+(d)	Classify the following items into consumption and production. Explain your answer.
+	(i)	Ming trains his pets to perform on a TV show.	(3 marks)
+	(ii)	Ming sleeps with his pets at home.	(3 marks)
+
+Answers:
+(a)	(i)	Opportunity cost is the highest-valued option forgone in making a choice.					(2 marks)
+	(ii)	His cost of choosing a snake is giving up a cat.	(1 mark)
+
+(b)	No, this will only affect the value of choosing a snake. Since the value of the highest-valued option forgone, that is, a cat, remains unchanged, the cost remains unchanged.	(3 marks)
+
+(c)	(i)	Scarcity means we want more than we have. When our resources are insufficient to produce goods and services to satisfy our unlimited wants, scarcity exists.	(2 marks)
+	(ii)	Ming still has to face scarcity, because he will have new wants when his wants for pets are satisfied.	(3 marks)
+
+(d)	(i)	•	It is production.	(1 mark)
+		•	Because he uses his labour to train his pets.	(2 marks)
+	(ii)	•	It is consumption.	(1 mark)
+		•	Because he enjoys sleeping with his pets.	(2 marks)
+
+Question code: B1C01Q508
+Alan has recently won a $3 million lottery prize. His order of preference in spending the money is as follows:
+
+I	Buying an apartment in Ma On Shan
+II	Starting a business
+III	Buying stocks and bonds	
+
+(a)	What is opportunity cost? What is his opportunity cost of buying an apartment in Ma On Shan?	 (4 marks)
+(b)	Suppose Alan later finds commuting to and from Ma On Shan inconvenient. Will this affect his cost of buying the apartment? Explain your answer.	(2 marks)
+(c)	Suppose the estate in which Alan lives provides free shuttle bus service from Ma On Shan to Diamond Hill MTR station.
+	(i)	Define free goods.	(2 marks)
+	(ii)	Is the bus service a free good? Explain your answer.	(3 marks)
+(d)	Soon after Alan purchases the apartment, Ma On Shan Rail commences services. This has caused an increase in property prices and rent in Ma On Shan. Will this affect (i) Alan's cost of buying the apartment and (ii) his cost of living in his own apartment? Explain your answer.	(4 marks)
+
+Answers:
+(a)	•	Opportunity cost is the highest-valued option forgone in making a choice.					(2 marks)
+	•	His cost of buying the apartment is the option of starting a business.	(2 marks)
+
+(b)	•	No.	(1 mark)
+	•	Since the value of the highest-valued option forgone, that is, the value of starting a business, remains unchanged, the cost of buying the apartment remains unchanged.	(1 mark)
+
+(c)	(i)	Free goods are goods whose available quantities are sufficient to satisfy all our 
+wants (Or: more of them are not preferred). 	(2 marks)
+	(ii)	•	It is not a free good.	(1 mark)
+		•	Because costs are involved in providing them / we want more bus services.				(2 marks)
+
+(d)	(i)	•	After he has purchased the apartment, he has already spent the $3 million.
+				(1 mark)
+		•	The increase in property prices in Ma On Shan will not affect the amount spent on buying the apartment. Thus, the cost of buying the apartment will not change.	(1 mark)
+	(ii)	The cost of living in his own apartment increases as the forgone income from renting out his apartment increases.	(2 marks)
+		(Accept other reasonable answers.)
+
+Question code: B1C01Q509
+A university has recently received a $1,000,000 donation from a rich person. Its order of preference for spending the money is as follows:
+
+I	Building a new residence hall
+II	Hiring Professor Chan, a famous scholar
+III	Setting up a scholarship	
+
+(a)	What is opportunity cost? What is the opportunity cost of building a new residence hall?	(4 marks)
+(b)	Suppose the university later finds out that the occupancy rate of the new residence hall is very low. Explain whether this will affect the cost of building the new residence hall.	(2 marks)
+(c)	Suppose the university provides free residence service to all graduate students (研究生).
+	(i)	Define free goods.	(2 marks)
+	(ii)	Is the free residence service a free good? Explain your answer.	(3 marks)
+(d)	Suppose Professor Chan announces that he is not going to accept the offer due to the university's poor academic standard. Explain whether this will affect the cost of building the new residence hall.	 (4 marks)
+
+Answers:
+(a)	•	Opportunity cost is the highest-valued option forgone in making a choice.					(2 marks)
+	•	Its cost of building a new residence hall is the option of hiring Professor Chan.					(2 marks)
+
+(b)	•	No, this will only affect the value of the chosen option.	(1 mark)
+	•	Since the value of the highest-valued option forgone, that is, the value of hiring Professor Chan, remains unchanged, the cost remains unchanged.			(1 mark)
+
+(c)	(i)	Free goods are goods whose available quantities are sufficient to satisfy all our wants (Or: more of them are not preferred).	(2 marks)
+	(ii)	It is not a free good.	(1 mark)
+		Reasons:
+		•	Providing the residence hall involves cost.
+		•	More residence halls are preferred.
+		(Any ONE of the above or other reasonable answer. 2 marks)
+
+(d)	Since the option of hiring Professor Chan is no longer available, the cost of building a new residence hall becomes the option of setting up a scholarship. Since the value of setting up a scholarship is lower than that of hiring Professor Chan, the cost of building a new residence hall decreases.	(4 marks)
+
+Question code: B1C01Q510
+James owns a factory which suffered a great loss last year. Recently, he borrowed $100,000 from a bank. James's order of preference of using the money is shown below:
+
+First preference: Purchasing advanced equipment
+Second preference: Paying workers' wages
+Third preference: Investing in stocks	
+
+(a)	Define opportunity cost.	(2 marks)
+(b)	Suppose the government forbids investing the money borrowed from banks in stocks. Explain whether James's cost of choosing to pay the workers' wages would change.	(2 marks)
+(c)	James's friend, Lily says, 'James should not borrow from the bank as he needs to pay interest to borrow money from the bank, which will worsen the financial position of the factory.' Do you agree? Explain.	(3 marks)
+(d)	After learning that James's factory suffered a great loss last year, the bank raises the interest rate on the $100,000 they lend to James. How will this affect production costs at James's factory?	(2 marks)
+
+
+Answers:
+(a)	Opportunity cost is the highest-valued option forgone in making a choice.			(2 marks)
+
+(b)	•	In this case, when James chooses to pay the workers' wages, the opportunity cost is purchasing advanced equipment.	(1 mark)
+	•	In other words, whether the third preference (i.e., investing in stock) is available or not, the cost remains unchanged. 	(1 mark)
+
+(c)	•	It depends. 
+	•	To a borrower, interest is the cost of earlier availability of goods or resources.	(1 mark)
+	•	If James finds that the benefit of borrowing money (e.g., he can increase his profit by purchasing more advanced machines for production) is greater than the cost of borrowing (e.g., the interest payment), he should borrow money from the bank.	(2 marks)
+
+(d)	•	As the interest rate increases, the cost of obtaining capital increases.	(1 mark)
+	•	Therefore, the production cost at James's factory increases.	(1 mark)
+
+Question code: B1C01Q511
+Alan has been a tutor at a tutorial centre for many years. He is considering quitting his job and starting his own business. However, he is still deciding whether he should start his own tutorial centre or a restaurant.
+(a)	Define opportunity cost.	(2 marks)
+(b)	Besides the salary forgone, does Alan's resignation incur any other cost? Explain briefly with the concept of full cost.	(3 marks)
+Finally, Alan starts his own tutorial centre and runs his business in an office leased from a relative free of charge.
+(c) Alan says, 'The government should subsidise people like me who start their business for the first time.'
+	Is the statement above a normative or positive statement? Explain.	(2 marks)
+(d)	'The office provided by Alan's relative is a free good to Alan.' Do you agree? Explain.	(3 marks)
+
+
+Answers:
+(a)	Opportunity cost is the highest-valued option forgone in making a choice.			(2 marks)
+
+(b)	Yes, the full cost of quitting his job includes the salary forgone and non-monetary returns such as the job satisfaction from being a tutor. (Accept any other reasonable answers.)	(3 marks)
+
+(c)	•	Normative statement	(1 mark)
+	•	This is because his statement involves a value judgement, i.e., 'the government should'.	(1 mark)
+
+(d)	•	Disagree.	(1 mark)
+	•	More office space is preferred. / The office has alternative uses.	(2 marks)
+
+
+Question code: B1C01Q512
+Mandy recently participated in a promotional event on Facebook and was awarded a free, one-day Disneyland ticket, which costs $450. Suppose the ticket is transferable and the resale price on the internet is $182.
+(a)	Mandy says, 'Although the ticket is free-of-charge, it is NOT a free good.' Is she correct? Explain.	(3 marks)
+(b)	Suppose Peter, Mandy's friend, offers to buy Mandy's ticket for $200. How will this affect Mandy's cost of using the ticket?	(3 marks)
+(c)	This morning, Disney announced that the promotional event on Facebook was unauthorised (未獲授權) and that the free tickets given out are therefore invalid (無效的).
+	(i)	Explain how Mandy's cost of visiting Disneyland will change.	(5 marks)
+	(ii)	Mandy is interviewed by a news reporter and asked to describe the course of events. Does this belong to consumption or production? Explain.	(2 marks)
+
+Answers:
+(a)	Yes, the free ticket is not a free good because:	(1 mark)
+	•	The available quantity of free tickets is insufficient to satisfy all human wants for them. 
+	•	We prefer to have more of the free tickets. 
+	•	People are willing to pay a cost to obtain the free tickets. For example, some people spend time taking part in the Facebook event, and some offer to buy the tickets.
+	(Any ONE of the above or other reasonable answers. 2 marks)
+
+(b)	•	The cost will increase.	(1 mark)
+	•	Since the free ticket is transferable, Mandy's cost of using the ticket is the income from reselling the ticket.	(1 mark)
+	•	As Peter is willing to buy the ticket for a price higher than that on the internet, Mandy has to give up more money if she uses the ticket.	(1 mark)
+
+(c)	(i)	•	The cost will increase.	(1 mark)
+		•	Originally, Mandy could use the free ticket and thus her cost of visiting Disneyland would be the resale price of the ticket (i.e., $182), plus her time cost.	(2 marks)
+		•	However, since the free ticket became invalid, she must pay $450 to visit Disneyland. Hence, her cost of visiting Disneyland would be the ticket price, plus her time cost, which is greater than before.	(2 marks)
+	(ii)	•	Production.	(1 mark) 
+		•	This is because the interview helps transform her story and personal feelings (inputs) into news reports (outputs).	(1 mark)
+
+Question code: B1C01Q513
+Last year, Paul purchased a tablet computer and paid for it on a 12-month interest-free instalment (免息分期付款) plan. The value of the tablet was $3,888. Without the instalment plan, Paul would have had to wait one year to save enough money to buy the tablet.
+*(a)	Paul said, 'As I bought the tablet and paid in interest-free installments, it involved a zero interest cost.' Do you agree? Explain.	(5 marks)
+(b)	Paul has installed many apps on his tablet. Some are available free-of-charge. Are these free apps free goods? Explain.	(3 marks)
+(c)	Explain whether each of the following activities belongs to consumption or production.
+	(i)	Paul watches YouTube videos on his tablet for leisure.	(2 marks)
+	(ii)	Paul makes a presentation to his client with the tablet.	(2 marks)
+(d)	How will each of the following events affect his cost of using the tablet?
+	(i)	An interesting app is available for free download.	(3 marks)
+
+	*(ii)	The tablet is infected with a virus and Paul has to pay $1,500 to have it fixed before he can use or resell it.	(3 marks)
+
+
+Answers:
+(a)	•	Disagree.	(1 mark)
+	•	Interest is the compensation for deferring consumption of goods. If Paul can save money and purchase the tablet one year from now, he can earn interest from his savings.	(2 marks)
+	•	Hence, when Paul chose to buy the tablet one year earlier by paying in instalments, he gave up the interest income, which can be considered as his interest cost.	(2 marks)
+(Merely mentioning the definition of interest without further explanation: 1 mark)
+
+(b)	No.			(1 mark)
+	•	The available amount of free apps is insufficient to satisfy all human wants for them. 
+	•	We prefer to have more of these free apps. 
+	•	People are willing to pay a cost (e.g., time cost of downloading the apps) to obtain them.
+	(Any ONE of the above or other reasonable answer. 2 marks)
+
+(c)	(i)	•	Consumption because	(1 mark)
+		•	this directly satisfies Paul's wants for entertainment.	(1 mark)
+	(ii)	•	Production because	(1 mark)
+		•	Paul transforms his labour and capital (i.e., the tablet) into presentation services (output).	(1 mark)
+
+(d)	(i)	•	The cost will remain unchanged.	(1 mark)
+		•	The free app only increases the value of using the tablet. The highest-valued option forgone of using the tablet is unaffected.	(2 marks)
+	(ii)	•	The cost will remain unchanged.	(1 mark)
+		•	Paul has to pay $1,500 to fix the tablet whether he chooses to use or resell the tablet.	(1 mark)
+		•	Hence, to use the tablet, he still has to give up the income from reselling the tablet.	(1 mark)

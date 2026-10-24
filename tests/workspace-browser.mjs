@@ -2,7 +2,9 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {createRequire} from 'node:module';
 const require=createRequire(import.meta.url),{chromium}=require(process.env.PLAYWRIGHT_MODULE || 'playwright');
-const origin=process.env.TEST_URL || 'http://127.0.0.1:4174/';
+const configuredOrigin=process.env.TEST_URL || 'http://127.0.0.1:4174/';
+const origin=configuredOrigin.endsWith('/biology/')?configuredOrigin:new URL('biology/',configuredOrigin).href;
+const hubOrigin=configuredOrigin.endsWith('/biology/')?new URL('../',configuredOrigin).href:configuredOrigin;
 const browser=await chromium.launch({headless:true,channel:process.env.BROWSER_CHANNEL || 'msedge'});
 const errors=[];
 await fs.mkdir('test-results',{recursive:true});
@@ -18,7 +20,11 @@ async function imageCheck(selector){
  assert.ok(ink>100,'Document image contains content');
 }
 try{
- await page.goto(origin);await page.locator('.hub-tile').first().waitFor();
+ await page.goto(hubOrigin);await page.locator('.subject-card').first().waitFor();
+ assert.equal(await page.locator('main h1').textContent(),'Choose your study subject');
+ assert.equal(await page.locator('.subject-card').count(),2);
+ await page.locator('.biology-card').click();
+ await page.locator('.hub-tile').first().waitFor();
  assert.equal(await page.locator('main h1').textContent(),'Your study workspace');
  assert.equal(await page.locator('.hub-tile').count(),4);
  await imageCheck('.home-library img');

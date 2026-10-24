@@ -36,7 +36,7 @@ export async function exportSourcePdf({source,text,title,outputHandle=null}) {
  newPage();
  const label=String(source.name).replace(/[^\x20-\x7e]/g,'?');
  page.drawText(label,{x:46,y,size:Math.min(15,503/Math.max(1,heading.widthOfTextAtSize(label,1))),font:heading});y-=24;
- await write('Oxford question bank - text edition');
+ await write(`${source.publisher || 'Question'} question bank - text edition`);
  await write('Figures and original formatting are not included in this edition.');y-=10;
  for(const line of String(text).replace(/\r/g,'').replace(/[\x00-\x08\x0b\x0c\x0e-\x1f]/g,'').split('\n')){
   let expanded='';for(const ch of line)expanded+=ch==='\t'?' '.repeat(4-expanded.length%4):ch;
@@ -44,11 +44,11 @@ export async function exportSourcePdf({source,text,title,outputHandle=null}) {
   for(const ch of expanded){if(row && measure(row+ch)>width){const split=row.lastIndexOf(' ');if(split>row.length/2){await write(row.slice(0,split));row=row.slice(split+1);}else{await write(row);row='';}}row+=ch;}
   await write(row);
  }
- for(const [i,p] of doc.getPages().entries())p.drawText((i+1)+' / '+doc.getPageCount()+' | Oxford text edition',{x:46,y:28,size:8,font,color:rgb(.4,.4,.4)});
+ for(const [i,p] of doc.getPages().entries())p.drawText((i+1)+' / '+doc.getPageCount()+' | '+(source.publisher || 'Question')+' text edition',{x:46,y:28,size:8,font,color:rgb(.4,.4,.4)});
  doc.setTitle(title);
  await downloadBlob(new Blob([await doc.save()],{type:'application/pdf'}),safeFilename(title)+'.pdf',outputHandle);
 }
-export async function exportPaper({questions,sources,title='Biology practice paper',format='pdf',includeAnswers=false,outputHandle=null,onProgress=()=>{}}) {
+export async function exportPaper({questions,sources,title='Biology practice paper',format='pdf',includeAnswers=false,outputHandle=null,onProgress=()=>{},subjectLabel='Biology'}) {
  if(!questions.length) throw new Error('Select at least one question.');
  if(questions.length>100) throw new Error('Export up to 100 questions per paper.');
  const sourceMap=new Map(sources.map(s=>[s.id,s]));
@@ -83,7 +83,7 @@ export async function exportPaper({questions,sources,title='Biology practice pap
   };
   const textBlock=async text=>{for(const row of String(text).replace(/\t/g,'    ').split(/\r?\n/)){if(row.trim())await richLine(row);else y-=7;}};
   newPage();await richLine(title,21,bold);y-=8;
-  line(`${questions.length} questions | HKDSE Biology`,10);line('Name: __________________________   Date: __________________');y-=22;
+  line(`${questions.length} questions | HKDSE ${subjectLabel}`,10);line('Name: __________________________   Date: __________________');y-=22;
   const imageBlock=async(source,segment)=>{
    const canvas=await renderSegment(source,segment,1.7);
    const data=await (await fetch(canvas.toDataURL('image/png'))).arrayBuffer();
@@ -111,11 +111,11 @@ export async function exportPaper({questions,sources,title='Biology practice pap
     else await textBlock(q.answerText || 'No marking scheme is available in the source.');y-=15;
    }
   }
-  for(const [i,p] of pdfDoc.getPages().entries())p.drawText(`${i+1} / ${pdfDoc.getPageCount()}    Biology Bank`,{x:46,y:28,size:8,font:regular,color:rgb(.4,.4,.4)});
+  for(const [i,p] of pdfDoc.getPages().entries())p.drawText(`${i+1} / ${pdfDoc.getPageCount()}    ${subjectLabel} Bank`,{x:46,y:28,size:8,font:regular,color:rgb(.4,.4,.4)});
   await downloadBlob(new Blob([await pdfDoc.save()],{type:'application/pdf'}),`${safeFilename(title)}.pdf`,outputHandle);
  } else {
   const {Document,Packer,Paragraph,TextRun,ImageRun,HeadingLevel,PageBreak}=window.docx;
-  const children=[new Paragraph({text:title,heading:HeadingLevel.TITLE}),new Paragraph(`${questions.length} questions | HKDSE Biology`),new Paragraph('Name: __________________________   Date: __________________'),new Paragraph('')];
+  const children=[new Paragraph({text:title,heading:HeadingLevel.TITLE}),new Paragraph(`${questions.length} questions | HKDSE ${subjectLabel}`),new Paragraph('Name: __________________________   Date: __________________'),new Paragraph('')];
   const addImage=async(q,segment)=>{
    const canvas=await renderSegment(sourceMap.get(q.sourceId),segment,1.7);
    const data=new Uint8Array(await (await fetch(canvas.toDataURL('image/png'))).arrayBuffer());

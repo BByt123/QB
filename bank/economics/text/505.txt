@@ -1,0 +1,1881 @@
+Chapter 5	Determination of national income and price level (II) - changes in AD and AS
+
+Multiple Choice Questions
+
+Question code: B5C05Q001
+When there is an increase in aggregate demand,
+A.	the aggregate demand curve will shift leftwards.
+B.	the aggregate demand curve will shift downwards.
+C.	there will be a downward movement along the same aggregate demand curve.
+D.	the aggregate outputs demanded at different price levels will increase.
+
+Answer: D
+
+Question code: B5C05Q002
+A point moves along the aggregate demand curve. This can be caused by
+A.	a change in the international price level due to inflation in a foreign country.
+B.	a change in real interest rates due to a change in investment demand.
+C.	a change in the real value of wealth due to a change in the price level.
+D.	a change in consumption due to a change in price expectations.
+
+Answer: C
+Explanation
+Option C is correct. The wealth effect is used to explain the shape of the aggregate demand curve.
+
+
+Question code: B5C05Q003
+Which of the following diagrams can best represent a decrease in aggregate demand?
+
+
+Answer: C
+
+
+Question code: B5C05Q004
+Which of the following diagrams can best represent an increase in the aggregate output demanded due to a change in the general price level?
+
+
+Answer: B
+
+Question code: B5C05Q005
+Which of the following will cause an upward movement along the same aggregate demand curve?
+(1)	A decrease in consumption due to a rise in the price level
+(2)	A decrease in consumption due to a stronger desire to save
+(3)	A decrease in consumption due to a rise in disposable income
+A.	(1) only
+B.	(2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: A
+
+
+Question code: B5C05Q006
+In the long run, ________ can be caused by ________.
+A.	changes in the price level … changes in aggregate demand
+B.	changes in equilibrium real GDP … changes in short run aggregate supply
+C.	changes in the price level … changes in short run aggregate supply
+D.	changes in potential GDP … changes in aggregate demand
+
+Answer: A
+
+Question code: B5C05Q007
+Which of the following is a demand-side factor that would cause an increase in national income?
+A.	More people regard saving as a virtue (美德)
+B.	The removal of a sales tax
+C.	A fall in interest rates
+D.	More natural resources can be extracted
+
+Answer: C
+
+Question code: B5C05Q008
+Which of the following will LEAST likely raise aggregate demand?
+A.	A trading partner's national income increases.
+B.	Youths cultivate entrepreneurial skills.
+C.	Present consumption is encouraged by advertisements.
+D.	The foreign price level increases.
+
+Answer: B
+
+Question code: B5C05Q009
+Which of the following will most likely lower aggregate demand?
+A.	Increase in profits tax rates
+B.	Increase in the price level
+C.	Appreciation of foreign currencies
+D.	Heavy rain
+
+Answer: A
+
+
+Question code: B5C05Q010
+Suppose the government increases the Old Age Living Allowance (長者生活津貼) by $1,000 per month. Which of the following is correct?
+A.	This will not affect national income in the short run since the allowance is a transfer payment.
+B.	This will raise national income in the short run since the recipients' wealth increases.
+C.	This will lower aggregate demand if the recipients save part of the allowance.
+D.	This will increase aggregate demand since the allowance belongs to government consumption expenditure.
+
+Answer: B
+
+Question code: B5C05Q011
+Which of the following can result in a rightward shift of the aggregate demand curve?
+(1)	The government builds more public housing.
+(2)	The government allocates about $900 million to enhance the facilities and safety of subvented centres for the elderly (政府資助的長者中心).
+(3)	The government increases the supply of land.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C05Q012
+Which of the following can result in a rightward shift of the aggregate demand curve?
+(1)	An increase in consumption due to an increase in wealth
+(2)	An increase in investment due to a decrease in profits taxes
+(3)	An increase in net exports due to an increase in the foreign price level
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C05Q013
+* A decrease in aggregate output demanded
+A.	is represented by downward movement along the same aggregate demand curve.
+B.	must be caused by a change in the price level.
+C.	implies that real aggregate expenditure decreases at the same price level.
+D.	None of the above
+
+Answer: D
+Explanation
+Options B and C are incorrect. A decrease in aggregate output demanded may be caused by a change in the price level or changes in non-price determinants of the aggregate demand.
+
+Question code: B5C05Q014
+At the same price level, if real aggregate expenditure increases,
+(1)	there is an increase in aggregate demand.
+(2)	there is a rightward shift in the aggregate demand curve.
+(3)	there are increases in aggregate outputs demanded at different price levels.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C05Q015
+Which of the following items is NOT a non-price determinant of private consumption expenditure?
+A.	Expectations of the future price level
+B.	Desire to save
+C.	Foreign income level
+D.	Interest rates
+
+Answer: B
+
+
+Question code: B5C05Q016
+Which of the following statements is correct?
+A.	The aggregate demand curve is downward sloping in the short run but horizontal in the long run.
+B.	The aggregate demand curve shifts upwards when the general price level increases.
+C.	In the long run, the aggregate demand curve is a vertical line positioned at the full employment GDP.
+D.	An increase in aggregate demand is represented by a rightward shift of the aggregate demand curve.
+
+Answer: D
+
+Question code: B5C05Q017
+Which of the following statements is correct?
+A.	If aggregate output demanded increases, the price level will decrease.
+B.	If there is an increase in real aggregate expenditure, the aggregate demand curve must shift rightwards.
+C.	When the government raises income taxes, aggregate demand increases and the aggregate demand curve shifts rightwards.
+D.	When interest rates fall, given the same price level, both private consumption expenditure and gross investment expenditure will increase. Thus, the aggregate demand curve shifts rightwards.
+
+Answer: D
+
+
+Question code: B5C05Q018
+* Which of the following statements are INCORRECT?
+(1)	When the government lowers the unit tax of a good and given the same aggregate output demanded, the price level drops. Thus, the aggregate demand curve shifts downwards.
+(2)	When people desire to invest more, they will consume less. As a result, private consumption expenditure falls and the aggregate demand curve shifts leftwards.
+(3)	When people's wealth increases and given the same price level, individuals have a greater ability to consume. Thus, private consumption expenditure rises and the aggregate demand curve shifts rightwards.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+Explanation
+Option (1) is the answer. The decrease in unit tax will shift the short run aggregate supply curve (instead of aggregate demand curve) downwards. Moreover, the decrease in the unit tax of a particular good may only have a small (or even negligible) effect on the short run aggregate supply.
+Option (2) is the answer. When people desire to invest more, gross investment expenditure will increase. Even if they cut their consumption and save more money to finance their investment, aggregate demand may not decrease. Thus, the aggregate demand curve may not shift leftwards.
+
+Question code: B5C05Q019
+When the government ________ income taxes, people have ________ disposable income. At the same price level, private consumption expenditure and aggregate output demanded ________. The aggregate demand curve shifts leftwards.
+A.	raises; less; fall
+B.	lowers; more; rise
+C.	raises; more; rise
+D.	lowers; less; fall
+
+Answer: A
+
+Question code: B5C05Q020
+When people desire to save ________, they will save a smaller proportion of their disposable income. Hence, at the same price level, private consumption expenditure and aggregate output demanded ________. The aggregate demand curve shifts ________.
+A.	more; fall; rightwards
+B.	less; rise; rightwards
+C.	more; fall; leftwards
+D.	less; rise; leftwards
+
+Answer: B
+
+Question code: B5C05Q021
+When interest rates ________, people consume ________. Therefore, private consumption expenditure ________ and the aggregate demand curve shifts rightwards.
+A.	rise; less; falls
+B.	rise; more; rises
+C.	fall; more; rises
+D.	fall; less; falls
+
+Answer: C
+
+Question code: B5C05Q022
+When people's wealth ________, people have a ________ ability to consume. Therefore, private consumption expenditure ________ and the aggregate demand curve shifts leftwards.
+A.	increases; greater; rises
+B.	decreases; lower; falls
+C.	increases; lower; falls
+D.	decreases; greater; rises
+
+Answer: B
+
+
+Question code: B5C05Q023
+Which of the following diagrams can best illustrate the effect of a decrease in income taxes?
+
+Answer: A
+
+
+Question code: B5C05Q024
+Which of the following diagrams can best illustrate the effect of a stronger desire to save?
+
+
+Answer: D
+
+Question code: B5C05Q025
+Which of the following will lead to a decrease in aggregate demand?
+(1)	An expected fall in the price level
+(2)	An expected fall in income taxes
+(3)	An expected fall in wealth
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+Explanation
+Option (2) is incorrect. An expected fall in income taxes means that future disposable income is expected to rise. This will lead to an increase in present and future aggregate demand.
+
+Question code: B5C05Q026
+Which of the following situations will most likely decrease both private consumption expenditure and aggregate demand?
+A.	Banks lower deposit rates.
+B.	The government increases its expenditure on national education.
+C.	The government requires all bus companies to install pollution reduction devices on their buses.
+D.	It is expected that the global economy will suffer a great depression.
+
+Answer: D
+
+Question code: B5C05Q027
+Which of the following will LEAST likely increase both gross investment expenditure and aggregate demand in Hong Kong?
+A.	The government lowers profits taxes.
+B.	The government provides more social services for the poor.
+C.	The government introduces a new investor protection policy.
+D.	The government subsidises minibus operators so they can buy electric minibuses fabricated (組裝) in Hong Kong.
+
+Answer: B
+
+Question code: B5C05Q028
+Which of the following events will LEAST likely increase aggregate demand?
+A.	Researchers at Hong Kong Polytechnic University successfully develop a new solar-powered air-conditioning system for cars.
+B.	Augmented reality technology (擴增實境技術) allows textbook publishers to develop a new product at lower costs.
+C.	The government bans the sale of customers' personal data.
+D.	The government sets up a new fund to provide financial assistance to the owners of old buildings so that the old buildings can be renovated.
+
+Answer: C
+
+
+Question code: B5C05Q029
+Which of the following statements about interest rates is INCORRECT?
+A.	Interest rates are the cost of investment expressed in percentage.
+B.	When interest rates decrease, aggregate demand will increase.
+C.	When interest rates increase, the cost of investment increases. People will invest less and consume more.
+D.	When the general price level rises, other things being equal, real interest rates will increase and real gross investment expenditure will decrease.
+
+Answer: C
+Explanation
+Option C: When interest rates increase, both the costs of consumption and investment increase. As a result, both consumption and investment expenditures will decrease.
+
+Question code: B5C05Q030
+The following is a comment from a commercial chamber on Dream City.
+
+
+
+From the above comment, we can conclude that
+A.	Dream City's aggregate demand will decrease as the prospects for Dream City's economy are bad.
+B.	Dream City is at the peak of a business cycle.
+C.	Dream City has a high unemployment rate.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B5C05Q031
+Which of the following diagrams best illustrates the situation when the government increases its healthcare spending?
+
+Answer: D
+
+Question code: B5C05Q032
+Which of the following items will affect both exports and aggregate demand?
+(1)	Domestic price level
+(2)	Exchange value of domestic currency
+(3)	Foreign price level
+(4)	Exchange value of foreign currency
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(2), (3) and (4) only
+D.	All of the above
+
+Answer: C
+
+
+Question code: B5C05Q033
+Suppose the US economy suffers a downturn and the mainland faces a serious inflation problem. Which of the following situations will LEAST likely occur?
+A.	Hong Kong's aggregate demand curve shifts leftwards due to a decrease in the income level of people in the US.
+B.	Hong Kong's imports from the US increase due to a decrease in the income level of people in the US.
+C.	Hong Kong's aggregate demand curve shifts rightwards due to inflation in the mainland.
+D.	Hong Kong's imports from the mainland decrease due to inflation in the mainland.
+
+Answer: B
+
+Question code: B5C05Q034
+If the Hong Kong Dollar ________ against the Euro (歐羅), the quantity of Hong Kong's exports ________ while the quantity of Hong Kong's imports ________. As a result, Hong Kong's aggregate demand increases.
+A.	depreciates; decreases; increases
+B.	depreciates; increases; decreases
+C.	appreciates; decreases; increases
+D.	appreciates; increases; decreases
+
+Answer: B
+
+Question code: B5C05Q035
+Which of the following situations will lead to a decrease in a country's real exports?
+(1)	Depreciation of the country's currency
+(2)	Depreciation of a foreign currency
+(3)	A decrease in the country's tariffs on imports
+(4)	A decrease in the income of the country's trading partners
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: C
+
+
+Question code: B5C05Q036
+If there is a decrease in the short run aggregate supply,
+A.	the short run aggregate supply curve will shift leftwards.
+B.	the price levels at different aggregate outputs supplied will increase in the short run.
+C.	due to the sticky-cost effect, the aggregate output supplied will decrease.
+D.	potential GDP will decrease.
+
+Answer: A
+
+Question code: B5C05Q037
+There will be a downward movement along the same long run aggregate supply curve if
+A.	the sticky-cost effect occurs.
+B.	full employment real GDP decreases.
+C.	all prices are fully flexible.
+D.	the GDP deflator decreases.
+
+Answer: D
+
+Question code: B5C05Q038
+A point moves along the short run aggregate supply curve. This can be caused by
+A.	a change in wage rates.
+B.	a change in production costs.
+C.	a change in the general price level.
+D.	a change in the general sales tax rate.
+
+Answer: C
+
+
+Question code: B5C05Q039
+Which of the following diagrams can best represent a decrease in the short run aggregate supply?
+
+
+Answer: D
+
+Question code: B5C05Q040
+Which of the following statements about short run aggregate supply and long run aggregate supply is INCORRECT?
+A.	Factors causing temporary changes in aggregate supply will only affect short run aggregate supply while factors causing persistent changes in aggregate supply will only affect long run aggregate supply.
+B.	When there is an increase in factor costs, short run aggregate supply will decrease while long run aggregate supply will remain unchanged.
+C.	The short run aggregate supply curve is upward sloping while the long run aggregate supply curve is vertical.
+D.	Both shifts in the short run aggregate supply curve and the long run aggregate supply curve are caused by changes in the non-price determinants of the aggregate supply.
+
+Answer: A
+
+Question code: B5C05Q041
+A movement along the same aggregate supply curve
+A.	can only occur in the short run.
+B.	will lead to a change in the general price level.
+C.	is represented by a shift in the aggregate supply curve.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C05Q042
+At the same price level, if the aggregate output supplied decreases in the short run,
+(1)	there is a temporary decrease in the potential GDP.
+(2)	there is a decrease in the short run aggregate supply.
+(3)	there is a change in non-price determinants of the aggregate supply.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+Question code: B5C05Q043
+Which of the following is a supply-side factor that would affect national income in the long run?
+A.	A strike by workers for an increase in the minimum wage rate
+B.	Increase in oil prices
+C.	Increase in the immigration of skilled workers from overseas
+D.	Increase in income taxes
+
+Answer: C
+
+
+Question code: B5C05Q044
+Which of the following will lower aggregate demand and long run aggregate supply?
+A.	An earthquake kills many thousands of people.
+B.	People believe that Doomsday (世界末日) will arrive soon.
+C.	A major storm is predicted.
+D.	People take part in a protest against foreign goods.
+
+Answer: A
+Explanation
+Option A is the answer. The earthquake would lead to a decrease in population as well as human resources. As a result, both aggregate demand and long run aggregate supply decrease.
+Options B and C are not the answers. If Doomsday is expected, people would tend to increase present consumption, instead of saving. If a storm is expected, people would rush to buy necessities (like water, food, batteries). Hence, it is possible that both events would raise aggregate demand.
+Option D is not the answer. This does not affect long run aggregate supply.
+
+Question code: B5C05Q045
+Which of the following will NOT increase Hong Kong's long run aggregate supply?
+A.	Putting more effort into improving air quality in order to attract more foreign professionals to migrate to Hong Kong
+B.	Providing subsidies from the Continuing Education Fund (持續進修基金) to encourage further studies
+C.	Employing advanced computer systems at the stock exchange
+D.	Recovery of the US economy
+
+Answer: D
+
+
+Question code: B5C05Q046
+Which of the following statements is correct?
+A.	Short run equilibrium is determined by aggregate demand and short run aggregate supply while long run equilibrium is determined solely by long run aggregate supply.
+B.	It takes less time (within a year) for short run aggregate supply to change, while it takes a longer time (over a year) for long run aggregate supply to change.
+C.	A change in short run aggregate supply will not lead to a change in full employment output, while a change in long run aggregate supply will lead to a change in full employment output.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C05Q047
+Which of the following will change short run aggregate supply but not long run aggregate supply?
+(1)	Exceptionally good weather this year
+(2)	Discovery of a coal mine
+(3)	Increase in oil prices
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C05Q048
+Which of the following situations will most likely lead to a decrease in both Country A's short run aggregate supply and long run aggregate supply?
+A.	A massive oil spill (漏油事故) in Country A leads to a large decrease in oil supply and the worst ecological disaster in its history.
+B.	Country B temporarily imposes an embargo (禁運) on Country A's goods due to their dispute over the ownership of Fishing Island.
+C.	There are strikes (罷工) in Country A after some well-known fast food restaurants cut meal allowances for their staff.
+D.	None of the above
+
+Answer: A
+
+Question code: B5C05Q049
+Which of the following is a non-price determinant of long run aggregate supply?
+A.	Factor costs
+B.	Income taxes
+C.	Expectations of price levels
+D.	Labour quality
+
+Answer: D
+
+Question code: B5C05Q050
+Study the following newspaper cutting about Super Typhoon Megi.
+
+
+
+According to the news above, we can conclude that
+(1)	Banana Islands' real aggregate expenditure in that year decreased by US$175 million.
+(2)	Banana Islands' long run aggregate supply curve shifted leftwards.
+(3)	Banana Islands' short run aggregate supply curve shifted leftwards.
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+
+Question code: B5C05Q051
+* Which of the following statements about the introduction of minimum wage laws is INCORRECT?
+A.	The introduction of minimum wage laws will lead to a decrease in the short run aggregate supply as it makes production less profitable.
+B.	The introduction of minimum wage laws may increase the long run aggregate supply if it raises low-skilled workers' incentive to work.
+C.	The introduction of minimum wage laws will lead to an increase in aggregate demand as it will increase the disposable incomes of low-income earners.
+D.	None of the above
+
+Answer: C
+Explanation
+Option B is a correct statement. If the introduction of minimum wage laws can increase low-skilled workers' incentive to work, the supply of labour will increase and so will the potential real national income and the long run aggregate supply.
+Option C is the answer. The introduction of minimum wage laws may not lead to an increase in total wages (and thus the disposable income) of low-income earners. Total wages of low-income earners increase only if the demand for their labour is inelastic.
+
+Question code: B5C05Q052
+Which of the following policies will LEAST likely increase Hong Kong's long run aggregate supply?
+A.	The government builds a new hospital.
+B.	The government cancels the maximum length of absence allowed from Hong Kong for the Old Age Allowance (領取高齡津貼的離港限制).
+C.	The government sets up a fund for the development of self-financing post-secondary education.
+D.	The government puts more effort into anti-drug programmes.
+
+Answer: B
+
+Question code: B5C05Q053
+If a government policy has no effect on the full employment output level,
+A.	it will shift the short run aggregate supply curve.
+B.	it will not shift the short run aggregate supply curve.
+C.	it will shift the long run aggregate supply curve.
+D.	it will not shift the long run aggregate supply curve.
+
+Answer: D
+
+Question code: B5C05Q054
+In Country A, people expect that the general price level will increase. Which of the following statements are correct?
+(1)	The aggregate demand curve will shift rightwards as purchasing before the price rise can save money.
+(2)	The short run aggregate supply curve will shift leftwards as firms retain their present supplies for future sale.
+(3)	The long run aggregate supply curve will shift leftwards as more resources are hoarded for future use.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+Explanation
+Option (3) is not correct. Hoarding more resources does not imply that there is a decrease in the quantity of resources.
+
+Question code: B5C05Q055
+Which of the following statements about factor endowment is correct?
+A.	Factor endowment refers to the quantity of capital owned by an economy.
+B.	An increase in factor endowment will not affect the short run aggregate supply curve.
+C.	The quantity of factor endowment increases when real GDP increases.
+D.	When the quality of factor endowment improves, the potential GDP rises.
+
+Answer: D
+
+
+Question code: B5C05Q056
+Refer to the following diagram.
+
+Which of the following situations is LEAST likely the cause of the changes shown by the above diagram?
+A.	A decrease in the labour force
+B.	A decrease in the net investment in capital goods
+C.	A decrease in production efficiency
+D.	A decrease in the number of employed persons
+
+Answer: D
+
+Question code: B5C05Q057
+* Refer to the following diagram.
+
+Which of the following situations is most likely the cause of the change shown by the above diagram?
+A.	The government spends more money on research.
+B.	The government provides more education subsidies.
+C.	The government gives income tax rebates (退還).
+D.	The government offers more worker retraining services.
+
+Answer: C
+Explanation
+Options A, B and D are not answers. They will affect the long run aggregate supply.
+Option C is the answer. The rebate will not affect the decision on production but will stimulate consumption.
+
+Question code: B5C05Q058
+Which of the following is a demand-side factor but not a supply-side factor affecting real GDP?
+A.	The government introduces a general sales tax.
+B.	The government provides more employment services.
+C.	The government increases the old age allowance.
+D.	The government provides more sites for building container terminals.
+
+Answer: C
+
+Question code: B5C05Q059
+Which of the following events can affect both a country's short run aggregate supply and long run aggregate supply?
+(1)	Due to the arrival of Severe Typhoon Monkey, many crops were destroyed.
+(2)	The government increases a food production subsidy.
+(3)	A new supercomputer has been invented.
+(4)	More people are receiving higher education.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (3) and (4) only
+D.	All of the above
+
+Answer: B
+
+
+Question code: B5C05Q060
+* Which of the following best represents the effect of an increase in the number of infants born this year?
+
+
+Answer: D
+Explanation
+The increase in the number of infants born means the labour force in 16 years (but not this year) will increase. Therefore, (short run and long run) aggregate supply in 16 years will increase.
+On the other hand, the increase in the number of infants born means there will be more spending by people this year and 16 years from now. Therefore, aggregate demand this year and 16 years from now will increase.
+
+Question code: B5C05Q061
+If interest rates decrease, the equilibrium output will ________ and the price level will ________ in the short run.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: A
+
+Question code: B5C05Q062
+If asset prices fall sharply due to a global financial crisis, the equilibrium output will ________ in the short run and ________ in the long run.
+A.	decrease ... remain unchanged
+B.	decrease ... decrease
+C.	remain unchanged ... remain unchanged
+D.	remain unchanged ... increase
+
+Answer: A
+
+Question code: B5C05Q063
+Country A and Country B are trading partners. If the price level in Country B increases, Country A's real GDP will ________ in the short run.
+A.	increase
+B.	remain unchanged
+C.	decrease
+D.	be indeterminate
+
+Answer: A
+Explanation
+When Country B's price level increases, the products that Country B makes will become more expensive. Country B's consumers will buy a larger quantity of Country A's goods and Country A will import a smaller quantity of Country B's goods. The real value of Country A's net exports rises and Country A's aggregate demand curve will shift to the right. As a result, Country A's real GDP will increase in the short run.
+
+
+Question code: B5C05Q064
+* Which of the following would likely lower unemployment in Hong Kong?
+(1)	The Community Care Fund (CCF, 關愛基金) provides a one-off subsidy to low-income households.
+(2)	Many US businesspeople are optimistic about business prospects in the mainland of China.
+(3)	Price levels in European countries increase rapidly.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+Option (1): After receiving the subsidy, low-income households will increase their consumption. As a result, aggregate demand increases and so does real GDP. The increase in real GDP will increase employment and lower unemployment.
+Option (2): US businesspeople will increase their investment in the mainland of China. As a result, real GDP in the mainland of China will increase. The mainland of China is Hong Kong's trading partner. The increase in the mainland of China's real GDP will stimulate Hong Kong's economy and reduce unemployment here.
+Option (3): When price levels in European countries increase, products in those countries become more expensive. Consumers there will buy a larger quantity of Hong Kong's goods while Hong Kong will import a smaller quantity of goods from European countries. The real value of Hong Kong's net exports rises and the aggregate demand curve will shift to the right. As a result, Hong Kong's real GDP will increase and unemployment will decrease.
+
+Question code: B5C05Q065
+If an economy is currently at full employment, which of the following will increase unemployment in the short run?
+A.	The government removes the general sales tax.
+B.	Firms expect the price level to fall.
+C.	The central bank raises interest rates.
+D.	The government imposes a new tariff on imports.
+
+Answer: C
+
+Question code: B5C05Q066
+Output will increase in the long run if
+(1)	more professionals are trained.
+(2)	talented migrants are attracted.
+(3)	the government distributes $10,000 to every permanent resident.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C05Q067
+Study the following diagram.
+
+The difference between Y1 and Y2 can be caused by
+(1)	an increase in interest rates.
+(2)	a rise in production subsidies.
+(3)	a decrease in the price level of a trading partner
+(4)	an increase in the income of a trading partner
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: D
+
+
+Question code: B5C05Q068
+The following diagram shows the economic situation of Banana City.
+
+Suppose the initial equilibrium is Point E. If the aggregate demand curve changes to AD2, at which point will the new long run equilibrium be achieved?
+A.	Point E
+B.	Point F
+C.	Point G
+D.	Point H
+
+Answer: C
+
+
+Question code: B5C05Q069
+The following diagram shows the economic situation of Banana City.
+
+Suppose the initial equilibrium is at Point E. If the interest rate is lowered, which of the following must be correct in the long run?
+(1)	The new long run equilibrium is at Point G.
+(2)	The short run aggregate supply curve will shift from SRAS1 to SRAS2.
+(3)	The aggregate demand curve will shift from AD1 to AD2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B5C05Q070
+* The following diagram shows the economic situation of Black Cat City.
+
+Suppose the initial long run equilibrium is at Point E. Under which of the following events will the long run equilibrium change to Point F?
+(1)	The government spends more money on promoting tourism.
+(2)	The government provides more tax relief to encourage investment.
+(3)	The government introduces anti-trust laws (反壟斷法).
+(4)	The government increases transfer payments to the poor.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	(1), (2) and (4) only
+
+Answer: A
+Explanation
+The long run equilibrium will change from Point E to Point F only if there is an increase in aggregate demand but no change in the long run aggregate supply. Options (1) and (4) will increase aggregate demand without affecting the long run aggregate supply.
+
+
+Question code: B5C05Q071
+Which of the following statements is INCORRECT?
+A.	Short run equilibrium is determined by aggregate demand and the short run aggregate supply.
+B.	Long run equilibrium is determined by aggregate demand and the long run aggregate supply.
+C.	In the short run, when there is an increase in aggregate demand, both the general price level and the equilibrium real national income will increase.
+D.	In the long run, when there is a decrease in aggregate demand, both the general price level and the equilibrium real national income will remain unchanged.
+
+Answer: D
+
+Question code: B5C05Q072
+Which of the following statements about the inflationary gap and deflationary gap are INCORRECT?
+(1)	When the short run equilibrium price level is higher than the long run equilibrium price level, there is an inflationary gap.
+(2)	When the short run equilibrium real national income is smaller than the long run equilibrium real national income, there is a deflationary gap.
+(3)	When there is an inflationary gap, there is an excess demand for factors of production. Thus, in the long run, the long run aggregate supply curve will shift rightwards to close the gap.
+(4)	When there is a deflationary gap, there is an excess supply of factors of production and an excess demand for outputs. Thus, in the long run, the long run aggregate supply curve will shift leftwards to close the gap.
+A.	(1) and (3) only
+B.	(2) and (4) only
+C.	(1), (3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: C
+
+
+Question code: B5C05Q073
+The following diagram shows the economic situation of White Cat City.
+
+Which of the following statements is INCORRECT if the initial equilibrium is at Point E and there is a decrease in the short run aggregate supply to SRAS2?
+A.	The short run equilibrium is at Point H.
+B.	The long run equilibrium is at Point G.
+C.	There is no change in the long run equilibrium real national income.
+D.	There is a deflationary gap in the short run.
+
+Answer: B
+
+Question code: B5C05Q074
+Suppose an economy is originally in long run equilibrium. If ________ increases, ________ will increase in the short run and ________ will remain unchanged in the long run.
+A.	the aggregate demand; the equilibrium price level; the equilibrium price level
+B.	the short run aggregate supply; the equilibrium real GDP; the equilibrium price level
+C.	the long run aggregate supply; the equilibrium real national income; the equilibrium real GDP
+D.	the aggregate demand; the equilibrium real national income; the equilibrium price level
+
+Answer: B
+
+
+Question code: B5C05Q075
+Refer to the following diagram.
+
+Suppose the initial long run equilibrium is at Point G. If there is a decrease in the long run aggregate supply, at which point will the new long run equilibrium be achieved?
+A.	Point E
+B.	Point F
+C.	Point G
+D.	Point H
+
+Answer: A
+
+Question code: B5C05Q076 (new)
+Which of the following will cause a rightward shift in a country's aggregate demand curve?
+A.	Trading partners' price levels increase.
+B.	People want to save more.
+C.	Input prices decrease.
+D.	The country's price level decreases.
+
+Answer: A
+
+Question code: B5C05Q077 (new)
+The short run aggregate supply will increase if
+A.	there is a city-wide strike.
+B.	oil prices decrease sharply.
+C.	interest rates decrease.
+D.	businesspeople become more optimistic about business prospects.
+
+Answer: B
+
+Question code: B5C05Q078 (new)
+Which of the following will cause a leftward shift of the long run aggregate supply curve?
+(1)	Pollution of farmland by toxic chemicals
+(2)	A strike against a labour reform law
+(3)	A law limiting the number of immigrants following several terrorist attacks
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C05Q079 (new)
+The government provides more cash subsidies to poor families. This raises __________ and causes a __________ shift of the aggregate demand curve.
+A.	government consumption expenditure … leftward
+B.	government consumption expenditure … rightward
+C.	private consumption expenditure … leftward
+D.	private consumption expenditure … rightward
+
+Answer: D
+
+Question code: B5C05Q080 (new)
+Suppose a country's currency appreciates sharply. The country's __________ will increase, and the aggregate demand curve will shift __________.
+A.	volume of exports … rightwards
+B.	volume of imports … leftwards
+C.	private consumption expenditure … rightwards
+D.	national income … rightwards
+
+Answer: B
+
+
+Question code: B5C05Q081 (new)
+As China's per capita national income continues to steadily increase, more Chinese tourists are visiting Europe. This will __________ unemployment and __________ the price level of European countries in the short run.
+A.	raise … raise
+B.	raise … lower
+C.	lower … raise
+D.	lower … lower
+
+Answer: C
+
+Question code: B5C05Q082 (new)
+Which of the following policies will raise a country's output level in the short run?
+(1)	Introduction of food trucks to attract tourists
+(2)	Providing tax rebates to encourage firms to invest in environmental projects
+(3)	Reducing the tariffs on imported food
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C05Q083 (new)
+When an economy's stock market booms, the price level will __________ and the output level will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: A
+
+
+Question code: B5C05Q084 (new)
+An economy is operating at long run equilibrium. Suppose the government shuts down all of the economy's nuclear power plants (核電廠). The __________ will decrease in the short run and the price level will __________ in the long run.
+A.	aggregate demand … increase
+B.	aggregate demand … decrease
+C.	short run aggregate supply … increase
+D.	short run aggregate supply … remain unchanged
+
+Answer: C
+Explanation
+As nuclear power plants are shut down, the capacity for electricity generation decreases. The quantity of factor endowment decreases. Therefore, long run aggregate supply decreases and the price level will increase in the long run.
+
+Question code: B5C05Q085 (new)
+Study the following diagram.
+
+Which of the following would result in a movement from Point X to Point Y?
+A.	A decrease in the desire to save
+B.	A decrease in the profits tax rate
+C.	A decrease in the required reserve ratio
+D.	An increase in the tariff of a trading partner
+
+Answer: D
+
+
+Question code: B5C05Q086 (new)
+Study the following diagram.
+
+Which of the following will change the economy from Point X to Point Y?
+A.	A pessimistic stock market
+B.	Further spread of the Zika virus (寨卡病毒)
+C.	People's desire to save more to prepare for economic downturns
+D.	Increasing the salaries tax allowance for married persons
+Answer: D
+
+
+Question code: B5C05Q087 (new)
+To promote the establishment of start-ups (初創企業), the government plans to inject $5 billion into the Innovation and Technology Fund (創新及科技基金). Which of the following diagrams can best illustrate the effect of the fund injection?
+
+
+Answer: D
+
+
+Question code: B5C05Q088 (new)
+An economy moves from Point X to Point Y.
+
+Which of the following has changed?
+(1)	Nominal output
+(2)	Real output
+(3)	Potential output
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C05Q089 (new)
+An economy is facing an inflationary gap. The gap
+A.	will be relieved if there is an increase in people's disposable income.
+B.	will cause the output level to increase.
+C.	will be closed by an upward shift in the short run aggregate supply curve due to an increase in input prices.
+D.	will be widened if the economy experiences a strike.
+
+Answer: C
+
+Question code: B5C05Q090 (new)
+An inflationary gap will __________ if __________.
+A.	widen … professionals are attracted into migrating to the country
+B.	widen … it is easier for firms to obtain personal data for production 
+C.	narrow … the licence fees for restaurants are waived for one year
+D.	narrow … the subsidy on electricity fees is removed
+
+Answer: D
+
+Question code: B5C05Q091 (new)
+A small island country is initially operating at long run equilibrium. Suppose a large number of tourists are attracted to the country due to a popular movie. The __________ will increase and __________ will emerge.
+A.	aggregate demand … a deflationary gap
+B.	aggregate demand … an inflationary gap
+C.	short run aggregate supply … a deflationary gap
+D.	short run aggregate supply … an inflationary gap
+
+Answer: B
+
+Question code: B5C05Q092 (new)
+An economy initially operates at Point X.
+
+There is a/an __________, and __________ against its trading partners can help the economy reach long run equilibrium.
+A.	inflationary gap … currency appreciation
+B.	inflationary gap … currency depreciation
+C.	deflationary gap … currency appreciation
+D.	deflationary gap … currency depreciation
+Answer: D
+
+
+Question code: B5C05Q093 (new)
+Country C originally operates at Point E1 in the following diagram.
+
+Suppose a main road becomes unusable. The short run equilibrium will be at Point __________ while the long run equilibrium will be at Point __________.
+A.	A … E1
+B.	A … E2
+C.	B … E1
+D.	B … E3
+
+Answer: A
+
+
+Question code: B5C05Q094 (new)
+Study the following economy's AS-AD diagram. The economy is initially operating at Point X.
+
+Suppose oil prices have dropped drastically recently. In the short run, __________; in the long run, __________.
+A.	AD1 will shift to AD2 … AD2 will return to AD1
+B.	AD1 will shift to AD2 … SRAS1 will shift to SRAS2
+C.	SRAS1 will shift to SRAS2 … SRAS2 will return to SRAS1
+D.	SRAS1 will shift to SRAS2 … AD1 will shift to AD2
+
+Answer: C
+
+Question code: B5C05Q095 (new)
+Study the following economy's AS-AD diagram.
+
+
+The economy is operating at Point X. There is __________ and the economy will adjust to __________ under the influence of market forces.
+A.	an inflationary gap … Point Y
+B.	an inflationary gap … Point Z
+C.	a deflationary gap … Point Y
+D.	a deflationary gap … Point Z
+
+Answer: D
+
+
+Short Questions
+
+Question code: B5C05Q301
+With the aid of a diagram, explain the effect of an increase in the foreign price level on local output and the price level in the short run.	(6 marks)
+
+Answers:
+Indicate on the diagram:
+•	Rightward shift of the aggregate demand curve	(1 mark)
+•	Increase in equilibrium output and the price level in the short run	(1 mark)
+
+
+Verbal elaboration:
+•	An increase in the foreign price level means foreign products become more expensive.	(1 mark)
+•	Therefore, net exports increase.	(1 mark)
+•	As a result, aggregate demand increases, leading to an increase in output and the price level in the short run.	(2 marks)
+
+Question code: B5C05Q302
+Suppose an economy is facing unemployment. Explain with an AS-AD diagram how an income tax rebate (入息稅退稅) from the government will lower unemployment.
+	(8 marks)
+
+Answers:
+Indicate on the diagram:
+•	The original short run equilibrium output is smaller than the full employment output, indicating the economy is facing unemployment	(1 mark)
+•	Rightward shift of the aggregate demand curve	(1 mark)
+•	Increase in short run equilibrium output / The difference between full employment output and short run equilibrium output (i.e., deflationary gap) is reduced or eliminated	(1 mark)
+
+
+Verbal elaboration:
+•	Unemployment exists when the short run equilibrium output is smaller than the full employment output (Yf).	(1 mark)
+•	The income tax rebate will increase people's disposable income. This will increase private consumption expenditure.	(2 marks)
+•	Therefore, aggregate demand increases, leading to an increase in short run output.	(1 mark)
+•	The difference between full employment output and short run equilibrium output decreases (from YfY1 to YfY2), meaning a decrease in unemployment.	(1 mark)
+
+
+Question code: B5C05Q303
+As a result of quantitative easing (QE) (量化寬鬆措施) in the US, the Hong Kong dollar depreciated against the renminbi.
+(a)	Briefly explain why QE would increase both Hong Kong's real income and price level in the short run.	(3 marks)
+(b)	As a Hong Kong resident, would you welcome QE in the US? Give ONE reason.	(2 marks)
+
+Answers:
+(a)	When the Hong Kong dollar depreciates against the renminbi as a result of QE, Hong Kong's products become cheaper in renminbi.	(1 mark)
+	Therefore, Hong Kong's net exports increase and this increases Hong Kong's aggregate demand.	(2 marks)
+	As a result, both Hong Kong's real income and price level increase in the short run.
+(b)	I would welcome QE. This is because QE increases Hong Kong's real income, which means unemployment is lower in the short run.
+OR
+	I would not welcome QE.
+The increase in real income is caused by an increase in net exports. This cannot improve current economic welfare.
+	(Choose either ONE stand. Explain with ONE relevant reason. 2 marks)
+
+Question code: B5C05Q304
+Explain whether the following events will lead to a shift in the aggregate demand curve or a movement along the aggregate demand curve.
+(a)	An increase in income taxes	(2 marks)
+(b)	An increase in real consumption expenditure due to the wealth effect of a decrease in the price level	(2 marks)
+(c)	An increase in real exports due to a decrease in the domestic price level	(2 marks)
+
+Answers:
+(a)	After an increase in income taxes, people will have less disposable income. Thus, given the same price level, the aggregate output demanded drops. Aggregate demand decreases and the aggregate demand curve shifts leftwards.	(2 marks)
+(b)	The wealth effect is caused by a decrease in the general price level. Thus, there is a downward movement along the aggregate demand curve.	(2 marks)
+
+(c)	As the increase in real exports is caused by a decrease in the domestic price level, there is a downward movement along the aggregate demand curve.	(2 marks)
+
+Question code: B5C05Q305
+Explain whether the following events will affect real aggregate expenditure. If they will, state which components they affect and how the aggregate demand curve shifts.
+(a)	The government reduces profits taxes.	(3 marks)
+(b)	The central bank increases interest rates.	(3 marks)
+(c)	It is expected that the economy will experience a recession.	(3 marks)
+
+Answers:
+(a)	When the government reduces profits taxes, it is more profitable for firms to invest. At the same price level, real gross investment expenditure increases and so does real aggregate expenditure.	(2 marks)
+As a result, the aggregate demand curve shifts rightwards.	(1 mark)
+(b)	When interest rates rise, the cost of present consumption and investment increases. Thus, given the same price level, real private consumption expenditure and real gross investment expenditure decrease, and so does real aggregate expenditure.
+	(2 marks)
+As a result, the aggregate demand curve shifts leftwards.	(1 mark)
+(c)	When firms are pessimistic about economic prospects, they will cut their investment. Thus, real gross investment expenditure decreases and so does real aggregate expenditure.	(2 marks)
+As a result, the aggregate demand curve shifts leftwards.	(1 mark)
+
+Question code: B5C05Q306
+(a)	What is aggregate demand?	(2 marks)
+(b)	What will happen to the aggregate demand curve if there is a decrease in the foreign price level? Explain with the aid of a diagram.	(5 marks)
+(c)	Do we have the same result as in (b) if there is an increase in the domestic price level (and thus the foreign price level becomes relatively lower)? Show your answer in a diagram.	(3 marks)
+
+Answers:
+(a)	Aggregate demand is the relation between price levels and the aggregate outputs demanded in an economy. It describes the aggregate outputs demanded at different price levels, holding other factors constant.	(2 marks)
+
+(b)	When the price level of our trading partners decreases, foreign products become cheaper relative to our products. Foreigners buy a smaller quantity of our exports while we import a larger quantity of foreign goods.	(2 marks)
+Hence, at the same domestic price level, net exports decrease.	(1 mark)
+As a result, the domestic aggregate demand curve shifts leftwards.	(1 mark)
+	(1 mark)
+(c)	No. There is an upward movement along the aggregate demand curve as the decrease in aggregate output demanded is caused by an increase in the domestic price level.	(2 marks)
+	(1 mark)
+
+Question code: B5C05Q307
+Suppose there are only two countries: Monkey Island (MI) and Weapon States (WS). They are close trading partners. The currency of MI (called Bana) appreciates against the currency of WS (called Dona) because the WS government prints a large amount of money in order to increase its expenditure.
+(a)	How does the appreciation of Bana affect the real national income of MI in the short run? Explain with a diagram.	(8 marks)
+(b)	How does the increase in the WS government's expenditure affect the real national income of WS in the short run? Explain with a diagram.	(5 marks)
+
+
+Answers:
+(a)	When Bana appreciates against Dona, people in WS have to use more units of Dona to buy MI's exports while people in MI can use fewer units of Bana to buy MI's imports.	(2 marks)
+Thus, MI's real exports decrease while MI's real imports increase.	(2 marks)
+As a result, MI's aggregate demand curve will shift leftwards.	(1 mark)
+The real national income of MI will decrease in the short run.	(1 mark)
+	(2 marks)
+
+(b)	When the WS government increases its expenditure, aggregate demand increases and so the aggregate demand curve will shift rightwards.	(2 marks)
+The real national income of WS will increase in the short run.	(1 mark)
+	(2 marks)
+
+Question code: B5C05Q308
+In Apple City, because consumerism (消費主義) is advocated, people save less and consume more. With the aid of a diagram, explain how this affects the short run equilibrium real national income and price levels.	(7 marks)
+
+
+Answers:
+If people desire to save less, they will consume a larger proportion of their disposable income. Hence, private consumption expenditure increases and so does aggregate demand.	(2 marks)
+The aggregate demand curve shifts rightwards.	(1 mark)
+In the short run, both equilibrium real national income and price level will increase.
+	(2 marks)
+	(2 marks)
+
+Question code: B5C05Q309
+With the aid of diagrams, explain how the following events will affect real national income and price level in the short run.
+(a)	Our disposable income increases due to a tax rebate.	(7 marks)
+(b)	Our trading partner's national income decreases.	(7 marks)
+
+Answers:
+(a)	When people have more disposable income, they will increase their private consumption expenditure. At the same price level, aggregate output demanded rises.	(2 marks)
+Hence, aggregate demand increases and the aggregate demand curve shifts rightwards.	(1 mark)
+As a result, both real national income and the price level increase.	(2 marks)
+	(2 marks)
+
+(b)	When our trading partner's national income decreases, it will consume less. As its decreased consumption includes our exports, the real value of our exports decreases.	(2 marks)
+Hence, the domestic aggregate demand decreases and the domestic aggregate demand curve shifts leftwards.	(1 mark)
+As a result, both real national income and the price level decrease.	(2 marks)
+	(2 marks)
+
+Question code: B5C05Q310
+The Hong Kong government has implemented the Admission Scheme for Mainland Talents and Professionals (輸入內地人才計劃) to attract qualified Mainlanders to migrate to Hong Kong to work. With the aid of a diagram, briefly explain the supply-side effect of the scheme on Hong Kong's output and price level in the long run.	(5 marks)
+
+
+Answers:
+Indicate on the diagram:
+•	Rightward shift of the long run aggregate supply curve	(1 mark)
+•	Increase in output and decrease in the price level	(1 mark)
+
+
+Verbal elaboration:
+•	The scheme improves the quality and quantity of Hong Kong's labour force.
+	(1 mark)
+•	Therefore, the long run aggregate supply increases.	(1 mark)
+•	As a result, the output level increases while the price level decreases in the long run.	(1 mark)
+
+Question code: B5C05Q311
+(a)	State TWO supply-side factors that increase national income in the short run only.
+	(2 marks)
+(b)	State TWO supply-side factors that increase national income in the long run.
+	(2 marks)
+
+Answers:
+(a)	The factors include:
+	•	decrease in factor costs
+	•	favourable supply shock
+	•	decrease in general sales taxes / increase in production subsidies
+	•	businesspeople expect the price level to fall
+(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+(b)	The factors include:
+	•	increase in quantity of factors
+	•	improvement in quality of factors
+	•	technological advancement
+(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B5C05Q312
+Electricity tariffs in Hong Kong have increased recently. With the aid of an AS-AD diagram, briefly explain the effect of the increase in electricity tariffs on Hong Kong's real GDP and price level in the short run.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of the short run aggregate supply curve	(1 mark)
+•	Decrease in real GDP and increase in the price level	(1 mark)
+
+
+Verbal elaboration:
+•	The increase in electricity tariffs will increase the cost of production.	(1 mark)
+•	As a result, firms will reduce their output and the short run aggregate supply curve will shift leftwards.	(1 mark)
+•	The price level will increase and the real GDP will decrease in the short run.
+	(1 mark)
+
+Question code: B5C05Q313
+An economy is operating at full employment. Suppose the only railway network in the economy closes for one week after a fire at the station. Would there be an inflationary gap or a deflationary gap in the short run? Explain with a well-labelled diagram.
+	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of the short run aggregate supply curve	(1 mark)
+•	New short run equilibrium real GDP is lower than the full employment level / Deflationary gap exists	(1 mark)
+
+
+Verbal elaboration:
+•	The temporary closure of the railway network decreases the short run aggregate supply. The short run aggregate supply curve shifts leftwards.	(1 mark)
+•	This lowers the short run equilibrium real GDP from Yf to Ye.	(1 mark)
+•	As a result, a deflationary gap exists in the short run as the short run equilibrium real GDP (Ye) is lower than the full employment level (Yf).	(1 mark)
+
+Question code: B5C05Q314
+Briefly explain whether the following events in Country A will affect its short run aggregate supply and long run aggregate supply.
+(a)	A spill (漏油事故) leads to permanent environmental damage.	(3 marks)
+(b)	A 10-year drought causes persistent crop failure. Famine (饑荒) causes half of the population to die.	(3 marks)
+
+Answers:
+(a)	The environmental damage will lower both the quantity and the quality of land (a type of factor of production). Thus, both the short run aggregate supply and the long run aggregate supply will decrease.	(3 marks)
+
+(b)	The decrease in population implies that the quantity of labour available decreases. Thus, both the short run aggregate supply and the long run aggregate supply decrease.	(3 marks)
+
+Question code: B5C05Q315
+Explain whether the following events will lead to a shift in the short run aggregate supply curve or a movement along the short run aggregate supply curve.
+(a)	A rise in the general sales tax leads to a once-and-for-all rise in the general price level.	(3 marks)
+(b)	Businesspeople expect stock prices to rise. 	(3 marks)
+
+Answers:
+(a)	A shift in the short run aggregate supply curve	(1 mark)
+Reason: A rise in the general sales tax will raise production costs. At the same price level, firms have to cut their outputs. Therefore, the short run aggregate supply decreases and thus the short run aggregate supply curve shifts leftwards.
+	(2 marks)
+(b)	A shift in the short run aggregate supply curve	(1 mark)
+Reason: To earn more money, businesspeople will invest less in capital goods and put more money into the stock market. Thus, fewer capital goods will be available. As a result, the short run aggregate supply curve will shift leftwards.	(2 marks)
+(Accept any other reasonable answer.)
+
+Question code: B5C05Q316
+Read the following news report on Country X's economy.
+
+Ming said, 'Some fresh graduates are unemployed. This implies that the labour market is not efficient. The long run aggregate supply will decrease and the long run aggregate supply curve will shift leftwards.'
+Do you agree? Explain your answer.	(5 marks)
+
+
+Answers:
+No.	(1 mark)
+In the short run, there may be the problem of unemployment. However, in the long run, the problem will be settled. The existence of unemployment in the short run does not imply the labour market is inefficient.	(2 marks)
+The long run aggregate supply is determined by the quantity of available factors, instead of employed factors. The unemployment of fresh graduates will not affect the quantity of labour available and so it has no effect on the long run aggregate supply and the long run aggregate supply curve.	(2 marks)
+
+Question code: B5C05Q317
+In Country A, there is an investment entrant scheme (投資入境計劃). Suppose the government increases the threshold (門檻) of investment for admission to Country A. Briefly explain how this will affect the aggregate supply and the long run equilibrium real national income of Country A. (To simplify, no need to consider the demand-side effects.)	(4 marks)
+
+Answers:
+The increase in the threshold will restrict the admission of quality migrants. As a result, Country A will have fewer high quality migrants.	(1 mark)
+The quantity of labour will be lower (than the situation without increasing the threshold).	(1 mark)
+The long run aggregate supply will be lower (than the situation without increasing the threshold).	(1 mark)
+The long run equilibrium real national income is determined by the long run aggregate output supplied. As the long run aggregate output supplied is lower, the long run equilibrium real national income will be lower (than the situation without increasing the threshold).	(1 mark)
+
+Question code: B5C05Q318
+With the aid of a diagram, explain how a typhoon will affect the equilibrium real GDP and price level of Hong Kong in the short run and long run. Describe the adjustment process from the short run to the long run as well.	(11 marks)
+
+Answers:
+A typhoon will affect the aggregate output supplied without affecting the full employment output level. Thus, it will only shift the short run aggregate supply curve leftwards.	(1 mark)
+Suppose the economy is initially at Point A.
+In the short run, the equilibrium real GDP will decrease from Yf to YS2 and the equilibrium price level will increase from P1 to PS2.	(2 marks)
+In the long run, since the short run equilibrium real GDP (YS2) is smaller than the full employment real GDP (Yf), there is a deflationary gap and an excess supply of inputs.	(2 marks)
+Input prices will decrease and this will shift the short run aggregate supply curve downwards until the deflationary gap is closed and long run equilibrium is achieved.	(1 mark)
+As a result, both the equilibrium real GDP (Yf) and equilibrium price level (P1) will be restored to the original level in the long run.	(2 marks)
+	(3 marks)
+
+Question code: B5C05Q319
+How will the real national income and price level change in the short run and long run if both the short run aggregate supply and the long run aggregate supply decrease? Explain with the aid of a diagram.	(7 marks)
+
+Answers:
+Suppose initially the aggregate demand curve, short run and long run aggregate supply curves intersect with each other at Point A.
+When the short run aggregate supply decreases from SRAS1 to SRAS2, the price level increases from P1 to PS2 but the real national income decreases from Yf1 to YS2 in the short run.	(2 marks)
+When the long run aggregate supply decreases from LRAS1 to LRAS2, the price level increases from P1 to PL2 while the real national income decreases from Yf1 to Yf2 in the long run.	(2 marks)
+	(3 marks)
+
+Question code: B5C05Q320
+To save money, many Hong Kong people used to go to Shenzhen to shop because the prices of goods in Shenzhen were far cheaper than those in Hong Kong. Because of inflation in the mainland and the appreciation of the renminbi, fewer Hong Kong people shop in Shenzhen while some people from Shenzhen now travel to Hong Kong to shop.
+With the aid of a diagram, explain how the above event affects the equilibrium real GDP and price level of Hong Kong in the short run and long run. Describe the adjustment process from the short run to the long run as well.	(13 marks)
+
+Answers:
+Because of inflation in the mainland and appreciation of the renminbi, goods in the mainland have become more expensive relative to Hong Kong's goods. Thus, people in the mainland will buy a larger quantity of Hong Kong's exports while Hong Kong people will import a smaller quantity of goods from the mainland. As a result, the real value of Hong Kong's net exports will increase.	(2 marks)
+The aggregate demand will increase and the aggregate demand curve shifts rightwards.	(1 mark)
+In the short run, both the equilibrium real GDP and price level will increase.	(2 marks)
+In the long run, as the short run equilibrium real GDP (YS2) is larger than the full employment real GDP (Yf), there is an inflationary gap and an excess demand for inputs. Input prices will rise. The rise in input prices shifts the short run aggregate supply curve upwards (from SRAS1 to SRAS2) until the inflationary gap is closed.
+	(3 marks)
+As a result, the equilibrium real GDP will be restored to Yf and the equilibrium price level rises from P1 to PL2 in the long run.	(2 marks)
+	(3 marks)
+
+Question code: B5C05Q321
+Determine whether the following items are a demand-side factor or / and a supply-side factor affecting Hong Kong's GDP, and briefly explain how Hong Kong's equilibrium real GDP will change in the short run.
+(a)	There is a boom in the US stock market. 	(3 marks)
+(b)	Under CEPA (內地與香港關於建立更緊密經貿關係的安排), the mainland of China imposes zero tariffs on Hong Kong's products.	(3 marks)
+(c)	Electricity prices for commercial use rises.	(3 marks)
+
+Answers:
+(a)	Demand-side factor	(1 mark)
+As the wealth of people in the US increases, they will spend more on imported goods from Hong Kong. Thus, Hong Kong's real exports will increase and so will Hong Kong's equilibrium real GDP.	(2 marks)
+(b)	Demand-side factor	(1 mark)
+Due to zero tariffs, the prices of Hong Kong's products in the mainland of China will be lower. Thus, Hong Kong's real exports will increase and so will Hong Kong's equilibrium real GDP.	(2 marks)
+(c)	Supply-side factor	(1 mark)
+At the same price level, an increase in electricity prices would make firms reduce their outputs. The short run aggregate supply will decrease and so will Hong Kong's equilibrium real GDP.	(2 marks)
+
+
+Question code: B5C05Q322
+(a)	What is an inflationary gap?	(2 marks)
+(b)	How will the price level change when there is an inflationary gap? Explain with the aid of a diagram.	(7 marks)
+
+Answers:
+(a)	An inflationary gap refers to a situation when the short run equilibrium real national income is greater than the full employment real national income.
+	(2 marks)
+(b)	When there is an inflationary gap (at Point A), an excess demand for inputs occurs. Input prices will rise. The short run aggregate supply curve shifts upwards until the inflationary gap is closed.	(3 marks)
+As a result, the price level will increase.	(1 mark)
+	(3 marks)
+
+Question code: B5C05Q323
+John said, 'Other things being equal, an increase in the output level of an economy must be accompanied by an increase in the factor employment level. Thus, if there is an increase in real national income, the unemployment rate of labour will decrease.' Comment.	(4 marks)
+
+Answers:
+Other things being equal, firms need to employ more factors of production in order to raise the output level. Thus, factor employment and output level are positively related. The first statement is correct.	(2 marks)
+The second statement is incorrect. If the percentage increase in the quantity of labour available is greater than the percentage increase in the quantity of labour employed, the unemployment rate of labour will increase.	(2 marks)
+(Accept other reasonable answer.)
+
+Question code: B5C05Q324 (new)
+Between 2014 and 2015, the Japanese yen depreciated against major foreign currencies. With the aid of an AS-AD diagram, explain the short run effects on Japan's economy.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Rightward shift in aggregate demand curve	(1 mark)
+•	Increases in price level and output level	(1 mark)
+
+Verbal elaboration:
+•	As the Japanese yen depreciated, Japan's volume of exports increased and its volume of imports decreased. Hence, Japan's net exports increased.	(1 mark)
+•	The aggregate demand increased from AD1 to AD2.	(1 mark)
+•	In the short run, the price level increased from P1 to P2 and the output level increased from Y1 to Y2.	(1 mark)
+
+Question code: B5C05Q325 (new)
+Country C and Country G are heavily-industrialised economies which are major consumers of steel in the international market. Country C is suffering from an economic downturn, therefore its demand for steel has decreased sharply.
+(a)	Explain how the price of steel will change in the international market.	(2 marks)
+(b)	With the aid of an AS-AD diagram, explain the effects of the change in steel price on the price and output levels of Country G in the short run.	(4 marks)
+
+Answers:
+(a)	As Country C's demand for steel decreases, the steel price in the international market decreases.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Rightward shift in short run aggregate supply curve	(1 mark)
+	•	Decrease in price level and increase in output level	(1 mark)
+	
+	Verbal elaboration:
+	•	As the steel price (i.e., an input price) decreases, Country G's short run aggregate supply increases from SRAS1 to SRAS2.	(1 mark)
+	•	In the short run, the price level decreases from P1 to P2 and the output level increases from Y1 to Y2.	(1 mark)
+
+Question code: B5C05Q326 (new)
+Businessmen believe investing in Country H carries more political risks.
+With the aid of an AS-AD diagram, explain how the above event affects Country H's output and price levels in the short run.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift in aggregate demand curve	(1 mark)
+•	Decrease in output level and price level	(1 mark)
+
+Verbal elaboration:
+•	Businessmen will be less willing to invest in Country H. This lowers its investment expenditure and aggregate demand.	(1 mark)
+•	In the short run, Country H's output level and price level will decrease.	(1 mark)
+
+Question code: B5C05Q327 (new)
+The mainland of China and Macau are close trading partners. Some people believe the mainland will face an economic downturn. Explain, with the aid of a diagram, the short run effect on Macau's output and price levels as a result of an economic downturn in the mainland.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of aggregate demand curve	(1 mark)
+•	Decrease in both output and price levels	(1 mark)
+
+Verbal elaboration:
+The mainland's economic downturn lowers Macau's net exports,	(1 mark)
+and thus Macau's aggregate demand decreases.	(1 mark)
+Therefore, Macau's output and price levels decrease in the short run.	(1 mark)
+
+Question code: B5C05Q328 (new)
+Country Q is a small island country. Due to global warming, 30% of the land in Country Q has been submerged (淹沒). With the aid of an AS-AD diagram, explain the long run effect of the above event on Country Q's economy.	(5 marks)
+
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of long run aggregate supply curve	(1 mark)
+•	Decrease in output and increase in price level	(1 mark)
+
+Verbal elaboration:
+•	As some of the land is submerged, the amount of natural resources in Country Q decreases.	(1 mark)
+•	Therefore, long run aggregate supply decreases.	(1 mark)
+•	As a result, output level decreases while the price level increases in the long run.
+	(1 mark)
+
+Question code: B5C05Q329 (new)
+To develop its Far East, the Russian government has offered each citizen one hectare of land free of charge, as long as they use the assigned land. The plan has attracted some residents of the United Kingdom and China into migrating to Russia.
+With the aid of a diagram, explain the long run effect of the land-offer scheme on Russia's aggregate output.	(8 marks)
+
+Answers:
+Indicate on the diagram:
+•	Rightward shift of aggregate demand curve	(1 mark)
+•	Rightward shift of vertical long run aggregate supply curve	(1 mark)
+•	Increase in aggregate output	(1 mark)
+
+Verbal elaboration:
+The land-offer scheme stimulates investment in Russia's Far East.	(1 mark)
+Gross investment expenditure, and thus aggregate demand, increase.	(1 mark)
+The development of Russia's Far East and immigration of foreign residents increase the quantity of factor endowment.	(1 mark)
+Long run aggregate supply increases.	(1 mark)
+Output level increases in the long run.	(1 mark)
+
+Question code: B5C05Q330 (new)
+Country A faces the problem of unemployment. People suggest that the government should adopt protectionist policies on imported goods to solve the problem. Explain how this policy may work, using an AS-AD diagram.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Original unemployment at short run equilibrium (Y1 < Yf)	(1 mark)
+•	Rightward shift of the aggregate demand curve	(1 mark)
+•	Increase in output level to Yf	(1 mark)
+
+
+Verbal elaboration:
+Protectionist policies will raise net exports and aggregate demand.	(1 mark)
+Output level may increase to the full employment output level, solving the problem of unemployment.	(1 mark)
+
+Question code: B5C05Q331 (new)
+Country K is facing a high risk of terrorist attacks. Businesspeople are pessimistic about the country's business prospects.
+(a)	With the aid of an AS-AD diagram, explain how the risk of terrorist attacks affects Country K's price and output levels in the short run.	(5 marks)
+(b)	Suppose Country K's government raises its production subsidies to firms. Using the same diagram in (a), explain whether the measure can offset the effects on the price and output levels you described in (a).	(6 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Leftward shift in aggregate demand curve	(1 mark)
+	•	Decreases in price level and output level	(1 mark)
+	Verbal elaboration:
+	•	Investment expenditure decreases due to pessimistic business prospects.
+	(1 mark)
+	•	Aggregate demand decreases from AD1 to AD2.	(1 mark)
+	•	The price level decreases from P1 to P2 and output level decreases from Y1 to Y2.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Rightward shift in short run aggregate supply curve	(1 mark)
+	•	Decrease in price level and increase in output level	(1 mark)
+
+	Verbal elaboration:
+	•	No.	(1 mark)
+	•	An increase in production subsidies reduces production costs.	(1 mark)
+	•	Short run aggregate supply increases from SRAS1 to SRAS2.	(1 mark)
+	•	The output level returns to the original level, but the price level further decreases.	(1 mark)
+
+Question code: B5C05Q332 (new)
+Japan is initially at the short run equilibrium at Point E.
+
+(a)	From the diagram above, what economic problem does Japan face? Explain.
+	(2 marks)
+(b)	The British pound depreciated against the Japanese yen when the United Kingdom voted to leave the European Union. With the aid of the above diagram, explain whether the depreciation of the pound may help Japan return to its long run equilibrium output level.	(5 marks)
+
+Answers:
+(a)	Unemployment, because	(1 mark)
+	there is a deflationary gap / the short run equilibrium output level (Y1) is smaller than the full employment output level (Yf).	(1 mark)
+(b)	Indicate on the diagram:
+	•	Leftward shift of AD curve	(1 mark)
+	•	Decrease in output level	(1 mark)
+	
+	Verbal elaboration:
+	No.	(1 mark)
+	The depreciation of the British pound (i.e., appreciation of Japanese yen) will lower Japan's net exports. Japan's aggregate demand will decrease. So, the output level will decrease further from the potential output (Yf).	(2 marks)
+
+Question code: B5C05Q333 (new)
+Hong Kong had originally faced a deflationary gap, as shown in the following diagram.
+
+(a)	The Hong Kong government often provides tax rebates for salaries tax as a relief measure. WITHOUT using a diagram, explain how the above tax measure can help Hong Kong reach Yf.	(2 marks)
+(b)	Even without the above tax measure, Hong Kong can still reach Yf in the long run. Explain with the aid of the above diagram.	(4 marks)
+
+
+Answers:
+(a)	The measure can raise people's disposable income, resulting in an increase in private consumption expenditure and aggregate demand. The short run equilibrium output will increase to Yf.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Downward shift of the short run aggregate supply curve	(1 mark)
+	•	Increase in aggregate output	(1 mark)
+	
+	Verbal elaboration:
+	With the deflationary gap, there is an excess supply of inputs.	(1 mark)
+	This will lower input prices. The short run aggregate supply curve will shift downwards, until the aggregate output reaches Yf in the long run.	(1 mark)
+
+Question code: B5C05Q334 (new)
+The following shows Hong Kong's economic situation.
+
+Many people suffer losses from their investments when there is financial market instability. With reference to the market adjustment mechanism from the short run to the long run equilibrium, explain the long run effect of the above event on Hong Kong's price level, using the above diagram.	(9 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of aggregate demand curve	(1 mark)
+•	Decrease in price level in the short run	(1 mark)
+•	Rightward shift of short run aggregate supply curve	(1 mark)
+•	Further decrease in price level to reach long run equilibrium	(1 mark)
+
+Verbal elaboration:
+As people suffer losses from their investments, private consumption expenditure decreases, and so does aggregate demand.	(1 mark)
+Both price and output levels decrease in the short run.	(1 mark)
+The resulting deflationary gap will eventually lower input prices.	(1 mark)
+The short run aggregate supply will increase until the deflationary gap is closed.
+	(1 mark)
+The price level will drop further in the long run.	(1 mark)
+
+Question code: B5C05Q335 (new)
+Economy X is facing an inflationary gap.
+(a)	Use an AS-AD diagram to show the current situation of Economy X.	(2 marks)
+(b)	With the aid of the diagram in (a), explain how market forces can help eliminate the inflationary gap.	(5 marks)
+
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Short run output level (Y1) > Full employment output level (Yf)	(2 marks)
+(b)	Indicate on the diagram:
+	•	Upward shift in short run aggregate supply curve	(1 mark)
+	•	Decrease in output level to the full employment level	(1 mark)
+	Verbal elaboration:
+	•	As there is an inflationary gap (Y1 > Yf), the excess demand for inputs raises input prices.	(1 mark)
+	•	Therefore, the costs of production increase.	(1 mark)
+	•	The short run aggregate supply decreases from SRAS1 to SRAS2. The inflationary gap is closed and the full employment output level is attained.
+	(1 mark)
+
+Question code: B5C05Q336 (new)
+Country A is initially at long run equilibrium. Suppose property prices in Country A decrease rapidly.
+(a)	With the aid of an AS-AD diagram, explain the short run effects of the above event.	(5 marks)
+(b)	Using the same diagram in (a), explain how the economy adjusts to long run equilibrium under the market mechanism.	(6 marks)
+
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Leftward shift in aggregate demand curve	(1 mark)
+	•	Decreases in price level and output level	(1 mark)
+	Verbal elaboration:
+	•	The decrease in property prices causes people's wealth to decrease. Consumption expenditure decreases and thus aggregate demand decreases from AD1 to AD2.	(2 marks)
+	•	In the short run, the price level decreases from P1 to P2 and the output level decreases from Yf to Y2.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Rightward shift in short run aggregate supply curve	(1 mark)
+	•	Further decrease in price level and increase in output level	(1 mark)
+	Verbal elaboration:
+	•	Country A faces a deflationary gap. The excess supply of inputs drives down input prices.	(2 marks)
+	•	Short run aggregate supply increases from SRAS1 to SRAS2.	(1 mark)
+	•	In the long run, the price level further decreases to P3 and the output level returns to the full employment output level (Yf).	(1 mark)
+
+Question code: B5C05Q337 (new)
+Between 2015 and 2016, Brazil's economy was badly hit by the Zika virus (寨卡病毒). Unemployment rate was high. In August 2016, Brazil hosted the Olympic Games. Visitors from around the world went to Brazil to watch the games.
+(a)	With the aid of an AS-AD diagram, explain how the Olympic Games could have relieved unemployment in Brazil in 2016.	(6 marks)
+
+(b)	Without using a diagram, explain how market forces could restore the output level to long run equilibrium even if Brazil did not host the Olympic Games.
+	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	•	Short run output level (Y1) < Full employment output level (Yf)	(1 mark)
+	•	Rightward shift in aggregate demand curve	(1 mark)
+	•	Increase in output level	(1 mark)
+	
+	Verbal elaboration:
+	•	More visitors travelled to Brazil because of the Olympic Games. Exports of services increased.	(1 mark)
+	•	The aggregate demand increased from AD1 to AD2.	(1 mark)
+	•	As a result, the output level increased. Hence, unemployment was relieved.		(1 mark)
+(b)	A deflationary gap existed when there was unemployment.	(1 mark)
+	The excess supply of inputs would cause input prices to decrease.	(1 mark)
+	Therefore, the costs of production would decrease.	(1 mark)
+	The short run aggregate supply would increase and the output level would be restored to long run equilibrium.	(1 mark)
+
+
+
+Structured Questions
+
+Question code: B5C05Q501
+Per capita real GDPs of most countries were relatively stable in human history until the Industrial Revolution (工業革命), after which per capita real GDPs increased dramatically. The Industrial Revolution changed the production method from hand-made to machine-manufactured and created many new business opportunities.
+(a)	The Industrial Revolution facilitated specialisation. Briefly explain TWO advantages of specialisation.	(4 marks)
+*(b)	Explain, with the aid of TWO separate diagrams, how the Industrial Revolution affected real GDP in the short run and long run, respectively. (Hint: You should consider both demand-side and supply-side factors.)	(12 marks)
+(c)	It has been said that many people suffered from a severe reduction in their standard of living during the Industrial Revolution. Give TWO reasons to account for the inability of per capita real GDP to reflect this situation.	(4 marks)
+
+Answers:
+(a)	The advantages include:
+	•	Assigning the right person to do the right job: This can increase productivity.
+	•	Practice makes perfect: As workers do the same job repeatedly, their productivity increases.
+	•	Saving time in training: As each worker focuses only on a part of the production process, training time for workers can be reduced.
+	•	Saving time in shifting from one part of a job to another: Each worker can focus only on one task and does not have to shift from one part of a job to another.
+	•	Fewer capital goods are needed in production: As each worker focuses only on one task, workers do not need to use tools for other tasks.
+	•	Capital goods are used efficiently: Tools can remain in use all the time by the most appropriate workers.
+	(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+(b)	Indicate on the diagram (short run situation):
+	•	Rightward shift of the aggregate demand curve	(1 mark)
+	•	Rightward shift of the short run aggregate supply curve	(1 mark)
+	•	Increase in short run equilibrium real GDP	(1 mark)
+
+
+	Indicate on the diagram (long run situation):
+	•	Rightward shift of the aggregate demand curve	(1 mark)
+	•	Rightward shift of the long run aggregate supply curve	(1 mark)
+	•	Increase in long run equilibrium real GDP	(1 mark)
+
+
+Verbal elaboration:
+	•	With the introduction of machinery for production, the quality and quantity of factors increased.	(1 mark)
+	•	Therefore, both short run and long run aggregate supply increased.	(2 marks)
+	•	Since the Industrial Revolution created many new business opportunities, gross investment expenditure increased.	(1 mark)
+	•	Therefore, aggregate demand increased.	(1 mark)
+	•	As a result, real GDP increased in both the short run (from YS1 to YS2) and the long run (from YL1 to YL2).	(1 mark)
+
+
+(c)	Per capita real GDP failed to reflect the situation because it does not consider the following factors:
+	•	Distribution of output: Although per capita real GDP increased, output distribution during the Industrial Revolution might have been more uneven.
+	•	The value of leisure: People might have had to work longer hours during the Industrial Revolution. However, the longer working hours were not reflected in per capita real GDP.
+	•	Undesirable effects of production: Workers might have had to work in dangerous working environments. However, this was not reflected in per capita real GDP.
+(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+Question code: B5C05Q502
+A typhoon destroys several cities in Country A.
+(a)	Suppose many buildings and facilities were destroyed. With the aid of a diagram, explain how the typhoon affects Country A's output in the short run.	(5 marks)
+(b)	Suppose people invest to rebuild the destroyed cities. With the aid of a diagram, explain how this affects Country A's output in the short run.	(5 marks)
+(c)	'From the results of (a) and (b), a typhoon may stimulate the economy.' Justify the statement.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	•	Leftward shift of the short run aggregate supply curve	(1 mark)
+	•	Decrease in short run equilibrium output	(1 mark)
+
+
+
+Verbal elaboration:
+	•	As many buildings and facilities were destroyed, the quantity of factors decreases.	(1 mark)
+	•	Therefore, short run aggregate supply decreases.	(1 mark)
+	•	As a result, output decreases from Y1 to Y2 in the short run.	(1 mark)
+	(Accept other reasonable answers.)
+
+(b)	Indicate on the diagram:
+	•	Rightward shift of the aggregate demand curve	(1 mark)
+	•	Increase in short run equilibrium output	(1 mark)
+
+
+Verbal elaboration:
+	•	As people invest more, gross investment expenditure increases.	(1 mark)
+	•	Therefore, aggregate demand increases.	(1 mark)
+	•	As a result, output increases from Y1 to Y2 in the short run.	(1 mark)
+	(Accept other reasonable answers.)
+
+(c)	If the increase in output caused by the extra investment is greater than the decrease in output caused by the destruction of buildings and facilities, output increases in the short run.	(3 marks)
+
+
+Question code: B5C05Q503
+Region H is a small and open economy and Country C is its major trading partner. Recently, the income level of Country C has been increasing. Suppose Region H is operating at full employment.
+(a)	How will the increase in Country C's income affect Region H's real GDP and price level in the short run? Explain with the aid of a diagram.	(6 marks)
+(b)	Cindy, an economist, says, 'The increase in Country C's income will not benefit Region H in the long run.' Support Cindy's claim with the aid of the diagram you drew for part (a).	(7 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	•	The aggregate demand curve shifts rightwards.	(1 mark)
+	•	Real GDP increases (to Y2) in the short run.	(1 mark)
+	•	The price level increases (to P2) in the short run.	(1 mark)
+
+
+Verbal elaboration:
+	•	When Country C's income increases, its consumption, including imports from Region H, increases.	(1 mark)
+	•	Therefore, Region H's real value of exports increases.	(1 mark)
+	•	As a result, Region H's aggregate demand increases, leading to an increase in its real GDP and price level.	(1 mark)
+
+(b)	Indicate on the diagram:
+	•	The short run aggregate supply curve shifts upwards.	(1 mark)
+	•	Real GDP reverts to its full employment level (Y1).	(1 mark)
+	•	The price level increases (to P3).	(1 mark)
+
+Verbal elaboration:
+	•	As the short run equilibrium real GDP is larger than the full employment real GDP, an inflationary gap results. The excess demand for resources will eventually raise input prices.	(2 marks)
+	•	Therefore, the short run aggregate supply curve will shift upwards until long run equilibrium is achieved.	(1 mark)
+	•	In the long run, the real GDP will go back to the original full employment level (Y1), while the price level will increase to P3.	(1 mark)
+
+Question code: B5C05Q504
+A self-fulfilling prophecy (自我實現的預言), a well-known sociological and psychological phenomenon, is a prediction that makes itself come true, due to the feedback between the belief and behaviour of the prophet. In this question, we will investigate whether the self-fulfilling prophecy applies to economic analyses.
+(a)	Suppose people expect that there will be an increase in the price level. How does this affect price levels in the short run and the long run? Is the result consistent with a self-fulfilling prophecy? Explain with the aid of TWO diagrams.	(10 marks)
+(b)	Suppose people expect that there will be a decrease in real national income. How does this affect real national income in the short run and the long run? Is the result consistent with a self-fulfilling prophecy? Explain with the aid of a diagram.
+	(10 marks)
+
+
+Answers:
+(a)	If people expect the price level to rise, they will consume more before prices increase to save money. Thus, private consumption expenditure increases and so does the aggregate demand. The aggregate demand curve shifts rightwards.
+		(2 marks)
+If firms expect the price level to rise, they will think that it is more profitable to retain their present supply for future sale. Thus, the short run aggregate supply decreases, and the short run aggregate supply curve shifts leftwards.	(2 marks)
+In the short run, the price level rises (from P1 to PS2). This is consistent with a self-fulfilling prophecy.	(1 mark)
+	(2 marks)
+In the long run, as there is an increase in aggregate demand, the price level will also rise (from P1 to PL2). This is also consistent with a self-fulfilling prophecy.
+	(1 mark)
+	(2 marks)
+
+
+(b)	If people expect that their income will decrease, they will decrease their present consumption and aggregate demand falls. The aggregate demand curve shifts leftwards.	(2 marks)
+If firms are pessimistic about economic prospects, they invest less and aggregate demand decreases. The aggregate demand curve shifts leftwards.	(2 marks)
+In the short run, real national income decreases (from Yf to YS2). This is consistent with a self-fulfilling prophecy.	(1 mark)
+However, the long run aggregate supply is not affected. As a result, real national income remains unchanged in the long run. This is inconsistent with a self-fulfilling prophecy.	(2 marks)
+	(3 marks)
+
+Question code: B5C05Q505
+Consumerism (消費主義) preaches the concept of happiness through consumption. Suppose people desire to save less and consume more due to the promotion of consumerism.
+(a)	With the aid of a diagram, explain how this event affects real national income and the general price level in the short run.	(7 marks)
+(b)	With the aid of a diagram, explain the adjustment from short run equilibrium to long run equilibrium.	(9 marks)
+(c)	From the result in (b) about the change in the general price level, what economic phenomenon can be observed? Define the economic phenomenon.	(3 marks)
+(d)	Give ONE reason to support consumerism and ONE reason to oppose it.
+	(2 marks)
+
+Answers:
+(a)	As people consume more, private consumption expenditure increases and so does aggregate demand.	(2 marks)
+Thus, the aggregate demand curve shifts rightwards.	(1 mark)
+In the short run, both real national income and the price level will increase.
+	(2 marks)
+	(2 marks)
+
+(b)	Consumerism would not affect the long run aggregate supply.	(1 mark)
+	As the short run equilibrium real national income (YS2) is larger than the full employment real national income (Yf), there is an inflationary gap and an excess demand for inputs. Input prices will rise. The rise in input prices shifts the short run aggregate supply curve upwards (from SRAS1 to SRAS2) until the inflationary gap is closed.	(3 marks)
+As a result, real national income is restored to Yf and the price level rises to PL2 in the long run.	(2 marks)
+	(3 marks)
+
+(c)	Inflation	(1 mark)
+This is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+
+
+(d)	Reason to support:
+It can increase real national income in the short run.	(1 mark)
+Reason to oppose:
+In the long run, it causes inflation / fluctuations in real national income.	(1 mark)
+(Accept any other reasonable answers.)
+
+Question code: B5C05Q506
+Study the following diagram about the economic situation of Fishing City.
+
+
+(a)	What is a business cycle? List the FOUR phases of a business cycle.	(4 marks)
+(b)	Identify in which phase of a business cycle Point F is.	(1 mark)
+(c)	Determine whether each of the following items is a demand-side factor or supply-side factor affecting GDP. With the aid of a diagram, explain how each can lead to the situation shown in the above diagram and affect the general price level.
+(i)	The government raises production subsidies.	(7 marks)
+(ii)	The government lowers income taxes.	(7 marks)
+
+Answers:
+(a)	Business cycles refer to short run fluctuations in real GDP around the long run trend.	(2 marks)
+	The four phases are recession (contraction), trough, recovery (expansion) and peak (prosperity or boom).	(2 marks)
+
+(b)	Recovery / expansion	(1 mark)
+(c)	(i)	Supply-side factor	(1 mark)
+A rise in production subsidies would reduce production costs. At the same price level, it is profitable for firms to raise their outputs. Hence, the short run aggregate supply curve shifts rightwards.	(2 marks)
+As a result, real GDP increases. This helps the economy achieve Point F.
+	(1 mark)
+The general price level will decrease.	(1 mark)
+	(2 marks)
+(ii)	Demand-side factor	(1 mark)
+When the government lowers income taxes, people have more disposable income. At the same price level, the aggregate output demanded rises. Hence, the aggregate demand curve shifts rightwards.	(2 marks)
+As a result, real GDP increases. This helps the economy achieve Point F.
+	(1 mark)
+The general price level will increase.	(1 mark)
+	(2 marks)
+
+Question code: B5C05Q507 (new)
+Britain held a referendum on June 23, 2016 on its withdrawal from the European Union (EU). Some economists forecasted that leaving the EU would create uncertainty about Britain's future trading arrangements, both with the rest of Europe and other major economies. Ultimately, 51.9% of the voters opted to leave the EU.
+(a)	Suppose the EU imposed trade barriers on British goods after the country leaves the EU. Explain how Britain's total export value (in British pounds) would change after the withdrawal.	(2 marks)
+(b)	With the aid of the following diagram, explain the short run and long run effects of Britain's withdrawal from the EU, according to the economists' forecast.		(9 marks)
+	
+(c)	An economist said that the withdrawal from the EU would lead to a significant depreciation of the British pound. Explain how this would affect Hong Kong tourists' total expenditure on British goods and services in terms of Hong Kong dollars.	(3 marks)
+
+Answers:
+(a)	Due to the trade barriers, Britain's export volume would decrease. As a result, Britain's total export value (in British pounds) would decrease.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift in aggregate demand curve	(1 mark)
+	(	Short run: Decreases in price level and output level	(1 mark)
+	(	Rightward shift in short run aggregate supply curve	(1 mark)
+	(	Long run: Further decrease in price level and output level is restored to Yf
+	(1 mark)
+	
+	Verbal elaboration:
+	Due to the uncertainty of future trading arrangements, firms' investment would decrease.	(1 mark)
+	Hence, aggregate demand would decrease from AD to AD'.	(1 mark)
+	In the short run, the price level would decrease from P1 to P2 and the output level would decrease from Yf to Y2.	(1 mark)
+	As the output level is lower than the full employment output level, the excess supply of inputs would lead to a decrease in input prices. Short run aggregate supply would increase from SRAS to SRAS'.	(1 mark)
+	In the long run, the price level would further decrease to P3 but the output level would be restored to Yf.	(1 mark)
+
+(c)	As the British pound depreciates against the Hong Kong dollar, the price of British goods and services in terms of Hong Kong dollars would decrease.	(1 mark)
+	Hong Kong tourists' quantity demanded for British goods and services would increase.	(1 mark)
+	The change in total expenditure would be uncertain, depending on the price elasticity of Hong Kong tourists' demand for British goods and services.	(1 mark)
+
+Question code: B5C05Q508 (new)
+To finance the construction of the third runway, the Hong Kong International Airport started to charge departing passengers an Airport Construction Fee on August 1, 2016. The following table shows the fees that economy class passengers are charged.
+
+Origin-Destination Passengers	Economy Class	
+Long Haul	HK$160 per passenger	
+Short Haul	HK$90 per passenger	
+
+(a)	Explain how the proportion of passengers flying on budget airlines (廉價航空) (compare to ordinary airlines) would change after the introduction of the fee.
+	(5 marks)
+(b)	With aid of an AS-AD diagram, explain the short run effects of the construction of the third runway on Hong Kong's economy.	(5 marks)
+(c)	Most departing flights from the Hong Kong International Airport fly over Ma Wan. Residents in Ma Wan are annoyed by the noise from aircrafts flying above the area. Explain how the implementation of the Three-runway System would affect the problem of externality.	(4 marks)
+
+Answers:
+(a)	The ticket prices of both budget and ordinary airlines increase by the same amount. The percentage increase in the ticket prices of budget airlines is greater than the percentage increase in the ticket prices of ordinary airlines.	(2 marks)
+	The relative ticket prices of budget airlines (in terms of ordinary airline tickets) increases.	(1 mark)
+	According to the law of demand, the higher the relative price of a good, the smaller the relative quantity demanded for the good, other factors being constant. Therefore, a smaller proportion of passengers would fly on budget airlines.
+	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift of aggregate demand curve	(1 mark)
+	(	Increases in price level and output level	(1 mark)
+	
+	Verbal elaboration:
+	The construction of the third runway increases investment expenditure.	(1 mark)
+	Aggregate demand increases from AD to AD'.	(1 mark)
+	As a result, the price level increases from P1 to P2 and output level increases from Y1 to Y2.	(1 mark)
+
+(c)	The implementation of the Three-runway System will increase the number of flights from Hong Kong International Airport. Noise pollution in Ma Wan will worsen.	(2 marks)
+	Greater external costs will be imposed on Ma Wan residents with no 
+compensation.	(1 mark)
+	The problem of negative externality would become worse.	(1 mark)
+
+
+Question code: B5C05Q509 (new)
+In 2016, the renminbi depreciated against the US dollar.
+(a)	Explain how the depreciation of the renminbi would affect the number of mainland visitors to Hong Kong.	(3 marks)
+(b)	With reference to your answer in (a) and using the diagram below, explain the short run and long run effects on Hong Kong's price and output levels under the market adjustment mechanism.	(9 marks)
+	
+(c)	Suppose mainlanders can now travel to more Asian countries with looser visa (簽證) requirements. Explain how this may affect the elasticity of mainlanders' demand for Hong Kong's tourism services.	(2 marks)
+
+Answers:
+(a)	Under the linked exchange rate system, when the renminbi depreciated against the US dollar, it simultaneously depreciated against the Hong Kong dollar.	(1 mark)
+	It became more expensive for mainland visitors to visit Hong Kong.	(1 mark)
+	Hence, the number of mainland visitors to Hong Kong would decrease.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift of aggregate demand curve	(1 mark)
+	(	Short run: Decreases in price level and output level	(1 mark)
+	(	Rightward shift of short run aggregate supply curve	(1 mark)
+	(	Long run: Further decrease in price level and increase in output level	(1 mark)
+
+
+	
+	Verbal elaboration:
+	As the number of mainland visitors decreased, the aggregate demand decreased from AD to AD'.	(1 mark)
+	As a result, the price level decreased from P1 to P2 and the output level decreased from Y1 to Y2 in the short run.	(1 mark)
+	The resulting excess supply of inputs would cause input prices to decrease.
+	(1 mark)
+	In the long run, the short run aggregate supply would increase from SRAS to SRAS'.	(1 mark)
+	The price level would further decrease to P3 while the output level would increase back to Yf.	(1 mark)
+
+(c)	As mainlanders can travel to other Asian countries more easily, there will be more close substitutes for Hong Kong's tourism services.	(1 mark)
+	As a result, mainlanders' demand for Hong Kong's tourism services will become more elastic.	(1 mark)
+
+Question code: B5C05Q510 (new)
+Carlos Slim, a Mexican billionaire, suggested the following changes in work arrangements.
+(	From working five days per week to working three days per week
+(	Increase in retirement age to 75
+(a)	Explain how above changes in work arrangements will affect labour productivity.
+	(2 marks)
+(b)	Discuss the overall effect of Slim's proposal on long run aggregate supply.
+	(4 marks)
+(c)	'Slim's proposal for a three-day work week allows workers to have time to take training courses. This can reduce income inequality.' Do you agree? Why?
+	(3 marks)
+(d)	Suppose the number of jobs in an economy is fixed. Explain why the unemployment rate may decrease as a result of a three-day working week.
+	(3 marks)
+
+Answers:
+(a)	Labour productivity will increase	(1 mark)
+	because people tend to have more leisure time and become healthier.	(1 mark)
+
+(b)	Uncertain.	(1 mark)
+	The decrease in work days per week reduces labour supply, leading to a decrease in the long run aggregate supply.	(1 mark)
+	However, the increase in productivity of the working population raises the long run aggregate supply.	(1 mark)
+	Increasing the retirement age increases the labour force, leading to an increase in long run aggregate supply.	(1 mark)
+
+(c)	No. Both high-income workers and low-income workers can choose to receive training during their extra leisure time. This could not reduce the income gap by increasing only the income of low-income workers.
+	OR
+	No. Low-income workers may have to find an additional job to earn enough money to live. As high-income workers receive more training than low-income workers, the income gap may widen instead.
+	OR
+	Yes. Low-income workers can receive training during their extra leisure time. This increases their opportunities of finding a job with a higher income in the future.
+	(Accept other reasonable answers. 3 marks)
+
+(d)	Unemployment rate = (Unemployed persons / Labour force) × 100%	(1 mark)
+	Firms will employ more people under the 3-day working week arrangement.
+	(1 mark)
+	The number of unemployed persons decreases and thus the unemployment rate decreases.	(1 mark)

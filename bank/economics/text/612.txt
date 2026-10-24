@@ -1,0 +1,1142 @@
+Chapter 12	International trade (II) - trade barriers and external trade of Hong Kong
+
+Multiple Choice Questions
+
+Question code: B6C12Q001
+Which of the following statements about trade barriers is INCORRECT?
+A.	An import surcharge is a tax on imports in addition to a tariff.
+B.	An export subsidy refers to a government grant on exports.
+C.	An embargo is the prohibition of trade with some countries.
+D.	Under exchange controls, the prices of all imported goods are controlled by the government.
+
+Answer: D
+
+Question code: B6C12Q002 (new)
+Refer to the following diagram about Economy H, with no international trade.
+
+Suppose Economy H is an importer of Good X. Which of the following statements is INCORRECT?
+A.	With international trade, domestic consumption will be greater than Q0.
+B.	With international trade, domestic consumers gain.
+C.	With international trade, domestic producers gain.
+D.	With international trade, the domestic price of Good X will be lower than P0.
+
+Answer: C
+
+
+Question code: B6C12Q003 (new)
+* Refer to the following diagram about Country J, with no international trade.
+
+Suppose Country J is an exporter of Good A. Which of the following statements is correct?
+A.	With international trade, domestic output will be greater than Q0.
+B.	With international trade, domestic consumers gain.
+C.	With international trade, domestic producers lose.
+D.	With international trade, the domestic price of Good X will decrease.
+
+Answer: A
+
+
+Question code: B6C12Q004 (new)
+Refer to the following diagram about Country S, with international trade.
+
+Which of the following statements is INCORRECT?
+A.	With international trade, the quantity transacted is Q3.
+B.	With international trade, the domestic price of Good A is Pw.
+C.	With international trade, domestic consumption is Q3.
+D.	With international trade, domestic output is Q3.
+
+Answer: D
+
+
+Question code: B6C12Q005 (new)
+Refer to the following diagram about Country R, with international trade.
+
+Compared with the situation without trade, if Country R engages in international trade,
+(1)	domestic consumption will increase by Q3 - Q1.
+(2)	domestic output will decrease by Q2 - Q1.
+(3)	the world price of Good A will be higher.
+(4)	the domestic price of Good A will be lower.
+A.	(1) and (3) only
+B.	(2) and (4) only
+C.	(1), (3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: B
+
+
+Question code: B6C12Q006 (new)
+Refer to the following diagram about Country T, with international trade.
+
+With international trade, the quantity of imports is equal to __________.
+A.	Q3 - Q2
+B.	Q3 - Q1
+C.	Q2 - Q1
+D.	None of the above
+
+Answer: B
+
+
+Question code: B6C12Q007 (new)
+Refer to the following diagram which shows the market situation of Good A in Country L under international trade.
+
+Suppose Country L is an importer of Good A and the international price of Good A is Pw. Country L's total import value of Good A is equal to
+A.	Area 8.
+B.	Area (1 + 2 + 7).
+C.	Area (2 + 3 + 4 + 5 + 6).
+D.	Area (3 + 4 + 5 + 6 + 8).
+
+Answer: A
+
+
+Question code: B6C12Q008 (new)
+Refer to the following diagram about the pen market in Country X. The government has imposed a tariff on the import of pens.
+
+Suppose the world price is equal to P1. After the government imposes the tariff, the domestic price increases from P1 to P2. What is the change in the quantity of imports?
+A.	A decrease of 10 units
+B.	A decrease of 15 units
+C.	A decrease of 25 units
+D.	A decrease of 40 units
+
+Answer: B
+
+
+Question code: B6C12Q009 (new)
+Refer to the following diagram about Country A.
+
+Suppose the world price is equal to P1 and the government imposes a tariff (t). Which of the following is correct?
+A.	Area (7 + 8 + 9) represents the total value (including tariff) of imports under tariff.
+B.	Domestic consumption is Q1 units.
+C.	Domestic production is Q3 units.
+D.	Area (2 + 3 + 4) represents the tariff revenue.
+
+Answer: C
+
+
+Question code: B6C12Q010 (new)
+The following shows the supply and demand curves of a small open economy. Pw is the world price of Good X.
+
+Which of the following is correct?
+A.	When the country opens to international trade, the country's consumers consume fewer of Good X.
+B.	When the country opens to international trade, the country's producers produce more of Good X.
+C.	When the country imposes a tariff, the quantity of imported Good X decreases.
+D.	When the country imposes a tariff, the domestic price of Good X falls.
+
+Answer: C
+
+
+Question code: B6C12Q011 (new)
+The following diagram shows the market for a certain good in a small open economy.
+
+Suppose the international price of the good is Pw and the government has recently imposed a unit tariff (t) on the good. Which of the following statements is correct?
+A.	The quantity of imports decreases by Q3Q2 due to the tariff.
+B.	Consumers' total expenditure decreases after the imposition of the tariff.
+C.	The international price increases to Pt due to the tariff.
+D.	The quantity transacted under the tariff is smaller than that under autarky.
+
+Answer: A
+
+
+Question code: B6C12Q012 (new)
+* Refer to the following diagram about Country T, with international trade.
+
+Suppose Country T is an importer of Good A and its government imposes a tariff on imports of Good A. Which of the following statements about the effects of the tariff are INCORRECT?
+(1)	The quantity of imports will be smaller than Q3 - Q1.
+(2)	Domestic consumption will not be greater than Q1.
+(3)	The world price will be higher than Pw.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B6C12Q013 (new)
+Suppose Country U imposes a tariff on Good A. The following diagram shows the effects of the tariff.
+
+If the tariff increases the domestic price from Pd1 to Pd2, which of the following statements is correct?
+A.	The total value of imports will decrease by Area (E + G).
+B.	The marginal cost of producing the last unit domestically will increase by 
+Pd2 - Pd1.
+C.	The total cost of production will increase by Area (E + F + G).
+D.	All of the above
+
+Answer: B
+
+
+Question code: B6C12Q014 (new)
+Refer to the following diagram about the market situation of Good X in Country A.
+
+Suppose the world price is equal to P1. After the government imposes a tariff, the domestic price increases from P1 to P2. Which of the following is the government revenue from the tariff?
+A.	Area 5
+B.	Area (1 + 2 + 3)
+C.	Area (2 + 4)
+D.	Area (2 + 4 + 5 + 6)
+
+Answer: A
+
+
+Question code: B6C12Q015 (new)
+Refer to the following diagram about the market situation of Good X in Country B.
+
+Suppose the world price is equal to P1. Now, the government imposes a tariff (t). What will the change in domestic producers' total revenue be?
+A.	Area 1
+B.	Area (1 + 2 + 3)
+C.	Area (1 + 2 + 7)
+D.	Area (7 + 8 + 9)
+
+Answer: C
+
+
+Question code: B6C12Q016
+Refer to the following diagram about the market situation of Good X in Country C.
+
+Suppose the world price is equal to P1. With free trade, the volume of Good X imported is __________ units; when a tariff (t) is imposed, the quantity of Good X transacted is __________ units.
+A.	Q2 - Q1 … Q4
+B.	Q4 - Q3 … Q2
+C.	Q4 - Q3 … Q3
+D.	Q2 - Q1 … Q2
+
+Answer: A
+
+Question code: B6C12Q017 (new)
+Suppose China has been negotiating with other countries for a lower per unit tariff of Chinese meat. If China succeeds,
+(1)	China would export more meat.
+(2)	the quality of meat exported from China would be higher.
+(3)	consumers in Europe would gain.
+A.	(1) and (3) only
+B.	(2) and (3) only
+C.	(1), (2) and (3)
+D.	None of the above
+
+Answer: A
+
+
+Question code: B6C12Q018 (new)
+If Hong Kong imposes a tariff on imported rice,
+(1)	the total value of rice imported (including tariff) may rise or fall.
+(2)	Hong Kong rice importers gain.
+(3)	Hong Kong's demand for wheat increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C12Q019 (new)
+A small open economy originally operates under free trade. If the economy imposes a tariff on the import of Good X,
+A.	both domestic consumers and domestic producers of Good X will lose.
+B.	the international price of Good X increases.
+C.	the demand for Good X decreases.
+D.	domestic producers can sell more of Good X.
+
+Answer: D
+
+Question code: B6C12Q020 (new)
+Country N was not originally engaged in the trading of rice. If Country N starts to import rice but the government imposes a tariff on imported rice,
+A.	the price of rice will increase.
+B.	the total revenue of domestic producers will increase.
+C.	people in Country N will consume more rice.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B6C12Q021 (new)
+* Country C was a small, closed economy. Recently, the government decided to allow international trade in Good X. However, to protect its local industries, it has imposed a tariff on Good X. Which of the following are the overall effects of these changes?
+(1)	The domestic price of Good X will increase.
+(2)	Domestic producers of Good X will gain.
+(3)	Domestic consumers of Good X will lose.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(1), (2) and (3)
+D.	None of the above
+
+Answer: D
+Explanation
+The tariff only reduces the effects of opening the economy. Thus, compared with a situation when there is no trade, after opening the economy and imposing a tariff, both the domestic price and domestic production will decrease, while domestic consumption will increase. As a result, domestic producers will lose while domestic consumers will gain.
+
+Question code: B6C12Q022 (new)
+* Suppose Country A exports Good X to Country B. If Country B imposes a tariff on Good X, how will this affect Country A?
+A.	Country A's consumers will lose.
+B.	Country A's producers will gain.
+C.	In Country A, the quantity transacted of Good X will decrease.
+D.	The price of Good X in Country A may decrease.
+
+Answer: D
+Explanation
+Option D is correct. When Country B imposes a tariff on Good X, the quantity of Country A's exports will decrease. Some resources may be reallocated to Country A's domestic production. Thus, in Country A, the supply of Good X may increase and so the price of Good X may decrease.
+
+
+Question code: B6C12Q023 (new)
+For a small economy, which of the following are NOT effects of imposing a tariff on a good?
+(1)	Government revenue will increase.
+(2)	The world price of the good will increase.
+(3)	Domestic consumers may gain.
+(4)	Domestic producers may gain.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B6C12Q024
+For a small economy, which of the following is LEAST likely to be an effect of the imposition of a heavy tariff on a good?
+A.	It may significantly raise the market price of the good in the economy.
+B.	It may drastically reduce the import quantity of the good.
+C.	The demand for the good's substitutes may increase.
+D.	The international price of the good may increase greatly.
+
+Answer: D
+
+Question code: B6C12Q025
+* If Country A's government imposes a tariff on Good X, ____________ will gain.
+A.	the domestic industries in Country A which produce complements for Good X
+B.	Country A's importers of Good X
+C.	Country A's domestic consumers of Good X
+D.	consumers of Good X in the country which exports Good X to Country A
+
+Answer: D
+
+
+Question code: B6C12Q026
+If a government lowers the per unit tariff on Good X,
+(1)	the government will lose.
+(2)	domestic consumers' expenditure on Good X will decrease.
+(3)	domestic consumers will gain.
+(4)	domestic producers will lose.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B6C12Q027
+Which of the following will most likely gain when Country A's government imposes a tariff on imported tablet computers (平板電腦) from Country B?
+A.	Tablet computer software developers in Country B
+B.	Tablet computer producers in Country B
+C.	Tablet computer producers in Country A
+D.	Tablet computer consumers in Country A
+
+Answer: C
+
+Question code: B6C12Q028
+If the local government imposes a tariff on imported organic vegetables, ____________ will lose.
+A.	the local government
+B.	foreign producers of organic vegetables
+C.	local producers of organic vegetables
+D.	local producers of other vegetables
+
+Answer: B
+
+
+Question code: B6C12Q029
+Which of the following statements about a tariff is INCORRECT?
+A.	It can be levied according to the value or quantity transacted of goods.
+B.	It may help broaden the tax base.
+C.	The imposition of tariffs may lead to inefficiency.
+D.	The government can always increase tax revenue by raising the tariff rate.
+
+Answer: D
+Explanation
+Option C: A tariff is a tax imposed on imports. Government intervention in the market may result in inefficiency.
+
+Question code: B6C12Q030 (new)
+Refer to the following diagram.
+
+Suppose the world price is equal to P1, and the government has set an import quota of Q3Q4 units. What is the total value of imports?
+A.	Area (2 + 3)
+B.	Area (2 + 3 + 4)
+C.	Area (8 + 9)
+D.	Area (3 + 4 + 9)
+
+Answer: D
+
+
+Question code: B6C12Q031 (new)
+Refer to the following diagram.
+
+Pw is the world price while Sq is the supply curve with an import quota. If the government lowers the quota, which of the following statements is INCORRECT?
+A.	After lowering the quota, the quota may be effective.
+B.	The domestic price may increase.
+C.	Domestic producers may gain.
+D.	The world price may increase.
+
+Answer: D
+
+
+Question code: B6C12Q032 (new)
+Refer to the following diagram about Good X in Country J. Country J is a small open economy.
+
+Suppose Country J sets a quota on the import of Good X. Which of the following is true?
+A.	Consumers may consume less of Good X, compared with autarky.
+B.	The world price must remain unchanged.
+C.	The domestic price must increase.
+D.	The total revenue of Good X importers must increase.
+
+Answer: B
+
+
+Question code: B6C12Q033 (new)
+Which of the following diagrams can best represent a market under an effective import quota in a small open economy? (Sq = Supply with quota)
+
+
+Answer: C
+
+
+Question code: B6C12Q034 (new)
+The following diagram represents a market under an import quota in a small open economy. Pw is the world price while Pq is the price under the quota. Suppose the government auctions off the quota.
+
+Which of the following statements is correct?
+A.	The quantity of imports is Q3Q2.
+B.	The difference between Pq and Pw is the maximum amount an importer would pay for a unit of import quota.
+C.	The output of domestic producers is Q1.
+D.	The quota is ineffective.
+
+Answer: B
+
+
+Question code: B6C12Q035 (new)
+* Refer to the following diagram about Country H, with international trade.
+
+Suppose Country H is an importer of Good A and its government imposes a quota on imports of Good A. Which of the following statements about the quota are correct?
+(1)	The quantity transacted must be smaller than Q3.
+(2)	The import quantity must be smaller than Q3 - Q1.
+(3)	The domestic output must be greater than Q1.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(1), (2) and (3)
+D.	None of the above
+
+Answer: D
+Explanation
+When the quota is ineffective, Options (1), (2) and (3) will not be true.
+
+
+Question code: B6C12Q036 (new)
+Country V is a small economy. Recently, it imposed an effective import quota on Good A. The following diagram shows the situation with the quota.
+
+If the world price is equal to P1 and the quota is Q2Q3 units, which of the following statements about the effects of imposing the quota is correct?
+A.	The world price will increase to P2.
+B.	The quantity of imports will change to Q3Q4 units.
+C.	The domestic price will decrease from P2 to P1.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C12Q037 (new)
+Refer to the following diagram about the market situation of Good X in Country A.
+
+Suppose the world price is equal to P1. After the government imposes a quota, the domestic price increases to P2. Which of the following statements is correct?
+A.	Before the imposition of the quota, the domestic price is P1.
+B.	Before the imposition of the quota, domestic consumers' total expenditure on Good X is equal to Area (1 + 2 + 4 + 5 + 6 + 7 + 8).
+C.	After the imposition of the quota, the quantity of imports is Q1Q2.
+D.	After the imposition of the quota, domestic consumers' total expenditure on 
+Good X is equal to Area (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8).
+
+Answer: A
+
+
+Question code: B6C12Q038 (new)
+Refer to the following diagram about the market situation of Good X in Country B.
+
+Suppose the world price is equal to P1. According to the diagram above, what will the quantity of imports be after the government imposes a quota?
+A.	Q1
+B.	Q4
+C.	Q2 - Q1
+D.	Q4 - Q3
+
+Answer: D
+
+
+Question code: B6C12Q039 (new)
+Refer to the following diagram about the market situation of Good X in Country F.
+
+Suppose the world price is equal to P1 and a quota (Q3Q4) is imposed on Good X. Which of the following statements are correct?
+(1)	The actual quantity of imports decreases.
+(2)	Area 2 is the change in the total value of imports.
+(3)	With the quota, Country F's consumers will consume more of Good X.
+(4)	With the quota, Country F's producers will sell more of Good X.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+
+Question code: B6C12Q040
+Refer to the following diagram about the market situation of Good X in Country C.
+
+P1 is the world price and Sq is the supply with a quota. Under free trade, the total value of Good X transacted is __________; when a quota is imposed, the volume of 
+Good X imported is __________ units.
+A.	P1 × Q2 … Q3Q4
+B.	P1 × Q3 … Q3Q4
+C.	P1 × Q2 … Q4Q2
+D.	P2 × Q1 … Q1Q2
+
+Answer: A
+
+Question code: B6C12Q041 (new)
+A small open economy imposes a quota on imports. Which of the following are the possible effects?
+(1)	The quantity of domestically produced goods increases.
+(2)	The quality of imported goods improves.
+(3)	The total import value decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B6C12Q042 (new)
+Which of the following are the effects of an effective import quota?
+	(1)	The average quality of imports increases.
+	(2)	It will encourage the production of domestic import-competing industries.
+	(3)	The revenue of domestic producers decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C12Q043 (new)
+* Country F was a small, closed economy. Recently, the government decided to open the economy. At the same time, quotas were imposed on all imported goods. Which of the following were the overall effects of these changes?
+(1)	Domestic consumers gain.
+(2)	Domestic producers gain.
+(3)	The quantity of imports increased.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: B
+Explanation
+The quotas only reduce the effects of opening the economy. Thus, compared with the situation when there is no trade, after opening the economy and imposing quotas, both the domestic price and domestic production will decrease, while the quantity of imports and domestic consumption will increase. As a result, domestic consumers gain while domestic producers lose.
+
+
+Question code: B6C12Q044 (new)
+* Suppose Good X and Good Y are substitutes for each other. Country A exports both Good X and Good Y to Country B. If Country B imposes an effective import quota on Good X, which of the following statements is correct?
+A.	Country A's quantity of Good X exported will increase.
+B.	Country B's quantity of Good Y consumed will remain unchanged.
+C.	Country A will consume more Good Y than before.
+D.	The price of Good Y in Country B will increase.
+
+Answer: D
+
+Question code: B6C12Q045 (new)
+After an earthquake, the nuclear energy plant in Country J was destroyed and some food produced in Country J was contaminated by radiation (受輻射污染). Its trading partner, Country H, decides to impose an effective quota on all food imported from Country J. Which of the following statements about the quota is INCORRECT?
+A.	The quota may raise Country H's national income.
+B.	Country H's consumers enjoy more food from Country J at a lower price.
+C.	Country J's producers will lose.
+D.	Country H's government may get more revenue.
+
+Answer: B
+Explanation
+Option D: Country H's government can get more revenue if it auctions off the quotas.
+
+Question code: B6C12Q046 (new)
+After imposing an import quota on a good, Country A found that the import volume of that good did not decrease. Which of the following is correct?
+A.	The world price of the good will decrease.
+B.	The domestic price of the good will increase.
+C.	The quota is ineffective.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B6C12Q047 (new)
+China is a major importer of US cotton. Which of the following can be an effect of a decrease in China's import quotas on cotton?
+A.	The export volume of US cotton increases.
+B.	The export price of Chinese garments increases.
+C.	The average quality of US cotton exported to China decreases.
+D.	None of the above
+
+Answer: B
+
+Question code: B6C12Q048
+If the effective quota on an imported good increases, the domestic price of the good will
+A.	increase.
+B.	decrease.
+C.	increase, decrease or remain unchanged, depending on the price elasticity of demand for that good.
+D.	increase, decrease or remain unchanged, depending on the amount of the quota.
+
+Answer: B
+
+Question code: B6C12Q049
+Country H is a small economy. Suppose it imposes an effective import quota on 
+Good X. What is the effect on its market for Good X?
+A.	The quality of Good X will decrease.
+B.	The demand for Good X will decrease.
+C.	The world price of Good X will increase.
+D.	The quantity transacted of Good X will decrease.
+
+Answer: D
+
+
+Question code: B6C12Q050
+For a small economy, which of the following are NOT possible effects of imposing an import quota on a good?
+(1)	Domestic production of the good will decrease.
+(2)	The world price of the good will increase.
+(3)	The import quantity of the good will decrease.
+(4)	The quality of the imported good will increase.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+
+Question code: B6C12Q051
+If Country A's government imposes an import quota on Good X, ____________ will lose.
+A.	Country A's domestic industries which produce substitutes for Good X
+B.	the holders of the quota
+C.	Good X producers of a country which export Good X to Country A
+D.	None of the above
+
+Answer: C
+
+Question code: B6C12Q052
+If a government increases the amount of an import quota on Good X, which of the following are the possible effects?
+(1)	The government will lose.
+(2)	Domestic consumers' expenditure on Good X will decrease.
+(3)	Domestic consumers will gain.
+(4)	Domestic producers will lose.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+
+Question code: B6C12Q053
+Which of the following will most likely gain when Country A's government imposes an effective quota on imported smartphones from Country B?
+A.	The government in Country A
+B.	Consumers in Country A
+C.	Producers in Country B
+D.	Consumers in Country B
+
+Answer: D
+
+Question code: B6C12Q054 (new)
+Refer to the following diagram.
+
+Which of the following statements is INCORRECT?
+A.	The tariff revenue is $0 if the government imposes a per unit tariff of $10.
+B.	If the government sets a quota of 25 units, the quota is ineffective.
+C.	Under free trade, the total value of Good Y imported is $400.
+D.	With a per unit tariff of $3, the quantity of Good Y imported can be 30 units.
+
+Answer: D
+
+
+Question code: B6C12Q055 (new)
+* To the government, which of the following is necessarily an advantage of imposing a tariff over a quota on imports?
+A.	Retaliation from trading partners will be less likely to happen.
+B.	More revenue can be generated.
+C.	The quantity of imports can be controlled more easily.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C12Q056
+An import quota and a tariff on Good Y both affect ____________ in the importing country.
+(1)	the output level of Good Y
+(2)	the consumption expenditure on Good Y
+(3)	the domestic price of Good Y
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B6C12Q057
+Suppose the demand for Good B is inelastic. Imposing an import quota and a tariff on Good B will both lead to
+(1)	a decrease in the import volume of Good B.
+(2)	an increase in the importing country's consumption expenditure on Good B.
+(3)	an increase in the domestic price of Good B in the importing country.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+
+Question code: B6C12Q058
+Which of the following statements about the effects of a quota and tariff is correct?
+A.	The domestic market price of the imported good will increase in both cases.
+B.	Both of them will reduce import expenditure.
+C.	A tariff will benefit domestic producers but a quota will not.
+D.	In general, government revenue from a quota is greater than that from a tariff.
+
+Answer: A
+
+Question code: B6C12Q059
+Which of the following can explain why a country chooses a quota instead of a tariff to limit the volume of imports?
+A.	The government can increase tax revenue.
+B.	A quota will not increase the price of imported goods but a tariff will.
+C.	The effects of a quota on the volume of imports are more certain than a tariff.
+D.	A quota can prevent retaliation (報復) by the exporting countries.
+
+Answer: C
+
+Question code: B6C12Q060
+Which of the following explains the importance of external trade to Hong Kong?
+(1)	Hong Kong can import goods that it does not produce itself.
+(2)	The value-added from economic activities associated with external trade contributes a significant portion to Hong Kong's GDP.
+(3)	Hong Kong can import advanced machines and technology to improve productivity.
+(4)	Trade helps create employment opportunities in Hong Kong.
+A.	(1) and (3) only
+B.	(1), (2) and (4) only
+C.	(2), (3) and (4) only
+D.	All of the above
+
+Answer: D
+
+
+Question code: B6C12Q061
+Which of the following statements is correct?
+A.	Hong Kong can acquire advanced production technology through international trade.
+B.	As Hong Kong lacks natural resources, it does not have any comparative advantage in external trade.
+C.	Hong Kong's external trade is not important to its economic growth.
+D.	Hong Kong is a manufacturing base.
+
+Answer: A
+
+Question code: B6C12Q062
+The following are Hong Kong's attempts to meet challenges faced by its industries EXCEPT
+A.	economic restructuring.
+B.	setting up different institutions to promote trade.
+C.	imposing trade barriers on imports from less developed countries.
+D.	raising its value-added and productivity.
+
+Answer: C
+
+Question code: B6C12Q063
+Which of the following are Hong Kong's solutions to fierce competition from other countries?
+(1)	Imposing a minimum wage
+(2)	Introducing advanced technology to raise productivity
+(3)	Actively participating in international organisations and conferences
+(4)	Encouraging Hong Kong firms to invest abroad
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	All of the above
+
+Answer: B
+
+
+Question code: B6C12Q064
+Which of the following institutions in Hong Kong can help promote foreign trade?
+(1)	Hong Kong Trade Development Council
+(2)	Hong Kong Export Credit Insurance Corporation
+(3)	Hong Kong Tourism Board
+(4)	Trade and Industry Department
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: D
+
+Question code: B6C12Q065
+Which of the following is NOT an effect of Hong Kong's signing of CEPA with the mainland of China?
+A.	The volume of exports from Hong Kong to the mainland will increase.
+B.	The amount of services provided by Hong Kong to the mainland will increase.
+C.	More Hong Kong enterprises can gain greater access to the mainland market.
+D.	Hong Kong will lose its comparative advantage in providing professional services.
+
+Answer: D
+
+
+Short Questions
+
+Question code: B6C12Q301
+(a)	Define trade barriers.	(2 marks)
+(b)	List TWO types of trade barriers.	(2 marks)
+
+Answers:
+(a)	Trade barriers are restrictions imposed by the government on international trade.
+	(2 marks)
+(b)	Tariffs, import surcharges, quotas, export subsidies, embargoes and exchange controls
+(Any TWO of the above or other correct answers, 1 mark × 2 = 2 marks)
+
+
+Question code: B6C12Q302 (new)
+Explain whether domestic consumers and domestic producers will gain or lose under a tariff.	(5 marks)
+
+Answers:
+•	A tariff raises the market price of a good.	(1 mark)
+•	Domestic consumers lose because they have to pay a higher price and consume less.	(2 marks)
+•	Domestic producers gain because they can enjoy higher revenue due to the higher market price and more domestic output.	(2 marks)
+
+Question code: B6C12Q303 (new)
+Country A is a small open economy. The following diagram shows the market for Good X in Country A. Pw is the international price.
+
+
+
+Suppose the government of Country A imposes a tariff on the import of Good X. How does the tariff affect the price, consumption, domestic production and quantity of imports of Good X in Country A? Show the changes in the above diagram and explain your answer.	(7 marks)
+
+
+Answers:
+Indicate on the diagram:
+•	Consumption (Q4) and domestic production (Q1) under free trade	(1 mark)
+•	Price under the tariff (Pt)	(1 mark)
+•	Consumption (Q3) and domestic production (Q2) under the tariff	(1 mark)
+
+
+Verbal elaboration:
+•	The price of Good X increases from Pw to Pt.	(1 mark)
+•	Domestic production increases from Q1 to Q2.	(1 mark)
+•	Consumption decreases from Q4 to Q3.	(1 mark)
+•	Quantity of imports decreases from Q4Q1 to Q3Q2.	(1 mark)
+
+Question code: B6C12Q304 (new)
+Country B is a small economy. Suppose it imposes a per unit tariff on imported tablet computers (平板電腦). With the aid of a diagram, explain how this affects the equilibrium price, the quantity of imports and the total expenditure in Country B's tablet computer market.	(6 marks)
+
+
+Answers:
+•	The equilibrium price of tablet computers increases from Pw to Pt.	(1 mark)
+•	The quantity of imports decreases from Q1Q2 to Q3Q4.	(1 mark)
+•	The total expenditure changes from Area PweQ20 to Area PtdQ40.	(1 mark)
+	(3 marks)
+
+Question code: B6C12Q305 (new)
+Country A is a small open economy. To protect its domestic industry, Country A's government decides to impose a tariff on Good X. With the aid of a diagram, explain how the tariff affects the domestic price and quantity transacted of Good X.	(5 marks)
+
+
+Answers:
+•	The domestic price increases from Pw to Pt.	(1 mark)
+•	The quantity transacted decreases from Q4 to Q3.	(1 mark)
+•	Any correct diagram	(3 marks)
+
+Supply with a tariff: abcdt    Supply with free trade: abef
+World price: Pw    Price with a tariff: Pt
+Quantity transacted of Good X (with free trade): Q4
+Quantity transacted of Good X (with tariff): Q3
+
+Question code: B6C12Q306 (new)
+Country A is a small open economy. Recently, it signed a new agreement with Country B. Under the new agreement, Country A will abolish all tariffs imposed on Country B's products. With the aid of a diagram, explain how the agreement affects the total revenue of Country A's producers and the total revenue of Country B's producers from exporting products to Country A.	(6 marks)
+
+
+Answers:
+•	After the abolition of tariffs, the domestic prices of products imported from Country B would decrease from Pt to Pw.	(1 mark)
+•	Total revenue of Country A's producers would decrease from Area (U + V + X + Y + L) to Area (X + Y).	(1 mark)
+•	Total revenue of Country B's producers from exporting products to Country A would change from Area (R + M) to Area (L + M + N).	(1 mark)
+•	Any correct diagram	(3 marks)
+
+Supply with a tariff: abcdt    Supply with free trade: abef
+World price: Pw    Price with a tariff: Pt
+
+Question code: B6C12Q307 (new)
+Country Y produces rice domestically but it also imports rice. The rice farmers of Country Y complain that the price of rice is too low. They ask the government to restrict the import of rice to raise the domestic price. As a result, the government imposes a quota on imported rice.
+(a)	With the aid of a diagram, explain under what situation the quota is ineffective.
+	(5 marks)
+(b)	Draw the supply curve under an effective quota and show the price under the quota in the diagram drawn in (a).	(2 marks)
+
+
+Answers:
+
+
+(a)	Indicate on the diagram:
+•	Quantity of imports under free trade	(1 mark)
+•	An ineffective import quota	(2 marks)
+	Verbal elaboration:
+	When the import quota is greater than the quantity of imports under free trade, the import quota is ineffective.	(2 marks)
+(b)	Indicate on the diagram:
+•	The supply curve under an effective quota (Sq')	(1 mark)
+•	Price under the effective quota (Pq)	(1 mark)
+
+
+Question code: B6C12Q308 (new)
+Country A is a small closed economy. It produces noodles. The following diagram shows the supply and demand curves of noodles in Country A. Point A represents the market equilibrium under autarky. 
+
+
+
+Country A implements a new policy. It starts to import noodles at the international price, Pw. But the trade is restricted by an effective import quota. The government assigns all quotas to an importer free of charge.
+(a)	Draw the supply curve under a quota on the above diagram and indicate the new market price.	(2 marks)
+(b)	Compared to the situation under autarky and using the aid of the above diagram, explain whether the following parties will gain or lose from the new policy.
+	(i)	Domestic consumers	(3 marks)
+	(ii)	Domestic producers	(3 marks)
+
+
+Answers:
+
+
+(a)	Indicate on the diagram:
+•	The new supply curve with an effective quota (Sq)	(1 mark)
+•	New market price (Pq)	(1 mark)
+(b)	(i)	Indicate on the diagram:
+		New domestic consumption (Q1)	(1 mark)
+		Verbal elaboration:
+		Compared to the situation under autarky, domestic consumers gain because they can enjoy more output at a lower price.	(2 marks)
+	(ii)	Indicate on the diagram:
+		New domestic production (Q2)	(1 mark)
+		Verbal elaboration:
+		Domestic producers lose because they sell less output at a lower price.
+	(2 marks)
+
+Question code: B6C12Q309 (new)
+Country H is a small open economy which has imposed effective quotas on its imports. Suppose the government decides to remove all quotas. With the aid of a diagram, explain how this affects Country H's consumers and producers.	(6 marks)
+
+
+Answers:
+•	After the removal of quotas, the supply curve changes from line abcdq to line abcef.	(1 mark)
+•	Country H's consumers gain as they can consume more goods (increases from Q4 to Q2) at a lower price (decreases from Pq to Pw).	(1 mark)
+•	Country H's producers lose as they can only sell fewer goods [decreases from (Q1 + Q3 - Q4) to Q1] at a lower price (decreases from Pq to Pw).	(1 mark)
+•	Any correct diagram	(3 marks)
+
+Supply with quota: abcdq    Supply with free trade: abcef
+World price: Pw    Price with a quota: Pq
+
+Question code: B6C12Q310
+Country A is a small garment importer. Suppose Country A imposes an effective import quota on garments. What are the effects of the imposition of a quota on the quantity transacted and the equilibrium price in Country A's garment market? Explain with the aid of a diagram.	(6 marks)
+
+
+Answers:
+•	Since the quota is effective, the original quantity imported (Q1Q2) is greater than that permitted under the quota (Q3Q4).	(1 mark)
+•	The quantity transacted of garments decreases from Q2 to Q4.	(1 mark)
+•	The equilibrium price of garments increases from Pw to Pq.	(1 mark)
+	(3 marks)
+
+Question code: B6C12Q311
+Country A is a small open economy. To protect its domestic industry, Country A's government decides to impose an effective quota on Good Y.
+(a)	Draw ONE diagram to show how the quota affects the domestic price of Good Y and the quantity transacted of Good Y.	(4 marks)
+(b)	Determine whether the quota benefits the following parties and briefly explain your answer with the aid of the diagram drawn in (a).
+(i)	Domestic consumers	(2 marks)
+*(ii)	Domestic importers (assuming that the quota is allocated to importers for 
+free)	(2 marks)
+
+
+Answers:
+(a)	Any correct diagram	(4 marks)
+
+Supply with a quota: abcdq    Supply with free trade: abcef
+World price: Pw    Price with a quota: Pq
+Quantity transacted of Good Y (with free trade): Q2
+Quantity transacted of Good Y (with quota): Q3
+(b)	(i)	Domestic consumers enjoy less of Good Y and pay a higher price.	(1 mark)
+Thus, domestic consumers will suffer.	(1 mark)
+(ii)	Domestic importers can import Good Y at a lower price (Pw) and sell at a higher price (Pq). Hence, domestic importers gain.	(2 marks)
+
+Question code: B6C12Q312
+Briefly explain how the imposition of quotas affects the quality of imports.	(3 marks)
+
+Answers:
+Importers have to pay a cost to compete for quotas. After the addition of a unit quota-cost, the money prices of higher quality imports rise by a smaller percentage than the money prices of lower quality imports. In other words, the relative prices of higher quality imports drop. By the law of demand, the importing country will import a greater proportion of higher quality goods. Hence, the average quality of imports improves.	(3 marks)
+
+
+Question code: B6C12Q313
+(a)	What are an import quota and a tariff?	(2 marks)
+(b)	Suppose a country's demand for imported goods is not perfectly inelastic.
+(i)	'A decrease in the amount of import quotas must decrease the volume of imports.' Evaluate this statement. 	(2 marks)
+(ii)	'An increase in tariffs must decrease the volume of imports.' Evaluate this statement.	(4 marks)
+
+Answers:
+(a)	•	An import quota refers to the maximum limit imposed on the quantity of imports.	(1 mark)
+•	A tariff is a tax imposed on imports.	(1 mark)
+(b)	(i)	•	The statement is incorrect. A decrease in the amount of import quotas may not decrease the volume of imports.	(1 mark)
+•	Suppose the original quotas are ineffective. After the decrease in the amount of import quotas, if the quotas are still ineffective, the volume of imports will remain unchanged.	(1 mark)
+(ii)	•	The statement is correct.	(1 mark)
+•	Before the increase in tariffs, the domestic prices of imports must be lower than the domestic autarkic equilibrium prices of the goods (otherwise, the country will not import the goods).	(1 mark)
+•	After the increase in tariffs, the domestic prices of imports will increase. Domestic consumers will buy fewer imports and the volume of imports will decrease.	(2 marks)
+
+
+Question code: B6C12Q314 (new)
+The following shows the supply and demand curves of a small open economy.
+
+Show in the above diagram:
+(a)	The situation of charging an import tariff. Indicate the quantity transacted and domestic price as Qt and Pt, respectively.	(3 marks)
+(b)	The situation of imposing an effective import quota in addition to the situation presented in (a). Indicate the quantity transacted and domestic price and Qtq and Ptq, respectively.	(3 marks)
+
+Answers:
+(a)	
+		(3 marks)
+
+(b)	
+	(3 marks)
+
+Question code: B6C12Q315
+* Country A is a small importer. To protect its local industries, the government decides to impose either an import quota or a per unit tariff.
+Briefly explain under what situation both an import quota and a per unit tariff have the same effect on import volume. Use ONE diagram to show your answer.	(6 marks)
+
+
+Answers:
+•	If both the quota and the tariff lead to the same increase in the domestic price of the imported good (or the domestic prices after the imposition of the quota and the tariff are the same), the two measures will have the same effect on import volume.
+	(2 marks)
+•	Any correct diagram	(4 marks)
+
+Supply with a quota: abhdq     Supply with a tariff: abcdt
+Import volume before the imposition of a quota or tariff: Q1Q2
+Import volume with a quota or tariff: Q3Q4
+World price: Pw    Price with a quota: Pq    Price with a tariff: Pt
+
+Question code: B6C12Q316
+* Country A is a small open economy. Suppose the government in Country A decides to impose either a tariff or a quota to limit the amount of imported cars.
+(a)	With the aid of a diagram, briefly explain under what situation a tariff will be ineffective in reducing the amount of imported cars. What is the change in the domestic price of imported cars?	(5 marks)
+(b)	With the aid of a diagram, explain under what situation a quota will be ineffective in reducing the amount of imported cars. What is the change in the domestic price of imported cars?	(5 marks)
+
+
+Answers:
+(a)	•	A tariff cannot reduce the import volume if there is no domestic supply (i.e., no domestic substitutes) and the demand is perfectly inelastic (i.e., the quantity demanded remains unchanged even when the price increases).	(2 marks)
+•	The domestic price of imported cars will increase by the amount of the tariff (t).	(1 mark)
+	(2 marks)
+(Accept other reasonable answers.)
+(b)	•	A quota cannot reduce the import volume if the amount of the quota is greater than the original quantity imported.	(2 marks)
+•	The domestic price of imported cars will remain unchanged at Pw.	(1 mark)
+	(2 marks)
+
+
+Question code: B6C12Q317
+* Recently, Country A's beer producer associations have urged the government to limit the amount of beer imported from Country B. They claim that the competition between the two countries is unfair as the wage rate in Country B is much lower. Suppose Country A is a small open economy and the demand for beer is perfectly inelastic. The government decides to implement one of the following measures:
+(I)	Imposing a unit tariff (the amount is equal to k)
+(II)	Imposing a quota (the unit price of the quota is equal to k)
+Draw ONE diagram to show their effects on the domestic price of beer, the quantity of beer imported and the domestic production of beer. Briefly explain your answer.
+	(7 marks)
+
+Answers:
+•	A correct diagram	(4 marks)
+
+Supply with a tariff: abcdt    Supply with a quota: abhdq
+World price: Pw    Price with a quota: Pq    Price with a tariff: Pt (= Pq)
+•	In both cases, the domestic price of beer increases from Pw to Pw + k.	(1 mark)
+•	In both cases, the quantity of beer imported decreases from Q1Q2 to Q3Q2.
+	(1 mark)
+•	In both cases, the domestic production of beer increases from Q1 to Q3.	(1 mark)
+
+
+
+Structured Questions
+
+Question code: B6C12Q501 (new)
+Country H is a small open economy. The following are its demand and supply schedules for vegetables under autarky.
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units)	
+0	900	0	
+100	750	75	
+200	600	150	
+300	450	225	
+400	300	300	
+500	150	375	
+600	0	450	
+
+(a)	Under autarky, what are the equilibrium price and equilibrium quantity?	(2 marks)
+(b)	Suppose the world price of vegetables is $200/unit.
+	(i)	How many units of vegetables will Country H consume? How many units of vegetables will Country H import?	(2 marks)
+(ii)	What is the total value of vegetables produced by Country H's producers? Show your work.	(2 marks)
+(c)	Suppose the world price is still $200/unit. If Country H's government imposes a tariff of $100 for each unit of vegetable imported, find
+	(i)	the change in the quantity of imports.	(2 marks)
+	(ii)	the tariff revenue.	(2 marks)
+(d)	'The imposition of an effective quota may raise the total value of vegetables imported.' Do you agree? Explain your answer.	(3 marks)
+
+Answers:
+(a)	Equilibrium price = $400	(1 mark)
+	Equilibrium quantity = 300 units	(1 mark)
+(b)	(i)	Country H will consume 600 units of vegetables.	(1 mark)
+		The country will import 450 (= 600 - 150) units of vegetables.	(1 mark)
+(ii)	Total value of vegetables produced = $200 × 150 = $30,000	(2 marks)
+(c)	(i)	The new quantity of imports is 225 (= 450 - 225) units.	(1 mark)
+	The quantity of imports decreases by 225 units (from 450 units to 225 units).
+	(1 mark)
+(ii)	Tariff revenue = $100 × 225 = $22,500	(2 marks)
+
+(d)	Agree. Although the quantity of imported vegetables decreases, the price of the vegetables increases due to the quota restriction. The total value of imported vegetables will increase if the percentage increase in price is greater than the percentage decrease in quantity.	(3 marks)
+
+Question code: B6C12Q502 (new)
+* Country D is a small open economy. The following diagrams show the market for Good X. St (line abce) is the supply curve under a tariff and Sq (line abdf) is the supply curve under a quota.
+(a)	Suppose the demand for Good X increases. Compare the changes in prices and quantities of imports under the tariff and the quota with the aid of the diagram below. Indicate the new equilibrium point(s) under the tariff and the quota on the diagram.	(6 marks)
+
+	
+
+
+(b)	Suppose the international price of Good X increases from Pw to Pw' and hence the supply under free trade changes from Sf to Sf'. Assume the quantity of the quota and the amount of the tariff remain the same. Draw the new supply curves under the quota and the tariff. Compare the changes in prices and quantities of consumption under the tariff and the quota with the aid of the diagram below.
+	(8 marks)
+	
+
+Answers:
+(a)	Indicate on the diagram:
+	•	New equilibrium point under a quota (Point B)	(1 mark)
+	•	New equilibrium point under a tariff (Point C)	(1 mark)
+	
+
+
+	Verbal elaboration:
+	•	Under a quota, the quantity of imports remains unchanged as the quota is fixed at Q2Q1. However, the quantity of imports increases by Q3Q4 under a tariff.
+	(2 marks)
+	•	Under a quota, the price increases from P1 to P2. However, under a tariff, 
+the price remains unchanged as the international price and the tariff are unaffected.	(2 marks)
+(b)	Indicate on the diagram:
+	•	New supply curve under quota (Sq', i.e., line aghf)	(2 marks)
+	•	New supply curve under tariff (St', i.e., line aik)	(2 marks)
+	
+	Verbal elaboration:
+	•	Under a quota, the price remains unchanged at P1. However, the price increases from P1 to P3 under a tariff.	(2 marks)
+	•	Under a quota, the quantity of consumption remains unchanged at Q0. However, under a tariff, the quantity of consumption decreases from Q0 to Q5.
+	(2 marks)
+
+Question code: B6C12Q503
+Country A is a small open economy. It imports a large number of taro cakes from its only trading partner, Country B. Recently, it was rumoured in Country A that some imported taro cakes were contaminated with melamine (三聚氰胺).
+(a)	(i)	Country A's government decides to impose a quota on imported taro cakes. With the aid of a diagram, explain how the quota affects the equilibrium price and equilibrium quantity of taro cakes in Country A.	(5 marks)
+(ii)	Explain how the imposition of a quota can help improve the quality of imported taro cakes.	(3 marks)
+
+(b)	Suppose there is no trade restriction on taro cakes. Due to the rumour, some people in Country A decide to eat fewer taro cakes. With the aid of a diagram, explain how this affects the equilibrium price, the equilibrium quantity and the domestic production of taro cakes in Country A.	(5 marks)
+(c)	Suppose there are only two goods: taro cakes and clothing. If Country A has an absolute advantage in producing taro cakes, briefly explain why Country A can still gain from importing taro cakes.	(4 marks)
+
+Answers:
+(a)	(i)	•	The equilibrium price of taro cakes increases from Pw to Pq.	(1 mark)
+•	The equilibrium quantity of taro cakes decreases from Q2 to Q4.	(1 mark)
+	(3 marks)
+	(ii)	Importers have to pay a cost to compete for quotas. After the addition of a 
+unit quota-cost, the money prices of higher quality imports rise by a smaller percentage than the money prices of lower quality imports. In other words, 
+the relative prices of higher quality imports drop. By the law of demand, 
+Country A will import a greater proportion of higher quality taro cakes. 
+Hence, the average quality of imported taro cakes improves.	(3 marks)
+
+
+(b)	•	The equilibrium price remains unchanged at Pw.	(1 mark)
+•	The equilibrium quantity decreases from Q2 to Q3.	(1 mark)
+•	The domestic production remains unchanged at Q1.	(1 mark)
+	(2 marks)
+
+(c)	Country A may gain from importing taro cakes if it has a comparative disadvantage in producing taro cakes.	(1 mark)
+Even if Country A has an absolute advantage in producing taro cakes, it may have a comparative disadvantage in producing taro cakes and a comparative advantage in producing clothing.	(1 mark)
+If the international price of taro cakes is lower than Country A's production cost, Country A can obtain taro cakes at a lower cost by importing taro cakes. Thus, it can gain from these imports.	(2 marks)
+
+Question code: B6C12Q504
+Country J was hit by an earthquake. Many people died and a nuclear power plant was destroyed. Now, Country J faces a serious problem of radioactive contamination (輻射污染), which will have a long-lasting effect on the environment.
+(a)	With the aid of an AS-AD diagram, explain how this affects Country J's output level and price level in the long run.	(8 marks)
+(b)	Country H, a small open economy, decides to impose effective quotas on 
+Country J's imports. Assume that all world prices remain unchanged. With the aid of a diagram, explain how the quotas affect Country H's domestic price of imported goods and domestic consumption.	(5 marks)
+(c)	To help the economy recover, Country J's central bank adopts a monetary policy.
+(i)	Which type of monetary policy should the central bank adopt?	(1 mark)
+(ii)	Suggest TWO tools of monetary policy which can help Country J's economy recover.	(2 marks)
+
+(iii)	Use the quantity theory of money to evaluate the effectiveness of the policy in the long run.	(3 marks)
+
+Answers:
+(a)	•	The decrease in population and radioactive contamination lead to a decrease in aggregate demand and long run aggregate supply. Also, the destruction of the nuclear energy plant leads to a decrease in the long run aggregate supply.
+	(2 marks)
+•	In the long run, the output level will decrease.	(1 mark)
+•	The change in the price level is uncertain. The price level may increase, decrease or remain unchanged, depending on the magnitude of the decrease in AD and the decrease in LRAS.	(2 marks)
+•	Any correct diagram	(3 marks)
+	
+
+(b)	•	The domestic price increases from Pw to Pq.	(1 mark)
+•	Domestic consumption decreases from Q2 to Q4.	(1 mark)
+•	Any correct diagram	(3 marks)
+
+(c)	(i)	Expansionary monetary policy	(1 mark)
+(ii)	•	Open market purchases of government bonds
+•	Lowering the discount rate
+•	Lowering the required reserve ratio
+•	Printing money
+(Any TWO of the above, 1 mark × 2 = 2 marks)
+(iii)	According to the quantity theory of money, real national income is a constant in the long run, always staying at the full employment level. Only the price level changes positively by the same proportion as the nominal money supply. The increase in the nominal money supply will not affect the output level but may cause inflation.	(3 marks)

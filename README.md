@@ -1,8 +1,8 @@
-# Biology Bank
+# DSE Study Library
 
-A responsive HKDSE Biology question bank that runs entirely in the browser. It includes 2,920 indexed Aristo questions, 1,451 standalone Oxford text questions, 46 Oxford Word bank and update documents, and a 34-part Oxford chapter index (Ch1–Ch30, E1–E4). The app opens on a navigation hub and supports English and Traditional Chinese, light/dark/system themes, responsive layouts, question filters, saved questions, collections and quizzes. No backend or API key is needed. Personal data stays in the browser; export a backup from **Settings & backup** to move it to another device.
+A responsive HKDSE Biology and Economics question bank that runs entirely in the browser. It includes 2,920 indexed Aristo questions, 1,451 standalone Oxford text questions, 46 Oxford Word bank and update documents, and 3,947 Pearson Economics questions across 35 renamed topic files. The app opens on a navigation hub and supports English and Traditional Chinese, light/dark/system themes, responsive layouts, question filters, saved questions, collections and quizzes. No backend or API key is needed. Personal data stays in the browser; export a backup from **Settings & backup** to move it to another device.
 
-The library supports topic, type, publisher and text filters; personal topic/type changes and tags; saved questions and collections; timed and untimed quizzes; and question papers with original diagrams exported to PDF or Word. Name a paper before exporting; supported browsers can also save it to a chosen folder and filename. Source PDFs and the app's PDF/DOCX tools are included in the published site. Oxford chapter entries covered by a complete update book open its illustrated preview and download that full DOCX. The five native `.docx` files are copied unchanged from the resources folder, with their original download names. The 47 legacy `.doc` originals are preserved in `resources/Oxford DOC backup/`; their paired DOCX text editions now live in `resources/Oxford resource/`. Chapter 1 and elective entries remain text-only until matching full illustrated DOCX files are available.
+The library supports topic, type, publisher and text filters; personal topic/type changes and tags; saved questions and collections; timed and untimed quizzes; and question papers with original diagrams exported to PDF or Word. Name a paper before exporting; supported browsers can also save it to a chosen folder and filename. Source PDFs and the app's PDF/DOCX tools are included in the published site. Oxford chapter entries covered by a complete update book open its illustrated preview and download that full DOCX. The five native `.docx` files are copied unchanged from the resources folder, with their original download names. The 47 legacy `.doc` originals are preserved in `resources/Oxford DOC backup/`; their paired DOCX text editions now live in `resources/Oxford resource/`. Chapter 1 and elective entries remain text-only until matching full illustrated DOCX files are available. Economics source names use the requested `101.doc` through `715.doc` pattern. The generated Economics DOCX and PDF editions are extracted text editions; the published source folder also includes the untouched `.doc` file so graphs, images and original layout remain available while a desktop Word conversion is unavailable.
 
 ## Open it locally
 
@@ -25,6 +25,18 @@ The workflow publishes only the site, vendor libraries and `bank/`. It excludes 
 All 130 supplied Aristo question-bank PDFs are indexed, together with 28 integrated questions from two additional PDFs. The remaining 43 chapter-test PDFs are available as complete papers in **Source documents**. They do not have reliable question-boundary markers and are excluded from individual-question quizzes.
 
 The Oxford bank was absent from the first app build because its legacy Word sources had not been imported. The Oxford sources are now indexed in-app across Ch1–Ch30 and E1–E4. All 46 documents open in a Word-style preview. The five native `.docx` update books display supported formatting, tables and embedded images, and are linked to chapters Ch2–Ch30 for preview and full-DOCX downloads. Chapter 1 and E1–E4 use text-only editions because no matching full illustrated DOCX is currently available. Preview pagination is approximate; complex Word drawings, equations, and unsupported elements may differ from the downloaded original. The matching `.doc` originals are retained under `resources/Oxford DOC backup/`. The quiz setup lets users choose Oxford, Aristo, or both, along with chapters, question type and a saved/selected question pool. The Oxford quiz index contains 1,451 standalone text questions with answer keys or marking schemes. Items referring to missing figures, equations, labels, or shared passages are excluded. Oxford PDF downloads are text editions without the original diagrams or layout.
+
+## Economics Import
+
+The Economics importer reads `Econ resources/Pearson by topic`, renames source identities by book and chapter (`b1c01` becomes `101.doc`), indexes the extracted questions, and writes the generated assets to `bank/economics/`. Run it from this checkout with the bundled `docx` module when needed:
+
+```powershell
+$env:DOCX_MODULE = 'path/to/docx'
+npm run convert:economics
+node scripts/import-economics.mjs
+```
+
+Each Economics source has a generated `.docx` text edition, a browser-generated text PDF option, and a copy of the original `.doc` file under `bank/economics/originals/`. The text editions are marked `wordEdition: "text"` and `mediaPreserved: false` in `bank/economics/index.json`; the original download is the media-preserving source until a Word or LibreOffice conversion can run in an interactive desktop session.
 
 ## Prepare An Updated Bank
 

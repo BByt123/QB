@@ -1,0 +1,2122 @@
+Chapter 15 	Consumer surplus and producer surplus
+
+Multiple Choice Questions
+
+Question code: B3C15Q001
+When the consumption of a good increases, the total benefit of a good will probably increase because
+A.	marginal benefit may still be positive.
+B.	marginal benefit decreases with the increase in quantity.
+C.	total benefit cannot be negative.
+D.	marginal benefit will not change.
+
+Answer: A
+Explanation:
+Although the marginal benefit decreases with the increase in quantity, marginal benefit may still be positive so that the total benefit will increase by consuming one more unit of a good. 
+
+Question code: B3C15Q002
+Referring to the table below, the values of X and Y should be
+
+Quantity	Total benefit	Marginal benefit	
+5	$30	$X	
+4	$28	$4	
+3	$Y	Unknown	
+
+A.	2 and 21.
+B.	2 and 24.
+C.	3 and 21.
+D.	3 and 24.
+
+Answer: B
+
+
+Question code: B3C15Q003
+Referring to the following table, if the price of a good is $4, what will the consumer surplus be?
+
+Quantity	Total benefit	Marginal benefit	
+5	$30	$X	
+4	$28	$4	
+3	$Y	Unknown	
+
+A.	$8
+B.	$12
+C.	$24
+D.	$36
+
+Answer: B
+
+Question code: B3C15Q004
+A downward-sloping marginal benefit curve implies that
+A.	a consumer's maximum willingness to pay for a good is increasing.
+B.	the maximum demand-price for a good decreases as more of the goods are consumed.
+C.	a rational consumer will maximise his gain by buying fewer goods.
+D.	a seller will charge a lower price if more goods are consumed.
+
+Answer: B
+
+
+Question code: B3C15Q005
+The following table shows a consumer's total benefit from consuming Good M.
+
+Quantity (units)	Total benefit ($)	
+1	6	
+2	11	
+3	15	
+4	18	
+5	20	
+
+If the market price is $4, what will the consumer surplus be?
+A.	$1
+B.	$2
+C.	$3
+D.	$4
+
+Answer: A
+
+Question code: B3C15Q006
+A rational consumer will increase his consumption until
+A.	his marginal benefit is equal to zero.
+B.	his marginal benefit is lower than the price.
+C.	his marginal benefit equals his demand.
+D.	his maximum willingness to pay for an extra unit of a good equals the price.
+
+Answer: D
+
+Question code: B3C15Q007
+Mary says that her marginal benefit of the 11th apple is still greater than the market price after she buys 10 apples. We may conclude that
+A.	Mary will buy more than 10 apples.
+B.	Mary's demand for apple is inelastic. 
+C.	Mary should buy fewer apples.
+D.	Mary will not buy apples anymore.
+
+Answer: A
+
+
+Question code: B3C15Q008
+If Mary's marginal benefit of the last apple equals its price, then
+A.	Mary should buy fewer apples to increase her consumer surplus.
+B.	Mary should buy more and more apples as her marginal benefit is still positive.
+C.	Mary will buy more apples if the price increases, which means that the marginal benefit will also increase.
+D.	Mary will not buy more apples if she is rational.
+
+Answer: D
+
+Question code: B3C15Q009
+When Mary's marginal benefit of the last unit of apple is $4, we observe that she buys two units of apples. When Mary's marginal benefit of the last unit of apple is $3, we observe that she buys three units of apples. We can conclude that
+A.	if the marginal benefit of apples increases, Mary's demand for apples will decrease.
+B.	Mary's demand is not consistent with the law of demand.
+C.	Mary's behaviour can be rational if the market price decreases from $4 to $3.
+D.	Mary's demand for apples is unitarily elastic.
+
+Answer: C
+
+Question code: B3C15Q010
+A rational consumer will continue to buy until
+A.	the marginal benefit of the good is equal to zero.
+B.	the total benefit is equal to the total cost.
+C.	his total revenue is maximised.
+D.	the marginal benefit is equal to the market price.
+
+Answer: D
+
+
+Question code: B3C15Q011
+If we find that every consumer except Mr Y in a market consumes up to the point where MB = P, then
+A.	Mr Y's consumer surplus can be maximised by consuming more of the good.
+B.	Mr Y will enjoy the largest consumer surplus.
+C.	the total social surplus will be maximised when all the producers produce up to the point where MC = P.
+D.	Mr Y suffers a loss in consumer surplus.
+
+Answer: D
+
+Question code: B3C15Q012
+A consumer will want to buy fewer units if
+A.	the marginal benefit of a good is greater than the price of the good.
+B.	the marginal benefit of a good is smaller than the price of the good.
+C.	the marginal benefit of a good is equal to the price of the good.
+D.	the total social surplus is not maximised.
+
+Answer: B
+
+Question code: B3C15Q013
+Referring to the diagram below, we may conclude that
+
+A.	if Mary buys 10 units of apples, her consumer surplus will be minimised.
+B.	the market price is too high for Mary.
+C.	if the market price is lower than $4, Mary will buy not fewer than 10 units of apples.
+D.	we cannot find Mary's consumer surplus as we don't have her demand curve.
+
+Answer: C
+
+Question code: B3C15Q014
+A consumer's marginal benefit curve for a good is his demand curve for the good because
+A.	a consumer's quantity demanded at a particular price can be obtained by equating the marginal benefit with that price.
+B.	a consumer's demand can be obtained by equating the marginal benefit with the marginal cost.
+C.	marginal benefit is negatively related to price.
+D.	a consumer will consume less if the marginal benefit is higher.
+
+Answer: A
+
+Question code: B3C15Q015
+Referring to the diagram below, which of the following(s) is/are correct?
+
+A.	Total expenditure is equal to $30 when 10 units are bought.
+B.	The consumer surplus is equal to $30 when 10 units are bought.
+C.	Total benefit is equal to $30 when 10 units are bought.
+D.	All of the above are correct.
+
+Answer: A
+
+
+Question code: B3C15Q016
+Referring to the diagram below, which part will represent the loss of a consumer surplus if 15 units of a good are bought when the price is $4?
+
+A.	Area A
+B.	Area B
+C.	Area C
+D.	Area D
+
+Answer: D
+
+Question code: B3C15Q017
+Referring to the diagram below, which part will the consumer surplus represent if 10 units of a good are bought?
+
+A.	Area A
+B.	Area B
+C.	Area C
+D.	Area D
+
+Answer: A
+
+
+Question code: B3C15Q018
+Referring to the diagram below, which part will represent the total benefit if 10 units of a good are bought?
+
+A.	Area A
+B.	Area (A + B)
+C.	Area (B + D)
+D.	Area (A + B + D)
+
+Answer: B
+
+Question code: B3C15Q019
+Referring to the diagram below, which part will represent the consumer surplus if 10 units of a good are bought when price is $4?
+
+A.	Area A
+B.	Area B
+C.	Area C
+D.	Area D
+
+Answer: A
+
+
+Question code: B3C15Q020
+If the marginal cost of Playstation 4, a game console, is constant at $3,000 per unit, then the producer will most likely
+A.	charge $4,000 at the most to earn $1,000 in profit.
+B.	charge at least $3,500 to earn $500 in profit.
+C.	charge at least $3,000 per unit.
+D.	None of the above because no market information is given
+
+Answer: C
+
+Question code: B3C15Q021
+When the production of apples increases from 1 unit to 2 units, the total cost of apples increases by $3. We may conclude that
+A.	the market price of apples will increase by more than $3.
+B.	the total cost of apples must be $6.
+C.	the marginal cost of the second unit of apples is $3
+D.	the marginal cost of the first unit of apples must be higher than $3.
+
+Answer: C
+
+Question code: B3C15Q022
+Referring to the following table, which of the following is INCORRECT?
+
+Quantity	Total cost	Marginal cost	
+5	$15	$A	
+4	$10	$X	
+3	$6	$Y	
+
+A.	The value of A is 5.
+B.	The value of X is 4.
+C.	The value of Y is 2.
+D.	The profit is $10 when the market price is $5.
+
+Answer: C
+
+
+Question code: B3C15Q023
+The marginal cost curve for a good is
+A.	downward sloping.
+B.	a marginal benefit curve.
+C.	a demand curve.
+D.	the supply curve of the good in a perfectly competitive market.
+
+Answer: D
+
+Question code: B3C15Q024
+A producer's marginal cost curve for a good may be regarded as his supply curve of the good if and only if
+A.	the relationship between price and quantity supplied can be found by equating the marginal cost with the price.
+B.	the relationship between price and supply can be found by equating the marginal cost with the price.
+C.	the market price is always greater than the marginal cost.
+D.	the marginal cost is equal to demand.
+
+Answer: A
+
+Question code: B3C15Q025
+In a perfectly competitive market, the producer surplus can be maximised by
+A.	equating the marginal benefit with the marginal cost.
+B.	producing a good until the marginal cost of the last unit equals the price.
+C.	equating the marginal revenue with the marginal cost.
+D.	setting the price higher than the marginal cost.
+
+Answer: B
+
+
+Question code: B3C15Q026
+Suppose a firm is in a perfectly competitive market. Referring to the table below, to maximise the producer surplus, how many units of a good will be supplied if the price of a good is $3?
+
+Quantity	Total cost	
+5	$18	
+4	$11	
+3	$8	
+
+A.	5
+B.	4
+C.	3
+D.	Cannot be determined
+
+Answer: B
+
+Question code: B3C15Q027
+The following table shows the production cost of a price-taking firm.
+
+Total output (units)	1	2	3	4	5	
+Total cost ($)	3	4	6	9	13	
+Fixed cost ($)	1	1	1	1	1	
+
+If the market price is $4, which output level will maximise the producer surplus?
+A.	1 unit
+B.	2 units
+C.	4 units
+D.	5 units
+
+Answer: D
+
+
+Question code: B3C15Q028
+The following table shows the production cost of a price-taking firm.
+
+Total output (units)	1	2	3	4	5	
+Marginal cost ($)	2	4	6	8	10	
+Average variable cost ($)	2	3	4	5	6	
+Fixed cost ($)	2	2	2	2	2	
+
+If the product price is $8,
+A.	the firm will produce 5 units of output to maximise its profit.
+B.	the maximum profit the firm can make is $10.
+C.	the average cost is $5 when the firm maximises its profit.
+D.	the producer surplus is $10.
+
+Answer: B
+Explanation:
+If the product price is $8, the profit maximising output is 4 units where the marginal cost is equal to the price. At this output, the producer surplus is $12 [= ($8 × 4) - ($5 × 4)], while the profit is $10 [= ($8 × 4) - ($5 × 4) - $2]. The average cost is $5.5 
+[= $22 / 4].
+
+Question code: B3C15Q029
+The following table shows the marginal cost schedule of a price-taking firm which has a fixed cost equal to $5.
+
+Quantity (units)	1	2	3	4	5	
+Marginal cost ($)	15	20	25	30	35	
+
+Suppose the market price is $30. At the profit-maximising output level, the producer surplus is __________.
+A.	$15
+B.	$25
+C.	$30
+D.	$35
+
+Answer: C
+
+
+Question code: B3C15Q030
+The following table shows the total cost schedule of a price-taking firm which has a fixed cost equal to $10.
+
+Quantity (units)	Total cost ($)	
+1	20	
+2	30	
+3	50	
+4	80	
+
+Suppose the market price is $30. At the profit-maximising output level, the producer surplus is __________.
+A.	$30
+B.	$40
+C.	$50
+D.	$60
+
+Answer: C
+
+Question code: B3C15Q031
+The table below shows the total cost schedule of a firm in a perfectly competitive market. The fixed cost is equal to $1.
+
+Quantity (units)	Total cost ($)	
+6	17	
+5	12	
+4	8	
+3	5	
+2	3	
+
+When the market price is $3, the quantity supplied is __________ and the producer surplus is __________.
+A.	4 units … $4
+B.	4 units … $5
+C.	5 units … $4
+D.	5 units … $5
+
+Answer: B
+Explanation:
+When the price is $3, the profit-maximising output is 4 units where the marginal cost is equal to the price. At this output, the total variable cost is $7 (= $8 - $1). As a result, the producer surplus is $5 [= ($3 × 4) - $7].
+
+Question code: B3C15Q032
+The total gain from market exchange is maximised when the
+A.	marginal benefit is equal to the marginal cost.
+B.	marginal revenue is equal to the marginal cost.
+C.	marginal benefit is smaller than the marginal cost.
+D.	total benefit is greater than the total cost.
+
+Answer: A
+
+Question code: B3C15Q033
+In a perfectly competitive market, when marginal benefit = marginal cost = price,
+A.	the total social surplus will be maximised.
+B.	the marginal social surplus will be maximised.
+C.	the marginal cost will be maximised.
+D.	the total cost is minimised.
+
+Answer: A
+
+Question code: B3C15Q034
+Refer to the table below. What are the equilibrium price and quantity, respectively?
+
+Quantity	Marginal benefit	Marginal 
+cost	Marginal social surplus	Total social surplus	
+1	$10	$8	Unknown	Unknown	
+2	Unknown	$9	$0	$2	
+3	$8	Unknown	-$2	$S	
+
+A.	$9 …2
+B.	$8 … 3
+C.	$10 … 1
+D.	Cannot be determined
+
+Answer: A
+
+Question code: B3C15Q035
+Referring to the following diagram, which part is the consumer surplus?
+
+A.	Area A
+B.	Area B
+C.	Area (B + C)
+D.	Area (A + B)
+
+Answer: A
+
+Question code: B3C15Q036
+Referring to the following diagram, which part is the producer surplus?
+
+A.	Area (A + B)
+B.	Area (B + C)
+C.	Area B
+D.	Area A
+
+Answer: C
+
+
+Question code: B3C15Q037
+Referring to the following diagram, which part is the total benefit?
+
+A.	Area B
+B.	Area (A + B)
+C.	Area (B + C)
+D.	Area (A + B + C)
+
+Answer: D
+
+Question code: B3C15Q038
+Referring to the diagram below, which part is the total social surplus?
+
+A.	Area A
+B.	Area B
+C.	Area (A + B)
+D.	Area (B + C)
+
+Answer: C
+
+
+Question code: B3C15Q039
+Study carefully the following diagram about a perfectly competitive market.
+
+Which of the following statements about the above diagram is true?
+(1)	Area A represents the consumer surplus.
+(2)	Area B represents producers' total profit.
+(3)	Area C represents the producer surplus.
+(4)	Area (B + C) represents producers' total revenue.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (4) only
+D.	(1), (3) and (4) only
+
+Answer: B
+
+Question code: B3C15Q040
+Which of the following is true in a perfectly competitive market?
+A.	When the producer surplus increases, the consumer surplus must decrease.
+B.	Sellers have perfect market information but consumers do not.
+C.	The total cost curve of a producer is the same as its supply curve.
+D.	Total social surplus is maximised when the marginal benefit is equal to the marginal cost.
+
+Answer: D
+
+
+Question code: B3C15Q041
+Refer to the table below. 
+
+Quantity (units)	Total benefit ($)	Total cost ($)	
+1	15	3	
+2	27	9	
+3	36	18	
+4	42	30	
+5	45	45	
+6	47	63	
+7	48	84	
+
+If the market is perfectly competitive, at what price will the total social surplus be maximised?
+A.	$3
+B.	$5
+C.	$9
+D.	$45
+
+Answer: C
+
+Question code: B3C15Q042
+Refer to the table below.
+
+Quantity (units)	Total benefit ($)	Marginal cost ($)	
+1	11	1	
+2	20	3	
+3	27	4	
+4	32	5	
+5	35	6	
+
+What will the quantity transacted be if the market is perfectly competitive?
+A.	2 units
+B.	3 units
+C.	4 units
+D.	5 units
+
+Answer: C
+
+Question code: B3C15Q043
+The schedule below shows the marginal benefit of consumers and the marginal cost of firms in a perfectly competitive market.
+Quantity (Units)	Marginal benefit ($)	Marginal cost ($)	
+1	110	70	
+2	100	80	
+3	90	90	
+4	80	100	
+Suppose the fixed cost of the firms is $20. Which of the following statements are INCORRECT?
+(1)	The equilibrium price is $100.
+(2)	Producer surplus is maximised when 3 units of output are produced.
+(3)	The efficient output level will be 3 units if and only if the fixed cost becomes zero.
+The total social surplus is $60 when the market equilibrium is achieved.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B3C15Q044
+* When the market price of apples increases from $4 to $5, John's producer surplus decreases. Which of the following can explain this situation?
+A.	John is a profit maximiser.
+B.	John's supply is elastic.
+C.	The apple market is not perfectly competitive.
+D.	The quantity transacted of apples decreases greatly.
+
+Answer: D
+Explanation:
+When the quantity transacted greatly decreases after an increase in price, the gain from the increase in price may be smaller than the loss from the decrease in the quantity transacted. This leads to a decrease in the producer surplus.
+
+
+Question code: B3C15Q045
+Referring to the diagram below, which part is the new consumer surplus?
+
+A.	Area ACF
+B.	Area E0G
+C.	Area BEG
+D.	Area CDF
+
+Answer: C
+
+Question code: B3C15Q046
+Referring to the diagram below, which part is the new producer surplus?
+
+A.	Area ACF
+B.	Area C0F
+C.	Area BEG
+D.	Area E0G
+
+Answer: D
+
+
+Question code: B3C15Q047
+Refer to the diagram below.
+
+If the demand curve shifts from D1 to D2, which part represents the decrease in total social surplus?
+A.	Area BCEA
+B.	Area P1CEP2
+C.	Area AE0
+D.	Area 0EQ2
+
+Answer: A
+
+Question code: B3C15Q048
+Refer to the diagram below.
+
+If the demand curve shifts from D1 to D2, which part represents the decrease in producer surplus?
+A.	Area AEP2
+B.	Area P1CEP2
+C.	Area 0EQ2
+D.	Area Q2ECQ1
+
+Answer: B
+
+Question code: B3C15Q049
+The following diagram shows the supply and demand curves of Good Y in a perfectly competitive market.
+
+There is a shift in the supply curve of Good Y from S1 to S2. As a result,
+A.	consumers enjoy more consumer surplus.
+B.	the marginal benefit of consuming the last unit decreases.
+C.	the demand for Good Y increases. 
+D.	producers enjoy less producer surplus.
+
+Answer: D
+
+
+Question code: B3C15Q050
+Refer to the diagram below.
+
+If the demand curve shifts from D1 to D2, what does Area ECQ1Q2 represent?
+A.	Decrease in consumers' total expenditure
+B.	Decrease in consumer surplus
+C.	Decrease in producer surplus
+D.	Decrease in total variable cost
+
+Answer: D
+
+Question code: B3C15Q051
+The following diagram shows the supply and demand curves of smartphones in a perfectly competitive market.
+
+There is a shift in the demand curve of smartphones from D1 to D2. As a result,
+A.	both the consumer surplus and the producer surplus decrease.
+B.	the consumer surplus decreases but the producer surplus increases.
+C.	the consumer surplus increases but the producer surplus decreases.
+D.	both the consumer surplus and the producer surplus increase.
+
+Answer: A
+
+Question code: B3C15Q052
+The schedule below shows the marginal benefit of consumers.
+
+Quantity (Units)	Marginal benefit ($)	
+1	100	
+2	90	
+3	80	
+4	70	
+
+Suppose the market price is $90. Which of the following statements are INCORRECT?
+(1)	At this market price, the consumer surplus is maximised when two units of the good are consumed.
+(2)	We cannot find the consumer surplus since we do not have information about the marginal cost.
+(3)	If there is an increase in supply so that the price decreases to $70, the consumer surplus will increase by $60.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation:
+Option (3) is incorrect. The old consumer surplus is $10 (= $100 + $90 - $180). The new consumer surplus is $60 (= $100 + $90 + $80 + $70 - $280). Thus, the consumer surplus will increase by $50 (= $60 - $50).
+
+
+Question code: B3C15Q053
+The schedule below shows the marginal cost of a producer in a perfectly competitive market.
+
+Output (Units)	Marginal cost ($)	
+1	70	
+2	80	
+3	90	
+4	100	
+
+Suppose the market price is $80 and the fixed cost is $10. Which of the following statement(s) is/are correct?
+(1)	The producer will sell two units of the good.
+(2)	The producer can charge a higher price if he is willing to sell 4 units of output.
+(3)	When the price increases to $100 due to an increase in demand, the producer surplus will increase to $60.
+A.	(1) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: C
+
+Question code: B3C15Q054
+An increase in the consumer surplus may be caused by
+A.	an increase in demand.
+B.	a decrease in supply.
+C.	a decrease in quantity demanded.
+D.	a decrease in quantity transacted.
+
+Answer: A
+
+Question code: B3C15Q055
+A decrease in the producer surplus may be caused by
+A.	an increase in demand.
+B.	a decrease in supply.
+C.	an increase in quantity transacted.
+D.	an increase in quantity supplied.
+Answer: B
+
+Question code: B3C15Q056
+If the demand for a good increases, other things being equal,
+A.	the consumer surplus will remain unchanged when the supply is perfectly inelastic.
+B.	the consumer surplus will increase as the price will decrease.
+C.	the producer surplus will increase as the cost of production will decrease.
+D.	the total social surplus may decrease.
+
+Answer: A
+
+Question code: B3C15Q057
+If the demand for a good decreases, other things being equal,
+A.	producers' income must decrease.
+B.	the producer surplus will increase as the price will decrease.
+C.	the total cost of production will decrease.
+D.	the price will increase as the quantity transacted will decrease.
+
+Answer: C
+Explanation:
+In a perfectly competitive market, a positive price implies a positive marginal cost. When there is a decrease in demand, the quantity transacted will decrease. This will lead to a decrease in total cost.
+
+Question code: B3C15Q058
+When the supply of Good A decreases, its quantity transacted also decreases. If the demand for Good A is elastic, which of the following conclusions can we draw?
+A.	The consumer surplus will decrease.
+B.	Average cost will decrease.
+C.	Marginal cost will decrease.
+D.	Total cost must decrease.
+
+Answer: A
+
+
+Question code: B3C15Q059
+Suppose the demand for a good is elastic and the supply of it is inelastic. If the supply of the good increases, other things being equal, 
+A.	the consumer surplus will decrease.
+B.	the producer surplus will decrease because the price will be lower.
+C.	the consumer surplus will increase because consumers can enjoy more of the good at a lower price.
+D.	the increase in consumers' expenditure will be greater than the increase in producers' revenue.
+
+Answer: C
+
+Question code: B3C15Q060
+Suppose the demand for and supply of soft drinks are both elastic. If the population increases, what will the change in the consumer surplus of soft drinks be?
+A.	Increase
+B.	Remain unchanged
+C.	Decrease
+D.	Indeterminate
+
+Answer: A
+
+Question code: B3C15Q061
+Because of fears about Ebola, more people are wearing masks. In this case, the producer surplus of mask sellers will __________.
+A.	increase
+B.	remain unchanged
+C.	decrease
+D.	None of the above as the change in the producer surplus is indeterminate.
+
+Answer: A
+
+Question code: B3C15Q062
+Which of the following would most likely raise the total social surplus of umbrellas?
+A.	There is a price-cut for raincoats.
+B.	The quality of umbrellas generally decreases.
+C.	Rainfall increases.
+D.	There is less skilled labour to make umbrellas.
+
+Answer: C
+
+Question code: B3C15Q063
+Which of the following would most likely lower the consumer surplus of apples?
+A.	A research report says that apples can cure cancer.
+B.	There is a good harvest of apples.
+C.	The price of oranges increases.
+D.	The technology for growing apples improves.
+
+Answer: C
+
+Question code: B3C15Q064
+Refer to the following diagram.
+
+Suppose Point A is the initial equilibrium. If people expect the price of the good to increase in the future, the new total social surplus would be __________.
+A.	Area KF0
+B.	Area MJP
+C.	Area KBN
+D.	Area MEN
+
+Answer: C
+
+
+Question code: B3C15Q065
+Suppose noodles are a normal good. When people's income increases, the consumer surplus of noodles __________ while the producer surplus __________.
+A.	increases ... increases
+B.	decreases ... increases
+C.	decreases ... decreases
+D.	increases ... decreases
+
+Answer: A
+
+Question code: B3C15Q066
+Businesses prefer to employ people who can speak Mandarin. Which of the following is correct?
+A.	The supply of English courses increases.
+B.	The supply of Mandarin courses will become more elastic.
+C.	The consumer surplus of Mandarin courses decreases.
+D.	The producer surplus of Mandarin courses increases.
+
+Answer: D
+
+Question code: B3C15Q067
+To lower production costs, producers mix pork with chemicals and sell the mixture as lamb. This practice has been exposed. Studies show that the chemicals can be harmful. Which of the following will most likely happen?
+A.	The producer surplus of lamb will increase.
+B.	The price of lamb will decrease.
+C.	The quantity of lamb sold will increase.
+D.	The total social surplus of lamb will increase.
+
+Answer: B
+
+
+Question code: B3C15Q068
+Refer to the following supply and demand schedules of Good X.
+
+Price ($)	Quantity demanded (units)	Quantity supplied (units)	
+2	4	2	
+3	3	3	
+4	2	4	
+5	1	5	
+
+Suppose the price of Good X's complement decreases. Which of the following can be the possible value of the new total social surplus?
+A.	$1
+B.	$3
+C.	$5
+D.	$7
+
+Answer: D
+Explanation:
+Original equilibrium quantity = 3 units
+Original total social surplus = ($5 - $1) + ($4 - $2) + ($3 - $3) = $6
+When the price of Good X's complement decreases, the demand for Good X increases. The total social surplus increases. Only Option D is greater than $6.
+
+
+Question code: B3C15Q069
+Refer to the following supply and demand schedules for toys.
+
+Price ($)	Quantity demanded (units)	Quantity supplied (units)	
+0	6	0	
+2	5	1	
+4	4	2	
+6	3	3	
+8	2	4	
+10	1	5	
+12	0	6	
+
+Suppose specialisation is practised in the production of the toys. Which of the following MUST be true?
+A.	The new consumer surplus is more than $7.
+B.	The new producer surplus is more than $6.
+C.	The new consumer surplus is less than $4.
+D.	The new producer surplus is less than $6.
+
+Answer: B
+Explanation:
+Original equilibrium price = $6
+Original equilibrium quantity = 3 units
+Original consumer surplus = ($10 - $6) + ($8 - $6) + ($6 - $6) = $6
+Original producer surplus = ($6 - $2) + ($6 - $4) + ($6 - $6) = $6
+Specialisation increases the supply of toys. Therefore, both the consumer surplus and the producer surplus rise. They should be more than $6.
+
+Question code: B3C15Q070
+Suppose the urban taxi fare for the first 2 km is reduced by $3. Which of the following is INCORRECT?
+A.	The consumer surplus for the taxi service increases.
+B.	There will be relatively fewer long-distance taxi trips compared with short-distance taxi trips.
+C.	There will be more taxi trips.
+D.	The demand for taxi trips increases.
+
+Answer: D
+
+Question code: B3C15Q071
+The following shows the water tariff in City A.
+
+Usage	Price (per cubic metre)	
+First 15 cubic metres	$1	
+Next 15 cubic metres	$2	
+Over 30 cubic metres	$3	
+
+Suppose the price of the first 15 cubic metres is increased by $2. Which of the following is correct?
+A.	The demand for water has decreased.
+B.	The quality of water will improve.
+C.	The consumer surplus of water users has decreased.
+D.	The total revenue from the water supply must increase.
+
+Answer: C
+
+
+Question code: B3C15Q072
+Under which of the following cases would the producer surplus most likely decrease?
+
+
+Answer: B
+
+
+Question code: B3C15Q073
+Under which of the following cases would the consumer surplus most likely increase?
+
+Answer: C
+
+
+Question code: B3C15Q074
+Refer to the diagram.
+
+Originally, a price ceiling of P1 is imposed on Good Y. Suppose its supply has increased. Which of the following is correct?
+A.	The new price may be higher than P1.
+B.	The new quantity transacted may decrease.
+C.	The producer surplus may increase.
+D.	The consumer surplus decreases.
+
+Answer: C
+
+
+Question code: B3C15Q075
+Refer to the following diagram.
+
+A price ceiling of P1 is imposed. Which of the following CANNOT increase the consumer surplus?
+A.	The launch of a successful promotion campaign
+B.	Improvements in production technology
+C.	An increase in population
+D.	Removal of the price ceiling
+
+Answer: D
+
+Question code: B3C15Q076
+When both demand and supply decrease,
+(1)	the price decreases.
+(2)	the quantity transacted decreases.
+(3)	the total social surplus decreases.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B3C15Q077
+The milk market is perfectly competitive in Country A. John, a milk seller in that country, is selling 10 units of milk for $4. Which of the following statements is correct?
+A.	John's profit is $40.
+B.	John's producer surplus is $40.
+C.	John can earn more profits by lowering his price to $3.
+D.	John's producer surplus will increase if a dish using milk as an ingredient is invented.
+
+Answer: D
+
+Question code: B3C15Q078
+Maggie buys 10 units of Candy X when the price is $10. Which of the following is correct?
+A.	Her consumer surplus is $100.
+B.	Her consumer surplus will increase if she buys the 11th unit.
+C.	Her consumer surplus from the consumption of Candy X will decrease if there is a strike at Candy Y's factory.
+D.	None of the above
+
+Answer: D
+
+Question code: B3C15Q079
+Recently, the price of pens has increased. A pen seller commented, 'The consumer surplus may increase.' His comment is
+A.	correct because the marginal benefit of the last unit of pen increases.
+B.	correct because the increase in the price of pens may be caused by the increase in the demand for pens.
+C.	incorrect because the consumer surplus equals the total benefit minus the total expenditure.
+D.	incorrect because consumers will suffer from the increase in the price of pens.
+
+Answer: B
+
+
+Question code: B3C15Q080
+Refer to the diagram.
+
+Which of the following is true?
+A.	The producer surplus increases.
+B.	The marginal benefit of the last unit increases.
+C.	Demand increases.
+D.	Consumer surplus decreases.
+
+Answer: A
+
+Question code: B3C15Q081
+The following diagram shows the supply and demand curves of economics textbooks in a perfectly competitive market.
+
+Which of the following is true?
+A.	Paper will become less expensive.
+B.	The consumer surplus decreases.
+C.	The producer surplus increases.
+D.	The change in the total social surplus is indeterminate.
+
+Answer: C
+
+Question code: B3C15Q082
+Rice can be used to make rice crackers. Suppose rice is an inferior good. Which of the following will raise the total social surplus of rice?
+A.	Some people grow opium poppies (罌粟花) near rice farmland, making the farmland no longer suitable for farming.
+B.	People's income increases.
+C.	People dislike rice crackers.
+D.	Rice husks (稻穀) can be used to feed cows.
+
+Answer: D
+
+Question code: B3C15Q083
+When both the demand for and supply of a good change, we can predict that the total social surplus will increase if
+A.	the quantity transacted remains unchanged while the price increases.
+B.	the quantity demanded decreases while the quantity supplied increases.
+C.	the price of the good increases.
+D.	the quantity transacted increases.
+
+Answer: D
+
+Question code: B3C15Q084
+Refer to the following dialogue.
+Peter: Do you know the latest series in your favourite video game has been released?
+Mandy: Yes. However, it is too expensive. It costs $1,200! I won't buy it.
+Peter: My brother will buy it. I can lend it to you later.
+Mandy: Really? Thanks so much!
+Which function(s) of price is illustrated in this case?
+A.	Rationing function
+B.	Allocative function
+C.	All of the above
+D.	None of the above
+
+Answer: A
+
+Question code: B3C15Q085
+Which of the following illustrates the allocative function of prices?
+A.	Christine admires her father who is a policeman. Therefore, she has decided to become a policewoman.
+B.	More and more people suffer from muscle injuries because of long hours sitting in offices. As a result, more students are studying Physiotherapy (物理治療) in universities.
+C.	Tickets for a school opera performance are reserved for teachers and students.
+D.	None of the above
+
+Answer: B
+
+Question code: B3C15Q086
+Which of the following are NOT functions of prices?
+(1)	Allocating resources for the production of goods
+(2)	Providing cash incentives
+(3)	Evenly distributing income
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above are the functions of prices.
+
+Answer: C
+
+Question code: B3C15Q087
+Which of the following shows the functions of prices?
+(1)	After the price of bananas decreases, Judy buys more bananas than before.
+(2)	As the price of computers decreases, Alex sells fewer computers than before.
+(3)	John adopts the highest cost technique and sells his soymilk to those who least value the soymilk.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+
+Question code: B3C15Q088
+When the relative price of a good __________ due to a decrease in demand for it, producers will allocate __________ resources to the production of the good.
+A.	increases ... more
+B.	increases ... fewer
+C.	decreases ... more
+D.	decreases ... fewer
+
+Answer: D
+
+Question code: B3C15Q089
+The price mechanism rations goods because
+A.	it determines who can get the goods and who cannot.
+B.	it controls resource allocation and output level.
+C.	it maintains even distribution in society.
+D.	it is an invisible hand which maximises total social surplus.
+
+Answer: A
+
+Question code: B3C15Q090
+Suppose the price of cotton increases significantly due to greater demand from China, and that many US growers shift from food crops to cotton. Which of the following statements is correct?
+A.	This illustrates the allocative function of prices since more cotton will be available in China.
+B.	This illustrates the rationing function of prices since greater demand from China raises the price of cotton.
+C.	The price of cotton has performed the allocative function of prices by encouraging US growers to change their production.
+D.	The price of cotton has performed the rationing function of prices by increasing the profits of cotton farmers.
+
+Answer: C
+
+
+Question code: B2C15Q091 (new)
+The cost schedule of a price taker is shown as follows:
+
+Output (units)	Total cost ($)	Fixed cost ($)	
+2	35	2	
+3	56	2	
+4	80	2	
+5	107	2	
+6	137	2	
+7	170	2	
+
+Which of the following is correct?
+(1)	The profit-maximising output will decrease when the fixed cost changes to $5.
+(2)	The producer surplus is $2 more than the profit when the market price equals $21.
+(3)	If the profit-maximising output is 5 units, the marginal cost is $27.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B2C15Q092 (new)
+The following table shows the cost schedule of a price taker.
+
+Output (units)	1	2	3	4	5	6	7	8		Marginal cost ($)	20	22	24	26	28	30	32	34		Fixed cost ($)	5	5	5	5	5	5	5	5		
+Which of the following is correct?
+(1)	If the market price is $30, the producer surplus is $30.
+(2)	If the fixed cost decreases by $2, the profit-maximising output will increase.
+(3)	The supply curve of this price taker is upward sloping.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C15Q093 (new)
+The following table shows the cost schedule of an aerial photography drone manufacturer, which has a fixed cost equal to $5.
+
+Output (units)	Total cost ($)	
+5	85	
+6	110	
+7	138	
+8	169	
+9	203	
+
+Suppose the market price is $31. The profit-maxmising output and producer surplus are ________ and ________, respectively.
+A.	6 units … $45
+B.	6 units … $76
+C.	8 units … $79
+D.	8 units … $84
+
+Answer: D
+
+Question code: B3C15Q094 (new)
+Refer to the following diagram.
+
+The total producer surplus is
+A.	Area II.
+B.	Area II + III.
+C.	Area I + II + III.
+D.	None of the above
+
+Answer: D
+
+Question code: B3C15Q095 (new)
+The following shows the supply and demand curves of a good.
+
+The producer surplus and total revenue are Area _____ and Area _____, respectively.
+A.	W … X
+B.	X … (X + Y)
+C.	(X + Y) … (X + Y + Z)
+D.	(W + X + Y) … (X + Y)
+
+Answer: B
+
+Question code: B3C15Q096 (new)
+The following diagram shows the supply and demand curves of a perfectly competitive market.
+
+Suppose the demand curve shifts from D1 to D2. Which of the following will decrease?
+(1)	Consumer surplus
+(2)	Producer surplus
+(3)	Total social surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C15Q097 (new)
+The following shows the supply and demand curves of Good M.
+
+Good N is a substitute for Good M. If the price of Good N increases, the total social surplus of Good M will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	increase, decrease or remain unchanged.
+
+Answer: A
+
+Question code: B3C15Q098 (new)
+The following shows the supply and demand curves of oranges.
+
+If the price of chemical fertiliser decreases,
+A.	consumers' total expenditure will be greater than Area (X + Y).
+B.	the consumer surplus will be greater than Area X.
+C.	total social surplus will be greater than Area (X + Y +Z).
+D.	None of the above
+
+Answer: D
+
+Question code: B3C15Q099 (new)
+Suppose the pork retail market is perfectly competitive. It is reported that pork is being stored under poor hygiene conditions at the slaughterhouse. As a result,
+(1)	the consumer surplus will decrease.
+(2)	the producer surplus will decrease.
+(3)	producers' total revenue may increase or decrease, depending on the elasticity of demand.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C15Q100 (new)
+Suppose both the supply and demand for a good increase and the equilibrium price remains unchanged. Which of the following MUST be correct about the market?
+(1)	Producers' total revenue will remain unchanged.
+(2)	Consumer surplus will increase.
+(3)	Total social surplus will increase.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B3C15Q101 (new)
+Due to the outbreak of a disease, 20% of the cattle in Country Q die and people have lost confidence in the beef that the country produces. The equilibrium price of beef remains unchanged. Which of the following correctly describe(s) the beef market in 
+Country Q?
+A.	The quantity transacted of beef decreases.
+B.	Producer surplus decreases.
+C.	Consumer surplus decreases.
+D.	All of the above
+
+Answer: D
+
+Question code: B3C15Q102 (new)
+* Suppose the market for foie gras (鵝肝醬) is perfectly competitive and demand is perfectly elastic. If some firms suspend their production for reasons of hygiene,
+A.	the producer surplus increases.
+B.	total social surplus decreases.
+C.	there will be excess demand for foie gras.
+D.	the marginal cost of the last unit must increase.
+
+Answer: B
+Explanation
+Option D is not correct. The marginal cost of the last unit remains unchanged since demand is perfectly elastic.
+
+Question code: B3C15Q103 (new)
+Japan is a popular tourist destination for Hong Kong people. However, both the number of tours organised by travel agencies and the number of tourists intending to visit Japan declined after an earthquake struck the country. Which of the following is correct?
+A.	Producer surplus of Japan tours increases.
+B.	Total social surplus of Japan tours decreases.
+C.	Marginal benefit of the last unit of Japan tours increases.
+D.	Producer surplus remains unchanged if the supply of Japan tours is perfectly inelastic.
+
+Answer: B
+
+Short Questions
+
+Question code: B3C15Q301
+Study the following table and answer the questions below:
+
+Quantity (units)	Total benefit	Marginal benefit	
+4	$70		
+3	$45		
+2	$25		
+1	$10		
+
+(a)	Complete the table above.	(2 marks)
+(b)	Given that the market price is $25, what will the quantity demanded be?	(1 mark)
+
+Answers:
+(a)
+Quantity (units)	Total benefit	Marginal benefit	
+4	$70	$25	
+3	$45	$20	
+2	$25	$15	
+1	$10	$10	
+		(0.5 × 4 = 2 marks)
+(b)	The quantity demanded will be 4 units. (MB = P = $25)	(1 mark)
+
+Question code: B3C15Q302
+Study the following table and answer the questions below:
+
+Quantity (units)	Total benefit	
+4	$10	
+3	$9	
+2	$7	
+1	$4	
+
+(a)	Based on the information provided, draw the demand curve. Explain your steps briefly.	(6 marks)
+(b)	What will the consumer surplus be if the price is $3?	(1 mark)
+
+Answers:
+(a)	A rational consumer will increase his consumption until the marginal benefit of the last unit equals the price.	(1 mark)
+Thus, a consumer's quantity demanded at a particular price can be obtained by equating the marginal benefit with that price. We can draw the demand curve accordingly.	(1 mark)
+
+MB = Price	Quantity demanded	
+$1	4	
+$2	3	
+$3	2	
+$4	1	
+	(2 marks)
+	(2 marks)
+(b)	The consumer surplus will be $1 (= $7 - $6)	(1 mark)
+
+Question code: B3C15Q303
+Study the following table and answer the questions below:
+
+Quantity (units)	Total benefit	Marginal benefit	
+4	$44		
+3	$39		
+2	$30	$13	
+
+(a)	Complete the table.	(1 mark)
+(b)	Given that the market price is $5, what will the quantity demanded, total expenditure and consumer surplus be?	(3 marks)
+(c)	If the market price falls from $5 to $1, what will the change in the consumer surplus be?	(2 marks)
+
+Answers:
+(a)	
+Quantity (units)	Total benefit	Marginal benefit	
+4	$44	$5	
+3	$39	$9	
+2	$30	$13	
+				(1 mark)
+(b)	Quantity demanded = 4 units (marginal benefit = price = $5)	(1 mark)
+Total expenditure = $20 (= $5 × 4)	(1 mark)
+Consumer surplus = $24 (= $44 - $20)	(1 mark)
+(c)	The new consumer surplus will be $12 [= $39 - (3 × $9)]. Thus, the consumer surplus will decrease by $12 ($24 - $12).	(2 marks)
+
+Question code: B3C15Q304
+'In a perfectly competitive market, to know the marginal benefit of the last unit of a good, we only need to know the market price.' Do you agree? Explain your answer.
+	(3 marks)
+
+Answers:
+Yes.		(1 mark)
+When a perfectly competitive market is in equilibrium, the marginal benefit equals the price and the marginal cost. / A consumer will consume until his/her marginal benefit of the last unit is equal to the market price.	(2 marks)
+
+Question code: B3C15Q305
+'To find a consumer surplus, we only need information about the price and marginal benefit of the last unit of a good.' Do you agree? Explain your answer.	(3 marks)
+
+Answers:
+No.			(1 mark)
+To find the consumer surplus, we also need to know the quantity transacted and the marginal benefit of each unit of the good bought.	(2 marks)
+
+Question code: B3C15Q306
+Stephy said, 'If there is a difference between marginal benefit and marginal cost at the quantity transacted, the total social surplus is not maximised. But if the total social surplus is maximised, the total benefit is equal to the total cost.' Comment on Stephy's statement.	(4 marks)
+
+Answers:
+The first part of Stephy's statement is correct. Whenever there is a difference between the marginal benefit (MB) and marginal cost (MC) at the quantity transacted, total social surplus can be increased either by raising production or cutting production to the point where MB = MC. 	(2 marks)
+The second part of her statement is not correct. The condition for maximising total social surplus is MB = MC, which does not imply that the total benefit equals the total cost. The total social surplus is equal to the total benefit minus the total variable cost. It can be greater than zero.	 (2 marks)
+(Note: Even if the total benefit is equal to the total cost, the total social surplus is greater than zero if the fixed cost is greater than zero.)
+
+Question code: B3C15Q307
+* A farmer who studied Economics said, 'Under a competitive market, the price of each apple must be the same as the marginal cost for each apple. Thus, there is no difference between the price and marginal cost, and the amount I can receive is exactly my cost of production. Thus, a competitive market is not good for farmers.' Do you agree? Explain your answer.	(3 marks)
+
+
+Answers:
+No.	(1 mark)
+Under a competitive market, only the marginal cost of the last unit of apples is the same as the price. Thus, farmers can still gain a producer surplus equal to the sum of the difference between the price and the marginal cost for all units sold.	(2 marks)
+
+Question code: B3C15Q308
+Mary works in a firm which operates in a perfectly competitive market. Mary is very careless and not good at Maths and Economics. Below is the marginal cost she worked out based on the total cost.
+
+Quantity (units)	Total cost	Total variable cost	Marginal cost	
+4	$52	$51	$13	
+3	$16	$15	$5.3	
+2	$9	$9	$5	
+1	$4	$3	$4	
+0	$1	$0	-	
+
+(a)	Mary's boss found that the total cost of 4 units should be $25. He also found there were other mistakes in the table concerning total variable costs and marginal cost. Help him correct all of the mistakes and rewrite the table. (Hint: There are no other mistakes in the total cost column.)	(3 marks)
+(b)	If the market price is $5, what will the output level of the firm be? Explain your answer.	(3 marks)
+
+Answers:
+(a)
+Quantity (units)	Total cost	Total variable cost	Marginal cost	
+4	$25	$24	$9	
+3	$16	$15	$7	
+2	$9	$8	$5	
+1	$4	$3	$3	
+0	$1	$0	-	
+	(3 marks)
+(b)	The firm will take the market price as it operates in a perfectly competitive market	(1 mark)
+and produce at the level where MC = P.	(1 mark)
+Thus, the output level of the firm will be 2 units.	(1 mark)
+
+Question code: B3C15Q309
+Study the following table and answer the questions below:
+
+Quantity (units)	Total variable cost	Marginal cost	
+4	$100		
+3	$60		
+2	$30		
+1	$10		
+
+(a)	Complete the table above.	(2 marks)
+(b)	Given that the market price is $30, what will the quantity supplied be?	(1 mark)
+
+Answers:
+(a)
+Quantity (units)	Total variable cost	Marginal cost	
+4	$100	$40	
+3	$60	$30	
+2	$30	$20	
+1	$10	$10	
+			(0.5 × 4 = 2 marks)
+(b)	The quantity supplied will be 3units (at MC = P = $30).	(1 mark)
+
+Question code: B3C15Q310
+Study the following table and answer the questions.
+
+Quantity (units)	Average variable cost ($)	Marginal cost ($)	
+1	2		
+2	3		
+3	4		
+4	5		
+
+(a)	Complete the table above.	(2 marks)
+(b)	Given that the market price is $4, what will the quantity supplied be?	(1 mark)
+(c)	Calculate the producer surplus when the market price is $4.		(2 marks)
+
+
+Answers:
+(a)
+Quantity (units)	Average variable cost ($)	Marginal cost ($)	
+1	2	2	
+2	3	4	
+3	4	6	
+4	5	8	
+		(2 marks)
+(b)	The quantity supplied will be 2 units (MC = P = $4).	(1 mark)
+(c)	Producer surplus = ($4 - $2) + ($4 - $4) = $2	(2 marks)
+
+Question code: B3C15Q311
+The following table shows the production cost of a price-taking firm.
+
+Output (units)	1	2	3	4	5	
+Marginal cost ($)					9	
+Average variable cost ($)	1	2	3	4		
+Total variable cost ($)						
+Fixed cost ($)	1	1	1	1	1	
+
+(a)	Complete the above table.	(5 marks)
+(b)	If the product price is $9, what is the output level of the firm?	(1 mark)
+(c)	When the price is $9, what are the firm's producer surplus and profit?	(4 marks)
+
+Answers:
+(a)
+Output (units)	1	2	3	4	5	
+Marginal cost ($)	1	3	5	7	9	
+Average variable cost ($)	1	2	3	4	5	
+Total variable cost ($)	1	4	9	16	25	
+Fixed cost ($)	2	2	2	2	2	
+				(5 marks)
+(b)	5 units (MC = P = $9)	(1 mark)
+(c)	Producer surplus = ($5 ( 9) - $25 = $20	(2 marks)
+	Profit = ($5 ( 9) - ($25 + $2) = $18	(2 marks)
+
+
+Question code: B3C15Q312
+Study the following table and answer the questions below:
+
+Quantity (units)	Average cost	Marginal cost	
+4	$12.5		
+3	$12		
+2	$12		
+1	$13		
+
+(a)	Suppose the fixed cost is $3. Complete the table above.	(2 marks)
+(b)	Given that the market price is $12, what will the output level, profit and producer surplus be?	(3 marks)
+*(c)	In light of the answer in (b), explain whether the firm will produce the good when the price is $12 using the concepts of fixed cost, variable cost and producer surplus.	(4 marks)
+
+Answers:
+(a)
+Quantity (units)	Average cost	Marginal cost	
+4	$12.5	$14	
+3	$12	$12	
+2	$12	$11	
+1	$13	$10	
+	(0.5 × 4 = 2 marks)
+(b)	The output level will be 3 units.	(1 mark)
+The profit will be $0 [∵Profit = Total revenue - Total cost = $12 ( 3 - $12 ( 3 = $0].	(1 mark)
+The producer surplus will be $3 [$36 - ($12 + $11 + $10)].	(1 mark)
+(c)	In the short run, a fixed cost must be paid even if the output is zero. Thus, the fixed cost will not affect the firm's decision to produce or not.	(1 mark)
+The variable cost will change according to the change in output. Thus, to determine the output, the firm will take its variable cost into account.	(1 mark)
+The producer surplus is equal to the total revenue minus the total variable cost. Even if the profit is equal to $0 when the price is $12, as the producer surplus is positive, the total variable cost can be covered. Then, it is worthwhile for the firm to produce some units of the good.	(2 marks)
+
+
+Question code: B3C15Q313
+Study the following table and answer the questions below:
+
+Quantity (units)	Total cost	
+4	$10	
+3	$6	
+2	$3	
+1	$1	
+
+(a)	Based on the information provided, draw the supply curve. Briefly explain why we can derive the supply curve from the information provided.	(6 marks)
+(b)	What will the producer surplus be if the price is $3?	(1 mark)
+
+Answers: 
+(a)	A rational producer will increase his production until the marginal cost of the last unit equals the price.	(1 mark)
+	Thus, a producer's quantity supplied at a particular price can be obtained by equating the marginal cost with that price. Thus, we can draw the supply curve accordingly.	(1 mark)
+
+MC = Price	Quantity supplied	
+$4	4	
+$3	3	
+$2	2	
+$1	1	
+	(2 marks)
+	(2 marks)
+
+(b)	The producer surplus will be $3 (= $9 - $6).	(1 mark)
+
+
+Question code: B3C15Q314
+'Under a perfectly competitive market, when the total social surplus is maximised, both the consumer surplus and producer surplus will be maximised too.' Do you agree? Explain your answer.	(5 marks)
+
+Answers:
+Agree.		(1 mark)
+The condition for the maximisation of the consumer surplus is P = MB.	(1 mark)
+In a perfectly competitive market, the condition for the maximisation of the producer surplus is P = MC.	(1 mark)
+The total social surplus is maximised when MB = P = MC.	(1 mark)
+When total social surplus is maximised, both the conditions for the maximisation of the consumer surplus and producer surplus will be fulfilled.	(1 mark)
+
+Question code: B3C15Q315
+Study the following table and answer the questions below: 
+
+Quantity (units)	Total benefit ($)	Total variable cost ($)	Marginal benefit ($)	Marginal cost ($)	
+1	11	3			
+2	21	7			
+3	30	13			
+4	37	20			
+5	43	28			
+
+Assume there is no fixed cost.
+(a)	Complete the above table.	(5 marks)
+(b)	Assuming the market is perfectly competitive, what are the equilibrium price and the equilibrium quantity?	(2 marks)
+(c)	What are the consumer surplus and the producer surplus?	(4 marks)
+
+
+Answers: 
+(a)	
+Quantity (units)	Total benefit ($)	Total variable cost ($)	Marginal benefit ($)	Marginal cost ($)	
+1	11	3	11	3	
+2	21	7	10	4	
+3	30	13	9	6	
+4	37	20	7	7	
+5	43	28	6	8	
+	(5 marks)
+(b)	The equilibrium price is $7 and the equilibrium quantity is 4 units.	(2 marks)
+(c)	Consumer surplus = $37 - ($7× 4) = $9	(2 marks)
+Producer surplus = ($7 × 4) - $20 = $8	(2 marks)
+
+Question code: B3C15Q316
+Study the following table and answer the questions below:
+
+Quantity (units)	Total benefit	Total cost	
+4	$180	$150	
+3	$150	$100	
+2	$110	$60	
+1	$60	$30	
+
+(a)	Given that the fixed cost is $10, find the marginal cost and marginal benefit.
+	(4 marks)
+(b)	What are the equilibrium price and quantity transacted?	(2 marks)
+
+Answers:
+(a)
+Quantity (units)	Marginal benefit	Marginal cost	
+4	$30	$50	
+3	$40	$40	
+2	$50	$30	
+1	$60	$20	
+			(4 marks)
+(b)	The equilibrium price is $40	(1 mark)
+	and the quantity transacted is 3 units.	(1 mark)
+
+
+Question code: B3C15Q317
+Study the following table and answer the questions below:
+
+Quantity (units)	Average cost	Average benefit	
+4	$16.25	$16.5	
+3	$16	$17	
+2	$16	$17.5	
+1	$17	$18	
+
+(a)	Given that the fixed cost is $3, find the marginal cost and marginal benefit. (Hint: Average benefit × Quantity = Total benefit)	(4 marks)
+(b)	What are the equilibrium price and quantity transacted?	(2 marks)
+(c)	Define consumer surplus and producer surplus. What are the consumer surplus and producer surplus in the market?	(4 marks)
+
+Answers:
+(a)
+Quantity (units)	Marginal cost	Marginal benefit	
+4	$17	$15	
+3	$16	$16	
+2	$15	$17	
+1	$14	$18	
+				(4 marks)
+(b)	The equilibrium price is $16.	(1 mark)
+The quantity transacted is 3 units.	(1 mark)
+(c)	Consumer surplus refers to the difference between the total maximum amount a consumer is willing to pay and the total amount he actually pays for a given quantity of a good.	(1 mark)
+	Producer surplus refers to the difference between the total amount a producer actually receives and the total amount he must receive at a minimum to produce a given quantity of a good.	(1 mark)
+	Consumer surplus = $18 + $17 + $16 - ($16 × 3) = $3	(1 mark)
+	Producer surplus = ($16 × 3) - ($16 + $15 + $14) = $3	(1 mark)
+
+Question code: B3C15Q318
+'An increase in income can raise the total social surplus of a good,' Keung said. With the aid of a diagram, explain under what condition his statement is correct.	(4 marks)
+
+
+Answers:
+Indicate on the diagram:
+(	Increase in demand	(1 mark)
+(	Increase in total social surplus (from Area BE0 to Area AC0)	(1 mark)
+
+Verbal elaboration:
+If the good is a normal good, an increase in income would raise its demand.	(1 mark)
+As quantity transacted increases, total social surplus increases.	(1 mark)
+
+Question code: B3C15Q319
+Musical talent is considered necessary for children to enrol in popular kindergartens. Explain how this raises the producer surplus of piano classes. (Diagram is NOT required.)	(4 marks)
+
+Answers:
+Parents consider piano classes helpful in getting their children enrolled in the kindergartens. Therefore, the demand for piano classes increases.	(1 mark)
+As a result, the price and quantity of piano classes increase.	(2 marks)
+As piano class providers can provide more services at a higher price, their producer surplus increases.	(1 mark)
+
+Question code: B3C15Q320
+A representative of restaurant owners said, 'As the price of seafood falls, our customers can gain.' WITHOUT the aid of a diagram, explain this statement using the concept of consumer surplus.	(4 marks)
+
+
+Answers:
+Seafood is an input for restaurants in providing their services. As the price of seafood falls, the supply of restaurant services increases.	(1 mark)
+As a result, the price of restaurant services decreases while the quantity of the services increases.	(2 marks)
+Since customers can enjoy more services at a lower price, their consumer surplus increases. They can gain from it.	(1 mark)
+
+Question code: B3C15Q321
+'When there is an increase in demand, the price increases. Therefore, the consumer surplus decreases.' Do you agree? Explain with the aid of a diagram.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+(	Increase in demand	(1 mark)
+(	Increase in price	(1 mark)
+(	Increase in consumer surplus (from Area BEP0 to Area ACP1)	(1 mark)
+
+Verbal Elaboration:
+No.	(1 mark)
+When there is an increase in demand, the price increases. However, the consumer surplus increases as well.	(1 mark)
+
+
+Question code: B3C15Q322
+Suppose medical research says that cheese is good for one's health. As a result, more people want to buy cheese. Assume the cheese market is perfectly competitive.
+
+(a)	Show the changes in the cheese market on the diagram above.	(2 marks)
+(b)	What happens to the total social surplus? Show the change on the above diagram.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	The demand curve shifts rightwards.	(1 mark)
+(	Both the price and quantity transacted increase.	(1 mark)
+
+
+(b)	The total social surplus increases.	(1 mark)
+	Indicate on the diagram:
+(	Increase in total social surplus (Area ABCE)	(2 marks)
+	
+
+Question code: B3C15Q323
+'In a perfectly competitive market, a decrease in market price does NOT necessarily lead to an increase in the consumer surplus.' Give ONE condition, using a diagram, to explain why this statement is correct.	(5 marks)
+
+Answers:
+If the decrease in market price is caused by a decrease in demand, the consumer surplus will decrease. As shown in the diagram, the consumer surplus decreases from Area BCP1 to Area AEP2.	(3 marks)
+Indicate on the diagram:
+(	Both the market price and consumer surplus decrease.	(2 marks)
+
+(Accept other reasonable answers.)
+
+
+Question code: B3C15Q324
+*'If there is an increase in the demand for a good, the total social surplus of this good will increase.' Draw a diagram with a brief explanation to show that
+(a)	the statement is true if 'other things being constant' is assumed and the supply curve is upward sloping;	(5 marks)
+(b)	the statement may NOT be true if there is a change in supply.	(5 marks)
+
+Answers: 
+(a)	When there is an increase in demand, the demand curve will shift from D1 to D2. Other things being constant, the quantity transacted will increase from Q1 to Q2.	
+	(2 marks)
+The total social surplus will increase (from CA0 to FB0). Thus, the statement is true.	(1 mark)
+	(2 marks)
+(b)	Suppose there is a decrease in supply. Even if the demand increases, the quantity transacted may decrease [from Q1 to Q2 in case (i)] or remain unchanged [Q1 = Q2 in case (ii)].	(2 marks)
+The total social surplus may decrease [from CA0 to FBE in case (i)] or remain unchanged [from CA0 to FBE in case (ii)]. Thus, the statement may not be true.
+	(1 mark)
+	(2 marks)
+
+Or
+(2 marks)
+[Note: You are required to explain only one case: either Case (i) or Case (ii).]
+
+Question code: B3C15Q325
+Suppose more Southeast Asians are living in Shenzhen. This increases the demand for basmati rice (印度大米). Explain the function of price performed in the following cases.
+(a)	More people are employed to bring basmati rice from Shang Shui to Shenzhen.
+	(2 marks)
+(b)	Some people cannot buy the amount of rice they want. As a result, the price of basmati rice in Shenzhen increases.	(2 marks)
+
+Answers:
+(a)	Allocative function	(1 mark)
+	As the relative price of basmati rice increases, more resources are allocated to bring basmati rice to Shenzhen.	(1 mark)
+(b)	Rationing function	(1 mark)
+As the price of basmati rice increases, only those who are willing and able to pay the price can get basmati rice in Shenzhen.	(1 mark)
+
+Question code: B3C15Q326
+Once upon a time, in Country X, the price of rice was set below the equilibrium level to ensure that the poor could have enough to eat. As the country became rich, the poverty problem eased. Therefore, the price of rice is no longer set below equilibrium.
+(a)	Even if the demand for rice does not change, total social surplus increases with the change in the above policy. Explain with the aid of a diagram.	(4 marks)
+(b)	Explain the function that price performs in this case.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Price restored to the equilibrium level (Pe)	(1 mark)
+	(	Increase in total social surplus = Deadweight loss under price control 
+(Area BEC)	(1 mark)
+	
+	Verbal elaboration:
+	As the price is restored to the equilibrium level, deadweight loss no longer exists and total social surplus increases.	(2 marks)
+(b)	Rationing function	(1 mark)
+	Only people who are willing and able to pay the price can get the rice.	(1 mark)
+
+
+Question code: B3C15Q327
+Florence said, 'The price mechanism rations goods by using prices to determine who can get the goods and who cannot.' Do you agree? Explain your answer.	(3 marks)
+
+Answers:
+Yes.	(1 mark)
+Under the price mechanism, only those who are willing and able to pay the market price can get the good. This is the rationing function of prices.	(2 marks)
+
+Question code: B3C15Q328
+Which function do prices perform in each of the following situations?
+(a)	Producers know from the price that they should provide more beef.	(1 mark)
+(b)	Restaurants keep their best wine until someone pays a high price.	(1 mark)
+(c)	Peter learns computer programming because people demand more new programmes.	(1 mark)
+(d)	John values a second-hand diamond ring and ultimately gets the ring by bidding at an auction.	(1 mark)
+
+Answers:
+(a)	Allocative function.	(1 mark)
+(b)	Rationing function.	(1 mark)
+(c)	Allocative function.	(1 mark)
+(d)	Rationing function.	(1 mark)
+
+Question code: B3C15Q329
+Thanks to the 2014 FIFA World Cup, hotel room rates in Brazil skyrocketed by nearly 600%.
+(a)	Explain why hotel room rates rose so rapidly during the World Cup.	(2 marks)
+(b)	What functions did prices perform in this case?	(3 marks)
+
+Answers:
+(a)	As there was an increase in the demand for hotel rooms during the World Cup, room rates increased rapidly.	(2 marks)
+(b)	Rationing function.	(1 mark)
+	Only those who were willing and able to pay the price could get a hotel room in Brazil.	(2 marks)
+
+
+Question code: B3C15Q330 (new)
+The following table shows the cost schedule of a price-taking firm which has no fixed cost.
+
+Output (units)	Marginal cost ($)	
+1	20	
+2	21	
+3	22	
+4	23	
+5	24	
+
+Suppose the product price is $23.
+(a)	Find the profit-maximising output. Then, calculate the corresponding profit and producer surplus.	(3 marks)
+(b)	If the price decreases by $2, calculate the change in profit.	(2 marks)
+
+Answers:
+(a)	When output = 4 units, marginal cost = price = $23. Therefore, the profit-maximising output is 4 units.	(1 mark)
+	As there is no fixed cost, the firm's profit is equal to its producer surplus.
+	(1 mark)
+	Profit and producer surplus 
+= ($23 × 4) - $(20 + 21 + 22 + 23) = $92 - $86 = $6	(1 mark)
+(b)	As the price decreases to $21, the profit-maximising output becomes 2 units where marginal cost = price = $21.	(1 mark)
+	Change in profit = ($21 × 2) - $(20 + 21) - $6 = $1 - $6 = -$5	(1 mark)
+
+Question code: B3C15Q331 (new)
+The following table shows the cost schedule of a price taker. The fixed cost is $1.
+
+Output (units)	Total cost ($)	
+1	4	
+2	9	
+3	17	
+4	28	
+5	42	
+
+Suppose the product price is $11.
+(a)	Find the profit maximising output, the corresponding profit and the producer surplus.	(4 marks)
+(b)	Explain how the profit-maximising output and the profit will change when the fixed cost increases by $2.	(3 marks)
+
+Answers:
+(a)	
+Output (units)	Total cost ($)	Marginal cost ($)	
+1	4	3	
+2	9	5	
+3	17	8	
+4	28	11	
+5	42	14	
+		(1 mark)
+	When output = 4 units, marginal cost = price = $11. Therefore, the profit-maximising output is 4 units.	(1 mark)
+	Profit = ($4 × 11) - $28 = $16	(1 mark)
+	Producer surplus = $16 + $1 = $17	(1 mark)
+(b)	The marginal cost schedule is not affected by the increase in fixed cost. Therefore, the profit-maximising output will remain unchanged.	(2 marks)
+	The profit will decrease by $2 as the total cost increases by $2.	(1 mark)
+
+
+Question code: B2C15Q332 (new)
+Factory X is a price taker that produces toys. Only two factors, namely workers and machines, are required for production. The following table shows the cost of employing these factors for different units of output.
+
+Output
+(units)	Marginal cost of employing workers ($)	Fixed cost of employing machines ($)	
+1	10	16	
+2	13	16	
+3	16	16	
+4	19	16	
+5	22	16	
+6	25	16	
+
+(a)	Is Factory X in the short run or long run? Explain.	(2 marks)
+(b)	Suppose the market price is $16. Due to an improvement in labour productivity, the cost of employing workers decreases by $6 for all units of output.
+	(i)	What are the profit-maximising output levels of Factory X before and after the improvement in labour productivity, respectively? Briefly explain.	(3 marks)
+	(ii)	Calculate Factory X's total profit and producer surplus at the new profit-maximising output level.	(4 marks)
+
+Answers:
+(a)	Short run because the cost of employing machines is fixed.	(2 marks)
+(b)	(i)	A price taker will produce output where P = MC to maximise its profit.
+	(1 mark)
+		Before: 3 units	(1 mark)
+	After: 5 units	(1 mark)
+	(ii)	Total profit = ($16 × 5) - $(16 + 4 + 7 + 10 + 13 +16)	(1 mark)
+		= $14	(1 mark)
+		Producer surplus = $14 + $16	(1 mark)
+		= $30	(1 mark)
+
+
+Question code: B2C15Q333 (new)
+The following shows the market demand for and supply curves of oranges. The market is perfectly competitive.
+
+(a)	Indicate the consumer surplus and producer surplus under market equilibrium on the above diagram.	(2 marks)
+(b)	The following shows the cost schedule of a firm in the orange market.
+
+Output (units)	Marginal cost ($)	
+1	9	
+2	10	
+3	11	
+4	12	
+5	13	
+6	14	
+
+	Suppose the weather turns cold. As a result, the market price and marginal cost of all units of oranges increase by $2 and $1, respectively.
+	(i)	Explain the change in the profit-maximising output level.	(3 marks)
+	(ii)	Calculate the total producer surplus after the weather change.	(2 marks)
+
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Correct position of consumer surplus	(1 mark)
+	(	Correct position of producer surplus	(1 mark)
+	
+(b)	(i)	The firm will produce at the output where P = MC to maximise its profit.
+	(1 mark)
+		After an increase in the market price and the marginal cost, the profit-maximising output increases from 4 units to 5 units.	(2 marks)
+	(ii)	Total producer surplus = ($14 × 5) - $(10 + 11 + 12 + 13 + 14)	(1 mark)
+		= $10	(1 mark)
+
+Question code: B3C15Q334 (new)
+The following diagram shows the market demand for and supply curves of high-definition televisions (HDTV). Suppose the market is perfectly competitive.
+
+Recently, new HD channels have been introduced. Show the changes in the price, quantity transacted, consumer surplus and producer surplus of the HDTV market on the above diagram.	(7 marks)
+
+
+Answers:
+Indicate on the diagram:
+•	Increase in demand, price and quantity transacted	(1 mark)
+•	Increase in consumer surplus (from VYP0 to WXP1)	(1 mark)
+•	Increase in producer surplus (from P0YZ to P1XZ)	(1 mark)
+
+Verbal elaboration:
+HDTV and HD channels are complements. Therefore, the introduction of new HD channels raises the demand for HDTV. This leads to a higher price, a larger quantity transacted, a larger consumer surplus and a larger producer surplus (assuming a parallel shift in demand curves).	(4 marks)
+
+Question code: B2C15Q335 (new)
+Study the following cost schedule of a price taker in a perfectly competitive market of ukulele classes for children.
+
+Output (units)	Marginal cost ($)	
+1	200	
+2	210	
+3	220	
+4	230	
+5	240	
+6	250	
+
+Suppose the market price for ukulele classes changes from $240 to $220. The change in price is solely caused by a change in the price of harp (豎琴) classes for children.
+(a)	How did the price of harp classes change? Explain.	(2 marks)
+(b)	How will the price taker change its output level of ukulele classes in order to maximise its profit?	(2 marks)
+(c)	Suppose the monthly rental, a fixed cost, increases by $1. Explain whether the profit-maximising output in (b) will change further.	(2 marks)
+(d)	Explain ONE function of price that is performed in the price taker's decision in (b).	(2 marks)
+
+Answers:
+(a)	Decreased. As harp classes and ukulele classes are substitutes, the decrease in the price of harp classes will lead to a decrease in the demand for ukulele classes.
+	(2 marks)
+(b)	The profit-maximising output level decreases from 5 units to 3 units.	(2 marks)
+(c)	No, because it does not affect the marginal cost and thus the profit-maximising output.	(2 marks)
+(d)	Allocative function. The lower price of ukulele classes induces the price taker to allocate more resources from ukulele classes to other better uses.	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B3C15Q336 (new)
+Read the following news extract.
+
+Two years ago, the hike in rent forced many restaurants in Causeway Bay to relocate from core areas to less favourable locations. Those shops were rented by jewellery and luxury retailers. As the rent has declined recently, these restaurants have moved back to core areas again.	
+
+(a)	Explain ONE function of prices illustrated in the above news extract.	(2 marks)
+(b)	A legislative councillor commented that the decline in rent was caused by a decrease in the number of mainland visitors. Explain his statement WITHOUT using a diagram.	(3 marks)
+(c)	Assume the market for luxury goods is perfectly competitive. How would a decrease in the number of mainland visitors affect consumer surplus and producer surplus?	(3 marks)
+
+Answers:
+(a)	Rationing function: The shops in Causeway Bay are rented to those who are willing and able to pay the rent.	(2 marks)
+	(Accept other reasonable answers.)
+(b)	Jewellery and luxury retailers' demand for shops in Causeway Bay is the derived demand for their products.	(1 mark)
+	The decrease in the number of mainland visitors lowers the demand for luxury goods, and so the demand for shops in Causeway Bay.	(2 marks)
+	Therefore, the rent for shops in Causeway Bay decreases.
+(c)	Demand for luxury goods will decrease, resulting in a lower price and quantity transacted.	(1 mark)
+	Both consumer surplus and producer surplus decrease.	(2 marks)
+
+Question code: B3C15Q337 (new)
+A painting finished in 1978 was sold at Country A's auction house for $430,000 in 2015.
+(a)	Explain the function of prices performed in this case.	(2 marks)
+*(b)	Suppose investing in antiques becomes more popular in Country A. With the aid of a diagram, explain how this will affect the consumer surplus of antiques.
+	(6 marks)
+
+Answers:
+(a)	Rationing function: The painting was distributed to the highest-valued user who could pay the highest price.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Vertical supply curve	(1 mark)
+	•	Demand curve shifts rightwards. 	(1 mark)
+	•	Price increases.	(1 mark)
+	
+	Verbal elaboration:
+	As more people want to invest in antiques, demand for antiques increases. 		(1 mark)
+	The increase in marginal benefit is equal to the increase in price. 	(1 mark)
+	As a result, the consumer surplus remains unchanged. 	(1 mark)
+
+Question code: B3C15Q338 (new)
+The wages of construction workers have increased significantly in the last decade, while the starting salaries of many jobs requiring a university degree have changed little. It has been reported that some university graduates are choosing to become construction workers.
+(a)	Explain ONE function of prices illustrated in the above case.	(2 marks)
+(b)	Some people suggest importing foreign construction workers. With the aid of a supply and demand diagram, explain whether local construction workers will gain or lose by showing the change in producer surplus.	(5 marks)
+
+Answers:
+(a)	Allocative function.	(1 mark)
+	As the relative wages of construction workers increase, the quantity supplied of construction workers has increased.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Decrease in demand	(1 mark)
+	•	Decrease in producer surplus	(1 mark)
+	
+	Verbal elaboration:
+	When foreign construction workers are imported, the demand for local construction workers will decrease from D1 to D2.	(1 mark)
+	Wages will decrease from W1 to W2 and the quantity of local construction workers employed will decrease from Q1 to Q2.	(1 mark)
+	Local construction workers will lose as their producer surplus will decrease (by the shaded area).	(1 mark)
+
+Question code: B3C15Q339 (new)
+At the start of every year, a large fish market in Tokyo auctions (拍賣) a prize-winning bluefin tuna. In 2016, a sushi restaurant chain won the bid at 14 million yen.
+(a)	Explain the function of prices performed in this case.	(2 marks)
+(b)	The amount of bluefin tuna has greatly decreased due to overfishing. With the aid of a supply and demand diagram, explain the change in total social surplus.
+	(5 marks)
+
+Answers:
+(a)	Rationing function.	(1 mark)
+	The bidder who offers the highest price receives the prize-winning tuna.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Decrease in supply	(1 mark)
+	•	Decrease in total social surplus	(1 mark)
+	
+	Verbal elaboration:
+	Due to overfishing, the supply of bluefin tuna decreases from S1 to S2.	(1 mark)
+	The quantity transacted of bluefin tuna decreases from Q1 to Q2.	(1 mark)
+	The total social surplus decreases (by the shaded area).	(1 mark)
+
+Question code: B3C15Q340 (new)
+Casper is the top scorer at Fox City, a football club. Two clubs, Man Red and North London, are both interested in signing Casper. The transfer fee proposed by Man Red and North London are $11 million and $7 million, respectively. Fox City has accepted the offer from Man Red.
+(a)	Explain the function of prices performed in this case.	(2 marks)
+(b)	Fox City has recently moved to a new stadium with a larger capacity. Explain the change in consumer surplus, with the aid of a supply and demand diagram.
+	(5 marks)
+
+Answers:
+(a)	Rationing function.	(1 mark)
+	The player is transferred to the club which values him most.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Increase in supply	(1 mark)
+	•	Increase in consumer surplus	(1 mark)
+	
+	Verbal elaboration:
+	As the new stadium has greater capacity, the supply of seats increases from S1 to S2.	(1 mark)
+	The quantity transacted increases from Q1 to Q2 and the price decreases from P1 to P2.	(1 mark)
+	The consumer surplus increases (by the shaded area).	(1 mark)
+
+
+Structured Questions
+
+Question code: B3C15Q501
+Some top players broadcast their game playing videos on the internet to earn income. When a computer game becomes more popular, the fee to watch the corresponding game playing videos increases.
+(a)	Explain the above phenomenon with the aid of TWO supply-demand diagrams.
+	(6 marks)
+(b)	State the changes in the consumer surplus, producer surplus and total social surplus of game playing videos with the aid of the diagram drawn in part (a).
+	(3 marks)
+(c)	Explain the function of prices performed by the price of the game playing broadcasts.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Increase in demand for computer games	(1 mark)
+	(	Increase in demand for game playing broadcasts	(1 mark)
+	(	Increase in price	(1 mark)
+
+	Verbal elaboration:
+	The demand for game playing broadcasts is a derived demand from the demand for computer games.	(1 mark)
+	As the demand for computer games increases, the demand for the game playing broadcasts increases.	(1 mark)
+	Therefore, the price of the game playing broadcasts increases.	(1 mark)
+
+(b)	Increase in consumer surplus = Area ACP1 - Area BEP0	(1 mark)
+	Increase in producer surplus = Area P1CEP0	(1 mark)
+	Increase in total social surplus = Area ACEB	(1 mark)
+	
+
+(c)	Rationing function	(1 mark)
+	Those who are willing and able to pay the price can watch the game playing broadcasts.	(1 mark)
+
+Question code: B3C15Q502
+Both Mary and Sally like candy very much. Tom does not like candy at all.
+(a)	'Mary has eaten six pieces of candy and Sally has eaten three pieces. As a result, Mary enjoys a greater consumer surplus than Sally.'
+	Comment on the statement.	(4 marks)
+(b)	Under what condition will Mary's total expenditure on candy decrease when the price decreases? Explain your answer with the aid of a diagram.	(5 marks)
+
+Answers: 
+(a)	Consumer surplus refers to the difference between the total maximum amount a consumer is willing to pay and the total amount he actually pays for a given quantity of a good.	(2 marks)
+	Since their marginal benefit curves (or demand curves) are different, we cannot conclude that Mary enjoys a greater consumer surplus than Sally simply based on the fact that Mary consumes more candy than Sally.	(2 marks)
+	(Graphical explanation is also accepted.)
+
+(b)	If Mary's demand for candy is inelastic, the percentage decrease in price is greater than the percentage increase in quantity demanded. In this case, her total expenditure will decrease.	(2 marks)
+	Indicate on the diagram:
+(	Price decreases while quantity demanded increases.	(1 mark)
+(	The decrease in total expenditure caused by the decrease in price is greater than the increase in total expenditure caused by the increase in quantity demanded.	(2 marks)
+
+
+
+Question code: B3C15Q503
+In Country U, the marginal cost of producing every unit of bananas is $4. Banana producers in this country are price takers.
+(a)	What is the market structure of the banana market in Country U? List TWO features of this type of market structure.	(3 marks)
+(b)	What is the price elasticity of supply of bananas in Country U? Draw the supply curve.	(2 marks)
+*(c)	What is the market price of bananas in Country U? Explain.	(2 marks)
+(d)	Suppose a machine has been invented so that the marginal cost of producing every unit of bananas becomes $3. How will the consumer surplus and the producer surplus change? Explain with the aid of a diagram.	(4 marks)
+
+Answers:
+(a)	Perfect competition	(1 mark)
+	Features include:
+	(	A large number of sellers
+	(	Free entry
+	(	Homogeneous products
+	(	Perfect information
+	(Any TWO of the above. 1 mark ( 2 = 2 marks)
+
+(b)	The supply is perfectly elastic. 	(1 mark)
+		(1 mark)
+
+(c)	Market equilibrium is attained when the marginal cost, the price and the marginal benefit are equal. Since the marginal cost is constant at $4, the market price is also $4.	(2 marks)
+
+
+(d)	Indicate on the diagram:
+(	Supply curve shifts downwards.	(1 mark)
+(	Consumer surplus increases.	(1 mark)
+
+Verbal elaboration:
+When the marginal cost falls to $3, the consumer surplus will increase from Area ABC to Area AEF. The producer surplus will remain zero.	(2 marks)
+
+Question code: B3C15Q504
+To fight bird flu, the government in Country A decided to ban the sale of live chickens. It considered paying compensation to live chicken traders so that they would stop selling chickens.
+(a)	Suppose news of the bird flu led to a large decrease in both the demand for and supply of live chickens. What would the changes in quantity transacted, the consumer surplus and the producer surplus of live chickens be? Draw a diagram to show your answer.	(3 marks)
+(b)	What would the change in the equilibrium price be?	(2 marks)
+*(c)	To encourage traders to stop doing business, what would the minimum amount of compensation to the traders be? Explain.	(4 marks)
+
+
+Answers: 
+(a)
+
+	(3 marks)
+
+(b)	The decrease in supply would lead to an increase in price while the decrease in demand would lead to a decrease in price. Thus, the overall effect on price would be uncertain.	(2 marks)
+
+(c)	The amount of compensation should at least cover the cost of ceasing to do business. The cost of not selling is equal to the value of selling live chickens.
+	(2 marks)
+The value of selling live chickens is the expected net gain from selling live chickens, which is equal to the expected total producer surplus.	(2 marks)
+
+Question code: B3C15Q505
+Traditionally, when prices are rising, people will buy more gold as a store of value (價值儲藏). Thanks to global inflation, demand for gold has increased rapidly. In addition, as income levels in China increase, demand for gold jewellery is increasing sharply. This trend is expected to continue. However, as the costs of gold exploration and mining are increasing rapidly, the supply of gold is declining.
+(a)	With reference to the above information, explain why gold prices may continue to increase.	(4 marks)
+(b)	If the quantity transacted of gold decreases, what will the change in the total social surplus be? Draw a diagram to show your answer.	(3 marks)
+(c)	Paul has $1 million. He can either choose to deposit his money into banks to earn interest or buy gold. Explain whether the cost will change in the following cases if he chooses to buy gold.
+(i)	Interest rates increase rapidly.	(2 marks)
+(ii)	A financial crisis occurs again. There are massive bank runs (擠提) in the country.	(2 marks)
+(iii)	There is a rumour that the price of gold will decrease.	(2 marks)
+(iv)	After Paul has bought gold, interest rates increase and the price of gold dramatically decreases.	(2 marks)
+
+Answers:
+(a)	Some demand for gold is derived from the demand for gold jewellery. Thus, the increase in the demand for gold jewellery will lead to an increase in the demand for gold. The increase in the demand for gold will lead to an increase in the price of gold.	(2 marks)
+The increase in the cost of gold exploration and mining will lead to a decrease in the supply of gold. This will lead to an increase in the price of gold.	(2 marks)
+
+(b)	The total social surplus will decrease from Triangle BAC to Triangle B'A'C'.
+		(1 mark)
+
+	(2 marks)
+
+(c)	(i)	If Paul chooses to buy gold, he will forgo the opportunity to earn interest. Thus, if interest rates increase, his cost will increase.	(2 marks)
+(ii)	As the risk that banks cannot repay depositors' money increases, the expected value of depositing money into a bank decreases. Thus, the cost of buying gold will decrease.	(2 marks)
+(iii)	The change in expectations about the price of gold will not affect the value of depositing money into the bank (which is the highest-valued option forgone). Thus, the cost will remain unchanged.	(2 marks)
+(iv)		When an action has been taken, nothing can affect the cost of the action. When measuring the cost of an action, we only consider the options available within the decision-making period. Thus, an increase in interest rates will not be counted in the cost of buying gold. The cost of buying gold (which is a sunk cost or historical cost now) will not change.	(2 marks)
+
+Question code: B3C15Q506
+Due to climate change, dry areas have become drier and water shortages have worsened. Less land can be used to produce barley, a key ingredient of beer. Thus, it is expected that barley production will decline and so will beer. Some breweries are looking for new varieties of barley, which can better cope with climate change.
+(a)	Using the concept of consumer surplus, explain why beer drinkers will suffer as a result of climate change. Show your answer using a diagram.	(6 marks)
+(b)	Suppose some breweries find a new variety of barley which can be grown on dry land at a very low cost. How will this discovery affect the quantity transacted and price of beer? With the aid of a diagram, explain how drinkers and breweries will benefit.	(7 marks)
+(c)	Suppose, because of climate change, the quality of barley declines so that the demand for beer decreases. What change will there be in the quantity transacted, price, consumer surplus, producer surplus and total social surplus in the beer market? Explain with the aid of a diagram.	(7 marks)
+
+Answers:
+(a)	Climate change will lead to a decrease in the supply of barley.	(1 mark)
+The price of beer will increase from P0 to P1 and the quantity of beer transacted will decrease (from Q0 to Q1). People will drink fewer beers and pay a higher price.	(2 marks)
+Therefore, the consumer surplus, which measures the gain from consumption, will decrease (from Triangle CP0A to Triangle CP1A').	(1 mark)
+
+	(2 marks)
+
+(b)	The discovery of the new variety of barley will lower the cost of producing beer. This will lead to an increase in the supply of beer.	(1 mark)
+	The quantity transacted will increase (from Q1 to Q2). 	(1 mark)
+	The price will decrease (from P1 to P2).	(1 mark)
+	The consumer surplus will increase from Area CP1A to AreaCP2A'.	(1 mark)
+	The producer surplus will increase from Area P1BA to Area P2B'A'.	(1 mark)
+
+	(2 marks)
+
+(c)	The quantity transacted will decrease from Q1 to Q2.	(1 mark)
+	The price will decrease from P1 to P2.	(1 mark)
+	The consumer surplus will decrease from AreaCP1A to Area C'P2A'.	(1 mark)
+	The producer surplus will decrease from Area P1BA to Area P2BA'.	(1 mark)
+	The total social surplus will decrease from Area CBA to Area C'BA'.	(1 mark)
+
+	(2 marks)

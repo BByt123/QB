@@ -1,0 +1,1163 @@
+Chapter 2	The three basic economic problems
+
+Multiple Choice Questions
+
+Question code: B1C02Q001 (new)
+More tourists are using public swimming pools in Hong Kong and some of the swimming pools are crowded during the summer. Some people suggest that the government build more public swimming pools. The suggestion is mainly related to the __________ problem in economics.
+A.	'what to produce'
+B.	'how to produce'
+C.	'for whom to produce'
+D.	None of the above
+
+Answer: A
+
+Question code: B1C02Q002 (new)
+More tourists are using public swimming pools in Hong Kong and some of the swimming pools are crowded during the summer. Some people suggest charging swimmers who do not have a Hong Kong identity card double when they use public swimming pools. The suggestion is related to the __________ problem(s) in economics.
+A.	'what to produce'
+B.	'how to produce'
+C.	'for whom to produce'
+D.	All of the above
+
+Answer: C
+
+Question code: B1C02Q003 (new)
+A rich man employs farmers in a poor village to plant rice. Part of the rice is kept to sell to local villagers at a low price. The above case illustrates how the __________ problem(s) in economics is solved.
+A.	'what to produce'
+B.	'how to produce'
+C.	'for whom to produce'
+D.	All of the above
+
+Answer: D
+
+Question code: B1C02Q004 (new)
+A coastal village in Japan is famous for its sea urchins (海膽). According to the village tradition, the sea urchins are collected by female free divers (徒手潛水員). The above tradition is related to the __________ question(s) in economics.
+A.	'what to produce'
+B.	'how to produce'
+C.	'for whom to produce'
+D.	All of the above
+
+Answer: B
+
+Question code: B1C02Q005 (new)
+An airline company in Germany has decided to buy two Airbus A380s to increase the number of its flights between Frankfurt and Tokyo.
+Which of the following economic problems is/are related to the above case?
+A.	'What to produce'
+B.	'For whom to produce'
+C.	'What to produce' and 'how to produce'
+D.	'How to produce' and 'for whom to produce'
+
+Answer: C
+Explanation
+The choice of aircraft is related to 'how to produce'. The increase in the number of flights on a route is related to 'what to produce'.
+
+Question code: B1C02Q006 (new)
+A property developer has announced it will provide more small, low-priced flats in the near future to meet the needs of young couples. This is related to the __________ question(s) in economics.
+A.	'what to produce'
+B.	'for whom to produce'
+C.	'how to produce' and 'for whom to produce'
+D.	'what to produce' and 'for whom to produce'
+
+Answer: D 
+
+
+Question code: B1C02Q007 (new)
+Ming owns a small factory that produces traditional snacks. As traditional snacks have become less popular, Ming decides to lay off half of his workers to reduce output. Which of the following economic questions are involved?
+(1)	What to produce
+(2)	How to produce
+(3)	For whom to produce
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B1C02Q008 (new)
+The government plans to employ female workers to provide free childcare service for single parent families. Which of the following economic questions are involved?
+(1)	What to produce
+(2)	How to produce
+(3)	For whom to produce
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C02Q009
+In which of the following situations is the problem of 'what to produce' NOT involved?
+	(1)	Living in a world without scarcity
+	(2)	A bank manager plans to hire more staff
+	(3)	A store owner chooses between selling apples or oranges
+A.	(2) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Explanation
+Option (1): If there is no scarcity, the problem of 'what to produce' does not exist since people can get anything they want.
+
+Question code: B1C02Q010
+Which of the following is NOT a 'what to produce' question?
+A.	What types of shoes a factory should produce.
+B.	What time a factory should ship its products overseas.
+C.	What kind of coffee a café should serve.
+D.	How many socks a factory should produce.
+
+Answer: B
+
+Question code: B1C02Q011
+Which of the following does NOT illustrate the 'what to produce' question? 
+A.	How many meal boxes a restaurant should produce
+B.	Which types of ice cream an ice cream shop should provide
+C.	Which types of cuisines (菜式) a restaurant should provide
+D.	When a restaurant should deliver its food
+
+Answer: D
+
+Question code: B1C02Q012
+Which of the following illustrates the 'how to produce' question?
+A.	A garment factory decides to produce a new fashion.
+B.	Mary decides to buy a new MP3 player.
+C.	A manager decides to set up a new plant in Guangdong.
+D.	A publisher (出版商) decides to publish more books about globalisation.
+
+Answer: C
+
+Question code: B1C02Q013
+Which of the following illustrates the 'how to produce' question? 
+A.	A publishing company decides to publish more books for children.
+B.	A businessman decides to close all his shops and switch to selling goods via the internet. 
+C.	Keung decides to buy a new laptop computer.
+D.	A watch factory decides to produce a new watch.
+
+Answer: B
+
+Question code: B1C02Q014
+Which of the following illustrates the 'how to produce' question?
+A.	Mrs Chan buys vegetables at a market.
+B.	Miss Lau performs acrobatics (雜技) at the annual dinner.
+C.	Mr Lee decides to publish a computer magazine.
+D.	Mr Chow types notes for his students with a laptop computer.
+
+Answer: D
+
+Question code: B1C02Q015 (new)
+Which of the following illustrates a solution to a 'for whom to produce' question?
+A.	Some parents would not let their children go to school because of their fear about the Ebola virus (伊波拉病毒).
+B.	The United Nations sent hygiene kits to villagers in Western African countries.
+C.	More advertisements about hygiene were produced during the Ebola virus outbreak.
+D.	Pharmaceutical companies accelerated their research into a vaccine for the Ebola virus.
+
+Answer: B
+
+Question code: B1C02Q016
+Which of the following is made for resolving the 'for whom to produce' question? 
+A.	The government decides to carry out mosquito-killing actions in public housing estates when dengue fever (登革熱) becomes widespread. 
+B.	Some farmers stop farming when dengue fever becomes widespread. 
+C.	Shops sell more mosquito coils (蚊香) when dengue fever becomes widespread. 
+D.	Mosquito repellent spray (驅蚊水) producers try to boost sales by reducing prices when dengue fever becomes widespread.
+
+Answer: A
+
+
+Question code: B1C02Q017
+Which of the following involves the 'for whom to produce' question?
+(1)	The government allocates public housing units according to household income.
+(2)	Universities allocate places according to students' HKDSE results.
+(3)	Accident and emergency departments (急症室) determine the priority of treatment according to the seriousness of conditions.
+(4)	Mr Leung reserves goods for frequent customers (常客).
+A.	(1) only
+B.	(2) and (3) only
+C.	(1), (2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: D
+
+Question code: B1C02Q018 (new)
+The manager of a factory is considering whether to employ more workers or install an expensive new machine. Which of the following economic problems is directly addressed?
+A.	What to produce
+B.	How to produce
+C.	When to produce
+D.	For whom to produce
+
+Answer: B
+
+Question code: B1C02Q019
+A university has decided to organise an orientation programme for its freshmen (新生). Which of the following problems does the university directly address?
+	(1)	What to produce
+	(2)	How to produce
+	(3)	For whom to produce
+A.	(1) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: C
+
+
+Question code: B1C02Q020
+One big fitness club launches a yoga programme. What economic problem is involved in this case?
+A.	What to produce
+B.	How to produce
+C.	For whom to produce
+D.	None of the above
+
+Answer: A
+Explanation
+In the question, the fitness club decides on the type of services to be provided (yoga programme). Therefore, it is involved in the 'what to produce' question.
+
+Question code: B1C02Q021
+To reduce production cost, a garment factory decided to fire (辭退) skilled workers and replaced them by hiring more semi-skilled workers. What economic problem is involved in this case?
+A.	What to produce
+B.	How to produce
+C.	For whom to produce
+D.	None of the above
+
+Answer: B
+Explanation
+A change in production methods (from relying more on skilled workers to relying more on semi-skilled workers) concerns the 'how to produce' question.
+
+Question code: B1C02Q022
+Both Alex's father and grandfather are teachers. After Alex graduates from university, he decides to follow his father and grandfather in his choice of career. What economic problem(s) is (are) involved in this case?
+A.	What to produce
+B.	How to produce
+C.	For whom to produce
+D.	What and how to produce
+
+Answer: A
+Explanation
+Choice of career is about the types of services to be provided. Therefore, it involves the 'what to produce' question.
+
+Question code: B1C02Q023 (new)
+Which of the following is most likely an example of solving economic problems by customs and traditions?
+A.	In ancient times, European merchants imported Chinese-made products via the Silk Road to earn a profit.
+B.	Priests (祭司) in a primitive tribe receive more agricultural products than farmers during a harvest.
+C.	In an ancient empire, it was illegal to produce salt privately.
+D.	None of the above is the example
+
+Answer: B
+
+Question code: B1C02Q024 (new)
+In a planned economy,
+A.	most resources are owned by the state.
+B.	most economic decisions are made by the government.
+C.	most goods are distributed according to government commands.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C02Q025 (new)
+Compared to a planned economy, a market economy
+A.	is more modernised (現代化).
+B.	has more resources controlled by private enterprises.
+C.	has less even income distribution.
+D.	has fewer government officials.
+
+Answer: B
+
+Question code: B1C02Q026 (new)
+When a planned economy is transformed into a market economy,
+A.	the government will intervene less in production.
+B.	people can consume more goods.
+C.	more resources will be wasted.
+D.	there will be social unrest.
+
+Answer: A
+
+Question code: B1C02Q027 (new)
+A planned economy 
+A.	does not have any customs and traditions.
+B.	does not have currency.
+C.	must eventually be transformed into a market economy.
+D.	has a larger portion of its resources owned by the state than a market economy does.
+
+Answer: D
+
+Question code: B1C02Q028 (new)
+Star City is famous for its high-quality medical services. However, the medical services are mainly in private hospitals. To meet the needs of the poor, public hospitals also provide cheap medical services. The above example shows that Star City is most likely a
+A.	traditional economy.
+B.	planned economy.
+C.	market economy.
+D.	mixed economy.
+
+Answer: D
+
+Question code: B1C02Q029 (new)
+North Korea is often regarded as a planned economy because
+(1)	its per-capita (人均) consumption is relatively low.
+(2)	the government distributes most goods and services.
+(3)	workers' occupations are assigned by the government.
+(4)	famine (飢荒) occasionally occurs.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+
+Question code: B1C02Q030 (new)
+In a country, the army assigns retired air force pilots to jobs at airline companies. This is an example of solving the problem of ___________ by __________.
+A.	'for whom to produce' … government command
+B.	'how to produce' … the market mechanism
+C.	'how to produce' … government command
+D.	'what to produce' … the market mechanism
+
+Answer: C
+
+Question code: B1C02Q031 (new)
+Andy originally owned a toy factory. He found that his profits from toys were declining. He decided to close the factory and open a restaurant from which he thought he could earn greater profits. This is an example of tackling the economic problem of __________ by ___________.
+A.	'what to produce' … customs and traditions
+B.	'what to produce' … the market mechanism
+C.	'how to produce' … customs and traditions
+D.	'how to produce' … the market mechanism
+
+Answer: B
+
+Question code: B1C02Q032 (new)
+Lincoln owns a parcel of land in Country Z. He built a music studio there. Last year, the Ministry of Agriculture (農業部) expropriated (徵用) the land and tore down Lincoln's studio to build a farm. This is an example of tackling the economic problem of __________ by __________.
+A.	'what to produce' … government command
+B.	'what to produce' … the market mechanism
+C.	'for whom to produce' … government command
+D.	'for whom to produce' … the market mechanism
+
+Answer: A
+
+
+Question code: B1C02Q033 (new)
+In some East Asian countries, married people give red packets to juniors (後輩) during festivals. This is an example of solving the question of _________ by __________.
+A.	'how to produce' … customs and traditions
+B.	'how to produce' … the market mechanism
+C.	'for whom to produce' …customs and traditions
+D.	'for whom to produce' … the market mechanism
+
+Answer: C
+
+Question code: B1C02Q034 (new)
+Suppose the Airport Authority announces the construction of a third runway to expand the capacity of the airport and provide job opportunities. This is an example of tackling the economic problem of __________ by __________.
+A.	'what to produce' … government command
+B.	'for whom to produce' … government command
+C.	'how to produce' … the market mechanism
+D.	'how to produce' … customs and traditions
+
+Answer: A
+
+Question code: B1C02Q035
+Which of the following is an example of a price system?
+A.	Students are told by teachers to perform at a ceremony.
+B.	Students are awarded scholarships based on their academic results.
+C.	Students pay for private tuition services.
+D.	Students have to make a booking with their school before using a classroom after school.
+
+Answer: C
+
+Question code: B1C02Q036
+In a command economy,
+A.	production decisions are made by a dictator (獨裁者).
+B.	there is no discrimination.
+C.	price signals are suppressed.
+D.	costs and benefits are irrelevant in making decisions concerning resource allocation.
+
+Answer: C
+
+Question code: B1C02Q037
+Compared to a planned economy, a market economy
+A.	practises a higher level of specialisation.
+B.	has more uneven income distribution.
+C.	has more government intervention.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C02Q038
+In a command economy,
+A.	there will be no problem of scarcity.
+B.	government commands replace price signals in solving the problems of resource allocation.
+C.	there will be no competition.
+D.	there will be no problem of unequal income distribution.
+
+Answer: B
+
+Question code: B1C02Q039
+Which of the following situations is most likely to be found in a command economy?
+A.	The government provides subsidies to some industries.
+B.	People can inherit (承繼) the properties of their ancestors.
+C.	Students are assigned by the labour department to work in different positions after graduation.
+D.	Prices of agricultural products have been very stable in recent years.
+
+Answer: C
+
+Question code: B1C02Q040
+Which of following is most likely to exist in a command economy?
+A.	The government owns all resources.
+B.	Firms can earn huge profits because there is no competition.
+C.	Workers' jobs are assigned.
+D.	Price competition does not exist.
+
+Answer: C
+
+Question code: B1C02Q041
+Which of the following statements about a market-oriented economy is correct?
+A.	The three basic economic problems are solely solved by the market mechanism.
+B.	The living standard is higher than in a planned economy.
+C.	All resources are owned by private enterprises.
+D.	Most firms follow price signals in making their decisions.
+
+Answer: D
+Explanation
+•	Even in a market-oriented economy, some economic problems are solved by government commands or traditions. Option A is incorrect. 
+•	Living standard is not necessarily higher in a market-oriented economy. Option B is incorrect.
+•	Even in a market-oriented economy, some resources are owned by the government. Option C is incorrect. 
+
+Question code: B1C02Q042
+Which of the following would affect the allocation of resources in a mixed economy?
+(1)	Parental advice
+(2)	Government officials' decisions
+(3)	Consumer preferences
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+In a mixed economy, features of more than one type of economy (i.e. traditional, planned and market economies) are present. Therefore, parental advice, government officials' decisions and consumer preferences all affect resource allocation. 
+
+Question code: B1C02Q043
+Compared to a market economy, a planned economy must
+A.	have a lower economic growth rate.
+B.	have more even income distribution.
+C.	have less output available for consumption.
+D.	rely less on the market mechanism to allocate resources.
+
+Answer: D
+Question code: B1C02Q044
+Which of the following about a command economy is correct?
+A.	All resources are owned by the government.
+B.	All markets are monopolised by government departments.
+C.	Non-price competition is common.
+D.	Production pattern fully reflects what consumers want.
+
+Answer: C
+Explanation
+•	Even in a command economy, some resources may be owned by private enterprises. Option A is incorrect. 
+•	Even in a command economy, private enterprises may still exist in some industries. Option B is incorrect.
+•	Since production is directed by government commands, and government officials do not necessarily know what consumers want, the production pattern may not reflect what consumers want. Option D is incorrect.
+
+Question code: B1C02Q045
+Which of the following is a feature of a market-oriented economy?
+A.	The problem of scarcity is more serious.
+B.	There is price competition only.
+C.	Resources are allocated according to the will of government officials. 
+D.	Most productive resources are privately owned.
+
+Answer: D
+Explanation
+•		Scarcity means that our resources are insufficient to satisfy all our wants. In all types of economies, scarcity exists. The difference between different types of economies lies in their different methods to solve the three basic economic problems.
+•	In a market-oriented economy, there are some resources which are not allocated by price mechanism. Other forms of competition replace price competition to decide who gets these resources.
+
+Question code: B1C02Q046
+When a command economy is transformed into a market economy,
+A.	more resources will be owned by private enterprises.
+B.	the problem of income inequality will improve.
+C.	the total output of goods and services will decrease.
+D.	all production decisions will be made by private individuals.
+
+Answer: A
+Explanation
+•	In a market economy, income distribution is mostly determined by the price mechanism. There is no guarantee that the price mechanism distributes income more equally. Option B is incorrect. 
+•	Compared with a command economy, a market economy does not have less total output of goods and services. In many cases, the total output of goods and services increases when a command economy changes into a market economy. Option C is incorrect. 
+•	Even in a market economy, not all production decisions are made by private individuals. Some types of goods and services are provided by the government. Option D is incorrect. 
+
+Question code: B1C02Q047
+Which of the following will NOT be found in a command economy?
+	(1)	Production activities
+	(2)	Opportunity costs
+	(3)	The three basic economic problems
+	(4)	Scarcity
+A.	(2) only
+B.	(1) and (2) only
+C.	(3) and (4) only
+D.	None of the above
+
+Answer: D
+
+Question code: B1C02Q048
+Which of the following statements about a market economy is correct?
+A.	All resources are privately owned.
+B.	Competition is so intense that firms will get loss.
+C.	Most workers can choose their jobs freely.
+D.	Non-price competition is absent.
+
+Answer: C
+
+
+Question code: B1C02Q049
+Which of the following statements about a market economy is correct?
+A.	The standard of living of its citizens is higher than that in a command economy.
+B.	People are free to make consumption and production decisions without any restrictions.
+C.	All property is privately owned.
+D.	Resources are mostly allocated by the price mechanism.
+
+Answer: D
+
+Question code: B1C02Q050
+Which of the following statements about a market economy is INCORRECT? 
+A.	People's standard of living in a market economy is not necessarily higher than that in a command economy. 
+B.	People's consumption and production are free from government intervention.
+C.	Most resources are privately owned.
+D.	Some resources are allocated by a non-price mechanism.
+
+Answer: B
+
+Question code: B1C02Q051
+In a market economy,
+A.	the problem of scarcity does not exist.
+B.	market signals are substituted for government commands in resolving the problems of resource allocation.
+C.	competition may not exist.
+D.	income is evenly distributed.
+
+Answer: B
+
+Question code: B1C02Q052
+Which of the following is most likely to exist in a market economy? 
+A.	The government imposes sewage charges on some industries.
+B.	The government provides water supply.
+C.	Private property rights are protected by law.
+D.	Product prices are stable.
+
+Answer: C
+
+
+Question code: B1C02Q053
+When a country is transforming itself from a market economy into a command economy, we expect
+	(1)	a more limited scope of private ownership of property.
+	(2)	lower commodity prices.
+	(3)	a less important role for price as a mechanism for allocating resources.
+	(4)	more control over wage rates and prices of goods.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: D
+
+Question code: B1C02Q054
+When a country changes from a command economy to a market economy, 
+	(1)	fewer resources will be owned by the government.
+	(2)	product prices will drop. 
+	(3)	market prices will serve as signals in guiding production and consumption.
+	(4)	wage rates and product price fluctuations will increase.
+A.	(1) only 
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: D
+
+Question code: B1C02Q055 (new)
+Which of the following situations is most likely a way to solve economic problems by customs and traditions?
+A.	Only females can inherit property from their ancestors.
+B.	Income earners need to pay taxes.
+C.	People follow production orders that come from the ruling party (執政黨).
+D.	Merchants sell products where they can make a greater profit.
+
+Answer: A
+
+Question code: B1C02Q056 (new)
+Which of the following is LEAST likely a way to distribute goods and services by customs and traditions?
+A.	Only women have the right to distribute goods and services.
+B.	During festivals, free Ping-on rice (平安米) is distributed on a 'first-come, first-served' basis.
+C.	Antiques are sold to the highest bidder (投票者) at auctions (拍賣).
+D.	When a ship is sinking, male passengers let female passengers escape first.
+
+Answer: C
+
+Question code: B1C02Q057
+'In order to protect people from the rising prices of daily necessities, we have decided to implement a series of policies. First, we will regulate the price of rice to be…,' said a government spokesperson. 
+Which of the following can best be used to describe the above solution for rising prices?
+A.	The market mechanism.
+B.	Government commands.
+C.	Traditions
+D.	Market competition
+
+Answer: B
+
+Question code: B1C02Q058
+'Our ancestors (祖先) have told us not to catch fish on this lake,' said a village headman (村長).
+This statement best describes a
+A.	closed economy.
+B.	command economy. 
+C.	market economy. 
+D.	traditional economy. 
+
+Answer: D
+
+Question code: B1C02Q059
+Most of the resources in Economy X are privately owned and most of the questions of resource allocation are solved by the price mechanism. Economy X is most likely
+A.	a market economy.
+B.	a command economy.
+C.	a traditional economy.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C02Q060
+In Economy A, most resources are owned by the government and people have to follow government plans in consumption and production. Yet, some resources are still allocated by the price mechanism. Economy A is a
+A.	traditional economy.
+B.	command economy.
+C.	market economy.
+D.	developing country.
+
+Answer: B
+
+Question code: B1C02Q061
+Which of the following is correct?
+A.	Scarcity can be eliminated in a pure market economy.
+B.	Since there is scarcity, we cannot solve the three basic economic problems.
+C.	There is no pure market economy in the real world.
+D.	People in a command economy face no scarcity as they have no choice.
+
+Answer: C
+
+Question code: B1C02Q062 (new)
+Hong Kong is a ________ because _____________.
+A.	market economy; all resources are controlled by private enterprises
+B.	planned economy; its government spends a huge amount of money on infrastructure
+C.	traditional economy; many indigenous villages in the New Territories allow only males to inherit land
+D.	mixed economy; market forces, government commands and traditions are all used to tackle economic problems
+
+Answer: D
+
+
+Question code: B1C02Q063
+'Since the price of flour has increased substantially, we have to raise the price of our bread…….'
+The above bakery is most likely operating in a ____________ economy.
+A.	market
+B.	command
+C.	traditional
+D.	mixed
+
+Answer: A
+Explanation
+The above bakery makes its pricing decisions according to price signals. This most likely happens in a market economy. 
+
+Question code: B1C02Q064
+The United States of America is often regarded as a market economy because
+(1)	its per-capita (人均) consumption is high.
+(2)	market forces allocate most consumer goods.
+(3)	its workers can choose their occupations freely.
+(4)	it has many billionaires (億萬富豪).
+A.	(1) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	All of the above
+
+Answer: B
+Explanation
+•	Options (2) and (3) are an indication that market mechanism is relied on to allocate resources (consumer goods and labour). 
+•	In a market economy, the price mechanism does not guarantee a high per-capita consumption: people may choose to have more investment rather than consumption.
+•	The presence of a large number of billionaire does not indicate that the US is a market economy. A command economy where the government deliberately (故意地) grants monopolies or privileges (特權) to individuals may also have many government-created billionaires. 
+
+
+Question code: B1C02Q065
+The mainland of China is a _______________ as ______________.
+A.	market economy; all property is privately owned
+B.	command economy; the government plays an important role in the economy
+C.	traditional economy; many people in the countryside follow customs and traditions
+D.	mixed economy; it contains the features of all three types of economies
+
+Answer: D
+
+Question code: B1C02Q066
+Japan is a ____________, because _______________.
+A.	mixed economy; government commands, the market mechanism, and customs and traditions are used to tackle economic problems
+B.	planned economy; the government plays an important economic role in controlling the exchange rate of the Japanese Yen
+C.	traditional economy; many people follow gender-based customs and traditions
+D.	market economy; most resources are owned by households and private enterprises
+
+Answer: A
+
+Question code: B1C02Q067
+__________ is/are a prerequisite (先決條件) for __________.
+	(1)	Specialisation … exchange
+	(2)	Exchange … specialisation
+	(3)	Well-defined private property rights … market exchange
+	(4)	Well-defined private property rights … competition
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: C
+
+Question code: B1C02Q068
+Which of the following statements about exchange is INCORRECT?
+A.	Market exchange does not exist in a command economy.
+B.	Exchange is not possible in a one-man economy.
+C.	Exchange enhances living standards.
+D.	Market exchange may take place if private property rights are clearly defined.
+
+Answer: A
+
+Question code: B1C02Q069
+* Which of the following is correct?
+A.	We cannot satisfy all our wants because of greed (貪念).
+B.	Scarcity implies shortage.
+C.	Specialisation (專門化) is needed only when there is scarcity.
+D.	Opportunity cost exists when there is more than one want.
+
+Answer: C
+Explanation
+If there is no scarcity, people can satisfy all their wants with their resources. Therefore, they need not increase output by practising specialisation.
+
+Question code: B1C02Q070
+Which of the following rights are included in private property rights?
+A.	The exclusive right to use the good.
+B.	The exclusive right to generate income from the use of the good.
+C.	The exclusive right to transfer the good.
+D.	All of the above.
+
+Answer: D
+
+Question code: B1C02Q071 (new)
+Private property is a resource or a good
+A.	that people do not want more of.
+B.	from which only its owner has the right to use, transfer and generate income.
+C.	that must be owned by one person.
+D.	that must be distributed by the market mechanism.
+
+Answer: B
+
+
+Question code: B1C02Q072 (new)
+Which of the following is/are the right(s) that a taxi driver can exercise over a taxi if the taxi is rented from a taxi company?
+(1)	Exclusive right to use the taxi.
+(2)	Exclusive right to sell the taxi.
+(3)	Exclusive right to lease (出租) the taxi to his/her friend.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B1C02Q073 (new)
+In economics, the existence of discrimination implies
+A.	that scarce resources are distributed through competition.
+B.	the poor are unfairly treated.
+C.	violence must be used to allocate resources.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C02Q074 (new)
+The existence of competition implies that
+A.	there are no free goods in the real world.
+B.	resources are distributed by the market mechanism.
+C.	scarcity can be eliminated.
+D.	some people must be discriminated against.
+
+Answer: D
+
+Question code: B1C02Q075
+Which of the following about scarcity is correct?
+A.	Scarcity is a universal phenomenon.
+B.	When there is a market price for a good, the good must be scarce.
+C.	In a society, competition for scarce goods cannot be avoided.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C02Q076
+Which of the following is NOT an example of non-price competition?
+A.	A baby catches the attention of his mother from his sister.
+B.	Passengers look for seats in a train.
+C.	People bid for an ancient vase in an auction (拍賣).
+D.	Athletes compete at the Olympic Games (奧運會).
+
+Answer: C
+
+Question code: B1C02Q077
+In Hong Kong, the general out-patient service (普通門診服務) provided by public hospitals is allocated by
+	(1)	price.
+	(2)	first-come, first-served.
+	(3)	customs and traditions.
+	(4)	government commands.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B1C02Q078
+Hong Kong public libraries' book borrowing service is allocated
+	(1)	by price.
+	(2)	on a first-come, first-served basis.
+	(3)	by customs and traditions.
+	(4)	by government commands.
+A.	(1) only
+B.	(2) only
+C.	(3) and (4) only
+D.	All of the above
+
+Answer: B
+
+
+Question code: B1C02Q079
+In a private housing estate, clubhouse (俱樂部) service is allocated
+(1)	by price.
+(2)	on a first-come, first-served basis.
+(3)	by customs and traditions.
+(4)	by government commands.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+Explanation
+In private housing estates, residents have to pay for some clubhouse services. Moreover, some of the services require reservations and are allocated on a first-come, first-served basis. 
+
+Question code: B1C02Q080
+A tutorial centre that specialises in teaching economics accepted only 100 people out of 600 applicants. Which of the following allocation methods involves discrimination?
+A.	Only those who got an A in their school exam would be considered
+B.	First-come, first-served
+C.	By drawing lots
+D.	All of the above
+
+Answer: D
+
+
+Short Questions
+
+Question code: B1C02Q301 (new)
+The manager of a Hong Kong entertainment company is now formulating the company's development plan. Briefly explain which economic problem is being tackled in each of the following situations.
+(a)	'Fans in the mainland are spending more now. Our artists should visit the mainland more frequently to gain greater publicity there,' said the manager.
+			(3 marks)
+(b)	'Our artists should not go to overseas studios to record CDs anymore. Local studios are good enough and much cheaper,' said the manager.	(3 marks)
+
+Answers: 
+(a)	'For whom to produce'.	(1 mark)
+	The company decides to provide more services to fans in the mainland.	(2 marks)
+(b)	'How to produce'.	(1 mark)
+	The company decides to use a less costly method to produce CDs.	(2 marks)
+
+Question code: B1C02Q302 (new)
+The CEO of a film production company in America must make certain decisions. Briefly explain which economic problem is being tackled in each of the following situations.
+(a)	'Superhero movies have been popular in recent years. We should film a trilogy (三部曲) about a battle between two legendary superheroes,' said the manager. 				(3 marks)
+(b)	'India has a huge audience. We should have relationships with more cinemas in India so that more of our films can be shown there,' said the manager.	(3 marks)
+
+Answers: 
+(a)	'What to produce'.	(1 mark)
+	The company decides on the quantity and type of films to be produced.	(2 marks)
+(b)	'For whom to produce'.	(1 mark)
+	The company decides to provide more services to audiences in India.	(2 marks)
+
+Question code: B1C02Q303 (new)
+Identify the problems of resource allocation illustrated in each of the following situations:
+(a)	Public hospitals suspend the provision of obstetrical and gynaecological (婦產科) services to non-resident pregnant women.
+(b)	A restaurant decides to introduce a vegetarian menu.
+(c)	A farmer decides to keep a cow to help in farming.
+(d)	A factory decides to lay off some workers and use more machines.
+(e)	A cinema decides to show more Korean movies.	(5 marks)
+
+Answers:
+(a)	For whom to produce question	(1 mark)
+(b)	What to produce question	(1 mark)
+(c)	How to produce question	(1 mark)
+(d)	How to produce question	(1 mark)
+(e)	What to produce question	(1 mark)
+
+Question code: B1C02Q304
+Which basic economic problem is involved in each of the following situations?
+(a)	A herbal tea shop decides to sell sandals (涼鞋) as well.
+(b)	A bookshop decides to change and to sell via the Internet.
+(c)	A publishing company decides to develop computer software for teaching and learning.
+(d)	An ice cream shop decides to produce more fat-free ice-cream.
+(e)	A government launches policies to deal with intergenerational poverty (跨代貧窮).	(5 marks)
+
+Answers:
+(a)	What to produce question	(1 mark)
+(b)	How to produce question	(1 mark)
+(c)	What to produce question	(1 mark)
+(d)	What to produce question	(1 mark)
+(e)	For whom to produce question	(1 mark)
+
+Question code: B1C02Q305
+In a factory, managerial staff have to make decisions. Identify which question of resource allocation is being tackled in each of the following cases.
+(a)	The production manager says, 'Since the wage rate of skilled workers in Hong Kong is too high, we should move the plant to Shenzhen.'	(2 marks)
+(b)	The marketing manager says, 'A survey shows that this type of T-shirts becomes popular and we should produce more of it.'	(2 marks)
+
+Answers:
+(a)	How to produce question	(2 marks)
+(b)	What to produce question	(2 marks)
+
+Question code: B1C02Q306
+The management of a publishing company has to make decisions on resource allocation. Identify which question of resource allocation is being tackled in each of the following situations.
+(a)	'We should hire more editors from the mainland because the wage rate of local senior editors is too high,' said the publishing manager.	(2 marks)
+(b)	'According to market research, our books have been the market leader in Hong Kong for many years. We can prepare to enter the Chinese market in the coming year to let the mainland readers buy our books,' said the sales manager. 	(2 marks)
+
+Answers:
+(a)	How to produce question	(2 marks)
+(b)	For whom to produce question	(2 marks)
+
+Question code: B1C02Q307 (new)
+'Hong Kong is a pure market economy where only the market mechanism is used.' 
+Do you agree with this statement? Give TWO examples to explain your answer.	
+				(5 marks)
+
+Answers:
+No.				(1 mark)
+Customs and traditions are used. For example, in some indigenous villages in the New Territories, only males can inherit land to build houses.	(2 marks)
+Government commands are also used. For example, the government builds public estates for those who cannot afford private housing.	(2 marks)
+
+Question code: B1C02Q308
+Explain whether the following are examples of allocating resources by customs, government command, or the price system in Hong Kong.
+(a)	Eddie buys and sells shares on the stock market.	(2 marks)
+(b)	Every year, organisations distribute free rice to people, usually the elderly, during the last day of the Yu Lan Festival (盂蘭節).	(2 marks)
+(c)	Eligible households can apply for public housing provided by the Housing Authority.	(2 marks)
+
+Answers:
+(a)	Price system	(2 marks)
+(b)	Customs	(2 marks)
+(c)	Government command	(2 marks)
+
+Question code: B1C02Q309
+Explain how a market economy tackles the three basic questions in economics. 	(6 marks)
+
+Answers:
+•	The 'What to produce' question: market prices serve as signals in deciding what goods to produce and in what quantities.	(2 marks)
+•	The 'How to produce' question: producers find the lowest cost method of production. Factor prices guide them in their choice of production methods.	(2 marks)
+•	The 'For whom to produce' question: people's ability to pay determines the quantity of goods they can get. 	(2 marks)
+
+Question code: B1C02Q310
+Explain how a command economy tackles the three basic economic questions. 				(6 marks)
+
+Answers:
+•	The 'What to produce' question: the government makes decisions on what goods are to be produced and in what quantities. The decisions are then sent to production units in the form of a command.	(2 marks)
+•	The 'How to produce' question: the government decides on the method of production and allocates productive resources to production units to fulfill production targets.			(2 marks)
+•	The 'For whom to produce' question: the government controls people's wage rates and prices. It also rations the limited quantity of goods to its people.	(2 marks)
+
+Question code: B1C02Q311
+Compare market and command economies in terms of (a) ownership of property and (b) the way to tackle the how to produce question.	(6 marks)
+
+Answers:
+(a)	Most property is privately owned in a market economy while most resources are owned by the state in a command economy.	(3 marks)
+(b)	In a market economy, producers find the least costly method of production. Factor prices guide them in their choice of production methods. On the other hand, the 'how to produce' question is determined by central planning in a command economy.	(3 marks)
+
+Question code: B1C02Q312
+Compare market and traditional economies in terms of the way to tackle the (a) 'what to produce' question and (b) 'how to produce' question.	(6 marks)
+
+Answers:
+(a)	In a market economy, market prices serve as signals in guiding what goods to produce and in what quantities.
+In a traditional economy, people follow their ancestors in deciding what to produce.	(3 marks)
+(b)	In a market economy, producers find the lowest-cost production method; factor prices guide them in their choice of production methods.
+In a traditional economy, people follow their ancestors' ways in deciding how to produce.	(3 marks)
+
+Question code: B1C02Q313
+Name THREE features which indicate that the economy of the mainland is transforming into a market economy.	(6 marks)
+
+Answers:
+•	More widespread private ownership of property
+•	More freedom in making consumption and production decisions
+•	More prices are determined by the market mechanism
+•	Fewer state-owned enterprises 
+(Any THREE of the above with brief explanation, 2 marks × 3 = 6 marks)
+
+Question code: B1C02Q314 (new)
+Suppose the government builds some residential units and sells them to residents. Buyers of those units cannot sell or lease their units for the first five years after their purchase.
+(a)	Explain whether the buyers have full private property rights over the units they buy in the first five years after their purchase.	(3 marks)
+(b)	Would the price of units sold by private developers be higher or lower than those sold by the government? Explain.	(3 marks)
+
+Answer:
+(a)	No.			(1 mark)
+	In the first five years, buyers do not have the right to generate income from the units by selling or leasing them.	(2 marks)
+(b)	Higher.		(1 mark)
+	As the buyers of units sold by private developers have full private property rights over the units, people would be more willing to offer a higher price for them.	
+				(2 marks)
+
+Question code: B1C02Q315
+(a)	What is specialisation?	(2 marks)
+(b)	'Specialisation can take place even without exchange.' Do you agree? Explain.
+			(2 marks)
+
+Answers:
+(a)	Specialisation is a way of organising production. It takes place when different people or economies concentrate on the production of a particular good or a particular production stage of a good.	(2 marks)
+(b)	No. Without exchange, people have to produce everything they need by themselves. They cannot specialise in the production of a particular good.
+		(2 marks)
+
+Question code: B1C02Q316 (new)
+Is the smartphone you bought in an electronics shop your private property? Explain by referring to the three rights associated with private property.	(7 marks)
+
+Answers:
+•	The smartphone is my private property.	(1 mark)
+•	Exclusive right to use the good: I can exclude others from using the smartphone, and decide what to do with it. For example, I can use it to make a phone call or play games with it.	(2 marks)
+•	Exclusive right to receive income generated by the use of the good: I can use the smartphone to earn income for myself by, for example, lending it to others to earn interest.	(2 marks)
+•	Right to transfer the good: I can give the smartphone to any person I want.
+	(2 marks)
+
+Question code: B1C02Q317
+What is the relationship between specialisation and exchange?	(4 marks)
+
+Answers:
+•	Exchange (or trade) is a precondition for specialisation. With specialisation, people and economies do not produce everything they need. In order to enjoy goods they do not produce, they have to engage in exchange.			(2 marks)
+•	Without exchange, specialisation is not possible. People and economies have to produce everything they need by themselves.	(2 marks)
+
+Question code: B1C02Q318
+(a)	What are private property rights?	 (3 marks)
+(b)	What role do they play in facilitating exchange and specialisation? 	(5 marks)
+
+Answers:
+(a) The private property rights of a good consist of the following rights:
+	•	exclusive right to use the good;	(1 mark)
+	•		exclusive right to receive income generated by the use of the good;	 (1 mark)
+	•	the right to transfer the good.	(1 mark)
+(b) •	If private property rights to a good do not exist, the good becomes a common property. Since everyone may use it, no one would be willing to pay for its use. As a result, exchange would not take place.	(2 marks)
+•	Exchange is a precondition for specialisation. Without exchange, specialisation is not possible. People and economies have to produce everything they need by themselves.	(2 marks)
+	•	Therefore, clear delineation of private property rights is an important condition for exchange and hence specialisation.	(1 mark)
+
+Question code: B1C02Q319
+Does a tenant have the private property rights to the apartment he/she has leased from the owner? Why?	(3 marks)
+
+Answers:
+•	No. A tenant does not have private property rights to a leased apartment.	(1 mark)
+•	Although the tenant has the exclusive right to use the apartment, he/she has no right to transfer the apartment to others.	(2 marks)
+
+Question code: B1C02Q320
+'An economy where private property rights to goods or resources do not exist can never be a market economy.' Do you agree with this statement? Explain.	(5 marks)
+
+Answers:
+•	In a market economy, most resources are owned by private individuals. Resources are allocated by the market mechanism.	(1 mark)
+•	If private property rights to resources do not exist, no one can sell the resources as no one owns them; and no one will pay for the resources as they cannot be owned. No voluntary market transaction would take place.	(2 marks)
+•	Therefore, resources will be allocated by non-price methods (e.g., violence, direction of the authority). 	(1 mark)
+•	So, an economy where private property rights do not exist cannot be a market economy.	(1 mark)
+
+Question code: B1C02Q321 (new)
+Explain whether people would compete for seawater.	(4 marks)
+
+Answer:
+No.	(1 mark)
+Seawater is not a scarce good.	(1 mark)
+People do not prefer more of it, hence they are not willing to pay any costs to compete for seawater.	(2 marks)
+(Accept any other reasonable answer)
+
+Question code: B1C02Q322
+Explain whether the following statements about competition are correct:
+(a)	Since resources in a command economy are allocated by government plans and commands, there is no competition in a command economy. 	(4 marks)
+(b)	In general, the types of discriminated people change with the forms of competition.		(4 marks)
+
+Answers:
+(a)	•	Incorrect.
+	•	Scarcity means we want more than we have. In a society (where there is more than one person), scarcity implies competition. We have to compete for the use of scarce resources.	(2 marks)
+	•	Therefore competition exists in every economic system (i.e., traditional, planned and market economies). Although price competition is suppressed in a command economy, there is still non-price competition, e.g., competition through political power. 	 (2 marks)
+(b)	•	Correct.
+	•	The aim of competition is to decide who can get the resources and how much they get. Rules are designed to discriminate (or distinguish) among who can get the resources. A given set of rules favours certain types of people and discriminates against others. 	(2 marks)
+	•	When new rules are used to discriminate between competitors, the types of people who are able to get the resources will be different. 	(2 marks)
+
+
+Question code: B1C02Q323
+Alex: 'When there is scarcity, there is competition.'
+Mary: 'Even when there is scarcity, there may not be competition.'
+Explain why both of them can be correct.	(4 marks)
+
+Answers:
+•	Mary is correct when she refers to a one-man economy. In such an economy, a person may want more than he has, but there is no one to compete with him for the scarce resources. Therefore, there is scarcity but no competition in a one-man economy.	(2 marks)
+•	Alex is correct when he refers to a society. In a society (where there is more than one person), scarcity implies competition.	(2 marks)
+
+
+Structured Questions
+
+Question code: B1C02Q501 (new)
+Air pollution is serious in City J. This is mainly caused by the combustion (燃燒) of diesel fuel as the city has a huge amount of vehicles. The mayor (市長) wants to find ways to improve the city's air quality.
+(a)	Identify the economic problem tackled and the methods used in each of the following situations.
+(i)	The mayor and officials decide to limit the number of driving licenses issued each month to control the number of new vehicles on the roads.	(2 marks)
+(ii)	The city's railway company lowers its fares during rush hours to attract more workers into using its services.	(2 marks)
+(iii)	The government orders the postal service providers to use more bicycles instead of vehicles to deliver the mails.	(2 marks)
+(b)	To encourage the use of bicycles in the city, the government provides bicycles at some railway stations. Residents can borrow the bicycles to travel locally. 
+	(i)	Explain whether the bicycles are free goods.	(3 marks)
+	(ii)	'As residents do not need to pay to use the bicycles, there is no competition for the bicycles.' Do you agree with this statement? Explain.		(3 marks)
+	(iii)	Explain whether users have full private property rights to the bicycles.		(3 marks)
+
+Answers:
+(a)	(i)	'What to produce'	(1 mark)
+		Tackled by government command.	(1 mark)
+(ii)	'For whom to produce'	(1 mark)
+	Tackled by the market mechanism.	(1 mark)
+(iii)	'How to produce'	(1 mark)
+	Tackled by government command.	(1 mark)
+
+(b)	(i)	No.		(1 mark)
+		They are scarce goods because more of them are preferred.	(2 marks)
+(ii)	No.	(1 mark)
+	Although users do not need to pay, they may engage in non-price competition (e.g., first-come, first-served) to use the bicycles.	(2 marks)
+(iii)	No.	(1 mark)
+	Users have the right to use the bicycles.	(1 mark)
+	However, they do not have the right to transfer the bicycles.	(1 mark)
+
+Question code: B1C02Q502
+The government is studying the feasibility of adopting electronic textbooks (電子教科書), called e-textbooks, in primary and secondary schools. It is suggested that the use of e-textbooks can improve the effectiveness of teaching and learning. Currently, some printed textbooks are accompanied with CDs that containing digital learning materials, such as interactive games and exercises.
+(a)	State the THREE basic economic problems. Give ONE example for EACH problem from the above case.	(6 marks)
+(b)	To stimulate the development of e-textbooks, the government subsidises (資助) non-profit institutions to develop e-textbooks. The subsidy will be granted only if the applicants' proposals meet the government's requirements. Some profitmaking publishers complain that this scheme discriminates against them and violates the principles of a market economy.
+	(i)	In which way does the above scheme violate the principles of a market economy?	(2 marks)
+	(ii)	From an economics viewpoint, why does discrimination exist? Explain.
+			(4 marks)
+	(iii)	Do applicants in the above subsidy scheme face discrimination? Explain.
+		(3 marks)
+	(iv)	It is reported that scheme participants have to hand over all of the e-textbook materials to the government if they cannot complete the product by the deadline. How does this affect the attractiveness of the scheme? Explain using the concept of private property rights.	(3 marks)
+
+Answers:
+(a)	•	What to produce.	(1 mark)
+	•	Example: Publishers have to decide whether they should produce more e-textbooks and fewer printed textbooks.	(1 mark)
+	•	How to produce.	(1 mark)
+	•	Example: Teachers have to decide whether e-textbooks should be used to replace printed textbooks.	(1 mark)
+	•	For whom to produce.	(1 mark)
+	•	Example: Publishers have to decide whether they should develop e-textbooks for primary students or secondary students.	(1 mark)
+	(Accept other relevant examples.)
+
+
+(b)	(i)	In a market economy, resource allocation is guided by the market mechanism. However, resources for this scheme are allocated by the government.	(2 marks)
+	(ii)	•	Discrimination exists whenever there is competition.	(2 marks)
+		•	Competition exists because there is scarcity.	(2 marks)
+	(iii)	•	Yes.	(1 mark)
+		•	The government has decided rules to discriminate among those who can obtain the subsidy.	(2 marks)
+	(iv)	•	The attractiveness will decrease.	(1 mark)
+		•	This is because the e-textbooks developers' private property rights are not guaranteed. They face the risk of losing their property to the government after making a huge investment.	(2 marks)
+
+Question code: B1C02Q503
+Mr Lee lives in West Kowloon. Due to the development of the West Kowloon Cultural District, he could either move to the New Territories or accept resettlement in the same district.
+(a)	What is Mr Lee's cost of moving to the New Territories?	(3 marks)
+(b)	Suppose the government compensates Mr Lee if he moves to the New Territories. Explain whether this would affect his opportunity cost of moving.	(3 marks)
+(c)	The government once proposed the inclusion of a canopy covering (天篷) over at least 55% of the development area in the core facilities. Identify what basic economic question is involved. 	(1 mark)
+(d)	Suppose the private developers involved in the project will charge fees on some of the facilities to increase their profits. What type of economy usually practises such a mechanism? List another feature of this type of economy.	(4 marks)
+
+Answers:
+(a)	Mr Lee's cost of moving to the New Territories was the expense of moving to the New Territories and the option of resettlement in the same district.	(3 marks)
+
+(b)	This will only increase the value of moving to the New Territories and will not affect its cost.	(3 marks)
+
+(c)	'What to produce' question	(1 mark)
+
+(d)	•	Price setting (or production decisions) by private companies is usually practised in a market economy.	(2 marks)
+	•	Another feature: most of the resources are privately owned.	(2 marks)
+
+Question code: B1C02Q504
+Mr Szeto is a teacher. Because of the reduction in the number of school-age children, he is considering whether he should continue teaching or retire earlier.
+(a)	What is Mr Szeto's cost of choosing to continue teaching?	(2 marks)
+(b)	Suppose the government is willing to provide an 'early retirement gratuity' (提早退休酬金) for Mr Szeto. Explain whether this would affect his cost of choosing to continue teaching.	(3 marks)
+(c)	The government had once considered launching a scheme under which one teaching post would be shared by two teachers. Identify what basic economic question is involved.	(1 mark)
+(d)	Some tutoring centres attract experienced teachers to be tutors by offering high wage rates. In which type of economy does this practice usually occur? List another feature of this type of economy. 	(4 marks)
+
+Answers:
+(a)	Mr Szeto's cost of choosing to continue teaching is the option of early retirement.					(2 marks)
+
+(b)	If the government is willing to provide an 'early retirement gratuity' for Mr Szeto, his cost of choosing to continue teaching will increase. This is because he has to give up his extra gratuity for early retirement.	(3 marks)
+
+(c)	'How to produce' question	(1 mark)
+
+(d)	•	Resolving resource allocation problems by adjusting prices and wages is common in a market economy.	(2 marks)
+	•	Another feature: most resources are privately owned.	(2 marks)

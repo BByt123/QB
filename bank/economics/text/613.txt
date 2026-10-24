@@ -1,0 +1,1850 @@
+Chapter 13	International finance - exchange rate and 
+balance of payments
+
+Multiple Choice Questions
+
+Question code: B6C13Q001
+The exchange rate of a currency is
+A.	the amount of the currency required to buy one unit of foreign goods.
+B.	the amount of goods for which one unit of it can be exchanged.
+C.	its price in terms of US dollars.
+D.	the amount of another currency required in exchange for one unit of the currency.
+
+Answer: D
+
+Question code: B6C13Q002
+Which of the following statements about different exchange rate systems is correct?
+A.	Under a floating exchange rate system, the exchange rate of a currency is determined by the central bank.
+B.	Under a fixed exchange rate system, the exchange rate of a currency cannot be changed.
+C.	Under a flexible exchange rate system, appreciation of a foreign currency implies a depreciation of a domestic currency.
+D.	Under a pegged exchange rate system, the price of a currency is variable with the exchange rate of US dollars.
+
+Answer: C
+
+Question code: B6C13Q003 (new)
+Suppose a country devalues its currency. Which of the following statements is correct?
+A.	The purchasing power of its currency increases.
+B.	The price of its imports in terms of foreign currency increases.
+C.	The quantity of its imports decreases.
+D.	The price of its exports in terms of foreign currency remains unchanged.
+
+Answer: C
+
+
+Question code: B6C13Q004 (new)
+Suppose the renminbi appreciates against the Japanese yen. Which of the following statements is INCORRECT?
+A.	Tourists from China will purchase more electrical appliances in Japan.
+B.	Goods exported from China to Japan will be more expensive in terms of Japanese yen.
+C.	The total value (in terms of Japanese yen) of Japan's exports to China increases.
+D.	The total value (in terms of Japanese yen) of Japan's imports from China decreases.
+
+Answer: D
+
+Question code: B6C13Q005 (new)
+Suppose the Euro (歐羅) has appreciated against the US dollar. Which of the following statements is correct? 
+A.	Fewer US dollars are needed in exchange for one Euro.
+B.	Fewer US tourists will visit Europe.
+C.	Given that domestic prices remain constant, the prices of European goods in terms of US dollars have decreased.
+D.	Aggregate demand in the US decreases.
+
+Answer: B
+
+Question code: B6C13Q006 (new)
+Which of following statements is correct?
+A.	When the Japanese yen appreciates against the Hong Kong dollar, Japanese products become more expensive in terms of Hong Kong dollars.
+B.	When the value of the domestic currency increases, the domestic currency depreciates.
+C.	All exchange rates are determined by central banks.
+D.	When a foreign currency appreciates, the same units of domestic currency can be exchanged for more units of the foreign currency.
+
+Answer: A
+
+
+Question code: B6C13Q007
+Depreciation of a currency means that
+A.	the currency cannot perform the functions of money well.
+B.	the value of the currency decreases.
+C.	the supply of the currency decreases.
+D.	there is more counterfeit currency in circulation.
+
+Answer: B
+
+Question code: B6C13Q008
+If the Canadian dollar appreciates against the Hong Kong dollar,
+A.	the quality of goods imported from Canada to Hong Kong will decrease.
+B.	the quality of goods exported to Canada from Hong Kong will decrease.
+C.	the domestic price of goods exported to Canada from Hong Kong will decrease.
+D.	people in Hong Kong will buy fewer goods imported from Canada.
+
+Answer: D
+
+Question code: B6C13Q009
+Ka Ming bought a storybook from a group purchasing (團購) website in Germany. The price of the book was 12 Euros. Which of the following statements is correct?
+A.	The Euro served as a medium of exchange in Hong Kong.
+B.	The Euro served as a unit of account in the transaction.
+C.	If the Euro appreciates against the Hong Kong dollar after the transaction, 
+Ka Ming will gain.
+D.	If the Euro depreciates against the Hong Kong dollar after the transaction, 
+Ka Ming will gain.
+
+Answer: B
+
+
+Question code: B6C13Q010
+After the Chinese government adopts a particular monetary policy, other things being equal, the price of one US dollar increases from 0.8 renminbi to 0.9 renminbi. Which of the following statements is correct?
+A.	The Chinese government has adopted a contractionary monetary policy.
+B.	The US dollar has depreciated against the Euro.
+C.	In China, the prices of imported US goods in terms of renminbi will increase.
+D.	To US importers, the prices of imported Chinese goods in terms of US dollars will increase.
+
+Answer: C
+
+Question code: B6C13Q011 (new)
+Study the following table.
+
+Year	Exchange rate	
+1	CNY 8 : EUR 1	
+2	CNY 7 : EUR 1	
+CNY: renminbi; EUR: Euro
+
+Which of the following are correct?
+(1)	The renminbi has appreciated against the Euro.
+(2)	Italy will import more food from China.
+(3)	The total value (in terms of the Euro) of exports from Italy to China increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B6C13Q012 (new)
+The following table shows the exchange rates of the Japanese yen (JPY) against the Hong Kong dollar (HKD).
+
+Date	Exchange rate	
+2014/5/3	JPY 100 = HKD 7.5	
+2015/5/3	JPY 100 = HKD 6.45	
+
+The change in the exchange rate between JPY and HKD leads to
+A.	an increase in Hong Kong's total value of goods imported (in terms of JPY) from Japan.
+B.	an increase in the volume of Hong Kong's imports from the mainland.
+C.	a decrease in Hong Kong's total value of goods exported (in terms of JPY) to Japan.
+D.	an increase in Hong Kong consumers' total expenditure (in terms of HKD) on Japanese goods.
+
+Answer: A
+
+Question code: B6C13Q013
+Suppose there are only two countries: A and B. Country A's currency is called Alpha (Ap) while Country B's currency is called Beta (Be). The following are the prices of tablet computers produced in Country A.
+
+Month	Price in Alpha	Price in Beta	
+Jan	Ap 7,800	Be 7,800	
+Feb	Ap 3,900	Be 1,950	
+
+Other things being equal, we can conclude from the above data that
+A.	the price of tablet computers in Country A is lower than that of Country B.
+B.	Alpha appreciates against Beta.
+C.	in February, the exchange rate of Ap 1 was Be 2 in Country A.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C13Q014
+* Ka Ming, a fisherman in the mainland, has signed a contract with a Hong Kong restaurant to supply fresh fish for one year. The prices of fish are expressed in renminbi. Suppose the renminbi appreciates against the Hong Kong dollar unexpectedly. Which of the following conclusions can be drawn?
+(1)	The Hong Kong restaurant loses as the prices it pays for the fish increase.
+(2)	Ka Ming loses as he cannot raise the price.
+(3)	Consumers in the mainland lose as the prices of fish increase.
+(4)	The renminbi serves as a standard of deferred payments in this case.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B6C13Q015
+Suppose Hong Kong imports sausages from the UK. When the price of sausages in the UK increases,
+A.	the British pound will appreciate against the Hong Kong dollar.
+B.	Hong Kong people will buy more imported UK sausages.
+C.	Hong Kong people's total expenditure on imported UK sausages will increase.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C13Q016
+Suppose Korea exports smartphones to Hong Kong. When the Korean won ________ against the Hong Kong dollar, Hong Kong people will buy ________ imported Korean smartphones.
+(1)	appreciates … fewer
+(2)	appreciates … more
+(3)	depreciates … fewer
+(4)	depreciates … more
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B6C13Q017
+An earthquake occurs in Country J. After the earthquake, people hold fewer assets in Country J's currency (called the J dollar) and hold more assets in Country H's currency (called the H dollar). Which of the following statements can be used to explain this phenomenon?
+A.	The H dollar serves as a better medium of exchange in Country J.
+B.	The J dollar cannot serve as a unit of account.
+C.	People expect that the inflation rate in Country J will fall.
+D.	People expect that the J dollar will depreciate greatly against the H dollar.
+
+Answer: D
+
+Question code: B6C13Q018
+If the Japanese yen appreciates against the Hong Kong dollar, the price of imported Japanese game consoles in Hong Kong dollars will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	be uncertain, depending on the price elasticity of demand.
+
+Answer: A
+
+
+Question code: B6C13Q019
+Which of the following statements is correct?
+A.	When the domestic currency appreciates, domestic prices of imported goods will increase.
+B.	When a foreign currency depreciates, the foreign prices of our exported goods will decrease.
+C.	Suppose the foreign price of an imported good is a constant. An increase in the domestic price of the imported good implies that the domestic currency has appreciated.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C13Q020
+* If Country A's currency depreciates against Country B's currency, other things being equal,
+(1)	prices of imports from Country B, in terms of Country A's currency, will decrease.
+(2)	prices of Country B's exports to Country A will remain unchanged.
+(3)	Country A will import fewer goods from Country B.
+(4)	Country A's aggregate demand will increase.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+Explanation
+Option (2) is incorrect. The prices increase if they are measured in Country A's currency.
+
+
+Question code: B6C13Q021 (new)
+* Which of the following statements is/are INCORRECT?
+(1)	When Country A's currency appreciates, the prices of its imports (in terms of Country A's currency) will increase.
+(2)	If Country B's currency depreciates against Country A's currency, the price of Country A's goods in terms of Country B's currency will be higher than the price of the same goods produced in Country B.
+(3)	If Country A's currency appreciates against Country B's currency, the total value of Country B's imports from Country A (in terms of Country A's currency) will decrease.
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C13Q022
+When the value of the domestic currency increases,
+A.	foreign currencies appreciate.
+B.	the prices of imports (in terms of the domestic currency) rise.
+C.	according to the law of demand, domestic consumers' quantity demanded of imports decreases.
+D.	the total value of imports in the domestic currency may increase.
+
+Answer: D
+
+
+Question code: B6C13Q023
+When the domestic currency appreciates, which of the following items will increase?
+(1)	Domestic consumers' quantity demanded of imports
+(2)	Prices of imports in the domestic currency
+(3)	The total value of imports in the domestic currency
+(4)	The total value of imports in foreign currency
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B6C13Q024
+Which of the following is most likely the effect of an appreciation of the renminbi against the US dollar?
+A.	A decrease in China's real exports
+B.	An increase in China's import expenditure (in terms of renminbi)
+C.	An appreciation of Hong Kong dollars against the renminbi
+D.	An appreciation of the Euro against the US dollar
+
+Answer: A
+
+Question code: B6C13Q025
+If the Hong Kong dollar appreciates against the Australian dollar,
+A.	the number of people from Hong Kong who visit Australia will decrease.
+B.	the number of Australians who visit Hong Kong will decrease.
+C.	the quantity of imports to Hong Kong from Australia will decrease.
+D.	the prices (in Hong Kong dollars) of imported goods from Australia to Hong Kong will increase.
+
+Answer: B
+
+
+Question code: B6C13Q026
+* Suppose shanzhai smartphones (山寨智能電話), i.e., imitation smartphones, produced in China are a substitute for brand name smartphones produced in the US. 
+If the US dollar depreciates against the renminbi,
+(1)	the quantity of shanzhai smartphones exported to the US will increase.
+(2)	the quantity of brand name smartphones exported to China will increase.
+(3)	the ratio of shanzhai smartphones sold to brand name smartphones sold in China will decrease.
+(4)	in China, the relative price of a shanzhai smartphone in terms of brand name smartphones will decrease.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: C
+
+Question code: B6C13Q027
+* 'Other things being constant, an increase in the price of foreign currency will lead to an increase in foreign buyers' quantity demanded of our exports.' This statement
+A.	is incorrect because it violates the law of demand.
+B.	is incorrect because the change in the price of foreign currency will not affect foreign buyers' demand for our exports.
+C.	is correct because the increase in the price of foreign currency will lead to an increase in foreign buyers' demand for our exports.
+D.	is correct because the increase in the price of foreign currency will lead to a decrease in the foreign prices of our exports.
+
+Answer: D
+
+
+Question code: B6C13Q028
+If Australian dollars appreciate against Hong Kong dollars,
+A.	the total value (in Australian dollars) of Hong Kong goods exported to Australia will increase.
+B.	Hong Kong's import volume of Australian goods will decrease.
+C.	Hong Kong's expenditure (in Hong Kong dollars) on imports from Australia will decrease.
+D.	Australia's expenditure (in Hong Kong dollars) on imports from Hong Kong will decrease.
+
+Answer: B
+
+Question code: B6C13Q029
+* Study the following newspaper cutting.
+
+According to the above information, which of the following situations is LEAST likely to happen?
+A.	Country A's currency depreciates.
+B.	The purchasing power of Country A's currency decreases.
+C.	Country A's consumers buy more imported goods.
+D.	Country A's potential GDP increases.
+
+Answer: D
+Explanation
+Options A and B are not the answers. The increase in Country A's money supply will lower the purchasing power of its currency. Thus, the exchange rate (the price) of Country A's currency may decrease.
+
+
+Question code: B6C13Q030
+Study the following information and answer the question.
+
+Year	Exchange rate	
+2015	HKD 6.3 : CAD 1	
+2016	HKD 6.5 : CAD 1	
+HKD: Hong Kong dollar; CAD: Canadian dollar
+
+The above change in the exchange rate will result in
+A.	an increase in the price (in terms of CAD) of goods exported from Hong Kong to Canada.
+B.	an increase in the quantity of goods exported from Canada to Hong Kong.
+C.	a decrease in the number of Hong Kong people who travel to Canada.
+D.	a decrease in Hong Kong's real GDP.
+
+Answer: C
+
+Question code: B6C13Q031
+Study the following information and answer the question.
+
+Period	Exchange rate	
+Jan 2015	HKD 6.1 : AUD 1	
+Jan 2016	HKD 6.2 : AUD 1	
+HKD: Hong Kong dollar; AUD: Australian dollar
+
+Referring to the above data, which of the following conclusions can be drawn?
+A.	The Australian dollar has depreciated against the Hong Kong dollar.
+B.	The total value (in terms of HKD) of Hong Kong's exports to Australia has decreased.
+C.	The number of Australians who travel to Hong Kong has decreased.
+D.	In Hong Kong, the prices (in terms of HKD) of imported Australian goods have increased.
+
+Answer: D
+
+
+Question code: B6C13Q032
+Country A imports Good X from Country B. The following diagram shows 
+Country A's demand for Good X imported from Country B.
+
+Which of the following statements can explain the movement from E to F?
+A.	The relative price of Country A's currency in terms of Country B's currency increases.
+B.	Country B's currency appreciates.
+C.	The real wealth of people in Country A increases.
+D.	The price level in Country A falls relative to that of Country B.
+
+Answer: A
+
+
+Question code: B6C13Q033
+Country H imports Good Y from Country F. The following diagram shows 
+Country H's demand for Good Y imported from Country F.
+
+Which of the following statements can explain the change from A to B?
+A.	Country H's currency appreciates against Country F's currency.
+B.	In Country F, the cost of producing Good Y increases.
+C.	Country F's demand for Good Y increases.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B6C13Q034
+Country A exports Good X to Country B. The following diagram shows Country B's demand for Good X.
+
+Suppose Country B does not produce Good X. Referring to the above diagram, which of the following statements CANNOT explain why there is movement from L to T?
+A.	Country B's currency depreciates against Country A's currency.
+B.	The price of Good X in Country A increases.
+C.	The production cost of Good X in Country A increases.
+D.	In Country B, the price of a close substitute of Good X increases.
+
+Answer: D
+
+Question code: B6C13Q035 (new)
+Country A's currency depreciates against County B's. Under which of the following conditions will Country B's total value of imports from Country A (in terms of Country B's currency) increase?
+A.	Country B's price elasticity of demand for imports is elastic.
+B.	Country B's price elasticity of demand for imports is inelastic.
+C.	Country A's export price (in terms of Country A's currency) remains unchanged.
+D.	Country A's price elasticity of demand for imports is inelastic.
+
+Answer: A
+
+
+Question code: B6C13Q036 (new)
+Suppose a country's demand for imports is inelastic. The country's total import value (in terms of its own currency) ________ if the country ________ its own currency.
+A.	decreases ... revalues
+B.	remains unchanged ... devalues
+C.	increases ... revalues
+D.	None of the above
+
+Answer: A
+
+Question code: B6C13Q037 (new)
+* Refer to the following demand curve for imports to a country. Point M is the midpoint of the demand curve.
+
+
+
+Under which portion of the demand curve would an appreciation of the country's currency raise its total value (in terms of its own currency) of imports?
+A.	Segment TM
+B.	Segment MB
+C.	Any segment on the demand curve
+D.	Insufficient information to determine
+
+Answer: A
+
+
+Question code: B6C13Q038
+Country A exports Good X to Country B. The following diagram shows Country B's demand for Good X.
+
+
+Suppose Country B does not produce Good X. Given that Area H is greater than 
+Area J, which of the following conclusions can we draw?
+(1)	Country B's demand for Good X is inelastic.
+(2)	Country B's total expenditure (in Country B's currency) from importing 
+Good X decreases.
+(3)	The change in Country A's total revenue (in Country A's currency) from exporting Good X is uncertain.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B6C13Q039
+Country H exports Good Y to Country F. The following diagram shows Country F's demand for Good Y.
+
+Suppose Country F does not produce Good Y. Which of the following statements about the movement from A to B is INCORRECT?
+A.	The shift of the demand curve from D1 to D2 can be explained by the appreciation of Country F's currency.
+B.	The total value of Country H's exports (in Country H's currency) decreases.
+C.	Country H's real GDP decreases.
+D.	The revenue of Country H's producers (in Country H's currency) decreases.
+
+Answer: A
+
+
+Question code: B6C13Q040
+Which of the following diagrams can best illustrate the effect of the Hong Kong dollar's depreciation on Hong Kong's imports?
+
+
+Answer: A
+
+
+Question code: B6C13Q041
+Which of the following diagrams can best illustrate the effect of the Hong Kong dollar's appreciation against the Canadian dollar (CAD) on Hong Kong's exports to Canada?
+
+
+Answer: D
+
+Question code: B6C13Q042 (new)
+Under the linked exchange rate system,
+A.	the note-issuing banks buy US dollars from the Exchange Fund at the market rate.
+B.	Hong Kong's monetary base is backed by the US dollar.
+C.	The HK dollar depreciates against the Euro when the US dollar appreciates against the Euro.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B6C13Q043 (new)
+Which of the following about Hong Kong's exchange rate system is correct?
+A.	The public can always exchange HK dollars for US dollars at the rate of 
+HKD 7.8 : USD 1.
+B.	Hong Kong's note-issuing banks can exchange HK dollars for US dollars at the linked rate through the Exchange Fund.
+C.	The HK dollar is backed by a basket of currencies.
+D.	The Hong Kong Monetary Authority can freely adjust the exchange rate to reduce unemployment.
+
+Answer: B
+
+Question code: B6C13Q044
+Which of the following statements about the currency issuing system in Hong Kong is INCORRECT?
+A.	The Hongkong and Shanghai Banking Corporation issues $10 notes.
+B.	The exchange rate for US dollar transactions between the note-issuing banks and the Exchange Fund is fixed at US$1 = HK$7.8.
+C.	Currency issued in Hong Kong is 100% backed by US dollars.
+D.	Coins are issued by the Hong Kong SAR Government.
+
+Answer: A
+
+Question code: B6C13Q045
+Which of the following statements about Hong Kong dollars is correct?
+A.	All Hong Kong dollar notes are issued by the three note-issuing banks.
+B.	Note-issuing banks need to buy Certificates of Indebtedness from the Exchange Fund if they plan to issue banknotes.
+C.	The public can exchange US dollars for Hong Kong dollars from the note-issuing banks. The exchange rate is US$1 = HK$7.8.
+D.	All of the above
+
+Answer: B
+
+
+Question code: B6C13Q046
+Notes and coins issued in Hong Kong are fully backed by US dollars because
+A.	they can be exchanged for US dollars at any banks.
+B.	they are convertible into US dollars at any note-issuing banks at the fixed rate of HK$7.8 to US$1.
+C.	US dollars are also accepted for payment in Hong Kong.
+D.	an equivalent amount of US dollars (at the fixed rate of HK$7.8 to US$1) is held by the Exchange Fund.
+
+Answer: D
+
+Question code: B6C13Q047
+An appreciation of Euros against Hong Kong dollars implies
+A.	that one US dollar can be exchanged for more Euros.
+B.	that one Euro can be exchanged for more Hong Kong dollars.
+C.	that Hong Kong dollars depreciate against all other currencies.
+D.	None of the above
+
+Answer: B
+
+Question code: B6C13Q048 (new)
+Suppose the Japanese yen appreciates against the US dollar. Which of the following is correct?
+A.	HK dollars appreciate against US dollars.
+B.	The number of US tourists visiting Japan increases.
+C.	Hong Kong's total value of exports (in terms of HK dollars) to Japan increases.
+D.	The price of goods exported from Japan to the United States (in terms of Japanese yen) increases.
+
+Answer: C
+
+
+Question code: B6C13Q049
+Under the linked exchange rate system, if the US dollar appreciates against the Euro,
+A.	the linked rate of the Hong Kong dollar will remain unchanged.
+B.	the Hong Kong dollar will depreciate against the Euro.
+C.	Hong Kong's net exports will increase.
+D.	None of the above
+
+Answer: A
+
+Question code: B6C13Q050 (new)
+In Year 1, 1 US dollar can be exchanged for 0.8 renminbi. In Year 2, 1 US dollar can only be exchanged for 0.7 renminbi. Which of the following statements is correct?
+(1)	The Hong Kong dollar has depreciated against the renminbi.
+(2)	Hong Kong will import less from the mainland.
+(3)	The total value (in terms of US dollars) of United States' imports from China increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B6C13Q051
+If the price of Euros increases from 12 Hong Kong dollars to 20 Hong Kong dollars,
+A.	the Hong Kong dollar appreciates against the US dollar.
+B.	the Euro appreciates against the Philippine peso.
+C.	Hong Kong people will visit Europe less frequently.
+D.	European consumers will import fewer goods from the US.
+
+Answer: C
+Explanation
+Option D is incorrect. Under Hong Kong's linked exchange rate system, the appreciation of the Euro against the Hong Kong dollar implies an appreciation of the Euro against the US dollar. In the Euro zone, the prices of goods imported from the US in terms of Euros will decrease. European consumers will import more goods from the US. (Remark: The changes in market exchange rates of non-US currencies against the Hong Kong dollar will closely follow those against the US dollar. However, we cannot say that the changes in market exchange rates of foreign currencies against the US dollar follow those against the Hong Kong dollar.)
+
+Question code: B6C13Q052
+In Hong Kong, the objective of the linked exchange rate system is to
+A.	raise government revenue.
+B.	stabilise the interest rate.
+C.	stabilise the money supply.
+D.	stabilise the exchange rate of Hong Kong dollars.
+
+Answer: D
+
+
+Question code: B6C13Q053
+Which of the following statements about the linked exchange rate system in Hong Kong is correct?
+A.	The linked rate applies to all transactions between the Exchange Fund and deposit taking institutions.
+B.	Under the linked exchange rate system, the exchange rate for transactions of US dollars between banks is fixed.
+C.	The non-bank public can buy or sell US dollars with licensed banks at a flexible rate determined by the foreign exchange market.
+D.	The changes in market exchange rates of non-US currencies against the Hong Kong dollar may not follow those against the US dollar.
+
+Answer: C
+
+Question code: B6C13Q054
+Which of the following statements about the linked exchange rate system in Hong Kong is correct?
+A.	A note-issuing bank can exchange US$1,000 for HK$7,800 from the Exchange Fund.
+B.	The linked rate is the exchange rate of the Hong Kong dollar against a basket of foreign currencies.
+C.	The exchange rates of the Hong Kong dollar against other foreign currencies (apart from the US dollar) are fixed.
+D.	The exchange rate of the US dollar against the Hong Kong dollar in the market is fixed at US$1 : HK$7.8.
+
+Answer: A
+
+
+Question code: B6C13Q055
+Which of the following statements about the linked exchange rate system in Hong Kong is INCORRECT?
+A.	The Hong Kong Government introduced the linked exchange rate system to stabilise the Hong Kong dollar exchange rate.
+B.	Under the linked exchange rate system, the market exchange rate of the US dollar against the Hong Kong dollar cannot deviate significantly from the linked rate of US$1 to HK$7.8.
+C.	When the US dollar appreciates against other currencies, the Hong Kong dollar appreciates simultaneously by similar percentages.
+D.	When the US dollar depreciates against other currencies, the volume of Hong Kong's exports decreases.
+
+Answer: D
+
+Question code: B6C13Q056
+Under the linked exchange rate system in Hong Kong,
+A.	the linked exchange rates of the Hong Kong dollar against foreign currencies are all fixed.
+B.	the US dollar appreciates against the Canadian dollar if the Hong Kong dollar depreciates against the Canadian dollar.
+C.	the market exchange rate of 1 Australian dollar is close to 7.8 Hong Kong dollars if the market exchange rate of 1 Australian dollar is 1 US dollar.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B6C13Q057 (new)
+The following shows the exchange rates of US dollars.
+
+Date	Exchange rate	
+April 3, 2014	USD 1: EUR 0.73	
+April 3, 2015	USD 1 : EUR 0.91	
+
+Which of the following can be concluded from the data?
+A.	The number of Hong Kong tourists to Europe decreases.
+B.	The price of US products in terms of Euros decreases.
+C.	The price of Hong Kong's exports to Europe (in terms of Euros) increases.
+D.	The price of US exports to Hong Kong (in terms of HK dollars) increases.
+
+Answer: C
+
+Question code: B6C13Q058
+Refer to the following data about the exchange rate of 1 Egyptian pound (埃及磅) to US dollars (US$).
+
+Year	Exchange rate	
+2015	US$0.13	
+2016	US$0.14	
+
+Under the linked exchange rate system, which of the following are the possible effects of the above change?
+(1)	Hong Kong people buy more souvenirs when they travel to Egypt.
+(2)	Hong Kong exports more goods to Egypt.
+(3)	The exchange rate of 1 Egyptian pound to Hong Kong dollars increases by about 7.77%.
+(4)	Hong Kong people eat more food imported from Egypt.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (3) and (4) only
+D.	None of the above
+
+Answer: B
+
+
+Question code: B6C13Q059
+Refer to the following data about the exchange rate of 1 Hong Kong dollar to the Japanese yen (¥).
+
+Year	Exchange rate	
+2015	¥15.4	
+2016	¥14	
+
+Under the linked exchange rate system, which of the following are NOT the possible effects of the above change?
+(1)	US people import more Japanese game consoles.
+(2)	More US people travel to Japan.
+(3)	Japan exports fewer goods to Hong Kong.
+(4)	The US dollar appreciates against the Hong Kong dollar.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2) and (4) only
+D.	All of the above
+
+Answer: C
+
+Question code: B6C13Q060 (new)
+A country has a current account surplus. This implies
+A.	its visible trade balance is larger than its invisible trade balance.
+B.	its net current transfers are negative.
+C.	its net income from abroad is positive.
+D.	its capital and financial account balance is negative.
+
+Answer: D
+
+
+Question code: B6C13Q061 (new)
+Which of the following statements about the balance of payments is INCORRECT?
+A.	A balance of payments surplus means a negative capital and financial account balance.
+B.	The difference between the market balance of payments and the accounting balance of payments is the net change in official reserves.
+C.	The market balance of payments may be imbalanced.
+D.	The accounting balance of payments is the sum of the current account balance and the capital and financial account balance.
+
+Answer: A
+
+Question code: B6C13Q062
+Which of the following statements about the balance of payments account is correct?
+A.	The current account records external inflows and outflows of goods only.
+B.	The capital and financial account records inflows and outflows of financial services.
+C.	Transactions involving an inflow of domestic currency from the rest of the world are recorded as credits.
+D.	Transactions involving an outflow of foreign currencies to the rest of the world are recorded as debits.
+
+Answer: D
+
+Question code: B6C13Q063
+Which of the following statements about the balance of payments account is INCORRECT?
+A.	Hong Kong residents' donations to Nepal earthquake victims are recorded in the current transfers account.
+B.	A brokerage fee charged to a foreign investor by a local broker is recorded in the services account.
+C.	The trade balance is equal to the current account balance.
+D.	The income account records external transactions of factor services, including compensation for employees and investment income.
+
+Answer: C
+
+
+Question code: B6C13Q064 (new)
+Which of the following events has NO effect on Hong Kong's balance of payments?
+A.	A Hong Kong resident buys a second-hand textbook from Britain through the internet.
+B.	A US investor purchases shares of a listed company in Hong Kong.
+C.	A Hong Kong couple spends $900 on dinner at a Japanese-owned restaurant in Tsim Sha Tsui.
+D.	A Briton who lives in Hong Kong remits $120,000 to his son in Britain.
+
+Answer: C
+
+Question code: B6C13Q065 (new)
+Which of the following is recorded as a credit item in Hong Kong's current account?
+A.	The value of a house in Japan purchased by a Hong Kong resident
+B.	The commission received by a Hong Kong agent from a mainland investor for the transaction of a property in Hong Kong
+C.	The value of a Hong Kong company's shares purchased by a Shanghai investor
+D.	The value of medicines donated by a Hong Kong charitable organisation to Nepal
+
+Answer: B
+
+Question code: B6C13Q066 (new)
+Which of the following results in a debit entry in Hong Kong's invisible trade account?
+A.	A Hong Kong company imports automobiles from the US.
+B.	A Hong Kong company exports clothes to Germany.
+C.	A Hong Kong resident visits the UK to watch a soccer match.
+D.	A Korean tourist stays in a Hong Kong hotel.
+
+Answer: C
+
+
+Question code: B6C13Q067
+Which of the following will be recorded in Hong Kong's current account?
+A.	A Hong Kong resident's expenditure for the purchase of locally-grown organic vegetables at a Japanese department store in Hong Kong
+B.	A Hong Kong resident's expenditure to purchase a high-speed rail ticket in Guangzhou
+C.	A rich Taiwanese man's expenditure to purchase a villa (別墅) in Hong Kong
+D.	A Hong Kong resident's expenditure to purchase the shares of China Merchants Bank on the Shanghai Stock Exchange
+
+Answer: B
+
+Question code: B6C13Q068
+The current account of Hong Kong includes
+(1)	Hong Kong's expenditure on cosplay (角色扮演) materials imported from Japan.
+(2)	the tips of a Hong Kong resident paid to a Hong Kong tour guide for a tour to Japan.
+(3)	the capital raised by a Hong Kong company by issuing bonds in the mainland.
+(4)	the remittance from a Hong Kong resident to Japanese earthquake orphans (孤兒).
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+
+Question code: B6C13Q069
+Which of the following items will NOT be recorded in Hong Kong's current account?
+(1)	Hong Kong residents' expenditure on purchases of foreign shares
+(2)	The money donated by the Hong Kong government to the victims of an earthquake in Japan
+(3)	A pregnant mainland woman's expenditure on Hong Kong's obstetrics services (產科服務)
+(4)	A Hong Kong company's expenditure to purchase a franchise from a Japanese company
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B6C13Q070 (new)
+Which of the following events will improve Hong Kong's visible trade balance?
+A.	A Hong Kong movie star subsidises the construction of a primary school in the mainland.
+B.	A Swedish tourist buys a Korean-made smartphone in a Hong Kong electric shop.
+C.	A US toy store sells a second-hand Hong Kong-made toy in New York.
+D.	A mainland supermarket buys California oranges from a Hong Kong wholesaler.
+
+Answer: D
+
+
+Question code: B6C13Q071
+Which of the following events will increase the surplus in Hong Kong's current account?
+(1)	A tourist from the mainland visits Ocean Park in Hong Kong.
+(2)	A British company sets up a publishing firm in Hong Kong.
+(3)	A Hong Kong resident buys a mobile phone made in China.
+(4)	Hong Kong reduces its donations to the mainland.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B6C13Q072
+Which of the following will reduce China's current account surplus?
+A.	More people from the US invest in Shanghai's property market.
+B.	More people from China donate money to needy students in Africa.
+C.	More people from China emigrate to other countries and transfer assets overseas
+D.	The Chinese government buys a large amount of US government bonds.
+
+Answer: B
+Explanation
+Options C and D are not the answers. The asset transfers are recorded in the capital and financial account, instead of the current account.
+
+Question code: B6C13Q073
+Which of the following will reduce the deficit in the US current account?
+(1)	More Chinese people travel to the US.
+(2)	More Chinese companies set up subsidiaries in the US.
+(3)	Chinese parents remit more money to their children studying in the US.
+(4)	More Chinese students study in the US.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (3) and (4) only
+D.	All of the above
+
+Answer: C
+
+Question code: B6C13Q074
+Which of the following events should improve Hong Kong's net current transfers?
+A.	A Hong Kong resident remits money to earthquake victims in Japan.
+B.	A beggar in Hong Kong receives a donation from a Japanese tourist.
+C.	The Hong Kong government gives aid to Hong Kong students who study in Japan.
+D.	A Hong Kong company exports food to Japan.
+
+Answer: B
+
+Question code: B6C13Q075
+Which of the following equations is INCORRECT?
+A.	Visible trade balance = Domestic exports of goods - Imports of goods
+B.	Invisible trade balance = Exports of services - Imports of services
+C.	Net factor income from abroad = Income receivable from abroad - Income payable abroad
+D.	Net current transfers = Transfers from abroad - Transfers to abroad
+
+Answer: A
+
+
+Question code: B6C13Q076
+Study the following diagram.
+
+Referring to the above diagram, which of the following conclusions can be drawn?
+A.	During the period, the economy has a visible trade surplus.
+B.	From 2015 to 2016, there was a decrease in exports of goods.
+C.	During the period, both exports of goods and imports of goods have been increasing.
+D.	The current account balance improved during the period.
+
+Answer: C
+
+Question code: B6C13Q077
+Which of the following statements is correct?
+A.	Transactions of reserve assets are not included in the balance of payments.
+B.	The market balance of payments cannot be balanced.
+C.	The accounting balance of payments may not be balanced.
+D.	The accounting balance of payments is equal to the sum of the capital and financial account balance and the current account balance.
+
+Answer: D
+
+
+Question code: B6C13Q078
+Which of the following events will decrease the deficit in Hong Kong's capital and financial account?
+A.	A Hong Kong businessman sets up a tablet computer company in Britain.
+B.	An investor from Britain purchases a commercial building in Hong Kong.
+C.	An air freight company in Hong Kong provides transportation services to a foreign company and receives a huge income.
+D.	More mainland people visit Hong Kong under the 'Individual Visit Scheme'.
+
+Answer: B
+
+Question code: B6C13Q079
+Eddie, an IT professional from the mainland, earns an annual salary of HK$500,000 as an IT manager in Hong Kong. The contract period is two years. In 2015, he remitted HK$400,000 to his wife in the mainland. Which of the following statements about Hong Kong's balance of payments account is correct?
+A.	A debit item equal to HK$500,000 will be in Hong Kong's invisible trade account in 2015.
+B.	A credit item equal to HK$500,000 will be in Hong Kong's current account in 2015.
+C.	A credit item equal to HK$400,000 will be in Hong Kong's capital and financial account in 2015.
+D.	A debit item equal to HK$400,000 will be in Hong Kong's current transfers account in 2015.
+
+Answer: D
+
+
+Question code: B6C13Q080
+Mr Ho is a mobile phone retailer in Hong Kong. He goes to the mainland and uses $5,000 to purchase smartphones every month. Which of the following is the effect of Mr Ho's behaviour?
+A.	$60,000 is recorded on the debit side of Hong Kong's visible trade account every year.
+B.	$60,000 is recorded on the credit side of Hong Kong's current account every year.
+C.	$60,000 is recorded on the credit side of Hong Kong's capital and financial account every year.
+D.	$60,000 is recorded on the debit side of Hong Kong's capital and financial account every year.
+
+Answer: A
+
+Question code: B6C13Q081 (new)
+Which of the following are Hong Kong's invisible exports?
+(1)	Milk powder purchased by a mainland visitor at a Hong Kong pharmacy
+(2)	The salary of a Hong Kong resident teaching Chinese language in Singapore
+(3)	The gifts sent by a local charitable organisation to poor families in Hong Kong 
+(4)	A meal enjoyed by a Japanese visitor in a Hong Kong restaurant
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: B
+
+Question code: B6C13Q082
+Hong Kong's cash donations sent to earthquake victims in Nepal is shown as a ___________ item in Hong Kong's ___________ account.
+A.	credit … current
+B.	debit … current
+C.	credit … capital and financial
+D.	debit … capital and financial
+
+Answer: B
+
+
+Question code: B6C13Q083
+The dividend received by a Hong Kong resident from his shares in a US company is put on
+A.	the credit side of Hong Kong's current account.
+B.	the credit side of the US's current account.
+C.	the credit side of Hong Kong's capital and financial account.
+D.	the debit side of the US's capital and financial account.
+
+Answer: A
+
+Question code: B6C13Q084
+A mainland resident's investment expenditure on property in Hong Kong is recorded on
+A.	the credit side of Hong Kong's current account.
+B.	the debit side of Hong Kong's current account.
+C.	the credit side of Hong Kong's capital and financial account.
+D.	the debit side of Hong Kong's capital and financial account.
+
+Answer: C
+
+Question code: B6C13Q085
+After the launch of Shanghai-Hong Kong Stock Connect (滬港通), Mr Luk, a Hong Kong resident, spent HK$8,888,000 buying stock in Shanghai. In December 2015, he received a HK$1,000,000 dividend. This event will lead to an increase in the balance of Hong Kong's ____________ in 2015.
+A.	current transfers account
+B.	income account
+C.	capital and financial account
+D.	goods account
+
+Answer: B
+
+
+Question code: B6C13Q086
+In January 2015, Ms Fong, a mainland resident, bought an apartment for $10 million in Hong Kong. In December 2015, she sold the apartment to a Hong Kong resident for $15 million. This would result in an increase in the deficit or a decrease in the surplus in Hong Kong's ____________ in 2015.
+A.	visible trade account
+B.	capital and financial account
+C.	current transfers account
+D.	services account
+
+Answer: B
+
+Question code: B6C13Q087 (new)
+Refer to the following table.
+
+	$	
+Total exports of goods	80	
+Total imports of goods	110	
+Re-exports of goods	25	
+Total exports of services	150	
+Total imports of services	90	
+Net factor income from abroad	10	
+Net current transfers	20	
+
+The current account has a ________ of ________.
+A.	deficit ... $30
+B.	surplus ... $30
+C.	surplus ... $60
+D.	surplus ... $85
+
+Answer: C
+Explanation
+Re-exports of goods are already included in total exports of goods.
+
+
+Question code: B6C13Q088
+The following table shows a country's balance of payments:
+
+ 	$ billion	
+Visible trade	100	
+Re-exports	120	
+Invisible trade	50	
+Income receivable from abroad	10	
+Net current transfers	20	
+Net change in capital and financial non-reserve assets	-40	
+
+The balance of current account is
+A.	$180 billion.
+B.	$150 billion.
+C.	$40 billion.
+D.	undetermined.
+
+Answer: D
+
+
+Question code: B6C13Q089
+The following table shows a country's balance of payments:
+
+ 	$ billion	
+Balance of visible trade	10	
+Re-exports	20	
+Invisible trade balance	30	
+Factor income payable abroad	40	
+Factor income receivable from abroad	50	
+Net current transfers	-20	
+
+The current account balance is
+A.	$10 billion.
+B.	$30 billion.
+C.	$50 billion.
+D.	undetermined.
+
+Answer: B
+
+
+Question code: B6C13Q090
+Study the following information about Country A.
+
+	Debit ($ billion)	Credit ($ billion)	
+Exports of goods		5	
+Imports of goods	4		
+Exports of services		4	
+Imports of services	2		
+Factor income flows	1	0.5	
+Current transfers	1.2	2.4	
+Net change in reserve assets	1		
+
+The visible trade balance and the current account balance in Country A are 
+$________ billion and $________ billion, respectively.
+A.	1 … 3.7
+B.	2 … 3.7
+C.	1 … 2.7
+D.	2 … 4.7
+
+Answer: A
+
+
+Question code: B6C13Q091
+The following table shows a country's balance of payments:
+
+	$ billion	
+Visible trade balance	10	
+Invisible trade balance	20	
+Net income from abroad	30	
+Net current transfers	50	
+Net change in capital and financial non-reserve assets	40	
+
+The accounting balance of payments is
+A.	$0.
+B.	$70 billion.
+C.	$150 billion.
+D.	Insufficient information to determine
+
+Answer: A
+
+Question code: B6C13Q092
+The following table shows a country's balance of payments:
+
+	$ billion	
+Visible trade balance	10	
+Invisible trade balance	20	
+Net income from abroad	30	
+Net current transfers	50	
+Net change in capital and financial non-reserve assets	40	
+
+Based on the above data, reserve assets
+A.	remain unchanged.
+B.	increase by $70 billion.
+C.	increase by $150 billion.
+D.	decrease by $150 billion.
+
+Answer: C
+
+Question code: B6C13Q093
+The following table shows a country's balance of payments:
+
+	$ billion	
+Visible trade balance	10	
+Invisible trade balance	20	
+Net income from abroad	30	
+Net current transfers	50	
+Net change in capital and financial non-reserve assets	40	
+
+Referring to the above data, which of the following statements is correct?
+A.	The economy has a balance of payments surplus.
+B.	The economy has a balance of payments deficit.
+C.	The economy has a balanced balance of payments.
+D.	The balance of payments cannot be determined as insufficient information is provided.
+
+Answer: A
+
+
+Question code: B6C13Q094
+The following table shows information about a country's balance of payments:
+
+ 	$ billion	
+Exports of goods	30	
+Imports of goods	40	
+Exports of services	20	
+Imports of services	25	
+Net factor income from abroad	-8	
+Factor income payable abroad	15	
+Balance of current transfers account	7	
+Balance of capital and financial account
+(excluding changes in official reserves)	60	
+
+The market balance of payments is
+A.	$44 billion.
+B.	$59 billion.
+C.	$76 billion.
+D.	$0.
+
+Answer: A
+
+
+Question code: B6C13Q095
+Study the following information about a country's balance of payments:
+
+	$ million	
+Exports of goods	300	
+Imports of goods	200	
+Balance of invisible trade	-100	
+Capital and financial account balance	Y	
+Changes in official reserves	+100	
+
+Suppose the sum of net factor income from abroad and net current transfers is zero. What is the value of Y?
+A.	-100
+B.	0
+C.	100
+D.	200
+
+Answer: B
+
+
+Question code: B6C13Q096
+* Study the following information about a country's balance of payments:
+
+	$ billion	
+Exports of goods and services	5.0	
+Imports of goods and services	2.1	
+Net income from abroad	X	
+Balance of current transfers account	2.3	
+Balance of capital and financial account (excluding changes in official reserves)	-4.6	
+Net change in reserve assets	+0.4	
+
+What is the value of X?
+A.	-0.2
+B.	-1
+C.	0.2
+D.	-10.2
+
+Answer: B
+
+
+Question code: B6C13Q097
+* Study the following information about a country's balance of payments:
+
+	$ billion	
+Exports of goods	300	
+Imports of goods	200	
+Invisible trade balance	-150	
+Net change in capital and financial non-reserve assets	X	
+Changes in official reserves	+100	
+
+Suppose the sum of net income from abroad and net current transfers is zero. What is the value of X?
+A.	-50
+B.	-100
+C.	50
+D.	150
+
+Answer: A
+
+Question code: B6C13Q098
+The following table shows information about a country's balance of payments.
+
+	$ billion	
+Current account balance	-10	
+Net change in capital and financial non-reserve assets	+10	
+
+According to the above information, we can conclude that
+A.	there is a balance of payments surplus.
+B.	there is a balance of payments deficit.
+C.	the balance of payments is balanced.
+D.	All of the above are possible.
+
+Answer: C
+
+
+Question code: B6C13Q099
+The following table shows the balance of payments in Country A in 2015:
+
+Items	$ million
+(year-on-year change)	
+Exports of goods and services	+30	
+Imports of goods and services	+20	
+Net income from abroad	+3	
+Net current transfers	-6	
+Capital and financial account balance (excluding changes in official reserves)	-9	
+
+According to the above information, which of the following statements must be correct?
+A.	Country A has a trade surplus in 2015.
+B.	Country A has a balance of payments surplus in 2015.
+C.	Country A's balance of payments in 2014 is greater than that in 2015.
+D.	Country A's trade balance in 2014 is greater than that in 2015.
+
+Answer: C
+
+Question code: B6C13Q100 (new)
+If a country has a balance of payments deficit,
+A.	the foreign reserves of the country decrease.
+B.	the country's value of imports is greater than that of its exports.
+C.	the capital and financial account balance is greater than the current account balance.
+D.	the accounting balance of payment is in deficit.
+
+Answer: A
+
+
+Question code: B6C13Q101
+Which of the following descriptions about the balance of payments is correct?
+A.	If the balance of visible trade and the balance of invisible trade are greater than zero, there will be a surplus in the current account.
+B.	If there is a deficit in the current account, the official reserves will increase.
+C.	A decrease in the official reserves implies a surplus in the balance of payments.
+D.	A deficit in the current account implies a surplus in the capital and financial account.
+
+Answer: D
+
+Question code: B6C13Q102 (new)
+The following table shows the exchange rates of the renminbi (RMB) against the US dollar (USD) in 2015 and 2016.
+
+Year	Exchange rate	
+2015	USD 1 = RMB 6.2	
+2016	USD 1 = RMB 6	
+
+The change in the exchange rate between USD and RMB leads to
+	(1)	an improvement in the US visible trade balance against China.
+	(2)	an increase in the prices (in terms of Hong Kong dollars) of Hong Kong's imports from the mainland.
+	(3)	an increase in the volume of Hong Kong's exports of services to the mainland.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B6C13Q103
+Study the following information about the exchange rate of 1 Japanese yen (JPY) to Hong Kong dollars (HKD).
+
+Year	Exchange rate	
+2015	JPY 1 = HKD 0.064	
+2016	JPY 1 = HKD 0.07	
+
+The above change in the exchange rate will result in a
+A.	deterioration in Hong Kong's invisible trade balance with Japan.
+B.	deterioration in Hong Kong's balance of payment.
+C.	trade deficit for Hong Kong with Japan.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C13Q104 (new)
+Country X is a trading partner of Hong Kong. If the US dollar appreciates against Country X's currency,
+A.	Hong Kong's net exports of goods and services to Country X will be negative.
+B.	Hong Kong will export less to Country X.
+C.	Hong Kong's current account balance will worsen.
+D.	All of the above
+
+Answer: B
+
+Question code: B6C13Q105
+Which of the following is NOT an effect of a depreciation of US dollars against Japanese yen?
+A.	A decrease in the price of Hong Kong's exports to Japan (in terms of Japanese yen)
+B.	An increase in the price of Hong Kong's imports from Japan (in terms of Hong Kong dollars)
+C.	An increase in the volume of exports from Hong Kong to Japan
+D.	A decrease in Hong Kong's trade surplus with Japan
+
+Answer: D
+
+Question code: B6C13Q106
+China has a huge trade surplus with the US. Which of the following events will reduce the trade surplus?
+A.	The renminbi (人民幣) appreciates against the US dollar.
+B.	China becomes wealthier.
+C.	The unemployment rate in the US decreases.
+D.	None of the above
+
+Answer: B
+
+Short Questions
+
+Question code: B6C13Q301
+(a)	Define the exchange rate of a currency.	(2 marks)
+(b)	What is a flexible exchange rate system?	(2 marks)
+
+Answers:
+(a)	The exchange rate of a currency is the price of the currency in terms of another currency.	(2 marks)
+(b)	Under a flexible exchange rate system, the exchange rate of a currency is determined by the demand for and supply of the currency (i.e., by market forces).
+	(2 marks)
+
+Question code: B6C13Q302
+(a)	List TWO major types of exchange rate systems and explain the difference between them.	(5 marks)
+(b)	Suppose the price of 1 Australian dollar relative to the US dollar increases from US$1.05 to US$1.1. Explain whether the US dollar has appreciated or depreciated against the Australian dollar in this case.	(2 marks)
+
+Answers:
+(a)	•	Flexible (or floating) exchange rate system and fixed (or pegged) exchange rate system	(1 mark)
+•	Under a flexible exchange rate system, the exchange rate of a currency is determined by the demand for and supply of the currency (or market force).
+	(2 marks)
+•	However, under a fixed exchange rate system, the exchange rate of a currency is fixed by the central bank.	(2 marks)
+(b)	•	The US dollar depreciates against the Australian dollar because	(1 mark)
+•	more units of US dollars are needed in exchange for 1 Australian dollar (or the same units of US dollars can be exchanged for fewer units of Australian dollars).	(1 mark)
+
+Question code: B6C13Q303 (new)
+From time to time, the US urges the Chinese government to raise the value of the renminbi. Explain how the rise in the value of renminbi affects
+(a)	prices of Chinese goods in terms of US dollars (given their prices in renminbi remain unchanged);	(2 marks)
+(b)	the export volume of US goods to China.	(2 marks)
+
+Answers:
+(a)	After the rise in the value of the renminbi (i.e., appreciation of the renminbi), more US dollars are needed in exchange for each unit of renminbi. Hence, when the renminbi prices of Chinese goods remain unchanged, the prices in terms of US dollars will increase.	(2 marks)
+(b)	After the rise in the value of the renminbi, the prices of US goods in terms of the renminbi decrease. The quantity demanded of US goods in China increases. 
+Hence, the export volume of US goods to China will increase.	(2 marks)
+
+Question code: B6C13Q304
+Suppose the Euro appreciates against the Hong Kong dollar.
+(a)	What is the effect on the price of imported Italian goods in Hong Kong (in terms of Hong Kong dollars)?	(1 mark)
+(b)	What is the effect on Hong Kong's total expenditure on imported Italian goods in terms of Euros? Explain your answer with the aid of ONE diagram.	(7 marks)
+
+
+Answers:
+(a)	The price of imported Italian goods in terms of Hong Kong dollars increases.
+	(1 mark)
+(b)	•	Since the price of imported Italian goods in terms of Hong Kong dollars increases, the import volume decreases from QM1 to QM2.	(1 mark)
+•	The price of imported Italian goods in terms of Euros is assumed to be independent of the Euro's exchange rate. At the same price in terms of Euros, the decrease in the import volume implies that the demand for imported Italian goods decreases.	(2 marks)
+•	The demand curve of imported Italian goods shifts leftwards from DM1 to DM2.	(1 mark)
+•	Therefore, Hong Kong's total expenditure on imported Italian goods in Euros decreases.	(1 mark)
+	(2 marks)
+
+Question code: B6C13Q305
+Suppose Hong Kong dollars appreciate against Australian dollars. Under what situation will Hong Kong's total revenue (in terms of Australian dollars) from exporting goods to Australia increase? Explain with the aid of a diagram.	(6 marks)
+
+
+Answers:
+•	Since Hong Kong dollars appreciate against Australian dollars, the price in Australia of Hong Kong's goods in terms of Australian dollars increases from P1 to P2.	(1 mark)
+•	Since Australian consumers now face a higher price (in terms of Australian dollars), their quantity demanded of Hong Kong's goods decreases from Q1 to Q2, according to the law of demand.	(1 mark)
+•	If Australian consumers' demand for Hong Kong's goods is inelastic (Ed < 1), Area B will be smaller than Area A. Thus, Hong Kong's total revenue (in terms of Australian dollars) from exporting goods to Australia will increase.	(2 marks)
+	(2 marks)
+
+
+Question code: B6C13Q306 (new)
+Refer to the following table.
+
+Year	Price of 1 unit of Australian dollars	
+1	8 Hong Kong dollars	
+2	6 Hong Kong dollars	
+
+With the aid of the following diagram, explain how the change in the exchange rate affects Hong Kong's total export value to Australia (in terms of Hong Kong dollars).
+	(7 marks)
+
+Answers:
+Indicate on the diagram:
+•	Leftward shift of the demand curve	(1 mark)
+•	Decrease in quantity of exports	(1 mark)
+•	Decrease in total export value	(1 mark)
+
+
+
+Verbal elaboration:
+The Hong Kong dollar has appreciated against the Australian dollar.	(1 mark)
+The price of Hong Kong's exports in terms of Australian dollars increases. Therefore, Hong Kong's volume of exports decreases.	(1 mark)
+Assuming the price of Hong Kong's exports in terms of Hong Kong dollars does not change (at P1), there is a leftward shift of the demand curve from DX1 to DX2.
+	(1 mark)
+So, the total export value in Hong Kong dollars decreases.	(1 mark)
+
+Question code: B6C13Q307
+(a)	What is the exchange rate system in Hong Kong?	(1 mark)
+(b)	Refer to the table below.
+
+Year	Price of 1 US dollar	
+2015	7.8 Hong Kong dollars	
+2016	7.7 Hong Kong dollars	
+
+(i)	According to the above table, does the Hong Kong dollar appreciate or depreciate against the US dollar? Explain your answer.	(2 marks)
+*(ii)	Explain why in this case note-issuing banks in Hong Kong will buy US dollars from (and sell Hong Kong dollars to) the foreign exchange market.
+	(5 marks)
+
+Answers:
+(a)	The linked exchange rate system	(1 mark)
+(b)	(i)	The Hong Kong dollar appreciates against the US dollar because the same unit of US dollars can be exchanged for fewer units of Hong Kong dollars.
+	(2 marks)
+(ii) •	Under the linked exchange rate system, note-issuing banks can sell US dollars for HK dollars to (or buy US dollars with HK dollars from) the Exchange Fund at the fixed rate of US$1 to HK$7.8.	(2 marks)
+•	If note-issuing banks use HK$7.7 to buy US$1 in the foreign exchange market and sell US$1 for HK$7.8 to the Exchange Fund, they can gain HK$0.1.	(2 marks)
+•	Thus, note-issuing banks have an incentive to buy US dollars from the foreign exchange market.	(1 mark)
+(Remark: The mechanism of maintaining the linked exchange rate is NOT required in the syllabus.)
+
+Question code: B6C13Q308 (new)
+Hong Kong has adopted a linked exchange rate system. Suppose the US dollar has appreciated against the Korean won. 
+(a)	How will the prices (in terms of Hong Kong dollars) of Hong Kong's imports from Korea change? Briefly explain.	(3 marks)
+(b)	With the aid of a diagram, explain under what condition Hong Kong consumers' total expenditure (in terms of Hong Kong dollars) on imports from Korea will decrease.	(4 marks)
+
+Answers:
+(a)	Under the linked exchange rate system, the change in the exchange rate of Hong Kong dollars to Korean won will follow that of US dollars to Korean won. Hence, Hong Kong dollars will appreciate against the Korean won and the prices (in terms of Hong Kong dollars) of Hong Kong's imports from Korea will decrease.		(3 marks)
+(b)	Indicate on the diagram:
+(	Price (in terms of Hong Kong dollars) decreases, quantity demanded increases	(1 mark)
+(	Increase in total expenditure < Decrease in total expenditure	(1 mark)
+	
+	Verbal elaboration:
+	When demand is inelastic, the percentage decrease in price is larger than the percentage increase in quantity demanded. Hence, Hong Kong consumers' total expenditure (in terms of Hong Kong dollars) on imports from Korea decreases.
+	(2 marks)
+
+
+Question code: B6C13Q309
+Suppose the US dollar depreciates against the Euro and Hong Kong imports sausages from Germany.
+(a)	Assume the price of German sausages in terms of Euros remains unchanged. Explain how the above event affects the price of imported German sausages in Hong Kong in terms of the following currencies:
+(i)	US dollars	(2 marks)
+(ii)	Hong Kong dollars	(3 marks)
+(b)	What are the effects of the above event on Hong Kong consumers' total expenditure on imported German sausages in terms of Hong Kong dollars (TEM)? Explain your answer with the aid of ONE diagram.	(7 marks)
+
+Answers:
+(a)	(i)	The price in US dollars increases because more units of US dollars are needed to settle the same import price in terms of Euros.	(2 marks)
+(ii)	•	Under the linked exchange rate system, the change in the market exchange rate of the Hong Kong dollar against the Euro closely follows that of the US dollar against the Euro. Thus, the Hong Kong dollar depreciates against the Euro.	(2 marks)
+•	As a result, in Hong Kong, the price of imported German sausages in terms of Hong Kong dollars increases.	(1 mark)
+
+(b)	•	Since the price of imported German sausages in terms of Hong Kong dollars (Pd) increases, according to the law of demand, Hong Kong consumers' quantity demanded of imported Germany sausages decreases. The volume of imported German sausages (QM) decreases from QM1 to QM2.	(2 marks)
+•	The change in TEM is uncertain, depending on Hong Kong consumers' price elasticity of demand for imported German sausages (EM).	(1 mark)
+•	If EM > 1 (i.e. demand is elastic), the percentage drop in QM is larger than the percentage rise in Pd. Thus, TEM drops. / If EM = 1 (i.e. demand is unitarily elastic), the percentage drop in QM is equal to the percentage rise in Pd. Thus, TEM remains unchanged. / If EM > 1 (i.e. demand is inelastic), the percentage drop in QM is smaller than the percentage rise in Pd. Thus, TEM rises.	(2 marks)
+•	Any correct diagram	(2 marks)
+
+
+Question code: B6C13Q310
+Suppose the US dollar depreciates against the Korean won and Hong Kong exports garments to Korea.
+(a)	Assume the price of Hong Kong-made garments in terms of Hong Kong dollars remains unchanged. Explain how the above event affects the price of Hong Kong-made garments in terms of Korean won.	(3 marks)
+(b)	What are the effects of the above event on Hong Kong exporters' total revenue from exporting garments to Korea in terms of Hong Kong dollars (TRX)? Explain your answer with the aid of ONE diagram.	(6 marks)
+
+
+Answers:
+(a)	•	Under the linked exchange rate system, the change in the market exchange rate of the Korean won against the Hong Kong dollar closely follows that against the US dollar. Thus, the Hong Kong dollar depreciates against the Korean won.	(2 marks)
+•	As a result, the price of Hong Kong-made garments in terms of Korean won decreases.	(1 mark)
+(b)	•	Since the price of Hong Kong-made garments in terms of Korean won decreases, the export volume (QX) increases from QX1 to QX2.	(1 mark)
+•	The price of Hong Kong-made garments in terms of Hong Kong dollars (Pd1) is assumed to be independent of the exchange rate. At the same price in terms of Hong Kong dollars, the increase in the export volume implies that Korea's demand for Hong Kong-made garments increases. The demand curve of Hong Kong-made garments shifts rightwards from DX1 to DX2.	(2 marks)
+•	Therefore, TRX increases.	(1 mark)
+	(2 marks)
+
+Question code: B6C13Q311 (new)
+How should the following events be recorded in the sub-accounts of Hong Kong's current account?
+(a)	A Hong Kong dispensary hires a mainlander to transport milk powder to Shenzhen, paying HK$700 in return.	(2 marks)
+(b)	A mainland mother comes to Hong Kong through the Individual Visit Scheme. She buys two cans of milk powder for her baby.	(2 marks)
+
+Answers:
+(a)	A debit item in the income account	(2 marks)
+(b)	A credit item in the invisible trade account	(2 marks)
+
+Question code: B6C13Q312
+In which components of the current account are the following items recorded? Explain how they would affect Hong Kong's balance of payments (BoP).
+(a)	Hong Kong companies' revenue from mainland tourists	(3 marks)
+(b)	Money remitted by a Hong Kong resident to his wife in Korea	(3 marks)
+
+Answers:
+(a)	•	Revenue from tourists' spending in Hong Kong is counted as Hong Kong's exports of services.	(1 mark)
+•	The revenue would be recorded on the credit side of Hong Kong's services (or invisible trade) account.	(1 mark)
+•	It will improve Hong Kong's BoP.	(1 mark)
+(b)	•	Remittances overseas are counted as Hong Kong's current transfers to abroad.	(1 mark)
+•	The remittance would be recorded on the debit side of Hong Kong's current transfers account.	(1 mark)
+•	It will worsen Hong Kong's BoP.	(1 mark)
+
+Question code: B6C13Q313 (new)
+Suppose some Hong Kong restaurants provide dishes with imported ingredients, and all of the dishes are sold to foreign visitors. Explain how this will affect Hong Kong's
+(a)	the visible trade balance;	(2 marks)
+(b)	the invisible trade balance;	(2 marks)
+(c)	the current account balance.	(2 marks)
+
+Answers:
+(a)	Importing the ingredients is a debit entry in the goods account. It worsens the visible trade balance.	(2 marks)
+(b)	Selling the dishes to foreign visitors is regarded as exports of services. It is a credit entry in the services account and improves the invisible trade balance.
+	(2 marks)
+(c)	Restaurant production creates value-added. Thus, the increase in the invisible trade balance must be greater than the decrease in the visible trade balance. This improves the current account balance.	(2 marks)
+
+
+Question code: B6C13Q314
+Explain how each of the following items is treated in Hong Kong's current account or capital and financial account.
+(a)	A Hong Kong businessman donates $1 million to a charitable organisation in Libya (利比亞).	(2 marks)
+(b)	A famous scholar from the US works in Hong Kong on a three-month contract as a visiting lecturer at a Hong Kong university.	(2 marks)
+(c)	An American company raises funds in Hong Kong to finance its investment project in the US. (Remark: You are NOT required to discuss how the interest payments involved are recorded.)	(2 marks)
+(d)	A Hong Kong resident flies on Cathay Pacific to Shanghai for business.	(2 marks)
+
+Answers:
+(a)	The donation is a Hong Kong resident's current transfer sent abroad. This is recorded on the debit side of Hong Kong's current account.	(2 marks)
+(b)	This involves buying factor services from abroad. The wage paid to the scholar is recorded on the debit side of Hong Kong's current account.	(2 marks)
+(c)	This is Hong Kong's investment abroad and results in an outflow of foreign currencies to the US. The funds raised are recorded on the debit side of Hong Kong's capital and financial account. 	(2 marks)
+(d)	This case does not involve an external transaction, so this is neither recorded in Hong Kong's current account nor its capital and financial account.	(2 marks)
+
+Question code: B6C13Q315 (new)
+Country X faces a balance of payments deficit in 2015.
+(a)	Explain whether this means Country X's accounting balance of payments is in deficit.	(2 marks)
+(b)	How will the official reserves of Country X change? Explain.	(2 marks)
+
+Answers:
+(a)	No,	(1 mark)
+	the accounting balance of payments must be balanced.	(1 mark)
+(b)	The central bank will sell an equivalent amount of foreign currency to the foreign exchange market to cover the deficit. Hence, the official reserves will decrease.
+	(2 marks)
+
+
+Question code: B6C13Q316 (new)
+Study the following table which shows the balance of payments (BoP) position of an economy.
+
+Balance of payments components	$ billion	
+Visible trade	10	
+Invisible trade	-20	
+Net factor income from abroad	3	
+Net current transfers	-4	
+
+(a)	Based on the data above, calculate the balance of the current account.	(2 marks)
+(b)	What is the balance of the capital and financial account? Explain your answer.
+		(3 marks)
+
+Answers:
+(a)	The balance of the current account
+= $(10 - 20 + 3 - 4) billion	(1 mark)
+= -$11 billion	(1 mark)
+(b)	Accounting BoP = Current account balance + Capital and financial account balance	(1 mark)
+As the value of the accounting BoP is equal to zero,
+Capital and financial account balance = - Current account balance	(1 mark)
+= $11 billion	(1 mark)
+
+
+Question code: B6C13Q317
+Study the following table which shows the balance of payments (BoP) position of an economy.
+
+Components	Credit	Debit	
+Goods	40	50	
+Services	30	10	
+Income	5	2	
+Current transfers	4	3	
+Capital and financial assets		14	
+Net change in reserve assets	10		
+
+(a)	Calculate the current account balance using the current account components. Show your steps.	(3 marks)
+(b)	Calculate the current account balance using the definition of the accounting BoP. Show your steps.	(3 marks)
+
+Answers:
+(a)	Current account balance
+=  +  +  + 	(1 mark)
+= (40 - 50) + (30 - 10) + (5 - 2) + (4 - 3)	(1 mark)
+= -10 + 20 + 3 + 1 = 14	(1 mark)
+(b)	•	Accounting BoP =  + 	(1 mark)
+•	As the value of the accounting BoP is equal to zero,
+Current account balance = - Capital and financial account balance	(1 mark)
+= -(-14) = 14	(1 mark)
+
+
+Question code: B6C13Q318 (new)
+Study the following table which shows the balance of payments (BoP) position of an economy.
+
+Components	Debit ($)	Credit ($)	
+Goods	20	60	
+Services	5	30	
+Income	2	4	
+Current transfers	8	6	
+Capital and financial non-reserve assets	60	20	
+Reserve assets	25		
+
+(a)	Calculate the visible trade balance, invisible trade balance, net income from abroad and net current transfers.	(4 marks)
+(b)	Find the market BoP. Is the market BoP in surplus or deficit?	(3 marks)
+
+Answers:
+(a)	•	Visible trade balance = $60 - $20 = $40	(1 mark)
+•	Invisible trade balance = $30 - $5 = $25	(1 mark)
+•	Net income from abroad = $4 - $2 = $2	(1 mark)
+•	Net current transfers = $6 - $8 = -$2	(1 mark)
+(b)	•	Market BoP = Current account balance + Net change in capital and financial non-reserve assets	(1 mark)
+= $(40 + 25 + 2 - 2) + $(20 - 60) = $25	(1 mark)
+•	As the market BoP is a positive number, it is in surplus.	(1 mark)
+
+
+Question code: B6C13Q319
+Study the following data about a country's balance of payments (BoP).
+
+Balance of payments components	$ billion	
+Exports of goods and services	20	
+Imports of goods and services	30	
+Factor income payable abroad	40	
+Factor income receivable from abroad	50	
+Net current transfers	-10	
+Net change in capital and financial non-reserve assets	30	
+
+(a)	Calculate the market BoP.	(2 marks)
+(b)	What is the accounting BoP in this case?	(1 mark)
+(c)	How would reserve assets change in this case? Explain.	(2 marks)
+
+Answers:
+(a)	The market BoP
+= $(20 - 30 + 50 - 40 - 10 + 30) billion	(1 mark)
+= $20 billion	(1 mark)
+(b)	The accounting BoP must be balanced, i.e., equal to zero.	(1 mark)
+(c)	Since there is a market BoP surplus, reserve assets will increase.	(2 marks)
+
+
+Question code: B6C13Q320
+Study the following data about a country's balance of payments (BoP).
+
+	Balance ($)	
+Current account:	
+Goods	50	
+Services	40	
+Income	-30	
+Current transfers	X	
+Current account balance	Y	
+Capital and financial account:	
+Balance excluding reserve assets	Z	
+Change in reserve assets	20	
+Capital and financial account balance	-60	
+Market BoP	-20	
+Accounting BoP	A	
+
+Find the values of X, Y, Z, M and A.	(4 marks)
+
+Answers:
+•	A = 0	(1 mark)
+•	Z = -60 - 20 = -80	(1 mark)
+•	Y = - Capital and financial account balance = 60	(1 mark)
+•	Y = 50 + 40 - 30 + X
+( X = 60 - 50 - 40 + 30 = 0	(1 mark)
+
+Question code: B6C13Q321 (new)
+Explain whether the following statements are NECESSARILY true.
+(a)	A country will have a current account deficit when it has a capital and financial account surplus.	(2 marks)
+(b)	A country has a current account surplus when its net exports are positive.
+	(2 marks)
+
+Answers:
+(a)	Yes. In the accounting balance of payments, the sum of the current account balance and the capital and financial account balance must be zero. Hence, when one is in surplus, the other must be in deficit.	(2 marks)
+(b)	Not necessarily true. If the sum of net factor income from abroad and net current transfers is negative and its absolute value is greater than net exports, the current account balance will become negative.
+	Current account balance = Net exports + Net factor income from abroad + Net current transfers	(2 marks)
+
+Question code: B6C13Q322
+* Peter: If there is a balance of payments deficit, the current account must be in deficit.
+Pan: No. A balance of payments must be balanced. The current account will be in deficit only if the capital and financial account is in surplus.
+Explain whether Peter and Pan are correct.	(8 marks)
+
+Answers:
+Peter's statement is incorrect.
+•	The market balance of payments is composed of the current account balance and the net change in capital and financial non-reserve assets.	(1 mark)
+•	The current account can be in surplus even if there is a balance of payments deficit.	(1 mark)
+•	This happens when the decrease in capital and financial non-reserve assets is larger than the amount of the surplus in the current account.	(1 mark)
+Comment on Pan's statements:
+•	The first statement is correct if the balance of payments refers to the accounting balance of payments.	(1 mark)
+•	The second statement is correct.	(1 mark)
+•	By definition,
+Accounting BoP =  + 	(1 mark)
+•	As the accounting BoP must be equal to zero,
+Current account balance = - Capital and financial account balance	(1 mark)
+•	This implies that the current account must be in deficit (surplus) when the capital and financial account is in surplus (deficit).	(1 mark)
+
+
+Structured Questions
+
+Question code: B6C13Q501 (new)
+The following table shows the exchange rates between the Hong Kong dollar (HKD) and the renminbi (RMB).
+
+Date	Exchange rate	
+2014/5/3	HKD 1 = RMB 0.805	
+2015/5/3	HKD 1 = RMB 0.801	
+
+(a)	Explain whether RMB has appreciated or depreciated against HKD within the period.	(2 marks)
+(b)	With the aid of separate diagrams, explain the effects of the above change in the exchange rate on Hong Kong's
+	(i)	total import value from the mainland in terms of Hong Kong dollars.
+	(6 marks)
+	(ii)	total export value to the mainland in terms of Hong Kong dollars.	(6 marks)
+
+Answers:
+(a)	RMB has appreciated against HKD because	(1 mark)
+	the same amount of HKD can only be exchanged for fewer RMB.	(1 mark)
+
+(b)	(i)	Indicate on the diagram:
+(	Price increases, quantity demanded decreases	(1 mark)
+(	Correct areas of increase and decrease in total import value	(1 mark)
+		
+
+		Verbal elaboration:
+		The price (in terms of Hong Kong dollars) of imports from the mainland increases after the appreciation of RMB.	(1 mark)
+		The quantity demanded decreases.	(1 mark)
+		The change in total import value is uncertain. It depends on the price elasticity of demand for imports from the mainland.	(2 marks)
+	(ii)	Indicate on the diagram:
+(	Demand curve shifts rightwards.	(1 mark)
+(	Total export value increases.	(1 mark)
+		
+		Verbal elaboration:
+		The price (in terms of RMB) of exports to the mainland decreases after the appreciation of RMB (assuming the HKD price remains the same).	(1 mark)
+		Hence, the volume of exports from Hong Kong to the mainland increases.
+	(1 mark)
+		This brings a rightward shift of the demand curve and an increase in the total export value.	(2 marks)
+
+
+Question code: B6C13Q502 (new)
+Hong Kong imports toys, as well as produces its own toys.
+(a)	Some Hong Kong merchants import toys from Japan. The imported toys are used as a reference when designing their own products. To which factor of production do the imported toys belong? Explain.	(2 marks)
+(b)	Suppose there is a rumour that some Hong Kong toys are dangerous for children.
+(i)	Explain, with the aid of a diagram, how the price, quantity and total revenue of imported toys in Hong Kong would change.	(6 marks)
+(ii)	Based on your result in (i), explain how Hong Kong's market balance of payments and accounting balance of payments would be affected.	(4 marks)
+(c)	Suppose the US dollar appreciates against the Japanese yen. Explain, with a diagram, the effect on the total value (in terms of Hong Kong dollars) of Japanese toys imported to Hong Kong.	(6 marks)
+
+Answers:
+(a)	The imported toys are capital. They are man-made resource used to help in the production of Hong Kong-made toys.	(2 marks)
+
+(b)	(i)	Since Hong Kong toys and imported toys are close substitutes, the demand for imported toys will rise (from D0 to D1).	(1 mark)
+			(2 marks)
+	The equilibrium price of imported toys increases from P0 to P1.	(1 mark)
+	The equilibrium quantity of imported toys increases from Q0 to Q1.	(1 mark)
+	Therefore, the total revenue of imported toys increases.	(1 mark)
+	(ii)	As the imported toys are recorded as debits in the current account, the increase in the total revenue of imported toys would worsen the market balance of payments.	(2 marks)
+	Since the accounting balance of payments must be zero, it is not affected by the matter.	(2 marks)
+
+(c)	According to the linked exchange rate system, the HK dollar also appreciates against the Japanese yen.	(1 mark)
+	As the price (in terms of HK dollars) of Japanese toys decreases (from Pd1 to Pd2), according to the law of demand, the quantity demanded of Japanese toys increases (from QM1 to QM2).	(2 marks)
+	The total value (in terms of HK dollars) of Japanese toys imported may increase or decrease, depending on the price elasticity of demand for Japanese toys.
+	(1 mark)
+	
+		(2 marks)
+
+Question code: B6C13Q503 (new)
+The currency of Country L (LD) is under a pegged exchange rate system. The currency of Country T (TP) is under a flexible exchange rate system. Country T urges Country L to revaluate LD.
+(a)	Country L imports oranges from Country T in addition to its domestic supply. Explain, with the aid of a diagram, the effects of an appreciation of LD on the total revenue of Country L's domestic orange growers.	(6 marks)
+(b)	Remi, a citizen of Country T, says, 'The appreciation of LD relieves our current account deficit against Country L.' Explain why he may NOT be correct.
+	(5 marks)
+(c)	Country T has been facing a persistent market balance of payments deficit.
+	(i)	What is the difference between accounting balance of payments and market balance of payments?	(2 marks)
+	(ii)	Ka Ming says, 'The market balance of payment deficit implies that Country T has a current account deficit.' Do you agree? Explain.	(4 marks)
+
+
+Answers:
+(a)	Indicate on the diagram:
+(	Demand curve shifts leftwards.	(1 mark)
+(	Total revenue decreases.	(1 mark)
+	
+	Verbal elaboration:
+	After the appreciation of LD, the price (in terms of LD) of Country T's oranges in Country L decreases.	(1 mark)
+	As domestic oranges are substitutes for imported oranges, the demand for domestic oranges decreases.	(2 marks)
+	As a result, the total revenue of domestic orange growers decreases.	(1 mark)
+
+(b)	The appreciation of LD raises the price (in terms of TP) of Country L's goods in Country T. This will lower the quantity demanded of Country L's goods. As a result, the change in Country T's total import value (in terms of TP) from 
+Country L is uncertain.	(2 marks)
+	On the other hand, the appreciation of LD lowers the price (in terms of LD) of Country T's goods in Country L. This causes the quantity demanded of 
+Country T's goods to increase. As a result, Country T's total export value to Country L (in terms of TP) increases.	(2 marks)
+	Remi may not be correct as the overall effect on the current account of Country T is uncertain.	(1 mark)
+
+(c)	(i)	The accounting balance of payments includes the transactions of central banks and must be balanced, while the market balance of payments does not include the transactions of central banks and may not be balanced.	(2 marks)
+
+	(ii)	Disagree.	(1 mark)
+		Market BoP = Current account balance + Net change in capital and financial non-reserve asssets 	(1 mark)
+		If the 'Net change in capital and financial non-reserve assets' is negative and greater than the current account surplus, Country T will also have a market BoP deficit.	(2 marks)
+		(Accept any correct explantion.)
+
+Question code: B6C13Q504
+Country J has been affected by radioactive contamination (核污染). Due to this catastrophe, fewer of Country H's people travel to Country J. In addition, Country H imports fewer goods from Country J.
+(a)	With the aid of a supply-demand diagram, explain how the above event affects the equilibrium price and quantity in Country H of tours to Country J.	(5 marks)
+(b)	With the aid of an AS-AD diagram, explain how the above events affect
+Country J's real GDP and price level in the short run.	(7 marks)
+(c)	Suppose Country J's currency depreciates against Country H's currency as a result of the above events. With the aid of a diagram, analyse how the depreciation of Country J's currency affects the price (in Country H's currency) and quantity of imports from Country J in Country H. (Remark: You are NOT required to discuss the effects of radioactive contamination.)	(4 marks)
+(d)	To help the economy recover, Country J's government raises tax revenue to finance its increased government expenditure on infrastructure. Explain whether this policy can stimulate real GDP growth in the short run.	(3 marks)
+
+
+Answers:
+(a)	•	The demand for tours to Country J decreases. The demand curve of tours to Country J shifts leftwards from D1 to D2.	(1 mark)
+•	Both the equilibrium price and quantity of tours to Country J decrease.
+	(2 marks)
+	(2 marks)
+
+(b)	•	The fall in the number of tourists and the volume of exports to Country H will lead to a decrease in Country J's real exports and aggregate demand.	(2 marks)
+•	The aggregate demand curve shifts leftwards from AD1 to AD2.	(1 mark)
+•	Country J's real GDP decreases from Y1 to Y2.	(1 mark)
+•	Country J's price level decreases from P1 to P2.	(1 mark)
+	(2 marks)
+
+
+(c)	•	As Country J's currency depreciates, the prices of imports from Country J (in Country H's currency) decrease from P1 to P2.	(1 mark)
+•	According to the law of demand, Country H's quantity demanded of imports from Country J increases from Q1 to Q2.	(1 mark)
+	(2 marks)
+
+(d)	•	Since the contractionary effect from an increase in government revenue is smaller than the expansionary effect from an increase in government expenditure of the same amount, aggregate expenditure increases.	(2 marks)
+•	Thus, the overall effect of this policy is expansionary. It can stimulate real GDP growth in the short run.	(1 mark)
+
+Question code: B6C13Q505
+Wendy is a university graduate in Hong Kong. She travels to Japan for three months before seeking a job.
+(a)	Explain whether the following items will be affected by Wendy's Japan trip.
+(i)	Hong Kong's goods account balance	(2 marks)
+(ii)	Hong Kong's services account balance	(2 marks)
+(b)	Wendy has exchanged US$10,000 for Japanese yen (¥) at a rate of ¥100 : US$2. Now, the exchange rate changes to ¥100 : US$1.
+(i)	What is the effect of the above change on the exchange rate between Japanese yen and Hong Kong dollars? Explain.	(2 marks)
+(ii)	Explain how the change in the exchange rate between Japanese yen and Hong Kong dollars mentioned in (b)(i) will affect Japanese goods' prices paid by Hong Kong tourists in terms of Hong Kong dollars.	(1 mark)
+(iii)	Wendy talked to her friend, 'If I buy Japanese yen now instead, I can save US$5,000 and get the same amount of Japanese yen. Thus, my US$5,000 is my opportunity cost of holding ¥500,000 earlier.' Do you agree? Explain your answer.	(3 marks)
+(c)	(i)	Explain whether Wendy is classified as an unemployed person when she travels to Japan.	(3 marks)
+(ii)	State TWO costs of unemployment to the unemployed.	(2 marks)
+
+Answers:
+(a)	(i)	No external transactions of goods are involved. Thus, there is no effect on Hong Kong's goods account balance.	(2 marks)
+(ii)	Wendy's expenditure in Japan will be recorded as imports of services. This will worsen Hong Kong's services account balance.	(2 marks)
+
+(b)	(i)	•	Under the linked exchange rate system, the changes in market exchange rates of non-US currencies against the Hong Kong dollar closely follow those against the US dollar.	(1 mark)
+•	Thus, the exchange rate of Japanese yen against Hong Kong dollars will decrease by about 50%.	(1 mark)
+(ii)	As the Japanese yen depreciates against the Hong Kong dollar, Japanese goods' prices paid by Hong Kong tourists in terms of Hong Kong dollars decrease.	(1 mark)
+(iii)	•	Disagree.	(1 mark)
+•	The cost of holding (i.e., buying) ¥500,000 earlier is the highest-valued alternative use of the amount spent, which would not be changed by any events that happened after the decision was made.	(2 marks)
+
+(c)	(i)	•	Unemployed persons are those who want a job but fail to find one. They are available for and seeking work.	(2 marks)
+•	As Wendy was neither available for work nor seeking work during the period, she is not regarded as an unemployed person.	(1 mark)
+(ii)	Costs of unemployment to the unemployed are as follows:
+•	Lower living standard
+•	Family problems
+•	Loss of skills
+(Any TWO of the above or other reasonable answers. 2 × 1 mark = 2 marks)
+
+
+Question code: B6C13Q506
+Suppose there are only two countries: Chive and United Space. Both countries are self-sufficient. Recently, they have decided to partly open their economies as an experiment. They will only trade the following two goods: machines and food. The following shows their absolute advantages and comparative advantages.
+
+Country	Absolute advantage	Comparative advantage	
+Chive	―	Machines	
+The United Space	Machines, Food	Food	
+
+(a)	Suppose both countries engage in specialisation. What determines the pattern of specialisation? Which goods should Chive specialise in? Which goods should United Space specialise in? Explain the principle applied.	(5 marks)
+(b)	The experiment is successful. Both countries decide to further open their economies. Afterward, Chive has a huge balance of payments (BoP) surplus while United Space has a huge BoP deficit. Suppose Chive adopts a fixed exchange rate system.
+*(i)	Suppose United Space's demand for Chive's exports is elastic. With the aid of TWO supply-demand diagrams, explain whether the revaluation of Chive's currency will improve United Space's trade balance (in United Space's currency).	(14 marks)
+(ii)	To determine the overall effect of the revaluation of Chive's currency on United Space's current account balance, what information do we need besides the visible and invisible trade balances? What further information do we need to determine the overall effect of the revaluation of Chive's currency on United Space's BoP?	(2 marks)
+
+Answers:
+(a)	•	Comparative advantage	(1 mark)
+•	Chive should specialise in producing machines while United Space should specialise in producing food.	(2 marks)
+•	The principle behind this is the principle of comparative advantage. It states that if each country specialises in producing the good in which it has a comparative advantage, total world output will increase.	(2 marks)
+
+
+(b)	(i)	•	The revaluation of Chive's currency lowers the price of United Space's exports in terms of Chive's currency.	(1 mark)
+•	Since the price of United Space's exports in terms of Chive's currency decreases, United Space's export volume (QX) increases from QX1 to QX2.	(1 mark)
+•	The price of United Space's exports in terms of its domestic currency (PdX) is assumed to be independent of the exchange rate. At the same price in terms of United Space's currency, the increase in the export volume implies that Chive's demand for United Space's exports increases.
+	(2 marks)
+•	The demand curve for United Space's exports shifts rightwards from DX1 to DX2.	(1 mark)
+•	Therefore, the total value of exports in United Space's domestic currency (VX) rises.	(1 mark)
+	(2 marks)
+
+•	The revaluation of Chive's currency raises United Space's import price in terms of its domestic currency (PdM).	(1 mark)
+•	Since PdM increases, according to the law of demand, United Space's volume of imports (QM) decreases from QM1 to QM2.	(1 mark)
+•	As United Space's demand for imports is elastic, the percentage drop in QM is larger than the percentage rise in PdM. Thus, the total value of imports in its domestic currency (VM) drops.	(1 mark)
+	(2 marks)
+•	As VX rises and VM drops, United Space's trade balance will improve.
+	(1 mark)
+(ii)	•	Determining the overall effect on current account balance: the changes in net income from abroad and net current transfers OR the change in the capital and financial account balance (with an opposite sign)
+	(Any one, 1 mark)
+•	Determining the overall effect on BoP: net change in capital and financial non-reserve assets OR net change in reserve assets (with an opposite sign)	(Any one, 1 mark)

@@ -1,0 +1,1512 @@
+Chapter 18 	The roles of government (II): 
+equity and income inequality
+
+Multiple Choice Questions
+
+Question code: B3C18Q001
+Which of the following about equity is NOT correct?
+A.	Even if a market economy achieves efficiency in resource allocation, it may fail to achieve equity.
+B.	Different people may have different standards of equity.
+C.	Equity is a subjective concept.
+D.	Equity is the same as equal distribution of income.
+
+Answer: D
+
+Question code: B3C18Q002
+Which of the following countries has achieved equity in income distribution?
+A.	Country A, where all workers receive the same wage
+B.	Country B, where all outputs are owned by the state and distributed equally to all people
+C.	Country C, where hardworking people earn more income
+D.	Insufficient information to make a determination
+
+Answer: D
+Explanation
+Equity is a subjective concept that involves normative judgements. Different people can have different criteria about fairness.
+
+
+Question code: B3C18Q003
+To solve the problem of income inequality in Country X, the government implemented a set of income redistribution policies. The following table shows the percentage distribution of domestic households in Country X and the changes in their monthly domestic household income.
+
+Monthly domestic 
+household income ($)	Before implementation	After implementation	
+< 1,000	20%	10%	
+1,000 - 1,999	10%	10%	
+2,000 - 2,999	10%	10%	
+3,000 - 3,999	5%	10%	
+4,000 - 4,999	5%	10%	
+5,000 - 5,999	5%	10%	
+6,000 - 6,999	5%	10%	
+7,000 - 7,999	10%	10%	
+8,000 - 8,999	10%	10%	
+> 9,000	20%	10%	
+Median monthly domestic household income ($)	5,000	5,000	
+
+Which of the following is correct?
+A.	Absolute income equality is achieved after implementation of the policies.
+B.	The percentage of domestic households with a monthly income of less than $1,999 falls.
+C.	There is no change in the income gap as the percentage of domestic households with a monthly income of less than $4,999 does not change.
+D.	The number of domestic households with a monthly income between $8,000 and $8,999 remains unchanged.
+
+Answer: B
+
+
+Question code: B3C18Q004
+* The following table shows the changes in percentage distribution of monthly household income by decile groups for domestic households in Money Land.
+
+Decile group	Share of monthly household income	
+	Year 1	Year 2	
+1st (lowest)	1%	2%	
+2nd	2%	3%	
+3rd	3%	4%	
+4th	4%	5%	
+5th	5%	6%	
+6th	6%	7%	
+7th	7%	8%	
+8th	8%	9%	
+9th	9%	10%	
+10th (highest)	55%	46%	
+Total	100%	100%	
+
+Which of the following are INCORRECT?
+(1)	Income distribution is more equal in Year 2.
+(2)	The 10th decile group must earn less income in Year 2 than in Year 1.
+(3)	The living standards of the poor must have improved in Year 2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: C
+
+
+Question code: B3C18Q005
+The following table shows the changes in percentage distribution of monthly household income by decile groups for domestic households in Money Land.
+
+Decile group	Share of monthly household income	
+	Year 1	Year 2	
+1st (lowest)	1%	0.5%	
+2nd	3%	3.5%	
+3rd	5%	5%	
+4th	7%	7%	
+5th	9%	9%	
+6th	11%	11%	
+7th	13%	13%	
+8th	15%	14%	
+9th	17%	15%	
+10th (highest)	19%	22%	
+Total	100%	100%	
+Number of households (million)	3	3	
+
+Which of the following are INCORRECT?
+(1)	In Year 2, the income gap between the 1st and 10th decile groups increased.
+(2)	The country became richer in Year 2 as fewer people were in the 1st decile group and more people were in the 10th decile group.
+(3)	The 3rd decile group earned the same amount of income in Years 1 and 2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B3C18Q006
+The following table shows the percentage distribution of monthly household income by decile groups for domestic households in Slave Land and Fair Land.
+
+Decile group	Share of monthly household income	
+	Slave Land	Fair Land	
+1st (lowest)	1%	10%	
+2nd	2%	10%	
+3rd	3%	10%	
+4th	4%	10%	
+5th	5%	10%	
+6th	6%	10%	
+7th	7%	10%	
+8th	8%	10%	
+9th	9%	10%	
+10th (highest)	55%	10%	
+Total	100%	100%	
+
+Which of the following are INCORRECT?
+(1)	Citizens in Slave Land have a lower living standard than those in Fair Land.
+(2)	More people will choose to live in Fair Land as income distribution in Fair Land is fairer.
+(3)	Discrimination in Slave Land is more serious than that in Fair Land.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B3C18Q007
+The following table shows the percentage distribution of monthly household income by decile groups for domestic households in Hong Kong in 2011.
+
+Decile group	Share of monthly household income	
+1st (lowest)	0.6%	
+2nd	2.0%	
+3rd	3.1%	
+4th	4.3%	
+5th	5.6%	
+6th	7.0%	
+7th	8.9%	
+8th	11.5%	
+9th	16.1%	
+10th (highest)	41.0%	
+Total	100%	
+Source: Census and Statistics Department
+
+From the above information, we can conclude that
+A.	income distribution in Hong Kong became more uneven.
+B.	the income share of the 10th decile group was about 68 times that of the 1st decile group.
+C.	income distribution in Hong Kong was very unfair.
+D.	Insufficient information to draw any conclusion
+
+Answer: B
+
+
+Question code: B3C18Q008
+The following table shows the percentage distribution of monthly household income by decile groups for domestic households in Hong Kong in 2011.
+
+Decile group	Share of monthly household income	
+1st (lowest)	0.6%	
+2nd	2.0%	
+3rd	3.1%	
+4th	4.3%	
+5th	5.6%	
+6th	7.0%	
+7th	8.9%	
+8th	11.5%	
+9th	16.1%	
+10th (highest)	41.0%	
+Total	100%	
+Source: Census and Statistics Department
+
+In 2011, the top 20% of households in Hong Kong earned about _________ of total household income.
+A.	2.6%
+B.	41%
+C.	57.1%
+D.	68.6%
+
+Answer: C
+
+
+Question code: B3C18Q009
+The following table shows the percentage distribution of monthly household income by decile groups for domestic households in Hong Kong.
+
+Decile group	Share of monthly household income	
+	2001 (%)	2011(%)	
+1st (lowest)	0.9	0.6%	
+2nd	2.3	2.0%	
+3rd	3.4	3.1%	
+4th	4.5	4.3%	
+5th	5.7	5.6%	
+6th	7.0	7.0%	
+7th	8.8	8.9%	
+8th	11.1	11.5%	
+9th	15.3	16.1%	
+10th (highest)	41.1	41.0%	
+Total	100	100	
+Source: Census and Statistics Department
+
+From the above information, we can conclude that
+A.	the monthly income of the highest 10% of households decreased.
+B.	the rich became richer and the poor became poorer.
+C.	the total income share of the first five decile groups decreased while that of the remainder increased.
+D.	Insufficient information to draw any conclusion
+
+Answer: C
+
+
+Question code: B3C18Q010
+The following table shows the percentage distribution of monthly household income of domestic households (excluding foreign domestic helpers) by decile groups in Hong Kong.
+
+Decile group	Share of monthly household income	
+	2001 (%)	2011 (%)	
+1st (lowest)	0.9	0.6	
+2nd	2.3	2.0	
+3rd	3.4	3.1	
+4th	4.5	4.3	
+5th	5.7	5.6	
+6th	7.0	7.0	
+7th	8.8	8.9	
+8th	11.1	11.5	
+9th	15.3	16.1	
+10th (highest)	41.1	41.0	
+Total	100.0	100.0	
+Source: Thematic Report - Household Income Distribution in Hong Kong, 2011 Population Census, Census and Statistics Department
+
+From the above data, we can conclude that
+A.	income distribution in 2001 was fairer than in 2011.
+B.	the income level of the first decile group in 2011 was lower than that in 2001.
+C.	the living standard of the highest decile income group decreased.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B3C18Q011
+The table below shows the percentage of domestic households in Country A that fall into different monthly income groups.
+
+Monthly Domestic Household Income ($)	% of total	
+< 4,000	10	
+4,000 - 5,999	10	
+6,000 - 7,999	10	
+8,000 - 9,999	10	
+10,000 - 14,999	10	
+15,000 - 19,999	10	
+20,000 - 24,999	10	
+25,000 - 29,999	10	
+30,000 - 39,999	10	
+( 40,000	10	
+Total	100	
+
+Which of the following statements is true?
+A.	Income among households is not evenly distributed.
+B.	The Gini coefficient is 0 in Country A.
+C.	There is absolute income equality among households.
+D.	Country A has achieved equity.
+
+Answer: A
+
+
+Question code: B3C18Q012
+The following table shows the changes in percentage distribution of monthly household income by decile groups for domestic households in Country Z
+
+Decile group	Share of monthly household income	
+	Year 1	Year 2	
+1st (lowest)	1%	2%	
+2nd	2%	3%	
+3rd	3%	4%	
+4th	4%	5%	
+5th	5%	6%	
+6th	6%	7%	
+7th	7%	8%	
+8th	8%	9%	
+9th	9%	10%	
+10th (highest)	55%	46%	
+Total	100%	100%	
+
+Which of the following statements is true?
+(1)	Income distribution is more equal in Year 2.
+(2)	The Gini coefficient in Year 2 is more likely to fall.
+(3)	People's incomes have risen in Year 2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: A
+
+
+Question code: B3C18Q013
+Refer to the following diagrams.
+
+From the diagram above, we can conclude that
+A.	Country A's income distribution is more uneven than Country B's.
+B.	Country B's national income is normally higher than Country A.
+C.	Country A's Gini coefficient is lower than Country B's.
+D.	Country B's high-income group earns a higher income than Country A's.
+
+Answer: C
+
+
+Question code: B3C18Q014
+Refer to the following Lorenz curves of Country A.
+
+Which of the following is true?
+A.	Country A's income distribution has become more uneven.
+B.	Country A's Gini coefficient has decreased.
+C.	Country A's living standard has improved.
+D.	Country A's low-income group earns less income.
+
+Answer: A
+
+Question code: B3C18Q015
+
+Which of the following is correct?
+A.	Country B's standard of living is higher than Country A.
+B.	Country A's income distribution is more even than Country B.
+C.	Country B's Gini coefficient is greater than 1.
+D.	Country A's GDP is greater than Country B.
+
+Answer: B
+
+Question code: B3C18Q016
+
+Which of the following is INCORRECT?
+A.	Country A's Gini coefficient is greater than 0.
+B.	Country B's Gini coefficient is smaller than 1.
+C.	Country A's Gini coefficient is greater than Country B's.
+D.	Country B's income distribution is more uneven than Country A's.
+
+Answer: C
+
+
+Question code: B3C18Q017
+Refer to the following diagrams.
+
+Which of the following conclusions can we draw?
+(1)	Country B's workers are better educated than Country A's.
+(2)	Country A's Gini coefficient is smaller than Country B's.
+(3)	Country A has a better social security system than Country B.
+A.	(2) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: A
+
+
+Question code: B3C18Q018
+There is a revolution in Big City. The following diagram shows the change in the Lorenz curve of Big City.
+
+Which of the following are correct?
+(1)	After the revolution, there is absolute income equality in Big City.
+(2)	After the revolution, the Gini coefficient of Big City decreases.
+(3)	After the revolution, lower income groups enjoy a higher income.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+
+Question code: B3C18Q019
+The following diagram shows the Lorenz curves of Country A, B and C.
+
+From the diagram above, we can conclude that
+A.	Country A's Gini coefficient is the smallest.
+B.	Country B's problem of income inequality is much more serious than that of Country C. 
+C.	total income is highest in Country C.
+D.	it is more likely that Country C has a minimum wage than the other countries.
+
+Answer: A
+
+
+Question code: B3C18Q020
+The following diagram shows the Lorenz curve of Big City.
+
+Which of the following are INCORRECT?
+(1)	The larger that Area B is, the more uneven the income distribution.
+(2)	When the Gini coefficient of Big City is 0, Area B is 0.
+(3)	If Area A is equal to Area B, absolute income equality will be achieved.	
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+
+Question code: B3C18Q021
+After a rebellion, Big City is now controlled by an armed force called Barbarian. The following diagram shows the change in the Lorenz curve of Big City.
+
+From the diagram above, we can conclude that
+A.	income distribution before the rebellion was more unequal than it was after the rebellion.
+B.	the Gini coefficient decreased to 0 after the rebellion.
+C.	most of the people in Big City received no income after the rebellion.
+D.	Insufficient information to draw any conclusion
+
+Answer: C
+
+
+Question code: B3C18Q022
+The following diagram shows the Lorenz curves of Country X.
+
+From the diagram above, we can conclude that
+A.	the number of high-income households in Country X increased in 2015.
+B.	Country X's Gini coefficient decreased between 2005 and 2015.
+C.	the problem of income inequality has become more serious in Country X.
+D.	the average household size in Country X has decreased.
+
+Answer: C
+
+
+Question code: B3C18Q023
+The following diagram shows the Lorenz curves of Country X.
+
+Which of the following are correct?
+(1)	Every household in Country X earned a lower income in 2015 as the Lorenz curve moved further away from the 45-degree line.
+(2)	The total household income in Country X increased in 2015 as the total area between the 45-degree line and the Lorenz curve increased in 2015.
+(3)	From the above diagram, we find that the number of households in Country X increased in 2015.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+
+Question code: B3C18Q024
+The following diagram shows the Lorenz curves of Country Y.
+
+Which of the following are INCORRECT?
+(1)	Income distribution in Country Y became more unequal in 2015.
+(2)	Rich people in Country Y were not as happy in 2015 because they earned less than they did before.
+(3)	Country Y's Gini coefficient decreased in 2015.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: A
+
+Question code: B3C18Q025
+When the Gini coefficient increases,
+A.	the Lorenz curve is closer to the 45-degree line.
+B.	the problem of income inequality becomes more serious.
+C.	income distribution is more unequal than other countries.
+D.	the cost of living increases.
+
+Answer: B
+
+
+Question code: B3C18Q026
+The Gini coefficient
+A.	reflects an economy's income level.
+B.	reflects an economy's cost of living.
+C.	must increase over time.
+D.	must lie between 0 and 1.
+
+Answer: D
+
+Question code: B3C18Q027
+When the problem of income inequality worsens,
+A.	the Gini coefficient increases.
+B.	the Lorenz curve is closer to the 45-degree line.
+C.	the low-income group becomes worse off.
+D.	the high-income group becomes better off.
+
+Answer: A
+
+Question code: B3C18Q028
+Which of the following are correct?
+(1)	An increase in the Gini coefficient indicates that income distribution becomes more unequal.
+(2)	When the Gini coefficient is equal to 0, the economy has achieved absolute income equality.
+(3)	When the Gini coefficient increases, the Lorenz curve is closer to the 45-degree line.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B3C18Q029
+The Gini coefficient increased from 0.1 to 0.2. This means that
+A.	the income of high-income groups doubled.
+B.	the income of low-income groups was 0.2 times that of the high-income groups.
+C.	income distribution was more even.
+D.	the Lorenz curve was further away from the 45-degree line.
+
+Answer: D
+
+Question code: B3C18Q030
+Country X's Gini coefficient is higher than Country Y's. This means that
+A.	Country Y's economy is less developed.
+B.	relatively more people belong to high-income groups in Country X.
+C.	income distribution is more even in Country Y.
+D.	Country X has a higher living standard.
+
+Answer: C
+
+Question code: B3C18Q031
+Which of the following statements about the Gini coefficient is correct?
+A.	When the population decreases, the Gini coefficient will also decrease.
+B.	An increase in the Gini coefficient implies an increase in income inequality.
+C.	A decrease in the Gini coefficient implies an improvement in people's living conditions.
+D.	If the Lorenz curve is closer to the 45-degree line, the Gini coefficient will increase.
+
+Answer: B
+
+
+Question code: B3C18Q032
+Study the following table.
+
+Country	Gini coefficient	
+A	0.342	
+B	0.482	
+
+Which of the following is INCORRECT?
+A.	Country B's Gini coefficient is higher than Country A's.
+B.	Country B's people earn a lower income than Country A's.
+C.	Country A's income distribution is more even.
+D.	Country A's Lorenz curve is closer to the 45-degree line.
+
+Answer: B
+
+Question code: B3C18Q033
+Year	Gini coefficient	
+1	0.5	
+2	0.4	
+
+From the above data about Country A, which of the following is true?
+A.	Country A does not have a problem of income inequality.
+B.	Country A's income distribution is more even in Year 2.
+C.	Country A's Lorenz curve is a 45-degree line in Year 1.
+D.	Country A's Lorenz curve is further away from the 45-degree line in Year 2.
+
+Answer: B
+
+
+Question code: B3C18Q034
+The following table shows Hong Kong's Gini coefficient:
+
+Year	Gini coefficient	
+1981	0.451	
+1986	0.453	
+1991	0.476	
+1996	0.518	
+2001	0.525	
+2006	0.533	
+2011	0.537	
+Source: Census and Statistics Department
+
+Which of the following conclusions about income distribution in Hong Kong can be drawn from the data?
+A.	More people have fallen into the low-income group.
+B.	The income of the rich increased over the period.
+C.	The standard of living of the low-income group decreased over the period.
+D.	The degree of income inequality increased over the period.
+
+Answer: D
+
+
+Question code: B3C18Q035
+The following table shows the median monthly domestic household income and Gini coefficient in Country B:
+
+Year	Median monthly domestic household income ($)	Gini coefficient	
+2005	10,000	0.476	
+2010	17,500	0.520	
+2015	18,800	0.530	
+
+According to the above table, which of the following conclusions is correct?
+A.	The degree of income inequality in Country B was low in 2005.
+B.	The higher the median monthly domestic household income, the higher the Gini coefficient.
+C.	Economic growth only benefited the rich, so the income gap has widened.
+D.	None of the above
+
+Answer: D
+
+Question code: B3C18Q036
+Refer to the following diagrams.
+
+Which of the following can best explain the difference between the Lorenz curves?
+A.	More children receive an education in Country B.
+B.	Country A is a financial centre, while Country B is a fishing village.
+C.	There is less sex discrimination in Country A.
+D.	Country A is a planned economy, while Country B is a market economy.
+
+Answer: C
+
+
+Question code: B3C18Q037
+Refer to the following diagram.
+
+Which of the following can explain the above change in income distribution?
+A.	Discrimination against people born after 1990 has become more common.
+B.	The government has provided more subsidies to the poor.
+C.	Free tuition has been provided for children from poor families.
+D.	The competition law has limited the monopoly power of large firms.
+
+Answer: A
+
+
+Question code: B3C18Q038
+Refer to the diagram below.
+
+Which of the following statements is correct?
+A.	When the government regulates the working environment of firms, Area A increases.
+B.	When discrimination against women is more common in the labour market, 
+Area B increases.
+C.	When Area A increases, the Gini coefficient increases.
+D.	When Area B is equal to Area A, there is absolute income inequality.
+
+Answer: C
+
+Question code: B3C18Q039
+Which of the following may cause income inequality?
+(1)	Differences in age
+(2)	Differences in academic qualifications
+(3)	Differences in working experience
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B3C18Q040
+Helen and Steven are both accountants. However, Steven earns a higher salary. Which of the following are possible reasons?
+(1)	Steven has professional qualifications but Helen does not.
+(2)	Steven has better communication skills.
+(3)	Helen works for longer hours.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C18Q041
+Which of the following is NOT a possible reason for income differences among workers in a particular occupation?
+A.	Office politics is common in this occupation.
+B.	The occupation requires professional skills.
+C.	The job has day and night shifts.
+D.	The labour union has a strong influence in this occupation.
+
+Answer: D
+
+Question code: B3C18Q042
+Hong Kong's Gini coefficient is one of the highest in the world. Which of the following is most likely a reason?
+A.	Implementation of the Sex Discrimination Ordinance
+B.	High-income groups have more capital than low-income groups.
+C.	Twelve-year free education is offered to every child.
+D.	Hong Kong has an efficient transportation network.
+
+Answer: B
+
+
+Question code: B3C18Q043
+Country A's Gini coefficient is higher than Country B's. Which of the following can explain this?
+A.	Country A is a planned economy, while Country B is a market economy.
+B.	Most industries in Country B are dominated by a monopolist. However, most industries in Country A are perfectly competitive.
+C.	All children in Country B have equal educational opportunities, but not those in Country A.
+D.	Country A has established an organisation to reduce discrimination.
+
+Answer: C
+
+Question code: B3C18Q044
+Which of the following is NOT a possible source of income inequality in Hong Kong?
+A.	Certain economic policies in Hong Kong are affected by political power.
+B.	The qualities of workers are very different in Hong Kong.
+C.	The ownership of land, capital and business is very unequal in Hong Kong.
+D.	Sex discrimination in Hong Kong has becomes less serious since the establishment of the Equal Opportunities Commission.
+
+Answer: D
+
+Question code: B3C18Q045
+Education may lead to more unequal income distribution
+A.	if every student is educated under the same educational system.
+B.	as providing it will generate a positive externality.
+C.	as it may increase differences in the quality of workers.
+D.	as it can raise productivity.
+
+Answer: C
+
+Question code: B3C18Q046
+Which of the following is a possible source of income inequality in Hong Kong?
+A.	Entry barriers exist in some industries in Hong Kong.
+B.	The government provides Comprehensive Social Security Assistance to low-income earners.
+C.	The government provides public housing to low-income earners.
+D.	The government established the Employees Retraining Board.
+
+Answer: A
+
+Question code: B3C18Q047
+Income inequality can arise from
+(1)	differences in human capital.
+(2)	differences in household size.
+(3)	political power.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B3C18Q048
+Among 141 countries/regions cited by The World Factbook, Hong Kong's Gini coefficient ranked (by descending order) 12th in 2015. Which of the following can explain this?
+A.	Hong Kong is an international financial centre.
+B.	Hong Kong has introduced minimum wage laws.
+C.	Hong Kong has a closer economic relationship with the mainland.
+D.	The Hong Kong Government heavily subsidises education.
+
+Answer: A
+
+Question code: B3C18Q049
+Which of the following is/are the possible source(s) of income inequality?
+A.	Labour quality differences
+B.	Working condition differences
+C.	Political power differences
+D.	All of the above
+
+Answer: D
+
+
+Question code: B3C18Q050
+The following table shows Country A's Gini coefficient.
+
+Year	Gini coefficient	
+1	0.45	
+2	0.40	
+
+Which of the following can explain the change in the Gini coefficient?
+A.	More social enterprises have been established.
+B.	The government lowers income taxes.
+C.	More entry barriers are imposed in some industries.
+D.	High-income groups have more capital.
+
+Answer: A
+
+Question code: B3C18Q051
+Which of the following will most likely cause a decrease in the Gini coefficient?
+A.	Increase in national income.
+B.	New immigrants are being discriminated against in the labour market.
+C.	The government provides a living subsidy to low-income elderly.
+D.	The government asks influential business owners for their opinion before starting the legislation process.
+
+Answer: C
+
+Question code: B3C18Q052
+Which of the following can be the effect of a minimum wage law?
+(1)	Lower Gini coefficient
+(2)	Excess demand for labour
+(3)	Higher unemployment rate
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B3C18Q053
+Which of the following is a possible cause for a decrease in the Gini coefficient?
+A.	More firms possess monopoly power.
+B.	The population is ageing.
+C.	The government provides more retraining programmes to the low-income group.
+D.	None of the above
+
+Answer: C
+
+Question code: B3C18Q054
+Which of the following is NOT a possible effect of introducing an effective minimum wage law?
+A.	There is a deadweight loss in the labour market.
+B.	Income inequality may become less serious.
+C.	There is an excess supply of workers.
+D.	Workers have better job security.
+
+Answer: D
+
+Question code: B3C18Q055
+Investment in human capital can
+(1)	reduce income inequality.
+(2)	generate positive externality.
+(3)	increase labour productivity.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B3C18Q056
+Which of the following solutions to the problem of income inequality aim at equalising income?
+(1)	Providing Comprehensive Social Security Assistance
+(2)	Providing public housing
+(3)	The introduction of a minimum wage
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B3C18Q057
+Which of the following policies aim at equalising opportunities?
+(1)	More public health care services provided by the Hong Kong government
+(2)	The establishment of the Commission for Racial Equality
+(3)	The removal of entry barriers in some markets
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+Question code: B3C18Q058
+Suppose the government aims to reduce the degree of income inequality by equalising opportunities. Which of the following policies may be adopted?
+A.	Allowing more people from the mainland to move to Hong Kong
+B.	Encouraging the establishment of social enterprises
+C.	Providing more subsidised housing
+D.	Reforming the educational system to commodify (商品化) education
+
+Answer: B
+
+
+Question code: B3C18Q059
+When there is a deadweight loss,
+A.	income inequality will become more serious.
+B.	efficiency is not attained.
+C.	government intervention must exist.
+D.	the marginal social benefit must be greater than the marginal social cost.
+
+Answer: B
+
+Question code: B3C18Q060 (new)
+The following are Country H's Lorenz curves before and after tax.
+
+Which of the following is a correct description of Country H?
+A.	Income distribution becomes more uneven after tax.
+B.	The Gini coefficient decreases after tax.
+C.	The tax system is proportional.
+D.	Taxpayers with higher incomes pay lower tax rates.
+
+Answer: B
+
+
+Question code: B3C18Q061 (new)
+* The following diagram shows the Lorenz curves of City T.
+
+Which of the following is/are correct about City T?
+A.	Income distribution becomes more uneven after tax and social transfers.
+B.	The low-income group pays higher tax rates than the high-income group.
+C.	The rich receive more social transfers than the poor.
+D.	All of the above
+
+Answer: A
+Explanation
+Options B and C: We cannot draw these conclusions based on the information, although both options are possible reasons.
+
+Question code: B3C18Q062 (new)
+The following diagram shows the Lorenz curves of a country.
+
+Which of the following correctly describe the country?
+A.	The median household income increases after tax and social transfers.
+B.	The tax system is most likely regressive.
+C.	The taxes and social transfers reduce income inequality.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C18Q063 (new)
+The following are the Lorenz curves of Country X and Country Y.
+
+Which of the following is a possible reason to explain the difference between 
+Country X and Country Y's Lorenz curves?
+A.	Workers in Country X are generally more skilled than workers in Country Y.
+B.	Discrimination in the labour market is more serious in Country Y than in 
+Country X.
+C.	Country X's national income is lower than Country Y's.
+D.	The regulations on the stock market in Country X are stricter than those in Country Y.
+
+Answer: A
+
+
+Question code: B3C18Q064 (new)
+The following are the post-tax post-transfer Lorenz curves of a country in 2012 and 2016.
+
+Which of the following can explain the above change in the Lorenz curve?
+(1)	The country has adopted a minimum wage.
+(2)	More highly-skilled workers have migrated to the country.
+(3)	The number of social enterprises increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C18Q065 (new)
+The following diagram shows a change in the Lorenz curve from L1 to L2.
+
+Which of the following policies will most likely lead to the above change?
+A.	The government provides a subsidy for continuous learning.
+B.	The government builds highways to connect rural and urban areas.
+C.	Investors have to pay a capital gains tax (資本增值稅).
+D.	Every citizen has to pay $1,000 to the government every year.
+
+Answer: D
+
+Question code: B3C18Q066 (new)
+The following shows the Lorenz curves of two countries.
+
+According to the Lorenz curves,
+(1)	Country X's Gini coefficient is lower than Country Y.
+(2)	Country X's people enjoy a higher standard of living than Country Y.
+(3)	Country X has more even income distribution than Country Y.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B3C18Q067 (new)
+Country H's Lorenz curves in different years are shown as follows:
+
+From the above diagrams, we can conclude that from Year 1 to Year 2,
+A.	Country H's income distribution became more uneven than its neighbouring region.
+B.	low-income families became worse off.
+C.	the Gini coefficient increased.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C18Q068 (new)
+The following table shows the Gini coefficient of different countries.
+Country	Gini coefficient	
+H	0.59	
+B	0.47	
+Z	0.51	
+C	0.36	
+Based on the above information, which of the following statements is/are correct?
+A.	Income distribution in Country H is the most uneven.
+B.	Country C's national income is the highest.
+C.	The living standards of households in Country B are higher than in Country Z.
+D.	All of the above
+
+Answer: A
+
+
+Question code: B3C18Q069 (new)
+Refer to the following information about Country A.
+Year	Gini coefficient	
+1	0.3	
+2	0.5	
+Which of the following statements are correct?
+(1)	Everyone earns a higher income in Year 2.
+(2)	The Lorenz curve is further away from the 45-degree line in Year 2.
+(3)	Income distribution became more uneven in Year 2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B3C18Q070 (new)
+The Gini coefficient of a country changes from 0.391 to 0.433 between 2012 and 2016. This implies that
+A.	the per capita national income of the country has increased.
+B.	the poor earned less and the rich earned more.
+C.	the country has become more unfair.
+D.	the income gap in the country has increased.
+
+Answer: D
+
+Question code: B3C18Q071 (new)
+The Gini coefficients of Country X and Country Y are the same. This implies that
+A.	the shapes of the Lorenz curves of Country X and Country Y are the same.
+B.	both countries have the same median household income.
+C.	both countries have the same tax system.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B3C18Q072 (new)
+* From 2011 to 2016, the Gini coefficients in different industries in Country L have remained unchanged. However, the overall Gini coefficient in Country L has increased. Which of the following is most likely the reason?
+A.	The incomes for high-income groups have increased at a lower rate than that of low income groups.
+B.	The income gaps among people with different educational levels have increased.
+C.	The income gaps across different industries have enlarged.
+D.	All of the above
+
+Answer: C
+Explanation
+Option B is not the answer because when income gaps among people with different educational levels have increased, the Gini coefficient in individual industries would have increased.
+
+Question code: B3C18Q073 (new)
+Country S has recently started to distribute a fixed amount of money to every citizen every month. This policy may
+A.	relieve income inequality by equalising opportunities.
+B.	relieve income inequality by equalising income.
+C.	stimulate the economy by encouraging citizens to work.
+D.	enhance market competition in the country.
+
+Answer: B
+
+Question code: B3C18Q074 (new)
+Suppose the post-tax post-social transfer Gini coefficient is smaller than the post-tax Gini coefficient. Which of the following is correct?
+A.	The government should provide more cash transfers.
+B.	The problem of income inequality is lessened by government transfers.
+C.	The problem of income inequality is less severe when compared with other countries.
+D.	The government provided more subsidies to the poor this year.
+
+Answer: B
+
+Question code: B3C18Q075 (new)
+* In Country A, the post-tax Gini coefficient is smaller than the pre-tax Gini coefficient, while the post-tax post-social transfer Gini coefficient is even smaller. Which of the following is correct?
+(1)	The post-tax Lorenz curve is closer to the 45-degree line than the pre-tax Lorenz curve.
+(2)	Low income households enjoy relatively more transfers than high income households.
+(3)	The tax system is likely to be progressive.
+(4)	Government spending increased.
+A.	(1) and (3) only
+B.	(2) and (4) only
+C.	(1), (2) and (3) only
+D.	(2), (3) and (4) only
+
+Answer: C
+Explanation
+The smaller the Gini coefficient, the more even the income distribution.
+Given that post-tax post-social transfer Gini coefficient < post-tax Gini coefficient < pre-tax Gini coefficient.
+This implies that the taxes and transfers in Country A can help reduce income inequality, i.e., Options (2) and (3) are correct.
+
+Question code: B3C18Q076 (new)
+Compared with last year, Country A's pre-tax Gini coefficient remains unchanged while its post-tax Gini coefficient has increased. Which of the following is most likely the cause?
+A.	Country A has introduced a goods and services tax this year.
+B.	Country A's tax system has improved economic efficiency.
+C.	Poor people in Country A enjoy less in transfer payments from the government than last year.
+D.	Country A's government has raised the minimum wage.
+
+Answer: A
+
+Question code: B3C18Q077 (new)
+Which of the following measures can lower the post-tax post-social transfer Gini coefficient?
+(1)	Removing general sales taxes
+(2)	Providing academic grants to university students from poor families
+(3)	Providing allowances to low-income working families
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+Both Option (2) and Option (3) will raise the post-social transfer income of the low-income group.
+
+Question code: B3C18Q078 (new)
+* Which of the following can lower the post-tax post-social transfer Gini coefficient?
+A.	Reducing the income tax rate for every taxpayer
+B.	Providing subsidies to children from low-income families for internet services
+C.	Reducing the monthly income limit for cash allowances to low-income families
+D.	Lowering the standard tax rate on the salaries tax
+
+Answer: B
+Explanation
+Option B is the answer. The subsidy raises the post-social transfer income of low-income families.
+Option C: Fewer low-income families are eligible for cash allowances.
+
+Question code: B3C18Q079 (new)
+Which of the following will increase Hong Kong's income inequality?
+A.	Promoting volunteer services to the needy
+B.	Raising the allowance for salaries tax
+C.	Raising the standard tax rate for the salaries tax
+D.	Replacing workers in low value-added production processes with machines
+
+Answer: D
+
+Short Questions
+
+Question code: B3C18Q301
+Tom, a citizen of Country X, says, 'In my country, income is always equally distributed. Therefore, equity has been attained in my country.'
+Mary, a citizen of Country Y, says, 'I disagree. In my country, income is distributed according to one's contribution to society. Although this results in unequal income distribution, equity has been attained.'
+Explain why both Tom and Mary can be correct.	(4 marks)
+
+
+Answers:
+(	Equity is a subjective concept that involves normative judgements. There is no single standard of equity.	(2 marks)
+(	Tom and Mary use different standards of fairness. Tom regards fairness as equality in income distribution, while Mary regards fairness as income distribution according to one's contribution to society. Both of them can be correct if their countries' income distributions meet their standards of equity.	(2 marks)
+
+Question code: B3C18Q302
+Determine whether each of the following statements is true or false. Explain.
+(a)	Equity in income distribution means equal distribution of income.	(2 marks)
+(b)	If there is no market failure, the invisible hand will distribute income fairly to consumers and producers.	(2 marks)
+
+Answers:
+(a)	(	False.	(1 mark)
+	(	Equality in income distribution can be one of the criteria of equity in income distribution, but it is not the same as equity in income distribution.	(1 mark)
+(b)	(	False.	(1 mark)
+	(	The invisible hand distributes income but it is not concerned with the fairness of the distribution.	(1 mark)
+
+Question code: B3C18Q303
+Refer to the following diagram.
+
+Did the problem of income inequality improve or worsen? Why?
+State TWO possible reasons for such a change.	(4 marks)
+
+Answers:
+It worsened	(1 mark)
+because the Lorenz curve in Year 2 was further away from the 45-degree line.
+	(1 mark)
+Possible reasons:
+(	Human capital among workers has become more diverse.
+(	The working environment has become more diverse.
+(	Discrimination in the labour market has become more common.
+(	Capital distribution has become more unequal.
+(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B3C18Q304
+Explain how the Gini coefficient's value is related to income distribution. Illustrate an increase in the Gini coefficient using the following diagram.	(4 marks)
+
+
+Answers:
+The Gini coefficient increases with income inequality.	(2 marks)
+	(2 marks)
+
+
+Question code: B3C18Q305
+Recently, research about income disparity has been published. The following diagram is an extract from the research.
+
+(a)	Which country has the largest income inequality? Explain your answer.	(2 marks)
+(b)	The government of Country Y provides more education to people living in poor rural areas. Explain whether Country Y's curve will move towards Country X's or Country Z's curve. 	(4 marks)
+
+Answers:
+(a)	Country Z,	(1 mark)
+	because its Lorenz curve is furthest away from the 45-degree line.	(1 mark)
+(b)	(	When people in poor rural areas receive more education, their income tends to increase. As a result, income inequality will be reduced.	(2 marks)
+(	As income distribution becomes more even, the Lorenz curve will move towards the 45-degree line. Therefore, the Lorenz curve of Country Y will move towards Country X's curve.	(2 marks)
+
+Question code: B3C18Q306
+Country C's Gini coefficient is 0.131 while Country D's is 0.213.
+(a)	In which country is the income gap between the rich and the poor wider? Why?
+	(2 marks)
+(b)	List TWO possible reasons for their difference in income distribution.	(2 marks)
+
+Answers:
+(a)	Country D	(1 mark)
+	because its Gini coefficient is higher.	(1 mark)
+(b)	Possible reasons:
+	(	Greater differences in the educational level among workers in Country D
+	(	Discrimination is more serious in Country D's labour market.
+	(	Ownership of land, capital and business is more unequal in Country D.
+	(	Many markets in Country D are monopolised by one firm.
+	(Any TWO of the above or other reasonable answers, 1 mark × 2 = 2 marks)
+
+Question code: B3C18Q307
+China's Gini coefficient decreased from 0.473 in 2013 to 0.469 in 2014.
+(a)	What can this tell you about the change in income distribution in China?	(2 marks)
+(b)	State TWO possible sources of income inequality in China.	(4 marks)
+Answers:
+(a)	Based on China's Gini coefficient, income distribution has become more even.
+	(2 marks)
+(b)	The following are possible sources of income inequality in China:
+	(	Labour quality differences
+	(	Differences in human capital
+	(	Working condition differences
+	(	Geographical differences
+	(	Age differences
+	(	Sex differences
+	(	Discrimination in the labour market
+	(	Unequal ownership of land, capital and business
+	(	Monopoly power and political power
+(Any TWO of the above or other reasonable answers with brief explanation. 
+2 marks × 2 = 4 marks)
+
+Question code: B3C18Q308
+The following table shows sector-specific Gini coefficients of Country A.
+
+Industry	Gini coefficient	
+Insurance	0.485	
+Transportation	0.310	
+
+In which sector is income distribution more even among workers? Provide TWO reasons to explain the difference in income distribution.	(5 marks)
+
+Answers:
+Transportation industry.	(1 mark)
+Here are the reasons:
+(	Human capital and labour quality are more homogeneous among workers in the transportation industry.	(2 marks)
+(	Transportation workers are often paid by time rates, which are more uniform. Workers in the insurance industry usually get a commission or a bonus, which may vary among different workers.	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B3C18Q309
+Some politicians in Hong Kong are in favour of a universal pension (全民退休金). Under such a scheme, all retired people can receive a fixed pension per month.
+Explain why this policy may have disincentive effects.	(4 marks)
+
+Answers:
+The government may have to increase income taxes to finance the universal pension. This may reduce workers' incentive to work and firms' incentive to invest.	(2 marks)
+The pension may reduce people's incentive to save money for retirement.	(2 marks)
+(Accept other reasonable answers with explanation.)
+
+Question code: B3C18Q310
+A government introduces an allowance for low-income working families with the following objectives:
+(1)	Encourages members of low-income families to remain employed.
+(2)	Offers support for children from low-income families so as to promote upward mobility.
+An additional allowance will be provided for each child in low-income working families.
+(a)	Do you think the allowance can achieve the above objectives? Explain.	(4 marks)
+(b)	Discuss the effect of the allowance on the country's Gini coefficient.	(2 marks)
+
+Answers:
+(a)	Objective 1: Yes. The allowance raises the cost of being unemployed. Therefore, more workers from low-income families will remain employed.	(2 marks)
+	Objective 2: Yes. An additional allowance will be provided for each child. Hence, children from low-income families may have more educational opportunities.
+	(2 marks)
+	OR
+	Objective 2: No. The extra income may be spent on daily necessities rather than education. The children may not have more opportunities to move upwards.
+	(2 marks)
+	(Accept other reasonable answers.)
+(b)	The allowance equalises income distribution.	(1 mark)
+	Therefore, the Gini coefficient will decrease.	(1 mark)
+
+Question code: B3C18Q311
+Are the following policies aimed at equalising income or equalising opportunities?
+(a)	Imposing taxes on luxury cars	(1 mark)
+(b)	Providing retraining programmes to unemployed workers	(1 mark)
+(c)	Introducing the minimum wage law	(1 mark)
+(d)	Removing entry barriers in certain industries.	(1 mark)
+
+Answers:
+(a)	Equalising income	(1 mark)
+(b)	Equalising opportunities	(1 mark)
+(c)	Equalising income	(1 mark)
+(d)	Equalising opportunities	(1 mark)
+
+Question code: B3C18Q312
+* 'To solve the problem of income inequality, all public utilities should be owned solely by the government so that all public services are provided at low prices.' Explain why this argument may be INCORRECT.	(4 marks)
+
+Answers:
+(	To solve the problem of income inequality, the government may either equalise income or opportunities. The provision of public services by the government can help equalise income as this is a kind of transfer. However, this may not help solve the problem of income inequality from the point of view of equalising opportunities.	(2 marks)
+(	On the other hand, if the government owns all public utilities, some government officials may embezzle the assets of public utilities. This may just create a new source of income inequality. Thus, public ownership of all public utilities may fail to equalise income.	(2 marks)
+
+Question code: B3C18Q313
+Ming says, 'For the problem of income inequality, it is always better for the government to do nothing.' Explain why Ming's argument is INCORRECT.
+	(3 marks)
+
+Answers:
+Although efficiency can be attained in a perfectly competitive market without government intervention, the market itself will not lead to income equality. Thus, the problem may remain unsolved if the government does nothing. When the degree of income inequality is high, it may be worthwhile for the government to do something. It may implement policies aimed at equalising income (e.g., introduction of a minimum wage, taxes and transfers, etc.) or equalising opportunities (e.g., providing education and training, etc.) to reduce the degree of income inequality.	(3 marks)
+
+Question code: B3C18Q314 (new)
+Between 2011 and 2016, the Gini coefficient of Country Q changed from 0.391 to 0.421.
+(a)	How did the income distribution of Country Q change between 2011 and 2016?
+	(1 mark)
+(b)	Explain how the following policies would affect the Gini coefficient in 
+Country Q.
+	(i)	The government introduces a fixed amount of tax for every citizen.	(3 marks)
+	(ii)	The government increases the subsidy on university tuition fees for poor students.	(3 marks)
+
+Answers:
+(a)	More uneven / less even	(1 mark)
+(b)	(i)	As the tax is fixed, compared to the rich, a larger proportion of the poor's income is taxed. The income gap would increase.	(2 marks)
+		As a result, the Gini coefficient would increase.	(1 mark)
+	(ii)	This policy increases the opportunities for the poor families to raise their income in the future. This can reduce income inequality by equalising opportunities.	(2 marks)
+		Hence, the Gini coefficient would decrease.	(1 mark)
+
+Question code: B3C18Q315 (new)
+* The following table shows the Gini coefficients in different areas of Country K. 
+	Gini coefficient	
+Rural area	0.357	
+Urban area	0.411	
+Whole country	0.434	
+(a)	Explain why the Gini coefficients in both rural and urban areas are lower than that across the whole country.	(2 marks)
+(b)	Suggest TWO possible reasons to explain why the Gini coefficient in urban areas is higher than that in rural areas.	(4 marks)
+
+Answers:
+(a)	There is a large income gap between rural and urban areas.	(2 marks)
+(b)	(	A larger portion of skilled workers are in urban areas than in rural areas. Income distribution among skilled labour is more uneven.
+	(	People in urban areas may have more income from investment. The difference between investment incomes is usually larger.
+	(	A large portion of income in rural areas is generated from agriculture. As the price difference between agricultural products is relatively small, the difference between rural people's incomes is smaller.
+	(Any TWO of the above or other reasonable answer. 2 marks × 2 = 4 marks)
+
+Question code: B3C18Q316 (new)
+* The following shows the Gini coefficients in Hong Kong in 2011.
+	Gini coefficient based on original household income	
+All domestic households	0.537	
+Economically active households
+(從事經濟活動的家庭住户)	0.489	
+Source: Census and Statistics Department
+(a)	Explain the difference between income distribution among all domestic households and among economically active households.	(3 marks)
+(b)	In 2011, the elderly (aged 65 or above) accounted for 46.2% of the population of economically inactive households.
+	(i)	Explain why the elderly accounted for a large portion of the population of economically inactive households.	(1 mark)
+	(ii)	In what way would you predict the Gini coefficient among all households to change given that the ageing problem will become more severe? Explain with reference to the above data and your answer in (a).	(3 marks)
+
+Answers:
+(a)	Income distribution among all domestic households is more uneven than that among economically active households.	(1 mark)
+	Economically inactive households usually have lower incomes than economically active households. As they are included in all domestic households, the income gap among all domestic households is therefore larger.	(2 marks)
+(b)	(i)	Most elderly people have retired.	(1 mark)
+	(ii)	As the ageing problem becomes more severe, the portion of economically inactive households will increase.	(1 mark)
+		As a result, the income gap among all domestic households will be larger and the Gini coefficient will increase.	(2 marks)
+
+
+Question code: B3C18Q317 (new)
+The following table shows data for Singapore and India.
+
+	Singapore	India	
+Gini coefficient	0.464	0.336	
+Distribution of the labour force (%)	
+Agriculture	1.3	49.0	
+Manufacturing	14.8	20.0	
+Services	83.9	31.0	
+
+With reference to the above table, which country has more even income distribution? Briefly explain ONE possible reason for such a difference in income distribution.
+	(3 marks)
+
+Answers:
+India	(1 mark)
+India relies more on agriculture. The human capital of workers in this industry is more or less the same, which may result in less diversity of income across workers.
+	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B3C18Q318 (new)
+Several food banks have been established to provide the poor with low-priced food.
+Explain the effect on the post-social transfer Gini coefficient.	(3 marks)
+
+Answers:
+The post-social transfer Gini coefficient decreases because	(1 mark)
+the low-income group has more post-social transfer income, while the post-social transfer income of the high-income group remains unchanged.	(2 marks)
+
+Question code: B3C18Q319 (new)
+China's Gini coefficient decreased from 0.473 in 2013 to 0.462 in 2015.
+(a)	Was China's income distribution become more equal or unequal in this period?
+	(1 mark)
+(b)	The Chinese government requires state-owned enterprises to transfer a greater percentage of their profits to the state government. The transferred profits can be used to provide a social safety net for low-income households.
+	Explain how the policy would affect China's post-tax post-social transfer Gini coefficient.	(3 marks)
+
+Answers:
+(a)	More equal	(1 mark)
+(b)	This will lower the post-tax post-social transfer Gini coefficient because	(1 mark)
+	the social safety net can raise the post-social transfer income of low-income households.	(2 marks)
+
+Question code: B3C18Q320 (new)
+The government has launched a programme to enhance the workplace skills of youths through training and internships.
+(a)	Explain how the programme can improve equity in society.	(2 marks)
+(b)	Another policy to assist youths is providing them with cash assistance. Briefly discuss ONE disadvantage of providing cash assistance as opposed to the training and internship programme.	(2 marks)
+
+Answers:
+(a)	The programme can improve equity by equalising opportunities. It allows youths to increase their future income by improving their productivity.	(2 marks)
+(b)	The cash assistance may result in a disincentive to work. Some youths may reduce their working hours or even quit their jobs.	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B3C18Q321 (new)
+Country C is experiencing an economic downturn and the unemployment rate is high. Some legislators suggest two ways to help the unemployed:
+(1)	Increase unemployment benefits
+(2)	Increase the number of retraining programmes
+Evaluate the two proposals in terms of their effects on income inequality.	(4 marks)
+
+Answers:
+Proposal 1:
+This can increase the income of the unemployed. This can relieve income inequality by reducing the income gap between the unemployed and the employed.	(2 marks)
+(Accept other reasonable answers.)
+Proposal 2:
+This can help improve the skills of the unemployed and hence improve their productivity and income-earning power. This can relieve income inequality by equalising opportunities.	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B3C18Q322 (new)
+Suppose the government has adopted the following policies to help people with disabilities.
+Policy 1: Providing subsidies to firms that employ people with disabilities
+Policy 2: Providing disability living allowances
+Explain how both policies can reduce income inequality.	(4 marks)
+
+Answers:
+Policy 1: People with disabilities are less likely to be employed. Subsidies may increase their chance of being employed. The policy equalises employment opportunities and reduces income inequality.	(2 marks)
+Policy 2: More transfer payments to people with disabilities will improve their disposable income. The policy helps equalise income and reduce income inequality.
+	(2 marks)
+
+Question code: B3C18Q323 (new)
+The government implemented the Low-income Working Family Allowance (LIFA) Scheme in 2016. Working families which meet the monthly income and asset limits and the minimum working hours are eligible for the allowances.
+(a)	Explain how the scheme can help achieve more even income distribution in Hong Kong.	(3 marks)
+(b)	Discuss ONE undesirable effect that the scheme may have.	(2 marks)
+
+Answers:
+(a)	The scheme increases the income of the low-income group while the income of the high-income group remains unchanged.	(2 marks)
+	This can make income distribution more even by equalising income.	(1 mark)
+	(Accept other reasonable answers.)
+(b)	The scheme may discourage workers from accepting a job with a higher income because they may want to be eligible for the scheme.	(2 marks)
+	(Accept other reasonable answers.)
+
+
+
+Structured Questions
+
+Question code: B3C18Q501
+Recently, research about Country X's income disparity has been published. The following diagram is an extract from the research.
+
+(a)	Which year has the greatest income disparity, based on the diagram above? Why?	(2 marks)
+(b)	Which year has the lowest Gini coefficient? Explain.	(3 marks)
+(c)	After publication of the research, a government official of Country X held a press conference and said, 'To solve the problem of income inequality, a minimum wage law will be introduced.' Do you think the law is effective in achieving the objective? Explain.	(3 marks)
+(d)	Suggest TWO policies aimed at equalising opportunities that can help solve Country X's income inequality problem.	(2 marks)
+
+Answers:
+(a)	(	Year 3,	(1 mark)
+(	because Year 3's Lorenz curve is the furthest away from the 45-degree line.
+	(1 mark)
+
+(b)	(	Year 1's Lorenz curve is closest to the 45-degree line.	(1 mark)
+(	The closer the Lorenz curve to the 45-degree line, the lower the Gini coefficient.	(1 mark)
+(	Hence, Year 1's Gini coefficient is the lowest.	(1 mark)
+
+(c)	(	No. The law makes some low-income workers unemployed.	(3 marks)
+	OR
+	(	Yes. The law increases some low-income workers' income.	(3 marks)
+	(Accept other reasonable answers.)
+
+(d)	(	Providing more education and training
+(	Enhancing market competition
+(	Encouraging the establishment of social enterprises
+(Accept any other reasonable answers. Teachers will mark the first TWO points only. 1 mark × 2 = 2 marks)
+
+Question code: B3C18Q502
+To reduce income inequality, the Hong Kong Government pays low-income families living in public housing one month's rent. Tenants whose income exceeds the limit are excluded from this measure.
+(a)	Briefly explain TWO possible sources of income inequality in Hong Kong.
+	(4 marks)
+(b)	Do you think the government should pay the rent for low-income families to reduce income inequality? Explain.	(4 marks)
+(c)	Give ONE other example of policies aimed at equalising income. Also state ONE policy aimed at equalising opportunities.	(2 marks)
+
+Answers:
+(a)	(	Labour quality differences
+(	Differences in human capital
+(	Working condition differences
+(	Discrimination in the labour market
+(	Unequal ownership of land, capital and business
+(	Monopoly power and political power
+(Any TWO of the above or other reasonable answers with brief explanation. 
+2 marks × 2 = 4 marks)
+
+(b)	Yes. 
+	The measure can raise the income (net of the rent) of the poor.	(2 marks)
+	As the measure only involves government departments, the cost of carrying out this measure is low.	(2 marks)
+	OR:
+	No.
+	The measure is a short-term policy only. The effect may be limited.	(2 marks)
+	The measure may reduce workers' incentive to increase their income.	(2 marks)
+	(Accept other reasonable answers.)
+
+
+(c)	Examples of policies aimed at equalising income:
+(	Taxes
+(	Minimum wage law
+(Accept other reasonable examples. 1 mark)
+
+Examples of policies aimed at equalising opportunities:
+(	Education and training
+(	Enhancing market competition
+(	Encouraging the establishment of social enterprises
+(Accept other reasonable examples. 1 mark)
+
+Question code: B3C18Q503
+Determine whether each of the following policies can help improve efficiency or solve the problems of income inequality, and briefly explain why.
+(a)	Provide subsidies for the replacement of old diesel commercial vehicles (which emit much more pollutants than newer models)	(4 marks)
+(b)	Provide a subsidy for internet access charges to families in need who have children studying in primary and secondary schools	(4 marks)
+(c)	Provide one more month of the Old Age Allowance	(3 marks)
+(d)	Reduce the salaries tax for people who earn $200,000 a year	(4 marks)
+
+Answers:
+(a)	(	The policy aims to improve efficiency. Motor vehicles emit pollutants and damage the environment. Thus, there is a divergence between private and social costs. The subsidies will help lower the emission of pollutants and so improve efficiency.	(2 marks)
+(	The policy can help solve the problem of income inequality since the subsidy can reduce the burden on low-income commercial vehicle drivers of replacing their vehicles. (Accept other reasonable answers.)	(2 marks)
+
+(b)	(	The policy can help improve efficiency. Primary and secondary students can gain more knowledge from the internet and share their knowledge from the internet free of charge. Thus, there is a positive externality from internet access. The subsidy will help increase the consumption of internet services and, as a result, increase total social surplus and efficiency.	(2 marks)
+(	The policy can also help solve the problem of income inequality. The subsidy is a kind of investment in human capital which helps poor students access the internet.	(2 marks)
+
+
+(c)	(	The policy can help solve the problem of income inequality but cannot improve efficiency. It is a kind of transfer to the elderly, who usually have low income, without raising total social surplus.	(3 marks)
+
+(d)	(	The policy can help improve efficiency. The tax reduction will reduce the disincentive effect caused by the salaries tax.	(2 marks)
+(	The policy can also help solve the problem of income inequality because the tax reduction only applies to those who earn less than $200,000 a year.
+	(2 marks)
+OR
+(	The policy cannot help solve the problem of income inequality. People who do not pay the salaries tax cannot enjoy the tax reduction.	(2 marks)
+(Accept other reasonable answers.)
+
+Question code: B3C18Q504
+Every year, the Hong Kong government spends a lot of money on education. It also provides adults with subsidies from the Continuing Education Fund to pursue educational and training courses.
+(a)	How is efficiency in resource allocation attained? In terms of efficiency, justify government subsidisation of education.	(3 marks)
+(b)	In terms of income inequality, explain why the government subsidises education.
+	(2 marks)
+(c)	Is the education provided by the government a free good?	(3 marks)
+(d)	Is knowledge a public good?	(4 marks)
+
+Answers:
+(a)	(	Efficiency is attained when total social surplus is maximised.	(1 mark)
+(	Education can have a positive externality. Thus, the level of education that people obtain is smaller than the efficient level. Subsidising education can encourage people to pursue more education and reduce deadweight loss.
+	(2 marks)
+
+(b)	(	Education can provide equal opportunities for the poor to improve their living standards. This helps equalise income distribution.	(2 marks)
+
+(c)	(	Free goods are goods whose available quantity is sufficient to satisfy all human wants for them. No one is willing to pay a price for them.	(1 mark)
+(	The government needs to pay a cost to provide education, and more education is desired. Therefore, it is not a free good. 	(2 marks)
+
+(d)	(	Public goods are goods which are non-rival and non-excludable in consumption.	(1 mark)
+(	Non-rivalry in consumption means that one's consumption does not reduce the amount available for other's consumption.	(1 mark)
+(	Non-excludability in consumption means that it is too difficult to prevent non-payers from consuming the good.	(1 mark)
+(	It is difficult to prevent non-payers from using knowledge, and everyone can use that knowledge at the same time. Therefore, knowledge is a public good.
+	(1 mark)

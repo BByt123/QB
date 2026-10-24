@@ -1,0 +1,2249 @@
+Chapter 5	Price elasticity of demand and supply
+
+Multiple Choice Questions
+
+Question code: B1C05Q001 (new)
+The demand elasticity of Good X is 1.5. After an increase in supply, the equilibrium quantity rises by 30%. The equilibrium price would _________ by ________. 
+A.	increase … 20%
+B.	decrease … 20%
+C.	increase … 45%
+D.	decrease … 45%
+
+Answer: B
+
+Question code: B1C05Q002
+At a price of $100 per unit, the quantity demanded of Good X is 50 units per month. When the price is lowered to $50 per unit, knowing that the price elasticity of demand within this price range is greater than 1, the quantity demanded will
+A.	drop by more than 25 units per month.
+B.	drop by less than 25 units per month.
+C.	rise by more than 25 units per month.
+D.	rise by less than 25 units per month.
+
+Answer: C
+
+Question code: B1C05Q003 (new)
+John consumes 5 units of bottled water per week. When the unit price of bottled water increases from $100 to $200, the quantity demanded remains at 5 units per week. John's price elasticity of demand for bottled water is
+A.	equal to 0.
+B.	between 0 and 1.
+C.	equal to 1.
+D.	larger than 1.
+
+Answer: A
+
+
+Question code: B1C05Q004 (new)
+Parker said, 'If the price of chicken curry doubles, I will still consume the same amount of it.' Which of the following diagrams illustrates Parker's demand for chicken curry?
+
+Answer: D
+
+Question code: B1C05Q005 (new)
+Yuna said, 'I go ice skating five times a week. If the ticket price doubles, I will go only four times a week.' 
+Yuna's demand for ice skating is
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	elastic.
+
+Answer: B
+
+
+Question code: B1C05Q006 (new)
+Due to a good harvest of Boston lobsters (波士頓龍蝦), the quantity of Boston lobster sold changes by 50% and the price changes by 30%. We can say that the __________ Boston lobsters is __________.
+A.	demand for … elastic
+B.	demand for … inelastic
+C.	supply of … elastic
+D.	supply of … inelastic
+
+Answer: A
+
+Question code: B1C05Q007 (new)
+Suppose there is an increase in the supply of a good. The demand for the good is __________ if _________ when its price decreases by 10%.
+A.	inelastic … the consumers' expenditure increases by 10%
+B.	inelastic … its quantity demanded decreases by less than 10%
+C.	elastic … its quantity demanded increases by more than 10%
+D.	unitarily elastic … the producers' total revenue decreases by 10%
+
+Answer: C
+
+Question code: B1C05Q008 (new)
+The table below shows Moomin's demand schedule for milk.
+
+Price ($)	2	3	4	
+Quantity demanded (units)	240	160	120	
+
+As shown in the table above, the price elasticity of Moomin's demand for milk is __________.
+A.	perfectly inelastic
+B.	inelastic
+C.	unitarily elastic
+D.	elastic
+
+Answer: C
+
+
+Question code: B1C05Q009 (new)
+Good X and Good Y are in joint supply. When the price of Good X increases, the price and quantity transacted of Good Y changes by 20% and 30%, respectively. We can say that
+A.	the supply of Good Y is elastic.
+B.	the supply of Good Y is inelastic.
+C.	the demand for Good Y is elastic.
+D.	the demand for Good Y is inelastic.
+
+Answer: C
+
+Question code: B1C05Q010
+Tom loves mangoes. He eats one mango every day no matter what the price is. His demand for mangoes is
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	elastic.
+
+Answer: A
+
+Question code: B1C05Q011
+A hawker finds that when he increases his price for fish balls, his revenue decreases. The demand for his fish balls is therefore
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	elastic.
+
+Answer: D
+
+
+Question code: B1C05Q012
+Study the following diagram.
+
+When the price decreases from $10 to $6, the price elasticity of demand for the good at this price range is
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	elastic.
+
+Answer: D
+
+Question code: B1C05Q013
+The price of fruit in Taiwan has increased sharply after a typhoon. Take water melon as an example: its unit price has increased from $10 to $50. If its quantity demanded has decreased by 30%, which of the following statements is correct? 
+A.	The demand for water melons is elastic.
+B.	The demand for water melons is inelastic. 
+C.	The supply of water melons is elastic. 
+D.	The supply of water melons is inelastic. 
+
+Answer: B
+
+
+Question code: B1C05Q014
+Study the following diagram.
+
+When the price increases from $6 to $10, the demand for the good at this price range is 
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	elastic.
+
+Answer: D
+
+
+Question code: B1C05Q015 (new)
+Study the following diagram about the demand curve of a good.
+
+
+
+Point M is the mid-point of the demand curve. Which of the following statements are correct?
+	(1)	At P1, the demand is unitarily elastic.
+	(2)	Between 0 and P1, the demand is inelastic.
+	(3)	Between P1 and P2, the percentage increase in the price will be greater than the percentage decrease in quantity demanded.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B1C05Q016
+The following diagram shows the demand curve for tickets to a concert:
+
+Which of the following descriptions about the above diagram are correct?
+	(1)	The price elasticity of demand between A and B is greater than 1.
+	(2)	The price elasticity of demand between A and B is smaller than 1.
+	(3)	The demand for the concert tickets has decreased.
+	(4)	The demand for the concert tickets is consistent with the law of demand.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+Question code: B1C05Q017
+June said, 'I love eating chicken. Although the price of chicken has increased by 20%, I'll buy as many chickens as before.' June's demand for chicken is
+A.	perfectly inelastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	perfectly elastic.
+
+Answer: A
+
+
+Question code: B1C05Q018
+Keung says, 'I don't like drinking red wine. I won't drink red wine even when its price drops to zero.'
+Which of the following statements is correct?
+A.	Keung's demand for red wine is perfectly elastic. 
+B.	Keung's demand for red wine is perfectly inelastic. 
+C.	Keung's demand for red wine is inelastic.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C05Q019 (new)
+Carrie said, 'At the current price of $4 per can, I drink two cans of Coca-Cola every week. If the price of Coca-Cola increases from $4 to $6 per can, I will drink one can every two weeks.' Which of the following statements concerning Carrie's demand for Coca-Cola is correct?
+A.	Carrie's demand for Coca-Cola is elastic.
+B.	Carrie's demand for Coca-Cola is inelastic.
+C.	Carrie's demand for Coca-Cola is unitarily elastic.
+D.	Carrie's demand for Coca-Cola is perfectly inelastic.
+
+Answer: A
+
+Question code: B1C05Q020
+Miss Law says, 'I will buy the same amount of cosmetics no matter how their price changes.' Which of the following is correct?
+A.	Her demand for cosmetics will never change. 
+B.	For her, cosmetics are a luxury.
+C.	Her demand for cosmetics is perfectly elastic.
+D.	Her behaviour violates the law of demand.
+
+Answer: D
+
+
+Question code: B1C05Q021
+Which of the following about the elasticity of demand is correct?
+A.	It measures the responsiveness of the demand for a good to a change in its price.
+B.	When the percentage change in price is greater than the percentage change in quantity demanded, the elasticity of demand is greater than one.
+C.	When a change in price is not accompanied by a change in quantity demanded, the demand is perfectly elastic.
+D.	None of the above
+
+Answer: D
+Explanation:
+(	The price elasticity of demand measures the responsiveness of the quantity demanded to a change in its price. Option A is incorrect.
+(	When the percentage change in price is greater than the percentage change in quantity demanded, the elasticity of demand is less than one. Option B is incorrect.
+(	When a change in price is not accompanied by a change in quantity demanded, the demand is perfectly inelastic. Option C is incorrect.
+
+Question code: B1C05Q022
+When we say that Hong Kong people's demand for live chickens is inelastic, we mean that
+A.	if the price of live chickens increases, the quantity demanded will not drop.
+B.	if the price of live chickens increases, the quantity demanded will drop less than proportionately.
+C.	there are no substitutes for live chickens.
+D.	Hong Kong people must have a habit of consuming live chicken.
+
+Answer: B
+Explanation:
+(	When we say the demand for live chickens is inelastic, we mean the percentage change in quantity demanded is smaller than that of price. Quantity demanded will still drop. Therefore, Option A is incorrect but Option B is correct.
+(	If there are no substitutes for live chickens, the elasticity of demand for them tends to be less elastic. However, we cannot say there are no substitutes if the elasticity of demand for live chickens is smaller than one. There are other possible reasons for the inelastic demand. Option C is incorrect.
+
+
+Question code: B1C05Q023
+Suppose a government economist estimates that the price elasticity of demand for pork in Hong Kong is -2.5. This implies that 
+A.	the demand for pork in Hong Kong is inelastic.
+B.	when the price of pork increases by 5%, the consumption of pork decreases by 12.5%.
+C.	there are very few substitutes for pork.
+D.	The demand for pork in Hong Kong is not consistent with the law of demand.
+
+Answer: B
+Explanation:
+(	When the price elasticity of demand is -2.5, the demand is elastic. Option A is incorrect. 
+(	
+	( % change in quantity demanded = Ed × % change in price
+( % change in quantity demanded = -2.5 × 5% = -12.5%
+Therefore, a 5% increase in the price of pork will result in a 12.5% decrease in pork consumption. Option B is the answer.
+(	We cannot tell what factors affect the elasticity of demand for pork by just looking at its value. Option C is incorrect. (Note: As the demand for pork is elastic, it is more likely that there are a number of substitutes for pork.)
+
+
+Question code: B1C05Q024
+The following shows Gigi's demand curve for FANCL products:
+
+
+
+Gigi's demand elasticity for FANCL products in the above price range is
+A.	greater than 1.
+B.	smaller than 1 but greater than 0.
+C.	equal to 1.
+D.	uncertain.
+
+Answer: B
+Explanation:
+Suppose the price falls from $200 to $100 and the quantity demanded increases from 10 units to 15 units.
+By definition,
+
+
+	= -0.6
+In other words, the demand is inelastic. Option B is the answer.
+Alternatively: When the unit price decreases from $200 to $100, the total revenue changes from $2,000 (= $200 × 10) to $1,500 (= $100 × 15). Since the total revenue decreases with the price, the percentage rise in quantity must be smaller than the percentage fall in price. Hence, the demand must be inelastic. Option B is the answer.
+
+Question code: B1C05Q025
+* Study the following diagram:
+
+
+
+If segment AB is above the mid-point of the demand curve, X must be
+A.	greater than 200.
+B.	greater than 300.
+C.	smaller than 200.
+D.	smaller than 300.
+
+Answer: C
+Explanation:
+Since segment AB is above the mid-point, the demand is elastic. When the price increases, total revenue will decrease.
+
+Price ($)	Total revenue ($)	
+100	= 100 × 20
+= 2,000	
+X	10X < 2,000
+X < 200	
+
+Question code: B1C05Q026 (new)
+Due to the increase in production costs, the unit price of Good X increases from $30 to $40 and its quantity demanded changes by 20%. Which of the following statements is correct? 
+A.	The demand elasticity for Good X is 0.5.
+B.	The total revenue of Good X will increase.
+C.	The change in the total expenditure of Good X is uncertain.
+D.	The supply elasticity of Good X is 0.7.
+
+Answer: B
+Explanation:
+(	The changes are caused by the decrease in the supply. Thus, we can only calculate the demand elasticity with the information provided. The percentage change in price is 28.5% (). Hence, the elasticity of demand is 0.7 (neglecting negative sign). Option A is incorrect. 
+(	Since the demand elasticity is 0.7, the demand for Good X is inelastic. Hence, an increase in price leads to an increase in total revenue. Option B is correct.
+
+Question code: B1C05Q027 (new)
+Calvin loves drinking coffee. When the price of coffee increases, the amount he spends on coffee increases by the same proportion. We can conclude that his demand for coffee is
+A.	elastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	perfectly inelastic.
+
+Answer: D
+
+Question code: B1C05Q028 (new)
+Susan loves drinking Coca-Cola She spends $500 on Coca-Cola every month. We can conclude that her demand for Coca Cola is
+A.	elastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	perfectly inelastic.
+
+Answer: C
+
+
+Question code: B1C05Q029 (new)
+Refer to the following diagram showing the demand curve of a good.
+
+Given that Point M is the mid-point of the demand curve. If the price increases from $5 to P1, the total revenue
+A.	will be smaller than $40.
+B.	will be greater than $40.
+C.	will be equal to $40.
+D.	may increase, decrease or remain unchanged.
+
+Answer: A
+
+Question code: B1C05Q030 (new)
+When the price elasticity of demand of a good is equal to one, this means that
+A.	a change in its price will not affect its quantity demanded.
+B.	a change in its price will not affect the total revenue.
+C.	a change in the price of its substitute will not affect the demand for the good.
+D.	a change in the income of consumers does not affect their total expenditure.
+
+Answer: B
+
+
+Question code: B1C05Q031 (new)
+Refer to the following information about Good X.
+Price ($)	20	30	40	
+Total sales revenue ($)	1,000	1,200	1,400	
+Within the above price range, the price elasticity of demand for Good X is
+A.	equal to zero.
+B.	equal to one. 
+C.	greater than one.
+D.	between zero and one.
+
+Answer: D
+
+Question code: B1C05Q032 (new)
+Mr Wong travels to Taipei once every two weeks on China Airlines. Suppose China Airlines offers a 50% discount to frequent flyers during summer vacation. Mr Wong receives the discount and spends 50% less on air tickets. His demand for air tickets is
+A.	elastic.
+B.	inelastic.
+C.	unitarily elastic.
+D.	perfectly inelastic.
+
+Answer: D
+
+Question code: B1C05Q033 (new)
+Suppose Jason's demand for apples is unitarily elastic. When the price of apples decreases,
+A.	his quantity demanded of apples decreases by the same percentage as the price.
+B.	he spends the same amount of money on apples.
+C.	his total expenditure on apples decreases by the same percentage as the price.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B1C05Q034 (new)
+Due to the development of new production technology, the price of a good decreases by 10%. Consumers' total expenditure on the good also decreases by 10%. Which of the following statements is correct?
+A.	The law of demand still holds in this case.
+B.	The demand for the good is unitarily elastic.
+C.	The price elasticity of demand for the good is equal to zero.
+D.	The price elasticity of supply of the good is equal to infinity.
+
+Answer: C
+
+Question code: B1C05Q035(new)
+Along the demand curve of a good, when the price of the good increases from $4 to $5, producers' total revenue increases from $2,000 to $2,500.
+Between $4 and $5, the demand elasticity of the good is
+A.	equal to zero.
+B.	between zero and one.
+C.	equal to one.
+D.	larger than one.
+
+Answer: A
+
+Question code: B1C05Q036 (new)
+If the demand for vegetables is inelastic and the price of fertiliser (肥料) increases, which of the following statements are correct?
+	(1)	The supply of vegetables decreases.
+	(2)	The quantity transacted of vegetables decreases.
+	(3)	The total revenue from vegetables increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B1C05Q037
+The price of tutorial services has increased, and Kelly's expenditure on tutorial services has increased as well. Hence, her price elasticity of demand for tutorial services is __________.
+A.	inelastic
+B.	elastic
+C.	unitarily elastic
+D.	perfectly elastic
+
+Answer: A
+
+Question code: B1C05Q038
+Although the price of grapefruit has increased, Joey's expenditure on grapefruit remains unchanged. Her price elasticity of demand for grapefruit is __________.
+A.	equal to 0
+B.	between 0 and 1
+C.	equal to 1
+D.	larger than 1
+Answer: C
+
+Question code: B1C05Q039
+The table below shows the ticket prices at a theme park and its sales revenue.
+
+Price ($)	20	30	40	
+Sales revenue ($)	20,000	30,000	40,000	
+
+As shown in the table above, the price elasticity of demand to visit the theme park is __________.
+A.	perfectly inelastic
+B.	inelastic
+C.	unitarily elastic
+D.	elastic
+
+Answer: A
+
+
+Question code: B1C05Q040
+When the amount of vegetables imported from the mainland increases, the total revenue of local vegetables will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	increase, decrease or remain unchanged, depending on the price elasticity of demand.
+
+Answer: B
+
+Question code: B1C05Q041 (new)
+When the wages of nurses in private hospital increase, the total revenue for private hospitals services will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	increase, decrease or remain unchanged, depending on the price elasticity of demand.
+
+Answer: D
+
+Question code: B1C05Q042
+If the demand for magazines is elastic, consumers' total expenditure will increase when the supply increases. This is because
+A.	both price and quantity transacted decrease.
+B.	the decrease in price is smaller than the increase in quantity transacted.
+C.	the percentage increase in price is larger than the percentage decrease in quantity transacted. 
+D.	the decrease in expenditure from a lower price is smaller than the increase in expenditure from a higher quantity transacted.
+
+Answer: D
+
+
+Question code: B1C05Q043
+Suppose the demand for apples is elastic. Apple growers' total revenue will ___________ when the demand increases. This is because ________________.
+A.	decrease … the increase in demand will cause the price to increase 
+B.	decrease … the percentage change in price will be greater than the percentage change in quantity transacted 
+C.	increase … both the price and the quantity transacted will increase 
+D.	increase … the percentage change in price will be smaller than the percentage change in quantity transacted 
+
+Answer: C
+
+Question code: B1C05Q044
+Suppose there is a good harvest for big cabbage in the mainland. If the demand for big cabbage is __________, the incomes for farmers in the mainland will ___________.
+(1)	elastic … decrease
+(2)	inelastic … decrease
+(3)	unitarily elastic … remain unchanged
+(4)	perfectly inelastic … remain unchanged
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: C
+
+Question code: B1C05Q045
+Refer to the following demand schedule for Good X. 
+
+Price of Good X ($)	2	3	4	
+Quantity demanded of Good X (units)	18	12	9	
+
+Which of the following statements about Good X is correct?
+A.	The demand is perfectly elastic.
+B.	The price elasticity of demand is less than 1.
+C.	The total expenditure of consumers remains unchanged regardless of price changes.
+D.	Sellers can increase total revenue by increasing the price.
+
+Answer: C
+
+Question code: B1C05Q046
+Study the following table.
+
+Price of grapefruit ($)	3	6	9	
+Quantity demanded of grapefruit (units) 	A	15	B	
+
+If the demand for grapefruit is unitarily elastic, the values of A and B will be _______ and _______, respectively.
+A.	20 … 10
+B.	30 … 10
+C.	40 … 15
+D.	Cannot be determined
+
+Answer: B
+
+Question code: B1C05Q047
+Suppose Good Y's price elasticity of demand is less than 1. An increase in the quantity demanded of the good by 10% implies that
+A.	the price of the good must have increased by more than 10%.
+B.	the total revenue for the producer of the good necessarily increases.
+C.	the good takes up a very small proportion of the total expenditure of a consumer.
+D.	consumers' total expenditure on the good decreases.
+
+Answer: D
+
+Question code: B1C05Q48
+Suppose both the equilibrium price and equilibrium quantity of cherries increase by 10%. Which of the following conclusions can be drawn?
+A.	The demand for cherries is unitarily elastic.
+B.	The total revenue of cherry producers does not necessarily increase.
+C.	The supply of cherries has increased.
+D.	The demand for cherries has increased.
+
+Answer: D
+
+
+Question code: B1C05Q049
+If the demand for Good Y is unitarily elastic and the price decreases by 20%,
+A.	the total expenditure may increase.
+B.	the quantity demanded must decrease by 20%.
+C.	the quantity transacted must remain unchanged.
+D.	the total expenditure must remain unchanged.
+
+Answer: D
+
+Question code: B1C05Q050
+Suppose the Customs Department closes a number of shops which sold fake luxury handbags. Then, the _________ of fake luxury handbags must decrease but the _________________ of fake luxury handbags may increase. 
+A.	quantity transacted … total income of producers
+B.	market price … total income of producers
+C.	total expenditure … total income of producers
+D.	market price … quantity transacted
+
+Answer: A
+
+Question code: B1C05Q051 (new)
+Suppose the government lightens the punishment for selling counterfeit products (冒牌貨). ___________ counterfeit products will decrease, while ________________ may decrease.
+A.	The supply of … the total expenditure on counterfeit products
+B.	The quantity transacted of … the quantity transacted of genuine products (正版貨)
+C.	Total expenditure on … the market price of counterfeit products
+D.	The market price of … the total income of sellers of counterfeit products
+
+Answer: D
+
+
+Question code: B1C05Q052
+Suppose the government increases the water charge to urge people to save water. Which of the following statements is correct? 
+A.	The government's revenue from water supply will increase if the demand for drinking water is inelastic.
+B.	The policy will be most effective when the demand for drinking water is unitarily elastic.
+C.	The quantity of water supplied will increase if the demand for drinking water is elastic. 
+D.	The policy will be more effective when the demand for drinking water is inelastic. 
+
+Answer: A
+
+Question code: B1C05Q053 (new)
+When the wage rate of workers who produce televisions decreases, which of the following are correct?
+	(1)	Producers' revenue will increase if the demand for televisions is elastic.
+	(2)	The quantity transacted of televisions will decrease if the demand for televisions is inelastic.
+	(3)	The total wages of workers who produce televisions will decrease if the demand for these workers is inelastic.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B1C05Q054
+When both the printing cost and the number of school-age children decrease, which of the following statements is/are correct?
+	(1)	Publishers' total revenue must increase if the demand for textbooks is elastic. 
+	(2)	Publishers' total revenue must decrease if the demand for textbooks is unitarily elastic. 
+	(3)	Publishers' total revenue must increase as a result of a reduction in the printing cost of textbooks.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B1C05Q055
+The following table shows the demand and supply schedules for Good X:
+
+Unit price ($)	3	4	5	6	7	8	9		Quantity demanded (units)	45	40	35	30	25	20	15		Quantity supplied (units)	30	30	30	30	30	30	30		
+If quantity supplied increases by 10 units at each price, the producer's total income will _____________. This is because the demand curve is ___________ at the relevant portion.
+A.	increase … elastic
+B.	decrease … inelastic
+C.	decrease … perfectly inelastic
+D.	remain unchanged … perfectly inelastic
+
+Answer: B
+
+
+Question code: B1C05Q056
+* Since many people have been on the waiting list for public housing units for years, the Housing Authority has decided to increase the supply of public housing units. However, it is expected that the increased supply will still be insufficient to satisfy the market demand. As a result of the above policy, total rental income for the Housing Authority will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	increase, decrease or remain unchanged, depending on the elasticity of demand.
+
+Answer: A
+
+Question code: B1C05Q057
+* Which of the following shows an elastic demand for bananas?
+A.	The quantity of bananas sold decreases when consumers' income increases.
+B.	The quantity of bananas sold decreases when their price increases.
+C.	When the price of bananas increase, the quantity decreases by a smaller percentage than the price.
+D.	The total revenue for banana producers increases when there is a good harvest. 
+
+Answer: D
+
+Question code: B1C05Q058 (new)
+* A fruit lover spends all of his income buying fruit every month. Which of the following is correct?
+A.	Fruit is an inferior good to him because his demand for fruit is independent of his income. 
+B.	His demand for fruit is perfectly inelastic because he always spends the same amount on fruit. 
+C.	His demand for fruit is unitarily elastic because his expenditure on fruit does not change with the price. 
+D.	His demand for fruit is perfectly elastic because his quantity demanded is always the same regardless of the price.
+
+Answer: C
+
+
+Question code: B1C05Q059
+An economics professor said, 'The increase in ticket prices for Hong Kong Disneyland will not affect the total revenue of Ocean Park.' His claim implies that
+A.	the demand for the services of Ocean Park is perfectly inelastic.
+B.	the demand for the services of Ocean park is perfectly elastic.
+C.	the demand for the services of Hong Kong Disneyland is perfectly inelastic.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C05Q060
+* Ming says, 'Producers' total revenue can still decrease when the price decreases even if the demand is elastic.' 
+Which of the following is correct?
+A.	His claim is correct if the decrease in price is caused by a decrease in demand. 
+B.	His claim is correct if the decrease in price is caused by an increase in supply. 
+C.	His claim is wrong because the decrease in price causes an increase in total revenue if the demand is elastic.
+D.	His claim is wrong because the decrease in price must cause an increase in total revenue.
+
+Answer: A
+
+Question code: B1C05Q061
+Study the following table about a watch market.
+
+ Price ($)	100	110	120	130	140	
+ Quantity demanded (units)	80	80	80	80	80	
+
+According to the above table,
+A.	when the supply of watches increases, consumers' total expenditure will increase.
+B.	when the supply of watches increases, producers' total revenue may increase or decrease, depending on the price elasticity of demand.
+C.	when the supply of watches increases, quantity transacted will remain unchanged.
+D.	the demand for watches cannot increase.
+
+Answer: C
+
+
+Question code: B1C05Q062
+Suppose Seiko finds that the price elasticity of demand for its watches is -1.2. Later, it raises the price of its watches by 20%.It can be expected that
+A.	the quantity demanded for Seiko's watches will decrease by 24%.
+B.	Seiko's sales revenue will increase.
+C.	Seiko will lose all of its customers.
+D.	A and B
+
+Answer: A
+Explanation:
+(	
+( % change in quantity demanded = Ed × % change in price 
+( % change in quantity demanded = -1.2 × 20% = -24%
+Option A is the answer.
+(	If the elasticity of demand is larger than 1, the percentage drop in quantity is larger than the percentage rise in price and thus  total revenue decreases. Option B is incorrect.
+(	Only when the demand is perfectly elastic will all of Seiko's customers abandon the brand in the event of a price increase. Therefore, Option C is incorrect. 
+
+Question code: B1C05Q063
+Study the following table which shows Mary's expenditure pattern:
+
+Rental of comic books ($)	Total expenditure on comic books ($)	
+2	500	
+4	500	
+6	500	
+8	500	
+
+Which of the following about Mary's demand for comic books is correct?
+A.	Her demand is perfectly inelastic.
+B.	Her demand curve is a rectangular hyperbola.
+C.	Her quantity demanded does not change with price.
+D.	All of the above
+
+
+Answer: B
+Explanation:
+(	Since her total expenditure does not change with the price, her demand must be unitarily elastic.
+(	A unitarily elastic demand curve is a rectangular hyperbola. Option B is the answer.
+(	For unitarily elastic demand, the total expenditure does not change with the price. Therefore, the percentage change in quantity demanded must be equal but in the opposite direction to the percentage change in price. Option C is incorrect.
+
+Question code: B1C05Q064
+Suppose Towngas raises its service charges. Which of the following will decrease after the price rise?
+A.	Total revenue for towngas
+B.	Consumption of towngas
+C.	Total expenditure on towngas
+D.	None of the above
+
+Answer: B
+Explanation:
+(	When Towngas raises charges for towngas, the quantity demanded (i.e., consumption) of towngas decreases. Option B is the answer.
+(	However, the change in total expenditure or total revenue of towngas depends on the price elasticity of demand. 
+
+Question code: B1C05Q065
+Study the following table which shows Alex's weekly expenditure on food at Fairwood:
+
+Price ($)	20	25	30	35	
+Expenditure ($)	300	280	260	240	
+
+What is his elasticity of demand for food at Fairwood?
+A.	Equal to infinity
+B.	Greater than one and less than infinity
+C.	Equal to one
+D.	Greater than zero and less than one
+
+
+Answer: B
+Explanation:
+When the price of food at Fairwood increases, his total expenditure decreases. This implies that the percentage drop in quantity is larger than the percentage rise in price. Hence, his demand for food at Fairwood is elastic.
+
+Question code: B1C05Q066
+Suppose when Genki Sushi raises the unit price of its sushi from $10 to $12, its quantity transacted decreases by 50%. Which of the following statements about this is correct?
+A.	The percentage decrease in quantity transacted is smaller than the percentage increase in price. 
+B.	The seller can increase total revenue by increasing the price.
+C.	The elasticity of demand for its sushi is -2.78.
+D.	A fall in price will lead to a less than proportionate increase in quantity transacted. 
+
+Answer: C
+Explanation:
+(	The percentage change in price is 18% (). Option A is incorrect.
+(	Since the percentage change in quantity transacted is -50%, the elasticity of demand is -50% / 18% = -2.78. Option C is the answer. 
+(	When demand is elastic, a price change will lead to a more than proportionate change in quantity demanded. Option D is incorrect. 
+(	When demand is elastic, total revenue changes inversely with price. Therefore, the seller cannot increase total revenue by increasing the price. Option B is incorrect. 
+
+Question code: B1C05Q067 (new)
+Which of the following events will most likely reduce the demand elasticity of corn?
+A.	A large amount of corn is used to produce fuels.
+B.	Many staple crops (主糧) have become extinct (絶種).
+C.	The price of corn soars (急升).
+D.	Corn can be stored for a longer period of time as it has been genetically modified (基因改造).
+
+Answer: B
+
+
+Question code: B1C05Q068 (new)
+The price elasticity of demand of soft drugs tends to be __________ because __________.
+A.	lower … they are addictive
+B.	lower … they take a large proportion of abusers' income
+C.	higher … they are necessities for some patients
+D.	higher … they have no close substitutes
+
+Answer: A
+
+Question code: B1C05Q069(new)
+In Country A, the demand elasticity of newspapers is low. Which of the following can explain this phenomenon?
+	(1)	There are many online media websites nowadays.
+	(2)	Readers spend a smaller share of their income on newspapers.
+	(3)	Most readers read newspapers every day out of habit.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B1C05Q070
+It is more likely that the demand for veterinary services (獸醫服務) is less elastic than the demand for pet toys. Which of the following is the possible reason for this?
+A.	The expenditure on veterinary services takes up a smaller proportion of pet owners' income than the expenditure on pet toys.
+B.	Veterinary services are more of a necessity than pet toys.
+C.	Veterinary services are more expensive than pet toys.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B1C05Q071 (new)
+The demand for cigars (雪茄) is usually inelastic because
+A.	smokers can easily substitute cigarettes for cigars.
+B.	cigars are a luxury.
+C.	smoking cigars is a habit.
+D.	the price of cigars is usually very high.
+
+Answer: C
+
+Question code: B1C05Q072
+An economics teacher said that the price elasticity of demand for Taylor's albums is almost zero for his fans. This implies that
+A.	there are few substitutes for Taylor's albums for her fans.
+B.	a reduction in the supply of Taylor's albums will lead to only a small increase in price.
+C.	the government should impose a tax on the sale of Taylor's albums.
+D.	Taylor's fans are so wealthy that their expenditure on her albums takes up a small proportion of their total expenditure.
+
+Answer: A
+
+Question code: B1C05Q073
+The demand for clothing made by G2000 is more elastic than that of clothing as a whole because
+A.	there are no close substitutes for G2000 clothing.
+B.	the price of G2000 clothing is lower than the average price of clothing.
+C.	the quality of clothing made by G2000 is very high.
+D.	it is difficult for consumers to find other substitutes for clothing.
+
+Answer: D
+
+
+Question code: B1C05Q074
+Keung says, 'The demand for handbags is inelastic.'
+Fun says, 'The demand for handbags is elastic.'
+Which of the following CANNOT explain why they have different opinions?
+A.	Keung is referring to a particular brand but Fun is referring to handbags in general. 
+B.	Fun is referring to a particular brand but Keung is referring to handbags in general.
+C.	They are referring to handbags with different durability. 
+D.	They are referring to handbags in different price ranges.
+
+Answer: A
+
+Question code: B1C05Q075
+The demand for drinking water is more inelastic than that of diamonds. This is because
+A.	there are more substitutes for water.
+B.	water has more uses.
+C.	water is a necessity.
+D.	diamonds are scarcer.
+
+Answer: C
+
+Question code: B1C05Q076
+Which of the following will increase the price elasticity of demand for taxi services?
+A.	Taxi fares are lowered.
+B.	Bus fares are raised.
+C.	The price of private vehicles increases sharply.
+D.	The number of bus routes increases.
+
+Answer: D
+
+
+Question code: B1C05Q077
+Which of the following factors CANNOT explain why the demand for sugar tends to be inelastic?
+A.	Degree of necessity
+B.	Consumption habit
+C.	Proportion of expenditure to income
+D.	All of the above can explain this.
+
+Answer: D
+Explanation:
+The fact that sugar is a daily necessity, that people have developed a habit of consuming it and that expenditure on sugar takes up only a small proportion of income may explain why sugar tends to have an inelastic demand. 
+
+Question code: B1C05Q078 (new)
+Which of the following lowers the elasticity of demand for tickets to National Basketball Association (NBA) games?
+A.	Fans can now watch NBA games broadcast online.
+B.	The income of US citizens increases rapidly.
+C.	Some Americans lose interest in basketball and become soccer fans.
+D.	None of the above
+
+Answer: B
+Explanation:
+(	When the income of people in the US increases, the expenditure on tickets for NBA games takes a smaller proportion of their income. Therefore, the elasticity of demand will decrease. Option B is the answer.
+(	In Option A, the elasticity of demand will increase rather than decrease because fans have more ways of watching the games.
+(	Option C will lead to a decrease in the demand for tickets to NBA games. 
+
+
+Question code: B1C05Q079
+Which of the following will lower the elasticity of demand for the Peak Tram?
+A.	There is an increase in bus fares on buses that travel the same route.
+B.	There is an increase in the tram fare.
+C.	The government permits more minibuses to run on the same route.
+D.	People become nostalgic (富有懷舊之情) and prefer travelling to the Peak by tram.
+
+Answer: D
+Explanation:
+(	When people have developed the habit of travelling to the Peak by tram, the elasticity of demand for the Peak Tram decreases. Option D is the answer. 
+(	In Option A, the demand for the Peak Tram increases as the Peak Tram and buses operating on the same route are substitutes.
+(	In Options B and C, the elasticity of demand will increase rather than decrease.
+
+Question code: B1C05Q080
+The price elasticity of demand for textbooks is _________ than that for comic books as ____________________.
+A.	smaller … textbooks are more necessary
+B.	smaller … students like reading comic books
+C.	larger … textbooks are more necessary
+D.	smaller … comic books are not as costly as textbooks
+
+Answer: A
+Explanation:
+Students' demand for textbooks is more inelastic than that for comic books because students must buy textbooks for school. This requirement increases the degree of necessity and lowers the elasticity of demand. Option A is the answer. 
+
+Question code: B1C05Q081
+The supply elasticity of Good X is 0.8. After an increase in demand, the equilibrium quantity increased by 10%. This implies the equilibrium price
+A.	increased by 8%.
+B.	increased by 12.5%.
+C.	decreased by 8%.
+D.	decreased by 12.5%.
+
+Answer: B
+
+Question code: B1C05Q082
+Suppose a government economist estimates the price elasticity of supply of live chickens in Hong Kong to be 0.5. Later, when there is a decrease in demand for live chickens in Hong Kong, the quantity transacted decreases by 10%. What is the percentage change in equilibrium price?
+A.	+5%
+B.	-5%
+C.	+20%
+D.	-20%
+
+Answer: D
+Explanation:
+
+
+	( % change in price = -10% / 0.5 = -20%
+
+Question code: B1C05Q083 (new)
+When summer comes, the price and quantity sold of ice cream change by 30% and 50%, respectively. Which of the following statements is correct?
+A.	The demand for ice cream is inelastic.
+B.	The demand for ice cream is elastic.
+C.	The supply of ice cream is inelastic.
+D.	The supply of ice cream is elastic.
+
+Answer: D
+
+Question code: B1C05Q084 (new)
+Due to the widespread use of smartphones, the price of traditional mobile phones has fallen by 50% and the quantity sold has changed by 90%. This would indicate that within that price range, the __________ traditional mobile phones is __________.
+A.	supply of … inelastic 
+B.	supply of … elastic 
+C.	demand for …inelastic
+D.	demand for …elastic
+
+Answer: B
+
+Question code: B1C05Q085 (new)
+Good X and Good Y are complements. When the price of Good X decreases, the price and quantity transacted of Good Y change by 5% and 10%, respectively. Which of the following is correct?
+	(1)	The demand for Good Y increases.
+	(2)	The supply of Good Y is inelastic.
+	(3)	The total expenditure on Good Y increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C05Q086
+If supply is elastic, the percentage increase in price will be ___________ than the percentage ____________ in quantity supplied.
+A.	higher … increase
+B.	lower … increase
+C.	higher … decrease
+D.	lower … decrease
+
+Answer: B
+
+Question code: B1C05Q087
+When price increases by 20%, quantity supplied increases by 20%.
+A.	This illustrates the law of supply.
+B.	This indicates that the supply is elastic.
+C.	This indicates that the demand is unitarily elastic.
+D.	This indicates that the supply is perfectly elastic.
+
+Answer: A
+
+
+Question code: B1C05Q088
+Suppose quantity supplied increases by 5% when the price of dehumidifiers increases by 15%. This indicates that dehumidifiers'
+A.	demand is elastic.
+B.	demand is inelastic.
+C.	supply is elastic.
+D.	supply is inelastic.
+
+Answer: D
+
+Question code: B1C05Q089 (new)
+* In 2010, a music CD featuring Michael Jackson, the late King of Pop, was released. The album included songs that had not been previously released. The supply elasticity of this album is
+A.	equal to zero.
+B.	greater than zero and less than one.
+C.	equal to one.
+D.	uncertain.
+
+Answer: D
+Explanation:
+(	Although this is an album by a singer who had died, the number of CDs can still be increased.
+(	The elasticity of supply depends on factors like production flexibility, factor mobility, reserve capacity and adjustment time. Therefore, we are not sure whether the supply is inelastic or not. Option D is the answer. 
+
+Question code: B1C05Q090 (new)
+In which of the following situations will quantity transacted remain unchanged when price increases?
+	(1)	Demand is perfectly inelastic.
+	(2)	Demand is perfectly elastic.
+	(3)	Supply is perfectly elastic.
+	(4)	Supply is perfectly inelastic.
+A.	(1) only
+B	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B1C05Q091
+In which of the following situations will producers' total revenue increase when demand increases? 
+	(1)	Supply is perfectly inelastic. 
+	(2)	Supply is perfectly elastic. 
+	(3)	Supply is elastic.
+	(4)	Supply is inelastic.
+A.	(1) and (2) only
+B	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: D
+
+Question code: B1C05Q092
+Under which of the following conditions will equilibrium price remain unchanged in the event of an increase in demand?
+	(1)	Supply is perfectly elastic.
+	(2)	Supply is perfectly inelastic.
+	(3)	Demand is perfectly inelastic.
+	(4)	Demand is unitarily elastic.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: A
+
+
+Question code: B1C05Q093
+Study the following table.
+
+ Price of bananas ($)	1	2	3	4	5	
+ Quantity transacted of bananas (units)	100	100	100	100	100	
+
+Which of the following can best describe the above table?
+A.	The supply of bananas is unitarily elastic.
+B.	The supply of bananas is perfectly elastic.
+C.	The demand for bananas is unitarily elastic.
+D.	The demand for bananas is perfectly inelastic.
+
+Answer: D
+
+Question code: B1C05Q094
+A government official said, "The good harvest of wheat this year will increase farmers' total income." His claim is
+A.	right if the demand for wheat is elastic.
+B.	right if the demand for wheat is inelastic.
+C.	wrong if the supply of wheat is elastic.
+D.	wrong if the supply of wheat is inelastic.
+
+Answer: A
+
+Question code: B1C05Q095 (new)
+* Good X and Good Y are close substitutes. When the price of Good Y decreases, the equilibrium price and quantity transacted of Good X change by 10% and 2%, respectively. Which of the following conclusions can be reached?
+	(1)	The supply of Good X is inelastic.
+	(2)	Total revenue of Good Y increases.
+	(3)	Total revenue of Good X decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B1C05Q096
+When people become more concerned with health, the total revenue of health food producers will increase. Which of the following is the possible reason for this?
+A.	Health food is a normal good.
+B.	The demand for health food is elastic.
+C.	The supply of health food is elastic.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C05Q097
+Suppose both air ticket prices to Britain and the total expenditure on them fall sharply after terrorist attacks. This is because
+A.	the supply of air tickets to Britain is elastic.
+B.	the supply of air tickets to Britain is inelastic.
+C.	passengers' demand for air tickets to Britain is elastic.
+D.	passengers' demand for air tickets to Britain has decreased.
+
+Answer: D
+
+Question code: B1C05Q098
+After launching a promotional slogan of 'We can help students get 5**s!', a tutorial school finds that its total revenue has increased by 50%. Which of the following is correct? 
+A.	Its supply is elastic. 
+B.	Its supply is inelastic. 
+C.	Its demand has increased. 
+D.	Its demand is inelastic. 
+
+Answer: C
+
+Question code: B1C05Q099
+Suppose the number of tourists visiting Hong Kong increases sharply. Which of the following is correct?
+A.	Hotels' total revenue will increase as their demand increases.
+B.	Hotels' total revenue will decrease if their supply is inelastic. 
+C.	Hotels' total revenue will decrease if their supply is elastic. 
+D.	Hotels' elasticity of supply will increase. 
+
+Answer: A
+
+Question code: B1C05Q100
+Which of the following statements is INCORRECT?
+A.	An increase in demand will lead to an increase in total revenue, regardless of the elasticity of supply. 
+B.	An increase in demand will lead to an increase in total revenue, regardless of the elasticity of demand.
+C.	If a demand curve is a straight line, we can find a point on it with unitarily elastic demand.
+D.	Producers' total revenue cannot be increased if the demand is unitarily elastic.
+
+Answer: D
+
+Question code: B1C05Q101
+* Because of snowstorms, the Longjing tea (龍井茶) crop has failed. However, the total income for tea farmers in the mainland still remains unchanged. Which of the following can be the possible reason(s)?
+	(1)	The demand for Longjing is perfectly inelastic.
+	(2)	The supply of Longjing is unitarily elastic.
+	(3)	The percentage increase in the quantity transacted of Longjing is equal to the percentage decrease in the price of Longjing.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B1C05Q102
+Suppose after a huge deposit of diamonds is found, the total revenue from diamonds decreases. Which of the following about the diamond industry is correct?
+A.	The quantity demanded of diamonds decreases.
+B.	The price of diamonds increases.
+C.	The supply of diamonds is inelastic.
+D.	The demand for diamonds is inelastic.
+
+Answer: D
+Explanation:
+(	The discovery of a huge deposit of diamonds will increase the supply of diamonds. When the supply increases, the price decreases. Moreover, quantity transacted, which is equal to quantity demanded and quantity supplied at equilibrium, increases. Options A and B are incorrect. 
+(	Whether the total revenue will decrease or not depends on the elasticity of demand. If the demand is inelastic, the percentage rise in quantity is smaller than the percentage drop in price. As a result, total revenue will decrease. Option D is the answer. 
+
+Question code: B1C05Q103
+After a famous singer appears in an advertisement for a slimming treatment, total revenue from the treatment increases. Which of the following can explain this?
+A.	The demand for the treatment is inelastic. 
+B.	The supply of the treatment is inelastic.
+C.	The demand for the treatment has increased.
+D.	The supply of the treatment has increased.
+
+Answer: C
+Explanation:
+When a famous singer appears in the advertisement, demand for the treatment increases. Both the treatment's price and quantity transacted increase. Total revenue also increases, but this has nothing to do with the elasticity of demand or supply. 
+
+Question code: B1C05Q104 (new)
+The supply of legal services is __________ elastic than the supply of catering services because __________.
+A.	less … the cost of training lawyers is higher than the cost of training cooks
+B.	less … the price of legal services is usually much higher
+C.	more … the entry barrier of the legal industry is higher
+D.	more … people seldom need legal services
+
+Answer: A
+
+Question code: B1C05Q105 (new)
+When the demand for Good Q decreases, the price and quantity transacted of Good Q change by 2% and 6%, respectively. It is most likely that
+A.	Good Q is a luxury.
+B.	Good Q is addictive.
+C.	producing Good Q requires mainly unskilled workers.
+D.	it takes a long time for the sellers of Good Q to adjust the output level.
+
+Answer: C
+
+Question code: B1C05Q106
+Which of the following will decrease the price elasticity of supply for Coca-Cola?
+A.	More substitutes are available.
+B.	The occupational mobility of the factors used to produce Coca-Cola increases.
+C.	The stock of Coca-Cola decreases sharply.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C05Q107
+Which of the following will increase labour's elasticity of supply in Hong Kong? 
+A.	More and more people follow the government's advice to have more children.
+B.	People become more concerned about family life.
+C.	More and more jobs require professional qualifications.
+D.	Workers in the mainland can freely work in Hong Kong.
+
+Answer: D
+
+Question code: B1C05Q108
+Suppose the production of a new medicine which can cure AIDS requires special raw materials which can only be found in the Amazon Basin. Which of the following is correct?
+A.	The supply of the medicine is elastic.
+B.	The price of the medicine will increase by a great amount if the demand for it increases.
+C.	The supply of the medicine must be perfectly inelastic.
+D.	Government must provide subsidies to the producers.
+
+Answer: B
+
+Question code: B1C05Q109 (new)
+Recently, the shortage of waiters has become more serious in Hong Kong. As a result,
+A.	the supply of waiters will be more inelastic.
+B.	the supply of waiters will be more elastic.
+C.	the supply of catering services (餐飲服務) will be more inelastic.
+D.	the supply of catering services will be more elastic.
+
+Answer: C
+
+Question code: B1C05Q110
+Which of the following statements about the price elasticity of supply is correct?
+A.	An increase in demand for Good X will lead to a smaller increase in price if the supply is more inelastic.
+B.	Whether an increase in supply will increase the total revenue of Good X or not has nothing to do with the price elasticity of supply.
+C.	When the production process requires many special machines, its supply will be more elastic.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C05Q111
+The supply of ginseng (人參) tends to be inelastic because
+A.	its price is high.
+B.	it is a luxury.
+C.	it has many uses.
+D.	its production takes time and the producers cannot greatly increase production in a short period of time.
+
+Answer: D
+
+Question code: B1C05Q112
+Which of the following lowers the elasticity of supply of economics textbooks?
+A.	The government allows textbook publishers to recruit professionals from the mainland.
+B.	Textbook publishers have already installed extra printing machines.
+C.	The government adopts a more stringent (嚴格的) supervision system for textbook publishing.
+D.	Less initial capital is needed to start a publishing business.
+
+Answer: C
+Explanation:
+(	Option A increases factor mobility. Therefore, it will raise the elasticity of supply.
+(	Option B increases reserve capacity. Therefore, it will raise the elasticity of supply. 
+(	Option C reduces flexibility in production. Therefore, it will lower the elasticity of supply. 
+(	Option D makes entry easier. Therefore, it will raise the elasticity of supply.
+
+Question code: B1C05Q113
+Suppose the demand for laptops increases. When _______________, the increase in demand will result in a greater increase in equilibrium quantity.
+A.	laptop producers have excess production capacity
+B.	it is more difficult to acquire required raw materials
+C.	there are more close substitutes for laptops
+D.	each laptop now takes up a smaller proportion of consumers' income
+
+Answer: A
+Explanation:
+(	When the demand for laptops increases, if the supply is more elastic, the increase in equilibrium quantity will be greater.
+(	Only Option A will lead to an increase in the elasticity of supply. Therefore, Option A is the answer.
+
+Question code: B1C05Q114
+Suppose a prolonged rainstorm destroys a huge amount of local vegetables in Hong Kong. When ___________________, this will result in a larger increase in Hong Kong's equilibrium price for vegetables.
+A.	more imported vegetables are available in Hong Kong
+B.	people prefer eating local vegetables over other vegetables,
+C.	idle land in the mainland can be converted into farmland
+D.	more Hong Kong people have acquired farming skills
+
+Answer: B
+Explanation:
+(	When the supply of local vegetables decreases and if the demand or supply is less elastic, the increase in equilibrium price will be greater.
+(	Only Option B will lead to a decrease in the elasticity of demand. The other three options will lead to an increase in the elasticity of supply. Therefore, Option B is the answer.
+
+Question code: B1C05Q115
+The supply of poems written by Shakespeare (莎士比亞) is __________ the supply of the 'Complete Works of Shakespeare' (莎士比亞全集).
+A.	more elastic than 
+B.	as elastic as 
+C.	less elastic than 
+D.	Uncertain
+
+Answer: C
+Explanation:
+(	Since Shakespeare has passed away, the supply of his poems is perfectly inelastic. 
+(	However, the supply of the 'Complete Works of Shakespeare' is not perfectly inelastic. People can still print it by using resources. The elasticity of supply must be greater than zero. 
+(	Although we are not certain whether the supply of the 'Complete Works of Shakespeare' is elastic or not, we are certain that the supply of Shakespeare's poems is less elastic than that of the 'Complete Works of Shakespeare'. 
+
+Short Questions
+
+Question code: B1C05Q301 (new)
+Refer to the following table.
+Price ($)	10	20	30	
+Quantity demanded	100	75	60	
+(a)	What is the price elasticity of demand?	(2 marks)
+(b)	Calculate the price elasticity of demand between 
+	(i)	$10 and $20;	(2 marks)
+	(ii)	$20 and $30.	(2 marks)
+
+Answers:
+(a)	The price elasticity of demand (Ed) measures the responsiveness of the quantity demanded of a good to a change in its price.	(2 marks)
+(b)	(i)	Ed between$10 and $20
+		=  = 2.33 (negative sign neglected)	(2 marks)
+	(ii)	Ed between $20 and $30
+		=  = 1.80 (negative sign neglected)	(2 marks)
+ 
+
+Question code: B1C05Q302 (new)
+(a)	After the MTR South Island Line (East) is completed, people can travel from Admiralty to Ocean Park by MTR. With the aid of a diagram, explain the effect of this new railway on the total revenue of buses operating on the same route.
+	(5 marks)
+(b)	How does the demand elasticity for the bus service on the above route change? Explain your answer briefly.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decrease in price and quantity	(1 mark)
+
+
+	Verbal elaboration:
+	When the MTR South Island Line (East) is completed, the demand for bus service between Admiralty and Ocean Park will decrease.	(1 mark)
+	Both price and quantity decrease.	(1 mark)
+	The total revenue will decrease from P1 × Q1 to P2 × Q2.	(1 mark)
+		
+(b)	The demand becomes more elastic	(1 mark)
+	as there is a new substitute (i.e., MTR services) which connects Admiralty and Ocean Park.	(1 mark)
+
+
+Question code: B1C05Q303 (new)
+Suppose there is a drastic increase in sewage charges. Under what condition will the total revenue of local restaurants increase? Explain with the aid of a diagram.
+	(7 marks)
+Answers:
+Indicate on the diagram:
+(	Leftward shift in supply curve	(1 mark)
+(	Gain in total revenue < Loss in total revenue	(2 marks)
+	
+
+Verbal elaboration:
+A drastic increase in sewage charges implies a decrease in the supply of the services of local restaurants from S1 to S2.	(1 mark)
+Hence, the price increases and the quantity demanded decreases.	(1 mark)
+If the demand for the services of local restaurants is elastic, the percentage decrease in the quantity demanded will be greater than the percentage increase in the price. Thus, total revenue will decrease.	(2 marks)
+
+
+Question code: B1C05Q304 (new)
+Suppose the demand for bread is elastic. Explain, with separate diagrams, how the increase in the price of bread affects the total expenditure on
+(a)	bread;	(5 marks)
+(b)	butter.	(5 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Increase in total expenditure < Decrease in total expenditure	(2 marks)
+
+
+	Verbal elaboration:
+	Given that the demand for bread is elastic, the percentage increase in price is smaller than the percentage decrease in quantity.	(2 marks)
+	Hence, the total expenditure on bread will decrease.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decrease in price and quantity transacted	(1 mark)
+
+
+
+	Verbal elaboration:
+	As bread and butter are complements, the increase in the price of bread decreases the demand for butter from D1 to D2.	(1 mark)
+	Both price and the quantity of butter decrease.	(1 mark)
+	Hence, the total expenditure on butter will decrease.	(1 mark)
+
+Question code: B1C05Q305 (new)
+In Country H, the price of books has decreased in recent years. With the aid of a diagram, explain under what condition publishers' total revenue from the sales of books will decrease.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+(	Decrease in total revenue > Increase in total revenue	(2 marks)
+	
+
+Verbal elaboration:
+If the demand for books is inelastic and the price decreases, the percentage increase in the quantity demanded is smaller than the percentage decrease in the price.	(2 marks)
+The gain in total revenue is smaller than the loss in total revenue. Therefore, the total revenue will decrease.	(1 mark)
+
+
+Question code: B1C05Q306 (new)
+Suppose the price of lemons decreases. With the aid of a diagram, explain under what condition the total income of lemon tea producers will decrease.	(7 marks)
+
+Answers:
+Indicate on the diagram:
+(	Rightward shift in supply curve	(1 mark)
+(	Gain in total income < Loss in total income	(2 marks)
+
+Verbal elaboration:
+As lemon is an input of lemon tea, a decrease in the price of lemons raises the supply of lemon tea from S0 to S1.	(1 mark)
+Hence, the price decreases and the quantity demanded increases.	(1 mark)
+If the demand for lemon tea is inelastic, the percentage decrease in price will be greater than the percentage increase in quantity transacted. Hence, producers' total income will decrease.	(2 marks)
+
+Question code: B1C05Q307
+The following table shows information about the demand for timber and candles:
+
+	Change in price	Change in quantity demanded	
+Timber	-5%	+10%	
+Candles	+10%	-4%	
+
+(a)	Which good has a higher price elasticity of demand? Show your calculation.			(3 marks)
+(b)	Suggest ONE reason why the good in (a) has a higher elasticity.	(2 marks)
+
+Answers: 
+(a)	The elasticity of demand for timber 	(1 mark)
+	The elasticity of demand for candles 	(1 mark)
+	So, the elasticity of demand for timber is higher.	(1 mark)
+(b)	Timber has more uses than candles. (Accept other reasonable answer.)	(2 marks)
+
+Question code: B1C05Q308
+(a)	What does the price elasticity of demand measure?	(2 marks)
+Mary said, 'I like reading very much. Even if the prices of books double, I will still spend the same amount on them.'
+	What is Mary's price elasticity of demand for books? Explain.	(4 marks)
+
+Answers: 
+(a)	The price elasticity of demand measures the responsiveness of quantity demanded of a good to a change in its price.	(2 marks)
+(b)	(	Mary's demand for books is unitarily elastic (Ed = 1).	(2 marks)
+	(	The percentage change in quantity demanded is the same as the percentage change in price so that her total expenditure on books remains the same at all prices.	(2 marks)
+
+Question code: B1C05Q309
+(a)	What is unitarily elastic demand?	(2 marks)
+* (b)	The following table is about Ming's demand for bananas:
+
+Price ($)	1	2	3	4	5	6	
+Quantity demanded (units)	6	5	4	3	2	1	
+	
+	Explain Ming's price elasticity of demand for bananas in the following price ranges.
+	(i)	Between $1 and $3	(2 marks)
+	(ii)	Between $3 and $4	(2 marks)
+	(iii)	Between $4 and $6	(2 marks)
+
+Answers: 
+(a)	Unitarily elastic demand: when the price rises (drops), the quantity demanded drops (rises) by the same percentage.	(2 marks)
+(b)	(i)	At $1 to $3, Ming's demand for bananas is inelastic. This is because his expenditure on bananas increases as the price increases.	(2 marks)
+	(ii)	At $3 to $4, Ming's demand for bananas is unitarily elastic. This is because his expenditure on bananas remains unchanged as the price increases.	(2 marks)
+	(iii)	At $4 to $6, Ming's demand for bananas is elastic. This is because his expenditure on bananas decreases as the price increases.	(2 marks)
+
+Question code: B1C05Q310
+The following table is about Alice's demand for milk and rice:
+
+	Change in price	Change in quantity demanded	
+Milk	+10%	-30%	
+Rice	-20%	+2%	
+
+(a)	For which good does Alice have a higher price elasticity of demand? Show your steps.		(3 marks)
+(b)	Suggest ONE reason to explain your answer in (a).	(2 marks)
+
+Answers: 
+(a)	(	The price elasticity of demand for milk = -30%/10% = 3 (absolute value)
+				(1 mark)
+	(	The price elasticity of demand for rice = 2%/-20% = 0.1 (absolute value)
+				(1 mark)
+	(	So the price elasticity of demand for milk is more elastic.	(1 mark)
+(b)	The demand for milk is more elastic because there are more substitutes for milk.					(2 marks)
+
+Question code: B1C05Q311
+A restaurant raises the price of its food, but its total revenue decreases as a result. With the aid of a diagram, explain the reason behind the above phenomenon.	(6 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Price increases and quantity transacted decreases	(1 mark)
+(	Decrease in revenue > Increase in revenue	(2 marks)
+
+Verbal elaboration:
+(	The elasticity of demand for the food in the restaurant is greater than 1.	(1 mark)
+(	The percentage decrease in the quantity demanded is greater than the percentage increase in the price. Hence, total revenue decreases.	(2 marks)
+
+Question code: B1C05Q312
+A fruit seller lowers the price of his fruit, but total revenue increases as a result.
+(a)	Does the above phenomenon support the law of demand? Explain.	(3 marks)
+Is the price elasticity of demand for the fruit less than or greater than 1? Explain.
+		(3 marks)
+Answers:
+(a)	The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(1 mark)
+	The phenomenon shows that the quantity demanded of fruit increases when the price decreases (when the price decreases, total revenue cannot increase if quantity demanded does not increase), so it supports the law of demand.	(2 marks)
+(b)	The increase in total revenue implies that the percentage increase in the quantity demanded is greater than the percentage decrease in the price. Hence, the price elasticity of demand is greater than 1.	(3 marks)
+
+Question code: B1C05Q313.
+Suppose that MTR fares are fixed initially. With a decrease in the bus fares, the MTR Corporation (MTRC) finds that its total revenue is falling.
+(a)	Explain why the total revenue for the MTRC is falling with the aid of a diagram.				(4 marks)
+(b)	To increase its revenue, the directors of the MTRC decided to raise MTR fares, but the total revenue has turned out to be lower than before. Explain why this happened with the help of a well-labelled diagram.	(5 marks)
+
+Answers: 
+(a)	(	MTR services and bus services are substitutes for each other.	(1 mark)
+	(	The decrease in bus fares reduces the demand for MTR services.	(1 mark)
+	(	If the fare remains at P0, the total revenue of MTR services must fall.	(1 mark)
+
+		(1 mark)
+
+(b)	Suppose the MTR fare is increased from P0 to P1.
+	(	The quantity demanded decreases from Q1 to Q2.	(1 mark)
+	(	If the demand for MTR services is elastic (Ed > 1), the loss in revenue (due to the decrease in quantity demanded from Q1 to Q2) will be greater than the gain in revenue (due to the increase in price from P0 to P1). The total revenue will thus decrease.	(2 marks)
+		(2 marks)
+
+Question code: B1C05Q314
+Suppose owing to the discovery of bloodworms (紅蟲) at public swimming pools. 
+(a)	Suppose the admission fee at public swimming pools is fixed. Explain how the discovery of bloodworms will affect the total revenue of public swimming pools.				(4 marks)
+(b)	In order to improve the service quality at public swimming pools, the government decides to raise the requirements for lifeguards. The spokesperson for a lifeguard organisation said that the policy can benefit lifeguards as a whole. Explain with the aid of a diagram why the spokesperson is correct. (Assume that the wage rate of lifeguards is determined by demand and supply.)	(6 marks)
+
+Answers: 
+(a)	(	The discovery of bloodworms will cause the demand for public swimming pool services to decrease.	(1 mark)
+	(	Suppose the admission fee is fixed at P0. The total revenue of public swimming pools will decrease as demand decreases.	(1 mark)
+	(2 marks)
+
+(b)	Raising the requirements for lifeguards will lead to a decrease in the supply of lifeguards.	(1 mark)
+	(	Supply decreases from S0 to S1.	(1 mark)
+	(	If public swimming pools' demand for lifeguards is inelastic (Ed < 1), the loss in total wage income (due to the decrease in employment from Q0 to Q1) will be smaller than the gain in total wage income (due to the increase in wage rates from P0 to P1), the total wage income of lifeguards will increase as supply decreases.	(2 marks)
+
+		(2 marks)
+
+
+Question code: B1C05Q315
+Recently, a price war between two big supermarkets in Hong Kong has broken out. The following is a conversation between the managers of one of the supermarkets.
+Manager A: 'A cut in prices will cause a drop in our total revenue.'
+Manager B: 'Our total revenue will decrease if we keep the price unchanged when the other supermarket cuts its price.'
+Explain the situations in which the statement by each manager is correct with the help of separate diagrams.	 (10 marks)
+
+Answers: 
+(	Manager A is correct if the demand for the goods in that supermarket is inelastic (Ed < 1).		(1 mark)
+(	The loss in revenue (due to the decrease in price from P0 to P1) is larger than the gain in revenue (due to the increase in quantity demanded from Q0 to Q1). So the total revenue drops.	(2 marks)
+		(2 marks)
+(	Manager B is right if the goods marketed by the two supermarkets are substitutes.	
+				 (1 mark)
+(	If the price of the goods marketed by the other supermarket decreases, the demand for its goods will decrease from D0 to D1.	(1 mark)
+(	Therefore, if the price remains at P0, the quantity demanded will decrease from Q0 to Q1 and the total revenue will fall.	(1 mark)
+
+	(2 marks)
+
+Question code: B1C05Q316
+Some people from the newspaper industry pointed out that free newspaper would drive out some traditional newspapers which had limited capital.
+Explain with the aid of a diagram if the above statement is related to the price elasticity of demand of traditional newspapers. 	(6 marks)
+
+Answers: 
+(	The above statement implies that free newspapers will cause the demand for traditional newspapers to fall sharply (D0(D1).	(1 mark)
+(	The total revenue of traditional newspapers will decrease as demand decreases, irrespective of their elasticity of demand. 	(1 mark)
+(	The quantity transacted decreases from Q0 to Q1, leading to a decrease in total revenue.	(2 marks)
+
+		(2 marks)
+
+
+Question code: B1C05Q317
+Due to an increase in labour costs, both the prices of chocolate and potato chips have increased. However, the total revenue from chocolate increases but the total revenue from potato chips decreases. With the aid of separate diagrams, explain this phenomenon using the price elasticity of demand.	(10 marks)
+
+Answers: 
+(	The revenue from chocolate increases since the demand for chocolate is inelastic (Ed < 1): the percentage increase in price is greater than the percentage decrease in quantity demanded. The gain from a higher price is greater than the loss from a lower quantity demanded. Therefore, total revenue increases.	(3 marks)
+		(2 marks)
+
+(	The revenue from potato chips decreases since the demand for potato chips is elastic (Ed > 1): the percentage increase in price is smaller than the percentage decrease in quantity demanded. The gain from a higher price is smaller than the loss from a lower quantity demanded. Therefore, total revenue decreases.				(3 marks)
+	(2 marks)
+
+
+Question code: B1C05Q318
+When both the wage rate and the rental rate increase, a firm's total labour cost decreases but its total rental cost increases. Explain the phenomenon with the concept of price elasticity of demand.	(6 marks)
+
+Answers: 
+(	The total labour cost decreases as the wage rate increases because the demand for labour is elastic (Ed > 1): 
+	the percentage increase in the wage rate is smaller than the percentage decrease in quantity demanded for labour. The increase in total labour cost brought by the increase in the wage rate is smaller than the decrease in total labour cost brought by the decrease in quantity demanded for labour. Therefore, total labour cost decreases.	(3 marks)
+(	The total rental cost increases with the rental rate because the demand for factory premises is inelastic (Ed < 1):
+	the percentage increase in the rental rate is greater than the percentage decrease in quantity demanded for factory premises. The increase in total rental cost brought by the increase in the rental rate is greater than the decrease in total rental cost brought by the decrease in quantity demanded for factory premises. Therefore, total rental cost increases.	(3 marks)
+
+Question code: B1C05Q319
+The longan (龍眼) harvest is good this year and its price decreases sharply. Suppose the demand for longan is inelastic.
+(a)	Explain with the aid of a diagram how consumers' total expenditure on longan changes.		(5 marks)
+(b)	Explain how the price of dried longan changes.	(3 marks)
+
+Answers: 
+(a)	(	Since the demand for longan is inelastic (Ed < 1), the percentage decrease in price is greater than the percentage increase in quantity demanded.	(1 mark)
+	(	The decrease in expenditure due to a lower price is greater than the increase in expenditure from a higher quantity demanded.	(1 mark)
+	(	Therefore, total expenditure decreases.	(1 mark)
+
+	(2 marks)
+
+(b)	•	The cost of producing dried longan will decrease when the price of longan decreases.	(1 mark)
+	•	The supply of dried longan will increase.	(1 mark)
+	•	Therefore, the price of dried longan will decrease.	(1 mark)
+
+Question code: B1C05Q320 (new)
+The price of local bananas has increased sharply due to bad weather. Suppose the demand for local bananas is elastic.
+(a)	Explain how this will affect the total income of local banana growers.	(3 marks)
+(b)	Explain how this will affect the total income of banana importers.	(3 marks)
+
+Answers: 
+(a)	(	Given that the demand for local bananas is elastic, the percentage increase in price will be smaller than the percentage decrease in quantity demanded.	(1 mark)
+	(	The increase in total income due to a higher price is smaller than the decrease in total income due to a lower quantity demanded.	(1 mark)
+	(	Therefore, the total income of local banana growers decreases.	(1 mark)
+(b)	(	Foreign bananas are a close substitute for local bananas.	(1 mark)
+	(	The demand for foreign bananas will increase as the price of local bananas increases.	(1 mark)
+	(	Therefore, the total income of banana importers will increase.	(1 mark)
+
+
+Question code: B1C05Q321
+Mr Wong owns a restaurant, the maximum capacity of which is fixed. Business at Mr Wong's restaurant is so bad that it has many empty seats. He then launches a promotion by providing free bird's nest (燕窩) to customers. This results in a long queue forming outside his restaurant.
+(a)	To which type of supply elasticity does the services provided by Mr Wong's restaurant belong? Explain.	(2 marks)
+(b)	With a well-labelled diagram, explain why there is a long queue.	(5 marks)
+(c)	In order to compensate for the expenditure he incurs by providing free bird's nest, Mr Wong increases the price of dishes and finds the queue outside the shop becomes shorter. Will he be successful at increasing his total revenue? Explain with the aid of a diagram.	(6 marks)
+
+Answers: 
+(a)	(	Perfectly inelastic	(1 mark)
+	(	Because the restaurant's capacity is fixed.	(1 mark)
+(b)	(	Giving out free bird's nest to customers largely increases the demand for food at the restaurant (D0(D1).	(1 mark)
+
+	(2 marks)
+	(	The demand increases to such an extent that the original price (P1) is lower than the new equilibrium or market-clearing price.	(1 mark)
+	(	If the price of food is still fixed at P1, the quantity demanded will be greater than the quantity supplied and there will be excess demand (Q1 - Q0).	(1 mark)
+(c)	(	Suppose the restaurant raises the price of food from P1 to P2. Since some people are still queuing outside the restaurant, the new price is still lower than the equilibrium price.	(1 mark)
+	(	Price increases (P1(P2) but the quantity transacted remains at Q0.	(2 marks)
+
+			(2 marks)
+	(	Therefore, the increase in price will lead to an increase in total revenue.
+					(1 mark)
+
+Question code: B1C05Q322
+After a tutorial school launched a promotion emphasising classes taught by 'famous teachers', the number of students who applied for tutorial classes at the school increased drastically. The number of applicants also exceeded the limit set by the government. Assume the places and the tuition fees for the classes are fixed.
+(a)	Explain to which type of supply elasticity the service of the tutorial school belongs.			(2 marks)
+(b)	With the aid of a diagram, explain the above phenomenon.	(5 marks)
+(c)	In order to reduce the financial burden on students and their parents, the tutorial school reduces its tuition fee. With the aid of a diagram, explain how its total revenue will change.	(4 marks)
+
+Answers: 
+(a)	(	The supply of the tutorial school's services is perfectly inelastic	(1 mark)
+	(	Because the number of students it can serve is limited by the government.
+		(1 mark)
+(b)	(	The promotion will lead to an increase in demand for the tutorial services offered by the tutorial school (D0(D1).	(1 mark)
+	(	Since both the supply of tutorial services (S0) and the tuition fee (P0) are fixed, there will be excess demand (Q1 - Q0) as demand increases.	(2 marks)
+
+	
+
+
+	(2 marks)
+
+(c)	Given the fixed supply and excess demand, the total revenue of the tutorial school must decrease as the tuition fee decreases (P0 ( P1) and the quantity transacted remains unchanged (Q0). 	(2 marks)
+
+	
+	(2 marks)
+
+
+Question code: B1C05Q323
+Suppose the public's income greatly decreases and medical service is a normal good. At the same time, Dr Chan and Dr Lee find that no patients queue outside their clinic and they have to wait a longer time before the next patient comes.
+(a)	Explain why this happens with a well-labelled diagram.	(6 marks)
+(b)	To attract more patients, they lower their price for general consultation (普通科門診). However, their total revenue has decreased. Explain why.	(5 marks)
+
+Answers: 
+(a)
+		(2 marks)
+
+	(	Initially, the price (P0) is set below the equilibrium level so that there are patients queuing outside the clinic.	(1 mark)
+	(	When the general public's income decreases, the demand for medical services falls.		(1 mark)
+	(	Assume the price at their clinic remains fixed at P0. If the decrease in demand is so great that the original price is now higher than the equilibrium price,			(1 mark)
+	(	the quantity demanded will be smaller than the quantity supplied. Therefore, they have to wait a longer time before the next patient comes.	(1 mark)
+
+(b)	
+		(2 marks)	
+	(	Suppose they lower the price from P0 to P1.
+	(	If demand is inelastic (Ed < 1), the decrease in revenue due to a decrease in price will be greater than the increase in revenue due to an increase in quantity demanded. Therefore, total revenue will decrease.	(3 marks)
+
+Question code: B1C05Q324 (new)
+In recent years, Hong Kong people have become fond of reading books. 
+(a)	With the aid of a diagram, explain how the above situation will affect the total revenue of publishers.	(6 marks)
+(b)	In response, some foreign bookstore chains have set up branches in Hong Kong. Suppose the demand for books is inelastic. With the aid of a diagram, explain how the total expenditure on books will change.	(7 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increase in price and quantity transacted	(1 mark)
+
+
+	Verbal elaboration:
+	(	This will lead to an increase in the demand for books from D0 to D1.	(1 mark)
+	(	The price of books will increase from P0 to P1 and the quantity transacted will increase from Q0 to Q1. 	 (2 marks)
+	(	Therefore, the total revenue of publishers will increase.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply curve	(1 mark)
+	(	Increase in total expenditure < Decrease in total expenditure	(2 marks)
+
+	Verbal elaboration:
+	(	The increase in the number of bookstores will raise the supply of books from S0 to S1.	(1 mark)
+	(	The price of books will decrease from P0 to P1 and the quantity transacted will increase from Q0 to Q1. 	 (1 mark)
+	(	As the demand is inelastic, the percentage decrease in price is larger than the percentage increase in quantity transacted.	(1 mark)
+	(	The total expenditure on books will decrease.	(1 mark)
+
+
+Question code: B1C05Q325
+* Karen is the owner of a boutique. To increase the total revenue, Karen lowers the prices of her products. Knowing this, the nearby boutiques also lower the price of their products. Will Karen's total revenue increase in this situation? Explain.	(5 marks)
+
+Answers: 
+					(1 mark)
+(	Assume the price is lowered from P0 to P1.
+(	Since the clothes of other boutiques are close substitutes for the clothes in Karen's shop, a decrease in the prices of other boutiques' clothes will cause a decrease in the demand for the clothes in Karen's shop.	 (2 marks)
+(	Whether the total revenue will increase or not depends on the percentage drop in the price and the percentage rise in the quantity of Karen's clothes.	(2 marks)
+
+Question code: B1C05Q326 (new)
+Patrick said, 'When there is an increase in supply, the direction of change in total revenue mainly depends on the demand elasticity.'
+Anna said, 'When there is an increase in demand, the direction of change in total revenue mainly depends on the supply elasticity.'
+Are they correct? Explain your answers.	(8 marks)
+
+Answers:
+Patrick is correct.	(1 mark)
+When there is an increase in supply, there will be a decrease in price and an increase in quantity transacted. The total revenue will increase when the percentage decrease in price is smaller than the percentage increase in quantity transacted, and vice versa. This depends on the demand elasticity.	(3 marks)
+Anna is incorrect.	(1 mark)
+When there is an increase in demand, both price and quantity transacted will increase. Therefore, the total revenue must increase regardless of the supply elasticity.	(3 marks)
+
+Question code: B1C05Q327 (new)
+Suppose Country G starts to import milk from other countries.
+(a)	Milk is the main ingredient of ice cream. Explain how the price elasticity of the supply of ice cream will change in Country G under the above situation.	(3 marks)
+(b)	How will the total expenditure on locally produced milk change? Does the direction of change depend on the price elasticity of supply? Explain.	(4 marks)
+
+Answers:
+(a)	The supply of ice cream will become more elastic.	(1 mark)
+	There are more sources of milk. Firms can adjust their output more easily.
+	(2 marks)
+(b)	The demand for locally produced milk decreases as people can also choose to drink imported milk now.	(1 mark)
+	Both the price and quantity transacted of locally produced milk will decrease.
+	(1 mark)
+	Hence, the total expenditure on locally produced milk will decrease.	(1 mark)
+	The direction of change in the total expenditure does not depend on the price elasticity of supply.	(1 mark)
+
+Question code: B1C05Q328
+Business at Fun's fruit juice shop has been so bad that she has been suffering losses for a long time. In order to improve the situation, she has decided to adjust prices. Explain whether Fun can increase income by adjusting prices only under the following situations.
+(a)	The price elasticity of demand for fruit juices is equal to one.	(3 marks)
+(b)	The price elasticity of demand for fruit juices is equal to two.	(3 marks)
+
+Answers: 
+(a)	(	If the price elasticity of demand for fruit juices is equal to one, Fun cannot increase income by only adjusting prices.	(1 mark)
+	(	Since the percentage decrease (increase) in price is always equal to the percentage increase (decrease) in quantity demanded, her total revenue will not change when price changes.	 (2 marks)
+(b)	(	If the price elasticity of demand for fruit juices is equal to 2, Fun can increase total revenue by reducing prices.	(1 mark)
+	(	Since the percentage decrease in price will be smaller than the percentage increase in quantity demanded, her total revenue will increase as price decreases.	(2 marks)
+
+Question code: B1C05Q329
+(a)	What does the price elasticity of supply measure?	(2 marks)
+* (b)	Is the price elasticity of supply the same as the slope of the supply curve? Explain with an example and the corresponding diagram.	(3 marks)
+
+Answers: 
+(a)	The price elasticity of supply measures the responsiveness of the quantity supplied of a good to a change in its price.	(2 marks)
+(b)	(	ES 	(1 mark)
+	(	So the price elasticity of supply is not the same as the slope of the supply curve (i.e., )	(1 mark)
+	(	Any correct example with elaboration	(1 mark)
+		e.g.
+		
+		The price elasticity of perfectly inelastic supply is zero while the slope of its supply curve is infinity. Therefore, the slope of the supply curve is not the same as the price elasticity of supply.
+
+
+Question code: B1C05Q330
+(a)	What is unitarily elastic supply?	(2 marks)
+(b)	The following table concerns Ming's supply of bananas. 
+
+Price ($)	1	2	3	4	5	6		Quantity supplied (units)	10	20	30	40	50	60		
+	Explain Ming's price elasticity of supply of bananas.	(2 marks)
+
+Answers: 
+(a)	Unitarily elastic supply: when the price rises (drops), the quantity supplied rises (drops) by the same percentage.	(2 marks)
+(b)	According to the above data, the percentage increase in price is the same as the percentage increase in quantity supplied. Therefore, the supply exhibited in the above data is unitarily elastic. 	(2 marks)
+
+Question code: B1C05Q331
+* Study the following table.
+
+	Change in price	Change in quantity transacted	
+ Good A	+100%	+30%	
+ Good B	+100%	-30%	
+
+Suppose the above changes are caused either by a change in demand or a change in supply. Find and explain the price elasticity of demand or supply for Good A and Good B.			(6 marks)
+
+Answers: 
+Good A:
+Since the price and the quantity transacted have changed in the same direction, the changes have been brought by an increase in demand. Moreover, since the percentage increase in price is greater than the percentage increase in quantity transacted, we can deduce that the supply of Good A is inelastic.	(3 marks)
+Good B:
+Since the price and the quantity transacted have changed in the opposite direction, the changes have been brought by a decrease in supply. Moreover, since the percentage increase in price is greater than the percentage decrease in quantity transacted, we can deduce that the demand for Good B is inelastic.	(3 marks)
+
+
+Structured Questions
+
+Question code: B1C05Q501 (new)
+The Hong Kong Book Fair has become a popular event. Every year, tens of thousands of people go to the Book Fair with many mainland visitors. Suppose the government would like to reduce the number of non-local visitors to the Book Fair, and raise the entrance fee for non-local people from $10 to $25. Despite this, the number of non-local visitors decreases only by 10%.
+(a)	From the above information, what is the price elasticity of demand for the Book Fair by non-local people within the mentioned price range?	(2 marks)
+(b)	Give TWO factors to explain the elasticity of demand in (a).	(4 marks)
+(c)	Based on your answer in (a), explain the effect of the price increase on non-local visitors' total expenditure on Book Fair tickets.	(4 marks)
+(d)	A local student said, 'My cost of going to the Book Fair is more than $10.' Explain why this is possible.	(2 marks)
+
+Answers:
+(a)	Percentage change in price =  × 100% = -150%
+	Ed =  = 0.067 (neglecting negative sign)	(2 marks)
+(b)	(	The entrance fee only accounts for a small proportion of income.
+(	There are no other close substitutes. Since there is only one Book Fair in Hong Kong, non-local visitors may want to experience the special event in Hong Kong.
+	(Accept other reasonable answers. 2 marks × 2 = 4 marks)
+(c)	Indicate on the diagram:
+	(	Increase in total expenditure > Decrease in total expenditure	(2 marks)
+	
+
+	Verbal elaboration:
+	As non-local visitors' demand for the Book Fair tickets is inelastic, when the price of the tickets increases, total expenditure increases.	(2 marks)
+(d)	In addition to the money cost (i.e., ticket price), his cost of going to the Book Fair also includes the non-money cost, such as his income forgone for the time he spent going to the fair.	(2 marks)
+
+Question code: B1C05Q502 (new)
+Galaxy Park is a popular theme park in City K. It is now operating at its full capacity.
+(a)	To which type of price elasticity does the supply of the services of Galaxy Park belong? Explain briefly.	(3 marks)
+(b)	Galaxy Park decides to extend its service hours to midnight. If the demand for the services of Galaxy Park is elastic, explain with the aid of a diagram how the total ticket revenue of Galaxy Park will change.	(6 marks)
+(c)	Several theme parks will be built in City K. Explain how this will affect the price elasticity of demand for Galaxy Park.	(3 marks)
+
+Answers:
+(a)	Perfectly inelastic because	(1 mark)
+	quantity supplied cannot change with the ticket prices.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in the vertical supply curve	(1 mark)
+	(	Gain in total revenue > Loss in total revenue	(2 marks)
+	
+	Verbal elaboration:
+	After the extension of service hours, the supply will increase from S0 to S1.
+				(1 mark)
+	Given that the demand is elastic, the percentage decrease in price is smaller than the percentage increase in quantity.	(1 mark)
+	Therefore, the total ticket revenue will increase.	(1 mark)
+
+(c)	The services of other theme parks are substitutes for the services of Galaxy Park. 					(1 mark)
+	As the number of substitutes will increase, the demand for the services of Galaxy Park will be more elastic.	(2 marks)
+
+Question code: B1C05Q503 (new)
+Suppose there is a breakthrough in the development of nuclear fusion (核聚變) power. Electricity can be generated in a cheaper and safer way. 
+(a)	With the aid of a diagram, explain how the total revenue from oil will change under the above situation.	(5 marks)
+(b)	Suppose the demand for electricity is inelastic. After the breakthrough, the cost of electricity generation will decrease. With the aid of a diagram, explain how the total expenditure on electricity will change.	(5 marks)
+(c)	Suggest TWO reasons to explain why the demand for electricity tends to be inelastic.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decrease in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	The demand for oil (as energy source) decreases from D0 to D1 when the technology of nuclear power generation improves.	(1 mark)
+	Both price and quantity transacted decrease.	(1 mark)
+	Therefore, the total revenue will decrease from P0 × Q0 to P1 × Q1.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply curve	(1 mark)
+	(	Increase in total expenditure < Decrease in total expenditure	(1 mark)
+	
+	Verbal elaboration:
+	As the cost of electricity generation decreases, the supply of electricity increases from S0 to S1.	(1 mark)
+	Given that the demand is inelastic, the percentage decrease in price will be larger than the percentage increase in quantity transacted.	(1 mark)
+	Therefore, the total expenditure on electricity will decrease.	(1 mark)
+(c)	(	Electricity is a necessity.
+	(	There is no close substitute for electricity.
+	(Accept other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B1C05Q504 (new)
+Ka Ming has become addicted to cocaine (可卡因). He keeps using a certain amount of cocaine every day, no matter how the price of cocaine changes.
+(a)	To which price elasticity does Ka Ming's demand for cocaine belong? Explain.
+				(3 marks)
+(b)	Suppose the government increases the punishment for cocaine sellers to the death penalty. With the aid of a diagram, explain how Ka Ming's total expenditure on cocaine will change.	(6 marks)
+(c)	Does Ka Ming only pay the price of cocaine as his cost of addiction? Explain briefly with the concept of full cost.	(3 marks)
+
+Answers:
+(a)	Perfectly inelastic because	(1 mark)
+	his quantity demanded remains unchanged when the price of cocaine changes.					(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Vertical demand curve	(1 mark)
+	(	Leftward shift in supply curve	(1 mark)
+	(	Increase in total expenditure	(1 mark)
+	
+	Verbal elaboration:
+	As the punishment for sellers becomes heavier, the supply of cocaine decreases from S0 to S1.	(1 mark)
+	The price increases from P0 to P1 while the quantity transacted remains at Q0.
+				(1 mark)
+	Therefore, the total expenditure will increase from P0 × Q0 to P1 × Q0.	(1 mark)
+
+(c)	Full cost includes the money cost and the non-money cost.	(1 mark)
+Besides the price (i.e., money cost), Ka Ming also has to pay the health cost (i.e., non-money cost) as cocaine adversely affects health.	(2 marks)
+
+Question code: B1C05Q505 (new)
+According to an article from the Daily Mail in April 2014, there is a growing taste for chocolate in Asia, particularly China. 
+(a)	With the aid of a supply-demand diagram, explain the effect of the growing demand on the total expenditure for chocolate all over the world.	(5 marks)
+(b)	With the aid of a supply-demand diagram, explain under what condition the total expenditure on chocolate cake will increase.	(7 marks)
+
+Answer:
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increase in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	With a growing taste for chocolate in Asia, the demand for chocolate as a whole worldwide increases from D1 to D2.	(1 mark)
+	The price increases from P1 to P2 and the quantity transacted increases from Q1 to Q2.			(1 mark)
+	The total expenditure on chocolate will increase from P1 × Q1 to P2 × Q2.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift in supply curve	(1 mark)
+	(	Increase in total expenditure > Decrease in total expenditure	(2 marks)
+	
+	Verbal elaboration:
+	As chocolate is an input of chocolate cake, the supply of chocolate cake decreases from S0 to S1 when the price of chocolate increases.	(1 mark)
+	The price of chocolate cake increases while the quantity transacted decreases.
+	(1 mark)
+	If the demand for chocolate cake is inelastic, the percentage increase in price will be larger than the percentage decrease in quantity transacted. Hence, the total expenditure will increase.	(2 marks)
+
+
+Question code: B1C05Q506
+Legend of the Galactic Heroes is a 10-volume work of fiction. In the past, the first volume sold $25 and each of the remaining volumes cost $75. Suppose the publisher found that if it raised the price of the first volume, its total revenue would decrease, but if it raised the price of the second volume, its total revenue would increase.
+(a)	Does the first volume or the second volume have a more elastic demand? Explain.				(5 marks)
+(b)	Suppose the day before the second volume was published, some students who couldn't wait to read the book queued up overnight outside bookstores. Explain whether their cost of buying the second volume was $75.	(3 marks)
+(c)	A game developer has produced a computer game based on the book. Suggest ONE situation in which playing computer games belongs to consumption and ONE situation that playing computer games belongs to production.	(4 marks)
+
+Answers: 
+(a)	(	Total revenue decreases when the price of the first volume increases. This implies that the percentage change in quantity demanded is greater than the percentage change in price, so demand for the first volume is elastic.
+				(2 marks)
+	(	The total revenue increases when the price of the second volume increases. This implies that the percentage change in quantity demanded is smaller than the percentage change in price, so demand for the second volume is inelastic. 			(2 marks)
+	(	Therefore, demand for the first volume is more elastic.	(1 mark)
+
+(b)	(	No. Their full cost was greater than $75.	(1 mark)
+	(	Full cost includes their money cost and non-money cost. When the students queued up overnight, they gave up the highest-valued alternative use of the time, which was their non-money cost.	(2 marks)
+
+(c)	(	Consumption: A student plays computer games for recreation. (Accept other reasonable answer.)	(2 marks)
+	(	Production: A programmer plays computer games to test the game programme. (Accept other reasonable answer.)	(2 marks)
+
+
+Question code: B1C05Q507
+Flooding in the mainland damaged many agricultural products. As a result, the price of these products in Hong Kong rose.
+(a)	With the aid of a diagram, explain under what condition the total expenditure of Hong Kong consumers on agricultural products will increase.	(6 marks)
+(b)	The following table shows the quantity demanded of Choy-Sum (菜心) at different prices:
+Price per unit ($)	Quantity demanded per day (units)	
+8	20	
+6	30	
+4	40	
+2	50	
+How does consumers' total expenditure change when the price increases from $4 to $8? What is the elasticity of demand within this price range? Explain your answer.		(5 marks)
+(c)	The world's population has been increasing over the years. Explain its effect on food prices.	(2 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Supply curve shifts leftwards.	(1 mark)
+	(	Increase in total expenditure > Decrease in total expenditure	(2 marks)
+	
+	Verbal elaboration:
+	(	The supply of agricultural products decreases.	(1 mark)
+	(	If the demand for these products is inelastic, the percentage increase in price is greater than the percentage decrease in quantity demanded; total expenditure will increase.	(2 marks)
+
+(b)	When the price is $4, total expenditure = $4 × 40 = $160	(1 mark)
+	When the price is $8, total expenditure = $8 × 20 = $160	(1 mark)
+	Hence, total expenditure remains unchanged.	(1 mark)
+Since total expenditure remains unchanged when the price increases, the percentage change in quantity demanded is the same as the percentage change in price. In this case, the elasticity of demand is equal to 1. / the demand is unitarily elastic.	(2 marks)
+
+(c)	The increase in population results in an increase in the demand for food. Therefore, food prices tend to increase.	(2 marks)
+
+Question code: B1C05Q508
+Newspaper A cuts its price by $1 in order to attract more customers. Suppose the prices of other newspapers remain unchanged. Explain the following phenomena with separate well-labelled diagrams:
+(a)	the total revenue of Newspaper A which cuts its price increases; and	(6 marks)
+(b)	the total revenues of other newspapers drop.	(6 marks)
+
+Answers: 
+(a)	(	The total revenue of the newspaper which cuts its price increases since the demand for it is elastic (Ed > 1): the percentage decrease in price is smaller than the percentage increase in quantity demanded.	(2 marks)
+	(	The loss from a lower price is smaller than the gain from a higher quantity demanded. Therefore, total revenue increases.	(2 marks)
+
+		(2 marks)
+
+(b)	(	Different newspapers are in competitive demand. 	(1 mark)
+	(	When the price of Newspaper A drops, the demand for other newspapers decreases.	(1 mark)
+	(	Their price remains unchanged at P1 but their quantity transacted decreases. Therefore, their total revenues decrease.	(2 marks)
+
+	(2 marks)
+
+Question code: B1C05Q509
+The total revenue of Magazine Company A increases when it raises its price in response to an increase in costs. However, Magazine Company B, which follows Company A in raising price, suffers a drastic decrease in total revenue. Explain the above phenomenon with separate diagrams.	(12 marks)
+
+Answers: 
+(	Company A's total revenue increases with price because its demand is inelastic (Ed < 1): the percentage increase in price is greater than the percentage decrease in quantity demanded.	(2 marks)
+(	The gain from the increase in price is greater than the loss from the decrease in quantity demanded. Therefore, its total revenue increases.	(2 marks)
+
+	(2 marks)
+(	Company B's total revenue decreases as price increases because its demand is elastic (Ed > 1): the percentage increase in price is smaller than the percentage decrease in quantity demanded.	 (2 marks)
+(	The gain from the increase in price is smaller than the loss from the decrease in quantity demanded. Therefore, its total revenue decreases.	(2 marks)
+
+		(2 marks)
+
+Question code: B1C05Q510 (new)
+After the disastrous tsunami that hit Japan in 2011, the number of tourists visiting Japan decreased sharply due to fears about radiation leaks at Fukushima (福島).
+(a)	With a well-labelled diagram, explain why there was a sharp decrease in the number of air passengers travelling to Japan.	(5 marks)
+(b)	Explain why there was a decrease in the price of travel insurance after the radiation leaks.	(3 marks)
+(c)	Some airlines in Japan cut ticket prices between Hong Kong and Japan to attract more passengers. After the price cut, the airlines noticed a rise in their total revenue. With the aid of a diagram, explain why this would happen.	(5 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decrease in the number of air passengers visiting Japan	(1 mark)
+	
+
+	Verbal elaboration:
+	(	Since tourists are concerned about travelling to Japan due to the fear of radiation leaks, fewer people are travelling to Japan. Their demand for airline services has decreased (D0 ( D1).	(2 marks)
+	(	The number of air passengers travelling to Japan has decreased (Q0 ( Q1).			(1 mark)
+
+(b)	(	The demand for travel insurance is derived from the demand for travelling. A fall in the number of people travelling to Japan led to a fall in the demand for travel insurance. As a result, the price of travel insurance decreased.	(3 marks)
+
+(c)	Indicate on the diagram:
+	(	Gain in TR > Loss in TR	(2 marks)
+		
+	Verbal elaboration:
+	(	The decrease in price (P0( P1) led to an increase in quantity demanded (Q0 ( Q1).	(1 mark)
+	(	If the demand for air tickets between Hong Kong and Japan is elastic, the percentage decrease in price would be smaller than the percentage increase in quantity demanded. Hence, the total revenue of the airlines would increase.			(2 marks)
+
+
+Question code: B1C05Q511 (new)
+During the 2014 World Cup in Brazil, many football fans went to Brazil to see the matches.
+(a)	With the aid of a diagram, explain how the total revenue of Brazilian airlines changed during the World Cup. (Assume that ticket prices were fixed.)	(4 marks)
+(b)	During the World Cup, the Brazilian government improved public transport systems. The frequency of bus and train services was increased. If the demand for public transport services in Brazil is inelastic, use a diagram to explain how the total revenue would change..	(6 marks)
+*(c)	A Brazilian football fan said, 'I spend half of my income on football match tickets every month.' Explain briefly to which type of price elasticity his demand for football match tickets belong.	(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand	(1 mark)
+	(	Increase in quantity	(1 mark)
+	
+	Verbal elaboration:
+	(	Since football fans travelled to Brazil, the demand for air tickets to Brazil increased (D0 ( D1).	(1 mark)
+	(	The total revenue of Brazilian airlines increased (P0 ( Q0 ( P0 ( Q1).	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply	(1 mark)
+	(	Gain in total revenue < Loss in total revenue	(2 marks)
+	
+	Verbal elaboration:
+	(	When the government improved public transport systems, the supply of public transport services increased from S0 to S1.	(1 mark)
+	(	Given that the demand is inelastic, the percentage decrease in price would be larger than the percentage increase in quantity. 	(1 mark)
+	(	The total revenue would decrease.	(1 mark)
+
+(c)	(	As his total expenditure is fixed (i.e., half of his income) regardless of the ticket price, his quantity demanded must decrease by the same percentage whenever the price increases.	(2 marks)
+	(	Therefore, his demand is unitarily elastic.	(1 mark)
+
+Question code: B1C05Q512
+Assume that the coffee price of Café X is fixed initially. After the opening of Café Y, the total revenue of Café X decreases sharply.
+(a)	Explain how the opening of Café Y affects the total revenue of Café X.	(3 marks)
+(b)	After increasing the coffee price, Café X finds that its revenue has decreased. Explain this phenomenon with the aid of a diagram.	(5 marks)
+(c)	Suppose the demand for Café Y's coffee is elastic. With the aid of diagrams, explain how the equilibrium price, quantity transacted and total revenue of Café Y's coffee will be affected in each of the following cases.
+	(i)	Café X increases the price of its coffee.	(5 marks)
+	(ii)	The price of coffee beans increases sharply.	(7 marks)
+(d)	Suppose Café Y plans to seek out more coffee bean sources. Explain how this plan will affect the price elasticity of supply of Café Y's coffee.	(2 marks)
+
+
+Answers: 
+(a)	(	After the opening of Café Y, the demand for Café X's coffee decreased.
+		(1 mark)
+	(	The equilibrium price and quantity transacted of Café X's coffee decrease, thus lowering the total revenue.	(2 marks)
+
+(b)	(	It is because the demand for Café X's coffee is elastic.	(1 mark)
+	(	When the price is increased, the loss in revenue (due to the decrease in quantity demanded) is larger than the gain in revenue (due to the increase in price), resulting in a decrease in total revenue.	(2 marks)
+
+			(2 marks)
+
+(c)	(i)	(	Since Café Y's coffee is a close substitute for Café X's coffee, the demand for Café Y's coffee increases.	(1 mark)
+		(	The equilibrium price and quantity transacted of Café Y's coffee increases.	(1 mark)
+		(	The total revenue of Café Y increases.	(1 mark)
+	 (2 marks)
+	(ii)	(	The supply of Café Y's coffee decreases.	(1 mark)
+		(	The equilibrium price of Café Y's coffee increases.	(1 mark)
+		(	The quantity transacted of Café Y's coffee decreases.	(1 mark)
+		(	Since the demand for Café Y's coffee is elastic, the loss in revenue (due to the decrease in quantity transacted) is larger than the gain in revenue (due to the increase in price), the total revenue will decrease.	(2 marks)
+
+		(2 marks)
+
+(d)	(	When there are more coffee bean sources, the flexibility of production increases.	(1 mark)
+	(	The price elasticity of supply of Café Y's coffee increases.	(1 mark)
+
+Question code: B1C05Q513
+Suppose after a report is published stating that drinking lemon tea can help prevent cancer,, the prices of lemons and lemon tea, as well as the total revenue of a restaurant, increase drastically.
+* (a)	Explain the change in the restaurant's total revenue.	(5 marks)
+(b)	Explain how the following situations will affect the total sales revenue for lemon tea:
+	(i)	The harvest of lemons is good and the demand for lemon tea is elastic.
+				(4 marks)
+	(ii)	The harvest of tea is bad and the demand for lemon tea is inelastic..	(4 marks)
+
+Answers: 
+(a)	(	The report will lead to an increase in demand for lemon tea.	(1 mark)
+	(	Since lemon tea is a substitute for other drinks such as coffee, the restaurant's income from selling other drinks will decrease.	(2 marks)
+	(	According to information provided, the restaurant's total revenue increases as the demand for lemon tea increases. This means that the loss in total revenue due to the decrease in demand for other drinks is smaller than the gain in total revenue due to the increase in demand for lemon tea.	(2 marks)
+
+(b)	(i)	(	When there is a good harvest of lemons, the price of lemons will decrease, resulting in a decrease in the production cost and price of lemon tea.		(2 marks)
+		(	Since the demand for lemon tea is elastic, the loss in total revenue (due to the decrease in price) will be smaller than the gain in total revenue (due to the increase in quantity demanded). Therefore,  total sales of lemon tea will increase.	(2 marks)
+	(ii)	(	When there is a bad tea harvest, the price of tea will increase, resulting in an increase in production costs and the price of lemon tea.		(2 marks)
+		(	Since the demand for lemon tea is inelastic, the loss in total revenue (due to the decrease in quantity demanded) is smaller than the gain in total revenue (due to the increase in price). Therefore, the total sales revenue of lemon tea will increase.	(2 marks)
+
+Question code: B1C05Q514
+In recent years, more and more mainlanders have come to Hong Kong to buy luxury products. As the Renminbi has appreciated, it has become cheaper for mainlanders to shop in Hong Kong.
+(a)	The sales revenue of luxury retailers in the mainland cities, such as Beijing and Shanghai, has greatly decreased over the same period. 
+	(i)	With the aid of a diagram, explain why this has happened.	(5 marks)
+	(ii)	What is the impact on the equilibrium rental rate of the shops in those cities and the total rental income from them? Explain with the aid of a diagram.
+		(6 marks)
+(b)	In order to compete with retailers in Hong Kong, retailers in the mainland have lowered the price of their goods. With the aid of a diagram, explain under what conditions their attempt to raise total revenue will be successful.	(6 marks)
+
+Answers: 
+(a)	(i)	(	Since luxury products sold in Hong Kong and similar goods sold in the mainland are close substitutes, the demand for the mainland goods will decrease (D0(D1).	 (2 marks)
+		(2 marks)
+
+		(	If the price of goods sold in the mainland is fixed at P0, the decrease in demand will lead to a decrease in total revenue.	(1 mark)
+	(ii)	(	Since the demand for rented shops in the mainland is derived from the demand for goods sold at the shops, the decrease in demand for their goods will lead to a decrease in the demand for the rented shops. 
+	(2 marks)
+
+
+	(2 marks)
+		(	The equilibrium rental rate will decrease.	(1 mark)
+		(	Since the number of shops is fixed at Q0, a decrease in the equilibrium rental rate will lead to a decrease in total rental income.	(1 mark)
+
+(b)
+			(2 marks)
+
+	(	If the demand for the goods is elastic (Ed > 1), the percentage increase in quantity demanded will be greater than the percentage decrease in price.			(2 marks)
+	(	Then the gain in total revenue (due to an increase in quantity demanded) will be greater than the loss in total revenue (due to a decrease in price), resulting in a higher total revenue.	(2 marks)
+
+Question code: B1C05Q515
+In recent years, more and more parents have let their children go on overseas study tours during the summer holidays.
+(a)	The number of participants in summer activities in Hong Kong has fallen drastically. 
+	(i)	Suppose the price of those summer activities is fixed. Explain the above phenomenon with the aid of a diagram.	(4 marks)
+	(ii)	Explain how this will affect the total revenue for organisers of summer activities in Hong Kong.	 (2 marks)
+(b)	Several travel agencies in Hong Kong plan to increase the price of study tours. Explain under what situation(s) they can increase their total revenue by increasing prices.	(6 marks)
+
+
+Answers: 
+(a)	(i)	Since more and more children go on overseas study tours during the summer holidays, the demand for summer activities in Hong Kong will decrease (D0(D1). Thus, the number of participants decreases from Q0 to Q1.	(2 marks)
+	(2 marks)
+	(ii)	Since the price is fixed, the total revenue for organisers of summer activities in Hong Kong will decrease as the number of participants decreases.	(2 marks)
+(b)
+	(2 marks)
+	(	If the demand for study tours is inelastic (Ed < 1), the percentage increase in price will be greater than the percentage decrease in quantity demanded.
+				(2 marks)
+	(	Therefore, travel agencies' gain in total revenue (due to the increase in price) will be greater than their loss in total revenue (due to the decrease in quantity demanded), and their total revenue will increase.	(2 marks)
+
+
+Question code: B1C05Q516
+Pizza Hut and Spaghetti House are two restaurant chains that sell Italian dishes in Hong Kong. Suppose Hong Kong suffers from an economic downturn and the total revenue for Pizza Hut falls.
+(a)	(i)	Suppose the prices at Pizza Hut remain unchanged initially. Explain why its total revenue has fallen.	(4 marks)
+	* (ii)	In order to attract more customers, Pizza Hut later cuts its food prices (e.g., the lower-price set meals). But the sales manager still finds the sales revenue lower than the period before the economic downturn. Explain with a well-labelled diagram why this happened.	(6 marks)
+(b)	(i)	After Pizza Hut cuts its food prices, the Spaghetti House also experiences a decrease in its sales revenue. Explain with a diagram.	(5 marks)
+	(ii)	Suppose the sales manager of Spaghetti House cuts the prices of its food. Will he be successful in increasing the total revenue of his company? Explain with the aid of a diagram.	(6 marks)
+
+Answers: 
+(a)	(i)	(	Since Italian food is a superior good (or normal good), a reduction in income will lead to a decrease in the demand for it (D0(D1).	(1 mark)
+			(2 marks)
+
+		(	Assume the price was initially fixed at P0, the total revenue has now decreased from P0 × Q0 to P0 × Q1.	(1 mark)
+
+	(ii)
+			(2 marks)
+		(	Suppose Pizza Hut lowers its food price from P0 to P1.
+		(	When the price decreases from P0 to P1, the quantity demanded of its food increases from Q1 to Q2.	 (1 mark)
+		(	However, the quantity demanded is still lower than that before the economic downturn, Q0.	 (1 mark)
+		(	Since both price and quantity demanded are lower than those before the economic downturn, the total revenue of Pizza Hut (P1 × Q2) is lower than that before.	(2 marks)
+
+(b)	(i)	(	Since food and services provided by Pizza Hut and Spaghetti House are similar, they are close substitutes for each other.	(1 mark)
+		(	When the food prices offered by Pizza Hut decrease, people will buy more food from Pizza Hut and less food from Spaghetti House. Hence, the demand for food at Spaghetti House will decrease (D0(D1).	(1 mark)
+		(	If the price of food at Spaghetti House is fixed at P0, total revenue will be lower.	(1 mark)
+				(2 marks)
+
+(b)	(ii)
+	(2 marks)
+		(	Whether he will be successful is uncertain, depending on the demand elasticity. 	(1 mark)
+		Suppose the price is lowered from P0 to P1.
+		(	Successful if the demand is elastic (Ed > 1). The gain in revenue due to an increase in quantity demanded is larger than the loss in revenue due to a decrease in price, which means the total revenue will increase.
+		(	Not successful if the demand is inelastic (Ed < 1). The gain in revenue due to an increase in quantity demanded is smaller than the loss in revenue due to a decrease in price, which means the total revenue will fall.
+		(	Not successful if the demand is unitarily elastic (Ed = 1). The gain in revenue due to an increase in quantity demanded is equal to the loss in revenue due to a decrease in price, which means the total revenue will remain unchanged.	
+		(Either ONE of the above situations, 3 marks)
+
+Question code: B1C05Q517
+In recent years, several pay TV operators have entered the market for pay TV in Hong Kong. They have offered various promotional packages to attract customers. 
+(a)	Suppose the fee for Cable TV services remains unchanged. Explain how the above phenomenon will affect its total revenue.	(4 marks)
+(b)	Suppose that Cable TV plans to integrate with TVB to produce and provide more TV programmes in order to raise competitiveness. Explain under what situation(s) the total expenditure on pay TV services in Hong Kong will increase.	(7 marks)
+
+
+Answers: 
+(a)	(	The increase in the number of pay TV operators will lead to a decrease in the demand for Cable TV services (D0(D1).	(1 mark)
+		(2 marks)
+	(	Since the fee for Cable TV services remains unchanged, its total revenue will decrease from P0 × Q0 to P0 × Q1.	(1 mark)
+
+(b)
+		(2 marks)
+	(	The integration will lead to an increase in the supply of pay TV services (S0(S1).	(1 mark)
+	(	The price of pay TV services will decrease from P0 to P1. The quantity transacted will increase from Q0 to Q1.	(2 marks)
+	(	If the demand for pay TV services is elastic (Ed > 1), total expenditure on pay TV services will increase.	(2 marks)
+
+
+Question code: B1C05Q518
+Suppose the government has decided to permanently reduce the supply of public housing in the future. This will be achieved by reducing the supply of public rental housing and suspending the Home Ownership Scheme (HOS) (居者有其屋計劃).
+(a)	(i)	What will be the immediate effect of this policy on the demand for private housing units?	 (3 marks)
+	(ii)	Assume the supply of private housing is fixed. What are the immediate effects on the equilibrium price, the quantity transacted and the total revenue from private housing units? Explain with the aid of a diagram.	(5 marks)
+(b)	Suppose the government converts the unsold HOS flats into public rental housing instead. It also increases the amount of housing loans to the public. 
+	What will be the change in your answer in (a)(ii)? Explain.	(6 marks)
+(c)	Suppose the government auctions off more land to private property developers. Under what situation will the total expenditure on private housing units decrease?
+	Explain with the aid of a diagram.	(8 marks)
+
+Answers: 
+(a)	(i)	(	Since the future supply of housing units in Hong Kong will decrease, people expect the prices of housing units to increase in the near future.		(2 marks)
+		(	Therefore, the present demand for private housing units will increase.		(1 mark)
+	(ii)
+				(2 marks)
+
+		Since the demand for private housing increases (D0 ( D1),
+		(	The equilibrium price will increase (P0 ( P1).	(1 mark)
+		(	The quantity transacted will remain unchanged since the supply of existing private housing units is fixed.	(1 mark)
+		(	The total revenue from private housing units will increase.	(1 mark)
+
+(b)	(	The increase in the amount of housing loans will increase the demand for private housing.	(1 mark)
+
+		 (2 marks)
+		(	The quantity transacted will remain at Q0 as there is no change in the fixed supply.	(1 mark)
+		(	The equilibrium price will further increase to P2, a level higher than P1.
+				(1 mark)
+		(	The total revenue will increase by the shaded area.	(1 mark)
+
+(c)		
+				(3 marks)
+
+
+	(	The supply of private housing will increase (S1 ( S2) as developers have more land upon which to build.	(1 mark)
+	(	The quantity transacted will increase from Q0 to Q1. 	(1 mark)
+	(	The equilibrium price will decrease from P0 to P1.	(1 mark)
+	(	If the demand is inelastic, the percentage decrease in price will be larger than the percentage increase in quantity transacted. Therefore, total expenditure will decrease.	(2 marks)
+
+Question code: B1C05Q519
+Suppose the government decides to reclaim the whole of Victoria Harbour to build more housing units to resolve Hong Kong's housing problems.
+(a)	(i)	What are the immediate effects of this policy on the demand for private housing units?	 (3 marks)
+	(ii)	Explain with the aid of a diagram the immediate effects of this policy on the total revenue of private developers.	(5 marks)
+(b)	Suppose the government sets the rental rate of public housing units according to demand and supply. Apart from the reclamation of Victoria Harbour, the government also decides to reclaim Victoria Peak to provide more public housing units. Explain under what situation(s) this policy will lead to an increase in the government's rental income.	(6 marks)
+(c)	Apart from your answer in (b), suggest ONE method the government can use to increase rental income.	 (2 marks)
+
+Answers: 
+(a)	(i)	(	Since the future supply of housing units in Hong Kong will increase, people expect property prices to decrease in the future.	(2 marks)
+		(	Therefore, the present demand for private housing will decrease.	(1 mark)
+
+	(ii)
+			
+				(2 marks)
+		Since the demand for private housing units decreases (D0 ( D1),
+		(	the equilibrium price decreases (P0 ( P1).	(1 mark)
+		(	the quantity transacted decreases (Q0( Q1).	(1 mark)
+		(	the total revenue of private developers decreases.	(1 mark)
+
+(b)	(	If the demand for public housing units is elastic (Ed > 1), the government can increase its rental income by increasing the supply of public housing units.			(2 marks)
+		(2 marks)
+
+	(	The percentage increase in quantity transacted will be greater than the percentage decrease in rental rate. 	(1 mark)
+	(	The gain in rental income will be greater than the loss in rental income.
+		(1 mark)
+
+(c)	The government can raise the maximum income restriction on public housing applicants to stimulate demand.	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B1C05Q520
+In recent years, the number of people using 4G mobile phones has been increasing.
+(a)	Explain how this will affect the total revenue from 3G mobile phones.	(6 marks)
+(b)	Suppose the cost of producing 4G mobile phones increases.
+	(i)	Explain with the aid of a diagram how this will affect the total revenue from 3G mobile phones.	 (6 marks)
+	(ii)	Explain how this will affect the total revenue from 4G mobile phones.				(4 marks)
+(c)	Must the demand for mobile phones increase with income?	(3 marks)
+
+Answers: 
+(a)	This will cause the demand for 3G mobile phones to decrease (D0(D1). Since both the price and quantity transacted decrease (P0(P1; Q0(Q1), the producers' total revenue will decrease (P0 × Q0(P1 × Q1).	(4 marks)
+		
+				(2 marks)
+
+(b)	(i)	This will cause the price of 4G mobile phones to increase. Since 3G mobile phones and 4G mobile phones are substitutes, the demand for 3G mobile phones will increase (D0(D1). Both the price and quantity transacted increase (P0(P1; Q0(Q1); the producers' total revenue will increase (P0×Q0(P1×Q1).
+				(4 marks)
+			
+				(2 marks)
+	(ii)	(	This will cause the price of 4G mobile phones to increase. The change in the producers' total revenue is uncertain, depending on the demand elasticity of 4G mobile phones.	(2 marks)
+(	If the demand is elastic (Ed > 1), the increase in price will cause the producers' total revenue to decrease. / If the demand is inelastic (Ed < 1), the increase in price will cause the producers' total revenue to increase. / If the demand is unitarily elastic (Ed = 1), the price increase will have no effect on the producers' total revenue.	(Any ONE, 2 marks)
+
+(c)	Not necessarily. The demand for mobile phones will increase with income only when mobile phones are normal goods.	(3 marks)

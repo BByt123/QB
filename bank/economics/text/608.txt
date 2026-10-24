@@ -1,0 +1,1710 @@
+Chapter 8	Money supply and money creation
+
+Multiple Choice Questions
+
+Question code: B6C08Q001 (new)
+Which of the following statements is correct?
+	(1)	The monetary base is not the money supply.
+	(2)	Among all definitions of money supply, M1 is the most liquid one.
+	(3)	Currency held by deposit-taking institutions is not included in the money supply.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C08Q002 (new)
+Ka Wah has $300,000 cash in hand. He puts $50,000 into a licensed bank as a demand deposit and $150,000 into a licensed bank as a savings deposit. He deposits the remaining $100,000 into his account at a deposit-taking company. 
+What will the immediate changes in the money supply be?
+A.	M1 will decrease by $100,000 and M3 will remain unchanged.
+B.	M2 will decrease by $100,000 and M3 will remain unchanged.
+C.	M1 will increase by $50,000 and M2 will increase by $150,000.
+D.	M1 will decrease by $250,000 and M2 will decrease by $150,000.
+
+Answer: B
+
+Question code: B6C08Q003 (new)
+Jack is preparing to migrate to Taiwan. He withdraws $3,000,000 from his account with a deposit-taking company. He gives $500,000 in cash to his parents and remits the remainder to Taiwan. His parents keep $100,000 in cash and deposit $400,000 into their time deposit account with a licensed bank.
+What will the immediate changes in the money supply be?
+A.	Both M2 and M3 will decrease by $2,500,000.
+B.	M1 will increase by $500,000 and M3 will decrease by $2,500,000.
+C.	M1 will increase by $100,000 and M2 will remain unchanged.
+D.	M2 will increase by $500,000 and M3 will decrease by $2,500,000.
+
+Answer: D
+
+Question code: B6C08Q004 (new)
+Which of the following transactions will cause an increase in Hong Kong's M2?
+	(1)	Amber withdraws $200,000 from a deposit-taking company and holds the amount in cash.
+	(2)	Nicole deposits $10,000 cash into her savings account at a bank.
+	(3)	Krystal withdraws $500,000 from a restricted licence bank. She deposits half  into her savings account at a licensed bank and holds the other half in cash.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C08Q005 (new)
+Which of the following transactions will cause a change in Hong Kong's M1 but not M2?
+A.	Miss Kwong withdraws her deposits at a restricted licence bank and holds the amount in cash.
+B.	Kelly uses all her cash to buy certificates of deposit newly issued by a restricted licence bank.
+C.	Stephen transfers his savings deposits at a licensed bank to his demand deposit account.
+D.	Robbers took the cash reserves at a branch of a bank and used the money to buy jewellery and luxury cars.
+
+Answer: C
+
+Question code: B6C08Q006
+In Hong Kong, demand deposits belong to
+A.	legal tender.
+B.	M1.
+C.	M1, but not M2.
+D.	M2, but not M3.
+
+Answer: B
+
+Question code: B6C08Q007
+In Hong Kong, time deposits with restricted licence banks are included in ___________, but not ___________.
+A.	M2 ... M1
+B.	M2 … M3
+C.	M3 … M2
+D.	None of the above
+
+Answer: C
+
+Question code: B6C08Q008
+Suppose the money supply data of Hong Kong in a certain year was as follows:
+
+	$ million	
+Total legal tender issued	300	
+Legal tender held by deposit-taking institutions	100	
+Demand deposits	450	
+
+The value of M1 was
+A.	$300 million.
+B.	$550 million.
+C.	$650 million.
+D.	$750 million.
+
+Answer: C
+
+Question code: B6C08Q009
+Suppose Hong Kong's money supply in a certain year was:
+
+	$ million	
+Cash reserves held by the banking system	440	
+Legal tender held by the public	260	
+Demand deposits	240	
+Savings deposits	380	
+Time deposits with licensed banks	170	
+Negotiable certificates of deposit issued by licensed banks and held by the public	30	
+
+According to the information above, M1 and M2 were $_________ million and $_________ million, respectively.
+A.	500 ... 1,050
+B.	500 ... 1,080
+C.	940 ... 1,490
+D.	940 ... 1,520
+
+Answer: B
+
+Question code: B6C08Q010
+Suppose the money supply data for Hong Kong in a certain year was as follows:
+
+	$ billion	
+Monetary base	100	
+Legal tender held by authorised institutions	20	
+Demand deposits	60	
+
+Suppose M2 was $200 billion. Which of the following statements is correct?
+A.	The value of savings deposits with licensed banks was $60 billion.
+B.	The sum of savings deposits and time deposits with licensed banks was $60 billion.
+C.	The sum of savings deposits, time deposits and negotiable certificates of deposit issued by licensed banks and held by the public was $60 billion.
+D.	The value of total deposits with licensed banks was $60 billion.
+
+Answer: C
+Explanation
+Monetary base (M0) = Total amount of currency issued
+Cash held by public = M0 - Legal tender held by authorised institutions
+= $(100 - 20) billion = $80 billion
+Option C is the difference between M2 and M1
+= $[200 - (80 + 60)] billion = $60 billion
+
+
+Question code: B6C08Q011
+Suppose Hong Kong's money supply in a certain year was:
+
+	$ million	
+Cash reserves held by the banking system	570	
+Demand deposits	450	
+Savings and time deposits with licensed banks	360	
+Deposits with restricted licence bank and deposit-taking companies	150	
+Negotiable certificates of deposit issued by licensed banks, restricted licence banks and deposit-taking companies	300	
+
+To find M3, which of the following additional information do we need?
+	(1)	Legal tender held by the public
+	(2)	Time deposits with licensed banks
+	(3)	Negotiable certificates of deposit issued by licensed banks, restricted licence banks and deposit-taking companies and held by authorised institutions
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C08Q012
+Which of the following statements about the monetary base is correct?
+A.	It increases when more legal tender is issued.
+B.	It is included in the money supply.
+C.	It is the total amount of legal tender held by the banking system in an economy.
+D.	It is the total amount of legal tender that is available for use by the public.
+
+Answer: A
+
+Question code: B6C08Q013
+* Which of the following statements about the monetary base is INCORRECT?
+A.	The monetary base will not change during the money creation process.
+B.	An increase in the monetary base will increase the maximum possible amount of money supply in the economy.
+C.	Cash leakage will not affect the value of the monetary base.
+D.	When there is no cash leakage, the monetary base is the same as reserves held by the banking system.
+
+Answer: D
+Explanation
+Option A is a correct statement. During the money creation process, only credit and deposits are created, and the total amount of legal tender issued in the economy (i.e., the monetary base) remains unchanged.
+Option B is a correct statement. When members of the public deposit cash into the banking system, the money supply will increase after the money creation process. Hence, the monetary base determines the maximum amount of cash that can be used for money creation, and also determines the maximum possible amount of money supply in the economy. When the monetary base increases, the maximum possible amount of money supply will increase.
+Option D is the answer. No cash leakage means all the loans from banks are redeposited into the banking system. This does not mean that the public does not hold cash.
+
+Question code: B6C08Q014
+In Hong Kong, the M1 money supply only includes legal tender held by the public and demand deposits. This is because
+A.	these assets can function as a store of value.
+B.	these assets can settle payments immediately.
+C.	the government declares these assets as money.
+D.	money supply refers to the total amount of money available in an economy.
+
+Answer: B
+
+Question code: B6C08Q015 (new)
+Tony withdraws HK$300,000 from his time deposits with a restricted licence bank. After that, he remits HK$120,000 to his mother in Canada and deposits the remaining as a time deposit with a deposit-taking company. Immediately after the above events, M1 and M3 in Hong Kong will __________ and __________, respectively.
+A.	remain unchanged … remain unchanged
+B.	remain unchanged … decrease by $120,000
+C.	decrease by $120,000 … increase by $180,000
+D.	decrease by $120,000 … decrease by $120,000
+
+Answer: B
+
+Question code: B6C08Q016
+Mr Wong withdraws $150,000 from his time deposit account at a deposit-taking company. He then puts the money into a current account. After the above events, the immediate effects on money supply are as follows: M1 __________, M2 __________ while M3 __________.
+A.	remains unchanged … decreases by $150,000 … increases by $150,000
+B.	remains unchanged … increases by $150,000 … remains unchanged
+C.	increases by $150,000 … remains unchanged … decreases by $150,000
+D.	increases by $150,000 … increases by $150,000 … remains unchanged
+
+Answer: D
+
+Question code: B6C08Q017
+Mandy sells her flat in the mainland and the buyer remits HK$600,000 to her from the mainland. She then deposits HK$500,000 into a restricted licence bank, deposits HK$80,000 as a demand deposit and keeps the remaining HK$20,000 at home. Which of the following is the immediate effect of the above events?
+A.	M1 increases by HK$20,000.
+B.	M2 remains unchanged.
+C.	M3 increases by HK$500,000.
+D.	M3 increases by HK$600,000.
+
+Answer: D
+
+Question code: B6C08Q018
+Judy runs a fast food shop. On payday (發薪日), she transfers $50,000 from her company's savings deposit account to a current account. Then, she draws cheques totalling $45,000 to pay her employees' salaries, and her employees deposit the cheques into their time deposit accounts with licensed banks. How will the money supply be affected by the above events?
+A.	M1 increases by $50,000.
+B.	M2 increases by $5,000.
+C.	M2 decreases by $5,000.
+D.	M3 decreases by $5,000.
+
+Answer: C
+
+Question code: B6C08Q019
+* Mrs Lam withdraws $200,000 from her time deposit with a deposit-taking company. Then, she deposits $100,000 into her savings deposit account and $50,000 into her current account. She remits the remaining $50,000 to her daughter studying overseas. What are the immediate effects of the above events on money supply in Hong Kong?
+	(1)	M1 remains unchanged.
+	(2)	M2 increases by $100,000.
+	(3)	M2 increases by $150,000.
+	(4)	M3 decreases by $50,000.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B6C08Q020
+Which of the following events will reduce M1 in Hong Kong?
+A.	David's mother draws a cheque to pay for David's tuition fee at a local university. The university deposits the cheque into its savings deposit account.
+B.	Paul withdraws $1,000 cash from his savings deposit account.
+C.	Rachel puts $500 cash into her demand deposit account.
+D.	The government issues coins totalling $5,000, an amount less than last year's.
+
+Answer: A
+
+Question code: B6C08Q021 (new)
+Suppose $200,000 in cash kept by Mr Chin at home is destroyed in a fire. After that, Mr Chin withdraws $100,000 from his savings account at a licensed bank. Which of the following is the immediate effect of this event?
+A.	M1 decreases by $200,000 and M2 decreases by $100,000.
+B.	M1 decreases by $100,000 and M2 decreases by $200,000.
+C.	M1 increases by $100,000 and M2 remains unchanged.
+D.	M1 decreases by $200,000 and M2 remains unchanged.
+
+Answer: B
+
+Question code: B6C08Q022
+* When banks impose charges on savings deposits below $2,000, __________.
+	(1)	M1 must decrease
+	(2)	M2 must decrease
+	(3)	M3 must decrease
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+Explanation
+(	When banks impose charges on savings deposits below $2,000, some small depositors may withdraw their deposits and keep the money at home. In this case, legal tender held by the public increases while savings deposits decrease. As a result, immediately after the event, M1 may increase but M2 and M3 may remain unchanged.
+(	If banks do not have enough excess reserves to meet withdrawals and have to call back loans, the event may lead to money contraction. In this case, the money supply may decrease. However, since we don't know whether banks have enough excess reserves, we are not certain about the actual change in the money supply.
+
+Question code: B6C08Q023 (new)
+Which of the following will reduce the credit creation ability of a banking system?
+A.	There is a recession and banks are less willing to provide loans in order to reduce their risk.
+B.	Electronic payment methods are used more widely among the public.
+C.	The demand for bank loans increases.
+D.	The actual reserve ratio decreases.
+
+Answer: A
+
+
+Question code: B6C08Q024 (new)
+The following is the balance sheet of a banking system. The public does not hold any cash.
+
+Assets ($)	Liabilities ($)	
+Reserves	400	Deposits	1,600	
+Loans	1,200			
+
+Suppose the excess reserves of the banking system are $80. Which of the following statements is correct?
+A.	The actual banking multiplier is 5.
+B.	The maximum increase in loans is $400.
+C.	The maximum possible amount of deposits will be less than $1,600 if someone withdraws $80 from the banking system.
+D.	The maximum increase in reserves is $80.
+
+Answer: B
+
+Question code: B6C08Q025 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	100	Deposits	500	
+Loans	400			
+
+Suppose the banking system has no excess reserves. If someone deposits $50 cash into the banking system, the maximum increase in money supply will be ______.
+A.	$50
+B.	$200
+C.	$250
+D.	$300
+
+Answer: B
+
+
+Question code: B6C08Q026 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	1,000	
+Loans	800			
+
+Suppose the banking system holds $40 in excess reserves. If someone withdraws $80 from the banking system, the maximum possible amount of loans will be ______.
+A.	$120
+B.	$250
+C.	$630
+D.	$750
+
+Answer: C
+Explanation
+The required reserve ratio = ($200 - $80) ( $1,000 ×100% = 16%
+After the withdrawal of $80, bank reserves decrease to $120.
+The maximum amount of deposits = $120 × (1 / 16%) = $750
+The maximum amount of loans = $750 - $120 = $630
+
+Question code: B6C08Q027 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	800	
+Loans	600			
+
+Suppose the actual reserve ratio exceeds the required reserve ratio by 5%. If someone withdraws $80 from the banking system, the maximum possible amount of deposits will be _________.
+A.	$400
+B.	$480
+C.	$600
+D.	$1,000
+
+Answer: C
+Explanation
+The required reserve ratio = ($200 ( $800 ×100%) - 5% = 20%
+After the withdrawal of $80, bank reserves decrease to $120.
+The maximum amount of deposits = $120 × (1 / 20%) = $600
+
+Question code: B6C08Q028 (new)
+* The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	500	
+Loans	300			
+
+Suppose the banking system holds $100 in excess reserves. Which of the following statements is correct when the central bank lowers the required reserve ratio by 10%?
+A.	The excess reserves will remain unchanged.
+B.	The amount of reserves will decrease by $100.
+C.	The maximum amount of deposits will increase by $1,500.
+D.	The maximum amount of loans will increase by $1,000.
+
+Answer: D
+Explanation
+The original required reserve ratio = ($200 - $100) ( $500 ×100% = 20%
+The new required reserve ratio = 20% - 10% = 10%
+The original maximum amount of deposits = $200 × (1 / 20%) = $1,000
+The new maximum amount of deposits = $200 × (1 / 10%) = $2,000
+The original maximum amount of loans = $1,000 - $200 = $800
+The new maximum amount of loans = $2,000 - $200 = $1,800
+Both the maximum amounts of deposits and loans increase by $1,000.
+
+Question code: B6C08Q029 (new)
+* A lady deposits $5 million cash into the banking system. After the money creation process, the amount of loans in the banking system increases by $25 million.
+What can you conclude based on the above information?
+	(1)	The maximum banking multiplier is 6.
+	(2)	Deposits have increased by $30 million.
+	(3)	The money supply has increased by $25 million.
+A.	(2) only
+B.	(1) and (2) only
+C.	(1), (2) and (3)
+D.	None of the above
+
+Answer: D
+Explanation
+Option (1) is incorrect. As there may be cash leakage and banks may hold excess reserves, the maximum banking multiplier cannot be determined by the information given.
+Option (2) is incorrect. If there is cash leakage, the change in reserves will be less than $5 million. Hence, we have insufficient information to conclude what the change in deposits will be.
+Option (3) is incorrect. Since there may be cash leakage, we do not know what the change in the amount of cash held by the public will be, and hence we cannot conclude how the money supply will change.
+
+Question code: B6C08Q030 (new)
+The following table gives information about a banking system.
+
+Required reserve ratio	10%	
+Cash held by the public	$20 billion	
+Total amount of loans	$72 billion	
+
+Suppose the banking system holds no excess reserves and there is sufficient borrowing. What is the monetary base of the banking system?
+A.	$20 billion
+B.	$28 billion
+C.	$80 billion
+D.	$88 billion
+
+Answer: B
+
+Question code: B6C08Q031 (new)
+* The following table gives information about a banking system.
+
+Monetary base	$30 billion	
+Cash held by the public	$12 billion	
+Money supply	$162 billion	
+
+What is the actual reserve ratio of the banking system?
+A.	9%
+B.	10%
+C.	12%
+D.	15%
+
+Answer: C
+Explanation
+Total deposits = Money supply - Cash held by the public 
+= $(162 - $12) billion 
+= $150 billion
+Total reserves = Monetary base - Cash held by the public
+= $(30 - 12) billion
+= $18 billion
+Actual reserve ratio = (Total reserves / Total deposits) × 100%
+= ($18 billion / $150 billion) × 100%
+= 12%
+
+Question code: B6C08Q032 (new)
+The monetary base of a banking system is $50 billion and $30 billion is held by the public. If the actual reserve ratio is 16%, the amount of loans in the banking system is
+A.	$20 billion.
+B.	$105 billion.
+C.	$125 billion.
+D.	$155 billion.
+
+Answer: C
+
+Question code: B6C08Q033 (new)
+The total amount of currency issued in an economy is $200 billion, and 60% of the amount is held by the public. If the required reserve ratio is 25%, what is the maximum amount of money supply?
+A.	$280 billion
+B.	$320 billion
+C.	$440 billion
+D.	$520 billion
+
+Answer: C
+
+Question code: B6C08Q034 (new)
+The total amount of currency issued in an economy is $250 billion, of which $150 billion is held by the public. The amount of excess reserves is $50 billion and the required reserve ratio is 10%. Which of the following is a correct description about the banking system?
+	(1)	If the banking system is fully loaned up, the amount of loans will increase by $500 billion.
+	(2)	The actual amount of deposits is $500 billion
+	(3)	The maximum amount of money supply is $1,150 billion.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C08Q035
+Which of the following conditions is/are necessary for multiple money creation to take place?
+	(1)	Banks keep only a fraction of their deposits as reserves.
+	(2)	There is sufficient demand for loans to absorb all the excess reserves.
+	(3)	There is no cash leakage.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C08Q036
+To create the maximum amount of money with excess reserves, which of the following conditions must be satisfied?
+	(1)	There is sufficient demand for loans.
+	(2)	There is only one type of deposit - demand deposits.
+	(3)	There is no cash leakage.
+	(4)	Banks do not keep excess reserves.
+A.	(2) only
+B.	(4) only 
+C.	(1), (3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+Question code: B6C08Q037
+If the government requests banks to keep 100% of their deposits as reserves, __________.
+	(1)	there will be cash leakage
+	(2)	banks will not hold any excess reserves
+	(3)	banks cannot create deposits
+	(4)	the risk faced by banks will increase
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: C
+
+Question code: B6C08Q038
+Samuel deposits $10,000 cash into a bank. If there is cash leakage, which of the following conclusions can be drawn?
+A.	The money supply will decrease.
+B.	The actual increase in money supply must be smaller than the maximum increase.
+C.	The maximum banking multiplier will fall.
+D.	Both A and B
+
+Answer: B
+
+Question code: B6C08Q039
+Linda takes $100,000 cash from her safety box at home and deposits the money into a bank. We can conclude that the maximum increase in money supply must be __________ the maximum increase in deposits.
+A.	greater than
+B.	smaller than
+C.	the same as
+D.	The effect is indeterminate.
+
+Answer: B
+
+Question code: B6C08Q040
+* Suppose banks keep only a fraction of their deposits as reserves and do not hold excess reserves. Moreover, there is enough borrowing and no cash leakage. When John deposits $10,000 cash into his time deposit account with a licensed bank, __________.
+A.	the money supply M1 must increase
+B.	the money supply M1 must decrease
+C.	the money supply M3 must increase
+D.	None of the above
+
+Answer: C
+Explanation
+Since banks keep only a fraction of their deposits as reserves, money creation takes place after $10,000 is deposited into the banking system. Moreover, the amount of money created can be maximised because the necessary conditions of maximum creation of money are satisfied. However, we don't know exactly what types of deposits are created.
+Options A and B are incorrect. M1 will increase only when the actual increase in demand deposits is greater than the decrease in cash held by the public (i.e. $10,000). Similarly, M1 will decrease when the actual increase in demand deposits is smaller than the decrease in cash held by the public.
+Option C is correct. M3 includes deposits with all authorised institutions. As money creation takes place, M3 must increase.
+
+Question code: B6C08Q041 (new)
+Suppose no banks in an economy hold excess reserves. If the government increases the required reserve ratio,
+	(1)	the amount of legal tender in the economy remains unchanged.
+	(2)	the maximum banking multiplier becomes smaller.
+	(3)	the amount loaned by banks decreases.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C08Q042
+When there are excess reserves in banks, ____________.
+A.	banks are not maximising their profit
+B.	the process of multiple credit creation becomes impossible
+C.	the actual increase in deposits is smaller than the maximum increase in deposits
+D.	banks fail to perform the function of channelling savings into investment
+
+Answer: C
+
+Question code: B6C08Q043
+* If banks lend all their excess reserves, ____________.
+	(1)	the actual reserve ratio is equal to the required reserve ratio
+	(2)	the actual banking multiplier is equal to the maximum banking multiplier
+	(3)	banks' profits are at the highest level
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+Option (2) is incorrect. Even if banks do not hold excess reserves, the actual banking multiplier is smaller than the maximum banking multiplier when there is cash leakage.
+
+Question code: B6C08Q044
+People usually withdraw money from their bank accounts before holidays to pay for extra expenditures during the period. Which of the following must be correct?
+A.	The reserves of the banking system will fall immediately.
+B.	The total money supply of the economy will fall in the end.
+C.	The maximum banking multiplier will decrease.
+D.	The actual reserve ratio will remain unchanged.
+
+Answer: A
+Explanation
+Option B is incorrect. If banks have enough excess reserves to meet withdrawals, they do not have to call back loans. In this case, money contraction will not take place. The decrease in deposits will be the same as the increase in cash held by the public. As a result, the total money supply will remain unchanged.
+
+Question code: B6C08Q045
+Children usually deposit red packet money into banks after the Chinese New Year. Which of the following is NOT an effect of their behaviour?
+A.	Actual reserves of banks will increase immediately.
+B.	The maximum possible amount of loans created by banks will increase.
+C.	The amount which can be lent by banks will increase.
+D.	The actual banking multiplier will increase.
+
+Answer: D
+
+Question code: B6C08Q046 (new)
+Suppose people are pessimistic about business prospects and are less willing to borrow. As a result, banks cannot lend as much money as they want. Which of the following is/are the effect(s) of the above event?
+	(1)	The actual banking multiplier is smaller than the maximum banking multiplier.
+	(2)	The minimum reserve ratio decreases.
+	(3)	Banks' excess reserves decrease.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C08Q047
+An increase in the actual reserve ratio will NOT affect
+A.	the maximum possible increase in deposits.
+B.	the actual banking multiplier.
+C.	the money supply.
+D.	the amount of bank loans.
+
+Answer: A
+
+
+Question code: B6C08Q048
+Which of the following events will most likely lower the money creation ability of a banking system?
+A.	The government lowers the legal reserve ratio.
+B.	Credit card issuers offer a lower interest rate on long-term customers.
+C.	Banks increase their service charges on the transfer of funds using internet banking.
+D.	As the government improves the deposit protection scheme (存款保障計劃), people have more confidence in saving their money in deposit-taking institutions.
+
+Answer: C
+
+Question code: B6C08Q049
+If ____________, the actual banking multiplier will be smaller than the maximum banking multiplier.
+	(1)	the required reserve ratio increases
+	(2)	the total amount of loans borrowed by debtors is less than the excess reserves
+	(3)	people hold some loans as cash
+A.	(1) only
+B.	(2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: D
+
+Question code: B6C08Q050
+* Which of the following situations will NEVER happen?
+A.	Excess reserves are larger than required reserves.
+B.	The legal reserve ratio is smaller than the actual reserve ratio.
+C.	After the deposit creation process, the maximum increase in deposits is equal to the maximum increase in money supply.
+D.	After the deposit creation process, the maximum increase in reserves is greater than the initial deposit.
+
+Answer: D
+Explanation
+Option D is the answer. When a certain amount of cash (say, $1,000) is deposited into a bank, the bank can lend out excess reserves (say, $800). If the loan is redeposited into the banking system (i.e., no cash leakage), the total increase in reserves in the banking system (= $200 + $800 = $1,000) is equal to the initial deposit. Hence, during the deposit creation process, only the amounts of loans and deposits increase, not reserves. The maximum increase in reserves is equal to the initial deposit. (Remark: If there is cash leakage, the actual increase in reserves will be smaller than the maximum increase in reserves, i.e., the initial deposit.)
+
+Question code: B6C08Q051
+Suppose the required reserve ratio is 10%. A person deposits $250 into his bank account. This will result in an immediate increase in total deposits by __________ and an immediate increase in total reserves by __________.
+A.	$50 ... $250
+B.	$50 ... $2,500
+C.	$250 ... $250
+D.	$250 ... $2,500
+
+Answer: C
+
+Question code: B6C08Q052
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	600	Deposits	2,000	
+Loans	1,400			
+
+Assume the legal reserve ratio of the banking system is 20%. The actual reserve ratio is __________ while the amount of excess reserves is __________.
+A.	30% ... $200
+B.	30% ... $360
+C.	33.3% ... $200
+D.	33.3% ... $360
+
+Answer: A
+
+
+Question code: B6C08Q053
+The following is the balance sheet of a bank.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,500	Deposits	6,000	
+Loans	4,500			
+
+If actual reserves are $300 more than required reserves, the required reserve ratio of the banking system is
+A.	5%.
+B.	20%.
+C.	25%.
+D.	30%.
+
+Answer: B
+
+Question code: B6C08Q054
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	75	Deposits	250	
+Loans	175			
+
+If the required reserve ratio is 10%, the amount of excess reserves is __________. If banks lend all excess reserves, the maximum amount of loans they can further create is __________.
+A.	$25 ... $25
+B.	$25 ... $250
+C.	$50 ... $50
+D.	$50 ... $500
+
+Answer: D
+
+
+Question code: B6C08Q055
+The following is the balance sheet of Banking System X.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	1,000	
+Loans	800			
+
+The required reserve ratio is 20%. Assume there is no cash leakage. If Miss Ng deposits $50 into a bank, the maximum increase in reserves and deposits are __________ and __________, respectively.
+A.	$10 ... $50
+B.	$50 ... $250
+C.	$50 ... $350
+D.	$70 ... $350
+
+Answer: B
+
+Question code: B6C08Q056
+* The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	600	Deposits	2,000	
+Loans	1,400			
+
+Suppose there is no cash leakage and the required reserve ratio is 20%. If Joey deposits $100 into a bank and the banks then lend all excess reserves, the maximum increase in reserves is __________, while the maximum increase in deposits is __________.
+A.	$100 ... $1,000
+B.	$100... $1,500
+C.	$120 ... $1,500
+D.	$120 ... $1,600
+
+Answer: B
+
+
+Question code: B6C08Q057
+Suppose the required reserve ratio is 20%. If a person found a $100 banknote under his bed and then deposited it into a bank, what is the maximum increase in money supply?
+A.	$100
+B.	$400
+C.	$500
+D.	$1,000
+
+Answer: B
+
+Question code: B6C08Q058
+Eddie received a US$2,000 remittance from a UK company. He then put the money into a bank in the US. Suppose the required reserve ratio is 25%. What is the maximum increase in the money supply in the US?
+A.	US$500
+B.	US$2,000
+C.	US$6,000
+D.	US$8,000
+
+Answer: D
+
+Question code: B6C08Q059
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	600	Deposits	2,000	
+Loans	1,400			
+
+Assume the required reserve ratio is 20%. If there is no cash leakage and banks lend all excess reserves, which of the following statements is INCORRECT?
+A.	The maximum increase in money supply is $1,000.
+B.	The maximum increase in deposits is $1,000.
+C.	The maximum increase in reserves is $1,000.
+D.	The maximum increase in loans is $1,000.
+
+Answer: C
+
+Question code: B6C08Q060
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	900	Deposits	4,500	
+Loans	3,600			
+
+Suppose the legal reserve ratio is 10%. If there is no cash leakage and banks will lend all excess reserves, which of the following are correct?
+	(1)	The maximum increase in loans is $4,500.
+	(2)	The maximum increase in reserves is $4,500.
+	(3)	The maximum increase in deposits is $4,500.
+	(4)	The maximum increase in money supply is $4,500.
+A.	(1) and (3) only
+B.	(2) and (4) only
+C.	(1), (3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+Question code: B6C08Q061
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	4,000	
+Loans	3,000			
+
+Suppose after the government lowers the required reserve ratio to 20%, all banks loan all their excess reserves. The maximum increase in loans is
+A.	$200.
+B.	$800.
+C.	$1,000.
+D.	uncertain as the original required reserve ratio is not given.
+
+Answer: C
+
+
+Question code: B6C08Q062
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	600	Deposits	2,000	
+Loans	1,400			
+
+If the government raises the legal reserve ratio from 20% to 25%, the maximum possible amount of deposits will
+A.	increase from $2,000 to $2,400.
+B.	increase from $2,000 to $3,000.
+C.	decrease from $2,000 to $1,000.
+D.	decrease from $3,000 to $2,400.
+
+Answer: D
+
+Question code: B6C08Q063 (new)
+* Suppose a banking system never holds excess reserves. After $1,200 is deposited into a bank, the total amount of loans in the banking system increases by $3,600 eventually.
+Which of the following conclusions can be drawn?
+	(1)	The minimum reserve ratio is 25%.
+	(2)	The actual banking multiplier is 4.
+	(3)	The money supply increases by $2,400.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1), (2) and (3)
+
+Answer: B
+Explanation
+Option (1) is incorrect. The actual increase in loans is the same as the maximum increase in loans only when the assumptions of maximum creation of money (i.e., there are no excess reserves, enough borrowing, and no cash leakage) are satisfied. Since the question only mentions that there are no excess reserves, we cannot draw the conclusions in Option (1).
+Option (3) is incorrect as we do not know whether the initial deposit comes from cash held by the public or not.
+Option (2) is correct. The increase in deposits is $4,800, which is equal to the sum of the increase in reserves (i.e., the initial deposit of 1,200) and the increase in loans (i.e., $3,600). Therefore, the actual banking multiplier is 4 (= $4,800 / $1,200).
+
+Question code: B6C08Q064
+* If $200 is withdrawn from a bank, the total amount of deposits in the banking system will decrease by $800. Which of the following statements is true?
+A.	The actual reserve ratio of the banking system must be 25%.
+B.	The maximum banking multiplier must be 4.
+C.	The money supply must decrease by $800.
+D.	None of the above
+
+Answer: D
+Explanation
+Options A and B are incorrect. When the actual reserve ratio and the required reserve ratio are both 25% (i.e., banks do not hold excess reserves) and there is no cash injected into the banking system, a $200 withdrawal will result in a fall in deposits by $800 in the banking system. The actual banking multiplier and the maximum banking multiplier in the banking system are both equal to 4. However, if banks hold excess reserves (i.e., the actual reserve ratio is greater than the required reserve ratio), we cannot draw the conclusions in Options A and B.
+
+Question code: B6C08Q065
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	1,000	
+Loans	800			
+
+Assuming a required reserve ratio of 25% and no cash leakage, which of the following statements is correct?
+A.	There are excess reserves.
+B.	The maximum banking multiplier is 5.
+C.	The amount of deposits in the banking system must be lowered by $50.
+D.	The banks are short of reserves by $50.
+
+Answer: D
+
+Question code: B6C08Q066
+* The following is the balance sheet of Bank H.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	1,600	
+Loans	1,400			
+
+Suppose the required reserve ratio is 20%. Which of the following events can help Bank H fulfil the reserve requirement?
+	(1)	Bank H calls back $120 in loans.
+	(2)	Bank H borrows $120 from other banks.
+	(3)	Members of the public deposit $120 cash into Bank H.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+Options (1) and (2) are correct. When Bank H calls back $120 in loans or borrows $120 from other banks, reserves increase to $320 while deposits remain unchanged. As a result, the actual reserve ratio becomes 20% (= $320 / $1,600).
+Option (3) is incorrect because deposits also increase by $120. When deposits increase to $1,720, required reserves increase to $344. In other words, Bank H is still short of reserves (= $344 - $320 = $24) after the deposit of $120.
+
+Question code: B6C08Q067
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	200	Deposits	2,000	
+Loans	1,800			
+
+Suppose the legal reserve ratio is 20% and there is no cash leakage. Which of the following is correct?
+A.	The banking system has to lower deposits by $1,000.
+B.	The maximum banking multiplier is 10.
+C.	If a person deposits $200 cash into a bank, the maximum increase in loans in the banking system is $800.
+D.	The banking system has to reduce loans by $200 to increase reserves.
+
+Answer: A
+
+Question code: B6C08Q068 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	400	Deposits	1,500	
+Loans	1,100			
+
+Suppose there are $100 in excess reserves. If $200 is withdrawn from the banking system, which of the following descriptions about the banking system is correct?
+	(1)	The maximum banking multiplier is 5.
+	(2)	The final amount of loans will be $800.
+	(3)	The liabilities of the banking system will decrease by $500.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C08Q069
+The following is the balance sheet for Banking System X.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,400	Deposits	2,800	
+Loans	1,400			
+
+Suppose the banking system does not hold excess reserves. If Mr Chan withdraws $200 from a bank, what is the maximum decrease in deposits in the banking system?
+A.	$200
+B.	$400
+C.	$600
+D.	$1,400
+
+Answer: B
+
+Question code: B6C08Q070
+The following is the balance sheet for Banking System A.
+
+Assets ($)	Liabilities ($)	
+Reserves	400	Deposits	2,000	
+Loans	1,600			
+
+Suppose banks do not have excess reserves and there is no cash leakage. After Amy withdraws $100, what will the maximum possible amount of deposits in the banking system be?
+A.	$1,200
+B.	$1,500
+C.	$1,900
+D.	$2,000
+
+Answer: B
+
+Question code: B6C08Q071
+Study the following balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	3,000	
+Loans	2,000			
+
+Suppose the required reserve ratio is 25%. When members of the public withdraw $400 from the banking system, the maximum change in loans is
+A.	a decrease of $200.
+B.	an increase of $200.
+C.	a decrease of $1,600.
+D.	an increase of $1,600.
+
+Answer: A
+Explanation
+After the withdrawal of $400, reserves will decrease to $600. Thus, the new maximum amount of deposits will be $2,400 (= $600 ( 1/25%). The new maximum amount of loans will be $1,800 (= $2,400 - $600). As a result, the maximum change in loans is a decrease of $200.
+
+Question code: B6C08Q072
+* The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	2,400	
+Loans	1,400			
+
+Suppose the required reserve ratio is 20%. Which of the following statements about the banking system is INCORRECT?
+A.	If banks lend all their excess reserves, the maximum increase in deposits is equal to the maximum increase in loans.
+B.	If banks lend all their excess reserves, the maximum increase in reserves is $0.
+C.	When $600 is withdrawn from the banking system, the maximum decrease in loans is $400.
+D.	When $600 is withdrawn from the banking system, the maximum decrease in reserves is $600.
+
+Answer: C
+
+Question code: B6C08Q073
+* Miss Lee withdrew $500 from a current account and put it into her savings account. If the required reserve ratio is 10%, which of the following statements is correct?
+A.	The M2 money supply will decrease at most by $5,000.
+B.	Deposits will increase at most by $5,000.
+C.	Loans will decrease at most by $5,000.
+D.	None of the above
+
+Answer: D
+
+Short Questions
+
+Question code: B6C08Q301 (new)
+(a)	What is the difference between money supply and the monetary base?	(3 marks)
+(b)	Compare M1 and M2 according to their functions as
+	(i)	a medium of exchange.	(3 marks)
+	(ii)	a store of value.	(3 marks)
+
+Answers:
+(a)	Money supply is the total amount of money available for use in an economy.
+	(1 mark)
+	Monetary base is the total amount of currency issued in an economy.	(1 mark)
+	Part of the monetary base is held as bank reserves, which are  not available for use. This part is not included in the money supply.	(1 mark)
+(b)	(i)	M1 is better as a medium of exchange than M2.	(1 mark)
+		Components in M1 (i.e., cash held by the public and demand deposits) can settle payments immediately, which some components of M2 cannot.
+	(2 marks)
+	(ii)	M2 is better as a store of value than M1.	(1 mark)
+		Some components of M2 (e.g., savings deposits) provide interest while components of M1 do not.	(2 marks)
+
+Question code: B6C08Q302 (new)
+How do the following events affect M1, M2 and M3 in Hong Kong? Calculate the changes.
+(a)	Patrick holds $200,000 in cash. He deposits half of the money into his savings account with a licensed bank and remits the other half to his mother in Canada.
+	(3 marks)
+(b)	Karen withdraws $500,000 from her time deposit account with a licensed bank. She deposits $300,000 into her time deposit account with a restricted licence bank and deposits the remaining $200,000 into her demand deposit account with a licensed bank.	(3 marks)
+
+Answers:
+(a)	ΔM1 = ΔCP + ΔDL = -$200,000 + 0 = -$200,000	(1 mark)
+	ΔM2 = ΔM1 + ΔSL + ΔTL + ΔNCDL 
+	= -$200,000 + $100,000 + 0 + 0 = -$100,000	(1 mark)
+	ΔM3 = ΔM2 + ΔTR+D + ΔNCDR+D
+	= -$100,000 + 0 + 0 = -$100,000	(1 mark)
+(b)	ΔM1 = ΔCP + ΔDL = 0 + $200,000 = +$200,000	(1 mark)
+	ΔM2 =ΔM1 + ΔSL + ΔTL + ΔNCDL 
+	= $200,000 + 0 + (-$500,000) + 0 = -$300,000	(1 mark)
+	ΔM3 = ΔM2 + ΔTR+D + ΔNCDR+D = -$300,000 + $300,000 + 0 = 0	(1 mark)
+
+
+Question code: B6C08Q303
+Write down the formulae for calculating M1 and M2 money supply in Hong Kong.
+	(4 marks)
+
+Answers:
+M1 =	Legal tender notes and coins held by the public 
+	+ Demand deposits with licensed banks	(2 marks)
+M2 =	M1 + Savings deposits and time deposits with licensed banks
++ Negotiable certificates of deposit issued by licensed banks and held by the public	(2 marks)
+
+Question code: B6C08Q304 (new)
+(a)	In Hong Kong, what assets are included in the M2 money supply besides cash?
+		(2 marks)
+(b)	Refer to your answer in (a). Which of the assets are not included in M1? 
+Compare the liquidity of these assets with the assets in M1.	(3 marks)
+
+Answers:
+(a)	Demand deposits, savings deposits and time deposits with licensed banks; negotiable certificates of deposit issued by licensed banks and held by the public
+	(2 marks)
+(b)	Savings deposits and time deposits with licensed banks; negotiable certificates of deposit issued by licensed banks and held by the public	(1 mark)
+	They cannot be used to settle payments immediately, but cash and demand deposits can. So, their liquidity is lower than the assets in M1.	(2 marks)
+
+Question code: B6C08Q305
+Suppose Hong Kong's money supply in a certain year was:
+
+	$ billion	
+Cash reserves held by the banking system	50	
+Legal tender held by the public	80	
+Demand deposits	120	
+Savings deposits	400	
+Time deposits with licensed banks	450	
+Negotiable certificates of deposit issued by licensed banks and held by the public	200	
+
+Calculate M1 and M2.	(4 marks)
+
+Answers:
+M1 = $(80 + 120) billion = $200 billion	(2 marks)
+M2 = $(200 + 400 + 450 + 200) billion = $1,250 billion	(2 marks)
+
+Question code: B6C08Q306
+Study the following information carefully.
+
+	$ billion	
+Reserves held by the banking sector	20	
+Total deposits with licensed banks	100	
+Negotiable certificates of deposits issued by licensed banks held by authorised institutions	12	
+Demand deposits	10	
+Cash held by the public	15	
+
+*(a)	Calculate M1 and M2.	(4 marks)
+(b)	Are reserves held by the banking sector included in the money supply? Explain.
+		(2 marks)
+
+Answers:
+(a)	M1 = Cash held by the public + Demand deposits
+= $(15 + 10) billion = $25 billion	(2 marks)
+	M2 = M1 + Total deposits with licensed banks - Demand deposits 
+- Negotiable certificates of deposits issued by licensed banks held by authorised institutions
+= $(25 + 100 - 10 - 12) billion = $103 billion	(2 marks)
+(b)	No. Because they are held to meet the reserve or liquidity ratio requirement and thus they are not available for use.	(2 marks)
+
+Question code: B6C08Q307
+Study the following information carefully.
+
+	$ billion	
+M1	300	
+Demand deposits	270	
+Savings and time deposits with licensed banks	100	
+Time deposits with restricted licence banks and deposit-taking companies	80	
+Negotiable certificates of deposits issued by licensed banks, held by the public	40	
+Negotiable certificates of deposits issued by restricted licence banks and deposit-taking companies, held by the public	60	
+
+(a)	Calculate the value of currency held by the public.	(2 marks)
+(b)	Calculate M2 and M3.	(4 marks)
+
+Answers:
+(a)	Currency held by the public	= M1 - Demand deposits	(1 mark)
+		= $(300 - 270) billion
+		= $30 billion	(1 mark)
+(b)	M2 = $(300 + 100 + 40) billion = $440 billion	(2 marks)
+	M3 = $(440 + 80 + 60) billion = $580 billion	(2 marks)
+
+Question code: B6C08Q308
+(a)	What is the monetary base?	(2 marks)
+(b)	Is the monetary base included in the money supply? Explain.	(4 marks)
+
+Answers:
+(a)	The monetary base (M0) is the total amount of currency issued in an economy at a certain moment. This is held either by the non-bank public as cash (CP) or by the banking system as reserves (R), i.e., M0 = CP + R.	(2 marks)
+(b)	Only part of the monetary base, i.e., the currency held by the non-bank public, is included in the money supply. This is because only this part of the monetary base is available to serve as a medium of exchange.	(2 marks)
+	The other part is held by banks as reserves and is not the currency in public circulation. Since it is not available for use, this part of the monetary base is not included in the money supply.	(2 marks)
+
+Question code: B6C08Q309
+* 'When M1 increases, M2 and M3 must also increase immediately.'
+Is the statement true? Explain with ONE example.	(6 marks)
+
+Answers:
+(	False.	(1 mark)
+(	If the increase in M1 occurs because of changes in other M2 components which are not included in M1, then both M2 and M3 will remain unchanged.	(1 mark)
+(	If the increase in M1 occurs because of changes in other M3 components which are not included in M2, then M2 will increase but M3 will remain unchanged.
+	(1 mark)
+(	Any well-reasoned example	(3 marks)
+Example: When a person withdraws money from his savings account, M1 increases as the amount of currency held by the public increases. However, since savings deposits decrease by the same amount, M2 remains unchanged. As there are no changes in M2 and the other components of M3, M3 remains unchanged.
+
+Question code: B6C08Q310
+Ming said, 'M1, M2 and M3 must increase immediately when the central bank issues new currency.'
+Do you agree? Explain.	(3 marks)
+
+Answers:
+Disagree. This is because M1, M2 and M3 include currency held by the public, instead of the total amount of currency issued. If the newly issued currency is held by the banking system, it will not be included in M1, M2 and M3; hence, M1, M2 and M3 will not increase.	(3 marks)
+
+Question code: B6C08Q311
+Suppose people lose confidence in the banking system and withdraw their savings deposits at licensed banks and hold cash instead. Explain the immediate changes in M1, M2 and M3 after this event.	(3 marks)
+
+Answers:
+(	M1 increases because currency held by the public increases.	(1 mark)
+(	M2 and M3 remain unchanged because the increase in the amount of cash held by the public fully offsets the decrease in savings deposits.	(2 marks)
+
+Question code: B6C08Q312
+Maggie found old paper money issued during the Qing Dynasty (清朝) at her mother's house and sold the paper money for $1,500,000 to an overseas collector. After receiving the money, she used $1,000,000 to buy negotiable certificates of deposit issued by a deposit-taking company and deposited $450,000 into her savings account. She kept the remaining $50,000 in the safe deposit box at her home. What are the immediate effects of these events on M1, M2 and M3? Show your calculation.	(6 marks)
+
+Answers:
+ΔM1 = ΔCP + ΔDL = +$50,000 + $0 = +$50,000	(2 marks)
+ΔM2 = ΔM1 + ΔSL + ΔTL + ΔNCDL
+= +$50,000 + $450,000 + $0 + $0 = +$500,000	(2 marks)
+ΔM3 = ΔM2 + ΔTR+D + ΔNCDR+D
+= +$500,000 + $0 + $1,000,000 = +$1,500,000	(2 marks)
+
+Question code: B6C08Q313 (new)
+The required reserve ratio in Country Q is 70%. Suppose the central bank increases the amount of currency issued by $1,000 billion. 
+(a)	Explain why the increase in M1 can be smaller than $1,000 billion immediately after the issuance of currency.	(3 marks)
+(b)	Explain why the increase in M1 can be larger than $1,000 billion.	(3 marks)
+
+Answers:
+(a)	Although the central bank increases the monetary base, part of this may be kept by banks as reserves. As this part of the increase in currency is not available for use, the increase in M1 can be smaller than $1,000 billion.	(3 marks)
+(b)	The public may deposit the newly issued currency as demand deposits. Since banks are required to keep 70% of the deposits as reserves, they can loan the excess reserves. This results in deposit creation, and thus the increase in M1 can be larger than $1,000 billion.	(3 marks)
+
+Question code: B6C08Q314 (new)
+Suppose someone deposits $100 into a fractional reserve banking system. Ultimately, the increase in the total amount of deposits is much more than $100.
+(a)	What is a fractional reserve banking system?	(2 marks)
+(b)	Explain why it is possible for the final increase in deposits to be greater than $100.	(3 marks)
+(c)	List the assumptions for maximum money creation.	(3 marks)
+
+Answers:
+(a)	Under a fractional reserve banking system, all deposit-taking institutions are required by law to keep a minimum fraction of their deposits as required reserves. 	(2 marks)
+(b)	Under a fractional reserve system, banks can loan part of the $100 for profit. When the loans are redeposited into the banks, the amount of deposits will increase. As long as part of the $100 is loaned and the public redeposits the loans, the increase in deposits will be greater than $100.	(3 marks)
+(c)	No excess reserves	(1 mark)
+	Sufficient borrowing	(1 mark)
+	No cash leakage	(1 mark)
+
+Question code: B6C08Q315 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	580	Deposits	2,400	
+Loans	1,820			
+
+Suppose the banking system lacks $20 to meet the required reserves and the public holds $120 in cash.
+(a)	Calculate the maximum banking multiplier.	(2 marks)
+(b)	Suppose the public deposits all of their cash into the banking system.
+	(i)	Calculate the excess reserves held by the banking system immediately after the deposit.	(2 marks)
+	(ii)	Calculate the maximum change in money supply.	(3 marks)
+
+Answers:
+(a)	Required reserve ratio = $(580 + 20) / $2,400 = 0.25	(1 mark)
+	Maximum banking multiplier = 1 / 0.25 = 4	(1 mark)
+(b)	(i)	Excess reserves = $(580 + 120) - $[(2,400 + 120) × 25%] = $70	(2 marks)
+	(ii)	Maximum increase in deposits = $120 + $70 × 4 = $400	(1 mark)
+		Maximum change in money supply
+		= Maximum change in deposits + Change in cash held by public	(1 mark)
+		= $400 + (-$120) = $280	(2 marks)
+
+
+Question code: B6C08Q316 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	300	Deposits	1,000	
+Loans	700			
+
+Suppose a banking system has $100 billion in excess reserves and the public holds $100 billion in cash.
+(a)	Calculate the required reserve ratio.	(2 marks)
+(b)	Suppose the public deposits all of their cash into the banking system and banks hold no excess reserves. Calculate the maximum possible amounts of deposits and loans. Show your work.	(4 marks)
+
+Answers:
+(a)	Required reserves = $300 billion - $100 billion = $200 billion	(1 mark)
+	Required reserve ratio = $200 billion / $1,000 billion = 0.2	(1 mark)
+(b)	Reserves after the deposit = $(300 + 100) billion = $400 billion	(1 mark)
+	Maximum possible amount of deposits = $400 billion ÷ 0.2 = $2,000 billion
+	(2 marks)
+	Maximum possible amount of loans = $(2,000 - 400) billion = $1,600 billion
+	(1 mark)
+
+Question code: B6C08Q317 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	25	Deposits	125	
+Loans	100			
+
+Suppose a banking system has $5 billion in excess reserves.
+(a)	Calculate the required reserve ratio.	(2 marks)
+(b)	The public withdraws $9 billion. Suppose banks only hold the required reserves and there is no cash injection. Calculate the change in money supply	(4 marks)
+
+Answers:
+(a)	Required reserves = $25 billion - $5 billion = $20 billion	(1 mark)
+	Required reserve ratio = $25 billion / $125 billion = 0.2	(1 mark)
+(b)	Reserves after the withdrawal = $(25 - 9) billion = $16 billion	(1 mark)
+	Maximum possible amount of deposits = $16 billion ÷ 0.2 = $80 billion	(1 mark)
+	Change in deposits = $(80 - 125) billion = -$45 billion	(1 mark)
+	Change in money supply
+	= Change in deposits + Change in cash held by the public
+	= $(-45 + 9) billion = -$36 billion	(1 mark)
+
+Question code: B6C08Q318 (new)
+* The monetary base of an economy is $50 billion, of which $20 billion is held by the public. The amount of excess reserves is $10 billion and the required reserve ratio is 10%.
+(a)	Calculate the actual reserve ratio.	(4 marks)
+(b)	Suppose the banking system loans all of its excess reserves. Calculate the maximum possible amount of money supply.	(3 marks)
+
+Answers:
+(a)	Reserves held by banks 
+	= Monetary base - Cash held by the public 
+	= $(50 - 30) billion = $20 billion	(1 mark)
+	Required reserves = $(20 - 10) billion = $10 billion	(1 mark)
+	Amount of deposits = $10 billion ÷ 10% = $100 billion	(1 mark)
+	Actual reserve ratio = $20 billion / $100 billion = 20%	(1 mark)
+(b)	Maximum possible amount of deposits = $20 billion ÷ 10% = $200 billion
+	(1 mark)
+	Change in deposits = $(200- 100) billion = $100 billion	(1 mark)
+	Change in money supply
+	= Change in deposits + Change in cash held by the public
+	= $(100 + 0) billion = $100 billion	(1 mark)
+
+Question code: B6C08Q319 (new)
+The central bank of Country T has injected $100 million in newly printed currency into the banking system which has a fractional reserve system.
+(a)	Describe the process of deposit creation caused by the above event.	(3 marks)
+(b)	Compare the changes in monetary base and money supply in Country T.
+	(2 marks)
+
+Answers:
+(a)	When the central bank injects currency into the banking system, the bank system will have excess reserves under the fractional reserve system.
+	(1 mark)
+	Banks will loan the excess reserves to the public.	(1 mark)
+	When the public redeposits the loans into the banking system, this creates new deposits and excess reserves for further lending.	(1 mark)
+(b)	The increase in money supply will be greater than the increase in the monetary base due to deposit creation.	(2 marks)
+
+Question code: B6C08Q320
+Explain if banks can create deposits when the required reserve ratio is 100%.
+	(2 marks)
+
+Answers:
+When the required reserve ratio is 100%, banks will not have any excess reserves to lend. Therefore, they cannot create any deposits.	(2 marks)
+
+Question code: B6C08Q321
+(a)	What is the fractional reserve system?	(2 marks)
+(b)	Is money creation possible when the banking system consists of only one bank? Explain.	(4 marks)
+
+Answers:
+(a)	Under a fractional reserve system, all deposit-taking institutions are required by law to keep a minimum fraction of their deposits as required reserves.	(2 marks)
+(b)	Yes.	(1 mark)
+Even if there is only one bank, money creation is still possible as long as the bank does not keep all of its deposits as reserves. When the bank lends its excess reserves, the total amount of money available for use increases. If the loans are redeposited into the bank, this creates excess reserves and an opportunity to lend the excess reserves again to create more money.	(3 marks)
+
+Question code: B6C08Q322
+Suppose all banks hold only two types of assets: reserves and loans. During financial turmoil, banks expect the debt repayment ability of borrowers to fall substantially. As a result, banks become more conservative when lending money. Explain how this will affect the money creation ability of the banking system.	(6 marks)
+
+Answers:
+(	Since banks expect the debt repayment ability of borrowers to decline substantially, they will hold more excess reserves instead of loaning them.
+	(2 marks)
+(	The actual banking multiplier will fall.	(2 marks)
+(	Hence, the amount of deposits created after the deposit creation process will fall. In other words, the money creation ability of the banking system will fall.
+		(2 marks)
+(Accept other reasonable answer)
+
+Question code: B6C08Q323
+One day, Mary deposits $100,000 into a bank. However, the actual increase in deposits is smaller than the maximum increase after the deposit creation process. Briefly explain TWO possible reasons for this.	(4 marks)
+
+Answers:
+The actual increase in deposits is smaller than the maximum increase under the following conditions:
+(	Banks hold excess reserves.
+(	There is insufficient demand for loans.
+(	Cash leakage occurs.
+(Any TWO of the above with brief explanation, 2 marks ( 2 = 4 marks)
+
+Question code: B6C08Q324
+* One day, Eddie deposits $5,000 cash into a current account at Bank UPC. However, after the money creation process, M1 money supply does not increase. Explain TWO possible reasons for this.	(6 marks)
+
+Answers:
+(	Eddie's deposit comes from a withdrawal of deposits from another bank. As a result, money creation resulting from the deposit is offset by the money contraction that occurs because of the withdrawal, and money supply remains unchanged.	(3 marks)
+(	Money created during the money creation process is not a component of M1. Therefore, M1 remains unchanged even though money creation takes place.
+		(3 marks)
+(Accept other reasonable answers)
+
+
+Question code: B6C08Q325
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	4,000	
+Loans	3,000			
+
+Assume the required reserve ratio is 20% and there is no cash leakage.
+(a)	Calculate the amount of excess reserves held by banks.	(2 marks)
+(b)	Calculate the increase in the amount of loans after excess reserves are loaned.
+		(4 marks)
+
+Answers:
+(a)	Excess reserves = Actual reserves - Required reserves
+= $1,000 - ($4,000 × 20%) = $200	(2 marks)
+(b)	Since there is no cash leakage and all excess reserves are loaned, the actual increase in loans is equal to the maximum increase in loans.	(1 mark)
+	The increase in loans
+	= Excess reserves at the beginning × (1 / Required reserve ratio)	(1 mark)
+	= $200 × (1 / 20%) = $1,000	(2 marks)
+
+Question code: B6C08Q326
+The following is the balance sheet of a banking system. Banks hold $8 billion in excess reserves.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	25	Deposits	85	
+Loans	60			
+
+(a)	What is the legal reserve ratio in the above banking system?	(3 marks)
+(b)	What is the maximum increase in deposits if the banks lend all excess reserves? Briefly explain the assumption for this increase in addition to the one given in the question.	(5 marks)
+
+Answers:
+(a)	Required reserves = $(25 - 8) billion = $17 billion	(1 mark)
+	Legal reserve ratio = ($17 billion ( $85 billion) ( 100% = 20%	(2 marks)
+(b)	The maximum increase in deposits
+	= Excess reserves at the beginning × (1 / Legal reserve ratio)	(1 mark)
+	= $[8 × (1 / 20%)] billion = $40 billion	(2 marks)
+We have to assume there is no cash leakage, i.e., all the loans will be redeposited into the banking system, so that the banking system has the maximum amount of money for further lending.	(2 marks)
+
+Question code: B6C08Q327
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	500	Deposits	1,500	
+Loans	1,000			
+
+Suppose the required reserve ratio of the banking system is 30%.
+(a)	Calculate the actual banking multiplier and maximum banking multiplier of this banking system. Is the total amount of deposits in this banking system maximised? Explain with your calculation results.	(3 marks)
+(b)	After Miss Chan deposits $100 cash into a bank, all banks lend all excess reserves. Calculate the maximum change in the money supply.	(5 marks)
+
+Answers:
+(a)	Actual banking multiplier = $1,500 ( $500 = 3	(1 mark)
+	Maximum banking multiplier = 1 ( 30% = 3.33	(1 mark)
+The total amount of deposits in the banking system is not maximised because the actual banking multiplier is smaller than the maximum banking multiplier.
+	(1 mark)
+(b)	After Miss Chan deposits $100 into the bank, the banking system has $600 in reserves.	(1 mark)
+Since the required reserve ratio is 30%, a reserve amount equal to $600 can at most support a deposit amount of $2,000 [= $600 × (1 / 30%)].	(2 marks)
+	Hence, the maximum change in the money supply
+	= Change in cash held by the public + Maximum change in deposits
+	= -$100 + $(2,000 - 1,500) = +$400	(2 marks)
+
+
+Question code: B6C08Q328
+The following is the balance sheet of a banking system. Suppose banks hold $10 billion in excess reserves and the public always holds $5 billion in cash.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	70	Deposits	150	
+Loans	80			
+
+(a)	What is the required reserve ratio in the above banking system?	(2 marks)
+(b)	What is the maximum possible amount of money supply in the economy?
+		(4 marks)
+
+Answers:
+(a)	Required reserves = $(70 - 10) billion = $60 billion	(1 mark)
+	Required reserve ratio = ($60 billion ( $150 billion) ( 100% = 40%	(1 mark)
+(b)	The maximum possible amount of deposits in the banking system
+	= $[70 × (1 / 40%)] billion = $175 billion	(2 marks)
+	The maximum possible amount of money supply in the economy
+	= Cash held by the public + Maximum possible amount of deposits
+	= $5 billion + $175 billion = $180 billion	(2 marks)
+
+Question code: B6C08Q329 (new)
+* In Banking System Y, the actual banking multiplier is 2, which is smaller than the maximum banking multiplier by 0.5. Moreover, the banking system has $400 billion in deposits. If banks lend all their excess reserves, what is the maximum change in money supply in the banking system? Explain.	(6 marks)
+
+Answers:
+Actual reserves = Deposits ( Actual banking multiplier
+= $400 billion ( 2 = $200 billion	(1 mark)
+If banks lend all their excess reserves, the maximum amount of reserves in the banking system is exactly the current amount of reserves, i.e., $200 billion.	(1 mark)
+The maximum banking multiplier = 2 + 0.5 = 2.5	(1 mark)
+A reserve amount equal to $200 billion can at most support a deposit amount of 
+$500 billion (= $200 billion × 2.5).	(1 mark)
+The maximum increase in deposits = $500 billion - $400 billion = $100 billion
+	(1 mark)
+As there is no change in cash held by the public, the maximum increase in money supply is also $100 billion.	(1 mark)
+
+Question code: B6C08Q330
+The following is the balance sheet of a banking system.
+Assets ($)	Liabilities ($)	
+Reserves	2,000	Deposits	10,000	
+Loans	8,000			
+
+Assume the legal reserve ratio in this banking system is 20%. Mr Chan withdraws $500 from a bank.
+(a)	Calculate the amount of reserves that the banking system falls short of after 
+Mr Chan's withdrawal.	(2 marks)
+(b)	Calculate the maximum amount of total deposits in the banking system after 
+the withdrawal.	(3 marks)
+
+Answers:
+(a)	The amount of reserves that the banking system falls short of
+	= [$(10,000 - 500) × 20%] - $(2,000 - 500) = $400	(2 marks)
+(b)	After the $500 withdrawal, there remains a reserve amount equal to $1,500 only.
+	(1 mark)
+Since the legal reserve ratio is 20%, a reserve amount equal to $1,500 can at most support a deposit amount of $7,500 [= $1,500 × (1 / 20%)].	(2 marks)
+
+Question code: B6C08Q331
+The following is the balance sheet of a banking system. The required reserve ratio is 25%.
+
+Assets ($)	Liabilities ($)	
+Reserves	300	Deposits	1,000	
+Loans	700			
+
+(a)	What is the amount of excess reserves in this banking system?	(2 marks)
+(b)	If the public withdraws $200 from the banking system, what is the maximum change in loans?	(5 marks)
+
+Answers:
+(a)	Excess reserves = Actual reserves - Required reserves
+= $300 - ($1,000 × 25%) = $50	(2 marks)
+(b)	After the withdrawal of $200, the amount of reserves the banking system falls short of
+	= [$(1,000 - 200) ( 25%] - $(300 - 200) = $100	(2 marks)
+	Hence, the banking system has to call back $100 in loans.	(1 mark)
+	The maximum change in loans = -$100 ( (1 / 25%) = -$400	(2 marks)
+
+Question code: B6C08Q332
+The following is the balance sheet of Banking System X.
+
+Assets ($)	Liabilities ($)	
+Reserves	400	Deposits	1,000	
+Loans	600			
+
+The required reserve ratio is 10%. Suppose $150 is withdrawn from Banking System X by the public.
+(a)	Calculate the maximum possible amount of deposits in Banking System X after the withdrawal.	(3 marks)
+(b)	Briefly describe the deposit creation/contraction process in (a).	(5 marks)
+
+Answers:
+(a)	After the withdrawal of $150, the amount of reserves decreases to $250.	(1 mark)
+The maximum possible amount of deposits in Banking System X
+= $250 × (1 / 10%) = $2,500	(2 marks)
+(b)	After the withdrawal of $150, the amount of required reserves is $85 
+[= $(1,000 - 150) ( 10%]. Therefore, the banking system has $165 in excess reserves (= $250 - $85).	(2 marks)
+Suppose banks do not keep excess reserves and there is enough borrowing. They will lend all their excess reserves. Assuming no cash leakage, the loan will be redeposited into the banking system. This creates new deposits and excess reserves for further lending. This deposit creation process continues until the banking system has no excess reserves.	(3 marks)
+
+
+Structured Questions
+
+Question code: B6C08Q501 (new)
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	4,000	
+Loans	3,000			
+
+Suppose the required reserve ratio is 0.1 and the public holds $2,000 in cash.
+(a)	(i)	Define the monetary base.	(2 marks)
+	(ii)	Calculate the monetary base of the economy.	(1 mark)
+(b)	Explain why the monetary base is NOT the money supply.	(2 marks)
+(c)	(i)	Calculate the excess reserves held by the banking system.	(2 marks)
+	(ii)	Suppose banks loan all of their excess reserves. Calculate the maximum change in deposits of the banking system.	(2 marks)
+(d)	The public deposits $1,000 into the banking system. Calculate the maximum possible amount of money supply.	(4 marks)
+(e)	Besides holding excess reserves, list TWO situations in which the actual amount of deposits would be lower than the maximum possible amount.	(2 marks)
+
+Answers:
+(a)	(i)	Monetary base (M0) is the total amount of currency issued in an economy at a certain moment.	(2 marks)
+	(ii)	M0 = Cash held by public + Reserves in the banking system
+		= $2,000 + $1,000
+		= $3,000	(1 mark)
+
+(b)	Only currency held by the public is available for use. Reserves held by banks are not in public circulation. Hence, cash held by the public is a component of the money supply but reserves are not. Therefore, the monetary base is not the money supply.	(2 marks)
+
+(c)	(i)	Required reserves = $4,000 × 0.1 = $400	(1 mark)
+		Excess reserves = $1,000 - $400 = $600	(1 mark)
+	(ii)	Maximum possible amount of deposits 
+		= $1,000 × (1 / 0.1) = $10,000	(1 mark)
+		Maximum change in deposits = $10,000 - $4,000 = $6,000	(1 mark)
+
+(d)	After the public deposits the money, reserves increase to $2,000.	(1 mark)
+	Maximum possible amount of deposits = $2,000 × (1 / 0.1) = $20,000	(1 mark)
+	Maximum possible amount of money supply
+= Maximum amount of deposits + Cash held by the public
+= $20,000 + $1,000
+= $21,000	(2 marks)
+
+(e)	Not enough demand for loans	(1 mark)
+	Cash leakage to the public	(1 mark)
+
+Question code: B6C08Q502 (new)
+The following shows the balance sheet of the banking system in Hana City.
+
+Assets ($)	Liabilities ($)	
+Reserves	300	Deposits	3,000	
+Loans	2,700			
+
+Suppose the banking system is fully loaned up and the public never holds cash. The central bank announces that it will increase the required reserve ratio to 15%.
+(a)	(i)	Describe the process of change in the money supply.	(4 marks)
+	(ii)	Calculate the maximum change in money supply.	(2 marks)
+(b)	Explain whether the monetary base changes.	(2 marks)
+(c)	Mr To deposits $10 into one of the banks in Hana City. If the $10 comes from Mr To's withdrawals from another bank in Hana City, explain the effect on Hana City's money supply.	(2 marks)
+
+Answers:
+(a)	(i)	Initially, the banking system has no excess reserves. It cannot meet the reserve requirement after the central bank increases the required reserve ratio. Hence, banks have to call back loans. The public has to withdraw money to pay back the loans. The amount of deposits and the money supply decrease.	(2 marks)
+		As long as the banking system is short of reserves, it needs to call back loans. This causes further withdrawals and a decrease in deposits. The process of money contraction continues until the actual reserves are equal to the required reserves.	(2 marks)
+	(ii)	Maximum possible amount of deposits
+		= $300 × (1 / 15%) = $2,000	(1 mark)
+		Maximum change in money supply
+		= $2,000 - $3,000 = -$1,000	(1 mark)
+
+(b)	No.	(1 mark)
+	The change in the required reserve ratio does not cause changes in reserves held by banks and cash held by the public. (OR: The amount of currency issued is not affected.)	(1 mark)
+
+(c)	The money supply does not change.	(1 mark)
+	This is because money creation from the deposit is offset by money contraction from the withdrawal.	(1 mark)
+
+Question code: B6C08Q503
+Study the following information about Economy X in a certain year.
+
+Items	$ million	
+Currency held by the public	100	
+Currency held by the banking system	400	
+Total issue of currency	500	
+Demand deposits	800	
+Savings deposits	1,000	
+Time deposits with licensed banks	2,000	
+Time deposits with restricted licence banks	600	
+Negotiable certificates of deposit issued by licensed banks and held by the public	1,500	
+Negotiable certificates of deposit issued by restricted licence banks and held by the public	300	
+
+(a)	(i)	What is the monetary base? Find the monetary base in Economy X.	(3 marks)
+	(ii)	Calculate M1 and M2.	(4 marks)
+	(iii)	What additional information do we need to get M3?	(2 marks)
+*(b)	Is the monetary base the same as M1? Why?	(6 marks)
+*(c)	Suppose M3 is equal to $7,000 million. If people in Economy X change all their time deposits and negotiable certificates of deposit into savings deposits, how would this affect M1 and M2? Explain.	(4 marks)
+
+Answers:
+(a)	(i)	The monetary base (M0) is the total amount of currency issued in an economy at a certain moment. It consists of currency in the hands of the non-bank public [called cash (CP)] and currency in the hands of banks [called reserves (R)], i.e., M0 = CP + R.	(2 marks)
+		The monetary base in Economy X is $500 million.	(1 mark)
+	(ii)	M1	= $(100 + 800) million = $900 million	(2 marks)
+		M2	= $900 million + $(1,000 + 2,000 + 1,500) million = $5,400 million
+				(2 marks)
+	(iii)	(	Time deposits with deposit-taking companies	(1 mark)
+		(	Negotiable certificates of deposit issued by deposit-taking companies and held by the public	(1 mark)
+
+(b)	No. This is because the monetary base is the total amount of currency issued in an economy, while M1 measures the total amount of money available in an economy.	(2 marks)
+	The monetary base includes bank reserves which are money but are not available for use. M1 includes demand deposits with banks which are not currency issued.
+	(4 marks)
+
+(c)	M1 is unaffected because it does not include savings deposits, time deposits and negotiable certificates of deposit.	(2 marks)
+	M2 will increase to $7,000 million (i.e., increase by 1,600 million).	(2 marks)
+
+Question code: B6C08Q504
+Study the following information.
+
+Money supply	$ billion	
+M1	24.7	
+M3	412.4	
+
+(a)	(i)	Calculate the total deposits with all deposit-taking institutions, excluding demand deposits and negotiable certificates of deposit held by deposit-taking institutions.	(2 marks)
+	(ii)	Are the reserves held by deposit-taking institutions included in the money supply? Explain.	(2 marks)
+(b)	Suppose Mrs Chan uses $10,000 cash to buy gift coupons (in denominations of $100) issued by a department store. The department store deposits the money into its savings account.
+	(i)	Explain why the gift coupons are NOT money.	(2 marks)
+	(ii)	Do the gift coupons perform better than money as a store of value? Explain.
+	(3 marks)
+	(iii)	Calculate the immediate effects of the above transactions on money supply M1 and M2.	(4 marks)
+
+Answers:
+(a)	(i)	The total deposits with all deposit-taking institutions, excluding demand deposits and negotiable certificates of deposit held by deposit-taking institutions = M3 - M1	(1 mark)
+		= $(412.4 - 24.7) billion = $387.7 billion	(1 mark)
+	(ii)	The reserves held by deposit-taking institutions are not included in the money supply because they are not in public circulation and thus are not available for public use.	(2 marks)
+
+(b)	(i)	This is because the gift coupons are not generally accepted as a medium of exchange.	(2 marks)
+	(ii)	No. As the denominations of the gift coupons are expressed by money, when there is inflation, the gift coupons can be exchanged for fewer goods than before. The fall in the purchasing power of the gift coupons will generally follow that of money.	(3 marks)
+	(iii)	ΔM1 = ΔCP + ΔDL = -$10,000 + $0 = -$10,000	(2 marks)
+		ΔM2 = ΔM1 + ΔSL + ΔTL + ΔNCDL
+= -$10,000 + $10,000 + $0 + $0 = +$0	(2 marks)
+
+Question code: B6C08Q505 (new)
+Mr Chan has recently purchased a newly constructed apartment in Tai Po for $8,000,000. He has made a down payment (首期) of $2,400,000 to the property developer.
+(a)	Give TWO reasons to explain why the above transaction raises Hong Kong's GDP by an amount smaller than $8,000,000.	(4 marks)
+(b)	To make the down payment, Mr Chan withdrew $1,600,000 from a time deposit account with a deposit-taking company and sold his flat in Shenzhen for $800,000. Explain the immediate effects of the above asset transfers on Hong Kong's money supply M1, M2 and M3. Show your calculations.	(6 marks)
+(c)	Besides the down payment, Mr Chan has obtained a mortgage loan from a bank to pay the remaining amount of the apartment. He has to repay the loan over the next 15 years in monthly instalments at a fixed interest rate.
+	(i)	What function of money is performed in this case? Explain.	(2 marks)
+	(ii)	Suppose there will be unexpected inflation in the next 15 years. Explain whether Mr Chan will gain or lose.	(3 marks)
+
+Answers:
+(a)	The following are possible reasons why Hong Kong's GDP increases by an amount less than the price of the apartment:
+	(	The value of the apartment has already included the value of imports. However, the value of imports is not counted in Hong Kong's GDP.	(2 marks)
+	(	The construction work took more than one year. The value of the construction work completed in previous years is not counted in the current year's GDP.
+						(2 marks)
+	(Accept other reasonable answers)
+
+(b)	As Mr Chan withdrew money and sold his flat, the cash he holds increases by $2,400,000. Since there is no change in demand deposits, M1 increases by $2,400,000.	(2 marks)
+	As M1 increases by $2,400,000 while other components of M2 remain unchanged, M2 increases by $2,400,000.	(2 marks)
+	Although M2 increases by $2,400,000, time deposits with deposit-taking companies decrease by $1,600,000. As a result, M3 increases by $800,000.
+			(2 marks)
+
+(c)	(i)	As a standard of deferred payments	(1 mark)
+		This involves expressing future payments in terms of money.	(1 mark)
+	(ii)	Mr Chan will gain.	(1 mark)
+		As there will be unexpected inflation, the actual real interest rate he pays will be lower than the expected real interest rate / the purchasing power of the repayments will be less than expected.	(2 marks)
+
+Question code: B6C08Q506
+The following is the balance sheet of a banking system.
+
+Assets ($)	Liabilities ($)	
+Reserves	300	Deposits	1,000	
+Loans	700			
+
+Suppose the required reserve ratio is 25%.
+(a)	Calculate the maximum banking multiplier, the actual reserve ratio and the amount of excess reserves. 	(3 marks)
+(b)	Refer to the above balance sheet. Suppose Miss Lau withdraws $100 from a bank.
+	(i)	Calculate the amount of reserves the banking system falls short of immediately after the withdrawal.	(2 marks)
+	(ii)	If there is no cash injected into the banking system and the banks do not keep excess reserves, calculate the actual decrease in deposits. Explain your answer.	(3 marks)
+	(iii)	Calculate the change in money supply.	(2 marks)
+(c)	Is the actual banking multiplier necessarily the same as the maximum banking multiplier? Explain.	(3 marks)
+
+Answers:
+(a)	The maximum banking multiplier = 1 / 25% = 4	(1 mark)
+	The actual reserve ratio = ($300 ( $1,000) × 100% = 30%	(1 mark)
+	Excess reserves = $300 - ($1,000 × 25%) = $50	(1 mark)
+
+(b)	(i)	The amount of reserves the banking system falls short of
+		= [$(1,000 - 100) × 25%] - $(300 - 100) = $25	(2 marks)
+	(ii)	Since there is no cash injected into the banking system and the banks do not keep excess reserves, the actual decrease in deposits is equal to the maximum decrease in deposits.	(1 mark)
+		Actual decrease in deposits = $100 + [$25 × (1 / 25%)] = $200	(2 marks)
+	(iii)	Change in money supply
+		= Change in cash held by the public + Change in deposits
+		= +$100 + (-$200) = -$100	(2 marks)
+
+(c)	No, the actual banking multiplier may be smaller than the maximum banking multiplier when: 	(1 mark)
+	(	there is cash leakage; or	(1 mark)
+	(	banks keep excess reserves.	(1 mark)
+
+Question code: B6C08Q507
+The following is the balance sheet of a banking system.
+Assets ($ million)	Liabilities ($ million)	
+Reserves	8	Deposits	10	
+Loans	2			
+
+(a)	Suppose the banks have loaned their maximum amount. The public deposits $0.5 million in cash into the banks.
+	(i)	Calculate the maximum change in deposits in the banking system.	(3 marks)
+	(ii)	Calculate the maximum change in money supply.	(2 marks)
+(b)	Suppose there is a recession and people do not want to borrow money from the banks to invest or consume. How will this affect the deposit creation ability of the banking system?	(2 marks)
+*(c)	Suppose Miss Cheung receives a remittance of $0.5 million from her sister who lives in the US. Miss Cheung deposits half the money as demand deposits into a deposit-taking institution and the other half as savings deposits into another deposit-taking institution.
+	(i)	Which type(s) of institutions will accept Miss Cheung's deposits?	(2 marks)
+	(ii)	Explain the immediate effects of the above event on M1, M2 and M3.
+	(6 marks)
+
+Answers:
+(a)	(i)	The required reserve ratio = $8 million ( $10 million ( 100% = 80%	(1 mark)
+		The maximum change in deposits = $0.5 million × (1 / 80%) = $0.625 million
+	(2 marks)
+	(ii)	The maximum change in money supply
+		= Change in cash held by the public + Maximum change in deposits
+		= -$0.5 million + 0.625 million = +$0.125 million	(2 marks)
+
+(b)	Since the demand for loans decreases, banks will very likely hold excess reserves. As a result, banks' deposit creation ability will weaken.	(2 marks)
+
+(c)	(i)	Licensed banks will accept both demand deposits and savings deposits from Miss Cheung.	(2 marks)
+	(ii)	M1:
+		(	Demand deposits increase by $250,000 and there is no change in cash held by the public.	(1 mark)
+		(	So M1 will increase by $250,000.	(1 mark)
+		M2:
+		(	Savings deposits increase by $250,000, M1 increases by $250,000, and there is no change in the rest of the M2 components.	(1 mark)
+		(	So M2 will increase by $500,000.	(1 mark)
+		M3:
+		(	M2 increases by $500,000 and there is no change in the rest of the M3 components.	(1 mark)
+		(	So M3 will increase by $500,000.	(1 mark)
+
+Question code: B6C08Q508
+The following is the balance sheet of Banking System X.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,200	Deposits	3,000	
+Loans	1,800			
+
+Suppose the public has $800 in cash.
+(a)	Calculate the money supply in this economy.	(2 marks)
+(b)	Suppose the government lowers the required reserve ratio from 25% to 20%.
+	(i)	Calculate the increase in excess reserves in the banking system after the decrease in the required reserve ratio.	(2 marks)
+	(ii)	If the banks lend all their excess reserves, calculate the maximum changes in deposits and money supply.	(4 marks)
+(c)	Suppose the required reserve ratio is 25% and the public deposits all its cash into banks. Calculate the maximum possible amounts of deposits, reserves, loans and money supply in this economy.	(10 marks)
+
+Answers:
+(a)	Money supply = Cash held by the public + Deposits = $800 + $3,000 = $3,800
+				(2 marks)
+
+(b)	(i)	The increase in excess reserves
+		= ($1,200 - $3,000 × 20%) - ($1,200 - $3,000 × 25%) = $150	(2 marks)
+	(ii)	The maximum change in deposits = +$600 × (1 / 20%) = +$3,000	(2 marks)
+The maximum change in money supply = change in cash held by the public + the maximum change in deposits. Since cash held by the public does not change, the maximum change in money supply is equal to the maximum change in deposits, i.e., +$3,000.	(2 marks)
+
+(c)	After the public deposited $800 cash into banks, reserves in the banking system
+	= $1,200 + $800 = $2,000	(2 marks)
+	The maximum possible amount of deposits that $2,000 in reserves can support
+	= $2,000 × (1 / 25%) = $8,000	(2 marks)
+	The maximum possible amount of reserves in the economy after the deposit creation process is equal to $2,000.	(2 marks)
+	The maximum possible amount of loans in the economy
+	= Maximum amount of deposits - Maximum amount of reserves
+	= $8,000 - $2,000 = $6,000	(2 marks)
+	Since the public does not hold cash, the maximum possible amount of money supply in the economy is exactly equal to the maximum possible amount of deposits, i.e., $8,000.	(2 marks)

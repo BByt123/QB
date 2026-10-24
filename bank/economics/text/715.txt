@@ -1,0 +1,411 @@
+Chapter 15		Economic growth and development
+
+Short Questions
+
+Question code: B7C15Q301 (new)
+(a)	What is economic growth?	(2 marks)
+(b)	Explain why it is better to measure economic growth by per capita real GDP than real GDP.	(2 marks)
+
+Answers:
+(a)	Economic growth refers to an increase in the real value of an economy's production.	(2 marks)
+(b)	An increase in an economy's real GDP may be due to an increase in population. Per capita real GDP eliminates the effect of changes in population.	(2 marks)
+
+Question code: B7C15Q302 (new)
+Briefly explain why the Human Development Index is a better measurement of economic development than per capita real GDP.	(3 marks)
+
+Answers:
+Per capita real GDP can be used to measure economic growth. However, economic development takes into account aspects other than economic growth. Besides economic growth, the HDI also takes into account an economy's level of health and educational attainment.	(3 marks)
+
+Question code: B7C15Q303
+List the three measures of the Human Development Index (HDI) and briefly explain how they reflect a country's standard of living.	(6 marks)
+
+Answers:
+HDI is based on the following three measures:
+(	Life expectancy at birth - If an economy has better healthcare, its people can enjoy a longer, healthier life. As a result, the country's productivity and living standards will be higher.	(2 marks)
+(	Years of schooling - This consists of two indicators, mean years of schooling and expected years of schooling. More and better education can increase people's living standards.	(2 marks)
+
+(	Per capita GNI (PPP) - Countries with higher per capita GNI (PPP) generally have higher living standards.	(2 marks)
+
+Question code: B7C15Q304
+The following table shows economic data for Country A and Country B in Year 1:
+
+	Country A	Country B	
+Per capita GNP	US$50,000	US$37,500	
+Per capita consumption expenditure	US$25,000	US$3,750	
+Gini coefficient	0.3	0.6	
+
+(a)	Which country would tend to have a better living standard? Suggest TWO reasons for your choice.	(5 marks)
+(b)	Besides the economic data shown above, suggest TWO more figures which are useful in comparing the two countries' living standards.	(2 marks)
+
+Answers:
+(a)	Country A.	(1 mark)
+	This is because:
+	(	its per capita GNP is higher, which means that its residents generally have higher income.
+	(	its per capita consumption expenditure is higher, which means that its people generally consume more goods and services.
+	(	its Gini coefficient is lower, which reflects that income is more equally distributed in Country A.
+(Any TWO of the above with explanation, 2 marks each. Accept other reasonable answers.)
+(b)	(	Life expectancy at birth
+	(	Mean years of schooling
+	(	Expected years of schooling
+	(Any TWO of the above, 1 mark each. Accept other reasonable answers.)
+
+
+Question code: B7C15Q305
+The following table shows information about Country C and Country D in Year 1:
+
+	Country C	Country D	
+Population	100,000	600,000	
+Life expectancy at birth	68.8 years	75.2 years	
+Expenditure on research and development	5% of GDP	8% of GDP	
+Average years of schooling for adults	8 years	12 years	
+
+Which country tends to have better prospects for economic development? Give TWO reasons to support your answer.	(5 marks)
+
+Answers:
+Country D.	(1 mark)
+Reasons include:
+(	Life expectancy at birth in Country D is longer, which indicates that people in Country D are in better health.
+(	A larger proportion of Country D's GDP is used for research and development.
+(	Country D has a more educated labour force.
+(Any TWO of the above, 2 marks each.)
+
+Question code: B7C15Q306
+The following table shows economic data for Country E and Country F in Year 1:
+
+	Country E	Country F	
+Per capita GDP	US$20,000	US$10,000	
+Share of consumption in GDP	20%	50%	
+Share of research and development expenses in GDP	4%	2%	
+Share of secondary industries in GDP	40%	20%	
+Unemployment rate	11%	3.5%	
+Economic freedom	Ranking: 30	Ranking: 40	
+Gini coefficient	0.6	0.3	
+
+(a)	Which country tends to have better prospects for economic growth? Provide TWO reasons to support your argument.	(5 marks)
+(b)	Which country tends to have a higher living standard in Year 1? Provide TWO reasons to support your argument. 	(3 marks)
+
+Answers:
+(a)	Country E.	(1 mark)
+	This is because:
+(	the share of R&D expenses in its GDP is higher than that of Country F; this may increase its productivity faster in future;
+(	its economic freedom ranking is higher than Country F; this tends to favour economic growth in future.
+	(Accept other reasonable answers, 2 marks each.)
+(b)	Country F	(1 mark)
+	Reasons:
+(	Country F's per capita consumption expenditure is higher.
+(	The unemployment rate is much lower in Country F.
+	(Accept other reasonable answers, 1 mark each.)
+
+Question code: B7C15Q307 (new)
+(a)	Suggest TWO causes of economic growth.	(2 marks)
+(b)	Country K is a poor small country. Due to a famine, many citizens have migrated to other countries. The government uses most of its tax revenue to help hungry people, leaving too little to spend on education.
+	Suggest TWO reasons to explain why Country K has slow economic growth.
+	(4 marks)
+
+Answers:
+(a)	(	Increase in the stock of physical capital
+	(	Increase in labour supply
+	(	Increase in human capital
+	(	Technological advancement
+	(Any TWO of the above or other reasonable answers, 1 mark × 2 = 2 marks)
+(b)	(	As many citizens have migrated to other countries, Country K's labour supply decreases.
+	(	Due to the famine, the health of Country K's citizens may worsen. This adversely affects labour productivity in Country K.
+	(	Without enough spending on education, the economic growth of Country K will be adversely affected.
+	(Any TWO of the above or other reasonable answers, 2 marks × 2 = 4 marks)
+
+Question code: B7C15Q308 (new)
+Explain whether the following policies favour economic growth.
+(a)	Strict immigration requirement on applicants' educational levels	(3 marks)
+(b)	Higher profits tax rate for foreign companies	(3 marks)
+(c)	Exempting interest income and dividend income from income taxes	(3 marks)
+
+Answer:
+(a)	Uncertain.	(1 mark)
+	This may hinder the growth in labour supply and therefore economic growth. However, this may also increase workers' average productivity and thus favour economic growth (in terms of per capita real GDP).	(2 marks)
+(b)	No.	(1 mark)
+	This reduces foreign companies' incentive to invest. Less foreign direct investment will hinder economic growth.	(2 marks)
+(c)	Yes.	(1 mark)
+	This can encourage people to save and invest as they can keep all of their investment income.	(2 marks)
+
+Question code: B7C15Q309
+Student A says, 'Since a higher level of saving will reduce consumption and hence aggregate demand, a higher level of saving will harm economic growth.' Do you agree? Explain.	(3 marks)
+
+Answers:
+No. If the savings are used for investment purposes, the increase in investment will compensate for the decrease in consumption. As a result, the economy's real income may not fall, while the increase in investment will help increase the economy's future income.	(3 marks)
+
+Question code: B7C15Q310 (new)
+Explain how the following policies will affect a country's economic growth.
+(a)	Enhancing the protection of private property rights	(2 marks)
+(b)	Extending the years of free and compulsory education	(2 marks)
+
+
+Answers:
+(a)	Private property rights provide owners with incentives to make the best use of their property. Enhancing the protection of private property rights can facilitate investment activities and promotes economic growth.	(2 marks)
+(b)	This can improve labour productivity and thus stimulate the country's economic growth.	(2 marks)
+
+Question code: B7C15Q311
+Country B's government wants to promote economic growth. Suggest THREE possible policies to the government and briefly explain each of them.	(6 marks)
+
+Answers:
+The government can: 
+introduce favourable tax policies to attract foreign direct investment to the country;
+improve human capital in order to improve labour productivity;
+uphold the rule of law to improve confidence in investing in the country;
+develop the infrastructure, such as transport and communications networks;
+support research and development in order to strengthen the competitiveness of domestic products.
+(Any THREE of the above with brief explanation, 2 marks each. Accept other reasonable answers.)
+
+Question code: B7C15Q312
+(a)	Explain ONE possible benefit of economic growth to people.	(2 marks)
+(b)	Explain which type of worker is LESS likely to benefit from economic growth.
+	(2 marks)
+
+Answers:
+(a)	(	Economic growth can improve people's living standards. They can enjoy more goods and services.
+(	With economic growth, more resources can be devoted to educational, medical and social services. This can help people who are living in poverty.
+(Any ONE of the above or other reasonable answer, 2 marks.)
+(b)	Low-skilled workers.	(1 mark)
+	They may lose their jobs or suffer wage cuts due to the use of new technologies and capital goods.	(1 mark)
+
+Question code: B7C15Q313
+'Since economic growth can improve people's living standards, income inequality tends to decrease.' Do you agree? Explain.	(4 marks)
+
+Answers:
+Disagree.	(1 mark)
+Since the rich can save more than the poor, they are able to accumulate more capital and earn more income from their capital investments. Hence, it is more likely that the rich benefit more from economic growth, resulting in higher income inequality.
+	(3 marks)
+
+
+Structured Questions
+Question code: B7C15Q501 (new)
+The following shows the production possibilities frontier of Country C (PPFC).
+
+(a)	Explain whether Country C would produce at
+	(i)	Point A;	(2 marks)
+	(ii)	Point B; and	(2 marks)
+	(iii)	(10X, 10Y).	(2 marks)
+(b)	Suppose the world price of 1 unit of Good Y is 1 unit of Good X. Plot Country C's consumption possibilities frontier and label it as CPFC.	(2 marks)
+(c)	Suppose Country C's consumption point after trade is Point A.
+	(i)	Explain which good Country C will export.	(3 marks)
+	(ii)	Explain whether Country C can gain from international trade.	(2 marks)
+(d)	How can Country C stimulate its economic growth besides engaging in free trade? List THREE policies.	(3 marks)
+
+Answers:
+(a)	(i)	No.	(1 mark)
+		Point A lies outside PPFC. It is unattainable.	(1 mark)
+	(ii)	No.	(1 mark)
+		Point B lies within PPFC. It is not efficient.	(1 mark)
+	(iii)	No.	(1 mark)
+		(10X, 10Y) lies on the dotted line, i.e., within PPFC. It is not efficient.
+	(1 mark)
+(b)	
+		(2 marks)
+(c)	(i)	Good Y.	(1 mark)
+		Point A has less Good Y than the production point after trade (i.e., the tangency point of PPFC and CPFC).	(2 marks)
+	(ii)	Country C can gain	(1 mark)
+		since the country can consume beyond PPFC.	(1 mark)
+(d)	(	Stimulating investment
+	(	Promoting free competition
+	(	Improving human capital
+	(	Attracting more skilled labour to the country
+	(	Protecting private property rights and upholding the rule of law
+	(	Supporting research and development
+	(Any THREE of the above or other reasonable answers, 1 mark each.)
+
+
+Question code: B7C15Q502 (new)
+The following table shows the amount of goods that Country A and Country B produce with 1 unit of resources.
+
+	Good X (units)		Good Y (units)	
+Country A	1	OR	1	
+Country B	2	OR	3	
+
+Suppose both countries have 10 units of resources.
+(a)	Plot the production possibilities frontiers (PPFs) for both countries, with Good X on the x-axis. Label Country A's PPF as PPFA and Country B's PPF as PPFB, respectively.	(4 marks)
+(b)	With the aid of the PPFs drawn, explain
+	(i)	which country has an absolute advantage in producing Good X; and	(2 marks)
+	(ii)	which country will export Good X if both countries trade with each other.
+	(2 marks)
+(c)	Suppose the terms of trade is 1X = 1.3Y.
+	(i)	Plot Country A's consumption possibilities frontier and label it as CPFA.
+	(2 marks)
+	(ii)	'After trade, Country A can consume 20 units of Good Y.' Do you agree? Explain.	(2 marks)
+(d)	Refer to the following data between 2012 and 2013.
+	
+	Hong Kong	Norway	
+Human Development Index	0.891	0.944	
+Life expectancy at birth (Years)	83.378	81.503	
+Index of economic freedom	89.3	70.5	
+Mobile-cellular telephone subscriptions 
+per 100 inhabitants	237.4	116.3	
+Mean years of schooling	10.0	12.6	
+Expected years of schooling	15.6	17.6	
+Gross national income (GNI) per capita (PPP)	US$52,383	US$63,909	
+
+	(i)	Which economy has greater economic development? Which indicator shows such a conclusion?	(2 marks)
+	(ii)	Using the data above, give TWO reasons why the economy in (d)(i) has greater economic development.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Correct position of PPFA	(2 marks)
+	(	Correct position of PPFB	(2 marks)
+	
+(b)	(i)	Country B.	(1 mark)
+		The x-intercept of PPFB is further away from the origin than PPFA.	(1 mark)
+	(ii)	Country A.	(1 mark)
+		The slope of PPFA is smaller than that of PPFB.	(1 mark)
+(c)	(i)	Indicate on the diagram:
+		Correct position of CPFA	(2 marks)
+		
+
+	(ii)	No.	(1 mark)
+		Even if Country A exports all of its Good X, it can only exchange this for 13 units of Good Y.	(1 mark)
+(d)	(i)	Norway.	(1 mark)
+		This is shown by its higher Human Development Index.	(1 mark)
+	(ii)	Norway's GNI per capita is higher.	(1 mark)
+		Norway's years of schooling are longer.	(1 mark)
+		(Accept other reasonable answers.)
+
+Question code: B7C15Q503 (new)
+The following shows the production possibilities frontiers of Country C (PPFC) and Country D (PPFD).
+
+(a)	Explain whether Country C enjoys an absolute advantage in producing cars.
+	(2 marks)
+(b)	Explain which country has a comparative advantage in producing the following:
+	(i)	Cars	(2 marks)
+	(ii)	Fish	(2 marks)
+(c)	Read the following news extract about Country C.
+	
+	(i)	Construct the new production possibilities frontier of Country C and label it as PPFC1.	(2 marks)
+	(ii)	Would your answer in (b) change after the explosion? Explain.	(2 marks)
+
+(d)	Country D experienced rapid economic development after it was transformed from a manufacturing base into a financial centre.
+	(i)	Explain, giving TWO reasons, why the transformation of Country D contributed to the country's economic development.	(4 marks)
+	(ii)	Suggest TWO costs of this economic development.	(2 marks)
+
+Answers:
+(a)	Uncertain,	(1 mark)
+	since the amounts of resources available for both countries are unknown.	(1 mark)
+(b)	(i)	Country D.	(1 mark)
+		The slope of PPFD is smaller than the slope of PPFC.	(1 mark)
+	(ii)	Country C.	(1 mark)
+		The slope of PPFC is larger than the slope of PPFD. / Country D has a comparative advantage in producing the other good.	(1 mark)
+(c)	(i)	Indicate on the diagram:
+		Correct position of PPFC1 (fewer cars can be produced by Country C)
+	(2 marks)
+		
+	(ii)	No,	(1 mark)
+		since the slope of PPFD is smaller than the slope of PPFC1.	(1 mark)
+(d)	(i)	The transformation into a financial centre would make Country D's financial system more efficient. This can stimulate investment.	(2 marks)
+		The transformation from a manufacturing base would likely imply fewer factories in Country D. Pollution would likely be reduced and the health of citizens would improve.	(2 marks)
+		(Accept other reasonable answers.)
+
+	(ii)	Manufacturing workers without financial knowledge would be unemployed.
+	(1 mark)
+		Country D's citizens with financial knowledge may be able to earn more income from the financial market. This may lead to a more uneven income distribution.	(1 mark)
+		(Accept other reasonable answers.)
+
+Question code: B7C15Q504 (new)
+The following chart shows the Human Development Index and income figure for Country H and Country S in Year 1.
+
+(a)	Country H's income is lower than Country S. However, Country H's HDI is higher than Country S. Explain TWO possible reasons for this.	(4 marks)
+*(b)	Jimmy said, 'The HDI of Country H is higher than that of Country S. Therefore, the living standard of Country H's people is higher.' Explain why Jimmy may be WRONG, giving TWO reasons.	(4 marks)
+(c)	The income figures have been converted by exchange rates before comparison. What is the reason for converting the income figures before comparison?	(2 marks)
+(d)	Explain whether a high saving rate can promote economic growth. 	(3 marks)
+(e)	State THREE costs of economic growth.	(3 marks)
+
+
+Answers:
+(a)	Country H's people have a longer life expectancy at birth than those of Country S.
+	(2 marks)
+	Country H's people have longer mean years of schooling and expected years of schooling than those of Country S.	(2 marks)
+(b)	The HDI ignores the distribution of income. Despite a higher HDI, the income disparity in Country H may be larger than Country S. Country H's people may not have a higher living standard.
+	Due to inadequate information, the value of some unreported production activities cannot be reflected by the HDI. Therefore, the HDI may not accurately reflect the economic welfare of both countries.
+	The value of some unpaid services is not reflected by the HDI. However, these production activities improve people's standard of living.
+	(Any TWO of the above or other reasonable answers, 2 marks × 2 = 4 marks)
+(c)	Different currencies have different values. Therefore, the income figures have to be converted into one single currency for easier comparison.	(2 marks)
+(d)	Yes. Investment comes from savings. If people save more of their income, then more funds will be available for investment. As a result, capital will accumulate, which will stimulate economic growth.	(3 marks)
+(e)	(	Lower current consumption
+	(	Uneven income distribution
+	(	Unemployment of low-skilled workers
+	(	Economic instability
+	(	Exhaustion of natural resources
+	(	Pollution and other environmental damage
+	(Any THREE of the above or other reasonable answers, 1 mark × 3 = 3 marks)
+
+Question code: B7C15Q505 (new)
+Country X has experienced very slow economic growth for the past few years.
+(a)	Explain whether it is better to use real GDP or per capita real GDP to measure economic growth.	(2 marks)
+(b)	Explain how the following events hinder Country X's economic growth.
+	(i)	Five years ago, Country X was struck by a great tsunami.	(2 marks)
+	(ii)	To prevent a rise in prices, the government of Country X imposes price ceilings on most necessities.	(2 marks)
+	(iii)	Country X has been politically unstable in recent years.	(2 marks)
+
+(c)	An official of the immigration department suggested, 'We should relax the immigration requirement. With a larger labour force, we can boost our country's economic growth.' Explain why the official may NOT be correct.	(2 marks)
+(d)	The following are some of the policies suggested by the president of Country X. Explain how they can promote economic growth.
+	(i)	Raise the penalty for breaking copyright laws (版權法)	(2 marks)
+	(ii)	Lower the profits tax rate	(2 marks)
+	(iii)	Grant more subsidies for technological research and development through the innovation and technology fund	(2 marks)
+
+Answers:
+(a)	Per capita real GDP is a better measure because it eliminates the effect of a population change.	(2 marks)
+(b)	(i)	The tsunami might have destroyed a lot of production facilities and killed many workers. This would reduce Country X's production capacity.
+	(2 marks)
+	(ii)	Government intervention generally results in inefficiency in resource allocation and leads to a deadweight loss.	(2 marks)
+	(iii)	Political instability would likely lead to a reduction in investment and immigration of professionals.	(2 marks)
+(c)	Economic growth is often measured by per capita real GDP. If the new immigrants are less productive, the population's growth rate will exceed the real GDP's growth rate.	(2 marks)
+(d)	(i)	This raises the cost of breaking the laws and protects copyrights better. Businesspeople will have greater incentives to develop new products.
+	(2 marks)
+	(ii)	A lower profits tax rate means companies can retain more of their earnings. This attracts investment.	(2 marks)
+	(iii)	These subsidies promote research and development. This may bring technological advancement and hence stimulate economic growth.	(2 marks)
+
+
+Question code: B7C15Q506
+The following table shows information about Country A and Country B in Year 1:
+
+	Country A	Country B	
+GNI (PPP)	US$80 billion	US$95 billion	
+Population	2 million	3 million	
+Years of schooling on average	22 years	18 years	
+Life expectancy at birth	75 years	73 years	
+Foreign direct investment	US$20 million	US$10 million	
+Expenditure on research and development to GDP	3%	1%	
+Rule of law index	Ranking: 12	Ranking: 48	
+* The rule of law index ranking is higher if the country has a higher degree of rule of law.
+
+(a)	Compare the per capita GNI (PPP) of the two countries.	(3 marks)
+(b)	Which country has a higher Human Development Index (HDI)? Explain.
+	(2 marks)
+(c)	Which country has better prospects for economic growth? Provide THREE reasons to support your answer.	(4 marks)
+(d)	Country C used to be a closed socialist economy. The leader of the country decides to open up the country in an attempt to increase its national income.
+	Suggest THREE economic policies that the government of Country C can use to promote external trade.	(3 marks)
+(e)	Other than the problem of unemployment, explain TWO possible costs of economic growth.	(4 marks)
+
+Answers:
+(a)	Per capita GNI (PPP):
+	Country A = US$80 billion ÷ 2 million = US$40,000	(1 mark)
+	Country B = US$95 billion ÷ 3 million = US$31,666.67	(1 mark)
+	Country A has a higher per capita GNI (PPP).	(1 mark)
+(b)	Country A has a higher HDI because its per capita GNI (PPP) is higher; citizens in Country A have longer years of schooling on average; and life expectancy at birth is higher in the country. 	(2 marks)
+
+(c)	Country A.	(1 mark)
+	This is because:
+(	the country has a more educated labour force;
+(	longer life expectancy implies that people in Country A are in better health;
+(	a larger proportion of its GDP is used for investment in research and development;
+(	the country has a higher degree of rule of law. 
+	(Any THREE of the above, 1 mark each.)
+(d)	The government can: 
+(	introduce favourable tax policies to attract foreign direct investment in the external trade sector;
+(	develop infrastructure related to export and import activities. This can facilitate the flows of goods and people, and increase the volume of trade;
+(	improve human capital in order to improve labour productivity. This can strengthen the competitiveness of domestic products;
+(	promote research and development in order to strengthen the competitiveness of domestic products.
+(Any THREE of the above, 1 mark each. Accept other reasonable answers.)
+(e)	Possible costs of economic growth include:
+(	Lower current consumption: When we accumulate capital, we give up current consumption for future consumption.
+(	Uneven income distribution: Rapid economic growth may produce more uneven income distribution.
+(	Economic instability: Foreign trade and investment are the major driving forces of economic growth. However, they may affect a country's economic stability (e.g., income and price stability).
+(	Exhaustion of natural resources: A lot of natural resources used in production are exhaustible and may be used up one day. Economic growth may speed up the exhaustion of these resources.
+(	Pollution and other environmental damage: Some production activities have harmful effects on the environment and people. As economic growth means more production activities and output, it can cause greater damage to the environment.
+(Any TWO of the above or other reasonable answers with brief explanations, 
+2 marks × 2 = 4 marks)

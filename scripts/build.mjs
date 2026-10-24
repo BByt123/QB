@@ -4,8 +4,20 @@ const destination=path.resolve('dist');
 if(destination!==path.join(process.cwd(),'dist'))throw new Error('Unexpected build destination.');
 await rm(destination,{recursive:true,force:true});
 await mkdir(destination,{recursive:true});
-for(const entry of ['index.html','styles.css','app.mjs','lib.mjs','rendering.mjs','word-preview.mjs','exports.mjs','preferences.mjs','taxonomy.mjs','assets','vendor','bank']) {
- await cp(entry,path.join(destination,entry),{recursive:true});
-}
+const common=['styles.css','lib.mjs','rendering.mjs','word-preview.mjs','exports.mjs','preferences.mjs','taxonomy.mjs','assets','vendor'];
+await cp('hub.html',path.join(destination,'index.html'));
+await cp('hub.mjs',path.join(destination,'hub.mjs'));
+for(const entry of ['styles.css','preferences.mjs','assets','vendor'])await cp(entry,path.join(destination,entry),{recursive:true});
+const biology=path.join(destination,'biology'),economics=path.join(destination,'economics');
+await mkdir(biology,{recursive:true});await mkdir(economics,{recursive:true});
+await cp('index.html',path.join(biology,'index.html'));
+await cp('app.mjs',path.join(biology,'app.mjs'));
+for(const entry of common)await cp(entry,path.join(biology,entry),{recursive:true});
+await cp('bank',path.join(biology,'bank'),{recursive:true});
+await cp('economics.html',path.join(economics,'index.html'));
+await cp('economics-app.mjs',path.join(economics,'app.mjs'));
+for(const entry of common)await cp(entry,path.join(economics,entry),{recursive:true});
+await mkdir(path.join(economics,'bank','economics'),{recursive:true});
+await cp('bank/economics',path.join(economics,'bank','economics'),{recursive:true});
 await writeFile(path.join(destination,'.nojekyll'),'');
-console.log('Static GitHub Pages site prepared in dist/');
+console.log('Static GitHub Pages subject hub prepared in dist/ (biology/ and economics/).');

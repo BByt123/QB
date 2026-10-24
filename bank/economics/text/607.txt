@@ -1,0 +1,1255 @@
+Chapter 7	Money and banking
+
+Multiple Choice Questions
+
+Question code: B6C07Q001 (new)
+Which of the following exists in a barter economy?
+	(1)	Price
+	(2)	Interest
+	(3)	Deflation
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C07Q002 (new)
+Mr Chin lives in a barter economy. He has produced two swords and wants to exchange his swords for other goods. Which of the following can explain why it is difficult for him to trade with other people?
+	(1)	It is too costly for him to set exchange ratios for different trading partners.
+	(2)	It is not easy to find a trading partner who wants Mr Chin's swords and at the same time has the goods that Mr Chin wants.
+	(3)	The swords produced by Mr Chin differ in quality.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C07Q003
+In a barter economy, buying and selling usually occur at the same time because
+A.	a double coincidence of wants is required.
+B.	there is no generally accepted medium of exchange.
+C.	there is no paper money.
+D.	there is no specialisation.
+
+Answer: B
+
+Question code: B6C07Q004 (new)
+Refer to the following dialogue between Miss A and Mr B.
+Miss A said, 'I have some apples. I'd like to exchange them for your fish.'
+Mr B said, 'I don't want any fruit now. I prefer a stone axe instead.'
+They would not trade because
+A.	Miss A's apples are valueless to Mr B.
+B.	apples are not durable.
+C.	they do not have money.
+D.	they do not have a double coincidence of wants.
+
+Answer: D
+
+Question code: B6C07Q005
+Which of the following is a necessary condition for barter?
+A.	People are self-sufficient.
+B.	There is specialisation of labour.
+C.	The transaction cost is very low.
+D.	The requirement of double coincidence of wants is satisfied.
+
+Answer: D
+
+Question code: B6C07Q006
+In a barter economy, which of the following problems will restrict the volume of trade?
+(1)	Difficult to satisfy a double coincidence of wants
+(2)	Lack of a common measure of value
+(3)	Many goods have low portability.
+(4)	Most goods are scarce.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+
+Question code: B6C07Q007 (new)
+Nick is a chicken farmer (雞農). He wants to exchange his chickens for other goods he needs. It is difficult for him to achieve this goal because
+(1)	chickens are heterogeneous.
+(2)	chickens are not divisible.
+(3)	chickens are scarce.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(1), (2) and (3)
+D.	None of the above
+
+Answer: A
+
+Question code: B6C07Q008 (new)
+Money is anything which is
+A.	accepted by most people for the exchange of goods and services.
+B.	easy to carry around for transactions.
+C.	a very durable store of value.
+D.	the government announces to be the legal tender.
+
+Answer: A
+
+Question code: B6C07Q009 (new)
+When a barter economy is transformed into a monetary economy, the economy is expected to have
+	(1)	a higher degree of specialisation.
+	(2)	more wealth.
+	(3)	more transactions.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B6C07Q010 (new)
+In Hong Kong, the Russian ruble (盧布) is NOT considered as money because
+A.	it does not have any value in Hong Kong.
+B.	it is not accepted by most Hong Kong people for settling payments.
+C.	it is illegal to use rubles in transactions.
+D.	it cannot be exchanged for Hong Kong dollars.
+
+Answer: B
+
+Question code: B6C07Q011 (new)
+In Hong Kong, people can set up renminbi savings accounts in banks. This shows that the renminbi can serve as a __________ in Hong Kong.
+A.	medium of exchange
+B.	store of value
+C.	unit of account
+D.	standard of deferred payments
+
+Answer: B
+
+Question code: B6C07Q012 (new)
+Jennifer has bought a camera priced at HK$12,000 which she will pay for by a 24-month instalment plan.
+Which of the following functions of money are performed in the above case?
+	(1)	Store of value
+	(2)	Unit of account
+	(3)	Standard of deferred payments
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B6C07Q013 (new)
+Suppose inflation in Country P has been high for years. As a result, the function of Country P's currency as a __________ has deteriorated.
+A.	medium of exchange
+B.	store of value
+C.	unit of account
+D.	standard of deferred payment
+
+Answer: B
+
+Question code: B6C07Q014 (new)
+Which of the following statements about money is correct?
+A.	The purchasing power of money must be positively related to its intrinsic value.
+B.	The intrinsic value of money must be equal to the value of goods exchanged.
+C.	If the supply of money is unlimited, it cannot serve as a store of value.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C07Q015 (new)
+Which of the following statements about money is correct?
+	(1)	The use of money in exchange improves living standards.
+	(2)	A desirable form of money must have high intrinsic value.
+	(3)	The purchasing power of money is inversely related to the general price level.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C07Q016 (new)
+People prefer to use paper money because it is more ________ than metallic coins.
+A.	durable
+B.	portable
+C.	homogeneous
+D.	limited in supply
+
+Answer: B
+
+Question code: B6C07Q017 (new)
+Hong Kong dollar coins are a more desirable form of money than shells mainly because they are more __________.
+A.	divisible
+B.	portable
+C.	homogeneous
+D.	valuable
+
+Answer: C
+
+Question code: B6C07Q018 (new)
+Prisoners usually prefer stamps to oranges as money because stamps are more __________.
+	(1)	portable
+	(2)	durable
+	(3)	limited in supply
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C07Q019
+Which of the following is NOT a function of money?
+A.	To separate buying and selling
+B.	To preserve purchasing power
+C.	As a unit of account
+D.	To settle the problem of scarcity
+
+Answer: D
+
+
+Question code: B6C07Q020
+Which of the following statements about money is correct?
+A.	Salted fish cannot be money as it does not have all the desirable properties of money.
+B.	Specialisation can be practised only when money exists.
+C.	Paper notes are not desirable money because paper is of low value.
+D.	None of the above
+
+Answer: D
+Explanation
+Option A is incorrect. If salted fish is generally accepted as a medium of exchange, though it does not have all the desirable properties of money, it is money.
+
+Question code: B6C07Q021
+Compared with barter, the use of money can
+(1)	reduce transaction costs.
+(2)	accumulate wealth.
+(3)	reduce the number of transactions.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C07Q022
+___________ does not exist in a one-man economy where there is/are no ___________.
+A.	An economic good … market
+B.	Saving … banks
+C.	Scarcity … competition
+D.	Money … exchange
+
+Answer: D
+
+
+Question code: B6C07Q023
+* If ___________, then there will be no money.
+A.	there is no exchange
+B.	there are no financial intermediaries
+C.	there is no specialisation
+D.	the world has no paper and metals
+
+Answer: A
+
+Question code: B6C07Q024
+Ming said, 'Transactions cannot take place without money.'
+Keung said, 'Money need not exist if there are no transactions.'
+Which of the following is correct?
+A.	Only Ming is correct.
+B.	Only Keung is correct.
+C.	Both Ming and Keung are correct.
+D.	Both Ming and Keung are incorrect.
+
+Answer: B
+
+Question code: B6C07Q025
+* Suppose an economy has no money. Which of the following statements is INCORRECT?
+A.	No exchange will exist in this economy.
+B.	This economy may have one person only.
+C.	The problem of scarcity cannot be solved in this economy.
+D.	People in this economy could be self-sufficient.
+
+Answer: A
+
+Question code: B6C07Q026
+Which of the following statements about money is correct?
+A.	All money must be legal tender.
+B.	In a monetary economy, barter does not exist.
+C.	Only goods which have all of the desirable properties of money can be money.
+D.	Money may have no intrinsic value.
+
+Answer: D
+
+Question code: B6C07Q027 (new)
+Which of the following statements about money is INCORRECT?
+(1)	Legal tender must be money.
+(2)	Money must be generally accepted in exchange.
+(3)	The face value and intrinsic value of money may not be equal.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above are correct statements
+
+Answer: A
+Explanation
+Option (1) is an incorrect statement. Legal tender may not be generally accepted by the public on some occasions (e.g., in times of hyperinflation).
+
+Question code: B6C07Q028
+* Ka Ming said, 'In economics, banknotes must be money but money may not be banknotes.' This statement is
+A.	correct. As banknotes do not include other types of money like deposits, money may not be banknotes but banknotes must be money
+B.	correct. As banknotes are declared by the government to be money, banknotes must be money.
+C.	incorrect. As only banknotes are legal tender, money must be banknotes.
+D.	incorrect. Banknotes may not be money as banknotes may not be generally accepted as a medium of exchange during hyperinflation.
+
+Answer: D
+
+Question code: B6C07Q029
+* Which of the following statements about money is correct?
+A.	Without money, there will be no indirect exchange.
+B.	Without money, there will be no problem of inflation.
+C.	Without money, there will be no future payments.
+D.	The types of money must be dictated by the government.
+
+Answer: B
+Explanation
+Option B is correct. If there is no money, the value of goods is expressed in terms of other goods. Thus, the prices of all goods will only be measured in real value, instead of nominal (monetary) value. The problem of inflation will not exist as there is no monetary value.
+
+Question code: B6C07Q030
+* Which of the following statements about money is correct?
+A.	Money raises the cost of exchange because people have to make change.
+B.	Inflation occurs when the money supply keeps increasing.
+C.	Sufficient money supply is a precondition for exchange.
+D.	Only the central bank can issue money.
+
+Answer: B
+Explanation
+Option B is correct. When the money supply increases, the value of money falls, and each unit of money can buy fewer goods. That is, the purchasing power of money will decrease and the price of goods in terms of money will increase. Thus, when the money supply keeps increasing, the general price level will keep increasing and inflation occurs.
+
+Question code: B6C07Q031
+In Zimbabwe (津巴布韋), due to hyperinflation, the government suspended the use of the Zimbabwean dollar and adopted the US dollar as an official currency. People do not use the Zimbabwean dollar any more. They commonly use other foreign currencies such as the Euro as a medium of exchange. Which of the following about Zimbabwe are INCORRECT?
+(1)	In Zimbabwe, the Euro is money.
+(2)	In Zimbabwe, there is no money as the Zimbabwean dollar has been suspended by its government.
+(3)	In Zimbabwe, people cannot store their purchasing power for future consumption.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C07Q032 (new)
+In Hong Kong, the renminbi is now more accepted as money than before. Which of the following can best explain this phenomenon?
+A.	After the handover of Hong Kong to China, the renminbi became legal tender in Hong Kong.
+B.	The value of the renminbi is greater than the Hong Kong dollar..
+C.	Compared to the past, more shops accept payments with renminbi.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C07Q033
+Which of the following functions can stock (股票) best serve?
+A.	Separate buying and selling ownership
+B.	Preserve purchasing power
+C.	Measure the value of capital
+D.	Solve the problem of double coincidence of wants
+
+Answer: B
+
+Question code: B6C07Q034
+In Country A, the government gives medical coupons to low-income earners and patients with chronic illnesses so that they can see private doctors. These medical coupons are
+A.	money, because they have purchasing power.
+B.	money, because their supply is limited.
+C.	not money, because they are not a unit of account.
+D.	not money, because they are not a generally accepted medium of exchange.
+
+Answer: D
+
+
+Question code: B6C07Q035
+Which of the following functions of money is best served by commemorative stamps (紀念郵票) issued by the Hongkong Post (香港郵政)?
+A.	A medium of exchange
+B.	A store of value
+C.	A standard of deferred payment
+D.	A unit of account
+
+Answer: B
+
+Question code: B6C07Q036
+The MTRC often sells souvenir tickets. These tickets can be used to travel on the MTR. These tickets serve as __________.
+A.	a generally accepted medium of exchange
+B.	a store of value
+C.	a standard of deferred payment
+D.	a unit of account
+
+Answer: B
+
+Question code: B6C07Q037
+Octopus cards are not regarded as money because
+A.	they are not transferable.
+B.	they have no intrinsic value.
+C.	they are not homogeneous.
+D.	they are not generally accepted as a medium of exchange.
+
+Answer: D
+
+
+Question code: B6C07Q038
+Supermarket cash coupons are not money. Which of the following are NOT reasons for this?
+(1)	They are not legal tender.
+(2)	They are not durable.
+(3)	They are not generally accepted as a medium of exchange.
+(4)	They are not divisible.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: D
+Explanation
+Any good can be money as long as it is generally accepted as a medium of exchange. Therefore, Option (3) is the only reason why supermarket cash coupons are not money.
+
+Question code: B6C07Q039
+Diamonds are generally a better form of money than sand mainly because
+A.	the supply of diamonds is more limited.
+B.	diamonds are more homogeneous.
+C.	diamonds are more divisible.
+D.	None of the above
+
+Answer: A
+
+Question code: B6C07Q040
+Which of the following can explain why paper money has replaced gold as a generally accepted medium of exchange?
+A.	The supply of paper money is more limited.
+B.	Paper money has a fixed face value but the value of gold may fluctuate.
+C.	Paper money must be declared by the government as money but gold may not.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B6C07Q041
+Comparing silver and shells, it is better to use silver as money. This is because
+(1)	silver can be used to settle payments of small amounts but shells cannot.
+(2)	silver is homogeneous in quality but shells are not.
+(3)	the supply of silver is limited but the supply of shells is unlimited.
+(4)	silver is more durable than shells.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: C
+
+Question code: B6C07Q042
+Compared with demand deposits, fixed deposits can be a better
+A.	medium of exchange.
+B.	store of value.
+C.	unit of account.
+D.	standard of deferred payment.
+
+Answer: B
+
+Question code: B6C07Q043 (new)
+In some prisons, prisoners use cigarettes as a medium of exchange. Which of the following properties of cigarettes can help explain this phenomenon?
+(1)	Cigarettes are durable.
+(2)	Cigarettes are limited in supply in prisons.
+(3)	Cigarettes are generally homogeneous.
+(4)	Cigarettes are portable.
+A.	(1), (2) and (3) only
+B.	(1), (3) and (4) only
+C.	(2), (3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: D
+
+
+Question code: B6C07Q044
+Some online game stations set a cash reward point scheme (現金獎賞積分計劃). Players can win cash reward points from online games, and use their cash reward points to buy goods or convert their points into cash. The cash reward points are NOT money because
+A.	they are not issued by the government.
+B.	they are not generally accepted by the public.
+C.	they do not have a physical form.
+D.	they do not have intrinsic value.
+
+Answer: B
+
+Question code: B6C07Q045
+A large online game station launches a game point scheme. The game point (called 'GP') can be freely traded in the market. The official selling price of 1GP is HK$0.5. People can use their GP to buy goods from some online shops. Which of the following is correct?
+A.	GP is money as it can be used in exchange for goods.
+B.	GP is money as it is convertible into Hong Kong dollars.
+C.	GP cannot be money as it is traded as goods.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C07Q046
+A credit card is NOT money mainly because
+A.	it is not divisible.
+B.	it is not homogeneous.
+C.	it cannot serve as a unit of account.
+D.	it is not generally accepted as a medium of exchange.
+
+Answer: D
+
+Question code: B6C07Q047
+Which of the following statements is correct?
+A.	All types of money must have all the desirable properties of money.
+B.	Cash is a good form of money because it has intrinsic value.
+C.	When there is hyperinflation, barter trade may occur more frequently.
+D.	Money does not exist if everyone uses credit cards rather than cash.
+
+Answer: C
+
+Question code: B6C07Q048
+Which of the following statements can best describe the relationship between the functions of money and the desirable properties of money?
+A.	To serve as a unit of account, money should be portable.
+B.	To serve as a medium of exchange, money should have intrinsic value.
+C.	To serve as a standard of deferred payment, money should be limited and stable in supply.
+D.	To serve as a store of value, money should be declared by the government as legal tender.
+
+Answer: C
+
+Question code: B6C07Q049
+Which of the following is NOT a feature of good money?
+A.	Limited in supply
+B.	Generally acceptable
+C.	Has high intrinsic value
+D.	Homogeneous
+
+Answer: C
+
+Question code: B6C07Q050
+* Because of the death of Chairman Kin, there is political instability in Country K. Many people have converted their local currency (called K-Rock) into foreign currencies and most shops only accept transactions in foreign currencies. To maintain the exchange rate of K-Rock, the government restricts people from purchasing foreign currencies. Which of the following are INCORRECT?
+(1)	Foreign currencies are not money in Country K.
+(2)	From an economic viewpoint, K-Rock is money as it is legal tender.
+(3)	People keep more foreign currencies because foreign currencies can better serve as a medium of exchange than K-Rock.
+(4)	As people keep less K-Rock in hand, their monetary wealth decreases.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: D
+
+Question code: B6C07Q051 (new)
+Bronze (銅) is a better type of money than wine because bronze is more
+A.	divisible.
+B.	portable.
+C.	durable.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C07Q052
+When people expect the price level to rise significantly, they will convert their wealth into real assets. This is because real assets are expected to serve better as ___________ than money in this situation.
+A.	a medium of exchange
+B.	a store of value
+C.	a standard of deferred payments
+D.	a means of settling debts
+
+Answer: B
+
+Question code: B6C07Q053
+In Hong Kong, an Octopus card is
+A.	money.
+B.	a generally accepted standard of deferred payments.
+C.	a generally accepted unit of account.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C07Q054 (new)
+Which of the following statements about money is correct?
+A.	It must have a physical form.
+B.	Its face value can be different from its intrinsic value.
+C.	Its purchasing power will increase when there is deflation.
+D.	Its purchasing power is unrelated to its intrinsic value.
+
+Answer: C
+
+Question code: B6C07Q055
+Which of the following statements is correct?
+A.	If no money exists, people need to be self-sufficient.
+B.	In a barter economy, if stamps are generally accepted as the medium of exchange, this cannot reduce the number of exchange ratios because people will still exchange goods for other goods.
+C.	The intrinsic value of money must be the same as the face value.
+D.	Money can be intangible (無形體的).
+
+Answer: D
+
+Question code: B6C07Q056 (new)
+Which of the following about commercial banks and central banks are correct?
+	(1)	Commercial banks are privately owned while central banks are owned by the government.
+	(2)	Central banks aim to serve society while commercial banks are profit-making.
+	(3)	Hong Kong has no central bank and the functions of a central bank are performed by different commercial banks.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C07Q057 (new)
+In Hong Kong, which of the following central banking functions are performed by the Hong Kong Monetary Authority?
+	(1)	Keeping cash reserves of licensed banks
+	(2)	Issuing coins
+	(3)	Managing official reserves
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C07Q058 (new)
+Which of the following is NOT a central banking function performed by the Hong Kong Monetary Authority?
+	(1)	Providing banking services to the government
+	(2)	Keeping cash reserves of deposit-taking institutions
+	(3)	Carrying out fiscal policy
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C07Q059 (new)
+Siu Ming has HK$130,000 cash. He wants to deposit the money into a deposit-taking institution. He will withdraw the money after one year. He may deposit the money into
+	(1)	a licensed bank.
+	(2)	a restricted licence bank.
+	(3)	a deposit-taking company.
+A.	(1) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: C
+
+Question code: B6C07Q060 (new)
+Jacqueline receives HK$600,000 in remuneration from a firm. She wants to save the entire amount as a one-month time deposit at a financial institution in Hong Kong. Which of the following financial institutions can accept her deposit?
+	(1)	A licensed bank
+	(2)	A restricted licence bank
+	(3)	A deposit-taking company
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C07Q061
+Isa receives a HK$500,000 red packet (紅封包) from her rich aunt. She decides to put half of the lucky money into a deposit-taking institution in Hong Kong and uses the remainder to buy a new car. Which of the following statements are INCORRECT?
+(1)	From Isa's viewpoint, the red packet is a free good.
+(2)	Isa can only deposit her money into a deposit-taking company.
+(3)	Isa cannot deposit her money into a restricted licence bank.
+(4)	From Isa's viewpoint, no cost is involved in buying the new car.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+Question code: B6C07Q062
+Which of the following statements about the banking system in Hong Kong are INCORRECT?
+(1)	After the handover of Hong Kong to China, central banking functions in Hong Kong are mainly performed by the People's Bank of China (中國人民銀行).
+(2)	The three-tier system of authorised institutions in Hong Kong classifies banks into commercial banks, merchant banks and the central bank.
+(3)	Banking services for the government are mainly offered by the Bank of China (Hong Kong).
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C07Q063
+Which of the following types of banks CANNOT be found in Hong Kong?
+A.	Investment banks
+B.	Note-issuing banks
+C.	Restricted licence banks
+D.	A central bank
+
+Answer: D
+
+Question code: B6C07Q064
+Which of the following functions are performed by the Hong Kong Monetary Authority?
+(1)	Maximising the government's budget surplus
+(2)	Being a lender of last resort
+(3)	Managing official reserves
+(4)	Issuing $100 notes
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+Question code: B6C07Q065
+Which of the following statements are INCORRECT?
+(1)	One of the major functions of a commercial bank is to accept deposits and make loans.
+(2)	One of the major functions of a merchant bank is to provide investment services.
+(3)	A commercial bank does not provide investment services.
+(4)	A merchant bank does not accept deposits and make loans.
+A.	(1) and (3) only
+B.	(2) and (4) only
+C.	(3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+Question code: B6C07Q066 (new)
+In Hong Kong, which of the following functions is NOT performed by a commercial bank?
+A.	Providing banking services to the government
+B.	Issuing letters of credit
+C.	Issuing $1,000 banknotes
+D.	Managing foreign exchange reserves
+
+Answer: D
+
+Question code: B6C07Q067
+To ___________, when there is a bank run, the central bank usually acts as ___________.
+A.	maintain the stability of the banking system … a lender of last resort
+B.	control the operations of financial institutions … a supervisor of banks
+C.	ensure the proper development of financial markets … a clearing house
+D.	None of the above
+
+Answer: A
+
+Question code: B6C07Q068
+Which of the following statements about the three-tier system of deposit-taking institutions in Hong Kong is correct?
+A.	Both licensed banks and restricted licence banks can accept time deposits.
+B.	Deposit-taking companies cannot accept deposits less than HK$500,000.
+C.	The deposits in restricted licence banks must have three-month maturities or more.
+D.	The liquidity ratio for all deposit-taking institutions is 20%.
+
+Answer: A
+
+Question code: B6C07Q069
+Which of the following statements about the banking system in Hong Kong are INCORRECT?
+(1)	There is no reserve requirement in Hong Kong.
+(2)	All coins are issued by the Hong Kong Monetary Authority and all notes are issued by the three note-issuing banks.
+(3)	The Hong Kong Monetary Authority makes collections and payments for the Hong Kong Government.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C07Q070
+Which of the following factors contribute to Hong Kong's development as a financial centre?
+(1)	Hong Kong has a favourable time zone location.
+(2)	Hong Kong is in an advantageous position to provide financial services to the mainland and the Southeast Asia region.
+(3)	The government provides a large amount of subsidies to the financial sector.
+(4)	The tax rate imposed on financial products is lower than the tax rates of other products.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+
+
+Short Questions
+
+Question code: B6C07Q301 (new)
+(a)	What is money?	(2 marks)
+(b)	Suggest THREE reasons to explain why eggs are NOT a good form of money.
+	(3 marks)
+
+Answers:
+(a)	Money is anything that is generally accepted as a medium of exchange.	(2 marks)
+(b)	(	Eggs are not durable. They can be broken easily / they are perishable. Their value will then drop significantly.
+	(	The supply of eggs is not stable. Their value may fluctuate considerably.
+	(	Eggs are not homogeneous. Buyers and sellers may have disputes on exchange ratios because the qualities of different eggs are not the same.
+	(	Eggs are not portable. It is very costly to carry a large quantity of eggs without breaking them.
+	(	Eggs are not divisible. The value of an egg will drop when it is divided.
+	(Any THREE of the above or other reasonable answers. 1 mark × 3 = 3 marks)
+
+Question code: B6C07Q302 (new)
+(a)	Explain why monetary exchange does NOT require a double coincidence of wants.	(3 marks)
+(b)	How does the use of money promote trading activities in an economy?	(2 marks)
+
+Answers:
+(a)	Money is the medium commonly accepted in exchange in a monetary economy. Buyers who pay with money can exchange money for anything they desire, if they can find sellers with the goods they want. Hence, a double coincidence of wants is not required.	(3 marks)
+(b)	The use of money greatly reduces the costs involved in transactions, e.g., the costs of finding a trading partner and determining exchange ratios. This makes trade easier and more profitable.	(2 marks)
+
+Question code: B6C07Q303 (new)
+In the past, shells were used as money on Island T. Later, the islanders discovered a large silver mine and started to cast (鑄造) silver coins. Now, silver coins are used as money on the island.
+(a)	Suggest TWO reasons to explain why silver coins are a better form of money than shells.	(4 marks)
+(b)	Suggest ONE disadvantage of using silver coins as money.	(2 marks)
+
+Answers:
+(a)	The supply of silver coins is more limited than shells. Hence, the value of silver coins is more stable.	(2 marks)
+	Different shells differ in quality and size. Silver coins are more homogeneous so that disputes over exchange ratios can be avoided.	(2 marks)
+	(Accept other reasonable answers.)
+(b)	It is very costly to carry a large amount of silver coins for high-value transactions.	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B6C07Q304 (new)
+During a civil war in Country Q, the rebellion prints an enormous amount of counterfeit currency. As a result, Country Q suffers from serious inflation.
+(a)	According to the above information, explain which function of money performed by Country Q's currency is adversely affected.	(3 marks)
+(b)	As people lose confidence in the legal tender, barter emerges in Country Q to replace monetary exchange.
+	(i)	Explain whether the legal tender is still money in Country Q.	(3 marks)
+	(ii)	How will the number of transactions change after barter emerges? Explain briefly.	(3 marks)
+
+Answers:
+(a)	As a store of value.	(1 mark)
+	During serious inflation, the purchasing power preserved in Country Q's currency decreases significantly.	(2 marks)
+(b)	(i)	No.	(1 mark)
+		As people lose confidence in the legal tender, it is no longer generally accepted as a medium of exchange.	(2 marks)
+	(ii)	The number of transactions will decrease.	(1 mark)
+		Barter requires double coincidence of wants such that each trading partner owns the good wanted by the other. Hence, it is more difficult for transactions to take place.	(2 marks)
+
+
+Question code: B6C07Q305
+Suppose there are only four goods in an economy.
+(a)	Find the number of exchange ratios between the four goods.	(1 mark)
+(b)	If one of the goods is used as a generally accepted medium of exchange, what is the number of exchange ratios?	(1 mark)
+(c)	In light of the answers in (a) and (b), explain why money is used in an economy.
+	(2 marks)
+
+Answers:
+(a)	The number of exchange ratios between the four goods = 3 + 2 + 1 = 6	(1 mark)
+(b)	The number of exchange ratios between one of the goods and the other three goods = 3	(1 mark)
+(c)	(	The use of a medium of exchange can reduce the number of exchange ratios.
+	(1 mark)
+(	Therefore, the total exchange cost will be lower and the gains from trade will be higher.	(1 mark)
+
+Question code: B6C07Q306
+(a) What is barter?	(2 marks)
+(b)	Briefly explain ONE problem of barter and how this problem restricts the volume of exchange.	(2 marks)
+
+Answers:
+(a)	Barter is the direct exchange of goods for other goods.	(2 marks)
+(b)	(	Difficult to satisfy a double coincidence of wants: It is difficult to find a suitable trading partner to trade.
+(	Some properties of goods can hinder barter exchange: For example, the transport cost of a good may be very high and hinder the exchange of the good.
+(	Lack of a common measure of value: The cost of setting exchange ratios can be very high and hinder exchange from taking place.
+(Any ONE of the above with brief explanation or other reasonable answer, 
+2 marks)
+
+Question code: B6C07Q307
+(a)	What is a double coincidence of wants?	(2 marks)
+(b)	Explain why the problem of double coincidence of wants does NOT exist in monetary exchange.	(3 marks)
+
+Answers:
+(a)	Double coincidence of wants means each trading partner owns the good wanted by the other.	(2 marks)
+(b)	Money is the medium commonly accepted in exchange in a monetary economy. Buyers who pay with money can exchange money for anything they desire, if they can find sellers with those goods. Hence, the problem of double coincidence of wants is solved.	(3 marks)
+
+Question code: B6C07Q308
+(a)	Explain TWO properties of goods which hinder barter.	(4 marks)
+(b)	Suppose no goods have properties which hinder barter. Explain with ONE reason whether money is still needed.	(2 marks)
+
+Answers:
+(a)	(	Low divisibility
+(	Low durability
+(	Low portability
+(	Heterogeneity
+(Explain any TWO of the above, 2 marks × 2 = 4 marks)
+(b)	Yes, because the following two problems (which hinder direct exchange) still exist:
+(	Difficult to satisfy double coincidence of wants
+(	Lack of a common measure of value
+(Explain any ONE of the above, 2 marks)
+
+Question code: B6C07Q309 (new)
+Suppose silver coins are generally accepted in Fantasia as a medium of exchange. The prices of goods sold in the market are expressed in silver coins. One day, Arnold exchanges 10 silver coins for 50 pieces of fresh bread from Gordon, a baker. Gordon keeps the silver coins in a safe, and looks forward to the day when he has enough silver coins to buy a house.
+(a)	Explain whether silver coins are money in Fantasia.	(2 marks)
+(b)	Explain TWO functions of money that silver coins perform in the above case.
+	(4 marks)
+
+Answers:
+(a)	Yes, because they are generally accepted as a medium of exchange.	(2 marks)
+(b)	(	As a medium of exchange
+(	As a store of value
+(	As a unit of account
+(Explain any TWO of the above, 2 marks × 2 = 4 marks)
+
+Question code: B6C07Q310
+Robinson Crusoe arrived on an isolated island (孤島) after a shipwreck. He was alone before aborigines (土著) came.
+(a)	Explain if Robinson Crusoe needs money before the aborigines came.	(2 marks)
+(b)	The following is a conversation between Robinson Crusoe and an aborigine named Friday.
+	Robinson Crusoe: If you work for me, I will give you 60 pieces of bread each month as a reward.
+Friday: Sorry, my master! I want to have dried fruit instead as it is the only thing which is generally accepted by all other people on the island for the exchange of goods.
+(i)	What is the function of money served by bread mentioned above by Robinson Crusoe?	(1 mark)
+(ii)	Is there money on the island? Explain.	(2 marks)
+
+Answers:
+(a)	No. This is because in a one-man economy, there is no exchange.	(2 marks)
+(b)	(i)	As a standard of deferred payment	(1 mark)
+(ii)	Yes. As dried fruit is a generally accepted medium of exchange, it is money.
+	(2 marks)
+
+Question code: B6C07Q311
+Explain FOUR functions of money.	(8 marks)
+
+Answers:
+(	As a medium of exchange
+(	As a store of value
+(	As a unit of account
+(	As a standard of deferred (or future) payments
+(2 marks each. Marks will be given only when explanations are provided.)
+
+
+Question code: B6C07Q312
+Suppose all residents on Island X are willing to exchange goods for apples.
+(a)	Explain if apples are money on Island X.	(2 marks)
+(b)	Suggest THREE reasons to explain why apples are NOT good money.	(6 marks)
+
+Answers:
+(a)	Yes, because apples are generally accepted as a medium of exchange on Island X.	(2 marks)
+(b)	Apples are not good money since apples lack the following properties:
+(	Stable in supply: The yield of apples is unstable and so the purchasing power of apples may fluctuate greatly.
+(	Durable: Apples decay quickly.
+(	Portable: It is inconvenient to carry apples in large transactions.
+(	Homogeneous: Apples are not homogeneous.
+(Any THREE of the above, 2 marks × 3 = 6 marks)
+
+Question code: B6C07Q313
+Suppose some people in a village are willing to use live cattle in exchange for goods.
+(a)	Explain whether live cattle are money in this village.	(2 marks)
+(b)	Suggest TWO reasons to explain why live cattle are NOT good money.	(4 marks)
+
+Answers:
+(a)	Uncertain, because we do not know whether live cattle are generally accepted as a medium of exchange in the village.	(2 marks)
+(b)	The reasons are:
+(	Their supply is unstable: the number of live cattle may change with the weather and the natural environment. This will affect their function as a medium of exchange.
+(	They have low divisibility: live cattle will die soon after being cut.
+(	They are not portable: it is very inconvenient for people to carry a large number of live cattle during large-value transactions.
+(	They are not homogeneous: they do not possess uniform physical characteristics.
+	(Any TWO of the above, 2 marks × 2 = 4 marks)
+
+
+Question code: B6C07Q314 (new)
+In October 2014, the US Federal Reserve (美國聯邦儲備局) ended the quantitative easing policy (量化寬鬆政策). Many investors decided to convert other currencies into US dollars as their relative prices against the US dollar decreased.
+(a)	What function of money of the US dollar was strengthened in the above case? Explain.	(3 marks)
+(b)	The US dollar is used in most international transactions. Explain TWO functions that the US dollar performs in international trade.	(4 marks)
+
+Answers:
+(a)	As a store of value	(1 mark)
+	This is because the value of US dollars in terms of other currencies increased. Investors keep more US dollars as an asset for accumulating wealth or preserving purchasing power.	(2 marks)
+(b)	(	As a medium of exchange because the US dollar is exchanged for goods.
+	(	As a unit of account because the prices of goods are quoted in US dollars.
+	(	As a standard of deferred payment because future payments involved in international trade are set in terms of the US dollar.
+	(Explain any TWO of the above, 2 marks × 2 = 4 marks)
+
+Question code: B6C07Q315
+In order to shorten the queuing time for public medical services, the government intends to give medical coupons to low-income earners so that they can see private doctors. The beneficiaries can receive free private out-patient services by presenting the coupons. The coupons can be accumulated and have no expiry date.
+(a)	Explain why the medical coupons are NOT money.	(2 marks)
+(b)	Explain whether the medical coupons can perform the following functions.
+(i)	A standard of deferred payments	(2 marks)
+(ii)	A store of value	(2 marks)
+
+Answers:
+(a)	Because they are not a generally accepted medium of exchange. They can be used to pay for private out-patient services only.	(2 marks)
+(b)	(i)	No, because future receipts or payments are not expressed in terms of the coupons.	(2 marks)
+(ii)	Yes, because the beneficiaries can accumulate the coupons and store their purchasing power.	(2 marks)
+
+Question code: B6C07Q316
+(a)	Explain if a gift coupon issued by a department store can perform the same function of being a medium of exchange as money.	(2 marks)
+(b)	Explain whether a gift coupon is a better store of value than money when there is inflation.	(2 marks)
+
+Answers:
+(a)	No. This is because a gift coupon is not accepted as a medium of exchange other than in the department store.	(2 marks)
+(b)	(	No. When there is inflation, a gift coupon can be exchanged for fewer goods than before.	(1 mark)
+(	Thus, similar to money, the purchasing power of a gift coupon will decrease with inflation.	(1 mark)
+
+Question code: B6C07Q317
+(a)	Explain why gold and silver were preferred to bronze coins (銅錢) as a medium of exchange in large transactions in ancient China.	(2 marks)
+(b)	Later, gold and silver certificates were invented in China. The holders of those certificates could withdraw a corresponding amount of gold and silver from the goldsmiths (金號).
+	However, during wars, people were usually unwilling to accept gold and silver certificates to settle payments. Explain why.	(3 marks)
+
+Answers:
+(a)	(	Because significantly more bronze coins are required in large transactions.
+	(1 mark)
+(	Silver and gold are more portable than bronze coins and are better forms of money in this case.	(1 mark)
+(b)	(	The value of the certificates depends on the value of the gold and silver into which they can be converted.	(1 mark)
+	(	During wars, it is very likely that the issuers of the certificates would be unable to convert them into gold and silver.	(1 mark)
+	(	The function of a store of value would be lost and so would their function as a medium of exchange.	(1 mark)
+
+Question code: B6C07Q318 (new)
+* Electronic money is stored and transferred electronically and does not have a physical form.
+Based on the definition of money, use ONE example in Hong Kong to explain why electronic money may be money nowadays.	(4 marks)
+
+Answers:
+Money is anything that is generally accepted as a medium of exchange.	(2 marks)
+In Hong Kong, electronic money may be money. For example, the electronic money stored on Octopus cards is accepted as a medium of exchange by many shops and public transport providers.	(2 marks)
+
+Question code: B6C07Q319
+Mr Lo has recently purchased an apartment in Shatin. He has made a down payment (首期) of $487,000 to the property developer.
+(a)	Explain the function of money performed by the apartment.	(2 marks)
+(b)	Mr Lo used a cheque instead of banknotes to pay the down payment.
+	(i)	Explain ONE function of money performed by a cheque in this case.
+	(2 marks)
+	(ii)	Explain ONE reason why a cheque is preferred to banknotes in this case.
+	(2 marks)
+
+Answers:
+(a)	(	As a store of value	(1 mark)
+	(	Because it can be sold in future and hence provide purchasing power to the holder in future.	(1 mark)
+(b)	(i)	(	As a medium of exchange	(1 mark)
+		(	It is accepted by the developer in making the down payment.	(1 mark)
+	(ii)	(	Because the down payment involves a large amount, cheques are more portable than banknotes and serve as a better medium of exchange in this case.
+(	A cheque can save the cost of counting as a cheque payment can be drawn for the exact amount.
+(	The risk of theft is lower when the payment is made by a cheque.
+(Any ONE of the above or other reasonable answer, 2 marks)
+
+
+Question code: B6C07Q320 (new)
+The following table gives information about three Hong Kong deposit-taking institutions, DYC, JYP and STM.
+
+	DYC	JYP	STM	
+Types of deposits permitted	Time deposits only	Demand, savings and time deposits	Time deposits only	
+Maturity of time deposits permitted	Any maturity	Any maturity	Not less than 
+3 months	
+
+(a)	Based on the above information, identify the types of the three deposit-taking institutions.	(3 marks)
+*(b)	Compare a time deposit and a demand deposit. Which one is a better store of value? Which one is a better medium of exchange? Explain.	(4 marks)
+
+Answers:
+(a)	DYC is a restricted licence bank.	(1 mark)
+	JYP is a licensed bank.	(1 mark)
+	STM is a deposit-taking company.	(1 mark)
+(b)	A time deposit is better as a store of value than a demand deposit because it provides interest while a demand deposit does not.	(2 marks)
+	A demand deposit is better as a medium of exchange than a time deposit because it can be immediately used to settle payments.	(2 marks)
+
+Question code: B6C07Q321 (new)
+HSBC is a listed company in Hong Kong. It performs some of the functions of a central bank in Hong Kong. However, it is not the central bank of Hong Kong. The Hong Kong Monetary Authority (HKMA) is generally regarded as the central bank of Hong Kong.
+(a)	List TWO functions of a central bank that HSBC performs.	(2 marks)
+(b)	What are the differences between HSBC and a central bank in terms of their ownership and objectives?	(2 marks)
+(c)	List TWO functions of a central bank that HKMA performs.	(2 marks)
+
+Answers:
+(a)	Issuing banknotes and offering banking services for the government.	(2 marks)
+(b)	HSBC is privately-owned while a central bank is government-owned.	(1 mark)
+	The main objective of HSBC is profit-maximising while the main objective of a central bank is to serve society.	(1 mark)
+(c)	(	Being the government's adviser
+	(	Managing official reserves
+	(	Being a lender of last resort
+	(	Supervising the banking system
+	(	Issuing coins and $10 notes
+	(	Carrying out monetary policy
+	(Any TWO of the above, 1 mark × 2 = 2 marks)
+
+Question code: B6C07Q322
+(a)	State TWO services of commercial banks.	(2 marks)
+(b)	Explain TWO functions of a central bank.	(4 marks)
+(c)	Describe ONE difference between commercial banks and a central bank in their types of businesses engaged.	(2 marks)
+
+Answers:
+(a)	(	Accepting deposits and providing loans
+(	Providing services for buying and selling foreign currencies, securities and funds
+(	Collecting fees and making salary payments for firms
+(	Providing letters of credit
+(	Supplying credit cards and insurance products
+(	Providing money remittance services
+(	Giving investment advice
+(Any TWO of the above or other relevant services provided by commercial banks, 1 mark × 2 = 2 marks)
+(b)	(	To serve as the government's banker and financial adviser
+(	To manage the country's official reserves
+(	To keep cash reserves of deposit-taking institutions
+(	To act as a lender of last resort
+(	To serve as a clearing house
+(	To supervise the banking system
+(	To issue currency
+(	To carry out monetary policy
+(Explain any TWO of the above, 2 marks × 2 = 4 marks)
+(c)	(	Commercial banks mainly engage in retail banking because they serve individuals and small businesses;	(1 mark)
+(	a central bank serves the government, the banking sector and the economy, not individuals or firms.	(1 mark)
+
+Question code: B6C07Q323
+(a)	Explain TWO central banking functions performed by the Hong Kong Monetary Authority.	(4 marks)
+(b)	Give ONE central banking function (in Hong Kong) which is NOT performed by the Hong Kong Monetary Authority.	(1 mark)
+(c)	State TWO differences between licensed banks and restricted licence banks in Hong Kong.	(4 marks)
+
+Answers:
+(a)	(	Being an adviser of the government
+(	Managing official reserves
+(	As a lender of last resort
+(	Supervising the banking system
+(	Issuing coins and $10 notes
+(	Carrying out monetary policy
+(Explain any TWO of the above, 2 marks × 2 = 4 marks)
+(b)	(	Being the government's banker (performed by HSBC)
+(	Being a clearing house (performed by the Hong Kong Interbank Clearing Limited)
+(	Issuing banknotes other than $10 notes (performed by the three note-issuing banks)
+(Any ONE of the above, 1 mark)
+(c)	(	The minimum capital requirement for licensed banks is HK$300 million while that of restricted licence banks is HK$100 million.
+(	Licensed banks can accept any types of deposits while restricted licence banks can only accept time deposits.
+(	Licensed banks can accept deposits of any size while restricted licence banks can only accept time deposits not less than HK$500,000.
+(Any TWO of the above, 2 marks × 2 = 4 marks)
+
+Question code: B6C07Q324
+(a)	Ming said, 'Generally, time deposits are a better store of value than cash.' 
+Do you agree?	(2 marks)
+(b)	Suppose Ming would like to deposit HK$300,000 into a deposit-taking institution in Hong Kong with a two-month maturity.
+(i)	List all types of authorised institutions under the three-tier system of deposit-taking institutions in Hong Kong and state the minimum capital requirement for each type of institution.	(3 marks)
+(ii)	Explain which type(s) of deposit-taking institutions can accept Ming's deposit and which type(s) cannot.	(3 marks)
+
+Answers:
+(a)	Agree, because time deposits pay interest but cash does not.	(2 marks)
+(b)	(i)	(	Licensed banks: HK$300 million	(1 mark)
+(	Restricted licence banks: HK$100 million	(1 mark)
+(	Deposit-taking companies: HK$25 million	(1 mark)
+(ii)	(	Licensed banks can accept deposits of any type and size. Thus, they can accept Ming's deposit. 	(1 mark)
+(	Restricted licence banks can only accept time deposits with an amount not less than HK$500,000. Thus, they cannot accept Ming's deposit.	(1 mark)
+(	Deposit-taking companies can only accept time deposits with a maturity of not less than three months. Thus, they cannot accept Ming's deposit.
+	(1 mark)
+
+Question code: B6C07Q325
+Explain THREE factors that have contributed to Hong Kong's development as a financial centre.	(6 marks)
+
+Answers:
+(	Favourable time zone location
+(	Strong local and regional demand for financial services
+(	Favourable government policies
+(	Excellent financial infrastructure
+(	Adequate supply of financial professionals
+(Explain any THREE of the above or other relevant factors, 2 marks × 3 = 6 marks)
+
+
+Structured Questions
+
+Question code: B6C07Q501 (new)
+Great Oceania is a closed economy ruled by a dictator. Its legal tender is called the Great Dollar (GD). Due to the failure of government policies and serious natural disasters, Great Oceania is extremely poor. 
+The dictator believes that printing more money can boost the economy. After the increase in money supply, serious inflation occurs. As a result, most citizens of Great Oceania engage in barter and avoid using GD. 
+(a)	What is inflation? State ONE possible effect of inflation in Great Oceania.
+	(3 marks)
+(b)	Winston said, 'Although GD is the legal tender of Great Oceania, it is no longer money.' Do you agree? Explain.	(3 marks)
+(c)	How will people's standard of living change after the failure of GD? Explain your answer.	(3 marks)
+(d)	Due to the lack of food, corn has become more valuable in Great Oceania. Now, corn is widely used in transactions. Explain which function of money corn performs in each of the following cases.
+	(i)	Instead of spending the corn, Julia saves up the corn she has for future transactions.	(2 marks)
+	(ii)	O'Brien promises to give Winston 5 kg of corn after he finds out who is spreading rumours against the dictator.	(2 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+Possible effects of inflation on Great Oceania:
+(	Income is redistributed.
+(	The cost of living rises and the purchasing power of money drops.
+(	The standard of living may fall.
+(	Resources are reallocated.
+(	The volume of exports drops while the volume of imports rises.
+(Any ONE of the above, 1 mark)
+
+(b)	Yes.	(1 mark)
+	Money is anything that is generally accepted in an economy as a medium of exchange. As GD is no longer generally accepted in transactions, it is no longer money.	(2 marks)
+
+(c)	The living standard will decrease.	(1 mark)
+	After the failure, people widely engage in barter. The costs involved in transactions, e.g., the costs of finding trading partners and determining exchange ratios, will increase.	(1 mark)
+	This will hinder the exchange of goods. The volume of exchange will decrease and so people's standard of living will decrease.	(1 mark)
+
+(d)	(i)	Corn functions as a store of value. It preserves its purchasing power and Julia uses it to accumulate wealth.	(2 marks)
+	(ii)	Corn functions as a standard of deferred payments. The future payment from O'Brien to Winston is expressed in terms of corn.	(2 marks)
+
+Question code: B6C07Q502 (new)
+After the implementation of the Individual Visit Scheme, more and more mainlanders are visiting Hong Kong. As a result, some shops in Hong Kong quote their prices in both Hong Kong dollars (HKD) and renminbi (RMB).
+(a)	Explain the functions of money that RMB performs at those shops in the above example.	(4 marks)
+(b)	Some people claim that the influx of mainland visitors has pushed Hong Kong price levels upwards. Explain which function of money weakens during inflation.	(3 marks)
+(c)	Hong Kong is an international financial centre. Due to Hong Kong's advantage in financial services over the mainland, many mainland companies want to list their shares on the Hong Kong stock market.
+	(i)	List TWO factors that contribute to Hong Kong's development as a financial centre.	(2 marks)
+	(ii)	Chi Kwong said, 'The development of the financial industry cannot benefit Hong Kong because the values of financial assets are not counted in Hong Kong's GDP.' Explain why he is INCORRECT.	(3 marks)
+
+Answers:
+(a)	RMB performs as a unit of account as the prices are quoted in RMB.	(2 marks)
+	RMB performs as a medium of exchange as people can use RMB to buy goods at those shops.	(2 marks)
+
+(b)	The function as a store of value weakens.	(1 mark)
+	During inflation, the purchasing power oreserved in money decreases. Money has less ability to accumulate wealth.	(2 marks)
+
+(c)	(i)	(	Favourable time zone location
+		(	Strong local and regional demand for financial services
+		(	Favourable government policies
+		(	Excellent financial infrastructure
+		(	Adequate supply of financial professionals
+		(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+	(ii)	The value of services involved in the transactions of financial assets should be included in Hong Kong's GDP. This means the development of the financial industry can benefit Hong Kong.	(3 marks)
+
+Question code: B6C07Q503
+Marshall was a fisherman on Fishing Island. He would like to exchange his fish for a knife. He met Jordon, the only cutler (刀匠) on the island.
+Marshall said, 'I would like to have your knife. I will give you four fish in return.'
+Jordon said, 'Sorry, I don't eat fish. I would like to have 10 apples for my wife instead.'
+Marshall said, 'Only a few people love to eat apples and grow apples. I need time to find them.'
+One month later, Marshall found a farmer and exchanged his fish for 10 apples. Then he went back to Jordon.
+Marshall said, 'Here are your 10 apples. May I have your knife?'
+Jordon said, 'No. Sorry, I have received 10 apples in another transaction. Now, what I want is 10 oranges.'
+Marshall said, 'Curses! Why did I exchange my fish for these 10 apples which you and I don't want?'
+(a)	Explain ONE problem of barter in the above story.	(2 marks)
+(b)	Explain ONE similarity and ONE difference between the role of apples in the above story and the role of money in the real world.	(4 marks)
+(c)	Explain why the emergence of money can improve the situation in the above story.	(3 marks)
+(d)	List TWO benefits of the emergence of money other than the one discussed in (c).	(2 marks)
+
+Answers:
+(a)	Difficult to satisfy a double coincidence of wants	(2 marks)
+
+(b)	Similarity:
+	(	Both serve as a medium of exchange.
+	(	Both serve as a store of value. Apples preserve the purchasing power of fish.
+	(Any ONE of the above or other reasonable answer, 2 marks)
+Difference: Apples are not generally accepted but money is generally accepted.
+	(2 marks)
+
+(c)	If there is money, Marshall can exchange his fish for money and then exchange his money for Jordon's knife. This is because money is generally accepted in exchange. In this case, Marshall need not bear a risk that the good which serves as a medium of exchange (i.e., apples) would not be accepted by Jordon.	(3 marks)
+
+(d)	The following are the benefits of the emergence of money:
+(	The volume of exchange can grow tremendously.
+(	Specialisation can be widely practised.
+(	Wealth can be accumulated at lower cost.
+(	People's living standards can be greatly improved.
+(Any TWO of the above, 1 mark × 2 = 2 marks)
+
+Question code: B6C07Q504
+Study the following diagram about the economic situation of Country A.
+
+(a)	(i)	What is a business cycle? List the FOUR phases of a business cycle.	(4 marks)
+(ii)	Explain which phase of a business cycle Point B is in.	(2 marks)
+(b)	Ming had a garment factory in Country A. He found that, on average, the output level was lower than other factories although the total working hours of his workers were greater than other factories.
+(i)	Explain what method of wage payments was most likely used by Ming.
+	(2 marks)
+(ii)	Suppose it was easy for Ming to measure his workers' contribution and monitor the quality of the products. Suggest a method of wage payment that should be used by Ming and list TWO advantages of this method of wage payment to Ming.	(3 marks)
+(c)	In Year 3, Ming lost a lot of money in the stock market. He decided to close his factory and use garments to pay his workers all wages in arrears (欠薪). Some workers accepted the arrangement.
+(i)	List and define TWO functions of the garments similar to those of money in this case.	(4 marks)
+(ii)	Explain why garments are NOT money.	(3 marks)
+
+Answers:
+(a)	(i)	(	The business cycle refers to short run fluctuations in real GDP around the long run trend.	(2 marks)
+(	The four phases are contraction, trough, expansion and peak.
+(0.5 marks for each phase)
+(ii)	Contraction as the real GDP is declining.	(2 marks)
+
+(b)	(i)	Time rate (hour rate). The workers have an incentive to work longer and produce fewer goods.	(2 marks)
+(ii)	Piece rate.	(1 mark)
+Advantages:
+(	It could raise workers' incentive to work and their productivity.
+(	It could reduce the need for supervision against shirking.
+(Accept other reasonable answers, 1 mark × 2 = 2 marks)
+
+(c)	(i)	(	As a medium of exchange: Something accepted for the exchange of goods and services
+(	As a store of value: Something used to preserve purchasing power and accumulate wealth
+(	As a unit of account: Something used to express prices, values, incomes and expenditures
+(Any TWO of the above, 2 marks × 2 = 4 marks)
+(ii)	Money is anything that is generally accepted as a medium of exchange.
+	(2 marks)
+Since garments are not generally accepted, they are not money.	(1 mark)
+
+Question code: B6C07Q505
+In a remote area, people live self-sufficiently. Recently, they have decided to specialise in producing goods that can be exchanged for dried fruit. Then, they will use their dried fruit to exchange for other goods they want.
+(a)	Explain whether people who are self-sufficient need money.	(2 marks)
+(b)	Suppose dried fruit is accepted in all transactions. Explain whether dried fruit is money in the above case.	(2 marks)
+(c)	Explain the functions of money served by dried fruit in the cases below.
+	(i)	A hawker said, 'My chickens are fresh, each costing 50 pieces of dried fruit.'	(2 marks)
+	(ii)	Mary stored a lot of dried fruit in her warehouse for future purchase.	(2 marks)
+(d)	State THREE desirable properties of money which dried fruit does not have.
+	(6 marks)
+
+Answers:
+(a)	They do not need money because there is no exchange.	(2 marks)
+
+(b)	Yes	(1 mark)
+	because dried fruit is a generally accepted medium of exchange.	(1 mark)
+
+(c)	(i)	Unit of account,	(1 mark)
+		because the price of another good (chickens) is expressed in terms of dried fruit.	(1 mark)
+	(ii)	Store of value,	(1 mark)
+		because dried fruit is used to preserve purchasing power and accumulate wealth.	(1 mark)
+
+(d)	Dried fruit does not have the following desirable properties of money:
+(	Durable: Dried fruit is perishable.
+(	Portable: Dried fruit is not portable, especially in large transactions.
+(	Homogeneous: Dried fruit is not homogeneous because it does not possess uniform physical characteristics.
+(	Stable in supply: The supply of dried fruit is unstable and its value may fluctuate greatly.
+(Any THREE of the above, 2 marks × 3 = 6 marks)

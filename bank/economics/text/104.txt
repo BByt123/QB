@@ -1,0 +1,1874 @@
+Chapter 4	Changes in demand and supply
+
+Multiple Choice Questions
+
+Question code: B1C04Q001 (new)
+Which of the following factors will affect the demand for Samsung smartphones?
+(1)	A change in people's income
+(2)	A change in the price of iPhones
+(3)	A change in the price of Samsung smartphones
+(4)	A change in the production cost of smartphones
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: A
+Explanation:
+•	Options (1) and (2) affect the demand for Samsung smartphones.
+•	Option (3) affects the quantity demanded of Samsung smartphones only.
+•	Option (4) has nothing to do with the demand for Samsung smartphones. It affects the supply of all smartphones, including Samsung smartphones.
+
+Question code: B1C04Q002 (new)
+Suppose the demand curve for a tour package to Korea is downward sloping. Which of the following CANNOT be constant when we move from one point to another on the demand curve?
+A.	The price of the tour package to Korea
+B.	The price of a tour package to Japan
+C.	People's income
+D.	The price of a travel guidebook to Korea
+
+Answer: A
+Explanation:
+A good's demand curve shows the relationship between the price and quantity demanded of the good, assuming other factors remain unchanged. When one moves along the demand curve, all other factors except the price and quantity demanded of the good are constant. As a result, Option A cannot be constant.
+
+
+Question code: B1C04Q003 (new)
+After changing to a better paid job, Josie eats spaghetti more frequently but pizza less frequently. To Josie,
+(1)	spaghetti is a normal good.
+(2)	pizza is an inferior good.
+(3)	spaghetti and pizza are substitutes.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation:
+Option (3) is not certain. There is no information on the relationship between the price of pizza and Josie's demand for spaghetti, or the price of spaghetti and her demand for pizza.
+
+Question code: B1C04Q004 (new)
+Due to a good harvest of Boston lobsters (波士頓龍蝦), the quantity transacted of Boston lobsters increases while the price decreases. Which of the following are correct?
+(1)	The quantity demanded of Boston lobsters increases.
+(2)	The demand for Boston lobsters increases.
+(3)	The quantity transacted of Japanese lobsters decreases.
+(4)	The demand for Japanese lobsters decreases.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: C
+
+Question code: B1C04Q005 (new)
+The demand for __________ is derived from the demand for __________.
+A.	sushi … rice
+B.	rice … sushi
+C.	fried chicken … soft drinks
+D.	soft drinks … fried chicken
+
+Answer: B
+
+Question code: B1C04Q006 (new)
+Bread and fruit jam are in 
+A.	competitive demand because both can satisfy hunger.
+B.	derived demand because they are the ingredients for making toast.
+C.	complementary demand because they are usually consumed together.
+D.	None of the above
+
+Answer: C
+
+Question code: B1C04Q007 (new)
+When the price of hamburgers increases, the demand for Coke tends to
+A.	increase because they are substitutes.
+B.	increase because they are complements.
+C.	decrease because they are substitutes.
+D.	decrease because they are complements.
+
+Answer: D
+
+Question code: B1C04Q008 (new)
+When the price of Good X decreases, the demand for Good Y decreases. Good X and Good Y are
+A.	complements.
+B.	substitutes.
+C.	inferior goods.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C04Q009 (new)
+* Which of the following can lead to a decrease in the demand for bus services?
+A.	A decrease in MTR fares
+B.	An increase in traffic congestion
+C.	A decrease in the price of diesel
+D.	All of the above
+
+Answer: D
+Explanation:
+Option A is correct because MTR services and bus services are substitutes.
+Option B is correct because the travel time by bus would be longer when traffic congestion becomes worse.
+Option C is correct because people drive more when the price of diesel decreases.
+
+Question code: B1C04Q010 (new)
+Suppose many investors predict that the price of Company Q's shares will start to increase soon. Which of the following is correct about the current market situation of Company Q's shares?
+A.	Investors sell Company Q's shares.
+B.	According to the law of demand, investors buy fewer Company Q shares.
+C.	More investors buy Company Q's shares.
+D.	The price of Company Q's shares decreases.
+
+Answer: C
+
+Question code: B1C04Q011 (new)
+Which of the following changes can result from a decrease in the price of air tickets to Beijing?
+
+
+Answer: C
+
+
+Question code: B1C04Q012 (new)
+People expect the price of gold to decrease in the future. Which of the diagrams can illustrate the immediate effect of the above event?
+
+
+Answer: B
+
+Question code: B1C04Q013 (new)
+Sales of lipstick (唇膏) grow when the unemployment rate is high, although the supply does not change. Which of the following statements is true?
+A.	The law of demand does not hold in this case.
+B.	Lipstick is an inferior good.
+C.	When the unemployment rate is high, lipstick producers lower prices, and thus the quantity demanded of lipstick increases.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B1C04Q014
+Candies and chocolates are substitutes. When the price of candies decreases, 
+A.	the price of chocolates increases.
+B.	the demand for candies increases.
+C.	the demand for chocolates increases.
+D.	the quantity transacted of chocolates decreases.
+
+Answer: D
+
+Question code: B1C04Q015
+Many Hong Kong people love to eat Chinese crullers (油條) with congee (粥). If the price of congee decreases, 
+A.	the demand for Chinese crullers increases.
+B.	the demand for congee increases.
+C.	the price of Chinese crullers also decreases.
+D.	the supply of congee decreases.
+
+Answer: A
+
+Question code: B1C04Q016 (new)
+Study the following supply-demand diagram for luxury cars.
+
+Which of the following can explain the above change?
+A.	The price of steel decreases.
+B.	Luxury cars are normal goods and people's income decreases.
+C.	Diesel price increases.
+D.	Consumers expect the price of luxury cars to increase.
+
+Answer: D
+
+
+Question code: B1C04Q017
+Which of the following CANNOT cause an increase in demand for a good?
+A.	An increase in income
+B.	An increase in the price of its substitutes
+C.	A decrease in the price of the good
+D.	An increase in population
+
+Answer: C
+
+Question code: B1C04Q018
+Which of the following CANNOT lead to an increase in demand for a good?
+A.	An increase in income
+B.	A decrease in income
+C.	An increase in the price of its substitutes
+D.	An increase in the price of its complements
+
+Answer: D
+
+Question code: B1C04Q019
+McDonald's hamburgers and Burger King's hamburgers are examples of
+A.	competitive demand.
+B.	joint demand.
+C.	derived demand.
+D.	superior goods.
+
+Answer: A
+
+Question code: B1C04Q020 (new)
+The following shows the effect of a fall in the price of Good X on the demand for Good Y.
+
+
+
+Good X and Good Y respectively, are most likely
+A.	pork and beef.
+B.	Blu-ray disc players and Blu-ray movies.
+C.	coffee and tea.
+D.	bananas and watermelons.
+
+Answer: B
+
+Question code: B1C04Q021
+The following shows the effect of a fall in the price of Good A on the demand for Good B.
+
+
+Good A and Good B CANNOT be examples of 
+A.	competitive demand.
+B.	derived demand.
+C.	joint demand.
+D.	elastic demand.
+
+Answer: C
+
+Question code: B1C04Q022
+After an advertisement for Brand A sportswear featuring a famous basketball player has been broadcast, the demand for the sportswear will likely 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B1C04Q023 (new)
+After a video game company invites the famous footballer Lionel Messi to be the spokesman of its football game, the demand for the football game will likely 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C04Q024
+In winter, the demand for swimsuits 
+A.	increases.
+B.	decreases.
+C.	remains unchanged.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C04Q025
+In summer, the demand for mosquito repellents (驅蚊水) and sunscreen products (防曬用品) will likely 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C04Q026
+If the proportion of the elderly in the population increases, the demand for medical services will 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B1C04Q027
+If the number of gifted children (資優兒童) increases, the demand for gifted education (資優教育) will 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C04Q028
+Owing to an upsurge (急劇上升) in property prices in Hong Kong, the demands for construction workers and cement 
+A.	both increase.
+B.	increases and decreases respectively.
+C.	decreases and increases respectively.
+D.	both decrease.
+
+Answer: A
+
+Question code: B1C04Q029
+Owing to a decrease in the number of school age children, 
+A.	the supply of both teachers and textbooks decreases.
+B.	the demand for both teachers and textbooks decreases.
+C.	the demand for teachers decreases while the demand for textbooks increases.
+D.	the supply of teachers increases while the supply of textbooks decreases.
+
+Answer: B
+
+Question code: B1C04Q030
+Suppose the air pollution problem is getting worse in Yuen Long. The demand for housing there will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B1C04Q031 (new)
+Following the opening of Ocean Park's Water World in 2017, the demand for coach (旅遊巴) services in Hong Kong will 
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C04Q032
+If the price of laptop computers (手提電腦) increases, which of the following is correct?
+A.	The demand for desktop computers (桌上電腦) will increase.
+B.	The quantity supplied of desktop computers will decrease.
+C.	The quantity demanded of laptop computers will increase.
+D.	The supply of laptop computers will decrease.
+
+Answer: A
+
+Question code: B1C04Q033 (new)
+If the price of PlayStation 4, a game console developed by Sony, increases, which of the following is correct?
+A.	The demand for Xbox One, another game console developed by Microsoft, will increase.
+B.	The quantity demanded of Xbox One will decrease.
+C.	The supply of Xbox One will increase.
+D.	The quantity supplied of Xbox One will decrease.
+
+Answer: A
+
+Question code: B1C04Q034
+After receiving a pay rise, Ming switched to eating dragon fruit instead of bananas. Which of the following statements is correct?
+A.	Bananas are a normal good.
+B.	Bananas are an inferior good.
+C.	Bananas and apples are examples of joint demand.
+D.	Bananas and apples are examples of competitive demand.
+
+Answer: B
+
+Question code: B1C04Q035
+Which of the following is NOT a reason for the decrease in the demand for bank tellers?
+A.	The system used for internet banking services has become more mature.
+B.	Self-service banking has become simpler.
+C.	The wage rates of bank tellers increase. 
+D.	The functions of Automatic Teller Machines have increased.
+
+Answer: C
+
+Question code: B1C04Q036
+Which of the following will NOT affect the demand for Through Train services between Hong Kong and Guangzhou?
+A.	Cases of human-to-human transmission of avian influenza (禽流感) are found in the mainland.
+B.	The government grants more licences for express bus services between Hong Kong and Guangzhou.
+C.	The Through Train services launched a 'Buy two get one free' promotion.
+D.	Under the 'Individual Visit Scheme', more people from the mainland are permitted to visit Hong Kong.
+
+Answer: C
+
+Question code: B1C04Q037
+When an economy prospers, the demand for residential units will increase, and the demand for mortgage services will increase at the same time. This is because
+A.	the demand for residential units is derived from the demand for mortgage services. 
+B.	most market participants are speculators (投機者).
+C.	mortgage services and residential units are complements for each other.
+D.	mortgage interest rates are at a very low level.
+
+Answer: C
+
+Question code: B1C04Q038
+Which of the following will lead to a decrease in demand for a good?
+A.	The price of one of its substitutes has increased.
+B.	The price of one of its complements has increased.
+C.	The price of the good has increased.
+D.	The quantity people want to buy at a given price has decreased.
+
+Answer: B
+Explanation:
+(	Option A will lead to an increase in demand.
+(	Option C will lead to a decrease in quantity demanded rather than demand.
+(	Option D refers to a decrease in quantity demanded rather than demand. Moreover, it describes the change in the quantity demanded without specifying the cause.
+(	Only Option B will lead to a decrease in demand.
+
+Question code: B1C04Q039
+Which of the following pairs is in competitive demand?
+A.	Bowls and chopsticks
+B.	Rubbers and pencils
+C.	Textbooks and past public exam questions
+D.	Whatsapp Messenger and Line Messenger
+
+Answer: D
+Explanation:
+(	Options A and B refer to two pairs of goods in joint demand.
+(	Only Option D refers to a pair of goods in competitive demand, where either can satisfy the desire for mobile messaging.
+
+Question code: B1C04Q040
+Which of the following pairs is in joint demand?
+A.	Blackboard and chalk
+B.	Nike sneakers (運動鞋) and Reebok sneakers
+C.	Fish and pork
+D.	Bus service and taxi service
+
+Answer: A
+Explanation:
+(	Chalk is used by teachers to write on a blackboard, so Option A refers to a pair of goods in joint demand.
+(	Options B, C and D refer to pairs of goods in competitive demand.
+
+
+Question code: B1C04Q041
+Which of the following pairs is in derived demand?
+A.	Smartphones and applications
+B.	Films and actors
+C.	Shoes and socks
+D.	Cats and dogs
+
+Answer: B
+Explanation:
+(	The demand for factors of production is a derived demand of their output.
+(	Actors are factors of production of films. Therefore, Option B is a pair of things in derived demand.
+(	Options A and C refer to two pairs of things in joint demand while Option D is a pair of things in competitive demand.
+
+Question code: B1C04Q042
+Which of the following will increase the demand for Kentucky fried chicken (KFC)?
+A.	McDonald's lowers the price of its food.
+B.	The peak tram fare increases.
+C.	A US fast food chain store opens branches in Hong Kong.
+D.	A medical expert publicly announces that chicken is good for health.
+
+Answer: D
+Explanation:
+(	In Option A, when McDonald's lowers its price, people will consume more of its food. Hence the demand for Kentucky fried chicken (its substitute) will decrease rather than increase.
+(	In Option B, the peak tram and Kentucky fried chicken are unrelated. An increase in the price of the former has no effect on the demand for the latter.
+(	In Option C, the availability of new substitutes will lower rather than raise the demand for Kentucky fried chicken.
+(	Only Option D will lead to an increase in demand for Kentucky fried chicken.
+
+Question code: B1C04Q043
+If McAfee increases the price of its antivirus software,
+A.	the quantity demanded of its antivirus software will increase.
+B.	the demand for its antivirus software will decrease.
+C.	the quantity demanded of Norton antivirus software will decrease.
+D.	the demand for Norton antivirus software will increase.
+
+Answer: D
+Explanation:
+If McAfee increases the price of its software, the quantity demanded of its software will decrease. On the other hand, the demand for its substitutes like Norton antivirus software will increase. Therefore, only Option D is correct.
+
+Question code: B1C04Q044
+Which of the following will lead to an increase in the demand for flats in Tseung Kwan O?
+A.	The government plans to expand the landfill near Tseung Kwan O.
+B.	The MTR Corporation Limited increases the train frequency on the Tseung Kwan O line.
+C.	More people think that Tseung Kwan O is too densely populated.
+D.	Hong Kong's population decreases.
+
+Answer: B
+Explanation:
+(	An increase in the bad qualities of flats in Tseung Kwan O will decrease their demand. Therefore, Options A and C will lead to a decrease in demand.
+(	A decrease in population will generally reduce the demand for housing in Hong Kong. The demand for flats in Tseung Kwan O is no exception. Therefore, Option D will lead to a decrease in demand.
+(	If the MTR Corporation Limited increases the train frequency on the Tseung Kwan O line, living in TKO will become more convenient and the demand for flats in TKO will also increase. Therefore, Option B is the answer.
+
+Question code: B1C04Q045
+Which of the following statements is correct?
+A.	TV sets and TV programmes are examples of competitive demand.
+B.	TV sets and TV programmes are examples of joint demand.
+C.	TV sets and TV programmes are examples of competitive supply.
+D.	TV sets and TV programmes are examples of joint supply.
+
+Answer: B
+
+
+Question code: B1C04Q046 (new)
+If the wages of programmers decrease,
+A.	the supply of programmers will decrease.
+B.	the demand for programmers will increase.
+C.	the supply of smartphone apps will increase.
+D.	the demand for smartphone apps will decrease.
+
+Answer: C
+
+Question code: B1C04Q047 (new)
+Which of the following will lead to a decrease in the supply of salmon eggs (三文魚子)?
+A.	A decrease in the wages of fishermen
+B.	A decrease in the price of tuna
+C.	A decrease in the price of salmon sashimi (刺身)
+D.	None of the above
+
+Answer: C
+
+Question code: B1C04Q048 (new)
+The wages of security guards have increased since the introduction of the minimum wage. Which of the following statements is correct?
+A.	The demand for security services decreases because it is derived from the demand for security guards.
+B.	The demand for cleaners (清潔工人) increases because security guards and cleaners are in competitive demand.
+C.	The supply of security services increases because security guards are an input of security services.
+D.	The supply of cleaners decreases because security guards and cleaners are in competitive supply.
+
+Answer: D
+
+
+Question code: B1C04Q049 (new)
+Study the following diagram about the supply of a good.
+
+Which of the following will lead to the above change?
+(1)	A decrease in the price of the good's substitute.
+(2)	An increase in the price of the good's complement.
+(3)	An increase in the price of the good's by-product.
+(4)	A decrease in the price of the good's factors of production.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B1C04Q050
+Study the following diagram.
+
+Which of the following can explain the above change?
+A.	The price of the input to produce the good decreases.
+B.	An earthquake has destroyed some factories which produce the good.
+C.	The price of the good's substitute decreases.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C04Q051
+Suppose in view of the increasing business costs, the government reduces the tax on gasoline.
+
+
+
+The above graph shows the effect of the policy on which of the following markets?
+A.	The education industry
+B.	The food and beverage industry
+C.	The banking and finance industry
+D.	The transportation industry
+
+Answer: D
+
+Question code: B1C04Q052
+Which of the following statements about quantity supplied is correct?
+A.	Quantity supplied must be equal to quantity demanded.
+B.	At equilibrium, quantity supplied may be larger than quantity demanded.
+C.	If the quantity supplied increases at every price, there is an increase in supply.
+D.	Quantity supplied is the same as supply.
+
+Answer: C
+
+Question code: B1C04Q053
+Which of the following can increase the market supply of a good?
+A.	Demand for the good decreases.
+B.	The price of its complements falls.
+C.	The number of producers increases.
+D.	The price of the good increases.
+
+Answer: C
+
+Question code: B1C04Q054
+Which of the following factors will NOT lead to a decrease in supply?
+A.	An increase in the price of factors of production
+B.	An improvement in the technology of production
+C.	The expectation that the price of the good will increase in the near future
+D.	More entry barriers in the industry
+
+Answer: B
+
+Question code: B1C04Q055
+Which of the following does NOT cause an increase in the supply of a good?
+A.	A decrease in the price of raw materials
+B.	A decrease in the profits tax rate
+C.	More stringent (嚴格的) quality control imposed on producers
+D.	The opening up of the market by the government
+
+Answer: C
+
+Question code: B1C04Q056
+Which of the following does NOT cause a decrease in the supply of a good?
+A.	Producers expect the price to increase
+B.	An increase in the cost of production
+C.	An increase in the demand
+D.	A decrease in the number of producers
+
+Answer: C
+
+
+Question code: B1C04Q057 (new)
+The following diagrams show the effect of an increase in the demand for Good X on Good Y.
+
+Good X and Good Y are most likely ________ and ________, respectively.
+A.	oranges … apple seeds
+B.	fish … crabs
+C.	Adidas football boots … Adidas basketball shoes
+D.	chicken legs … chicken wings
+
+Answer: C
+
+Question code: B1C04Q058
+Which of the following will lead to an increase in the supply of a good?
+A.	An increase in its price.
+B.	An increase in the price of the other good in joint supply with it.
+C.	A rise in its production cost.
+D.	Some producers quit the industry.
+
+Answer: B
+Explanation:
+(	Option A will lead to an increase in the quantity supplied. 
+(	Options C and D will lead to a decrease rather than an increase in supply.
+(	If the price of the other good in joint supply with it increases, the quantity supplied of that good will increase and the supply of this good will increase. Therefore, Option B is the answer.
+
+
+Question code: B1C04Q059 (new)
+Cocoa is a major ingredient of chocolate. In recent years, the cocoa harvest was adversely affected by severe droughts in cocoa growing countries in West Africa. As a result,
+A.	the supply of chocolate milk would decrease.
+B.	the quantity demanded of chocolate bars would increase.
+C.	the demand for chocolate bars would decrease.
+D.	None of the above
+
+Answer: A
+Explanation:
+When the cocoa harvest decreased in West Africa, the world supply of cocoa decreased. As a result, the price of cocoa would increase. Since cocoa is an ingredient used to make chocolate milk and chocolate bars, the cost of producing them would increase. The supply of chocolate milk and chocolate bars would then decrease. Therefore, only Option A is correct. 
+
+Question code: B1C04Q060 (new)
+The following diagrams show the effect of an increase in the price of Good X on Good Y.
+
+Good X and Good Y are most likely __________ and ___________, respectively.
+A.	mutton (羊肉) … pork
+B.	roast goose (燒鵝) … goose down (鵝絨)
+C.	computer games … computers
+D.	milk … cheese
+
+Answer: B
+Explanation:
+(	In the above diagrams, an increase in the price of Good X leads to an increase in the quantity supplied of Good X and an increase in the supply of Good Y. This is a case of joint supply.
+(	Option A refers to a case of competitive demand.
+(	Computer games and computers are complements. Therefore, the two goods in Option C are in joint demand.
+(	In Option D, milk is an input for cheese. When the price of milk increases, the supply of cheese will decrease.
+(	In slaughtering geese for roasting, goose down is collected at the same time. Therefore, the goods in Option B are in joint supply. 
+
+Question code: B1C04Q061
+Which of the following will lead to an increase in the supply of gasoline?
+A.	An increase in the price of crude oil (原油).
+B.	A decrease in the price of jet fuel (航空煤油).
+C.	A war occurring in the Middle East.
+D.	A new cost-saving method of producing gasoline is discovered.
+
+Answer: D
+Explanation:
+(	An increase in the price of crude oil (Option A) will increase the cost of producing gasoline. Therefore, the supply of gasoline will decrease.
+(	A decrease in the price of jet fuel (Option B) will lower the quantity supplied of jet fuel. Since jet fuel and gasoline are in joint supply, the supply of gasoline will decrease too.
+(	Wars in the Middle East (Option C) will disrupt oil production there. Therefore, the supply of crude oil and gasoline will decrease.
+(	The new cost-saving production method will lead to a lower production cost of gasoline. Therefore, the supply of gasoline will increase. Option D is the answer. 
+
+Question code: B1C04Q062
+* Which of the following will lead to a rightward shift of the supply curve for residential units in Hong Kong?
+A.	There is a fall in people's income.
+B.	More people from the mainland can migrate to Hong Kong by investing in property in Hong Kong.
+C.	Property developers expect the price of property to fall in the future.
+D.	Property developers give discounts to married couples who purchase property for the first time.
+
+Answer: C
+Explanation:
+(	A fall in people's incomes will lead to a fall in the demand for residential units only.
+(	The fact that more people can migrate to Hong Kong by investing in property in Hong Kong will only raise the demand for residential units in Hong Kong. 
+(	The discounts given by property developers to these couples will only raise the quantity demanded of residential units in Hong Kong.
+(	If property developers expect property prices to fall in future, they will supply more flats now. Hence, the supply of residential units increases. 
+
+Question code: B1C04Q063 (new)
+Suppose oil prices have increased. Which of the following may happen?
+A.	The demand for private cars decreases.
+B.	The demand for natural gas increases.
+C.	The supply of airline services decreases.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C04Q064 (new)
+An online TV channel has started broadcasting. Many people look for smart TV boxes so that they can watch the channel on television. At the same time, many producers enter the market to produce smart TV boxes. As a result, 
+(1)	the price of smart TV boxes increases.
+(2)	the price of smart TV boxes decreases.
+(3)	the quantity transacted of smart TV boxes increases.
+(4)	the quantity transacted of smart TV boxes decreases.
+A.	(1) only
+B.	(3) only
+C.	(1) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B1C04Q065 (new)
+In Hong Kong, Muay Thai (泰拳) has become popular in recent years as a sport for slimming and maintaining physical condition. At the same time, gaining certification as a Muay Thai trainer has become stricter. As a result,
+A.	the fees for Muay Thai classes increase.
+B.	the fees for Muay Thai classes decrease.
+C.	the number of Muay Thai classes increases.
+D.	the number of Muay Thai classes decreases.
+
+Answer: A
+
+Question code: B1C04Q066 (new)
+The media have reported that gutter oil (地溝油) was used to make pineapple buns at a bakery chain. The bakery decided to destroy all of its pineapple buns and to stop producing pineapple buns for a month. However, the public are still wary about pineapple buns. As a result, the price of pineapple buns __________ and the quantity transacted __________.
+A.	increases … may increase, decrease or remain unchanged
+B.	decreases … increases
+C.	may increase, decrease or remain unchanged … decreases
+D.	increases … decreases
+
+Answer: C
+
+Question code: B1C04Q067 (new)
+Suppose that because of two fatal accidents within a month, air passengers are afraid of flying on budget airlines. At the same time, more budget airlines are popping up (冒出). As a result, ticket prices at budget airlines __________ and the quantity transacted __________.
+A.	decrease … may increase, decrease or remain unchanged
+B.	decrease … increases
+C.	may increase, decrease or remain unchanged … decreases
+D.	increase … decreases
+
+Answer: A
+
+Question code: B1C04Q068 (new)
+Since the public are growing more concerned about the environment, electric cars have become more popular. Also, the technology for producing batteries for electric cars has improved. As a result, the price of electric cars has decreased. Which of the following conclusions can be drawn?
+A.	Only the supply of electric cars has increased.
+B.	Only the demand for electric cars has increased.
+C.	The increase in supply is smaller than the increase in demand for electric cars.
+D.	The increase in supply is larger than the increase in demand for electric cars.
+
+Answer: D
+
+Question code: B1C04Q069 (new)
+Refer to the following supply-demand diagram showing the private residential property market in Hong Kong. E0 is the initial equilibrium.
+
+Suppose the government suspends land auctions (土地拍賣) for three years and lowers the requirements for immigrant investors (投資移民) from the mainland. In the above diagram, the new equilibrium is most likely Point _____.
+A.	E1
+B.	E2
+C.	E3
+D.	E4
+
+Answer: C
+
+Question code: B1C04Q070 (new)
+Refer to the following supply-demand diagram showing the market for flights between Japan and Hong Kong. E0 is the initial equilibrium.
+
+Suppose it becomes cheaper for Hong Kong people to shop in Japan due to the depreciation of the Yen and more airlines are providing flights between Japan and Hong Kong. In the above diagram, the new equilibrium is most likely Point _____.
+A.	E1
+B.	E2
+C.	E3
+D.	E4
+
+Answer: A
+
+Question code: B1C04Q071 (new)
+Suppose the price of diesel fuel in Country A decreases. Which of the following diagrams can be a possible result of the above event?
+
+
+Answer: B
+
+Question code: B1C04Q072
+If the demand for a good increases but the supply of the good decreases,
+A.	the quantity transacted will increase.
+B.	the quantity transacted will decrease.
+C.	the price will increase.
+D.	the price will decrease.
+
+Answer: C
+
+
+Question code: B1C04Q073
+Which of the following statements is true?
+A.	If both the demand for and supply of a good increase, the price will rise.
+B.	If the demand for a good decreases but the supply increases, the price will fall.
+C.	If the demand for a good increases while the supply does not change, the price will remain the same.
+D.	If the supply of a good decreases but the demand increases, the price will decrease.
+
+Answer: B
+
+Question code: B1C04Q074
+Which of the following would lead to an increase in the price and quantity transacted of imported Japanese smartphones in Hong Kong?
+A.	The cost of transporting goods from Korea to Hong Kong increases.
+B.	There is a technological breakthrough in the production of smartphones in Japan.
+C.	The income of Hong Kong people decreases.
+D.	More people want Korean smartphones.
+
+Answer: A
+
+Question code: B1C04Q075 (new)
+Which of the following will lead to a decrease in the equilibrium price?
+A.	An increase in quantity transacted
+B.	A decrease in quantity transacted
+C.	Demand increases by a larger extent than supply.
+D.	Supply increases by a larger extent than demand.
+
+Answer: D
+
+Question code: B1C04Q076
+Which of the following CANNOT explain an increase in the use of Blu-ray disc players?
+A.	A decrease in the general public's income.
+B.	A decrease in the price of Blu-ray discs
+C.	An increase in the number of Blu-ray disc player producers
+D.	A decrease in the price of chips used in the production of Blu-ray disc players
+
+Answer: A
+
+Question code: B1C04Q077
+Which of the following CANNOT explain the increasing use of mobile phones?
+A.	A decrease in the fee for mobile phone services.
+B.	The amount of radiation from mobile phones exceeds the safety standard.
+C.	An increase in the number of mobile phone service providers.
+D.	An increase in mobile phone coverage.
+
+Answer: B
+
+Question code: B1C04Q078 (new)
+Which of the following CANNOT explain why the price of tablet computers has decreased?
+A.	More firms are producing tablet computers.
+B.	Chips used in the production of tablet computers are cheaper.
+C.	Sony Corporation stops producing notebook computers.
+D.	The government bans some video sharing websites which illegally upload dramas.
+
+Answer: C
+
+Question code: B1C04Q079
+Which of the following can explain the decrease in the monthly fee for broadband internet services provided by Netvigator?
+A.	The monthly fees of broadband internet services provided by its competitors have decreased.
+B.	The supply of broadband internet services by all other competitors has decreased.
+C.	The demand for computers has decreased.
+D.	The wage rate of the technicians involved in the production of broadband internet services has increased.
+
+Answer: A
+
+Question code: B1C04Q080
+Which of the following CANNOT be an effect of the construction of the Hong Kong-Zhuhai-Macau Bridge?
+A.	The shortage of Hong Kong construction workers will worsen.
+B.	The number of MTR passengers will increase.
+C.	The number of flights at Hong Kong International Airport will increase.
+D.	All of the above can happen.
+
+Answer: D
+Question code: B1C04Q081
+Which of the following CANNOT explain the increasing use of wireless internet service in Hong Kong?
+A.	There is a decrease in the service charge for wireless internet service.
+B.	There is a decrease in the price of laptops with built-in equipment for wireless internet connection.
+C.	The government provides free wireless internet service to the public at many locations.
+D.	Technical problems with the use of wireless internet service may result in disputes about service charges. 
+
+Answer: D
+Explanation:
+(	In Option A, a fall in the service charge will lead to an increase in the quantity demanded of wireless internet service. As a result, there will be more usage of wireless internet service. 
+(	In Option B, a decrease in the price of laptops with built-in equipment for wireless internet connection will increase the quantity demanded of these types of laptops. Since these types of laptops and wireless internet service are complements for each other, the demand for wireless internet service will increase. Therefore, there will be more usage of wireless internet service.
+(	If the government provides free Wi-Fi service at more spots, using wireless internet service will be more convenient than before. As a result, the demand for wireless internet service will increase. There will be more usage of wireless internet service. 
+(	Only Option D will lead to a decrease in the demand for wireless internet service and hence a decrease in its use. 
+
+Question code: B1C04Q082
+Owing to widespread mosquito activity, the demand for mosquito repellent (驅蚊用品) is increasing. Moreover, mosquito repellent producers have expanded their production drastically. Which of the following statements is correct?
+A.	The price of mosquito repellent will increase.
+B.	The price of mosquito repellent will decrease.
+C.	The quantity transacted of mosquito repellent will increase.
+D.	The quantity transacted of mosquito repellent will decrease.
+
+Answer: C
+
+
+Question code: B1C04Q083
+Suppose the labour market is initially in equilibrium. When the supply of labour decreases,
+A.	the employment level increases.
+B.	the quantity demanded of labour increases.
+C.	the demand for labour decreases.
+D.	the wage rate increases.
+
+Answer: D
+
+Question code: B1C04Q084
+Which of the following can help relieve the problems of unemployment in the local labour market?
+A.	The government allows firms to import foreign labour.
+B.	The government raises the profits tax rate.
+C.	The government stops giving out a production subsidy.
+D.	The government offers interest-free loans to producers.
+
+Answer: D
+
+Question code: B1C04Q085 (new)
+In Hong Kong, the import of fresh chicken from the mainland is suspended because of the fear of Bird Flu. There are only local chickens in the market. As a result, the price of fresh chicken falls drastically. Which of the following is the best explanation of this?
+A.	The demand for fresh chicken has decreased.
+B.	The supply of fresh chicken has decreased.
+C.	The decrease in demand was much greater than the decrease in supply.
+D.	The decrease in supply was much larger than the decrease in demand.
+
+Answer: C
+
+
+Question code: B1C04Q086
+When Japanese encephalitis (日本腦炎) broke out in Hong Kong, many pigs were infected. The price of fresh pork fell drastically while the price of fresh chicken increased drastically. Which of the following is the best explanation for this?
+A.	The decrease in demand for fresh pork is greater than the decrease in supply of fresh pork; the demand for fresh chicken increased.
+B.	The decrease in demand for fresh pork is smaller than the decrease in supply of fresh pork; the supply of fresh chicken decreased.
+C.	The demand for fresh pork decreased and the supply of fresh chicken decreased.
+D.	The demand for fresh pork and that for fresh chicken decreased and increased, respectively.
+
+Answer: A
+
+Question code: B1C04Q087 (new)
+It was found that some lard (豬油) imported from Taiwan had been contaminated. As a result, the government banned the import of lard from Taiwan and many restaurants used more expensive lard from the Netherlands as a replacement. However, many people felt eating bread was unsafe because it often contains lard. Which of the following can explain why the price of bread increases after such an event?
+A.	Demand for bread decreases.
+B.	Supply of bread decreases.
+C.	The decrease in demand for bread is smaller than that of supply.
+D.	The decrease in demand for bread is larger than that of supply.
+
+Answer: C
+
+Question code: B1C04Q088
+Which of the following statements is correct?
+A.	When demand and supply both increase, the quantity transacted may increase, decrease or remain unchanged.
+B.	When demand and supply both increase, the price must increase.
+C.	When demand and supply both decrease, the quantity transacted may increase, decrease or remain unchanged.
+D.	When demand and supply both decrease, the price may increase, decrease or remain unchanged.
+
+Answer: D
+
+
+Question code: B1C04Q089 (new)
+It is a European tradition to have turkey (火雞) for Christmas dinner. In the winter of 2014, there was an outbreak of avian influenza in Europe. Much poultry was destroyed. It was found that the price of turkey in Europe increased during Christmas. Which of the following can explain this?
+A.	The demand for turkeys increased.
+B.	The supply of turkeys decreased.
+C.	The increase in demand was greater than the decrease in supply.
+D.	Both the increase in demand and the decrease in supply contributed to the increase in the price.
+
+Answer: D
+Explanation:
+(	After the outbreak of avian influenza, some turkeys were destroyed and the supply of turkeys decreased. On the other hand, the demand for turkeys increased during Christmas. 
+(	Both the increase in demand and the decrease in supply would contribute to a rise in price. Hence, the effect on price does not depend on the magnitudes of the increase in demand and the decrease in supply. 
+
+Question code: B1C04Q090
+Nowadays, Hong Kong parents are more willing to spend on their children's study tours. Moreover, more firms are providing study tours for children in Hong Kong. Which of the following statements is correct?
+A.	The price of study tours will increase.
+B.	The price of study tours will decrease.
+C.	The quantity transacted of study tours will increase.
+D.	The quantity transacted of study tours will decrease.
+
+Answer: C
+Explanation:
+(	Since Hong Kong parents are more willing to send their children on study tours, the demand for study tours increases. On the other hand, an increase in the number of firms providing study tours will increase the supply of study tours. 
+(	The increases in both demand and supply will lead to an increase in quantity transacted. Therefore, the quantity transacted of study tours will increase. 
+(	On the other hand, an increase in demand tends to increase price whereas an increase in supply tends to decrease price. Therefore, the combined effect on the equilibrium price is uncertain, depending on the relative magnitudes of the two effects. 
+
+Question code: B1C04Q091 (new)
+* Suppose the government has imposed stricter regulations on the beauty industry. Slimming companies are required to employ doctors to monitor and carry out the therapies. However, the price of slimming therapies has decreased. Which of the following can explain this?
+A.	Slimming companies have installed better quality equipment.
+B.	People are more concerned about their body shape.
+C.	After several accidents related to slimming therapies, people are afraid of these therapies and the resultant change in demand is greater than the change in supply.
+D.	The government has banned TV advertisements for slimming companies and the resultant change in demand is smaller than the change in supply.
+
+Answer: C
+Explanation:
+(	Stricter regulations will lower the supply of slimming therapies. An increase in the quality of equipment (Option A) will drive up production costs and further decrease the supply. The decrease in supply will increase the price.
+(	Option B has the effect of increasing demand. The increase in demand will increase the price.
+(	In Option C, fear about the therapies will decrease the demand. Only when the decrease in demand is greater than the decrease in supply will the price increase. Therefore, Option C is correct.
+(	In Option D, the ban on TV advertisements will lower the demand for the therapies. However, when the decrease in demand is smaller than the decrease in supply, the price will increase. Therefore, Option D is incorrect. 
+
+Question code: B1C04Q092
+* Suppose the price of imported Blu-ray discs increases while the quantity supplied decreases. Which of the following can explain this?
+	(1)	There is an improvement in the technology of Blu-ray disc production.
+	(2)	There is a fall in the price of Blu-ray disc players.
+	(3)	More people love to watch movies.
+	(4)	There is an increase in the production cost of Blu-ray discs.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(4) only
+
+Answer: D
+Explanation:
+(	(1) will increase the supply of Blu-ray discs. Hence, the price will decrease while the quantity supplied will increase.
+(	(2) will increase the quantity demanded of Blu-ray disc players. Since Blu-ray disc players and Blu-ray discs are complements, the demand for Blu-ray discs will increase. Hence, both the price and quantity supplied will increase. In equilibrium, quantity transacted = quantity demanded = quantity supplied.
+(	(3) will increase the demand for Blu-ray discs. Hence, both the price and quantity supplied will increase.
+(	(4) will reduce the supply of Blu-ray discs. Hence, the price will increase while the quantity supplied will decrease. Option D is the answer.
+
+Question code: B1C04Q093 (new)
+Sochi, Russia hosted the Winter Olympics in 2014. Before that, the Russian government had invested to increase Sochi's tourism capacity. As a result,
+A.	both the demand for and supply of hotel accommodation in Sochi increased.
+B.	both the demand for and supply of hotel accommodation in Sochi decreased.
+C.	both the demand for and the quantity supplied of hotel accommodation in Sochi increased.
+D.	both the supply and the quantity demanded of hotel accommodation in Sochi decreased.
+
+Answer: A
+
+Question code: B1C04Q094
+In Hong Kong, it was reported that many university graduates could not find jobs in the education sector; while there was a labour shortage in the engineering sector. Which of the following measures can reduce unemployment in the education sector?
+	(1)	Teachers are required to sit for more qualifying examinations before they teach in school. 
+	(2)	Increasing the wage rate in the engineering sector
+	(3)	The government implements a small-class teaching policy. 
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+
+Answer: D
+Explanation:
+(	(1) increases the cost of being a teacher, therefore, the labour supply in the education sector decreases.
+(	(2) will also reduce labour supply in the education sector.
+(	(3) will increase labour demand in the education sector.
+(	At the same wage rate, (1), (2) and (3) will reduce the amount of the excess supply of labour in the education sector. Therefore, (1), (2) and (3) will reduce unemployment in the education sector.
+
+Question code: B1C04Q095
+Which of the following CANNOT be a cause of an increase in the quantity transacted of Good X?
+A.	An increase in demand for and the supply of Good X
+B.	An increase in the supply of Good X's substitutes
+C.	An increase in demand for Good X
+D.	A decrease in demand for and an increase in the supply of Good X
+
+Answer: B
+
+Question code: B1C04Q096
+* Despite a substantial increase in its input prices, the price of plastic bags has decreased. This is because 
+A.	the production cost of environmentally-friendly shopping bags has decreased, and the change in demand for plastic bags is smaller than that of the supply.
+B.	the production cost of environmentally-friendly shopping bags has increased, and the change in demand for plastic bags is larger than that of the supply.
+C.	supermarkets offer price rebates (價格回贈) for customers who carry environmentally-friendly shopping bags with them, and the change in demand for plastic bags is smaller than that of the supply.
+D.	more people are willing to use environmentally-friendly shopping bags, and the change in demand for plastic bags is larger than that of the supply.
+
+Answer: D
+
+
+Question code: B1C04Q097
+The following shows the market for HDTV (高清電視) in Hong Kong. 
+
+
+
+Suppose the technology involved in the production of HDTV improves. Moreover, more Hong Kong people want to replace their traditional televisions with HDTV. As a result of the above events, the equilibrium point of the HDTV market in Hong Kong will change from Point E to 
+A.	Point F. 
+B.	Point G.
+C.	Point H.
+D.	Point I.
+
+Answer: B
+Explanation:
+(	When more people want to replace their traditional televisions with HDTV, the demand for HDTV increases (D0(D1).
+(	When the production technology for HDTV improves, the supply of HDTV increases (S0(S1).
+(	Therefore, the new equilibrium will be Point G.
+
+
+Question code: B1C04Q098
+The following shows the market for toys from China in the United States. 
+
+	
+
+The initial equilibrium is Point E. Suppose cases where children are poisoned by materials in the toys from China increase and the shipping cost of these toys increases. As a result, the new equilibrium point would be
+A.	Point H.
+B.	Point G.
+C.	Point F.
+D.	Point I.
+
+Answer: C
+Explanation:
+(	An increase in cases of toy poisoning in the United States lowers the demand for toys from China (D0(D2).
+(	An increase in the shipping cost will reduce the supply of toys from China to the United States (S0(S2).
+(	As a result, the new equilibrium point would be Point F.
+
+
+Question code: B1C04Q099
+The following shows the market for tinned luncheon meat (午餐肉). 
+
+	
+
+Since a new tin mine (錫礦) has been found, the production cost of tins for tinned food has decreased. However, more Hong Kong people are avoiding tinned luncheon meat as many livestock in the mainland are infected by foot and mouth disease (口蹄病). As a result of the above events, the equilibrium point will change from Point E to
+A.	Point F.
+B.	Point G.
+C.	Point H.
+D.	Point I.
+
+Answer: D
+
+Question code: B1C04Q100
+The following is the supply-demand diagram for newspapers.
+
+
+
+Which of the following situations is best described by the above diagram?
+A.	The price of paper increases; newspaper publishers cut prices to compete for market share.
+B.	The price of paper increases; the government launches a newspaper reading campaign for schools and subscribes to newspapers so every student will have access to them.
+C.	The government provides a subsidy to newspaper publishers; people's income decreases.
+D.	The government provides a subsidy to newspaper publishers; the unemployed population increases.
+
+Answer: B
+
+Question code: B1C04Q101
+Suppose rice from Thailand has been found to be poisoned and the Hong Kong government prohibits the import of rice from Thailand. As a result, the price of rice imported from the mainland increases. Which of the following diagrams illustrates the market for rice imported from the mainland?
+
+
+Answer: C
+
+Question code: B1C04Q102
+After the water supply system in southern China was devastated by a flood, the price of drinking water in southern China increased drastically. Which of the following diagrams best describes the market for drinking water in southern China?
+
+
+
+Answer: A
+
+
+Question code: B1C04Q103
+The MTR Corporation (港鐵公司) has discontinued its 'Ride 10 get 1 free' special offer. Which of the following diagrams illustrates the effect?
+
+
+
+Answer: D
+
+
+Question code: B1C04Q104
+The Eastern Harbour Tunnel has raised the tunnel toll for private cars from $15 to $25.Which of the following diagrams illustrates the effect?
+
+
+
+Answer: B
+
+
+Question code: B1C04Q105
+Which of the following shows the effect of an increase in water charge in Hong Kong?
+
+
+Answer: A
+Explanation:
+(	An increase in water charges will reduce the quantity demanded of water by households.
+(	On the other hand, an increase in water charge will increase the production cost for laundry services. Therefore, the supply of laundry services will decrease. Option A depicts the effect on the market for laundry services and is the answer.
+
+
+Question code: B1C04Q106
+Suppose the Hong Kong government prohibits the sale of live chicken in Hong Kong in an attempt to prevent the spread of avian influenza. Which of the following diagrams illustrates the effect of the above measure?
+
+
+
+Answer: C
+
+
+Short Questions
+
+Question code: B1C04Q301 (new)
+Corn is an inferior good in Country L. Suppose Country L is now facing an economic depression. Many people have had their salaries cut. With the aid of a diagram, explain how the price and quantity transacted of corn change in Country L.	(4 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Rightward shift in demand curve	(1 mark)
+(	Increases in price and quantity transacted	(1 mark)
+
+Verbal elaboration:
+The drop in people's income increases the demand for corn from D1 to D2 as corn is an inferior good in Country L.	(1 mark)
+As a result, the price and quantity transacted of corn increase from P1 to P2 and Q1 to Q2, respectively.	(1 mark)
+
+Question code: B1C04Q302 (new)
+Suppose the price of Android phones decreases.
+(a)	With the aid of a diagram, explain the effects on the price and quantity transacted of Android applications.	(5 marks)
+(b)	With the aid of another diagram, explain the effects on the price and quantity transacted of iPhones.	(5 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increases in price and quantity transacted	(1 mark)
+
+	Verbal elaboration:
+	Android phones and Android applications are complements.	(1 mark)
+	When the price of Android phones decreases, the demand for Android applications increases from D1 to D2.	(1 mark)
+	Hence, the price increases from P1 to P2 and the quantity transacted increases from Q1 to Q2.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decreases in price and quantity transacted	(1 mark)
+
+	Verbal elaboration:
+	Android phones and iPhones are substitutes.	(1 mark)
+	When the price of Android phones decreases, the demand for iPhones decreases from D3 to D4.	(1 mark)
+	Hence, the price decreases from P3 to P4 and the quantity transacted decreases from Q3 to Q4.	(1 mark)
+
+
+Question code: B1C04Q303
+Farmer A says, 'When the price of beef increases, people will buy less of it.'
+Farmer B says, 'No, I cannot agree with you. What I observed was that the price of beef and the quantity bought increase at the same time.'
+Explain with the aid of separate diagrams why both of them can be correct.	(8 marks)
+
+Answers: 
+(	Farmer A refers to a movement along a demand curve.	(1 mark)
+(	Law of demand: When the price of beef increases, the quantity demanded of beef decreases, ceteris paribus.	(1 mark)
+
+		(2 marks)
+
+(	Farmer B refers to increases in the demand for beef.	(1 mark)
+(	When there is an increase in the demand for beef, both the equilibrium price and the quantity transacted increase.	(1 mark)
+
+		(2 marks)
+
+Question code: B1C04Q304
+A citizen says, 'When the price of flats decreases, more people will buy flats.'
+A government official says, 'Recently, the property market has been buoyant (行情看漲). Both the price and the quantity transacted of flats have increased.'
+Can both of them be correct?	(5 marks)
+
+Answers: 
+(	The citizen refers to a movement along a demand curve.	(1 mark)
+(	Law of demand: When the price of flats decreases, the quantity demanded for flats increases, ceteris paribus. 	(1 mark)
+(	The government official refers to an increase in the demand for flats.	(1 mark)
+(	When there is an increase in the demand for flats, both the price and the quantity transacted increase.	(1 mark)
+(	Therefore, the two statements refer to two different situations and can both be correct.	(1 mark)
+
+Question code: B1C04Q305
+Peter says, 'When the price of Good X increases, the price of Good Y increases.'
+Mary says, 'I find something contradictory. When the price of Good A increases, the price of Good B decreases.'
+Is there any contradiction between the findings of Peter and Mary? Explain.	(7 marks)
+
+Answers: 
+(	No, there is no contradiction between the observations made by them.	(1 mark)
+(	Peter's finding refers to the case where Good X and Good Y are substitutes for each other.	 (1 mark)
+(	When the price of Good X increases, the quantity demanded of Good X decreases; people substitute Good Y for Good X and the demand for Good Y increases, leading to an increase in the price of Good Y (two separate diagrams explaining the same situation should also be accepted).	 (2 marks)
+(	Mary's finding refers to the case where Good A and Good B are complements.				(1 mark)
+(	When the price of Good A increases, the quantity demanded of Good A decreases; people at the same time buy less of Good B and the demand for Good B decreases, leading to a drop in the price of Good B (two separate diagrams explaining the same situation should also be accepted).	(2 marks)
+
+Question code: B1C04Q306
+Fun says, 'When my wage rate increases, I will buy more of Good A.'
+Keung says, 'When my wage rate increases, I will buy less of Good A.'
+Does Fun's and Keung's behaviour violate the law of demand? Explain.	(5 marks)
+
+Answers: 
+(	Their behaviour does not violate the law of demand.	(1 mark)
+(	To Fun, Good A is a normal good. Her demand for Good A will increase when her wage income increases.	(2 marks)
+(	To Keung, Good A is an inferior good. His demand for Good A will decrease when his wage income increases.	(2 marks)
+OR
+(	Law of demand: When the price of a good increases (decreases), its quantity demanded decreases (increases), ceteris paribus.	(2 marks)
+(	What they refer to is the relationship between wage rate and quantity demanded.		(2 marks)
+(	Therefore, their behaviour does not violate the law of demand.	(1 mark)
+(Accept other reasonable explanations.)
+
+Question code: B1C04Q307
+The number of schoolchildren has been decreasing in the past decade. With the aid of a diagram, explain its effect on the price and quantity transacted of tutorial services.					(4 marks)
+
+Answers:
+Indicate on the diagram:
+(	Demand curve shifts leftwards.	(1 mark)
+(	Price and quantity transacted decrease.	(1 mark)
+
+Verbal elaboration:
+The decrease in the number of schoolchildren leads to a decrease in the demand for tutorial services. The price of tutorial services decreases and the quantity transacted decreases.	(2 marks)
+
+Question code: B1C04Q308
+Housing prices have been increasing over the years, but the quantity transacted has also been increasing. Does this contradict the law of demand? Explain your answer with the help of a diagram.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+(	Demand curve shifts rightwards.	(1 mark)
+(	Price and quantity transacted increase.	(1 mark)
+
+Verbal elaboration:
+(	The law of demand states that when the price of a good increases, its quantity demanded decreases, other factors being constant.	(1 mark)
+(	However, if there is a greater demand for housing, both the price and the quantity transacted will increase. Since factors other than the price have been changed, this does not contradict the law of demand.	(2 marks)
+
+Question code: B1C04Q309 (new)
+In recent years, the wage rate of construction workers in Hong Kong has increased significantly. With the aid of a diagram, explain why the increase in government infrastructure investment has led to this.	(4 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Demand curve shifts rightwards.	(1 mark)
+(	Wage rate increases.	(1 mark)
+
+
+Verbal elaboration:
+The increase in infrastructure projects would increase the demand for construction workers. This would drive up their wage rates.	(2 marks)
+
+Question code: B1C04Q310
+Explain with the aid of a diagram the effect of the construction of a new highway on the wage rate, employment and the total wage income of construction workers.					(6 marks)
+
+Answers: 
+(	Because of the construction of the highway, the demand for construction workers will increase (D0(D1).	(1 mark)
+		(2 marks)
+(	The wage rate of construction workers will increase (W0(W1).	(1 mark)
+(	The employment of construction workers will increase (L0(L1).	(1 mark)
+(	Therefore, the total wage income (= wage rate × employment of workers) will increase.	(1 mark)
+
+Question code: B1C04Q311
+Suppose the wage rate of teachers in Hong Kong is determined by market forces. Explain with the aid of a diagram the effect of the implementation of small class teaching on the employment and the wage rate of teachers in Hong Kong.	(5 marks)
+
+Answers: 
+(	Because of the implementation of small class teaching, the demand for teachers will increase (D0(D1).	(1 mark)
+		(2 marks)
+(	The wage rate of teachers in Hong Kong will increase (W0(W1);	(1 mark)
+(	The employment of teachers in Hong Kong will increase (L0(L1);	(1 mark)
+
+Question code: B1C04Q312
+As the mainland becomes more open to the world, most goods can be exported directly from the mainland to other regions. As a result, Hong Kong's role as an entrepot for the mainland is fading. With the aid of a diagram, explain how this will affect the employment and wage rate of local container truck drivers.	(5 marks)
+
+Answers: 
+(	Goods from the mainland are not shipped to Hong Kong for re-export. This will cause a decrease in the demand (D0(D1) for local container truck drivers.
+				(1 mark)
+(	Therefore, their wage rate will decrease (W0(W1).	(1 mark)
+(	Their employment will decrease (L0(L1).	(1 mark)
+
+	(2 marks)
+
+
+Question code: B1C04Q313
+Suppose the European Union imposes very stringent (嚴格的) trade restrictions on Chinese textile products (excluding those of Hong Kong). Explain with the aid of a diagram how this will affect the wage rate, employment and the total wage income of textile workers in Hong Kong.	(6 marks)
+
+Answers: 
+(	These trade restrictions will encourage Hong Kong firms to move their plants back to Hong Kong. This will cause an increase in the demand for Hong Kong textile workers (D0(D1).	(1 mark)
+(	Their wage rate will increase (W0(W1);	(1 mark)
+(	Their employment will increase (L0(L1);	(1 mark)
+(	Therefore, their total wage income (= wage rate × number of workers employed) will increase.	(1 mark)
+
+		(2 marks)
+
+Question code: B1C04Q314
+With the improvement in the transport system, the travelling time between Hong Kong and Shenzhen has been shortened. How will the price difference between a flat in the northern New Territories and a flat in Shenzhen change?	(4 marks)
+
+Answers: 
+(	Since the transport system has improved, the demand for flats in Shenzhen will increase.	(1 mark)
+(	Since flats in Shenzhen and those in the northern New Territories are close substitutes, the demand for the latter will decrease.	(1 mark)
+(	Hence, the equilibrium price of flats in Shenzhen will increase while that in the northern New Territories will decrease.	 (1 mark)
+(	The difference in the prices of flats in the two regions will be smaller.	(1 mark)
+(Diagrams explaining the same situation should also be accepted.)
+
+Question code: B1C04Q315 (new)
+In 2014, Brazil hosted the 2014 World Cup. Many tourists visited Brazil during that period. With the aid of a diagram, explain how this affected the price and the quantity transacted of air tickets to Brazil.	(4 marks)
+
+Answers: 
+(	As many tourists visited Brazil during the event, the demand for air tickets to Brazil increased from D0 to D1.	(1 mark)
+(	Therefore, the price and the quantity transacted of air tickets increased from P0 to P1 and Q0 to Q1, respectively. 	(1 mark)
+
+ 	(2 marks)
+
+Question code: B1C04Q316
+Shanghai held the World Expo in 2010. Many visitors from other places in the mainland went to Shanghai during that period. With the aid of a diagram, explain how this affected the rates and the quantity transacted of hotel accommodation in Hong Kong during the event.	(4 marks)
+
+Answers: 
+(	As many tourists who had planned to visit Hong Kong switched to Shanghai because of the event, the demand for hotel accommodation in Hong Kong decreased from D0 to D1;	(1 mark)
+(	Therefore, the rates and the quantity transacted of hotel accommodation in Hong Kong decreased during the event from R0 to R1 and Q0 to Q1, respectively.
+	(1 mark)
+
+	(2 marks)
+
+Question code: B1C04Q317
+Since September 2005, Hong Kong Disneyland has been open to the public. As a result, the quantity transacted of hotel accommodation services in Hong Kong has risen by a large amount. Many hotels have raised the salaries of their staff.
+(a)	With the aid of a diagram, explain the effects of the opening of Hong Kong Disneyland on the prices of hotel accommodation services in Hong Kong.
+				(4 marks)
+(b)	Explain why many hotels raised the salaries of their staff.	(2 marks)
+
+Answers: 
+(a)	(	As the number of tourists increased greatly after the opening of Hong Kong Disneyland, the demand for hotel accommodation services increased (D0(D1).		(1 mark)
+	(	So, the price of hotel accommodation services increased (P0(P1).	(1 mark)
+
+			(2 marks)
+
+(b)	(	The demand for hotel staff is a derived demand from the demand for hotel accommodation services. 	(1 mark)
+	(	When the demand for hotel accommodation services increased, the demand for hotel staff increased as well.	(1 mark)
+
+Question code: B1C04Q318
+In recent years, more and more parents have sent their children to international schools.
+(a)	With the aid of a diagram, explain how this has affected fees at international schools.	(4 marks)
+(b)	Explain how this has affected the demand for teachers at international schools.		(2 marks)
+
+Answers: 
+(a)	The increase in the number of parents sending their children to international schools has increased the demand for educational services provided by international schools (D0(D1). As a result, fees have increased from F0 to F1.		(2 marks)
+		(2 marks)
+
+(b)	(	The demand for teachers at international schools is derived from the demand for educational services provided by international schools.	(1 mark)
+	(	When the demand for educational services provided by international schools increases, the demand for teachers at international schools increases as well.		(1 mark)
+
+Question code: B1C04Q319 (new)
+When sheep are slaughtered for mutton (羊肉), sheepskin can also be obtained. With the aid of a diagram, explain the effect of an increase in the price of mutton on the price and quantity transacted of sheepskin.	(5 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Rightward shift in supply curve	(1 mark)
+(	Decrease in price and increase in quantity transacted	(1 mark)
+
+Verbal elaboration:
+Mutton and sheepskin are in joint supply.	(1 mark)
+When the price of mutton increases, the supply of sheepskin increases from S1 to S2.
+				(1 mark)
+As a result, the price of sheepskin decreases from P1 to P2 and the quantity transacted increases from Q1 to Q2.	(1 mark)
+
+Question code: B1C04Q320 (new)
+The cost of transporting pigs from the mainland to Hong Kong has decreased recently. With the aid of a diagram, explain its effect on the price and quantity transacted of pork in Hong Kong.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+(	Supply curve shifts rightwards.	(1 mark)
+(	Price decreases and quantity transacted increases.	(1 mark)
+
+
+
+Verbal elaboration:
+Pork is produced from pigs. The supply of pork increases when the cost of transporting pigs decreases. As a result, the price will decrease while the quantity transacted will increase.	(2 marks)
+
+Question code: B1C04Q321
+After Bird Flu was brought under control, the government resumed imports of live poultry from the mainland. Explain with the aid of a diagram why this would cause the price of local live poultry to fall.	(5 marks)
+
+Answers: 
+(	Even after Bird Flu was brought under control, Hong Kong people's demand for live poultry remained low.	(1 mark)
+(	When the government resumed imports of live poultry from the mainland, the supply of live poultry in Hong Kong increased (S0(S1).	(1 mark)
+(	Since the demand remained unchanged, the increase in supply caused the price to fall.	(1 mark)
+	(2 marks)
+
+Question code: B1C04Q322 (new)
+(a)	As the public is more concerned about the environment, the demand for biodiesel fuel increases. With the aid of a diagram, explain the changes in the price and quantity transacted of biodiesel fuel.	(3 marks)
+(b)	Corn can be used to produce biodiesel fuel. With the aid of another diagram, explain the effects on the price and quantity transacted of cornflakes (粟米片) according to your answer in part (a).	(4 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increases in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	When the demand for biodiesel fuel increases from D1 to D2, the price and quantity transacted increase from P1 to P2 and Q1 to Q2, respectively.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Leftward shift in supply curve	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	Cornflakes and biodiesel fuel are in competitive supply because both are made of corn.		(1 mark)
+	When the price of biodiesel fuel increases, the supply of cornflakes decreases from S1 to S2.	(1 mark)
+	Hence, the price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.	(1 mark)
+
+Question code: B1C04Q323 (new)
+(a)	In the past few years, the number of immigrants has increased. Hence, the price of private residential units has soared. With the aid of a supply-demand diagram, explain the phenomenon.	(4 marks)
+(b)	Suppose the government auctions off more land to property developers. With the aid of the same diagram, explain the effect on the price of private residential units.
+			(4 marks)
+
+Answers: 
+
+(a)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increase in price	(1 mark)
+	Verbal elaboration:
+	As the number of immigrants increases, the demand for private residential units increases from D1 to D2.	(1 mark)
+	Hence, the price increases from P1 to P2.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply curve	(1 mark)
+	(	Decrease in price	(1 mark)
+	Verbal elaboration:
+	The supply of private residential units will increase from S1 to S2 as property developers have more land upon which to build.	(1 mark)
+	The price will decrease from P2 to P3.	(1 mark)
+
+Question code: B1C04Q324 (new)
+Natural gas is used for heating in Europe during the winter. A large amount of natural gas is transferred from Russia to Western Europe through pipelines via Ukraine. Suppose there is a war in Ukraine and some pipelines are destroyed. With the aid of a diagram, explain how the price of natural gas in Western Europe would change when winter arrives.	(6 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Rightward shift in demand curve	(1 mark)
+(	Leftward shift in supply curve	(1 mark)
+(	Increase in price	(1 mark)
+
+Verbal elaboration:
+When winter arrives, the demand for natural gas increases from D0 to D1.	(1 mark)
+The war in Ukraine decreases the supply of natural gas from S0 to S1.	(1 mark)
+Both the decrease in supply and the increase in demand cause the price to increase from P0 to P1.	(1 mark)
+
+Question code: B1C04Q325 (new)
+Because of the use of guns in warfare, many sword-making skills have not been handed down and the number of swordsmiths (鑄劍師) has decreased. With the aid of a diagram, explain under what condition the price of swords would increase.	(7 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Leftward shift in demand curve	(1 mark)
+(	Leftward shift in supply curve	(1 mark)
+(	Increases in price	(1 mark)
+
+Verbal elaboration:
+When guns were more commonly used, the demand for swords decreased from D0 to D1.				(1 mark)
+The supply of swords decreased from S0 to S1 when the number of swordsmiths decreased.		(1 mark)
+If the decrease in demand was smaller than the decrease in supply, the price would increase from P0 to P1.	(2 marks)
+
+Question code: B1C04Q326
+Give ONE situation when the price and the quantity transacted of a good increase together and ONE situation when the price decreases but the quantity transacted increases. Explain your answer with the help of supply-demand diagrams.	(6 marks)
+
+Answers:
+Situation when the price and the quantity transacted increase together:
+The demand for the good increases.	(1 mark)
+Indicate on the diagram:
+(	Demand curve shifts rightwards.	(1 mark)
+(	Price and quantity transacted increase.	(1 mark)
+
+(Accept other reasonable answers where the price and the quantity transacted increase together.)
+
+Situation when the price decreases but the quantity transacted increases:
+The supply of the good increases.	(1 mark)
+Indicate on the diagram:
+(	Supply curve shifts rightwards.	(1 mark)
+(	Price decreases and quantity transacted increases.	(1 mark)
+
+(Accept other reasonable answers where the price decreases but the quantity transacted increases.)
+
+Question code: B1C04Q327 (new)
+Suppose the price of vegetables from the mainland decreases. At the same time, the Hong Kong government converts some farmland to residential use. With the aid of a diagram, explain why the price of locally produced vegetables remains unchanged.					(5 marks)
+
+Answers: 
+(	Demand for local vegetables decreases (D0(D1) if there is a decrease in the price of mainland vegetables.	(1 mark)
+(	Supply of local vegetables decreases (S0(S1) if the government changes the use of farmland.	(1 mark)
+(	The price of local vegetables remains unchanged because the decrease in demand equals that of the supply.	(1 mark)
+	(2 marks)
+
+Question code: B1C04Q328 (new)
+In recent years, telecommunications technology has improved and the number of firms providing international direct dialing (IDD) services has increased. The number of internet communication tools has increased too. Explain the effect on the price of IDD services with a well-labelled diagram.	(6 marks)
+
+Answers: 
+(	Both the improvement in telecommunications technology and the increase in the number of firms providing IDD services together have greatly increased the supply of IDD services (S0(S1).	(1 mark)
+(	The increase in the number of internet communication tools has also decreased the demand for IDD services (D0(D1).	(1 mark)
+
+	(3 marks)
+
+(	Both the increase in supply and decrease in demand caused the price of IDD services to decrease (P0(P1).	(1 mark)
+
+Question code: B1C04Q329
+Owing to an ageing population and an overloaded public medical sector, many private clinic chains have opened in recent years. At the same time, it has also been reported that the price of private medical services has decreased at the same time. Explain this phenomenon with the aid of a diagram.	(6 marks)
+
+Answers: 
+(	Since Hong Kong's population is ageing, the demand for medical services is increasing (D0(D1).	(1 mark)
+(	On the other hand, the supply of private medical services (S0(S1) increases drastically as a result of a drastic increase in the number of private medical service providers.	(1 mark)
+
+	(2 marks)
+
+(	Since the increase in demand is less than the increase in supply, the price of private medical services decreases (P0(P1).	(2 marks)
+
+
+Structured Questions
+
+Question code: B1C04Q501 (new)
+Country P was an ancient empire. Every time Country P conquered a nation, it enslaved people in the defeated nation. Slaveholders (奴隸主) could trade slaves in the market.
+(a)	'Once I buy a slave, I do not have to give him wages. Therefore, I do not have to pay any costs to keep him working for me,' said a rich man in Country P.
+	Do you agree with him? Explain briefly.	(3 marks)
+(b)	Many slaves worked as rice farmers in Country P. If the population in Country P increased, explain briefly how the equilibrium price and quantity of slaves would change.	(3 marks)
+(c)	An industrial revolution took place in Country P. The use of machines became more common in production. At the same time, a number of conquered nations successfully revolted against the rule of Country P and gained independence. With the aid of a diagram, explain under what circumstances the price of slaves in Country P would decrease. 	(7 marks)
+
+Answers:
+(a)	No.			(1 mark)
+	Although the rich man did not have to pay wages, he had to satisfy the slave's basic needs (e.g., giving him food) to keep him alive and working. So, costs were involved.	(2 marks)
+
+(b)	When the population increased, the demand for rice increased.	(1 mark)
+	The demand for slaves increased because it was derived from the demand for rice.					(1 mark)
+	Both the equilibrium price and quantity of slaves would increase.	(1 mark)
+
+(c)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Leftward shift in supply curve	(1 mark)
+	(	Decreases in price	(1 mark)
+	
+	Verbal elaboration:
+	When more machines were used in production, the demand for slaves decreased from D0 to D1.	(1 mark)
+	After the independence of the conquered nations, the supply of slaves decreased from S0 to S1.	(1 mark)
+	If the decrease in demand was larger than the decrease in supply, the price of slaves would decrease.	(2 marks)
+
+Question code: B1C04Q502 (new)
+It is legal to eat dogs in Country K. Many restaurants in the country serve dog meat.
+(a)	'In winter, the price and quantity transacted of dog meat increase at the same time. This violates the law of demand,' said a restaurant owner in Country K.
+	Do you agree with him? Explain briefly.	(3 marks)
+(b)	Given that total revenue is the product of price and quantity transacted, explain briefly whether the total revenue of dog meat sellers must increase in each of the following situations.
+	(i)	The demand for dog meat increases.	(3 marks)
+	(ii)	The supply of dog meat increases.	(3 marks)
+(c)	Suppose the price of dog food (狗糧) decreases. At the same time, awareness of animal rights increases in Country K and more people are opposed to eating dogs. With the aid of a diagram, explain how the price of dog meat changes in Country K.			(6 marks)
+
+Answers:
+(a)	No.			(1 mark)
+	There may be a change in factors other than the price of dog meat (e.g., temperature). Hence, the demand may have increased, causing both the price and quantity transacted to increase.	(2 marks)
+
+(b)	(i)	Yes.	(1 mark)
+		Both the price and quantity transacted will increase as demand increases. Therefore, the total revenue of dog meat sellers must increase.	(2 marks)
+	(ii)	No.		(1 mark)
+		When supply increases, the price will decrease while the quantity transacted will increase. Therefore, the effect on total revenue is uncertain.	(2 marks)
+
+(c)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Rightward shift in supply curve	(1 mark)
+	(	Decrease in price	(1 mark)
+	
+	Verbal elaboration:
+	When the price of dog food decreases, the supply of dog meat increases from S0 to S1.			(1 mark)
+	When awareness of animal rights increases, the demand for dog meat decreases from D0 to D1.	(1 mark)
+	Both the increase in supply and the decrease in demand cause the price of dog meat to decrease from P0 to P1.	(1 mark)
+
+Question code: B1C04Q503 (new)
+In Country M, every citizen aged 18 or above can buy guns from licensed shops. It is legal for gun buyers to use guns for hunting and self-protection. However, it is illegal for them to transfer their guns to other people.
+(a)	Do the gun buyers in Country M have full private property rights over their guns? Explain briefly.	(2 marks)
+(b)	Suppose the price of guns decreases. With the aid of a diagram, explain how this would affect the price and quantity transacted of bullets (子彈) in Country M.					(5 marks)
+(c)	Suppose the citizens of Country M lose confidence in the ability of the police to maintain public security due to the uncovering of serious corruption cases recently. Also, the technology for producing guns improves. Explain, with the aid of a diagram, under what conditions will the price of guns in Country M increase.					(7 marks)
+
+Answers:
+(a)	No.			(1 mark)
+	They do not have the right to transfer their guns.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increases in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	Bullets and guns are complements.	(1 mark)
+	When the price of guns decreases, the demand for bullets increases from D1 to D2.					(1 mark)
+	Hence, the price increases from P1 to P2 and the quantity transacted increases from Q1 to Q2.	(1 mark)
+
+(c)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Rightward shift in supply curve	(1 mark)
+	(	Increase in price	(1 mark)
+	
+	Verbal elaboration:
+	When citizens lose confidence in the police, their demand for guns increases from D0 to D1.	(1 mark)
+	The improvement in technology increases the supply of guns from S0 to S1.
+				(1 mark)
+	If the increase in demand is larger than the increase in supply, the price increases from P0 to P1.	(2 marks)
+
+Question code: B1C04Q504 (new)
+Marvelous Park is a popular theme park in City N. It is now operating at full capacity.
+(a)	What is the shape of the supply curve for Marvelous Park's services? Explain briefly.		(2 marks)
+(b)	Marvelous Park will carry out an expansion project. The park will be larger and provide more facilities. With the aid of a diagram, explain under what conditions the ticket price of the park will remain unchanged.	(7 marks)
+(c)	How will the wage rate and employment of coach (旅遊巴) drivers change after the park expands? Explain your answer with the aid of a diagram.	(5 marks)
+
+Answers:
+(a)	Vertical.	(1 mark)
+	It is because the capacity of a theme park is fixed.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Rightward shift in supply curve	(1 mark)
+	(	Price remains unchanged	(1 mark)
+	
+	Verbal elaboration:
+	After the expansion, the capacity of the park increases. The supply will increase from S0 to S1.	(1 mark)
+	The new facilities attract more visitors to the park. The demand for the park's services will increase from D0 to D1.	(1 mark)
+	If the increase in demand is equal to the increase in supply, the price will remain unchanged at P0.	(2 marks)
+
+(c)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increase in wage rate and employment	(1 mark)
+	
+	Verbal elaboration:
+	After the expansion, the demand for coach services will increase due to the increase in visitors.	(1 mark)
+	As the demand for coach drivers is derived from the demand for coach services, the demand for coach drivers will increase from D1 to D2.	(1 mark)
+	Hence, the wage rate will increase from W1 toW2 and the number of coach drivers employed will increase from Q1 to Q2.	(1 mark)
+
+
+Question code: B1C04Q505
+Many students are reluctant to become manual workers (體力勞動者) after graduation. They would rather become salespeople. As a result, few graduates join the construction industry.
+(a)	How will the above phenomenon affect the wages and employment in the construction industry? Explain your answer with the aid of a diagram.	(4 marks)
+(b)	Suppose the central government allows people from more mainland provinces to visit Hong Kong more easily. How will this affect the demand for salespeople in Hong Kong? Explain.	(3 marks)
+(c)	There is a greater demand for construction workers and the government imports construction workers from the mainland. With the aid of a diagram, explain why the wages of construction workers may remain unchanged.	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Supply curve shifts leftwards.	(1 mark)
+	(	Wages increase and employment decreases.	(1 mark)
+	
+	Verbal elaboration:
+	Fewer graduates join the construction industry, so the labour supply in the construction industry decreases. Wages will increase and employment will decrease.	(2 marks)
+
+(b)	The demand for salespeople is a derived demand of the demand for retailing services. When more mainland people visit Hong Kong, the demand for retailing services in Hong Kong increases, and thus the demand for salespeople will increase.	(3 marks)
+
+(c)	Indicate on the diagram:
+(	Demand curve and supply curve shifts rightwards.	(1 mark)
+(	Price remains unchanged. 	(1 mark)
+	
+	Verbal elaboration:
+	The demand for and the supply of construction workers increase at the same time. If demand and supply increase by the same extent, wages will remain unchanged.				(2 marks)
+
+Question code: B1C04Q506
+The government considers importing doctors from other countries, but local doctors oppose the proposal.
+(a)	How will the price and quantity transacted of medical services be affected if the government imports doctors from other countries? Explain your answer with the aid of a diagram.	(4 marks)
+(b)	Suppose more Chinese medicine practitioners (中醫師) are trained in Hong Kong. Explain its effect on the market for Western medical services.	(6 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Supply curve shifts rightwards.	(1 mark)
+	(	Price decreases and quantity transacted increases. 	(1 mark)
+	
+
+	Verbal elaboration:
+	(	Doctors are an input of medical services. Importing doctors increases the supply of medical services.	(1 mark)
+	(	The price of medical services will decrease and the quantity transacted will increase.	(1 mark)
+
+(b)	(	Chinese medicine practitioners are an input of Chinese medical services. An increase in the number of Chinese medicine practitioners increases the supply of Chinese medical services.	(2 marks)
+	(	The price of Chinese medical services decreases.	(1 mark)
+	(	Chinese medical services and Western medical services are substitutes.
+				(1 mark)
+	(	The decrease in the price of Chinese medical services will decrease the demand for Western medical services. 	(1 mark)
+	(	The price and the quantity transacted of Western medical services will decrease.	(1 mark)
+
+Question code: B1C04Q507 (new)
+(a)	Explain the law of demand.	(2 marks)
+(b)	In summer, the price of heaters (暖爐) and the quantity transacted decrease at the same time. Is this a violation of the law of demand? Explain with the aid of a diagram.	(5 marks)
+(c)	Suppose there is an improvement in the technology of air conditioner production. Explain, with the aid of a diagram, under what condition the price of air conditioners will remain unchanged when summer arrives.	(6 marks)
+
+Answers: 
+(a)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decreases in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	There are changes in factors other than the price of heaters (e.g., temperature).
+		(1 mark)
+	The demand for heaters decreases (D1(D2).	(1 mark)
+	Since the assumption of ceteris paribus does not hold, this does not violate the law of demand.	(1 mark)
+
+(c)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Unchanged price	(1 mark)
+	
+	Verbal elaboration:
+	The demand for air conditioners increases (D1(D2) when summer arrives.			(1 mark)
+	The supply increases (S1(S2) when technology improves.	(1 mark)
+	If the increase in demand is equal to the increase in supply, the price of air conditioners will remain unchanged.	(2 marks)
+
+Question code: B1C04Q508
+(a)	Explain the law of supply.	(2 marks)
+(b)	After floods, the price of vegetables increases drastically while the quantity transacted decreases drastically. Is this a violation of the law of supply? Explain with the aid of a diagram.	(6 marks)
+(c)	Explain the difference between quantity transacted and quantity supplied. In what circumstances will they be the same? Explain with the aid of a diagram.	(6 marks)
+
+Answers: 
+(a)	The law of supply states that the higher (lower) the price of a good, the greater (smaller) its quantity supplied, other factors being constant.	(2 marks)
+
+(b)	(	The increase in the price (P0(P1) and the decrease in the quantity transacted (Q0(Q1) are caused by the decrease in the supply of vegetables (S0(S1).		(2 marks)
+			(2 marks)
+	(	Since the assumption of ceteris paribus does not hold, this does not violate the law of supply.	(2 marks)
+
+(c)	(	Quantity transacted refers to the quantity actually bought and sold while quantity supplied refers to the quantity sellers plan to sell.	(2 marks)
+	(	When the market price is at or below equilibrium (( P0), the quantity transacted is equal to the quantity supplied.	(2 marks)
+
+		(2 marks)
+
+Question code: B1C04Q509
+Mr Yeung runs a printing factory which prints textbooks for local publishers in Hong Kong. Because of the recent economic downturn, many students choose to buy used textbooks.
+(a)	What are the effects of the change in students' behaviour on the equilibrium price, quantity transacted and total revenue of new textbooks? Explain with a well-labelled diagram.	(6 marks)
+(b)	What is the relationship between the demand for new textbooks and the demand for printing services?	(2 marks)
+(c)	Assume the price of printing services is fixed. What is the effect of the change in part (a) on the total revenue of Mr Yeung's printing factory? Explain with a diagram.	(4 marks)
+
+Answers: 
+(a)	(	Since new textbooks and used textbooks are substitutes, the demand for new textbooks will fall (D0(D1).	(1 mark)
+			(2 marks)
+	(	The equilibrium price decreases (P0(P1)	(1 mark)
+	(	The quantity transacted decreases (Q0(Q1).	(1 mark)
+	(	Hence, the total revenue will decrease too.	(1 mark)
+
+(b)	The demand for printing services is a demand derived from the demand for new textbooks.	(2 marks)
+
+(c)	(	Since the demand for new textbooks decreases, the demand for printing services decreases (D0(D1). 	(1 mark)
+		(2 marks)
+	(	If the price is fixed at P, the quantity transacted will fall and the total revenue will fall too.	(1 mark)
+
+Question code: B1C04Q510
+Mr Chan runs a cinema that screens Hong Kong films. In recent years, owing to the poor economic environment and the widespread problem of movie piracy (電影盗版), the attendance rate at his cinema has been decreasing. After launching a 'buy tickets, get free drinks' promotion scheme, the situation was still poor. Assume the ticket price is fixed.
+(a)	What is the relationship between the demand for cinemas and movies?	(2 marks)
+(b)	Explain with the aid of a diagram how the poor economic environment and the widespread problem of movie privacy have affected the attendance rate and the total revenue at Mr Chan's cinema.	(5 marks)
+(c)	Explain with the aid of a diagram how the 'buy tickets, get free drinks' promotion scheme has affected the attendance rate and the total revenue at Mr Chan's cinema.	(5 marks)
+
+Answers: 
+(a)	The demand for cinemas is derived from the demand for movies.	(2 marks)
+
+(b)	(	They caused the demand for movies to drop (D0(D1).	(1 mark)
+			(2 marks)
+	(	Since the ticket price remained unchanged (P), the quantity transacted decreased (Q0(Q1).	(1 mark)
+	(	Therefore, the total revenue at Mr Chan's cinema decreased.	(1 mark)
+
+(c)	(	The promotion can help stimulate the demand for movies, leading to an increase in the demand for cinemas (D1(D2).	(1 mark)
+		(2 marks)
+	(	Since the ticket price (P) remained unchanged, the quantity transacted (Q1(Q2) and total revenue increased (P×Q1(P×Q2).	(2 marks)
+
+Question code: B1C04Q511
+Between 1998 and mid 2003, property prices have been falling in Hong Kong. At the same time, the number of monthly property transactions has decreased.
+(a)	Explain with the aid of a diagram how the expectation of falling property prices may lead to the above phenomenon and its effect on the total revenue of property developers in Hong Kong.	(7 marks)
+(b)	Explain with the aid of a diagram how the phenomenon in (a) will affect the equilibrium price, the quantity transacted and the total revenue of legal services in Hong Kong.	(6 marks)
+
+Answers: 
+(a)	(	If there is an expectation that the price of property will fall in future, buyers will postpone their purchases and the demand for property in Hong Kong will fall (D0(D1).	(1 mark)
+	(	If the price is expected to fall in future, they will try to sell more at present, the supply of property will increase (S0(S1).	(1 mark)
+		(2 marks)
+	(	Equilibrium price will fall (P0(P1).	(1 mark)
+	(	If the decrease in demand is greater than the increase in supply, the quantity transacted will decrease (Q0(Q1).	(1 mark)
+	(	Since the equilibrium price and the quantity transacted have decreased, the total revenue will decrease.	(1 mark)
+
+(b)	(	Since the quantity of property transacted has decreased, the demand for legal services for property sales has decreased (D0(D1).	(1 mark)
+		(2 marks)
+	(	The equilibrium price will decrease (P0(P1).	(1 mark)
+	(	The quantity transacted will decrease (Q0(Q1).	(1 mark)
+	(	Hence, the total revenue will decrease.	(1 mark)
+
+Question code: B1C04Q512
+It has been reported that Hong Kong's unemployment situation is improving. Many people believe that this signals a broad-based economic recovery.
+(a)	Explain with the aid of a diagram how the above situations will affect the demand for consumer goods. 	(3 marks)
+(b)	Explain with the aid of a diagram how the above situations will affect the supply of consumer goods.	(3 marks)
+(c)	Explain how the answers in (a) and (b) will affect the total revenue of consumer good producers in Hong Kong.	(4 marks)
+
+Answers: 
+(a)	The above situations will cause the demand for consumer goods to increase (D0(D1).	(1 mark)
+	(2 marks)
+
+(b)	The increase in the price of consumer goods will attract more firms to produce consumer goods. Therefore, the above situations increase not only the demand for but also the supply of them (S0(S1).	(1 mark)
+		(2 marks)
+
+(c)	(	When the demand for and the supply of consumer goods both increase, the quantity transacted must increase.	(1 mark)
+	(	If the increase in demand is greater than the increase in supply, the price will increase.	(2 marks)
+	(	Without information on the magnitude of the changes in demand and supply, we cannot know how the total revenue will change.	(1 mark)
+
+Question code: B1C04Q513 (new)
+The MTR Corporation built a railway connecting Sheung Wan and Kennedy Town in 2014.
+(a)	How would this affect property prices in Kennedy Town? Explain with the aid of a diagram.	(4 marks)
+(b)	Suppose the MTRC was permitted to import construction workers from the mainland to complete the railway before the target date. How would the construction of the railway and the importation of construction workers affect the wage rate of construction workers in Hong Kong? Explain with the aid of a diagram.	(8 marks)
+
+Answers: 
+(a)	(	Since the transport system in Kennedy Town has improved, demand for housing in the area would increase (D0(D1).	(1 mark)
+	(	The equilibrium price would increase (P0(P1).	(1 mark)
+		(2 marks)
+
+(b)	(	The construction of the railway would increase the demand for construction workers (D0(D1).	(1 mark)
+	(	On the other hand, the importation of workers from the mainland would increase the supply of construction workers (S0(S1).	(1 mark)
+			(2 marks)
+	(	Therefore, the effect on the wage rate would depend on the magnitude of the increase in demand for and supply of construction workers.	(1 mark)
+	(	If the increase in demand was greater than the increase in supply, the wage rate would increase.	(1 mark)
+	(	If the increase in demand was smaller than that of supply, the wage rate would decrease.	(1 mark)
+	(	If the increase in demand was matched by an increase in supply of equal magnitude, the wage rate would remain unchanged (as shown in above diagram).	(1 mark)
+
+Question code: B1C04Q514 (new)
+Construction of the MTR Corporation's South Island Line (East) will be completed at the end of 2016. It connects between Admiralty and South Horizons (海怡半島).
+(a)	With the aid of a diagram, explain how this will affect property prices at South Horizons.	(4 marks)
+(b) Suppose the MTRC is not permitted to import construction workers. With the aid of a diagram, explain how the building of the South Island Line (East) will affect the wage rate and the employment of construction workers in Hong Kong.			(5 marks)
+
+Answers: 
+(a)	(	Since the transport system in South Horizons will improve in the near future, the demand for housing in the area will increase (D0(D1).	(1 mark)
+	(	The price of property will increase (P0(P1).	(1 mark)
+	(2 marks)
+
+(b)	(	The building of the South Island Line (East) will cause the demand for construction workers in Hong Kong to increase (D0(D1).	(1 mark)
+		(2 marks)
+	(	The wage rate of construction workers in Hong Kong will increase (W0(W1).	(1 mark)
+	(	The number of workers employed will increase (L0(L1).	(1 mark)
+
+Question code: B1C04Q515
+During an economic downturn, the problem of unemployment has become more serious among unskilled workers. Most are prepared to work in restaurants.
+(a)	What is the relationship between the demand for restaurant services and restaurant workers?	(2 marks)
+(b)	With the aid of a diagram, explain the effect of the above events on the wage rate of restaurant workers.	(5 marks)
+*(c)	A restaurant owner says, 'This brings benefits to consumers as food prices are lower.'
+	In light of your answer in part (b), explain with the aid of a diagram why the statement made by the restaurant owner is correct.	(5 marks)
+
+Answers: 
+(a)	The demand for restaurant workers is a derived demand from the demand for restaurant services.	(2 marks)
+
+(b)	(	A decrease in the demand for restaurant services during an economic downturn means a decrease in the demand for restaurant workers (D0(D1).			(1 mark)
+	(	An increase in unemployed unskilled workers from other industries means a larger supply of restaurant workers (S0(S1).	(1 mark)
+		(3 marks)
+	(	Both the decrease in demand and the increase in supply cause a decrease in the wage rate (W0(W1).	(1 mark)
+
+(c)	(	From (b), we know that the equilibrium wage rate of restaurant workers will fall from W0 to W1.	(1 mark)
+	(	The supply curve of restaurant services shifts to the right (S0(S1) as the costs of food production become lower.	(1 mark)
+			(2 marks)
+	(	As a result, the equilibrium price of food will fall (P0(P1).	(1 mark)
+
+Question code: B1C04Q516
+In recent years, many doctors have resigned from public hospitals and started their own clinics. A study revealed that as a result of this the workload at public hospitals has remained more or less the same while the quality of public medical services declines.
+(a)	What is the relationship between the demand for medical services and the demand for doctors?	(2 marks)
+(b)	Explain why the quality of public medical services is declining.	(5 marks)
+*(c)	A private doctor says, 'Despite the decline in the quality of public medical services, this benefits patients by reducing the price of private out-patient services.' In light of your answer in (b), explain with the aid of a diagram why the statement made by the private doctor is correct.	(5 marks)
+
+Answers: 
+(a)	The demand for doctors is derived from the demand for medical services.				(2 marks)
+
+(b)	The decline is caused by a shortage of doctors. Because many doctors have resigned to run private clinics and the hospitals cannot find sufficient doctors to fill the vacancies, a shortage of doctors has developed in public hospitals.		(2 marks)
+	On the other hand, the number of patients at public hospitals has not decreased (perhaps the patients cannot afford to pay for private medical services). With the same amount of manpower, the time spent treating each patient at public hospitals is decreasing while the queuing time is increasing, leading to a decline in the quality of public medical services.	(3 marks)
+
+(c)	(	Since the supply of private out-patient services has increased, the price of private out-patient services has decreased.	(2 marks)
+			(2 marks)
+	(	Therefore, patients benefit.	(1 mark)
+
+Question code: B1C04Q517
+Since the launch of the individual visit scheme, the number of mainland tourists coming to Hong Kong has been increasing. It has been reported that tourists from the mainland are very concerned about the quality of goods. They are willing to pay higher prices for quality goods.
+(a)	How will the increasing number of tourists from the mainland affect the total revenue of retailers in the mainland?	(5 marks)
+(b)	How will the above affect the rental rates of shop premises in the mainland?
+		(5 marks)
+(c)	To improve Hong Kong's international image, the government is devoted to combating the problem of dishonest retailers. Explain whether this could effectively increase the total revenue of retailers in Hong Kong.	(6 marks)
+*(d)	Suppose there was a dispute about textile products between the mainland and the European Union and a lot of textile products were shipped back to the mainland. Explain how this would affect the total revenue of textile producers in Hong Kong.		(4 marks)
+
+Answers: 
+(a)	Since goods sold in the mainland are substitutes for goods sold in Hong Kong, an increasing number of tourists from the mainland will lead to a decrease in demand for goods sold in the mainland (D0(D1). As a result, the total revenue of retailers in the mainland will decrease.	(3 marks)
+		(2 marks)
+
+(b)	The demand for shops in the mainland is derived from the demand for goods sold in the mainland.	(1 mark)
+		(2 marks)
+	Since the number of shops in the mainland remains unchanged (Q0), the rental rate will decrease as the demand for goods sold in the mainland decreases.	(2 marks)
+
+(c)	(	The supply of goods sold in Hong Kong will decrease as the government combats dishonest retailers. 	(1 mark)
+	(	On the other hand, the demand for goods sold in Hong Kong will increase as tourists' confidence in consumption in Hong Kong increases.	(2 marks)
+		(2 marks)
+	(	Therefore, the effect on the total revenue of Hong Kong retailers is uncertain.			(1 mark)
+(d)	This would lead to a decrease in the price of textile products sold in the mainland. Since textile products sold in the mainland are substitutes for textile products sold in Hong Kong, the decrease in the price of textile products sold in the mainland would lead to a decrease in the demand for textile products sold in Hong Kong. As a result, the total revenue of textile producers in Hong Kong would decrease.
+			(4 marks)

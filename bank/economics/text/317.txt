@@ -1,0 +1,1794 @@
+Chapter 17 	The roles of government (I): market failure
+
+Multiple Choice Questions
+
+Question code: B3C17Q001
+Under which of the following cases does the problem of externalities NOT exist?
+(1)	A famous tenor sings in an opera house in London and is fully compensated.
+(2)	Eddie buys a diamond ring as a gift for his girlfriend but receives nothing in return from his girlfriend.
+(3)	Tony studies Finance at a university. He pays all the educational expenses by himself.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C17Q002
+Externalities exist when a party's action affects other parties but there is no _____________ or ____________.
+A.	increase in output; decrease in price
+B.	compensation paid; payment received
+C.	tax paid; subsidy received
+D.	production cost paid; profits earned
+
+Answer: B
+
+Question code: B3C17Q003
+________ externalities exist when a party's action _______ other parties but no compensation is paid to the other parties.
+A.	Beneficial; benefits
+B.	Positive; involves
+C.	Harmful; harms
+D.	Negative; negates
+
+Answer: C
+
+
+Question code: B3C17Q004
+A negative externality exists if there is a divergence between ________ in the market.
+A.	private and social costs
+B.	total cost and total benefit
+C.	private and social benefits
+D.	social benefit and social cost
+
+Answer: A
+
+Question code: B3C17Q005
+A positive externality exists if there is a divergence between __________ in the market.
+A.	average and social benefits
+B.	private and social benefits
+C.	total cost and total benefit
+D.	social benefit and social cost
+
+Answer: B
+
+Question code: B3C17Q006
+Which of the following is an example of a divergence between private and social benefits?
+A.	A full-time teacher teaches his students during the summer holidays without receiving payment from his students.
+B.	On Mother's Day, a mother receives a kiss from her daughter free of charge.
+C.	Coco cooks and her neighbours enjoy the smell.
+D.	Janice sings in a charity show and is fully compensated.
+
+Answer: C
+Explanation
+Option A is not correct. If the economic agent is paid according to his contribution, there is no beneficial externality. In this case, the teacher receives compensation from his school to teach his students.
+
+
+Question code: B3C17Q007
+Externality exists when 
+A.	a tutor receives his salary.
+B.	a consumer buys clothes at a discount.
+C.	Mary enjoys the music played by her neighbour free-of-charge.
+D.	a company pays dividends to its shareholders.
+
+Answer: C
+
+Question code: B3C17Q008
+Which of the following is an example of positive externality?
+A.	pollution
+B.	new knowledge
+C.	traffic congestion
+D.	overfishing
+
+Answer: B
+
+Question code: B3C17Q009
+A famous women's volleyball player visits Hong Kong. Which of the following are her private benefits?
+(1)	The payment she receives for attending functions in shopping malls
+(2)	The increase in the popularity of her national volleyball team
+(3)	The increase in her image royalties (肖像使用費)
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C17Q010
+Which of the following is an external cost of a fireworks show organised by the government?
+A.	Payment to fireworks manufacturers
+B.	Increase in revenue of nearby shops
+C.	Police manpower employed to maintain order in the area
+D.	Light pollution
+
+Answer: D
+
+Question code: B3C17Q011
+Which of the following is NOT an external benefit of maintaining a residential building?
+(1)	The increase in the price of the building
+(2)	Reduction in the building's insurance fee as the external walls pose less danger to passersby
+(3)	The comfort of the residents in the building (residents have paid their maintenance fee)
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C17Q012
+There is a long queue outside a newly opened snack shop. Which of the following is an external cost of its opening?
+A.	Extra wages to hire more workers to cater to the unexpected queue
+B.	The amount already paid to purchase food ingredients
+C.	Loss of business at a neighbouring shop as the queue blocks its entrance
+D.	The profit earned by the snack shop
+
+Answer: C
+
+Question code: B3C17Q013
+John opens a factory. Which of the following may be included in his private costs?
+(1)	Rent on the factory premises
+(2)	Interest on his start-up capital borrowed from a bank
+(3)	Damage that the production process imposes on the health of his workers
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+Option (3) may be included in his private cost because this may reduce his workers' productivity.
+
+
+Question code: B3C17Q014
+Social cost includes the cost borne by
+(1)	the government.
+(2)	the economic agent taking the action.
+(3)	individuals who are affected by the action.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B3C17Q015
+* Suppose Ming only considers the private cost of having lunch at McDonald's. Which of the following is correct?
+A.	Inefficiency must exist as he does not consider the social cost.
+B.	There will be a divergence between private cost and social cost because the wages for McDonald's staff are too low.
+C.	The government should intervene as the social cost will be greater than the private cost.
+D.	Ming's action can be efficient.
+
+Answer: D
+
+Question code: B3C17Q016
+If there is a divergence between private and social costs,
+A.	inefficiency may exist due to underproduction.
+B.	an external benefit must exist.
+C.	the difference between the costs is the external cost.
+D.	the government must take action to correct it.
+
+Answer: C
+
+
+Question code: B3C17Q017
+If all drivers considered the external costs they imposed on other drivers, then
+A.	no one would drive.
+B.	travel time would be shortened.
+C.	the road must not be fully utilised.
+D.	society would suffer a loss.
+
+Answer: B
+
+Question code: B3C17Q018
+The socially optimal output level will be attained when
+A.	private cost equals social cost.
+B.	marginal private cost equals marginal private benefit.
+C.	total social benefit equals total social cost.
+D.	there is no deadweight loss.
+
+Answer: D
+
+Question code: B3C17Q019
+From the viewpoint of economics, the efficient level of timber harvesting (砍伐林木) is the level at which
+A.	there is no timber harvesting at all.
+B.	the total social cost of timber harvesting is at a minimum.
+C.	the total social benefit from timber harvesting equals the total social cost of timber harvesting.
+D.	the marginal social benefit from timber harvesting equals the marginal social cost of timber harvesting.
+
+Answer: D
+
+
+Question code: B3C17Q020
+Given the quantity transacted, marginal social benefit equals marginal private cost in the market. Which of the following are correct?
+(1)	If there is no negative externality, efficiency will be attained.
+(2)	If there is an external cost, a deadweight loss exists.
+(3)	If there is no external cost, inefficiency exists.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B3C17Q021
+* Suppose there is no external benefit. The efficient output level is attained if
+A.	the marginal social benefit is equal to the marginal private benefit.
+B.	the marginal social cost is equal to the marginal private benefit.
+C.	the marginal social benefit is equal to the marginal private cost.
+D.	Insufficient information to determine
+
+Answer: B
+
+Question code: B3C17Q022
+Society will experience overconsumption if the
+A.	marginal social benefit is greater than the marginal private cost.
+B.	marginal private cost is greater than the marginal private benefit.
+C.	marginal private benefit is greater than the marginal social cost.
+D.	marginal social cost is greater than the marginal social benefit.
+
+Answer: D
+
+
+Question code: B3C17Q023
+Overproduction occurs when
+(1)	there is an external cost.
+(2)	there is an effective quota.
+(3)	there is a unit subsidy.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C17Q024
+Andy loves to sing at midnight. This is an example of
+A.	a negative externality.
+B.	an external benefit if Andy's neighbourhood loves his songs and he does not receive any payment.
+C.	an external cost as it is illegal to sing at midnight.
+D.	an external benefit because this will help Andy become an excellent singer.
+
+Answer: B
+
+Question code: B3C17Q025
+If there is a deadweight loss,
+A.	underproduction must exist.
+B.	overproduction must exist.
+C.	marginal social surplus must not be zero.
+D.	marginal social benefit must not be equal to marginal private cost.
+
+Answer: C
+
+
+Question code: B3C17Q026
+Suppose a divergence between private and social costs exists, and economic agents only consider their own benefits and costs. Which of the following statements is correct?
+A.	There is underproduction.
+B.	There is excess supply.
+C.	Total social benefit equals total social cost.
+D.	The external cost is greater than zero.
+
+Answer: D
+
+Question code: B3C17Q027
+Under which of the following situations will underproduction most likely occur?
+A.	Ann talks loudly and disturbs other colleagues.
+B.	Bob studies hard and gets full marks on his examination.
+C.	Cathy, a web designer, builds a website for her client.
+D.	Donald volunteers to do magic tricks in Victoria Park every Sunday to entertain pedestrians.
+
+Answer: D
+
+Question code: B3C17Q028
+If there is an external cost, taxation may be used to correct the market because taxation can decrease the output level by
+A.	decreasing the marginal social benefit.
+B.	increasing the marginal private cost.
+C.	increasing the marginal social cost.
+D.	decreasing the marginal external benefit.
+
+Answer: B
+
+
+Question code: B3C17Q029
+Under which of the following situations may taxation help improve efficiency?
+A.	The excellent performance of Hong Kong athletes at the East Asian Games improves the image of Hong Kong.
+B.	Some people watched the fireworks free of charge during the opening ceremony at the East Asian Games.
+C.	Drinkers in Lan Kwai Fong (蘭桂芳) disrupt pedestrians.
+D.	Some restaurants provide special offers at Christmas.
+
+Answer: C
+
+Question code: B3C17Q030
+From the viewpoint of society, which of the following can be the benefits of imposing a pollution tax to correct negative externalities?
+(1)	Tax revenue from the pollution tax can be used to reduce pollution.
+(2)	The deadweight loss decreases to zero.
+(3)	Factories cut their output level to an efficient level.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B3C17Q031
+Which of the following is a possible way to narrow the divergence between private and social benefits in Hong Kong?
+A.	Tobacco duty
+B.	Grant to university students
+C.	Levy on plastic bags
+D.	Introduction of emissions trading
+
+Answer: B
+
+
+Question code: B3C17Q032
+A highway creates noise and disturbs residents nearby. Which of the following can lessen the problem of external cost?
+(1)	Collecting charges from highway users
+(2)	Subsidising nearby residents to install soundproof windows
+(3)	Privatising the highway
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(2) and (3) only
+
+Answer: C
+
+Question code: B3C17Q033
+If there is a positive externality, which of the following measures may be used by the government to correct the problem?
+A.	Taxation
+B.	Price ceiling
+C.	Quota
+D.	Subsidy
+
+Answer: D
+
+Question code: B3C17Q034
+A subsidy may be used to correct the problem of externalities because it can
+A.	reduce external cost.
+B.	increase external benefit.
+C.	reduce marginal private cost.
+D.	reduce the output level.
+
+Answer: C
+
+Question code: B3C17Q035
+If marginal social benefit is greater than marginal private benefit, then
+A.	market exchange will not work.
+B.	a subsidy must be provided to correct the market.
+C.	an external benefit must exist.
+D.	there is an overproduction.
+
+Answer: C
+
+Question code: B3C17Q036
+* Under which of the following situations can a subsidy help improve efficiency?
+A.	An economics teacher shares his teaching materials with the public free of charge.
+B.	Pirate Bay provides BitTorrent files free of charge (BitTorrent is an internet file sharing method).
+C.	Internet search engine providers provide web searches free of charge.
+D.	Baidu (百度) provides free MP3 song downloads.
+
+Answer: A
+Explanation
+In Options B, C and D, the firms are usually paid by advertisers and the pay is positively related to the websites' number of hits. Hence, to increase their websites' hit rates, the firms will provide different services free of charge. Subsidising those activities may lead to a decrease in efficiency, instead of an increase in efficiency.
+
+Question code: B3C17Q037
+If there is a harmful externality, then the government may
+A.	subsidise economic agents which generate the external costs.
+B.	restrict the output level to reduce the deadweight loss.
+C.	do nothing because the market will always solve the problem itself.
+D.	take over all private firms because only public firms can produce without generating an external cost.
+
+Answer: B
+
+Question code: B3C17Q038
+Recently, the Chinese government tore down some illegal cement plants because the plants could not meet environmental protection requirements. This intervention is an example of
+A.	taxation and subsidisation.
+B.	public ownership.
+C.	market exchange.
+D.	restriction or removal by regulation.
+
+Answer: D
+
+
+Question code: B3C17Q039
+In Hong Kong, some primary and secondary schools are owned and run by the government. This is an example of
+A.	market exchange.
+B.	integration.
+C.	free goods.
+D.	public ownership.
+
+Answer: D
+
+Question code: B3C17Q040
+Which of the following is an example of market solutions to the problem of externalities?
+A.	The government subsidises firms which generate an external benefit.
+B.	The government taxes firms which generate an external cost.
+C.	The government restricts output to a certain level.
+D.	The government defines private property rights for scarce resources and thus market exchange emerges to reduce overproduction.
+
+Answer: D
+
+Question code: B3C17Q041
+Which of the following are examples of market solutions to the problem of externalities?
+(1)	Firms trade with each other for quotas to emit pollutants.
+(2)	A factory, which pollutes a nearby farm, combines with the farm.
+(3)	The government builds a tunnel.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B3C17Q042
+* The government may reduce pollution by issuing pollution permits because
+A.	the government knows the efficient output level and can implement the permit system efficiently.
+B.	the marginal cost of producing the goods will increase as the producers must buy permits to increase production.
+C.	the permits will justify pollution and increase the output level.
+D.	the permits are given to firms exercising social responsibility and cannot be traded.
+
+Answer: B
+
+Question code: B3C17Q043
+If pollution permits are granted and can be traded freely, then
+A.	the pollution level must increase because pollution is legal now.
+B.	the socially optimal output level must not be attained because a government cannot measure the amount of pollution accurately.
+C.	firms will earn higher profits because they can pollute unrestrictedly if they can pay for the permits.
+D.	the marginal private cost of production will increase so that the output level will decrease.
+
+Answer: D
+
+Question code: B3C17Q044
+If there is traffic congestion,
+A.	there is a divergence between private and social costs.
+B.	the government should increase the gasoline tax.
+C.	charging a toll for the use of the road must be efficient.
+D.	All of the above
+
+Answer: A
+
+
+Question code: B3C17Q045
+A textile factory discharges pollutants into a river, threatening the health of downstream residents. Which of the following is true?
+A.	Market transaction could solve the problem of pollution, regardless of the transaction cost involved.
+B.	A tax should be imposed to limit the factory's production.
+C.	Relocating the factory may be efficient.
+D.	None of the above
+
+Answer: C
+
+Question code: B3C17Q046
+Some people watch a football match from the roofs of nearby buildings without paying. Which of the following is correct?
+A.	The government should intervene since it is dangerous to stand on building roofs.
+B.	There is a divergence between private and social benefits.
+C.	The football clubs should find ways to charge the people who watch from the roof.
+D.	None of the above
+
+Answer: B
+
+Question code: B3C17Q047
+Beekeeper's bees help pollinate fruit trees in a nearby orchard. At the same time, the bees collect honey from the fruit trees. Which of the following is correct?
+A.	As there are external benefits, there is underproduction.
+B.	The beekeeper should be paid for his pollination services.
+C.	The government should subsidise the orchard owner to improve economic efficiency.
+D.	There may be no divergence between private and social benefits.
+
+Answer: D
+
+
+Question code: B3C17Q048
+If the cost of monitoring pollutant emissions is extremely high, then
+A.	the introduction of emission trading may not solve the problem of externality.
+B.	the introduction of emission trading will be efficient.
+C.	the government must intervene to stop pollution.
+D.	the level of pollutant emissions must be equal to the level permitted.
+
+Answer: A
+
+Question code: B3C17Q049
+If there is a transaction cost, then the market exchange for correcting the negative externality
+A.	must not work because the transaction cost must lead to a failure of market exchange.
+B.	must work because the market solution is always the best solution.
+C.	may still work when the transaction cost is small.
+D.	may still work when the gain from market exchange is greater than the transaction cost.
+
+Answer: D
+
+Question code: B3C17Q050
+Internalisation means that
+A.	firms solve externalities via their internal divisions.
+B.	firms reduce or remove harmful externalities through integration with each other.
+C.	firms or people involved in harmful externalities will find their own ways to reduce or remove externalities.
+D.	firms or people gain from internal economies of scale.
+
+Answer: C
+
+Question code: B3C17Q051
+In Hong Kong, some bus operators try to reduce air pollution by buying new bus models which emit fewer pollutants. This is an example of
+A.	market exchange.
+B.	integration.
+C.	self-restraint.
+D.	government intervention.
+
+Answer: C
+
+Question code: B3C17Q052
+A cattle raiser erects a fence to prevent the cattle from damaging his neighbour's crops. This is an example of
+A.	subsidisation.
+B.	substitution.
+C.	integration.
+D.	internalisation.
+
+Answer: D
+
+Question code: B3C17Q053
+The problem of externality can be solved by combining separate firms into one under the same ownership because
+A.	the combined firm will enjoy economies of scale.
+B.	private costs become external costs.
+C.	the combined firm must be under public ownership and so it will be concerned about society.
+D.	the new firm will try to maximise the total gain from all activities under its control.
+
+Answer: D
+
+Question code: B3C17Q054
+There is emission trading (排污交易) between Country A (a developing country) and Country B (a developed country). Which of the following is correct?
+A.	To achieve efficiency, most of the pollution permits should be assigned to Country A as it does not have money to buy the permits.
+B.	It is fair for Country A to have more pollution permits as the pollution level in Country A should be lower.
+C.	If the transaction costs are negligible, the initial assignment of pollution permits will not affect the result of resource allocation.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B3C17Q055
+To attract more customers, a stall at a book fair employs a young model to distribute its free gift. Which of the following is correct?
+A.	To achieve efficiency, all other stalls at the book fair should pay the stall mentioned as they enjoy the external benefits from the employment of the young model.
+B.	As the stall mentioned attracts customers from other stalls, it should compensate other stalls for their losses.
+C.	The activity mentioned is just a means of non-price competition. Thus, no externality exists.
+D.	None of the above
+
+Answer: D
+
+Question code: B3C17Q056
+To attract more customers, a stall at a book fair employs a young model to distribute its free gift. This attracts a group of amateur photographers to take photographs of the young model. Some stalls claim that the photographers disturb their business operation. Which of the following is correct?
+A.	The stall which employs the young model should pay compensation to the affected stalls.
+B.	If the transaction cost of obtaining compensation is extremely high, the affected stalls may choose to do nothing.
+C.	If the affected stalls have the right to compensation, the problem of harmful externality must be solved.
+D.	There is a divergence between private and social costs as the group of amateur photographers can take photographs of the young model free of charge.
+
+Answer: B
+Explanation
+Option D is not correct. The reason for the existence of the divergence between private and social costs is not based on the price charged for taking photographs. Even the photographers need to pay a positive money price, if their actions harm other parties but if they do not pay compensation to the affected parties, the divergence between private and social costs will exist.
+
+
+Question code: B3C17Q057
+To attract more customers, a stall at a book fair employs lots of young models to distribute its free gift. This attracts a group of amateur photographers who take photographs of the young models. Some stalls claim that the photographers disturb their business operations. Suppose the transaction costs involved are negligible and property rights are well-defined. Which of the following is correct?
+A.	If the photographers have the right to take photographs and do not need to compensate the affected stalls, then they will take more photographs at the book fair.
+B.	If the affected stalls have the right to compensation from the photographers, no photographer will appear at the book fair.
+C.	Regardless of the assignment of the property right, the problem of harmful externality can be solved by market exchange.
+D.	Regardless of the assignment of the property right, the affected stall will be efficient and receive the same amount of compensation.
+
+Answer: C
+
+Question code: B3C17Q058
+Suppose there is no beneficial externality and the transaction costs involved are negligible. A factory's production now pollutes a fish farm. Which of the following is correct?
+A.	The production will not be efficient if the potential gain from correcting the externality is small.
+B.	The factory will stop polluting the fish farm.
+C.	However the property rights are assigned, if the rights are well-defined, the production will be efficient.
+D.	If the factory has the right to pollute, it will ignore the fish farm and continue to emit pollutants. This leads to deadweight loss.
+
+Answer: C
+
+
+Question code: B3C17Q059
+Andy owns a factory that pollutes a small pool. Which of the following statements is correct?
+A.	This is an example of a public good as the small pool can be used by all individuals at the same time.
+B.	Inefficiency exists because the government does not impose a regulation to restrict Andy's behaviour.
+C.	Nearby residents can request compensation from Andy.
+D.	The problem of harmful externalities may not exist if Andy owns the pool.
+
+Answer: D
+
+Question code: B3C17Q060
+Government intervention is justified if
+A.	the market fails to allocate resources efficiently.
+B.	the resource allocation favours the rich.
+C.	it can increase income levels.
+D.	None of the above
+
+Answer: D
+Explanation
+Option A is incorrect. Government intervention may not be efficient if the cost of government intervention is greater than its benefit.
+
+Question code: B3C17Q061
+Even if there is a problem of externalities, it is not necessary for the government to intervene. This is because
+A.	government intervention involves a high cost.
+B.	a market solution is preferred by the public.
+C.	government intervention may not be the least costly method.
+D.	it is impossible for the government to allocate resources efficiently.
+
+Answer: C
+
+
+Question code: B3C17Q062
+When there is a negative externality,
+A.	the private cost is higher than the social cost.
+B.	the government must intervene.
+C.	the government can subsidise production.
+D.	output is higher than the efficient level.
+
+Answer: D
+
+Question code: B3C17Q063
+If there is a divergence between private and social benefits,
+A.	the private benefit is smaller than the external benefit.
+B.	an external cost exists.
+C.	inefficiency may exist due to underproduction.
+D.	the government must take action to correct it.
+
+Answer: C
+
+Question code: B3C17Q064
+Which of the following statements is correct?
+(1)	When tackling the problem of externalities, market solutions are preferred to government intervention.
+(2)	The cost of government intervention may be greater than the reduction in deadweight loss due to the government intervention.
+(3)	Market solutions to the problem of externalities cannot take place if private property rights are not well-defined.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B3C17Q065
+A private good is
+A.	owned by private individuals.
+B.	produced by private enterprises.
+C.	rival in consumption.
+D.	a positive-priced good.
+
+Answer: C
+
+Question code: B3C17Q066
+A public good is
+A.	a good with an excess supply at zero price.
+B.	a good whose consumption involves zero cost.
+C.	a good that is difficult to prevent non-payers from using.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C17Q067
+Which of the following is true?
+A.	A private good is a consumer good.
+B.	A public good is not scarce.
+C.	A private good can only be consumed by the buyer.
+D.	A public good can be consumed concurrently by many people.
+
+Answer: D
+
+Question code: B3C17Q068
+Which of the following is INCORRECT?
+A.	A private good is scarce.
+B.	A public good is scarce.
+C.	There is no competition in the provision of public goods.
+D.	There may be no competition in the consumption of public goods.
+
+Answer: C
+
+
+Question code: B3C17Q069
+Private goods are goods of which
+A.	one's consumption reduces the amount produced.
+B.	one's consumption increases the amount available for others' consumption.
+C.	one's consumption will not increase the amount available for others' consumption.
+D.	one's consumption reduces the amount available for others' consumption.
+
+Answer: D
+
+Question code: B3C17Q070
+Public goods are goods which are
+A.	provided by the government.
+B.	distributed freely.
+C.	consumed by the public.
+D.	non-rival and non-excludable in consumption.
+
+Answer: D
+
+Question code: B3C17Q071
+Which of the following is a private good provided by public enterprises?
+A.	Public hospital services
+B.	National defence
+C.	TV programmes provided by the government
+D.	An article written by Bill Gates
+
+Answer: A
+
+Question code: B3C17Q072
+Which of the following is a public good provided by the private sector?
+A.	A fireworks show held by the government
+B.	A bottle of distilled water
+C.	An economics textbook
+D.	Microsoft Office software
+
+Answer: D
+
+
+Question code: B3C17Q073
+Which of the following comes closest to a private good?
+A.	A song sung by Joey Yung
+B.	A smartphone
+C.	Philosophical articles written by Henry David Thoreau
+D.	A well-maintained garden
+
+Answer: B
+
+Question code: B3C17Q074
+Which of the following is the closest to a public good?
+A.	A Jan Lamb (林海峰) talk show
+B.	The manuscript prepared for Jan Lamb's talk show
+C.	A video recording of Jan Lamb's talk show
+D.	Souvenirs sold at Jan Lamb's talk show
+
+Answer: C
+
+Question code: B3C17Q075
+Which of the following comes closest to a public good?
+A.	A hot dog
+B.	Beatles' songs
+C.	A television set
+D.	A public fish pond
+
+Answer: B
+
+Question code: B3C17Q076
+Which of the following comes closest to a private good?
+A.	A TV programme
+B.	Wi-Fi wireless internet access services
+C.	Newspapers distributed at MTR stations
+D.	An advertisement on a bus
+
+Answer: C
+
+
+Question code: B3C17Q077
+Stephy has dinner with her boyfriend and pays the bill. This is an example of
+A.	an externality because Stephy's boyfriend does not pay for his dinner.
+B.	a free good because Stephy's boyfriend can have his dinner for free.
+C.	a public good because Stephy shares her money with her boyfriend.
+D.	distributing output by prices because Stephy enjoys her dinner and pays the bill.
+
+Answer: D
+
+Question code: B3C17Q078
+Public goods are goods which are
+A.	rival and excludable.
+B.	rival and non-excludable.
+C.	non-rival and excludable.
+D.	non-rival and non-excludable.
+
+Answer: D
+
+Question code: B3C17Q079
+A public computer in a library is a _____________ because ____________.
+A.	private good … it is produced by private firms
+B.	private good … it is rival in consumption
+C.	public good … it is placed in public areas
+D.	public good … everyone can use it
+
+Answer: B
+
+Question code: B3C17Q080
+National defence is an example of a public good because
+A.	all citizens are willing to pay for it.
+B.	it can be consumed by all citizens at the same time.
+C.	it is paid for with public funds.
+D.	it is provided by the government.
+
+Answer: B
+
+
+Question code: B3C17Q081
+Suppose an MP3 song by Andy Lau is now downloadable at his official website free of charge, and Andy Lau announces that all his fans may freely distribute the song to anyone. Which of the following is correct?
+A.	The song is not a public good because it can only be freely shared on the internet.
+B.	The song can be regarded as a private good because Andy Lau holds the private property rights to it.
+C.	The song is a public good as it can be consumed by nearly all individuals at the same time.
+D.	The song is a private good because a computer is needed to store it and play it.
+
+Answer: C
+
+Question code: B3C17Q082
+We would NOT regard a good as a 'public good' if
+A.	it is not provided by the government.
+B.	it is not consumed by the public.
+C.	it is not financed by public funds.
+D.	rivalry exists in its consumption.
+
+Answer: D
+
+Question code: B3C17Q083
+The City Forum (城市論壇) in Victoria Park can be regarded as a public good because
+A.	the audience can participate free of charge.
+B.	the speakers do not receive any payment.
+C.	only a few individuals are interested in the Forum.
+D.	it can serve many individuals at the same time.
+
+Answer: D
+
+Question code: B3C17Q084
+Which of the following is the best example of public goods?
+A.	Computers in a public library
+B.	A public park
+C.	An apple tree
+D.	An economic theory
+
+Answer: D
+
+Question code: B3C17Q085
+Which of the following is an example of public goods?
+A.	Free music on the web
+B.	Fish in the sea
+C.	Medical services
+D.	A public library
+
+Answer: A
+
+Question code: B3C17Q086
+A public good 
+A.	is a free good.
+B.	may be used by non-payers because it is too difficult to exclude or prevent people from consuming it.
+C.	should be provided by the government.
+D.	All of the above
+
+Answer: B
+
+Question code: B3C17Q087 (new)
+David's home is near a cinema. He is annoyed by noise from the cinema. Which of the following about the case is correct?
+A.	There is underproduction at off-peak hours.
+B.	The problem may be solved if the cinema provides David with free movie tickets every month.
+C.	There is overproduction as the cinema does not consider David's private benefit.
+D.	None of the above
+
+Answer: B
+
+Question code: B3C17Q088 (new)
+After a famous restaurant opened a branch in a shopping mall, more people were attracted to the mall and sales at other shops improved. Which of the following about the case is correct?
+A.	There is a divergence between private and social costs and thus underproduction exists.
+B.	There is an external cost as other shops have to serve more customers.
+C.	Although there is a problem of externality, the parties may take no action to solve the problem.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C17Q089 (new)
+Rex Tso is a famous boxer from Hong Kong. He has had 19 consecutive wins up to May, 2016. Which of the following are the external benefits that he generates?
+(1)	An increase in the sales of a sports brand which sponsors him
+(2)	An increase in the number of students at boxing clubs in Hong Kong
+(3)	The good body shape he gains during training
+(4)	The pride he shares with Hong Kong people
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: D
+
+Question code: B3C17Q090 (new)
+Michael is addicted to gambling. Which of the following are the private costs he faces?
+(1)	The loans he needs to repay
+(2)	The time he spends on gambling addiction treatment
+(3)	The money he wins from others
+(4)	The threats his family faces from loan sharks
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+
+Question code: B3C17Q091 (new)
+Which of the following will intensify negative externality in Hong Kong?
+(1)	Introducing a domestic waste charge
+(2)	Reducing the punishment for reckless driving
+(3)	Increasing the tax allowance for buying private cars
+(4)	Increasing charges for public hospitals
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: C
+
+Question code: B3C17Q092 (new)
+Banksy is a famous British graffiti artist who does not receive remuneration for his street art. Many people appreciate his artwork and look forward to seeing it in more places. Which of the following may help solve the externality involved in this case?
+A.	A rich lady pays Banksy for more paintings in her home town.
+B.	The government erases Banksy's artwork.
+C.	Some children learn painting skills from Banksy's artwork.
+D.	None of the above
+
+Answer: A
+
+Question code: B3C17Q093 (new)
+Which of the following is an example of positive externality?
+A.	A driver leaves the engine of his car idling (引擎空轉) while waiting for his boss.
+B.	A singer appreciates the performance of a street dancer and employs the dancer.
+C.	A passenger enjoys news programmes broadcast in MTR stations.
+D.	A masked man fights crime without any reward.
+
+Answer: D
+
+Question code: B3C17Q094 (new)
+Which of the following illustrates the divergence between social and private costs?
+A.	A bodyguard gets hurt while protecting his boss.
+B.	A pop singer's ex-boyfriend is annoyed by paparazzi (狗仔隊).
+C.	A famous film star visits a restaurant, which becomes more popular afterwards.
+D.	A house is destroyed by a tornado (龍捲風).
+
+Answer: B
+
+
+Question code: B3C17Q095 (new)
+Which of the following is an example of a divergence between private and social costs?
+(1)	Water dripping from an air-conditioner
+(2)	A traffic jam caused by a man who commits suicide in the midst of a highway
+(3)	A waiter who watches a drama show on a TV set installed in the restaurant.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C17Q096 (new)
+An audience member proposes (求婚) to his girlfriend at a concert of a band team without giving prior notice to the organiser. As a result, the concert overran its allotted time. Which of the following are external costs of the audience's action?
+(1)	Money paid to buy an engagement ring
+(2)	Income received by another audience member from selling photos of the occasion to the press
+(3)	The penalty the band team paid for using the concert venue longer than it should have
+(4)	Cancellation of some songs that would have been performed
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2) and (3) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+Question code: B3C17Q097 (new)
+Which of the following is a measure that can be used to correct the problem of beneficial externality?
+A.	Distributing free-of-charge meals to the homeless
+B.	Paying an entrance fee to visit Disneyland
+C.	Subsidising a factory to install a sewage system
+D.	Providing funding to universities for offering more degree programmes
+
+Answer: D
+
+Question code: B3C17Q098 (new)
+Which of the following are ways to correct the problem of external costs?
+(1)	Imposing stamp duty on property transactions
+(2)	Acquisition of nearby residential properties by a funeral service provider
+(3)	Fines for passengers who engage in violent behaviour aboard aircraft
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B3C17Q099 (new)
+Some people in Indonesia lie on railway tracks when trains approach as they believe that the electric current on the tracks can cure illnesses. Yet, their pursuit of the free-of-charge railway 'electric therapy' (「卧軌電療」) may pose a danger to both themselves and the trains passing by.
+Which of the following about this case is correct?
+A.	People will not pursue 'electric therapy' if Indonesia's public railway is privatised.
+B.	The government may solve the problem of externality by regulation.
+C.	There is no externality if the value of the 'electric therapy' is higher than the railway ticket price.
+D.	The railway service provider should be subsidised for the external benefit it generates.
+
+Answer: B
+
+Question code: B3C17Q100 (new)
+Some tourists carve words on historic monuments, which cause serious damage. Which of the following is correct?
+A.	No corrective measures are needed if the amount these tourists spend is greater than the external costs.
+B.	The government should exact punishment to enhance economic efficiency.
+C.	There is no externality if the tourists paid to visit the monuments.
+D.	None of the above
+
+Answer: D
+
+
+Question code: B3C17Q101 (new)
+A public basketball court is a __________ because __________.
+A.	public good … it is open to the public
+B.	public good … it can be used repeatedly
+C.	private good … when some people use it, others may not be able to use it
+D.	private good … some people are not allowed to use it
+
+Answer: C
+
+Question code: B3C17Q102 (new)
+Teddy broadcasts his video gameplay on Facebook from 9:30 pm to 11:30 pm every weekday night. The broadcast is a 
+A.	private good because only Teddy plays the games.
+B.	private good because people must watch it on Facebook.
+C.	public good because watchers do not have to pay for it.
+D.	public good because many people can watch it at the same time.
+
+Answer: D
+
+Question code: B3C17Q103 (new)
+Facebook users can now make live broadcasts (i.e., take videos and share with other users at the same time). The live videos are
+A.	public goods if everyone can watch the live videos with the broadcaster's permission.
+B.	private goods if the videos are uploaded by private individuals.
+C.	producer goods as the production of these videos requires factors of production.
+D.	consumer goods if the videos are watched by other users.
+
+Answer: D
+
+Question code: B3C17Q104 (new)
+A government official has proposed building a swimming shed (泳棚) in Central. The swimming shed is a _____________ in peak seasons because ____________.
+A.	private good ... it is only available for people in Central
+B.	private good ... one's consumption reduces the amount available for others' consumption
+C.	public good ... it has been proposed by a government official
+D.	public good ... it is a public facility and everyone can use it
+
+Answer: B
+
+Question code: B3C17Q105 (new)
+Recipes in cookbooks are 
+A.	private goods because they are created by chefs privately.
+B.	private goods because the authors have an exclusive right to the cookbooks.
+C.	public goods because everyone can use the recipes when cooking.
+D.	public goods because different people can read the cookbooks.
+
+Answer: C
+
+Short Questions
+
+Question code: B3C17Q301
+Mary says, 'Without government intervention, when a perfectly competitive market is in equilibrium, efficiency in resource allocation must be achieved.' Do you agree? Explain your answer.	(7 marks)
+
+Answers:
+•	No.	(1 mark)
+•	Market equilibrium is attained when the price has no tendency to change, i.e., at the intersection point of the demand and supply curves.	(1 mark)
+•	Efficiency in resource allocation is achieved when total social surplus is maximised.	(1 mark)
+•	When there is an externality, market equilibrium will be attained when marginal private benefit is equal to marginal private cost. 	(1 mark)
+•	However, the condition for efficiency occurs when marginal social benefit is equal to marginal social cost. 	(1 mark)
+•	As economic agents only consider their own interests and ignore the gain or loss of the third party, their output level will be different from the efficient level and deadweight loss exists even at market equilibrium. In this case, attaining market equilibrium may not achieve efficiency in resource allocation.	(2 marks)
+
+Question code: B3C17Q302
+'If inefficiency exists due to a problem of harmful externalities, the government must take action to correct the market.' 
+Do you agree? Briefly explain your answer.	(2 marks)
+
+Answers:
+No. The cost of government intervention may be higher than its potential benefit (i.e., the reduction in deadweight loss). Thus, the government's action to correct the market may lead to a greater loss to society.	(2 marks)
+
+Question code: B3C17Q303
+What is market failure? Explain your answer with the concept of externality.
+	(3 marks)
+
+Answers: 
+•	Market failure is a situation in which the market fails to allocate resources efficiently, i.e., total social surplus is not maximised.	(1 mark)
+•	When there is an externality, economic agents will ignore the effect of their actions on other parties. Thus, they will overproduce or underproduce and so total social surplus will not be maximised. Market failure exists.	(2 marks)
+
+Question code: B3C17Q304
+State TWO private costs of drink-driving (酒後駕駛) and TWO external costs of drink-driving.	(4 marks)
+
+Answers: 
+Private costs:
+•	Possible injuries to the driver himself
+•	Possible fines to be paid if one gets caught
+•	Possible repair expenses incurred from car accidents
+(Any TWO of the above of other reasonable answers. 1 mark × 2 = 2 marks)
+External costs:
+•	Possible injuries affecting other road users
+•	Possible road blockage that results from car accidents
+•	Possible repair expenses of other drivers' cars as the result of accidents
+(Any TWO of the above of other reasonable answers. 1 mark × 2 = 2 marks)
+
+
+Question code: B3C17Q305
+What is an external benefit? Give ONE example.	(3 marks)
+
+Answers: 
+An external benefit exists when someone's action benefits others but he receives no payment.	(2 marks)
+Examples:
+•	The creation of new knowledge
+•	Education
+(Any ONE of the above of other reasonable answers. 1 mark)
+
+Question code: B3C17Q306
+An elderly person talks loudly to a security guard every morning. This annoys residents on the lower floors.
+Suggest THREE possible ways to solve the problem.	(3 marks)
+
+Answers: 
+•	Paying the elderly person to lower his voice
+•	Relocating the affected residents to other flats
+•	Encouraging the elderly person to lower his voice / Encouraging the elderly person to talk in other places
+•	Installing soundproof windows in the affected flats
+(Any THREE of the above of other reasonable answers. 1 mark × 3 = 3 marks)
+
+Question code: B3C17Q307
+A magician practises his tricks on a train. Nearby passengers enjoy his tricks.
+Explain the problem of externalities in this case. Suggest ONE possible ways to solve the problem.	(3 marks)
+
+Answers: 
+There is a beneficial externality. Some passengers enjoy the magician's tricks but they do not pay the magician.	(2 marks)
+Possible ways to solve the problem:
+•	Paying the magician for his magic tricks
+•	Providing subsidies to encourage more magic tricks
+(Any ONE of the above of other reasonable answers. 1 mark)
+
+
+Question code: B3C17Q308
+Suggest ONE solution to the problem of beneficial externalities using a real life example.	(2 marks)
+
+Answers:
+•	Subsidisation, e.g., innovation funds
+•	Market exchange, e.g., the inventor receives a patent and possesses the exclusive right to derive income from it
+(Any ONE of the above or other reasonable answers with ONE relevant example. 
+2 marks)
+
+Question code: B3C17Q309
+Suggest ONE government solution to the problems of externalities. Also state ONE real-life example.	(2 marks)
+
+Answers: 
+•	Taxation, e.g., duty on tobacco, plastic bag levy
+•	Subsidisation, e.g., subsidies to medical services, research grants
+•	Restriction or removal by regulation, e.g., requiring a factory to move to other places
+•	Public ownership, e.g., schools owned and run by the government
+(Any ONE of the above with ONE relevant example. 2 marks)
+
+Question code: B3C17Q310
+In Hong Kong, if a person over 18 years old commits a murder, he will be sentenced to life in prison (終身監禁).
+Student A says, 'There is a divergence between private and social costs in a murder case.'
+Explain whether the student is correct.	(3 marks)
+
+Answers: 
+The statement is correct. The private cost of a murder is equal to the value to the murderer of being in prison for life. However, society also has to bear an external cost for the murder, i.e., the value of the victim's life and the cost to put the murderer into prison. Thus, there is a divergence between private and social costs.	(3 marks)
+
+
+Question code: B3C17Q311
+Explain why smoking can be an example of negative externality.	(3 marks)
+
+Answers: 
+•	When a person smokes, he only considers his private costs, such as the cost of buying cigarettes.	(1 mark)
+•	His smoke may harm the health of other people and pollute the environment.
+	(1 mark)
+•	However, he does not compensate the affected people or pay for his pollution.
+	(1 mark)
+
+Question code: B3C17Q312
+A neighbour frequently eats durians (榴槤). He always eats with his door and window opened.
+(a)	Explain why his behaviour can be an example of divergence between private and social costs.	(2 marks)
+(b)	Explain why his behaviour can be an example of divergence between private and social benefits.	(2 marks)
+
+Answers: 
+(a)	The neighbour only considers his private costs, such as the price of durians, and does not compensate nearby residents who hate durians and are bothered by the smell of durians.	(2 marks)
+(b)	The neighbour only considers his private benefits such as the taste of durians and does not receive payments from nearby residents who love durians and enjoy their smell.	(2 marks)
+
+Question code: B3C17Q313
+'Private cost is a cost borne by a private firm, while social cost is a cost borne by a social enterprise.' Use the definitions of private cost and social cost to explain why the statement is INCORRECT.	(4 marks)
+
+Answers: 
+•	Private cost is the cost borne by the economic agent taking the action.	(1 mark)
+•	Social cost is the cost borne by society as a whole.	(1 mark)
+•	Thus, both the private cost and social cost may be borne by a private firm and a social enterprise. The main difference is that the private cost includes only the cost borne by the economic agent taking the action, while the social cost includes both private cost and the external cost borne by other economic agents affected by the action.	(2 marks)
+
+Question code: B3C17Q314
+'Private cost is a part of the social cost, but the social cost may not be the private cost.' Do you agree? Briefly explain your answer.	(3 marks)
+
+Answers: 
+•	Yes.	(1 mark)
+•	As the economic agent taking the action is a member of society, his cost should be included in the social cost.	(1 mark)
+•	When an external cost exists, the social cost will be greater than the private cost. Thus, the social cost may not be the private cost.	(1 mark)
+
+Question code: B3C17Q315
+'There is a negative externality if a social cost exists.' Do you agree? Briefly explain your answer.	(3 marks)
+
+Answers: 
+•	No.	(1 mark)
+•	Social cost is the cost borne by society as a whole. It is equal to the sum of the private cost and the external cost.	(1 mark)
+•	Thus, a social cost exists even if a negative externality does not exist. It is equal to the private cost in this case.	(1 mark)
+
+Question code: B3C17Q316
+'Although a factory pollutes the surrounding environment, it may still be efficient if it needs to bear all the costs involved in its production.' Do you agree? Briefly explain your answer.	(3 marks)
+
+Answers: 
+•	Yes.	(1 mark)
+•	Provided that the factory considers the cost of polluting the environment, there will be no divergence between the private cost and the social cost. Thus, even if there is pollution, the factory may still be efficient.	(2 marks)
+
+
+Question code: B3C17Q317
+'Education must be subsidised because it generates beneficial externalities.' 
+Do you agree? Briefly explain your answer.	(4 marks)
+
+Answers: 
+•	No. Subsidisation may not be efficient if:	(1 mark)
+(	it is not the least costly method for solving the problem of externalities; or
+	(1 mark)
+(	the benefit from subsidisation is smaller than its cost.	(1 mark)
+•	It is possible that subsidisation may lead to a greater loss to society. For example, the government may have insufficient information to determine how much of a subsidy should be provided. Thus, the cost involved in the provision of a subsidy may be higher than the potential benefit from it.	(1 mark)
+
+Question code: B3C17Q318
+Explain why a deadweight loss exists if there is a divergence between private and social costs.	(3 marks)
+
+Answers: 
+•	An economic agent will consume/produce at the quantity where MPB = MPC.
+	(1 mark)
+•	When there is a divergence between private and social costs, MSC > MPC. Therefore, MSB < MSC (assuming MPB = MSB). There is a deadweight loss due to overproduction.	(2 marks)
+
+
+Question code: B3C17Q319
+List TWO government solutions to the problem of externalities. Discuss ONE potential problem in implementing each solution.	(4 marks)
+
+Answers: 
+•	Taxation or subsidisation:
+(	The government needs to know the levels of divergence between private and social costs (or benefits) but the cost of obtaining this information may be high.
+(	Government officials may be more concerned about their own interests. They may accept bribes to implement policies favourable to the bribers, such as providing a privileged tax exemption or too much of a subsidy.
+•	Restriction or removal: The government needs to know the efficient output level but the cost of obtaining this information may be high.
+•	Public ownership:
+(	This may be implemented through legislation. The cost involved may be high and may outweigh the potential benefit from this solution.
+(	The government may lack incentives to run the firms efficiently.
+(	Some government officials may accept bribes to greatly increase takeover prices.
+(Any TWO of the above with ONE relevant problem for each solution. 2 × 2 marks = 4 marks)
+
+Question code: B3C17Q320
+Louis has opened a music studio in a flatted factory (工廠大廈). Recently, a printing company has moved in. The printing company generates a lot of noise and disturbs Louis's creative work. To solve the problem, John decides to take over the printing company.
+(a)	Explain why the output level of the printing company is NOT efficient.	(3 marks)
+(b)	Explain whether the takeover can help solve the problem in (a).	(3 marks)
+
+
+Answer: 
+(a)	The printing company disturbs Louis's work without compensating him. Thus, there is an external cost / divergence between private and social costs. The marginal social cost will be greater than the marginal social benefit. As a result, the output level of the printing company is greater than the efficient output level. Therefore, the production of the printing company is not efficient.	(3 marks)
+(b)	Yes.	(1 mark)
+	After the takeover, the extra cost of noise pollution imposed upon the music studio will become the private cost of the newly combined firm. Louis will try to maximise the sum of gains from both the music studio and the printing company. As a result, the problem of externality can be solved and efficiency can be achieved.	(2 marks)
+
+Question code: B3C17Q321
+Briefly explain how taxation and subsidisation can solve the problem of externalities.	(8 marks)
+
+Answers: 
+•	The government can correct the problem of harmful externalities by taxation. It should impose a unit tax which is equal to the marginal external cost at the efficient output level.	(2 marks)
+•	After the imposition of the unit tax, the MPC of production is increased by the amount of the unit tax.	(1 mark)
+•	The producers will decrease their output to the efficient level.	(1 mark)
+•	The government can correct the problem of beneficial externalities by subsidisation. It should provide a unit subsidy which is equal to the marginal external benefit at the efficient output level.	(2 marks)
+•	After the provision of the unit subsidy, the MPC of production is decreased by the amount of the unit subsidy.	(1 mark)
+•	The producers will increase their output to the efficient level.	(1 mark)
+
+
+Question code: B3C17Q322
+In 2009, the Hong Kong Government introduced an environmental levy of $0.5 per bag on plastic shopping bags. In terms of efficiency, explain the rationale behind this.	(5 marks)
+
+Answers: 
+•	Plastic bags are harmful to the environment. People usually do not take this into account when they use plastic bags.	(1 mark)
+•	The private cost of using or disposing of a plastic bag is less than the social cost.
+		(1 mark)
+•	Negative externality and overproduction exist.	(1 mark)
+•	The environmental levy can increase the private cost of using plastic bags. As a result, people will use fewer plastic bags and the amount of plastic bags used can be closer to the efficient level.	(2 marks)
+
+Question code: B3C17Q323
+What are the prerequisites for using market exchange to solve the problem of externalities? Briefly explain your answer.	(4 marks)
+
+Answers: 
+•	Property rights are well-defined.	(2 marks)
+•	Transaction costs are smaller than the potential benefits from market exchange.
+	(2 marks)
+
+Question code: B3C17Q324
+Are street lights a public good? Explain.	(5 marks)
+
+Answers:
+•	Yes.	(1 mark)
+•	Street lights are non-rival in consumption because many people can enjoy the light concurrently.	(2 marks)
+•	Street lights are non-excludable in consumption. It is costly to exclude non-payers from enjoying the light.	(2 marks)
+
+
+Question code: B3C17Q325
+What is a public good? Give TWO examples.	(4 marks)
+
+Answers:
+Public goods are goods which are non-rival and non-excludable in consumption.
+	(2 marks)
+Examples:
+•	National defence
+•	Lighthouses
+•	Traffic lights
+(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+Question code: B3C17Q326
+'Books in a public library are public goods because they can be borrowed by any Hong Kong citizen.' Is this statement correct? Explain.	(4 marks)
+
+Answers: 
+•	No.	(1 mark)
+•	Public goods are goods which are non-rival and non-excludable in consumption.
+	(1 mark)
+•	Books in a public library cannot be consumed by all people at the same time.
+	(1 mark)
+•	They are rival in consumption and so are not public goods.	(1 mark)
+
+Question code: B3C17Q327
+'All economic goods are private goods.' Do you agree with this statement? Explain.
+	(4 marks)
+
+Answers: 
+•	No.	(1 mark)
+•	Economic goods are goods whose available quantities are insufficient to satisfy all human wants for them.	(1 mark)
+•	Private goods are goods which are rival and excludable in consumption.	(1 mark)
+•	Some economic goods are not private goods, e.g., national defence and free TV programmes. They are non-rival in consumption but their available quantities are insufficient to satisfy all human wants for them.	(1 mark)
+Thus, economic goods may not be private goods.
+
+
+Question code: B3C17Q328
+What are public goods? Explain their features and give an example of them.	(5 marks)
+
+Answers:
+•	Public goods are goods which are non-rival and non-excludable in consumption.
+		(2 marks)
+•	Non-rivalry in consumption means that one's consumption does not reduce the amount available for other's consumption / they can be consumed by all individuals at the same time / the marginal cost of serving an additional consumer is zero.	(1 mark)
+•	Non-excludability in consumption means that it is too costly to exclude or prevent non-payers from consuming the good.	(1 mark)
+•	Examples of a public good: national defence, free TV programmes, lighthouse services and stage performances.
+	(Any ONE or other correct answer, 1 mark)
+
+Question code: B3C17Q329 (new)
+In Japan, talking on phones on trains is considered rude behaviour. Explain how this behaviour may result in externality.	(3 marks)
+
+Answers:
+Talking on phones on trains may disturb other passengers who not compensated.
+	(1 mark)
+This imposes an external cost on other passengers.	(1 mark)
+Therefore, negative externality may emerge.	(1 mark)
+
+Question code: B3C17Q330 (new)
+Michelin Guide is a famous reference guide for restaurants. Michelin sends secret reviewers to restaurants in different regions and awards stars to the best restaurants.
+It is an honour for restaurants to receive Michelin stars. However, some recommended restaurants do not want to be listed in the guide. Explain ONE external benefit and ONE external cost generated by the recommendation of Michelin Guide.	(4 marks)
+
+Answers:
+External benefit:
+(	The recommended restaurants may benefit from increases in popularity and revenue.
+(	Tourists may save time looking for good restaurants by checking the recommendations online.
+(Any ONE of the above or other reasonable answer. 2 marks)
+(	Original patrons of the recommended restaurants may have to pay higher prices.
+(	Recommended restaurants may lose as landowners may raise rents after the recommendation,
+(Any ONE of the above or other reasonable answer. 2 marks)
+
+Question code: B3C17Q331 (new)
+In Country M, a common practice is burning forests to clear land for farming. After the burning, the land is more fertile. The country's neighbours complain about the air pollution from the fires.
+(a)	Explain whether the above case leads to positive or negative externality.	(3 marks)
+(b)	Suppose Country M has the right to burn forests in its territory. Suggest and explain ONE possible way to solve the externality problem.	(3 marks)
+
+Answers:
+(a)	Burning forests causes air pollution in neighbouring countries but those countries are not compensated.	(1 mark)
+	This imposes an external cost on neighbouring countries.	(1 mark)
+	Therefore, this leads to negative externality.	(1 mark)
+(b)	Neighbouring countries can pay compensation to Country M.	(1 mark)
+	As the cost of burning forests increases, Country M will reduce forest burning and the external cost will decrease.	(2 marks)
+
+Question code: B3C17Q332 (new)
+It is popular for students to study in coffee shops. Some students study there for a very long time and spread their notes all over the tables. Explain how the above behaviour may lead to a divergence between private and social costs.	(3 marks)
+
+Answers:
+As students occupy the seats for very long time, this increases the waiting time for other customers.	(1 mark)
+OR
+Spreading notes all over the tables may leave less room for other customers.
+	(1 mark)
+The students may only consider their private costs without considering the external costs imposed on other customers. This creates a divergence between private and social costs.	(2 marks)
+
+
+Question code: B3C17Q333 (new)
+A politican is visiting City H. As a security measure, many roads have been closed. Citizens complain that the road closure has been inconvenient when they travel to work or to school.
+Explain, in terms of externality, why inefficiency is caused by the road closure.
+	(4 marks)
+
+Answers:
+Harmful externality / Negative externality / Divergence between private and social costs exists.	(1 mark)
+When roads are closed, the affected passengers face an increase in transport cost without compensation. As the marginal social cost is higher than the marginal social benefit, the scale of the road closure exceeds its efficient level.	(3 marks)
+
+Question code: B3C17Q334 (new)
+Some people use news reports or music videos to create derivative works (二次創作) without paying the original creators. Explain, in terms of externality, why inefficiency may exist in the creation of creative works.	(4 marks)
+
+Answers:
+Beneficial externality / Positive externality / Divergence between private and social benefits exists.	(1 mark)
+When derivative works are created, the original videos' copyright holders benefit others but receive no payment.	(1 mark)
+As the marginal social benefit is higher than the marginal social cost, the creation of creative works is below the efficient level.	(2 marks)
+
+Question code: B3C17Q335 (new)
+Many people rush onto trains when the doors are about to close. As a result, a railway company has to have its staff block rushers by standing next to the doors.
+Explain how the act of rushing into trains may lead to externalities.	(3 marks)
+
+Answers:
+Rushing onto trains may cause harm to other passengers / may slow down train service.	(1 mark)
+This imposes a cost on other passengers, but the rushers do not compensate those affected.	(1 mark)
+There is a divergence between private and social costs.	(1 mark)
+
+
+Question code: B3C17Q336 (new)
+Explain whether the following are public goods.
+(a)	4G mobile internet signal provided by a telecommunication service provider
+	(3 marks)
+(b)	A free smartphone app published by a shopping mall	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	Only customers of the provider can enjoy the signal. Hence, the signal is excludable.	(2 marks)
+(b)	Yes.	(1 mark)
+	Everyone can download and use the app without reducing the amount available to others. Therefore, the app is both non-excludable and non-rival.	(2 marks)
+
+Question code: B3C17Q337 (new)
+A sports broadcasting firm has aired live broadcasts of certain soccer matches on its YouTube channel. Anyone can watch the matches online free of charge.
+Explain whether the live broadcast on YouTube is a public good.	(3 marks)
+
+Answers:
+Yes.	(1 mark)
+People can watch the live broadcast without reducing the amount available for others' consumption. The live broadcast is non-rival in consumption.	(2 marks)
+
+Question code: B3C17Q338 (new)
+A government official plans to set up a sunbathing area in a coastal location. People can enjoy sunbathing free of charge there.
+Explain whether the sunbathing area in the summer is a
+(a)	free good; and	(2 marks)
+*(b)	public good.	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	The construction of the sunbathing area requires scarce resources which have alternative uses.	(1 mark)
+	OR
+	People prefer to have more places to sunbathe.	(1 mark)
+(b)	No.	(1 mark)
+	The sunbathing area is limited. When someone enjoys sunbathing in the summer, he will reduce the amount available for others' consumption. The sunbathing area is rival in consumption.	(2 marks)
+
+Question code: B3C17Q339 (new)
+* A singer organised a concert at the Central Harbourfront Event Space. For safety reasons, all canvas (帆布) surrounding the concert venue were removed. When the concert was held, the area around the concert venue was full of people, who hoped to hear the music free of charge.
+Explain why the concert is an example of a public good.	(4 marks)
+
+Answers:
+The concert is non-excludable as the organiser cannot prevent people outside the concert venue from listening to the music.	(2 marks)
+The concert is non-rival because one's enjoyment of the music would not reduce the amount available for others.	(2 marks)
+
+
+Structured Questions
+
+Question code: B3C17Q501
+Before the sale of their properties, some property developers pay to repair and maintain the external walls of nearby buildings.
+(a)	Explain if the repair and maintenance of external walls involves externalities.
+	(3 marks)
+(b)	Explain if the above practice of property developers involves externalities.
+	(3 marks)
+(c)	(i)	What is a public good?	(2 marks)
+(ii)	Are the external walls of properties a public good? Explain.	(5 marks)
+
+Answers:
+(a)	Yes.	(1 mark)
+	Passersby benefit from the reduced danger. However, they do not compensate the property owners for the repair and maintenance work.	(2 marks)
+
+(b)	No.	(1 mark)
+	Although the property developers benefit from repaired and maintained external walls, they have paid for it.	(2 marks)
+
+(c)	(i)	Public goods are goods which are non-rival and non-excludable in consumption.	(2 marks)
+(ii)	No.	(1 mark)
+	The external walls are rival in consumption. For example, once an advertisement is posted on the external walls, other advertisements cannot be posted.	(2 marks)
+	The external walls are excludable in consumption. The property owners can exclude non-payers from using the external walls.	(2 marks)
+
+Question code: B3C17Q502
+It has been found that agriculture is responsible for about 14% of the world's greenhouse gases (溫室氣體). Most emissions from agriculture are methane (甲烷), which comes from ruminant animals (反芻動物) (e.g., cows). Methane is produced during digestion. Thus, if we consume more beef, more cows will graze and so more methane will be emitted.
+(a)	Explain briefly why the beef market is inefficient.	(3 marks)
+(b)	To protect domestic agriculture, the government of Country A provides a huge unit subsidy to agriculture.
+	Student A says, 'The provision of a subsidy will benefit society.' 
+	Explain whether Student A is correct.	(3 marks)
+(c)	Countries in Virtual Earth hold a climate change conference to settle their problems. Suppose all countries have perfect information. Can the following policies help solve the problem in (a)? Briefly explain your answer.
+(i)	All countries impose unit taxes on the production of beef.	(3 marks)
+(ii)	All countries set a restriction on the number of grazing cows.	(3 marks)
+
+Answers:
+(a)	•	The market for beef is inefficient because there is a divergence between private and social costs. 	(1 mark)
+•	The producers of beef ignore the external cost (the emission of methane) they impose on the rest of the world. Thus, they overproduce beef and this leads to a deadweight loss.	(2 marks)
+
+(b)	•	The provision of a subsidy will increase the output level. As there is a negative externality in the beef market, the increase in output level will worsen the problem of overproduction.	(2 marks)
+•	Therefore, Student A is not correct.	(1 mark)
+
+(c)	(i)	As governments have perfect information, the unit tax will be equal to MEC at the efficient output level. The marginal private costs of beef producers will increase by the amount of the unit tax. Then, the output level for beef will decrease to the efficient level where MSB = MSC. Thus, the policy can help solve the overproduction problem.	(3 marks)
+(ii)	As governments have perfect information, the quota will be set at the efficient output level. Then, the output level of beef will decline to the efficient level where MSB = MSC. Thus, the policy can help solve the overproduction problem.	(3 marks)
+
+Question code: B3C17Q503
+Some politicians have called on the HKSAR government to resume the building of Home Ownership Scheme (HOS) flats. However, some property developers argue that the provision of HOS flats is inefficient and harmful to the property market as well as society.
+(a)	State ONE private cost and external cost of building HOS flats.	(2 marks)
+(b)	State ONE private benefit and external benefit of building HOS flats.	(2 marks)
+(c)	Are HOS flats public goods? Explain.	(3 marks)
+*(d)	Suppose the government decides to change the use of some land from private residential use to HOS flats. Explain under what situation the building of HOS flats would lower private property prices.	(3 marks)
+
+Answers: 
+(a)	Private cost:
+•	Wages to construction workers
+•	Value to the government from the highest valued alternative use of the construction site
+	(Any ONE of the above or other reasonable answers. 1 mark)
+	External cost:
+•	Noise pollution suffered by neighbours
+•	Temporary decrease in revenue of nearby shops
+	(Any ONE of the above or other reasonable answers. 1 mark)
+
+(b)	Private benefit:
+•	Revenue from selling HOS flats
+•	Increased popularity of the government
+	(Any ONE of the above or other reasonable answers. 1 mark)
+	External benefit:
+•	Future increase in revenue of nearby shops
+•	Development of the transport system
+	(Any ONE of the above or other reasonable answers. 1 mark)
+
+(c)	No.	(1 mark)
+	HOS flats are rival and excludable in consumption.	(2 marks)
+
+(d)	Building HOS flats will lower the demand for private property.	(1 mark)
+	Changing the use of land will lower the supply of private property.	(1 mark)
+	Private property prices will fall if the decrease in demand is greater than the decrease in supply.	(1 mark)
+
+Question code: B3C17Q504
+Many years ago, no one owned the elephants in Kenya (肯亞) and Zimbabwe (津巴布韋). A large number of elephants were hunted for their ivory (象牙). 
+In 1977, Kenya banned the hunting of elephants. However, the country's elephant population declined from 75,300 in 1977 to just 16,000 in 1989.
+In Zimbabwe, the right to benefit from, dispose of, and manage natural resources (including the right to allow safari hunting) devolved (下放) to the local level in 1989. Between 1989 and 2005, the total elephant population more than doubled from 37,000 to 85,000.
+(a)	Explain briefly why the killing of elephants is inefficient without government intervention.	(4 marks)
+(b)	Suppose Kenya's ban against elephant hunting had been perfectly enforced and no illegal hunting existed. Explain under what situation the ban can be inefficient.
+	(2 marks)
+(c)	Based on the information above, explain why the number of elephants has increased in Zimbabwe.	(3 marks)
+
+Answers:
+(a)	•	When a person kills elephants, he only considers his private costs (e.g., expenses for bullets and time cost).	(1 mark)
+	•	He does not take his damage to the ecological environment (e.g., extinction of elephants) into account and does not need to pay compensation.	(2 marks)
+	•	Therefore, his private cost is less than the social cost and so the number of elephants being killed is greater than the efficient level.	(1 mark)
+
+(b)	The ban will reduce the quantity of elephants being hunted to zero. Provided that the marginal social benefit from hunting an elephant is greater than the marginal social cost, this level of output is not efficient.	(2 marks)
+
+(c)	As people can earn income from selling the right to hunt the elephants, they have an incentive to expend resources on protecting the elephants as the elephants are valuable to them. They may even try to hasten reproduction by the elephants.
+	(3 marks)
+
+Question code: B3C17Q505 (new)
+The government proposes introducing 600 premium service taxi franchises. Some ordinary taxi owners have threatened to block roads to oppose the proposal.
+(a)	With the aid of a supply-demand diagram, explain the effect of introducing premium service taxis on the price of ordinary taxi licenses.	(6 marks)
+(b)	Suppose the proposal has been passed and the charge for premium service taxis is higher than for ordinary taxis. If both types of taxis charge passengers a $2 fuel surcharge per trip, explain how the proportion of passengers taking premium service taxis would change.	(3 marks)
+(c)	Explain the externality caused by taxi owners if they block roads.	(3 marks)
+(d)	A wifi signal will be provided in premium service taxis. Explain whether the wifi signal is a public good.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decreases in price	(1 mark)
+	
+	Verbal elaboration:
+	Premium service taxis are substitutes for ordinary taxis.	(1 mark)
+	When the government introduces premium service taxis, the income of ordinary taxi drivers decreases. Thus, the demand for ordinary taxi licenses will decrease from D1 to D2.	(2 marks)
+	As a result, the price will decrease from P1 to P2.	(1 mark)
+
+(b)	After the imposition of the $2 fuel surcharge, the price of travelling by premium service taxis increases by a smaller percentage than the price of travelling by ordinary taxis.	(1 mark)
+	The price of travelling by premium service taxis will decrease relative to travelling by ordinary taxis.	(1 mark)
+	Therefore, the proportion of passengers taking premium service taxis will 
+increase.	(1 mark)
+
+(c)	If taxi owners block roads, other road users may be delayed.	(1 mark)
+	This creates external costs for other road users with no compensation for them.
+	(1 mark)
+	Therefore, negative externality will emerge.	(1 mark)
+
+(d)	No.	(1 mark)
+	The wifi signal can only be used by passengers. Therefore, it is excludable in consumption.	(2 marks)
+	OR
+	When someone uses the wifi signal, others may suffer from a decrease in connection speed. Therefore, it is rival in consumption.	(2 marks)
+
+Question code: B3C17Q506 (new)
+The number of mini-storage centres has grown rapidly in the last decade in Hong Kong. The deadly mini-storage fire that broke out in Ngau Tau Kok aroused concerns about mini-storage safety. Some people lost confidence in using mini-storage units.
+(a)	With the aid of a supply-demand diagram, explain the change in rent for mini-storage units in Hong Kong as a result of the incident. Also, indicate the change in total social surplus on the same diagram.	(5 marks)
+(b)	It is suspected that some users may have stored inflammable substances (易燃物品) in their units. Explain how this may cause externality.	(3 marks)
+(c)	Some people think that the rapid increase in Hong Kong property prices has led to the expansion of the mini-storage industry. Justify this argument.	(2 marks)
+(d)	There are approximately 150 mini-storage companies in Hong Kong. Four companies account for about half of the total revenue in the market.
+	What is the market structure of the mini-storage industry in Hong Kong? List TWO features of this market structure.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Decreases in rent	(1 mark)
+	(	Decrease in total social surplus	(1 mark)
+	
+	Verbal elaboration:
+	Due to the fire, the demand for mini-storage units decreases from D to D'.
+	(1 mark)
+	As a result, rent decreases from R0 to R1.	(1 mark)
+
+(b)	When some users leave inflammable substances in their mini-storage units, the risk of fire increases.	(1 mark)
+	External costs are imposed on other users as they may suffer losses from fire. They are not compensated by users who store inflammable substances.	(1 mark)
+	Therefore, this causes negative externality.	(1 mark)
+
+(c)	Due to high property prices, many people can only afford to live in housing units which have little room for storage.	(1 mark)
+	This has increased the demand for mini-storage units. As a result, the market for mini-storage units has expanded.	(1 mark)
+
+(d)	Oligopoly.	(1 mark)
+	Features:
+	(	A few large sellers dominate the market
+	(	Imperfect information
+	(	Price searching
+	(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+
+Question code: B3C17Q507 (new)
+In 2015, the lead-in-water crisis broke out in Hong Kong. 
+(a)	During the crisis, the government provided water trucks to supply water free of charge to the affected public housing estates. Explain whether the water supplied is a public good.	(3 marks)
+(b)	After the crisis, it was found that pipelines (水管) in the affected estates needed to be replaced. With the aid of the diagram below, explain how this affects the wages of plumbers (水喉匠) in Hong Kong.	(4 marks)
+	
+
+The construction industry faces shortages of most types of workers. A construction company suggested that the government subsidise the development of robot technology which can be utilised for construction work.
+(c)	To which type of factors of production do the robots belong? Explain your answer.	(2 marks)
+(d)	Discuss ONE advantage and ONE disadvantage of the use of robots in the construction industry.	(4 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	The water is rival because one's consumption of the water reduces the amount available for others' consumption.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in demand curve	(1 mark)
+	(	Increase in wages	(1 mark)
+	
+	Verbal elaboration:
+	As the pipelines need to be replaced, the demand for plumbers increases from D to D'.	(1 mark)
+	As a result, plumbers' wages increase from W0 to W1.	(1 mark)
+
+(c)	Capital.	(1 mark)
+	The robots are man-made resources that can be used to help production.	(1 mark)
+
+(d)	Advantage:
+	(	This improves productivity in the construction industry.
+	(	The robots can do dangerous jobs and thus improve safety at construction sites.
+	(Any ONE of above or other reasonable answer. 2 marks)
+	Disadvantage:
+	(	The robots may be substituted for some construction workers. This increases unemployment in the industry.
+	(	The use of robots may increase construction costs.
+	(Any ONE of above or other reasonable answer. 2 marks)
+	
+
+Question code: B3C17Q508 (new)
+In 2015, the Chinese government increased the unit tax on cigarettes. As a result, the sales volume of cigarettes decreased by 2.4% in China.
+(a)	Explain whether the demand for cigarettes tends to be elastic or inelastic.
+	(3 marks)
+(b)	With the aid of the diagram below, explain the effects of the increase in the unit tax on the consumer surplus.	(6 marks)
+	
+(c)	'The increase in the unit tax on cigarettes must reduce efficiency.'
+Explain why this statement is NOT necessarily correct.	(4 marks)
+
+Answers:
+(a)	Inelastic.	(1 mark)
+	Cigarettes are addictive. It is difficult to reduce their consumption even when the price increases.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Upward shift of the supply curve because of the increase in the unit tax
+		(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	(	Decrease in consumer surplus	(1 mark)
+
+	
+	Verbal elaboration:
+	Due to the increase in the unit tax, the supply of cigarettes decreased from S to ST.	(1 mark)
+	The price increased from P0 to P1 and the quantity transacted decreased from Q0 to Q1.	(1 mark)
+	Therefore, the consumer surplus decreased in the shaded area.	(1 mark)
+
+(c)	Smokers may harm the health of other people by secondhand smoke.	(1 mark)
+	But smokers only consider their private costs, without considering the external costs imposed on others.	(1 mark)
+	The rise in the unit tax increases smokers' private cost of smoking.	(1 mark)
+	They may reduce the consumption of cigarettes to a level closer to the efficient level.	(1 mark)
+
+Question code: B3C17Q509 (new)
+In August 2016, pigs contaminated with an illegal food additive from Jiangxi Province were imported to Hong Kong. 40 contaminated pigs were sent to 27 retailers. Some of the contaminated pork had already been sold before the retailers were notified to stop selling it. Hong Kong suspended imports of pigs from Jiangxi after the incident.
+(a)	The price of pork from the mainland did not change significantly after the above incident. With the aid of the following diagram, explain how this would be possible.	(6 marks)
+	
+
+(b)	As some pigs from Jiangxi were contaminated with a food addicitve, no pigs from Jiangxi were allowed to be exported to Hong Kong.
+	(i)	Explain which type of externality was involved in this case.	(3 marks)
+	(ii)	Explain how this would affect Hong Kong's current account balance in 2016.	(2 marks)
+(c)	Before October 2007, Ng Fung Hong was the only live pig importer in Hong Kong. Two firms entered the market afterwards.
+	(i)	What has been the market structure of live pig importation in Hong Kong since October 2007?	(1 mark)
+	(ii)	Suggest TWO features of the market structure mentioned in (d)(i) besides the number of sellers.	(2 marks)
+
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in demand curve	(1 mark)
+	(	Leftward shift in supply curve 	(1 mark)
+	
+	Verbal elaboration:
+	As Hong Kong suspended imports of pigs from Jiangxi, the supply of pork decreased from S to S'.	(1 mark)
+	Some Hong Kong consumers lost confidence in eating pork after the incident. Hence, the demand for pork decreased from D to D'.	(1 mark)
+	If the decrease in supply was the same as the decrease in demand, the price would remain unchanged.	(2 marks)
+
+(b)	(i)	Negative externality.	(1 mark)
+		Some exporters used illegal additives while other exporters had to bear the cost without compensation.	(2 marks)
+	(ii)	Hong Kong's import of goods would decrease.	(1 mark)
+		Hence, the current account balance would improve.	(1 mark)
+
+(c)	(i)	Oligopoly	(1 mark)
+	(ii)	(	Not easy to enter the market
+		(	Imperfect information
+		(	Price searching
+		(	Interdependent in pricing policies
+		(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+
+Question code: B3C17Q510 (new)
+Nintendo introduced 'Pokémon GO', a free download game in which players need to visit particular places in the real world to acquire gaming items and characters.
+(a)	The diagram below shows the demand and supply curves of goods and services in a shopping mall. Assume shops in the mall are perfectly competitive.
+	
+	Suppose the shopping mall becomes a popular place to acquire gaming characters. With the aid of the above diagram, explain how the shops in the mall can benefit in terms of the change in producer surplus.	(6 marks)
+(b)	It was reported that 'Pokémon GO' players had gathered in some residential areas searching for gaming items and characters, which inconvenienced nearby residents. Explain, in terms of externality, why inefficiency may exist if a residential area becomes overcrowded with 'Pokémon GO' players.	(3 marks)
+(c)	Explain whether the 'Pokémon GO' game is a public good.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Rightward shift of demand curve	(1 mark)
+	(	Increase in price and quantity transacted	(1 mark)
+	(	Increase in producer surplus (Area P2E2E1P1)	(1 mark)
+	
+
+	Verbal elaboration:
+	As demand for the shopping mall's goods and services increases, both the price and quantity transacted increase.	(2 marks)
+	Hence, the shops can enjoy greater producer surplus.	(1 mark)
+
+(b)	There is an external cost / a divergence between private and social costs / negative externality / harmful externality.	(1 mark)
+	If a residential area is overcrowded, any additional 'Pokémon GO' player will impose a cost on nearby residents, but the residents will not be compensated.
+	(1 mark)
+	As the marginal social cost is higher than the marginal social benefit, the number of people who gather in the area exceeds its efficient level.	(1 mark)
+
+(c)	Yes, because	(1 mark)
+	the 'Pokémon GO' game is non-rival in consumption. A person can download and play the game without reducing the availability of the game to others.	(2 marks)
+
+Question code: B3C17Q511 (new)
+Hong Kong people like to travel overseas on vacations.
+(a)	The prices of package tours tend to decrease after the summer holidays. Suppose the prices of short-distance tours and long-distance tours decrease by the same amount. Explain the effect on the average travel distance, using the law of demand.	(5 marks)
+(b)	In recent years, Thailand has been a target of terrorist attacks. With the aid of the diagram below, explain how the threat of terrorist attacks would affect the price, quantity transacted and total social surplus of Thailand tours.	(6 marks)
+	
+(c)	Some overseas residents have complained that Hong Kong tourists talk loudly in public areas. Explain how Hong Kong tourists' behaviour may involve a divergence between private and social costs.	(3 marks)
+
+Answers:
+(a)	The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(2 marks)
+	When the prices of both types of tours decrease by the same amount, the relative price of short-distance tours (in terms of long-distance tours) decreases. According to the law of demand, tourists will tend to choose short-distance tours. Therefore, the average travel distance will decrease.	(3 marks)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift of demand curve	(1 mark)
+	(	Decrease in price and quantity transacted	(1 mark)
+	(	Decrease in total social surplus	(1 mark)
+	
+	Verbal elaboration:
+	The threat of terrorist attacks lowers the demand for Thailand tours.	(1 mark)
+	Therefore, the price and quantity transacted decrease.	(1 mark)
+	As both the consumer surplus and producer surplus decrease, the total social surplus decreases by the shaded area.	(1 mark)
+
+(c)	When tourists talk loudly in public areas, they disturb other nearby tourists or residents. The tourists impose a cost on others without compensating those affected. Therefore, the social cost is higher than the private cost.	(3 marks)
+
+
+Question code: B3C17Q512 (new)
+California Fitness has been liquidated due to heavy indebtedness.
+(a)	Suppose the market for fitness courses is perfectly competitive. With the aid of a diagram, explain how the bankruptcy of California Fitness affects the consumer surplus of fitness courses.	(6 marks)
+(b)	With the closing of California Fitness branches, some fitness coaches who originally worked for California Fitness are using government fitness rooms for one-to-one training.
+	(i)	Explain how giving fitness courses in government fitness rooms may involve a divergence between private and social costs.	(3 marks)
+	(ii)	Explain whether the courses taught by these coaches in government fitness rooms are public goods.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift of supply curve	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	(	Decrease in consumer surplus (Area P2E2E1P1)	(1 mark)
+	
+	Verbal elaboration:
+	Because California Fitness declared bankruptcy, the number of fitness course providers has decreased.	(1 mark)
+	The supply of fitness courses has also decreased.	(1 mark)
+	Given a downward sloping marginal benefit curve, the consumer surplus decreases as the price increases and quantity transacted decreases.	(1 mark)
+
+(b)	(i)	When fitness coaches teach in government fitness rooms, they may occupy certain fitness equipment for long time. This increases the waiting time of other fitness room users who are not being compensated. As a result, the social cost is higher than the private cost of the coaches.	(3 marks)
+	(ii)	No.	(1 mark)
+		The training courses are rival in consumption. When a fitness coach provides guidance to a person, he/she may be unable to teach another person concurrently.	(2 marks)
+
+Question code: B3C17Q513 (new)
+The German government has installed traffic lights on the ground for 'smartphone zombies'(「低頭族」), people who use smartphones when walking without paying attention to their surroundings.
+(a)	Explain, with ONE example, the possible externalities generated by the 'smartphone zombies'.	(3 marks)
+(b)	'After installing ground traffic lights, the number of traffic accidents may instead increase.' Explain why the phenomenon may arise using the law of demand.	
+		(5 marks)
+(c)	Explain whether the traffic lights on the ground are public goods.	(3 marks)
+
+Answers:
+(a)	There is a negative externality / an external cost / a divergence between private and social costs.	(1 mark)
+	As 'smartphone zombies' do not pay attention to their surroundings, they may cause traffic accidents and increase the travel time of other road users. However, 'smartphone zombies' do not compensate these road users.	(2 marks)
+
+(b)	The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(2 marks)
+	The ground traffic lights alert the 'smartphone zombies' to be aware of cars 
+nearby. This lowers the cost of being 'smartphone zombies'.	(1 mark)
+	Pedestrians tend to use more smartphones and pay less attention to their surroundings when walking.	(1 mark)
+	The number of traffic accidents may increase when more 'smartphone zombies' are walking on the road.	(1 mark)
+
+(c)	Yes.	(1 mark)
+	A person can see the traffic signal without reducing the availability of the signal to others. The traffic lights are non-rival in consumption.	(2 marks)

@@ -1,0 +1,1439 @@
+Chapter 6	Market intervention (I)
+
+Multiple Choice Questions
+
+Question code: B1C06Q001 (new)
+Suppose landlords are not allowed to charge tenants more than the maximum rent set by the government. Which of the following are the effects of abolishing rent control?
+(1)	The quality of rental units will improve.
+(2)	The total rental income of landlords will increase.
+(3)	More units will be rented.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C06Q002 (new)
+Refer to the following diagram about the market for a good. The government imposes a price ceiling of P1 on the good.
+
+If the government changes the price ceiling to P2,
+A.	the price ceiling will become effective.
+B.	the price will increase.
+C.	total revenue will increase.
+D.	there will be a surplus of the good.
+
+Answer: C
+
+Question code: B1C06Q003 (new)
+Which of the following are the possible results of increasing an effective price ceiling on a good?
+(1)	The price of the good will increase.
+(2)	The shortage of the good will become more serious.
+(3)	Producers' total revenue will increase.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C06Q004 (new)
+Suppose there is an effective price ceiling on Good X. The price ceiling may become ineffective when
+A.	the supply of Good X decreases.
+B.	the demand for Good X decreases.
+C.	the price ceiling is lowered.
+D.	All of the above
+
+Answer: B
+
+Question code: B1C06Q005 (new)
+* Suppose there is an effective price ceiling on Good Y. The price ceiling may become ineffective when
+(1)	the price of the complement of Good Y increases.
+(2)	the input price of Good Y decreases.
+(3)	the government raises the price ceiling.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation:
+Option (1) causes a decrease in the demand for Good Y. Option (2) causes an increase in supply. Both will cause a decrease in the equilibrium price. If the equilibrium price drops below the price ceiling, the price ceiling will become ineffective. So, both options are correct.
+Option (3) is correct. The price ceiling will become ineffective if it is increased above the equilibrium price.
+
+Question code: B1C06Q006 (new)
+Refer to the following diagram about the market of a good.
+
+Which of the following statements is correct?
+A.	If a price ceiling is set at P1, there will be a (Q2 - Q1) unit shortage of the good.
+B.	If a price ceiling is set at P2, there will be a (Q2 - Q1) unit surplus of the good.
+C.	If a price ceiling is set at P1, the black market price will be P0.
+D.	If a price ceiling is set at P2, the market price will be P2.
+
+Answer: A
+
+Question code: B1C06Q007 (new)
+Suppose the market price of a good is $4. If the government imposes a price ceiling of $3 on the good, which of the following statements is correct?
+A.	The new market price will be $4.
+B.	The total revenue will increase only if the demand for the good is elastic.
+C.	The total revenue will decrease only if the demand for the good is elastic.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C06Q008
+Which of the following is/are the result(s) of an effective price ceiling?
+	(1)	The quality of the good increases.
+	(2)	The price increases.
+	(3)	Producers' total revenue decreases.
+A.	(1) only
+B.	(3) only
+C.	(1) and (2) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C06Q009
+Suppose the government regulates the price of rice so that it is below the market price. As a result, a __________ develops and rice may be allocated to buyers __________.
+A.	shortage … through an auction (拍賣)
+B.	shortage … by drawing lots
+C.	surplus … through an auction
+D.	surplus … by non-price competition
+
+Answer: B
+
+Question code: B1C06Q010
+Study the following diagram.
+
+
+
+An effective price ceiling must be set
+A.	above P0.
+B.	below P1.
+C.	between P0 and P1.
+D.	between P0 and P2.
+
+Answer: B
+
+Question code: B1C06Q011
+Study the following data for the soya bean market:
+
+ Price ($)	20	21	22	23	24	25	26	
+ Quantity supplied (kg)	40	50	60	70	80	90	100	
+ Quantity demanded (kg)	95	90	80	70	60	55	48	
+
+If the government imposes a price ceiling at $24/kg, the quantity transacted is
+A.	60 kg.
+B.	70 kg.
+C.	80 kg.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C06Q012
+In Hong Kong, public housing rent is set below the equilibrium price, resulting in
+A.	excess supply.
+B.	a long waiting list for public housing.
+C.	elastic supply of public housing.
+D.	more income for the government.
+
+Answer: B
+
+Question code: B1C06Q013
+In Hong Kong, the public medical service fee is set _________, therefore ___________.
+A.	above the equilibrium level … the average lifespan of Hong Kong people is very long
+B.	at the equilibrium level … everyone can enjoy the services
+C.	below the equilibrium level … the queuing time is very long
+D.	at a reasonable level … people are satisfied with it
+
+Answer: C
+
+Question code: B1C06Q014
+The queue outside public clinics will be shorter if
+A.	the government reduces the quota of outpatient medical services (門診服務).
+B.	the proportion of the aged in the population increases.
+C.	the government increases the price of outpatient medical services.
+D.	the prices at private clinics increase.
+
+Answer: C
+
+Question code: B1C06Q015
+Which of the following is/are the result(s) of an effective price ceiling?
+	(1)	The equilibrium price decreases.
+	(2)	The quantity transacted decreases.
+	(3)	Producers' total revenue may increase, decrease or remain unchanged, depending on the price elasticity of demand.
+	(4)	A shortage occurs.
+A.	(1) only
+B.	(2) and (3) only
+C.	(2) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: C
+
+Question code: B1C06Q016 (new)
+Good X is now subject to an effective price ceiling. Which of the following statements is correct?
+A.	If the price ceiling is abolished, fewer consumers can afford Good X.
+B.	If the quality of Good X improves, the shortage of Good X will disappear.
+C.	Non-price competition among the sellers is keen.
+D.	If a black market for Good X emerges, the price will be higher than the equilibrium price.
+
+Answer: D
+
+Question code: B1C06Q017
+When the price ceiling on rice is removed,
+	(1)	the price of rice increases.
+	(2)	the quantity transacted of rice increases.
+	(3)	the change in total revenue depends on the price elasticity of demand.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B1C06Q018
+* Suppose the government imposes an effective price ceiling on a good with perfectly inelastic supply. Which of the following statements is correct?
+A.	The market price of the good will increase.
+B.	There will be excess supply at the controlled price.
+C.	The quantity transacted will decrease.
+D.	The total revenue will fall.
+
+Answer: D
+
+Question code: B1C06Q019
+Suppose there is an effective price ceiling on parking space at Home Ownership Scheme estates. Which of the following can reduce the shortage?
+A.	Increasing the price of parking space
+B.	Reducing the supply of parking space
+C.	Allocating according to the need for parking space
+D.	All of the above
+
+Answer: A
+
+Question code: B1C06Q020
+Study the following diagram:
+
+
+
+A price ceiling set __________ is ineffective.
+A.	above P1
+B.	below P2
+C.	between P2 and P3
+D.	below P3
+
+Answer: A
+Explanation:
+When a price ceiling is set above the equilibrium level, it is ineffective. Therefore, only Option A is correct.
+
+Question code: B1C06Q021
+Study the following data for luncheon meat (午餐肉) imported from the mainland:
+
+Unit price ($)	4	8	12	16	20	24		Quantity supplied (cans)	1,000	2,000	3,000	4,000	5,000	6,000		Quantity demanded (cans)	5,000	4,000	3,000	2,000	1,000	0		
+Suppose the government imposes a price ceiling of $16 per can. What will the total revenue for sellers of luncheon meat be?
+A.	$32,000
+B.	$36,000
+C.	$48,000
+D.	$64,000
+
+Answer: B
+Explanation:
+The equilibrium price is $12, where the quantity demanded is equal to the quantity supplied. This means the price ceiling is set above the equilibrium level, and the price ceiling is ineffective. Therefore, the quantity transacted and the market price remain the same at 3,000 cans and $12, respectively. Total revenue = $12 × 3,000 = $36,000.
+
+Question code: B1C06Q022
+In Hong Kong, the charge for leisure facilities run by the Leisure and Cultural Services Department on public holidays is usually set __________ the equilibrium level as _____________.
+A.	above … these facilities are usually fully booked 
+B.	above … these facilities are usually vacant
+C.	below … some people usually complain that they cannot book these facilities
+D.	below … these facilities are usually vacant
+
+Answer: C
+
+Question code: B1C06Q023 (new)
+The amount of time that customers need to wait to buy an iPhone 6 will be longer if 
+A.	Apple employs more factories to produce the iPhone 6.
+B.	the price of the iPhone 6 Plus increases.
+C.	many users complain about the camera on the iPhone 6.
+D.	retailers increase the price of the iPhone 6.
+
+Answer: B
+Explanation:
+Since the price of the iPhone 6 is set below the equilibrium level, there is excess demand and consumers have to wait to buy them. Options A, C and D will decrease the excess demand and decrease the waiting time. 
+Option B: iPhone 6 Plus is a close substitute for the iPhone 6. Thus, when the price of the iPhone 6 Plus increases, the demand for the iPhone 6 will increase. This will increase  excess demand and  the waiting time. 
+
+Question code: B1C06Q024
+To combat inflation (通脹), suppose the Hong Kong Government imposes an effective price ceiling on food imported from the mainland. Which of the following are possible consequences?
+	(1)	The equilibrium price of imported food decreases.
+	(2)	The quantity of food imported decreases.
+	(3)	A black market may emerge in which people pay a price higher than the legal maximum.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation:
+If the government imposes an effective price ceiling on imported food from the mainland, the market price rather than the equilibrium price will decrease. Moreover, the quantity imported will decrease. At the reduced quantity imported, consumers are willing to pay a price higher than the legal maximum, so a black market may emerge. 
+
+Question code: B1C06Q025
+If a government removes an effective price ceiling on rental housing, which of the following will increase?
+	(1)	The equilibrium rent
+	(2)	The number of rental transactions
+	(3)	Rental income for landlords as a whole
+A.	(2) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation:
+If a government removes an effective price ceiling on rental housing, the market rent will increase back to its equilibrium level, which is not affected by the imposition or removal of the price ceiling. The quantity transacted will also increase back to its original equilibrium level. Since both the market price and quantity transacted increase, total rental income will increase. 
+
+Question code: B1C06Q026 (new)
+Suppose the demand for red wine is perfectly inelastic. If the government imposes an effective maximum price on red wine, which of the following is correct?
+A.	The quantity transacted of red wine will remain unchanged.
+B.	The market price of red wine will remain unchanged.
+C.	Consumers will spend less on red wine overall.
+D.	The quality of red wine will increase.
+
+Answer: C
+Explanation:
+If the government imposes an effective price ceiling on red wine, both the market price and the quantity transacted will decrease. Options A and B are not correct.
+Since both the market price and the quantity transacted decrease, the total expenditure on red wine will decrease. Option C is correct.
+At the controlled price level, red wine sellers do not have an incentive to improve the quality of red wine. Option D is not correct.
+
+Question code: B1C06Q027
+To prevent the price of rice from rising to an unaffordable level, the government imposes a price ceiling on rice. It has been reported that rice is often sold out. Which of the following can alleviate (減輕) this problem?
+A.	Raising the price ceiling
+B.	Lowering the price ceiling
+C.	Increasing the quality
+D.	Increasing the price of noodles
+
+Answer: A
+Explanation:
+If the rice is often sold out, the price ceiling must have been set at a level below the equilibrium price so as to create excess demand. To reduce excess demand, we can increase the price to its equilibrium level. However, increasing the quality and increasing the price of noodles will only increase the demand and, hence, excess demand for the rice.  
+
+Question code: B1C06Q028 (new)
+In 2013, a Japanese ramen (拉麫) restaurant opened its first branch in Hong Kong. Despite the hot weather, customers queued for up to four hours to try the ramen during the first few days after the restaurant opened. Which of the following can explain this phenomenon?
+A.	The restaurant must be very small.
+B.	The ramen must be very delicious.
+C.	The price of the ramen must be set below the equilibrium level. 
+D.	None of the above
+
+Answer: C
+Explanation:
+Since long queues formed outside the restaurant, there was excess demand for the ramen and the price must have been set at a level below the equilibrium level. Options A and B would not lead to excess demand for the ramen if the price were set at the corresponding equilibrium levels. 
+
+Question code: B1C06Q029 (new)
+In 2013, a Japanese ramen (拉麫) restaurant opened its first branch in Hong Kong. Despite the hot weather, customers queued for up to four hours to try the ramen during the first few days after the restaurant opened. Which of the following could reduce customers' waiting time?
+A.	The restaurant improves the service quality of the waiters.
+B.	The restaurant raises the price of its ramen.
+C.	The restaurant reduces the number of seats.
+D.	The restaurant airs a TV advertisement.
+
+Answer: B
+Explanation:
+Options A and D: Improving the service quality and advertising on TV will increase  demand and excess demand, making the waiting time even longer. Option C: Reducing the number of seats means a decrease in the supply. This will also increase  excess demand, making the waiting time even longer than it was.
+Option B: Raising the price can reduce the quantity demanded, thus decreasing the excess demand and the waiting time. So Option B is the answer. 
+
+Question code: B1C06Q030
+Which of the following causes the quantity demanded of a good to be larger than its quantity transacted?
+A.	The market price is fixed below the equilibrium level.
+B.	The market price is fixed at the equilibrium level.
+C.	The market price is fixed above the equilibrium level.
+D.	None of the above
+
+Answer: A
+Explanation:
+Whenever quantity demanded is not equal to quantity supplied, the quantity transacted is equal to the smaller of the two quantities. In this question, the quantity transacted must be equal to the quantity supplied. As the quantity demanded is larger than the quantity supplied, the market price must be fixed below the equilibrium level. It is also important to note that neither Qd nor Qs can be smaller than the quantity transacted.
+
+Question code: B1C06Q031 (new)
+If a __________ on a good is set __________ the equilibrium price, there will be a surplus of the good.
+A.	price ceiling … below
+B.	price ceiling … above
+C.	price floor … below
+D.	price floor … above
+
+Answer: D
+
+Question code: B1C06Q032 (new)
+Suppose the demand for Good Y is elastic. Abolishing the effective price floor on Good Y will
+A.	decrease the quantity transacted.
+B.	create a larger excess supply.
+C.	have no effect on the total revenue.
+D.	increase the total revenue.
+
+Answer: D
+
+Question code: B1C06Q033 (new)
+Suppose the government has imposed an effective price floor on cigarettes. If the government decides to ban smoking in more public areas, 
+A.	the surplus of cigarettes will grow.
+B.	the price floor may become ineffective.
+C.	the total expenditure on cigarettes may increase.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C06Q034 (new)
+A __________ set __________ will decrease the total revenue if the demand is elastic.
+A.	price ceiling … above the equilibrium price
+B.	price floor … above the equilibrium price 
+C.	quota … above the equilibrium quantity
+D.	None of the above
+
+Answer: B
+
+Question code: B1C06Q035 (new)
+Refer to the following diagram about the market of a good.
+
+Which of the following statements is correct?
+A.	If a price ceiling is set at P2, the market price will be P0.
+B.	If a price floor is set at P2, there will be a (Q2 - Q1) unit surplus of the good.
+C.	If a price floor is set at P1, the quantity transacted will be Q0.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C06Q036 (new)
+Refer to the following diagram about the market of a good.
+
+If the government sets a price floor of P2 on the good, the total revenue will be
+A.	P1 × Q1.
+B.	P2 × Q1.
+C.	P1 × Q2.
+D.	P2 × Q2.
+
+Answer: B
+
+Question code: B1C06Q037 (new)
+Refer to the following diagram about the market for a good.
+
+Which of the following statements is correct?
+A.	The effects of a price ceiling at P1 and a price floor at P2 are the same.
+B.	The effects of a price ceiling at P2 and a price floor at P1 are the same.
+C.	A price ceiling at P2 creates a shortage of (Q2 - Q1) units.
+D.	A price floor at P1 creates a surplus of (Q2 - Q1) units.
+
+Answer: B
+
+Question code: B1C06Q038
+Which of the following is/are the result(s) of an effective price floor?
+	(1)	The price decreases.
+	(2)	The quantity transacted decreases.
+	(3)	Producers' total revenue decreases.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C06Q039
+As shown in the diagram below, the government has set a price floor for Good X at P0.
+
+Suppose research shows that Good X can help extend human life. Which of the following will most likely happen?
+A.	Excess demand will be greater.
+B.	The market price will increase.
+C.	The quantity transacted will increase.
+D.	Excess supply will be greater.
+
+Answer: C
+
+Question code: B1C06Q040 (new)
+Which of the following will occur when the government lowers the effective price floor for a good?
+A.	The quantity transacted decreases.
+B.	The non-price competition becomes more intense.
+C.	The excess demand for the good decreases.
+D.	The excess supply of the good decreases.
+
+Answer: D
+
+Question code: B1C06Q041
+Suppose the price floor of a good is originally set at the equilibrium level. A decrease in supply will 
+A.	lead to a decrease in quantity transacted. 
+B.	have no effect on price.
+C.	lead to excess demand. 
+D.	lead to excess supply.
+
+Answer: A
+
+Question code: B1C06Q042
+If the government sets a price floor below the equilibrium price,
+A.	the market price will increase.
+B.	there will be excess supply at the controlled price.
+C.	quantity transacted in the market will fall.
+D.	there will be no effect on the market price and quantity transacted.
+
+Answer: D
+
+Question code: B1C06Q043
+Study the following diagram.
+
+
+Assume that the price is fixed at P1. When the demand increases from D1 to D2,
+A.	the total expenditure of consumers decreases.
+B.	the quantity transacted remains unchanged.
+C.	the excess demand increases.
+D.	there is still pressure for the price to fall.
+
+Answer: D
+
+Question code: B1C06Q044
+Study the following diagram.
+
+
+Assume that the price is fixed at P0. When the demand decreases from D0 to D1,
+A.	the price is under pressure to increase. 
+B.	the price is under pressure to decrease. 
+C.	producers' total revenue remains unchanged.
+D.	producers' total revenue may increase or decrease, depending on the price elasticity of demand.
+
+Answer: B
+
+Question code: B1C06Q045
+If an effective price floor is imposed, an increase in demand
+A.	will lead to an increase in the quantity transacted.
+B.	must cause an increase in the price.
+C.	may cause a decrease in the quantity demanded.
+D.	will eliminate the shortage.
+
+Answer: A
+
+
+Question code: B1C06Q046
+Study the following diagram:
+
+
+Suppose the government imposes a price floor at P1. If supply increases from S0 to S1,
+A.	the quantity transacted will increase.
+B.	the equilibrium price will remain at P1.
+C.	the surplus will increase.
+D.	the quantity demanded will increase.
+
+Answer: C
+
+Question code: B1C06Q047
+Suppose the HKSAR government increases the minimum wage for foreign domestic helpers. As a result,
+A.	Hong Kong will employ more foreign domestic helpers.
+B.	a shortage will occur in the market for foreign domestic helpers.
+C.	the quantity supplied of foreign domestic helpers will increase.
+D.	the total wage income of foreign domestic helpers will increase.
+
+Answer: C
+
+Question code: B1C06Q048
+Which of the following is NOT an effect of removing an effective price floor?
+A.	The market price must fall.
+B.	The quantity transacted must increase.
+C.	There will be no surplus.
+D.	The total revenue of sellers as a whole must increase.
+
+Answer: D
+
+Question code: B1C06Q049
+Which of the following is NOT an effect of raising the level of an effective price floor?
+A.	The market price of the good increases.
+B.	The quantity transacted falls.
+C.	The amount of excess supply increases.
+D.	The total revenue of the sellers increases if the demand is elastic.
+
+Answer: D
+
+Question code: B1C06Q050
+The following table shows the demand and supply schedules for Good X.
+
+ Unit price ($)	10	11	12	13	14	15	
+ Quantity demanded (units)	40	35	30	25	20	15	
+ Quantity supplied (units)	20	25	30	35	40	45	
+
+Suppose the market is in equilibrium originally. If the government imposes a price floor at $13 and it does not buy up the surplus, which of the following statements are correct?
+	(1)	The income of producers will increase.
+	(2)	The quantity transacted will decrease.
+	(3)	It may create a black market.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B1C06Q051 (new)
+* Study the following table.
+
+Price ($)	1	2	3	4	5	6	
+Quantity demanded (units)	100	100	100	100	100	100	
+
+Suppose the equilibrium price is $3. Which of the following is correct?
+A.	The quantity transacted will remain unchanged if a price ceiling is set at $2.
+B.	The income of producers will increase if a price floor is set at $4.
+C.	The total revenue is maximised when the price is $3.
+D.	A shortage will occur if the price floor is set at $5.
+
+Answer: B
+
+Question code: B1C06Q052
+Study the following diagram:
+
+
+Suppose the government imposes a price floor at P1. When the demand decreases from D1 to D2, which of the following is correct?
+A.	The quantity transacted will remain unchanged.
+B.	Sellers' total revenue will increase.
+C.	The price will tend to rise.
+D.	Consumers' total expenditure will decrease.
+
+Answer: D
+Explanation:
+If the demand decreases from D1 to D2, the quantity transacted will decrease. Since the market price remains unchanged at P1, sellers' total revenue or consumers' total expenditure will decrease. Therefore, only Option D is correct. Since there is still excess supply, there is pressure for the price to fall rather than rise. 
+
+
+Question code: B1C06Q053
+Study the following diagram:
+
+
+
+Suppose the government imposes a price floor at P1. If the supply increases from S1 to S2, which of the following is correct?
+A.	The quantity transacted will increase.
+B.	Sellers' total revenue will decrease.
+C.	The price floor will become ineffective.
+D.	Consumers' total expenditure will increase.
+
+Answer: B
+Explanation:
+Initially, the price floor is set at a level below the equilibrium level and is ineffective. After the supply increases from S1 to S2, the price floor will become effective. Therefore, the market price will decrease to the price floor. The quantity transacted will remain unchanged. As a result, sellers' total revenue and consumers' total expenditure will decrease. 
+
+Question code: B1C06Q054
+Suppose the price floor for Good X is set below the equilibrium price. Which of the following is an effect of removing the price floor?
+A.	The market price will increase.
+B.	The quantity transacted will increase.
+C.	The amount of excess supply will decrease.
+D.	None of the above 
+
+Answer: D
+Explanation:
+The price floor for Good X is ineffective as it is set below the equilibrium. It has no effect on the market price and quantity transacted. Therefore, its removal will have no effect at all. 	
+
+Question code: B1C06Q055
+The following table shows the demand and supply schedules of imported labour:
+
+Wage rate ($)	10,000	11,000	12,000	13,000	14,000	15,000		Quantity demanded (units/period)	80	70	60	50	40	30		Quantity supplied (units/period)	40	50	60	70	80	90		
+Suppose the government imposes a price floor at $14,000. Which of the following statements is/are correct?
+	(1)	The total income for imported workers will decrease. 
+	(2)	The market wage rate for imported workers will increase.
+	(3)	A black market where workers offer to take less than the legal wage may emerge.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation:
+The equilibrium wage rate is $12,000. If the government imposes a price floor at $14,000, the price floor will be effective. The market wage rate will increase to $14,000 while the quantity transacted will decrease to 40 units. The total income for workers will decrease from $720,000 to $560,000. Since there is excess supply of labour at the price ceiling of $14,000, a black market where some of the workers offer to take less than the legal wage may emerge. Therefore, Option D is the answer.  
+
+Question code: B1C06Q056
+Study the following table which shows the supply schedule of a local crop.
+
+Price ($)	1	2	3	4	5	6		Quantity supplied (units)	200	200	200	200	200	200		
+Suppose the government imposes a price floor of $5 which is lower than the equilibrium price. Which of the following would result?
+A.	The market price will increase.
+B.	The quantity transacted will increase.
+C.	The total revenue for sellers will decrease.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C06Q057
+* An economic researcher comes up with the following data about Good X:
+
+Price ($)	10	12	14	16	18	
+Quantity transacted (units)	100	200	300	250	200	
+
+If the demand curve for Good X is downward-sloping and the supply curve for it is upward-sloping, what is the equilibrium price?
+A.	$10
+B.	$12
+C.	$14
+D.	$16
+
+Answer: C
+Explanation:
+At the equilibrium price (Pe), Qd = Qs = Qt, given that demand curve is downward sloping and supply curve is upward sloping. When the market price is above the equilibrium price, Qd falls while Qs rises; Qt equals Qd because whenever Qd is not equal to Qs, Qt is equal to the smaller of the two quantities. Similarly, when the market price is smaller than the equilibrium price, Qd rises while Qs falls; Qt equals Qs. Hence, Qt is the largest at the equilibrium price. Therefore, the equilibrium price from the above table is the one with the largest Qt, i.e., $14.
+
+
+Question code: B1C06Q058
+*An economic researcher comes up with the following data about Good X:
+
+Price ($)	10	12	14	16	18	
+Quantity transacted (units)	100	200	300	250	200	
+
+Suppose the demand curve for Good X is downward sloping and the supply curve for it is upward sloping. If the government imposes a price floor at $12, which of the following is correct?
+A.	The market price will increase.
+B.	The quantity transacted will remain unchanged.
+C.	The total revenue will decrease.
+D.	The total expenditure will increase.
+
+Answer: B
+Explanation:
+Since the price floor is set below the equilibrium level, it is ineffective. There will be no effect on the market price, the quantity transacted, total revenue or total expenditure. 
+
+
+Question code: B1C06Q059
+Study the following diagram.
+
+
+P1 and P2 show ________________ and ________________, respectively.
+A.	an effective price ceiling … an effective price floor
+B.	an effective price floor … an effective price ceiling
+C.	excess supply … excess supply
+D.	None of the above
+
+Answer: B
+
+Question code: B1C06Q060 (new)
+Study the following table.
+
+Price ($)	1	2	3	4	5	
+Quantity supplied (units)	10	20	30	40	50	
+Quantity demanded (units)	40	35	30	25	20	
+
+What of the following is correct?
+A.	If a price ceiling is set at $4, the quantity transacted is 25 units.
+B.	If a price floor is set at $2, the quantity transacted is 20 units.
+C.	Without any price controls, the quantity transacted is 30 units.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C06Q061
+Suppose the quantity demanded and the quantity transacted of bananas are equal. Which of the following situations CANNOT exist?
+A.	There is no tendency for the price of bananas to change.
+B.	The price of bananas is equal to the equilibrium price.
+C.	The price of bananas is higher than the equilibrium price.
+D.	All of the above are possible situations.
+
+Answer: D
+
+Question code: B1C06Q062 (new)
+If an effective price floor is imposed on Good X, which of the following can increase the quantity transacted?
+A.	Raising the price floor
+B.	Good Y is a close substitute for Good X. Recently, the price of Good Y has increased rapidly due to an increase in its production cost.
+C.	Allocating the good on a first-come, first-served basis.
+D.	The production cost of Good X decreases.
+
+Answer: B
+
+Question code: B1C06Q063
+Which of the following CANNOT be a consequence of setting the price at a non-equilibrium level? (Assume there are no other types of government intervention.)
+A.	The quantity transacted is higher than the equilibrium level.
+B.	The total expenditure of consumers is higher than the equilibrium level.
+C.	There will be excess demand.
+D.	There will be price changes.
+
+Answer: A
+
+Question code: B1C06Q064
+* Which of the following is NOT a common feature of an effective price ceiling and an effective price floor?
+A.	Both will lead to non-price competition. 
+B.	Both will make the quantity demanded unequal to the quantity supplied. 
+C.	Both will make the quantity demanded unequal to the quantity transacted. 
+D.	Both will lead to a decrease in quantity transacted.
+
+Answer: C
+
+Question code: B1C06Q065
+* Although taxi fares in Hong Kong are standardised by law, some taxi drivers illegally offer a 20% discount to customers. This phenomenon indicates that
+A.	taxi drivers only engage in price competition.
+B.	there is excess demand for taxi services.
+C.	taxi fares are below the equilibrium level.
+D.	taxi fares are above the equilibrium level.
+
+Answer: D
+
+Question code: B1C06Q066 (new)
+Which of the following are the effects of an effective quota on a good?
+(1)	An increase in the price
+(2)	Excess supply of the good
+(3)	An improvement in the quality of the good
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C06Q067 (new)
+Refer to the following diagram about the market for a good.
+
+Which of the following statements is correct?
+A.	A quota at Q2 is effective.
+B.	The effect on the total revenue of a price ceiling at P1 is the same as that of a quota at Q1.
+C.	The effect on the price of a price floor at P2 is the same as that of a quota at Q1.
+D.	None of the above
+
+Answer: C
+
+Question code: B1C06Q068 (new)
+Suppose the government imposes an effective quota on a good. The quota becomes ineffective after an increase in the price of its complement. Which of the following diagrams can illustrate the above event?
+
+
+Answer: B
+
+
+Question code: B1C06Q069 (new)
+Suppose the government of Country T lowers the effective quota on imported diesel. Which of the following diagrams illustrate the results of the above event in Country T?
+
+
+Answer: C
+
+Question code: B1C06Q070 (new)
+The following table shows the supply-demand schedule of a good.
+Price ($)	12	13	14	15	16	17		Quantity supplied (units)	500	525	550	575	600	625		Quantity demanded (units)	800	750	700	650	600	550		Suppose the government imposes a quota of 550 units on the good, the market price will
+A.	remain unchanged.
+B.	increase by $1.
+C.	increase by $2.
+D.	decrease by $1.
+
+Answer: B
+
+
+Question code: B1C06Q071 (new)
+The following table shows the supply-demand schedule of a good.
+Price ($)	12	13	14	15	16	17		Quantity supplied (units)	500	525	550	575	600	625		Quantity demanded (units)	800	750	700	650	600	550		Suppose the government imposes a quota of 550 units on the good,
+A.	the quantity transacted will be smaller than 550 units.
+B.	there will be a surplus of 50 units.
+C.	the total revenue will decrease by $250.
+D.	a price ceiling at $17 will have the same effect on price and quantity transacted.
+
+Answer: C
+
+Question code: B1C06Q072 (new)
+The following table shows the supply-demand schedule of a good.
+Price ($)	23	24	25	26	27	28		Quantity supplied (units)	200	220	230	240	250	260		Quantity demanded (units)	270	260	250	240	230	220		Suppose the government increases the quota from 230 units to 250 units. The total revenue will
+A.	increase by $30.
+B.	increase by $40.
+C.	decrease by $460.
+D.	remain unchanged.
+
+Answer: A
+
+Question code: B1C06Q073
+Refer to the diagram below.
+
+Initially, there is no government intervention in the market. If the government sets a quota of 25 units per week, consumers' total expenditure will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	There is insufficient information to determine the change in total expenditure.
+
+Answer: B
+
+Question code: B1C06Q074
+An effective ___________ will lead to an increase in producers' total revenue under __________ demand
+	(1)	price ceiling … elastic
+	(2)	price floor … inelastic
+	(3)	quota … elastic
+	(4)	quota … inelastic
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: C
+
+Question code: B1C06Q075
+* The government has imposed a quota on the number of taxi licences in Hong Kong. Suppose the taxi fare remains unchanged. Which of the following will occur when the economy turns bad?
+	(1)	Taxi drivers' total income will decrease
+	(2)	There will be a surplus of taxi services
+	(3)	The price of taxi licences will decrease
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation:
+Option (3) is correct. When the income generated from a taxi licence decreases, the demand for taxi licences will decrease. As a result, the price of taxi licences will decrease.
+
+Question code: B1C06Q076
+* In the case of a downward sloping demand curve and an upward sloping supply curve, an effective price ceiling is similar to an effective quota in that
+A.	it lowers the quantity transacted.
+B.	it creates a shortage.
+C.	it must reduce the total revenue of sellers.
+D.	it lowers the market price.
+
+Answer: A
+
+Question code: B1C06Q077
+Suppose the US government increases the import quota for Hong Kong garments. Which of the following statements is correct?
+A.	The total tax revenue collected by the US government will increase.
+B.	The price of imported Hong Kong garments will increase.
+C.	The total revenue of US garment producers will decrease.
+D.	If the demand for imported garments in the US is inelastic, total expenditure of US consumers on imported garments will increase.
+
+Answer: C
+
+Question code: B1C06Q078 (new)
+Suppose the mainland government has recently imposed an effective quota on imported baby formula (嬰幼兒配方奶粉) while Hong Kong does not have such a quota. Which of the following is INCORRECT?
+A.	The total revenue of baby formula producers in the mainland will increase.
+B.	The price of baby formula produced in the mainland will decrease.
+C.	The quantity of imported baby formula sold in the mainland will decrease.
+D.	More mainlanders will travel to Hong Kong to buy imported baby formula.
+
+Answer: B
+
+Question code: B1C06Q079
+Which of the following is NOT an effect of an increase in quota?
+A.	The market price of the good will decrease.
+B.	The quantity transacted will increase.
+C.	The total revenue of the sellers will increase if the demand for the good is elastic.
+D.	The demand for the good will increase.
+
+Answer: D
+
+Question code: B1C06Q080
+Suppose the European Union decreases the quota for textile products from China. Which of the following statements is correct?
+A.	The price of Chinese textile products in Europe decreases.
+B.	The price of European textile products in Europe increases. 
+C.	The quantity of Chinese textile products imported into Europe increases.
+D.	If the demand for European textile products in Europe is inelastic, European consumers' expenditure on European textile products will decrease.
+
+Answer: B
+Explanation:
+When the European Union decreases the quota for textile products from China, the supply curve changes from Sq1 to Sq2. The price will increase from P1 to P2. On the other hand, the quantity imported of Chinese textile products decreases from Q1 to Q2. Since European textile products are close substitutes for Chinese textile products, an increase in the price of the latter will result in an increase in the demand for the former, leading to the increase in the price, the quantity transacted and consumers' expenditure on European textile products.
+
+
+
+
+Question code: B1C06Q081
+Which of the following is NOT an effect of an increase in the quota of imported professionals from the mainland?
+A.	The market wage rate of these imported professional falls.
+B.	If the demand for these imported professionals is elastic, total income for them will increase.
+C.	The wage rate of local professionals falls.
+D.	The employment of these professionals decreases.
+
+Answer: D
+Explanation:
+When there is an increase in the quota of imported professionals from the mainland, the supply curve changes from Sq1 to Sq2. The wage rate of these professionals decreases while their employment increases. Moreover, since these professionals are close substitutes for local professionals, the demand for local professionals decreases and leads to a fall in their wage rate. The change in the total income for these professionals depends on the elasticity of demand for them. If the demand is elastic, their total income will increase.
+
+
+Short Questions
+
+Question code: B1C06Q301 (new)
+Many poor people in Country Y have complained about the unaffordable price of rice saying that they cannot buy enough rice. They have urged the government to impose price controls to lower the price of rice.
+(a)	Which price control should the government impose to lower the price of rice? How it should be set in order to achieve the goal? Explain your answer with the aid of a diagram.	(3 marks)
+(b)	With the aid of the same diagram, explain whether the poor can buy enough rice after the imposition of the price control.	(4 marks)
+
+Answers: 
+
+(a)	Indicate on the diagram:
+	(	Effective price ceiling	(1 mark)
+	Verbal elaboration:
+	The government should impose a price ceiling.	(1 mark)
+	To lower the price, the price ceiling (Pc) should be imposed below the equilibrium price (Pe).	(1 mark)
+(b)	Indicate on the diagram:
+	(	Decrease in quantity transacted	(1 mark)
+	Verbal elaboration:
+	No.			(1 mark)
+	They will have less rice to consume as the quantity transacted of rice decreases from Qe to Q1 after the imposition of the effective price ceiling.	(2 marks)
+
+Question code: B1C06Q302 (new)
+Buckwheat (蕎麥) is a staple food of Russians. Suppose the Russian government imposes a price ceiling on buckwheat at the level above its equilibrium price.
+(a)	Explain whether the price ceiling on buckwheat is effective.	(3 marks)
+(b)	Suppose the harvest of buckwheat is very poor due to a serious drought (旱災). With the aid of a diagram, explain the economic phenomenon which can be observed in the market for buckwheat.	(6 marks)
+
+Answers: 
+(a)	No.			(1 mark)
+	Consumers and producers trade at the equilibrium price as the price is allowed by the government.	(2 marks)
+(b)	Indicate on the diagram:
+	(	Leftward shift in supply curve	(1 mark)
+	(	Shortage	(1 mark)
+	
+	Verbal elaboration:
+	Due to the serious drought, the supply of buckwheat decreases from S1 to S2.
+				(1 mark)
+	The price ceiling becomes effective as the new equilibrium price (P1) is higher than the price ceiling (Pc).	(2 marks)
+	A shortage of Q2 - Q1 can be observed in the market for buckwheat.	(1 mark)
+
+Question code: B1C06Q303
+The rent for private residential housing has risen sharply. Some people have urged the government to impose a ceiling on rent to help poor families rent a flat.
+(a)	Would it be easier or harder to rent a flat after the government imposes an effective price ceiling? Explain your answer with the aid of a diagram.	(4 marks)
+(b)	Under a price ceiling, what would happen to the quantity transacted if more families are allowed to move from the mainland to Hong Kong? Explain.
+				(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Price ceiling below the equilibrium price	(1 mark)
+(	Shortage at the price ceiling	(1 mark)
+	
+	Verbal elaboration:
+(	Under a price ceiling, the market will experience a shortage of rented residential housing.	(1 mark)
+(	As a result, some people will be unable to rent a flat. In other words, the price ceiling would make it harder to rent a flat.	(1 mark)
+(b)	Demand to rent private residential housing will increase if more mainland families are allowed to move to Hong Kong.	(2 marks)
+	Since the quantity supplied remains unchanged, under the effective price ceiling, the quantity transacted also remains unchanged.	(2 marks)
+
+Question code: B1C06Q304
+Study the following demand and supply schedules of a good.
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units)	
+70	10	22	
+60	14	20	
+50	18	18	
+40	22	16	
+30	26	14	
+
+(a)	What is a price ceiling?	(2 marks)
+(b)	If the government imposes a price ceiling of $60, find and explain the market price and quantity transacted.	(5 marks)
+
+Answers: 
+(a)	A price ceiling is the maximum price allowed by the government.	(2 marks)
+(b)	(	The price ceiling is ineffective as it is set above the equilibrium price.
+	(2 marks)
+	(	Since there is excess supply at that price, competition among sellers will drive the market price down to the equilibrium level, i.e., $50.	(2 marks)
+	(	Hence, at the equilibrium price ($50), the quantity transacted will be the quantity demanded or the quantity supplied, i.e. 18 units.	(1 mark)
+
+Question code: B1C06Q305 (new)
+The price of Home Ownership Scheme (HOS) flats is set below the equilibrium price. The right to purchase the flats is allocated by drawing lots. Explain with the aid of a diagram how an increase in the price of private housing will affect the chance of gaining the right to purchase an HOS flat.	(6 marks)
+
+Answers: 
+Indicate on the diagram:
+(	Rightward shift in demand curve	(1 mark)
+(	Increase in excess demand 	(1 mark)
+
+Verbal elaboration:
+The increase in the price of private housing increases the demand for HOS flats from D1 to D2 as private housing is a close substitute for HOS flats. 	(1 mark)
+At the controlled price (P1), the rise in demand increases the excess demand from 
+Q2 - Q1 to Q3 - Q1.	(2 marks)
+As the excess demand increases, the chance of gaining the right to purchase an HOS flat decreases.	(1 mark)
+
+Question code: B1C06Q306
+Study rooms in public libraries are provided to students for free. Yet the number of seats is fixed. Explain with the aid of a diagram why long queues are found outside the study rooms.	(4 marks)
+
+Answers: 
+(	Since the number of seats in the study rooms is fixed, the supply curve is vertical.			(1 mark)
+(	A shortage (Q2 - Q1) exists when the price is zero. Therefore, long queues are found outside the study rooms.	 (1 mark)
+	(2 marks)
+
+Question code: B1C06Q307 (new)
+Fishing is a declining industry in City H. Many fishermen have left the industry because of the low income. To preserve this industry, the government decides to impose a price floor on seafood to increase the total income of fishermen. With the aid of a diagram, explain under what circumstance the goal can be achieved.	(7 marks)
+
+Answers:
+Indicate on the diagram:
+(	Effective price floor	(1 mark)
+(	Gain in total income > Loss in total income	(2 marks)
+
+Verbal elaboration:
+The imposition of an effective price floor will cause the price to increase from P1 to Pf and the quantity transacted to decrease from Q1 to Q2.	(2 marks)
+If the demand for seafood is inelastic, the percentage increase in price will be greater than the percentage decrease in quantity transacted. Hence, fishermen's total income will increase.	(2 marks)
+
+Question code: B1C06Q308
+To increase farmers' income, a government imposes an effective price floor on wheat.
+(a)	How will the quantity transacted and the price of wheat change after the imposition of a price floor? Explain your answer with the aid of a diagram.
+				(4 marks)
+(b)	Explain whether the above policy will necessarily increase farmers' total income.
+				(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+(	Price floor above the equilibrium price	(1 mark)
+(	Price increases and the quantity transacted decreases	(1 mark)
+
+
+	Verbal elaboration:
+	The quantity transacted will decrease and the price will increase.	(2 marks)
+(b)	Not necessarily.	(1 mark)
+The change in farmers' total income depends on the price elasticity of demand. If demand is elastic / unitarily elastic, farmers' total income will decrease / remain unchanged.	(2 marks)
+
+Question code: B1C06Q309
+An economist says, 'If the government imposes a minimum wage, unemployment will be worse when there is an economic downturn.'
+(a)	Explain this statement with the aid of a diagram.	(4 marks)
+(b)	Draw another diagram to explain how the development of the West Kowloon Cultural District would help reduce unemployment.	(4 marks)
+
+Answers: 
+(a)	(	An economic downturn will lower the demand for labour (D1(D2).	(1 mark)
+	(	At the minimum wage rate (W1), unemployment will worsen (increases from L1 - L2 to L1 - L3).	(1 mark)
+
+	(2 marks)
+
+(b)	(	The demand for labour will increase when the West Kowloon Cultural District is developed.	 (1 mark)
+	(	The number of people who are unemployed will decrease from L1 - L3 to L1 - L2 if the wage rate is fixed.	 (1 mark)
+
+	(2 marks)
+
+Question code: B1C06Q310
+Nowadays, many university graduates want to be teachers at government schools because of stable, lucrative (豐厚) salaries. However, most have searched for teaching posts at government schools but have failed to gain one.
+(a)	Using a well-labelled diagram, explain why many people cannot obtain teaching posts at government schools.	(4 marks)
+(b)	One of the graduates said, 'If the government lowers the wage rate of teachers, I will have a better chance of getting a teaching post.'
+	Is he correct? Explain with the aid of a diagram.	(5 marks)
+
+Answers: 
+(a)
+	(2 marks)
+(	As the government sets the wage rate (W1) above the equilibrium level (W0), the quantity supplied is greater than the quantity demanded (an excess supply of teachers at W1).	(1 mark)
+(	At W1, there are Q2 people searching for teaching posts but only Q1 people are hired (i.e., an excess supply equal to Q2 - Q1).	(1 mark)
+(b)	(	Yes.	 (1 mark)
+	(	Suppose the government lowers the wage rate from W1 to W2.
+
+	(2 marks)
+
+	(	The quantity supplied of teachers will be lower and the excess supply will be smaller.	(1 mark)
+(	Assume everyone has an equal chance of obtaining a teaching post. Since the number of people seeking teaching posts has decreased, he will have a greater chance of obtaining a teaching post.	(1 mark)
+
+Question code: B1C06Q311
+Suppose after the introduction of superstores in public estates, stalls in the markets at public estates lose business. While the rentals of the stalls in these markets remained unchanged, The Link (領匯) found that the vacancy rate of the stalls had increased.
+(a)	Explain this phenomenon with a well-labelled diagram.	(5 marks)
+(b)	Suppose in order to increase the total rental income from the stalls in markets, The Link lowered the rental of the stalls. However, the total rental income instead decreased. Explain with the aid of a diagram why this happened.	 (4 marks)
+
+Answers: 
+(a)	(	The supply of market stalls at public estates is fixed (S).	(1 mark)
+
+	(1 mark)
+
+Suppose at the original rental rate (R0), the market for the market stalls at public estates is at equilibrium.
+	(	If The Link still sets the rental of stalls at R0, the decrease in demand (due to the introduction of the superstores) will lead to excess supply at that price.		(1 mark)
+	(	Therefore, the quantity transacted will be only Q1, a quantity smaller than the quantity available (Q0).		(2 marks)
+(b)
+		(2 marks)
+
+	(	If the demand for stalls in the markets of public estates is inelastic (Ed < 1), the loss in revenue due to a lower rental will be larger than the gain in revenue due to an increase in quantity demanded.	(2 marks)
+	(	Therefore, the total rental income will decrease after a decrease in rental.
+
+Question code: B1C06Q312
+* Suppose after incinerators (焚化爐) are built, the rental of flats at a nearby private housing estate drops drastically while the vacancy rate remains at zero. On the other hand, the rental of flats at a public housing estate near the incinerators remains unchanged while the vacancy rate increases.
+Suppose the rentals of flats in private housing estates and public housing estates are uniform. Explain the above phenomena with separate diagrams.	(13 marks)
+
+Answers: 
+(	The supply of flats in public housing estates is fixed (S).	(1 mark)
+
+	
+				(2 marks)
+Suppose the original rental rate (R0) is at the equilibrium level.
+(	Since the rental rate of public housing estates is set by the government but not according to the demand and supply, there will be excess supply when the demand decreases due to the building of incinerators.	(2 marks)
+(	Therefore, the quantity transacted is only Q1, a quantity smaller than the quantity available (Q0). The number of vacant flats increases from 0 to (Q0 - Q1).	(2 marks)
+(	The supply of flats in private housing estates is fixed (S).	(1 mark)
+	(2 marks)
+
+Suppose the original rental rate (R0) is at the equilibrium level. 
+(	Since the rental rate of flats in private housing estates is set according to the demand and supply, the rental rate will decrease to R1 when the demand decreases due to the building of incinerators.	(2 marks)
+(	Therefore, the quantity transacted will not decrease. The number of vacant flats remains at zero.	(1 marks)
+
+Question code: B1C06Q313 (new)
+Ticket prices atconcerts in Hong Kong are fixed. People can buy concert tickets online through the Urban Ticketing System (URBTIX) (城市電腦售票網). Suppose people's incomes have increased in recent years. It has been reported that it is more difficult to access the URBTIX website because of overcrowding when concert tickets for popular singers are on sale. With the aid of a diagram, explain the relationship between the increase in income and the above phenomenon.	(8 marks)
+
+Answers: 
+(	This implies that the concerts of popular singers are a normal good: people's demand for them will increase (D0(D1) when their income increases.	(3 marks)
+(	The fixed price (Pf) will become lower than the new equilibrium price (Pe) after the increase in demand, leading to excess demand. Hence, website overcrowding occurs.		(3 marks)
+	(2 marks)
+
+Question code: B1C06Q314 (new)
+Citizens in Country F enjoy drinking soft drinks very much with the result that the country has a serious problem of obesity. To deal with the problem, the government decides to impose an effective quota on soft drinks.
+(a)	Explain why citizens' demand for soft drinks tends to be inelastic.	(2 marks)
+(b)	Suppose citizens' demand for soft drinks is inelastic. Explain the effect of the quota on the total expenditure on soft drinks.	(6 marks)
+
+Answers:
+(a)	This is because they have developed the habit of drinking soft drinks.	(2 marks)
+(b)	Indicate on the diagram:
+	(	Effective quota	(1 mark)
+	(	Increase in total expenditure > Decrease in total expenditure	(2 marks)
+
+	
+	Verbal elaboration:
+	After the imposition of the quota, the supply of soft drinks will change from S1 to Sq.			(1 mark)
+	The price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.			(1 mark)
+	As the demand for soft drinks is inelastic, the percentage increase in price will be larger than the percentage decrease in quantity transacted.	(1 mark)
+	Hence, the total expenditure on soft drinks will increase.	(1 mark)
+
+Question code: B1C06Q315 (new)
+Suppose the government has imposed an effective price floor on Good X.
+(a)	With the aid of a diagram, explain the effects of the price floor on the price and quantity transacted of Good X.	(4 marks)
+(b)	Martin said, 'Imposing a quota can also have the same effects as the price floor.' Drawing on the same diagram, explain how the quota should be set to achieve the goal.	 (3 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	(	Effective price floor	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	Verbal elaboration:
+	When the price floor is set at P2, the price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.	(2 marks)
+(b)	Indicate on the diagram:
+	(	Effective quota	(1 mark)
+	Verbal elaboration:
+	The same effects on price and quantity transacted can also be achieved if a quota is set at Q2.	(2 marks)
+
+Question code: B1C06Q316
+The following table shows the demand for and the supply of a good.
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units)	
+2	15	9	
+3	14	10	
+4	13	11	
+5	12	12	
+6	11	13	
+
+*(a) What are the quantity transacted and total revenue if the government imposes a price floor at $4?	(3 marks)
+(b)	If the government imposes a quota of 11 units instead, what are the quantity transacted and the total revenue?	(3 marks)
+
+Answers:
+(a)	Quantity transacted = 12 units	(1 mark)
+	Total revenue = $5 × 12 = $60	(2 marks)
+(b)	Quantity transacted = 11 units	(1 mark)
+	Total revenue = $6 × 11 = $66	(2 marks)
+
+Question code: B1C06Q317
+To ensure that local citizens have enough pork to eat, a government imposes an effective export quota on pork, so that locally produced pork is mainly available in the local market.
+(a)	How will the price of exported pork change? Explain your answer with the aid of a diagram.	(4 marks)
+(b)	How will the quota affect the quality of exported pork? Explain your answer.
+			(4 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+(	Quota below the equilibrium quantity	(1 mark)
+(	Price increases	(1 mark)
+	
+	Verbal elaboration:
+Due to the imposition of the effective quota, supply changes from S1 to S2.
+	(1 mark)
+The price increases from P1 to P2.	(1 mark)
+(b)	Both prices of higher quality pork and lower quality pork increase by the same amount (i.e., the price of a quota right).	(1 mark)
+	As a result, the price of higher quality pork relative to the price of lower quality pork will decrease.	(1 mark)
+	According to the law of demand, relatively more pork of higher quality will be exported.	(1 mark)
+	Thus, the quality of exported pork will improve.	(1 mark)
+
+Question code: B1C06Q318
+Explain with the aid of a diagram the effects of the abolition of an effective quota on the market price, quantity transacted and the total revenue of the producers.	(7 marks)
+
+Answers: 
+Suppose a quota of Q0 is initially imposed.
+
+	(2 marks)
+(	After the abolition of the quota, the market price decreases from P0 to P1.	(1 mark)
+(	The quantity transacted increases from Q0 to Q1.	(1 mark)
+(	The effect on total revenue is uncertain, depending on the price elasticity of demand.		(1 mark)
+(	If the demand is elastic (Ed > 1), the decrease in price will lead to an increase in total revenue. / If the demand is inelastic (Ed < 1), the decrease in price will lead to a decrease in total revenue. / If the demand is unitarily elastic (Ed = 1), the decrease in price will not affect the total revenue.	 (Any ONE, 2 marks)
+
+Question code: B1C06Q319
+Explain the effects of the abolition of an effective import quota on cameras on the market price, quantity transacted and total revenue of domestic camera producers.
+				(4 marks)
+
+Answers: 
+(	After the abolition of the import quota, the market price of imported cameras decreases.	(1 mark)
+(	Since domestically produced cameras and imported cameras are close substitutes, the demand for domestically produced cameras will decrease as the price of imported cameras decreases.	(1 marks)
+(	The decrease in demand causes both the market price and quantity transacted of domestically produced cameras to decrease.	(1 mark)
+(	As both price and quantity decrease, the total revenue decreases.	(1 mark)
+
+
+Question code: B1C06Q320
+Study the following information regarding the imported bananas of a country:
+
+Unit price ($)	1	2	3	4	5	6	
+Quantity supplied (units) - before the policy 	100	200	300	400	500	600	
+Quantity supplied (units) - after the policy 	100	200	300	300	300	300	
+
+* (a)	Name and explain the government policy exhibited in the above data.	(3 marks)
+(b)	Suppose the country's demand for imported bananas is inelastic and the policy is effective. Explain how the policy will affect the total value of bananas imported.				(6 marks)
+
+Answers: 
+(a)	(	Quota / Import quota	(1 mark)
+	(	A quota is the maximum amount of output that the government allows.
+		(1 mark)
+	(	According to the above data, the quota on imported bananas is 300 units.			(1 mark)
+(b)	(	After the quota is imposed, the supply of imported bananas decreases.					(1 mark)
+	(	Since the supply decreases, the equilibrium price will increase while the quantity transacted will decrease. 	(2 marks)
+	(	If the demand for imported bananas is inelastic, the percentage increase in price will be greater than the percentage decrease in quantity transacted.			(2 marks)
+	(	The total value of bananas imported will increase.	(1 mark)
+
+Structured Questions
+
+Question code: B1C06Q501 (new)
+Air pollution is serious in City J. This is mainly caused by the combustion of diesel fuel as the city has a huge number of vehicles. The government imposes an effective quota on the sale of diesel.
+(a)	With the aid of a diagram, explain the effects of the quota on the price and quantity transacted. Explain under what condition the total expenditure on diesel will decrease.	(9 marks)
+(b)	How does the quota affect the price and quantity transacted of new private cars?
+				(3 marks)
+(c)	Bi-fuel vehicles are vehicles that consist of two engines which use both diesel and natural gas as fuels. The use of bi-fuel vehicles produces less air pollution.
+	'The government should impose a price ceiling to reduce the price of bi-fuel vehicles so that more drivers can afford to buy them to replace their old vehicles. This will improve air quality,' said a legislator.
+	Do you agree with him? Explain your answer with the aid of a supply-demand diagram of bi-fuel vehicles.	(6 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Effective quota	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	(	Increase in total expenditure < Decrease in total expenditure	(2 marks)
+	
+	Verbal elaboration:
+	When the government imposes a quota at Q2, the supply of diesel changes from S1 to Sq.		(1 mark)
+	The price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.			(2 marks)
+	If the demand for diesel is elastic, the percentage increase in price will be smaller than the percentage decrease in quantity transacted. Hence, the total expenditure on diesel will decrease.	(2 marks)
+
+(b)	Private cars and diesel are complements.	(1 mark)
+	The quota increases the price of diesel and decreases the demand for new private cars.	(1 mark)
+	As demand decreases, both the price and quantity transacted of new private cars decrease.	(1 mark)
+
+(c)	Indicate on the diagram:
+	(	Effective price ceiling	(1 mark)
+	(	Decreases in price and quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	No.			(1 mark)
+	Although it is true that the price will decrease (from Pe to Pc), the quantity transacted will also decrease (from Qe to Qc).	(2 marks)
+	Thus, the price ceiling cannot help people replace old vehicles with bi-fuel vehicles and so cannot improve air quality.	(2 marks)
+
+Question code: B1C06Q502
+Suppose the government of Thailand announces a rice support programme. Under the programme, the government will directly purchase rice from local farmers for a price that is 50% above the market level. The Thai government plans to resell the rice on the international market at the purchase price. However, in recent years, Thailand has faced fierce competition from Vietnam and India in the market for exported rice.
+*(a)	How will the above programme affect rice farmers' total income in Thailand? Explain with the aid of a diagram.	(6 marks)
+(b)	How will the above programme affect the ratio of Thai rice to Vietnamese rice consumed by Hong Kong people? Explain.	(6 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Both price and quantity transacted increase.	(1 mark)
+(	Total income increases.	(1 mark)
+	
+	Verbal elaboration:
+(	Since the purchase price is higher than the market price, farmers will sell all that they produce to the government at the purchase price. Therefore, the quantity transacted is equal to the quantity supplied.	(2 marks)
+(	Both the price and quantity transacted increase. Thus, rice farmers' total income will increase.	(2 marks)
+
+(b)	An increase in the price of Thai rice will lead to a decrease in its quantity demanded.	(2 marks)
+	Since Vietnamese rice is a close substitute for Thai rice, an increase in the price of Thai rice will lead to an increase in the demand for Vietnamese rice.	(2 marks)
+	As a result, the ratio of Thai rice to Vietnamese rice consumed by Hong Kong people will fall.	(2 marks)
+
+Question code: B1C06Q503
+In China, some companies complain that their factories cannot obtain enough electricity, especially during hot summers. Some argue that the reason behind this is the government's price ceiling on electricity.
+(a)	Explain with the aid of a diagram how the price ceiling has led to an insufficient supply of electricity for some factories.	(4 marks)
+(b)	What is the effect of the price ceiling on electricity producers' total revenue?
+	(2 marks)
+(c)	Why is the problem worse during hot summers?	(2 marks)
+(d)	Coal is commonly used to produce electricity in China. If there is no price ceiling, how will the price for electricity change when the price for coal increases? Explain your answer with the aid of a diagram.	(5 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Price ceiling below the equilibrium price	(1 mark)
+(	Shortage at the price ceiling	(1 mark)
+	
+	Verbal elaboration:
+The price ceiling will create a shortage of electricity. As the quantity demanded is greater that the quantity supplied, some factories cannot obtain enough electricity.	(2 marks)
+
+(b)	Since both the price and quantity transacted decrease, the total revenue decreases.			(2 marks)
+
+(c)	During hot summers, the demand for electricity increases (e.g., more people use air conditioners) and so the excess demand for electricity increases.	(2 marks)
+
+(d)	Indicate on the diagram:
+(	Supply curve shifts leftwards.	(1 mark)
+(	Price increases and the quantity transacted decreases.	(1 mark)
+
+	Verbal elaboration:
+	(	When the price for coal increases, the cost of generating electricity increases. Thus, the supply of electricity will decrease.	(2 marks)
+	(	The electricity price will increase from P1 to P2 and the quantity transacted will decrease from Q1 to Q2.	(1 mark)
+
+Question code: B1C06Q504
+There are three cross-harbour tunnels in Hong Kong. They are the Cross-Harbour Tunnel, the Western Harbour Tunnel and the Eastern Harbour Tunnel. Suppose the government plans to construct a fourth cross-harbour tunnel.
+(a)	The Cross-Harbour Tunnel is always very congested. Explain why traffic congestion would increase the cost of using the Cross-Harbour Tunnel.	(4 marks)
+(b)	Draw a diagram to explain why the utilisation rate of the Western Harbour Crossing is far below its maximum capacity.	(4 marks)
+(c)	Suppose the utilisation rate of the Eastern Harbour Crossing is at equilibrium. With the aid of a diagram, explain how the reduction in the toll for the Eastern Harbour Crossing will affect its total revenue.	(6 marks)
+
+Answers: 
+(a)	(	The cost of using the Cross-Harbour Tunnel includes the toll and the highest-valued option forgone of the travel time. 	(2 marks)
+	(	Traffic congestion increases travel time and hence the value of the highest-valued option forgone. So the cost of using the Cross-Harbour Tunnel will increase.	(2 marks)
+
+(b)	The utilisation rate of the Western Harbour Crossing is far below its maximum capacity because the toll is set above the equilibrium. Hence, excess supply exists.				(2 marks)
+		(2 marks)
+
+(c)	(	Since the Eastern Harbour Crossing is at equilibrium, lowering the toll will result in a shortage (Q2 - Q1). 	(2 marks)
+	(	The utilisation rate will remain unchanged (Q1). Therefore, a decrease in toll will lower the total revenue from P1 × Q1 to P2 × Q1.	(2 marks)
+
+		(2 marks)
+
+Question code: B1C06Q505
+In Country X, before the opening of ABC Park, there was only one amusement park. The maximum number of people the amusement park can serve is 100,000 people per day.
+(a)	Explain with the aid of a diagram why queues are usually found outside the amusement park.	 (6 marks)
+(b)	Explain why the opening of ABC Park can help improve the situation mentioned in (a).	(3 marks)
+(c)	Explain with the aid of a diagram why an extension of the amusement park can help improve the situation mentioned in (a).	(5 marks)
+
+Answers: 
+(a)	Since the fee (P1) for the amusement park is below the equilibrium level, the quantity demanded exceeds the maximum daily capacity of the park, resulting in excess demand.	(3 marks)
+	(3 marks)
+
+(b)	As ABC park and the existing amusement park are close substitutes for each other, the opening of ABC park can help reduce the demand for the amusement park, reducing or even eliminating the excess demand.	 (3 marks)
+
+(c)	After the extension, the amusement park can serve more people every day. This can help reduce or even eliminate the excess demand.	(2 marks)
+	(3 marks)
+
+Question code: B1C06Q506 (new)
+The 2014 Asian Games were held in Incheon (仁川), Korea.
+(a)	Because of the Asian Games, many visitors went to the city and found that the rates for hotel accommodation had increased significantly. How did this affect the quantity transacted and total rental income from hotel accommodation in Incheon? Explain with the aid of a diagram.	(5 marks)
+(b)	Suppose the ticket prices for all games were the same. It was reported that there were many vacant seats at some games, while people asked for more tickets at other popular games.
+	(i)	Explain the phenomena with the aid of TWO separate diagrams.	(8 marks)
+	(ii)	An official of the Asian Games said, 'We could have increased our total revenue from the sale of the tickets if the price of unpopular games had been lowered.'
+		Was he correct? Explain with the aid of a diagram.	(5 marks)
+
+Answers: 
+(a)	(	As many visitors went to Incheon, the demand for hotel accommodation increased (D0 ( D1).	(1 mark)
+	
+				(2 marks)
+	(	Both the rental rate and the quantity transacted would increase.	(1 mark)
+	(	Therefore, the total rental income would increase.	(1 mark)
+
+(b)	(i)	(	Since the fixed ticket price (P0) of some unpopular games was above the equilibrium (P1),	(1 mark)
+		(	there would be excess supply, i.e., vacant seats  (= Q1 - Q0).	(1 mark)
+		(2 marks)
+		(	Since the fixed ticket price (P0) of some popular games was below the equilibrium (P2),	(1 mark)
+		(	there would be excess demand, i.e., people asked for more tickets 
+(= Q2 - Q1).	(1 mark)
+		(2 marks)
+	(ii)	(	Uncertain. The change in total revenue depends on the elasticity of demand.	(1 mark)
+
+			(2 marks)
+		(	Suppose the ticket price was lowered from P0 to P1.
+			(	If the demand for tickets was elastic (Ed > 1), the percentage increase in quantity demanded would be greater than the percentage decrease in price and the total revenue would increase after the decrease in price.
+			(	If the demand was inelastic (Ed < 1), the percentage increase in quantity demanded would be smaller than the percentage decrease in price and the total revenue would decrease after the decrease in price.
+			(	If the demand for tickets was unitarily elastic (Ed = 1), the percentage increase in quantity demanded would be equal to the percentage decrease in price and the total revenue would remain unchanged after the decrease in price.	(Any ONE, 2 marks)
+
+Question code: B1C06Q507
+Sochi (索契), in Russia, hosted the Winter Olympic Games in 2014. Many people visited Sochi during that period. This led to a drastic increase in the demand for hotel accommodation in Sochi.
+(a)	Suppose the market for hotel accommodation in Sochi was originally in equilibrium and the rental rate of hotel accommodation was fixed and uniform. Explain with the aid of a diagram how the holding of the Winter Olympic Games would affect the total revenue of hotels in Sochi.	(8 marks)
+* (b)	Suppose there were reports that terrorists were planning to launch attacks in Sochi during the games.
+	(i)	Explain with the aid of a diagram why this would cause room vacancies.
+			(6 marks)
+	(ii)	An official said, 'There will not be any vacant rooms if the rental rate is determined by market demand and supply.' Do you agree with him? Explain with the aid of a diagram.	(6 marks)
+
+Answers: 
+(a)	(	Since the supply of hotel accommodation was fixed, the supply curve was vertical at the fixed quantity (Q0).	(1 mark)
+		Since the rental rate was fixed and uniform, the increase in demand (D0(D1) would lead to excess demand (= Q1 - Q0).	(2 marks)
+		(3 marks)
+
+	(	Since the quantity transacted remained unchanged and the rental rate was fixed and uniform, the increase in demand would not raise the total revenue of hotels.	(2 marks)
+
+(b)	(i)	(	Because the event would decrease the demand for hotel accommodation.					(1 mark)
+
+					(3 marks)
+(	Since the supply and rental rate were both fixed, there would be excess supply, i.e., vacant rooms might be found (= Q0 - Q2).	(2 marks)
+	(ii)	(	Agree. When the rental rate is determined by market demand and supply, the decrease in demand will cause the rental rate to decrease to P2.	(1 mark)
+			Therefore, the quantity demanded will increase to Q0, and no excess supply will exist.	(2 marks)
+		
+			(3 marks)
+
+Question code: B1C06Q508
+Suppose the public's income has been falling in recent years and some people are urging the government to lower the effective minimum wage rate of foreign domestic helpers.
+(a)	With the aid of a diagram, explain the effect of the proposed reduction in the minimum wage rate on the total income of foreign domestic helpers.	(6 marks)
+(b)	What are the combined effects of the decline in the public's income and the fall in the minimum wage rate on the employment and the total income of foreign domestic helpers? Explain your answer.	(5 marks)
+(c)	Suppose the government rejects the proposal to lower the minimum wage rate of foreign domestic helpers. On the other hand, local domestic helpers have agreed to a lower wage rate for their services.
+	(i)	In what kind of demand are foreign domestic helpers and local domestic helpers?	(1 mark)
+	(ii)	What are the effects of the fall in the wage rate of local domestic helpers on the employment and the total income of foreign domestic helpers? Explain with the aid of a diagram.	(5 marks)
+(d)	To solve the problem of the high unemployment rate among unskilled workers, a government official suggests retraining unskilled workers to become local domestic helpers. What are the effects of the retraining programme on the wage rate, employment and the total income of local domestic helpers? Briefly explain WITHOUT the aid of a diagram.	 (4 marks)
+
+Answers: 
+(a)	Suppose the government lowers the effective minimum wage rate from W0 to W1.
+	(	The effect of lowering the minimum wage rate on the total income of foreign domestic helpers depends on the price elasticity of demand for them.	(2 marks)
+	(	If the demand is elastic (Ed > 1), the lower wage rate will lead to an increase in total income. / If the demand is inelastic (Ed < 1), the lower wage rate will lead to a fall in total income. / If the demand is unitarily elastic (Ed = 1), the lower wage rate will not lead to any change in total income.	(Any ONE, 2 marks)
+		
+					(2 marks)
+
+(b)	(	The fall in the public's income will reduce the demand for foreign domestic helpers.	(1 mark)
+	(	The fall in the public's income will tend to decrease the employment of foreign domestic helpers while the fall in the minimum wage rate will tend to increase their employment.	(2 marks)
+	(	The overall effect on employment is uncertain, depending on the magnitude of the reduction in demand and the fall in the minimum wage rate.	(1 mark)
+	(	Thus, although the wage rate has fallen, the effect on total income is uncertain as the effect on employment is uncertain.	(1 mark)
+
+(c)	(i)	They are in competitive demand / substitute demand.	(1 mark)
+	(ii)	(	The fall in the wage rate of local domestic helpers will reduce the demand for foreign domestic helpers (D0(D1).	(1 mark)
+		(	As a result, the employment of foreign domestic helpers will fall (L0(L1).	(1 mark)
+		(	Since the minimum wage rate remains unchanged at W0 and employment falls, the total income of foreign domestic helpers will fall.	(1 mark)
+
+			(2 marks)
+
+(d)	(	The retraining programme will increase the supply of local domestic helpers.			(1 mark)
+	(	The wage rate of local domestic helpers will drop.	(1 mark)
+	(	Employment will increase.	(1 mark)
+	(	Thus, the effect on total income is uncertain, depending on the price elasticity of demand. 	(1 mark)

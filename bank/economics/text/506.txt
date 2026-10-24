@@ -1,0 +1,1728 @@
+Chapter 6	Fiscal policy and the budget
+
+
+Multiple Choice Questions
+
+Question code: B5C06Q001
+According to the equity principle, which of the following persons should pay the most income tax?
+A.	Alice, who is a housewife, and lives in a poor family.
+B.	Boyle, who is a famous singer, and earns US$100 million per year.
+C.	Cat, who is a retired government officer, and receives pension benefits of $20,000 per month.
+D.	David, who is a small investor, and earns interest income of $20,000 per year.
+
+Answer: B
+
+Question code: B5C06Q002
+Hong Kong taxpayers can pay many types of taxes at convenience stores. This practice is in line with the ________ principle of taxation.
+(1)	equity
+(2)	certainty
+(3)	convenience
+(4)	economy
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: B
+
+
+Question code: B5C06Q003
+Refer to the following table:
+
+Taxable income ($)	Tax rate (%)	
+	Tax A	Tax B	Tax C	
+1,000	10	0	20	
+10,000	10	15	15	
+100,000	10	10	10	
+
+Which of the above taxes achieves the equality principle advocated by Adam Smith?
+A.	Tax A
+B.	Tax B
+C.	Tax C
+D.	Tax A and Tax B
+
+Answer: A
+
+Question code: B5C06Q004
+* Study the following table about the income tax system in Lucky Town.
+
+Taxable income ($)	Total tax payment ($)	
+Below 1,000	800	
+1,000 - 1,999	500	
+2,000 - 2,999	100	
+Above 3,000	0 - 50
+(Determined by a lucky draw 
+at the time of payment)	
+All people should pay their taxes in person at a specified time.	
+
+Based on the table above, we can conclude that the income tax violates
+(1)	the equity principle.
+(2)	the certainty principle.
+(3)	the convenience principle.
+(4)	the economy principle.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2) and (3) only
+D.	All of the above
+
+Answer: D
+Explanation
+Under the income tax system, the higher the taxable income, the lower the total tax payment. Thus, the income tax system violates the equity principle.
+The income tax system violates the certainty principle as the total tax payment (for the taxpayers who have taxable incomes above $3,000) is not certain.
+The income tax system violates the convenience principle as the timing and the method of payment are not convenient for taxpayers.
+The income tax system violates the economy principle as the government has to incur the unnecessary cost of holding lucky draws. The cost may be even higher than the tax payment (which can be zero).
+
+Question code: B5C06Q005
+'The government should simplify the method of tax payment to lower taxpayers' time costs.'
+Which of the following tax principles is suggested by the above statement?
+A.	Equity principle
+B.	Certainty principle
+C.	Convenience principle
+D.	Economy principle
+
+Answer: C
+
+Question code: B5C06Q006
+Which of the following is NOT a principle of taxation proposed by Adam Smith?
+A.	Equality principle
+B.	Conservative principle
+C.	Economy principle
+D.	Convenience principle
+
+Answer: B
+
+
+Question code: B5C06Q007
+Which of the following tax principles are suggested by Adam Smith?
+(1)	Ability-to-pay principle
+(2)	Certainty principle
+(3)	No tax evasion principle
+(4)	Fair and simple tax principle
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	(1), (2) and (4) only
+D.	All of the above
+
+Answer: A
+
+Question code: B5C06Q008
+Which of the following countries has applied the tax principles suggested by Adam Smith?
+A.	In Country A, all taxpayers pay the same amount of tax.
+B.	In Country B, all taxpayers are required to pay taxes in person.
+C.	In Country C, all taxpayers are certain about the taxes they need to pay.
+D.	In Country D, all taxpayers need to pay indirect taxes only.
+
+Answer: C
+
+Question code: B5C06Q009
+By setting up a large number of offices for taxpayers to pay taxes, a government is applying the ________ principle at the expense of the ________ principle proposed by Adam Smith.
+A.	convenience … economy
+B.	economy … convenience
+C.	equality … certainty
+D.	certainty … equality
+
+Answer: A
+
+
+Question code: B5C06Q010
+Study the following table.
+
+Taxable income	Marginal tax rate	
+First $20,000	2.5%	
+Next $20,000	5%	
+Next $20,000	7.5%	
+
+According to the above table, within the given tax bands, the tax is
+A.	a proportional tax.
+B.	a regressive tax.
+C.	a progressive tax.
+D.	Insufficient information to answer
+
+Answer: C
+Explanation
+As the tax rate increases with taxable income, the tax is a progressive tax.
+
+Question code: B5C06Q011
+The following table shows the income tax system of Lion City.
+
+Taxable income ($)	Tax payment ($)	
+10,000	X	
+20,000	Y	
+30,000	600	
+
+If the tax is a regressive tax, the possible value of X is ________ and the possible value of Y is ________.
+A.	200; 400
+B.	300; 500
+C.	200; 500
+D.	None of the above
+
+Answer: B
+
+
+Question code: B5C06Q012
+Refer to the following table:
+
+Taxable income ($)	Tax amount ($)	
+0	0	
+1,000	50	
+5,000	X	
+
+If the above tax is progressive, which of the following is the possible value of X?
+A.	25
+B.	100
+C.	250
+D.	300
+
+Answer: D
+Explanation
+X must be greater than 250 (= 5,000 × 50 ÷ 1,000).
+
+Question code: B5C06Q013
+The following table shows the income tax system of Tax City.
+
+Taxable income ($)	Tax payment ($)	
+0	0	
+50,000	5,000	
+100,000	X	
+
+If the tax is a progressive tax, which of the following is a possible value of X?
+A.	8,000
+B.	10,000
+C.	12,000
+D.	None of the above
+
+Answer: C
+
+
+Question code: B5C06Q014
+* Refer to the following diagram about Tax H.
+
+Tax H is
+A.	a progressive tax.
+B.	a proportional tax.
+C.	a regressive tax.
+D.	There is insufficient information to answer this question.
+
+Answer: C
+Explanation
+Since the average tax rate decreases when the taxable income increases, Tax H is a regressive tax.
+
+
+Question code: B5C06Q015
+Which of the following diagrams does NOT illustrate a regressive tax?
+
+
+Answer: D
+
+
+Question code: B5C06Q016
+Refer to the following diagrams about taxes in Country X and Country Y.
+
+According to the above diagrams, which of the following statements is correct?
+A.	The tax in Country X is a proportional tax while the tax in Country Y is a progressive tax.
+B.	Both taxes are a proportional tax.
+C.	Both taxes are a progressive tax.
+D.	The tax in Country X is a progressive tax while the tax in Country Y is a proportional tax.
+
+Answer: B
+
+
+Question code: B5C06Q017
+Refer to the following diagrams about taxes in Country X and Country Y.
+
+The tax in Country X is a ________ tax and the tax in Country Y is a ________ tax.
+A.	regressive; progressive
+B.	proportional; regressive
+C.	regressive; regressive
+D.	proportional; progressive
+
+Answer: C
+
+Question code: B5C06Q018
+Which of the following statements are correct?
+(1)	If a tax is a progressive tax, the tax payment must increase when taxable income increases.
+(2)	If a tax is a proportional tax, the tax rate must be uniform.
+(3)	If a tax is a regressive tax, the tax payment must decrease when taxable income increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+
+Question code: B5C06Q019
+In Hong Kong, which of the following taxes is progressive?
+A.	Profits tax
+B.	Property tax
+C.	Stamp duty
+D.	Salaries tax
+
+Answer: D
+
+Question code: B5C06Q020
+Which of the following taxes is the best example of a progressive tax in Hong Kong?
+A.	Tobacco duty
+B.	Stamp duty
+C.	General rates
+D.	Salaries tax
+
+Answer: D
+
+Question code: B5C06Q021
+If a tax is a ________ tax, ________ when the taxable income decreases.
+A.	progressive; the total tax payment will increase
+B.	proportional; the total tax payment will be constant
+C.	regressive; the average tax rate will decrease
+D.	regressive; the total tax payment will be uncertain
+
+Answer: D
+
+Question code: B5C06Q022
+In Hong Kong, property tax is
+(1)	a progressive tax.
+(2)	a proportional tax.
+(3)	an indirect tax.
+(4)	a direct tax.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: D
+Explanation
+In Hong Kong, the property tax rate is uniform.
+
+Question code: B5C06Q023
+Study the following table.
+
+Taxable income	Marginal tax rate	
+First $10,000	2%	
+Next $10,000	10%	
+Remainder	20%	
+
+According to the above table, the tax should be classified as
+(1)	a progressive tax.
+(2)	a regressive tax.
+(3)	a direct tax.
+(4)	an indirect tax.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+Explanation
+The tax is calculated with respect to taxable income and so the taxpayer cannot shift the tax burden to another party. This implies that the tax is a direct tax.
+
+Question code: B5C06Q024
+Which of the following statements is INCORRECT?
+A.	Suppose there is an increase in the salaries tax rate. Other things being constant, the salaries tax revenue will increase if the percentage fall in total salaries is smaller than the percentage rise in the tax rate.
+B.	Suppose the salaries tax is a progressive tax. Other things being constant, if there is inflation, salaries tax revenue will increase.
+C.	A salaries tax can be either a direct tax or an indirect tax.
+D.	A salaries tax can be regressive.
+
+Answer: C
+
+Question code: B5C06Q025
+In Hong Kong, the profits tax is
+A.	a direct and proportional tax.
+B.	a direct and regressive tax.
+C.	an indirect and proportional tax.
+D.	an indirect and regressive tax.
+
+Answer: A
+
+Question code: B5C06Q026
+In Hong Kong, which of the following is a direct tax?
+A.	Motor vehicles first registration tax
+B.	Bets and sweeps tax
+C.	Profits tax
+D.	Duty on tobacco
+
+Answer: C
+
+Question code: B5C06Q027
+Which of the following is an indirect tax in Hong Kong?
+A.	Salaries tax
+B.	Profits tax
+C.	Property tax
+D.	Air passenger departure tax
+
+Answer: D
+
+Question code: B5C06Q028
+In Hong Kong, which of the following events does NOT involve a direct tax?
+A.	Alex, a licensed hawker, earns $1 million per year.
+B.	Boyle, a foreign singer, holds a concert in Hong Kong and earns $1 million.
+C.	Charles, a son of a rich man, receives monthly rental income of $1 million from letting properties in Hong Kong.
+D.	Doris, a speculator, has a capital gain of $1 million from trading shares on the Hong Kong stock exchange.
+
+Answer: D
+
+Question code: B5C06Q029
+In Hong Kong, which of the following items is NOT liable for indirect taxes?
+A.	Mark Six lottery
+B.	Wine
+C.	Share transfers
+D.	Property transactions
+
+Answer: B
+
+Question code: B5C06Q030
+Which of the following statements is INCORRECT?
+A.	A direct tax burden cannot be shifted to others but an indirect tax burden can.
+B.	Direct taxes satisfy the equity principle of taxation but indirect taxes do not.
+C.	The imposition of a direct tax will lower the aggregate demand of an economy while the imposition of an indirect tax will lower the short run aggregate supply of the economy.
+D.	All of the above are correct
+
+Answer: B
+Explanation
+Whether a tax satisfies the equity principle depends on the tax rate structure, but not whether the tax is a direct tax or not.
+
+Question code: B5C06Q031
+Which of the following statements is correct?
+A.	Direct tax refers to a tax which cannot be paid by a party other than the taxpayer.
+B.	Indirect tax is a tax which is paid by the taxpayer indirectly.
+C.	Profits tax is an indirect tax as businesspeople can shift part of their profits taxes to consumers by raising prices.
+D.	Some indirect taxpayers might not shift their tax burden to another party.
+
+Answer: D
+Explanation
+The tax burden of an indirect tax is determined by the elasticity of demand and the elasticity of supply. For example, when a sales tax is imposed on a good, if the demand is perfectly elastic or the supply is perfectly inelastic, sellers will not shift their tax burden to consumers.
+
+Question code: B5C06Q032
+Which of the following statements is INCORRECT?
+A.	Direct taxes are usually levied on income or wealth.
+B.	To satisfy the equity principle of taxation, direct taxes are generally proportional or progressive.
+C.	Indirect taxes are usually levied on goods and services.
+D.	To satisfy the economy principle of taxation, tax payments from indirect taxes are generally uniform.
+
+Answer: D
+
+Question code: B5C06Q033
+* Let C, Y and c% be the consumption expenditure on Good X, total income and percentage of consumption expenditure on Good X in total income, respectively. The percentage tax rate on Good X is 5%.
+Which of the following statements is INCORRECT?
+(1)	If all people have the same c%, the tax is a proportional tax.
+(2)	If c% increases, C must increase.
+(3)	If c% of the higher-income group is smaller than that of the lower-income group, Good X must be an inferior good.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+Explanation
+Average tax rate =  =  = c% × 5%
+Option (1) is a correct statement. If all people have the same c%, they will have the same average tax rate. Thus, the tax is a proportional tax.
+Option (2) is an incorrect statement. c% will also increase if Y decreases or the percentage decrease in Y is greater than the percentage decrease in C.
+Option (3) is an incorrect statement. The demand for inferior goods will decrease as income increases. Suppose both income groups pay the same price for Good X. Even if c% of the higher-income group is smaller than that of the lower-income group, C (i.e., consumption expenditure on Good X) of the higher-income group may still be greater than that of the lower-income group. This implies that the higher-income group's demand for Good X is greater than the lower-income group's demand for Good X. In this case, Good X cannot be an inferior good.
+
+Question code: B5C06Q034
+Study the following table.
+
+	April	Johnson	
+Annual income ($000)	1,000	500	
+Annual consumption expenditure ($000)	800	500	
+
+Suppose the government imposes a 10% goods and services tax. Which of the following statements are INCORRECT?
+(1)	The tax is a regressive tax as it is an indirect tax.
+(2)	April's tax payment is greater than Johnson's tax payment.
+(3)	April's average tax rate is greater than Johnson's average tax rate.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B5C06Q035
+Study the following diagram about the economic situation of Country A.
+
+From the above diagram, we can conclude that
+A.	Country A has experienced a recovery.
+B.	government revenue from sales taxes is more stable than that from salaries taxes.
+C.	the growth rate of real national income is positive.
+D.	revenue from direct taxes is greater than that from indirect taxes.
+
+Answer: B
+
+Question code: B5C06Q036
+Which of the following statements is correct?
+A.	Fiscal policy is a government measure to increase government revenue by stimulating economic growth.
+B.	Generally speaking, a major source of government revenue is land sales.
+C.	Adam Smith suggested four principles of taxation. They are equality, certainty, convenience and economy
+D.	When the government increases the tax rate, government revenue must increase.
+
+Answer: C
+
+Question code: B5C06Q037
+Which of the following statements about Hong Kong is correct?
+A.	Hong Kong has a territorial source principle of taxation. Thus, all incomes of Hong Kong residents are liable to taxation.
+B.	Hong Kong has three types of direct tax only. They are profits tax, salaries tax and capital gains tax.
+C.	The major source of government revenue in Hong Kong is indirect taxes.
+D.	Although Hong Kong is a free port, some goods are subject to customs duty.
+
+Answer: D
+
+Question code: B5C06Q038
+In Hong Kong, which of the following items are sources of government revenue other than direct taxes and indirect taxes?
+(1)	General rates
+(2)	Land premiums
+(3)	Fines, forfeitures and penalties
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+Question code: B5C06Q039
+Study the following diagram.
+
+During the period, the size of the public sector was
+A.	decreasing.
+B.	increasing.
+C.	first decreasing and then increasing.
+D.	first increasing and then decreasing.
+
+Answer: B
+
+Question code: B5C06Q040
+Which pair of the following economic goals can be achieved at the same time by adjusting direct taxes?
+(1)	Lowering the unemployment rate in the short run
+(2)	Relieving inflationary pressure in the short run
+(3)	Stimulating economic growth in the short run
+A.	(1) and (2)
+B.	(1) and (3)
+C.	(2) and (3)
+D.	None of the above
+
+Answer: B
+
+
+Question code: B5C06Q041
+Suppose an economy faces the problem of unemployment in the short run. By cutting ________, the government can increase people's disposable income. As a result, ________ will increase and so will the output level and the employment level.
+A.	direct taxes; the short run aggregate supply
+B.	direct taxes; the aggregate demand
+C.	indirect taxes; the short run aggregate supply
+D.	indirect taxes; the aggregate demand
+
+Answer: B
+
+Question code: B5C06Q042
+Which of the following diagrams can best illustrate the effect of a rise in direct taxes?
+
+
+Answer: C
+
+
+Question code: B5C06Q043
+Which of the following statements is correct?
+A.	The government can settle the problem of unemployment by raising direct taxes.
+B.	The government can solve the problems of inflation and overheating by raising indirect taxes.
+C.	The government can cool the economy by cutting direct taxes.
+D.	The government can stimulate economic growth in the short run by cutting indirect taxes.
+
+Answer: D
+
+Question code: B5C06Q044
+Which of the following is the LEAST likely effect of increasing transfer payments?
+A.	Reducing unemployment
+B.	Reducing income inequality
+C.	Raising full employment national income
+D.	Raising the price level
+
+Answer: C
+
+Question code: B5C06Q045
+* Which pair of economic goals CANNOT be achieved at the same time by adjusting direct taxes?
+A.	Stimulating long run economic growth and stabilising the price level
+B.	Stabilising the price level and solving the problem of overheating
+C.	Stimulating long run economic growth and reducing income inequality
+D.	Stabilising the price level and solving the problem of unemployment
+
+Answer: C
+Explanation
+Option A is not the answer. Suppose there is deflation. The government can stabilise the price level by cutting the salaries tax. At the same time, it can stimulate long run economic growth by reducing the progressivity of the salaries tax. Then, both goals will be achieved.
+Option B is not the answer. When there is a problem of overheating, an inflationary gap exists. The government can relieve inflationary pressure and solve the problem of overheating at the same time by raising the salaries tax.
+Option C is the answer. To reduce income inequality by adjusting direct taxes, the government can raise the progressivity of direct taxes. However, this will reduce input suppliers' incentive to supply factors of production and cannot stimulate long run economic growth.
+Option D is not the answer. When there is unemployment, a deflationary gap exists. The government can stabilise the price level and solve the problem of unemployment at the same time by cutting the salaries tax.
+
+Question code: B5C06Q046
+Suppose the government wants to maintain price stability and low unemployment. Which of the following can help the government meet the targets when the national income of its trading partner decreases?
+A.	Lowering income taxes
+B.	Increasing income taxes
+C.	Lowering general sales taxes
+D.	Increasing general sales taxes
+
+Answer: A
+
+Question code: B5C06Q047
+Due to a persistent increase in oil prices, Country A experiences serious inflation. Which of the following policies can help relieve the problem without lowering real national income in the short run?
+A.	Raising property taxes
+B.	Raising general rates
+C.	Reducing the progressivity of the salaries tax
+D.	Lowering stamp duty
+
+Answer: D
+
+Question code: B5C06Q048
+Income distribution in Hong Kong is very uneven. Which of the following policies can help reduce income inequality without lowering the long run equilibrium real national income?
+A.	Raising the progressivity of direct taxes
+B.	Cutting indirect taxes on producer goods
+C.	Providing more tax incentives for investment
+D.	Raising personal allowances for salaries tax
+
+Answer: D
+
+Question code: B5C06Q049
+Study the following table.
+
+Taxable income ($000)	Tax payment ($000)	
+	Tax System of Country X	Tax System of Country Y	
+100	10	5	
+200	20	25	
+300	30	125	
+
+Refer to the above data. Which of the following conclusions can be drawn?
+A.	Country X must have lower income inequality.
+B.	The tax base of Country X is wider.
+C.	Both tax systems are consistent with the ability-to-pay principle of taxation.
+D.	The government tax revenue of Country Y is higher.
+
+Answer: C
+
+Question code: B5C06Q050
+Refer to the following diagram.
+
+Which of the following government policies can account for the above changes?
+A.	Raising salaries tax and lowering the environmental levy on plastic shopping bags
+B.	Lowering profits tax and raising property taxes
+C.	Raising government expenditure and duty on gasoline
+D.	Reducing transfer payments and allowances for taxpayers
+
+Answer: A
+
+Question code: B5C06Q051
+Refer to the following diagram.
+
+If the equilibrium moves from Point X to Point Y, which of the following policies may have been adopted by the government?
+A.	Cutting salaries tax and raising sales taxes
+B.	Cutting profits tax and reducing the progressivity of the salaries tax
+C.	Cutting property taxes and indirect taxes imposed on sellers
+D.	Cutting sales taxes and raising the progressivity of the salaries tax
+
+Answer: C
+
+
+Question code: B5C06Q052
+* Refer to the following diagram.
+
+Suppose the initial long run equilibrium is at Point X. Which of the following government policies would help the economy achieve the new long run equilibrium at Point Y?
+A.	Raising tax deductions for self-education expenses under the salaries tax
+B.	Cutting indirect taxes on producer goods
+C.	Granting tax credits for research and development
+D.	Increasing expenditures on infrastructure and salaries taxes
+
+Answer: D
+Explanation
+Options A, B and C are incorrect. They would increase both long run aggregate supply and aggregate demand.
+Option D is correct. While increasing expenditures on infrastructure would increase both long run aggregate supply and aggregate demand, the increase in salaries taxes would decrease aggregate demand. As a result, aggregate demand may remain unchanged.
+
+Question code: B5C06Q053
+Country Derik is the only tax-free country in the world. If the government wants to reduce income inequality by introducing a new tax, which of the following taxes will LEAST likely be chosen?
+A.	Salaries tax
+B.	Capital gains tax
+C.	Luxury tax
+D.	General sales tax
+
+Answer: D
+
+Question code: B5C06Q054
+Country X faces the problems of unemployment and inflation in the short run. Which of the following policies can help solve the two problems at the same time?
+(1)	Lowering sales taxes
+(2)	Increasing production subsidies
+(3)	Lowering salaries taxes
+(4)	Increasing transfer payments
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+
+Question code: B5C06Q055
+Suppose Country X's government adopts a new policy. The following diagram shows the short run effect of the new policy.
+
+If the problem of income inequality worsens as a result of the new policy, which of the following policies may have been adopted by the government?
+(1)	Decreasing textbook assistance for students in need
+(2)	Cutting funding for social enterprises
+(3)	Raising the progressivity of the salaries tax
+(4)	Raising luxury taxes
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+
+Question code: B5C06Q056
+Suppose there is a deflationary gap in Country A. In the long run, which of the following policies may be adopted to close the gap and avoid inflation?
+(1)	Increase government expenditure
+(2)	Cut indirect taxes
+(3)	Do nothing
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+Question code: B5C06Q057
+When an economy faces the problem of ________ in the ________, the government can solve this problem by ________.
+A.	overheating; long run; reducing government expenditure
+B.	unemployment; short run; increasing transfer payments
+C.	inflation; long run; lowering salaries taxes
+D.	a fiscal deficit; short run; raising tax rates
+
+Answer: B
+
+Question code: B5C06Q058
+Suppose an economy was in a state of long run equilibrium. Due to the increase in aggregate demand, the economy experiences demand-pull inflation. Which of the following policies can help solve the problem in the long run?
+(1)	Cutting government expenditure
+(2)	Raising direct taxes
+(3)	Cutting indirect taxes
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B5C06Q059
+* Suppose an economy was in a state of long run equilibrium. Due to a continuous increase in wood prices, the economy experiences cost-push inflation. Which of the following policies can help stabilise prices in the short run?
+(1)	Raising direct taxes
+(2)	Cutting government expenditure
+(3)	Cutting indirect taxes
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C06Q060
+Suppose Economy X is in the recovery stage of the business cycle and the nominal GDP growth rate is positive. Which of the following situations will most likely occur?
+A.	The proportion of salaries tax revenue in total government revenue will decrease.
+B.	Government revenue from salaries taxes will increase.
+C.	The government will have a surplus budget.
+D.	Public expenditure as a percentage of GDP will increase.
+
+Answer: B
+
+Question code: B5C06Q061
+Which of the following statements about a government budget is NOT necessarily true?
+A.	A government budget is a financial statement of a government's estimated revenue and expenditure in a fiscal year.
+B.	A government budget has either an expansionary effect or a contractionary effect on the real national income in the long run.
+C.	The overall effect of a balanced budget is expansionary.
+D.	The overall effect of a surplus budget can be expansionary.
+
+Answer: B
+
+
+Question code: B5C06Q062
+Which of the following statements CANNOT explain why the overall effect of a balanced budget is expansionary?
+A.	The expansionary effect of an increase in government expenditure is greater than the contractionary effect of an increase in government revenue.
+B.	When both government expenditure and government revenue increase, part of households' savings are seized by the government to finance government expenditure.
+C.	The contractionary effect of a decrease in government expenditure is smaller than the expansionary effect of a decrease in government revenue.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C06Q063
+Refer to the diagram below about the economic situation of an economy.
+
+Suppose the economy is initially at Point X. If the government introduces a head tax (人頭稅) to finance an increase in government expenditure, at which point will the new short run equilibrium most likely be attained?
+A.	Point R
+B.	Point S
+C.	Point Y
+D.	Point Z
+
+Answer: C
+Explanation
+As the expansionary effect of the increase in government expenditure is greater than the contractionary effect of the introduction of a head tax (i.e., the increase in government revenue), aggregate demand will increase. As both the introduction of a head tax and the increase in government expenditure will not affect short run aggregate supply, the new short run equilibrium will be attained at Point Y.
+
+Question code: B5C06Q064
+Which of the following budgets can be expansionary?
+(1)	A balanced budget
+(2)	A deficit budget
+(3)	A surplus budget
+A.	(2) only
+B.	(3) only
+C.	(1) and (2) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C06Q065
+Suppose the government spends HK$25 billion to build a sewage treatment plant and the cost is financed by a new environmental levy. This will result in
+(1) a balanced budget in the year of construction.
+(2)	an increase in employment in the short run.
+(3)	an inflationary gap in the short run.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C06Q066
+If the government wants to finance its increased expenditure on employment services by raising the salaries tax rate, which of the following statements is correct?
+A.	This policy will have an expansionary effect on the economy in the short run.
+B.	The potential real GDP must decrease as working incentives will decrease.
+C.	The size of the public sector will remain unchanged.
+D.	Real aggregate expenditure will remain unchanged as the decrease in private consumption expenditure is equal to the increase in government expenditure.
+
+Answer: A
+
+Question code: B5C06Q067
+Suppose the government imposes a general sales tax in order to widen the tax base. At the same time, it increases transfer payments to the poor. Which of the following statements is correct?
+A.	The budget will be balanced.
+B.	Overall, these policies will have an expansionary effect on economy.
+C.	These policies can reduce income inequality.
+D.	The size of the public sector will increase.
+
+Answer: D
+Explanation
+Option B is not correct. The government may not use the entire general sales tax revenue to finance the increase in transfer payments. It is possible that the overall effect of these policies is contractionary if the increase in transfer payments is too small.
+
+Question code: B5C06Q068
+Which of the following statements about a surplus budget is correct?
+A.	A surplus budget implies that there is a decrease in government expenditure.
+B.	A surplus budget is the same as a fiscal surplus.
+C.	A surplus budget can lead an economy to contract.
+D.	A surplus budget will increase the size of a government.
+
+Answer: C
+
+Question code: B5C06Q069
+Which of the following statements is INCORRECT?
+A.	The budget balance is an estimated figure while the fiscal balance is an actual figure.
+B.	In the short run, the government can increase real national income by increasing taxation and government expenditure by the same amount.
+C.	A deficit budget will increase the size of the public sector.
+D.	The fiscal balance may have a surplus even if there is a budget deficit.
+
+Answer: C
+
+
+Question code: B5C06Q070 (new)
+Which of the following government policies will lead to a leftward shift in the aggregate demand curve?
+A.	Lowering the standard tax rate for the salaries tax
+B.	Reducing the tax allowance for the salaries tax
+C.	Increasing government spending on infrastructure
+D.	Extending free education to 18 years
+
+Answer: B
+
+Question code: B5C06Q071 (new)
+Refer to the following diagram.
+
+Which of the following government policies will shift the aggregate demand curve from AD0 to AD1?
+A.	Expelling foreign refugees
+B.	Increasing the penalty for disobeying traffic lights
+C.	Purchasing new rubbish bins to replace the old ones
+D.	Privatising water supply services to reduce government spending
+
+Answer: C
+
+
+Question code: B5C06Q072 (new)
+If Country X's government imposes a waste disposal charge in which every household pays an equal amount of money, the country's __________ will decrease, and the country's real GDP will __________.
+A.	investment expenditure … increase
+B.	investment expenditure … decrease
+C.	private consumption expenditure … increase
+D.	private consumption expenditure … decrease
+
+Answer: D
+
+Question code: B5C06Q073 (new)
+Suppose the government allows investment expenses to improve energy efficiency to be profits tax deductible. In the short run, the output level will __________ and the price level will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: A
+
+Question code: B5C06Q074 (new)
+The government employs students to collect statistical data during the summer holiday. The expenditure on the project is financed by fiscal reserves. This will
+A.	raise the output level in the long run.
+B.	lower the price level in the long run.
+C.	cause a fiscal deficit.
+D.	raise the employment level in the short run.
+
+Answer: D
+
+
+Question code: B5C06Q075 (new)
+Country C faces the problem of overheating. Which of the following can simultaneously lower output and price levels in the short run?
+A.	Reducing unemployment benefits
+B.	Imposing a goods and services tax
+C.	A strike by airline cabin crew
+D.	Providing a subsidy to local film production companies
+
+Answer: A
+
+Question code: B5C06Q076 (new)
+Which of the following can a government do to simultaneously solve the problems of inflation and unemployment in the short run?
+A.	Providing subsidies to factories for using the latest production technology
+B.	Providing cash allowances to low-income families
+C.	Issuing bonds with inflation-linked interest rates
+D.	Redeveloping a town centre
+
+Answer: A
+
+Question code: B5C06Q077 (new)
+City Q is initially at long run equilibrium. Suppose the city's stock market experiences a boom. Which of the following policies can counteract the effects of the boom on price and output levels?
+A.	Raising the goods and services tax rate
+B.	Lowering the minimum wage
+C.	Reducing the capital gains tax (資本增值稅)
+D.	Lowering the income limit for the low-income working family allowance
+
+Answer: D
+
+
+Question code: B5C06Q078 (new)
+Suppose the government gives $6,000 to every citizen. Which of the following are the effects of the above measure?
+(1)	Aggregate demand increases.
+(2)	The output level increases in the short run.
+(3)	The price level increases in the long run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C06Q079 (new)
+The government has announced that it will provide tax benefits to companies which set up corporate treasury centres in Hong Kong. Which of the following correctly describes the effects of the above measure?
+A.	Government consumption expenditure will increase and aggregate demand will increase.
+B.	The government's fiscal balance will deteriorate and aggregate demand will decrease.
+C.	Gross investment expenditure will increase and aggregate demand will increase.
+D.	Firms' production costs will decrease and short run aggregate supply will increase.
+
+Answer: C
+
+
+Question code: B5C06Q080 (new)
+To save on resources, the government simplifies the design of its infrastructure projects to cut unnecessary costs. Suppose the number of infrastructure projects is not affected. Which of the diagrams best illustrates the long run effect on the economy?
+
+Answer: A
+
+
+Question code: B5C06Q081 (new)
+Suppose Country U increases the tax allowance for research and development. Which of the following diagrams can best illustrate the effect of the above policy?
+
+
+Answer: D
+
+
+Question code: B5C06Q082 (new)
+Country Z is an agricultural economy. Suppose the government reduces both the profits tax and subsidies on agricultural products. Which of the following diagrams can best illustrate the effect of the above policy?
+
+
+Answer: C
+
+Question code: B5C06Q083 (new)
+Which of the following policies can narrow a deflationary gap and lower the price level?
+A.	Suspending some infrastructure construction projects
+B.	Lowering the general sales tax
+C.	Increasing subsidies to low-income families
+D.	All of the above
+
+Answer: B
+
+Question code: B5C06Q084 (new)
+Which of the following policies raises output level in the long run?
+(1)	Subsidising the operation of food bank
+(2)	Subsidising the construction of telecommunication networks
+(3)	Subsidising non-governmental organisations to operate schools
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B5C06Q085 (new)
+If a country __________, the aggregate output will decrease in the long run.
+A.	raises the minimum age for immigrants
+B.	annexes (吞併) the territory of its neighbouring country
+C.	increases medical allowances for the elderly
+D.	accepts refugees from a war zone
+
+Answer: A
+
+Question code: B5C06Q086 (new)
+Refer to the following diagram. Point X is the initial equilibrium.
+
+Suppose the government removes a per-unit sales tax. In the short run, __________; in the long run, __________.
+A.	AD1 will shift to AD2 … SRAS1 will shift to SRAS2
+B.	AD1 will shift to AD2 … AD2 will shift back to AD1
+C.	SRAS1 will shift to SRAS2 … SRAS2 will shift back to SRAS1
+D.	SRAS1 will shift to SRAS2 … AD1 will shift to AD2
+
+Answer: C
+
+
+Question code: B5C06Q087 (new)
+Country K's aggregate output is now at the full employment level. If the government __________, an inflationary gap will arise.
+A.	subsidises small enterprises
+B.	stops accepting refugees
+C.	introduces sales taxes on most consumer goods
+D.	increases the progressivity of the salaries tax
+
+Answer: A
+
+Question code: B5C06Q088 (new)
+Country X originally operates at long run equilibrium. Which of the following will result in an inflationary gap?
+A.	A 'backpacker tax' on people taking a working holiday in Country X
+B.	An extra allowance for social security recipients
+C.	An increase in interest rates
+D.	Revaluation of the domestic currency
+
+Answer: B
+
+Question code: B5C06Q089 (new)
+Which of the following policies can relieve both unemployment and income inequality?
+A.	Increasing the standard tax rate
+B.	Starting construction of the third runway of the Hong Kong International Airport
+C.	Increasing the tobacco duty rate
+D.	Building more public estates
+
+Answer: D
+
+
+Short Questions
+
+Question code: B5C06Q301
+Apart from 'equality' and 'certainty', explain TWO taxation principles proposed by Adam Smith.	(4 marks)
+
+Answers:
+•	Convenience principle: The timing and the method of payment should be convenient for taxpayers, i.e., reduce their costs.	(2 marks)
+•	Economy principle: The administrative costs that the government incurs from tax collection should be minimised.	(2 marks)
+
+Question code: B5C06Q302
+(a)	State the FOUR principles of taxation suggested by Adam Smith.	(2 marks)
+(b)	Explain how the four principles are applied to the salaries tax system in Hong Kong.	(8 marks)
+
+Answers:
+(a)	Equality principle, certainty principle, convenience principle and economy principle	(2 marks)
+(b)	Equality principle -- In Hong Kong, tax rates for salaries tax increase with taxpayers' taxable income.	(2 marks)
+Certainty principle -- In Hong Kong, the amount, the due date and the method of salaries tax payment are clearly described in the Notice of Assessment and Demand for Salaries Tax.	(2 marks)
+Convenience principle -- In Hong Kong, salaries taxes can be paid in two instalments separated by a quarter of a year. In addition, the government provides different methods by which taxpayers can pay their taxes.	(2 marks)
+Economy principle -- In Hong Kong, employers are required to inform the government about the salaries and pensions of their employees. This reduces the government's cost of collecting information on salaries.	(2 marks)
+(Accept any other reasonable answers.)
+
+
+Question code: B5C06Q303
+Study the following table.
+
+Taxable income	Tax payment	Average tax rate	
+$10,000	$500		
+$20,000	$2,000		
+$30,000	$6,000		
+
+(a)	Complete the above table.	(3 marks)
+(b)	Explain whether the tax is a progressive tax, proportional tax or regressive tax.
+	(2 marks)
+
+Answers:
+(a)
+Taxable income	Tax payment	Average tax rate	
+$10,000	$500	5%	
+$20,000	$2,000	10%	
+$30,000	$6,000	20%	
+	(3 marks)
+(b)	The tax is a progressive tax.	(1 mark)
+Because the average tax rate increases with taxable income.	(1 mark)
+
+
+Question code: B5C06Q304
+Study the following table.
+
+Taxable income	Marginal tax rate	
+First $10,000	40%	
+Next $10,000	30%	
+Next $10,000	20%	
+Remainder	10%	
+
+(a)	Based on the table above, draw the corresponding curve in the space provided below.	(2 marks)
+
+
+(b)	Explain whether the tax agrees with the equity principle of taxation.	(2 marks)
+
+Answers:
+(a)
+	(2 marks)
+(b)	The tax is a regressive tax.	(1 mark)
+It does not agree with the equity principle of taxation as the tax rates decrease with an increase in taxable income.	(1 mark)
+
+Question code: B5C06Q305
+(a)	Give ONE example of a progressive tax and proportional tax in Hong Kong, respectively.	(2 marks)
+(b)	In the space provided below, draw THREE curves to illustrate a progressive tax, proportional tax and regressive tax.	(3 marks)
+
+
+
+Answers:
+(a)	Progressive tax: Salaries tax
+Proportional tax: General rates, property tax and profits tax
+(ONE example for each type of tax. Accept other reasonable answers. 
+1 mark × 2 = 2 marks)
+(b)	
+	(3 marks)
+
+
+Question code: B5C06Q306
+(a)	What are a direct tax and an indirect tax? Give ONE example in Hong Kong for each type.	(4 marks)
+(b)	Explain whether a goods and services tax is
+(i)	a direct tax;	(1 mark)
+(ii)	a regressive tax.	(3 marks)
+
+Answers:
+(a)	A direct tax is a tax where the taxpayer cannot shift the tax burden to another party.	(1 mark)
+An indirect tax is a tax where the taxpayer can shift the tax burden to another party.	(1 mark)
+Examples of direct tax: profits tax, salaries tax and property tax
+(ONE of the above, 1 mark)
+Examples of indirect tax: stamp duty, bets and sweeps tax, general rates, duties on four dutiable goods, royalties and concessions, motor vehicles first registration tax and air passenger departure tax
+(ONE of the above, 1 mark)
+(b)	(i)	A goods and services tax is not a direct tax as the taxpayer (e.g., a seller) can shift the tax burden to another party (e.g., customers).	(1 mark)
+(ii)	A goods and services tax is levied on most goods and services. The higher income group spends a smaller proportion of its total income on the consumption of most goods and services than the lower income group. Thus, the higher income group has a smaller proportion of its income taxed under a goods and services tax. The tax rate for the higher income group is lower than that for the lower income group. Thus, a goods and services tax is a regressive tax.	(3 marks)
+
+Question code: B5C06Q307
+The Buyer's Stamp Duty (BSD) (買家印花稅) was introduced to combat the overheated property market in Hong Kong. An extra stamp duty of 15% is charged for residential property acquired by any person (including an incorporated company) except a Hong Kong permanent resident.
+(a)	Explain whether the BSD is a direct tax or an indirect tax.	(3 marks)
+(b)	With the aid of a diagram, briefly explain how the introduction of the BSD will affect the commercial property market.	(6 marks)
+
+
+Answers:
+(a)	•	It is an indirect tax.	(1 mark)
+•	Buyers of residential property can shift the tax burden by bargaining for a lower price. 	(2 marks)
+(b)	Indicate on the diagram:
+•	Demand curve shifts rightwards.	(1 mark)
+•	Both the price and quantity transacted increase.	(1 mark)
+
+Verbal elaboration:
+•	Commercial property and residential property are close substitutes.	(1 mark)
+•	After the introduction of the BSD, the prices of residential property for foreign investors increase. This will lead to the increase in the demand for commercial property.	(2 marks)
+•	As a result, both the price and quantity transacted of commercial property increase.	(1 mark)
+(Accept other reasonable answers.)
+
+Question code: B5C06Q308
+Explain why the Hong Kong government usually has more revenue from salaries tax during inflation.	(4 marks)
+
+Answers:
+During inflation, people's nominal salaries will most likely increase. If the tax allowances of the salaries tax remain unchanged, a larger proportion of nominal income exceeds the tax allowances and becomes taxable.	(2 marks)
+If the salaries tax rates remain unchanged, the larger taxable income means more tax revenue.	(2 marks)
+
+Question code: B5C06Q309
+(a)	What is fiscal policy?	(1 mark)
+(b)	Give TWO examples of fiscal policy tools.	(2 marks)
+
+Answers:
+(a)	Fiscal policy is a government measure aimed at achieving certain economic goals by adjusting government revenue and/or government expenditure.	(1 mark)
+(b)	Any two items in government revenue (e.g., income taxes) or government expenditure (e.g., government consumption expenditure)	(2 marks)
+
+Question code: B5C06Q310
+Country X's government would like to stimulate economic growth by cutting general sales taxes. With the aid of diagrams, briefly explain whether the policy works in the short run.	(5 marks)
+
+Answers:
+When the government cuts general sales taxes, the short run aggregate supply curve shifts downwards from SRAS1 to SRAS2.	(2 marks)
+The output level rises in the short run. The policy works.	(1 mark)
+	(2 marks)
+
+
+Question code: B5C06Q311
+(a)	What is an inflationary gap?	(2 marks)
+(b)	With the aid of a diagram, briefly explain how a government closes the gap by raising the salaries tax.	(5 marks)
+(c)	With the aid of a diagram, briefly explain how a market adjustment mechanism closes the gap.	(5 marks)
+
+Answers:
+(a)	An inflationary gap refers to a situation when the short run equilibrium output level is larger than the full employment output level.	(2 marks)
+(b)	If the government raises the salaries tax, people will have less disposable income. Thus, private consumption expenditure will decrease and so will aggregate demand.	(2 marks)
+The aggregate demand curve will shift leftwards from AD1 to AD2.	(1 mark)
+As a result, the inflationary gap is closed.
+	(2 marks)
+(c)	When there is an inflationary gap, there is an excess demand for inputs.	(1 mark)
+The excess demand for inputs raises input prices. The short run aggregate supply curve shifts upwards until the inflationary gap is closed.	(2 marks)
+	(2 marks)
+
+
+Question code: B5C06Q312
+Suppose an economy faces the problem of overheating. With the aid of a diagram, explain how the government can solve the problem by adjusting profits taxes.
+	(7 marks)
+
+Answers:
+As the economy faces the problem of overheating, an inflationary gap exists, i.e., the equilibrium output level is greater than the full employment output level.	(2 marks)
+If the government raises profits taxes, it is less profitable for firms to invest. Gross investment expenditure will decrease and so will aggregate demand.	(2 marks)
+The aggregate demand curve will shift leftwards from AD1 to AD2.	(1 mark)
+As a result, the inflationary gap is closed and so the problem is solved.
+	(2 marks)
+
+Question code: B5C06Q313
+Suppose there is demand-pull inflation. With the aid of a diagram, explain why cutting the general sales tax may solve the problem in the short run but leave the problem unsolved in the long run.	(10 marks)
+
+Answers:
+Demand-pull inflation is a problem of inflation caused by a continuous increase in aggregate demand.	(1 mark)
+Suppose the aggregate demand curve shifts rightwards from AD1 to AD2 and the short run equilibrium price level and output level become P1 and Y1, respectively. 
+If the government cuts the general sales tax, production costs of firms will decrease. Hence, the short run aggregate supply curve shifts downwards from SRAS1 to SRAS2.	(2 marks)
+In the short run, the price level will decrease from P1 to P2.	(1 mark)
+In the long run, as there is an inflationary gap, the excess demand for inputs will raise input prices. The short run aggregate supply curve shifts upwards until the inflationary gap is closed.	(2 marks)
+The price level will increase from P2 to P3. Thus, cutting the general sales tax cannot solve the problem in the long run.	(1 mark)
+	(3 marks)
+
+Question code: B5C06Q314
+Suppose there is cost-push inflation. With the aid of a diagram, explain why raising the salaries tax may solve the problem in the short run but lead to deflation in the long run.	(10 marks)
+
+Answers:
+Cost-push inflation is a problem of inflation caused by a continuous decrease in short run aggregate supply.	(1 mark)
+Suppose the short run aggregate supply curve shifts upwards from SRAS1 to SRAS2 and the short run equilibrium price level and output level become P1 and Y1, respectively.
+If the government raises the salaries tax, people's disposable income will decrease. Hence, the aggregate demand curve shifts leftwards from AD1 to AD2.	(2 marks)
+In the short run, the price level will decrease from P1 to P2.	(1 mark)
+In the long run, as there is a deflationary gap, the excess supply of inputs will lower input prices. The short run aggregate supply curve shifts downwards until the deflationary gap is closed.	(2 marks)
+The price level will decrease from P2 to P3. Thus, raising the salaries tax may lead to the problem of deflation in the long run.	(1 mark)
+	(3 marks)
+
+Question code: B5C06Q315
+* Sunset City faces a problem of unemployment. To solve this problem, the government decides to adjust either general sales taxes or transfer payments. With the aid of TWO separate diagrams, explain which measures should be chosen if the city also suffers from inflation.	(14 marks)
+
+Answers:
+The government can solve the problem of unemployment by cutting general sales taxes or raising transfer payments.	(1 mark)
+If the government chooses to cut general sales taxes, production costs will decrease. Hence, the short run aggregate supply curve shifts downwards from SRAS1 to SRAS2.	(2 marks)
+Both the output level and the employment level rise.	(1 mark)
+The price level will decrease.	(1 mark)
+	(2 marks)
+If the government chooses to raise transfer payments, people's disposable income will increase. At the same price level, private consumption expenditure increases. Hence, the aggregate demand curve shifts rightwards from AD1 to AD2.	(2 marks)
+Both the output level and the employment level rise.	(1 mark)
+The price level will also increase.	(1 mark)
+	(2 marks)
+The government should choose to cut general sales taxes as this can relieve inflationary pressure at the same time.	(1 mark)
+
+Question code: B5C06Q316
+Animal Farm (AF) has a presidential election. There are three candidates: Sheep, Wolf and Pig.
+(a)	Explain whether the following should be counted in AF's GDP.
+(i)	Salary paid by AF's government to count votes	(2 marks)
+(ii)	Lunch fees paid by Wolf to bribe the voters	(2 marks)
+(iii)	Cash given by Pig to bribe the voters	(2 marks)
+(b)	AF faces a serious problem of unemployment. Sheep promises that he will solve the problem by cutting the profits tax if he wins the election. Explain with the aid of a diagram how Sheep's proposal will work.	(6 marks)
+
+Answers:
+(a)	(i)	It should be counted	(1 mark)
+	because the salary is paid by the government, which is AF's resident producing unit.	(1 mark)
+	(ii)	It should be counted	(1 mark)
+	because it is the amount spent on the current production of a resident producing unit.	(1 mark)
+	(iii)	It should not be counted	(1 mark)
+	because it is just a transfer of money, which involves no production.	(1 mark)
+(b)	Indicate on the diagram:
+•	Original short run equilibrium real GDP which is smaller than full employment real GDP / Deflationary gap	(1 mark)
+•	Aggregate demand curve shifts rightwards.	(1 mark)
+•	Real GDP increases to its full employment level.	(1 mark)
+
+
+Verbal elaboration:
+•	As the economy faces a serious problem of unemployment, its real GDP is smaller than the full employment level / there is a deflationary gap.	(1 mark)
+•	After cutting the profits tax, it is more profitable for firms to invest. Thus, gross investment expenditure increases and the aggregate demand curve shifts rightwards. The problem of unemployment will be solved.	(2 marks)
+
+Question code: B5C06Q317
+Study the following news report about Rich City.
+
+(a)	What is the Gini coefficient? Based on the Gini coefficient, explain whether income distribution in the city is fair.	(3 marks)
+(b)	Suppose the government wants to relieve the problem of income inequality and stimulate long run economic growth.
+Explain briefly why the measure suggested by the news report CANNOT help the government achieve both goals at the same time.	(3 marks)
+
+Answers:
+(a)	The Gini coefficient is the ratio of the area between the 45-degree line and the Lorenz curve to the total area below the 45-degree line.	(2 marks)
+The Gini coefficient can be used to measure the degree of income inequality but it cannot tell us whether income distribution is fair or not.	(1 mark)
+(b)	If the government raises the progressivity of the salaries tax, the income gap between the rich and the poor will be narrowed. Thus, this measure can reduce income inequality.	(1 mark)
+However, this measure will lower the input suppliers' incentive to provide inputs. Thus, long run aggregate supply will decrease and so will the potential real GDP. As a result, this measure cannot stimulate long run economic growth.	(2 marks)
+
+Question code: B5C06Q318
+'In the long run, real national income will be restored to its long run equilibrium level. Thus, the government cannot stimulate long run economic growth by a fiscal policy.'
+Do you agree? Briefly explain your answer with ONE example.	(4 marks)
+
+Answers:
+No. The government can stimulate long run economic growth by implementing a fiscal policy which can increase the quantity of factors, the quality of factors or productivity.	(2 marks)
+Examples:
+•	Providing education subsidies
+•	Provision of tax relief to encourage investment
+•	Reducing the progressivity of direct taxes
+•	Cutting indirect taxes on producer goods
+(Any ONE of the above or other relevant tool of fiscal policy with brief explanation, 
+2 marks)
+
+Question code: B5C06Q319
+In King Kong City, land sales are the only source of government revenue. The source of government revenue has been criticised as being too narrow. To deal with this problem, the government is considering whether to introduce a general sales tax or a salaries tax.
+(a)	What are a direct and an indirect tax? Determine whether the above taxes are a direct tax or an indirect tax.	(3 marks)
+(b)	Which of the above taxes more likely satisfies the equality principle of taxation suggested by Adam Smith? Explain.	(3 marks)
+(c)	In the end, the government chooses to introduce a general sales tax. Briefly explain how this measure will affect real national income in the short run.
+	(2 marks)
+
+Answers:
+(a)	A direct tax is a tax where the taxpayer cannot shift the tax burden to another party.	(1 mark)
+An indirect tax is a tax where the taxpayer cannot shift the tax burden to another party.	(1 mark)
+Salaries tax is a direct tax while a general sales tax is an indirect tax.	(1 mark)
+(b)	Salaries tax.	(1 mark)
+This is because salaries tax is usually proportional or progressive while a general sales tax is usually regressive.	(2 marks)
+(c)	The introduction of a general sales tax will lead to a decrease in the short run aggregate supply. Real national income will decrease in the short run.	(2 marks)
+
+Question code: B5C06Q320
+In Country A, the government increases its consumption expenditure and income taxes at the same time. The rise in government expenditure is exactly the same as the increase in tax revenue. With the aid of an AS-AD diagram, explain how this would affect the real national income and price level in the short run.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Aggregate demand curve shifts rightwards.	(1 mark)
+•	Both the real national income and price level increase.	(1 mark)
+
+
+Verbal elaboration:
+•	As the expansionary effect of increasing government consumption expenditure is greater than the contractionary effect of raising income taxes, aggregate demand increases.	(2 marks)
+•	As a result, both real national income and the price level increase in the short run.	(1 mark)
+
+
+Question code: B5C06Q321
+(a)	What is a budget?	(2 marks)
+(b)	What is a balanced budget?	(1 mark)
+(c)	'The overall effect of a balanced budget is neutral.'
+Do you agree? Explain.	(3 marks)
+
+Answers:
+(a)	A budget is a financial statement of a government's estimated revenue and expenditure in a financial or fiscal year.	(2 marks)
+(b)	A balanced budget refers to a budget in which estimated government revenue is equal to estimated government expenditure.	(1 mark)
+(c)	No.	(1 mark)
+As the expansionary effect of government expenditure is greater than the contractionary effect of the same amount of government revenue, the overall effect of a balanced budget is expansionary.	(2 marks)
+
+Question code: B5C06Q322
+(a)	What is a budget?	(2 marks)
+(b)	How can we measure the size of a government?	(2 marks)
+(c)	Briefly explain the overall effect of a surplus budget.	(3 marks)
+
+Answers:
+(a)	A budget is a financial statement of a government's estimated revenue and expenditure in a financial or fiscal year.	(2 marks)
+(b)	The size of a government can be measured by:
+Public expenditure ÷ GDP × 100%	(2 marks)
+(c)	In a surplus budget, estimated government revenue is greater than estimated government expenditure.	(1 mark)
+As the expansionary effect of government expenditure is greater the contractionary effect of the same amount of government revenue, the overall effect of a surplus budget can be expansionary, neutral or contractionary.	(2 marks)
+
+Question code: B5C06Q323
+Tiger Country has a large fiscal deficit. The government considers introducing either a goods and services tax or a profits tax.
+(a)	What is a fiscal deficit? Must it be equal to a budget deficit?	(3 marks)
+(b)	Is a goods and services tax a direct tax? How about the profits tax? Explain.
+	(4 marks)
+
+Answers:
+(a)	A fiscal deficit is the difference between actual government revenue and actual government expenditure when the former is smaller than the latter.	(1 mark)
+A budget deficit is the difference between estimated government revenue and estimated government expenditure when the former is smaller than the latter.
+	(1 mark)
+A fiscal deficit is an actual figure while a budget deficit is an estimated figure. Thus, they may not be the same.	(1 mark)
+(b)	A goods and services tax is not a direct tax as the taxpayers of this tax can shift their tax burden to another party.	(2 marks)
+A profits tax is a direct tax as the taxpayers of this tax cannot shift their tax burden to another party.	(2 marks)
+
+Question code: B5C06Q324 (new)
+Suppose the Hong Kong government raises the profits tax rate.
+(a)	With the aid of a diagram, explain the effects on Hong Kong's price and output levels in the short run.	(5 marks)
+(b)	With reference to your answer in (a), explain whether the rise in profits tax rate will necessarily improve the fiscal balance.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Aggregate demand curve shifts leftwards.	(1 mark)
+•	Output level and price level decrease.	(1 mark)
+
+Verbal elaboration:
+The rise in profits tax rate lowers firms' after tax profits.	(1 mark)
+Gross investment expenditure and thus aggregate demand decrease.	(1 mark)
+The price level decreases from P1 to P2 and the output level decreases from Y1 to Y2 in the short run.	(1 mark)
+(b)	No.	(1 mark)
+	Although the tax rate increases, national income decreases. This will result in a decrease in firms' profits. If the increase in the tax rate is smaller than the percentage decrease in profits, government tax revenue will decrease. Therefore, the fiscal balance may not improve.	(2 marks)
+
+Question code: B5C06Q325 (new)
+Suppose the government reduces the standard tax rate for the salaries tax.
+(a)	With the aid of a diagram, explain the effects on price and output levels in the short run.	(6 marks)
+(b)	Explain how income distribution will change.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Aggregate demand curve shifts rightwards.	(1 mark)
+•	Both price and output levels increase.	(1 mark)
+
+Verbal elaboration:
+People's disposable income increases when the standard tax rate decreases.
+	(1 mark)
+Private consumption expenditure increases.	(1 mark)
+Aggregate demand increases from AD1 to AD2.	(1 mark)
+Therefore, the price level increases from P1 to P2 and the output level increases from Y1 to Y2 in the short run.	(1 mark)
+(b)	Income distribution will become more uneven.	(1 mark)
+	This is because the post-tax income of the high-income group will increase while that of the low-income group will remain unchanged.	(2 marks)
+
+Question code: B5C06Q326 (new)
+An economist proposed that the government increase the salaries tax for the rich and spend all the extra tax revenue on education and medical services. Discuss the effect on the aggregate output in the short run.	(5 marks)
+
+Answers:
+Aggregate output will increase.	(1 mark)
+Increasing the salaries tax will lower private consumption expenditure, resulting in a decrease in aggregate demand. However, an increase in expenditures on education and medical services will raise government consumption expenditure, and thus aggregate demand.	(2 marks)
+The expansionary effect of the increase in government expenditure is greater than the contractionary effect of the decrease in private consumption expenditure because households seldom spend all of their disposable income.	(2 marks)
+
+Question code: B5C06Q327 (new)
+Suppose the government lowers the maximum income limit for applying for low income cash assistance.
+(a)	With the aid of a diagram, explain the effect of the policy change on price and output levels in the short run.	(5 marks)
+(b)	Discuss the effect on income inequality.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Aggregate demand curve shifts leftwards.	(1 mark)
+	(	Price and output levels decrease in the short run.	(1 mark)
+	
+	Verbal elaboration:
+	Lowering the maximum income limit means fewer people can get the cash assistance. The income of affected people decreases. This lowers private consumption expenditure and thus aggregate demand.	(2 marks)
+	Price and output levels decrease in the short run.	(1 mark)
+(b)	The policy change worsens income inequality. Some people become ineligible for the cash assistance. The income of the lower income group decreases.	(2 marks)
+
+Question code: B5C06Q328 (new)
+Singapore provides an infant and child care subsidy to parents. Working parents of children aged from 2 months to 7 years old pay less to use child care services under the subsidy.
+(a)	With the aid of a diagram, explain the effects of the infant and child care subsidy on output and price levels in the short run.	(5 marks)
+(b)	Discuss the possible effect of the subsidy on the output level in the long run.
+	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Aggregate demand curve shifts rightwards.	(1 mark)
+•	Output level and price level increase.	(1 mark)
+
+Verbal elaboration:
+The subsidy raises working parents' disposable income.	(1 mark)
+Their consumption expenditure and thus aggregate demand increase.	(1 mark)
+The price level increases from P1 to P2 and the output level increases from Y1 to Y2 in the short run.	(1 mark)
+(b)	The subsidy may encourage more parents to enter the labour market / may result in an increase in the birth rate.	(1 mark)
+	Therefore, the size of the labour force grows.	(1 mark)
+	Long run aggregate supply increases and so does the output level.	(1 mark)
+
+Question code: B5C06Q329 (new)
+The Japanese government has announced a series of measures to stimulate the economy. To deal with the increase in government expenditure, the government may increase the sales tax rate from 8% to 10%. State TWO undesirable effects of raising the sales tax rate.	(4 marks)
+
+Answers:
+(	Raising the sales tax will increase production costs. The short run aggregate supply decreases, resulting in a decrease in output level and an increase in the price level.
+(	The unemployment problem worsens due to a decrease in the output level.
+(	Income distribution will become less even because the sales tax is regressive.
+(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+Question code: B5C06Q330 (new)
+During an economic downturn, a politician suggests that the government lower the salaries of government officials, legislative council members, and civil servants. Explain whether a decrease in salaries can help the economy return to the full employment output level.	(4 marks)
+
+Answers:
+Lowering their salaries will lower their disposable income.	(1 mark)
+Private consumption expenditure decreases.	(1 mark)
+Aggregate demand decreases.	(1 mark)
+Aggregate output decreases further from the full employment output level.	(1 mark)
+
+Question code: B5C06Q331 (new)
+In February 2016, the unemployment rate among those aged 15 to 29 was 12.5% in Korea. Suppose the government encourages unemployed youths to go back to school by providing subsidies.
+(a)	Explain how the unemployment rate among youths will be affected.	(3 marks)
+(b)	Discuss the effect of the above measure on the long run aggregate output.
+	(3 marks)
+
+
+Answers:
+(a)	When some of the unemployed go back to school, both the labour force and unemployed persons will decrease by the same amount.	(1 mark)
+	The unemployment rate will decrease because the percentage decrease in unemployed persons will be larger than the percentage decrease in the labour force.	(2 marks)
+(b)	As government expenditure on education increases, human capital will improve.
+	(1 mark)
+	Long run aggregate supply will increase.	(1 mark)
+	Hence, aggregate output will increase in the long run.	(1 mark)
+
+Question code: B5C06Q332 (new)
+The government of Country T has faced a serious fiscal deficit for years. The government decides to reduce unemployment benefits by half to relieve the problem. With the aid of a diagram, explain the effects of the policy on the price level and output level in the long run.	(8 marks)
+
+Answers:
+Indicate on the diagram:
+(	Leftward shift in aggregate demand curve	(1 mark)
+(	Vertical long run aggregate supply curve	(1 mark)
+(	Decrease in price level	(1 mark)
+
+Verbal elaboration:
+When unemployment benefits decrease, people's disposable income decreases.
+	(1 mark)
+Private consumption expenditure decreases.	(1 mark)
+Hence, aggregate demand decreases from AD1 to AD2.	(1 mark)
+In the long run, the price level decreases from P1 to P2 while the output level remains unchanged at Yf.	(2 marks)
+
+Question code: B5C06Q333 (new)
+* In June 2016, a basic income referendum (公投) was held in Switzerland. The proposal called for giving every citizen a basic income per month (2,500 Swiss francs for every adult and 625 for every child). Evaluate the effects of the proposal on Switzerland's short run output level, long run output level and Gini coefficient.
+	(6 marks)
+
+Answers:
+Short run output level:
+(	As citizens' disposable income increases, aggregate demand would increase. Hence, output level would increase in the short run.	(2 marks)
+Long run output level:
+(	The basic income would create disincentive effects. Some people may quit their jobs. The labour force would decrease. The long run aggregate supply would decrease. Hence, the long run output level would decrease.
+(	As children would be included in the basic income, parents would be encouraged to have more children. The population and the labour force would increase in the long run. The long run aggregate supply would increase. Hence, the long run output level would increase.
+(Any ONE of the above or other reasonable answer. 2 marks)
+Gini coefficient:
+(	Due to the basic income, the percentage increase in income of the low-income group would be higher than that of the high-income group. Therefore, the income gap between the low-income group and the high-income group would be smaller. The Gini coefficient would decrease.	(2 marks)
+
+Question code: B5C06Q334 (new)
+Country G is initially operating at long run equilibrium. Country G relies heavily on imported natural gas. Suppose the import price of natural gas has sharply increased recently.
+(a)	With the aid of an AS-AD diagram, explain the short run effect of the above event on Country G's price level and output level.	(6 marks)
+(b)	After the increase in the price of natural gas, Country G's government decides to grant firms a tax refund. With the aid of the same diagram, explain how the tax refund can help restore the country to long run equilibrium.	(5 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Correct position of initial long run aggregate output (Yf)	(1 mark)
+	•	Short run aggregate supply curve shifts leftwards.	(1 mark)
+	•	Price level increases and output level decreases.	(1 mark)
+	Verbal elaboration:
+	When the price of natural gas increases, the input price increases.	(1 mark)
+	Hence, short run aggregate supply decreases from SRAS1 to SRAS2.	(1 mark)
+	As a result, the price level increases from P1 to P2 and the output level decreases from Yf to Y1 in the short run.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Aggregate demand curve shifts rightwards.	(1 mark)
+	•	Output level increases to Yf.	(1 mark)
+	Verbal elaboration:
+	As firms receive the tax refund, investment expenditure increases.	(1 mark)
+	Hence, aggregate demand increases from AD1 to AD2.	(1 mark)
+	Output level increases from Y2 back to the full employment level (Yf).	(1 mark)
+
+
+Question code: B5C06Q335 (new)
+In 2016, the Financial Secretary announced that an extra allowance would be provided to social security recipients.
+(a)	Explain the effect of the measure on income inequality.	(2 marks)
+(b)	Suppose Point E is Hong Kong's initial equilibrium.
+	
+	With the aid of the above diagram, explain how the measure can adjust the employment level to long run equilibrium.	(5 marks)
+
+Answers:
+(a)	The measure helps reduce income inequality. It equalises income as the allowance is provided to the low-income group only.	(2 marks)
+(b)	Indicate on the diagram:
+	(	Aggregate demand curve shifts rightwards.	(1 mark)
+	(	Aggregate output increases.	(1 mark)
+	
+	Verbal elaboration:
+	The measure raises people's disposable income.	(1 mark)
+	This raises private consumption expenditure and thus aggregate demand.	(1 mark)
+	Aggregate output increases, implying a higher employment level.	(1 mark)
+
+Question code: B5C06Q336 (new)
+A government considers spending a certain amount of its fiscal reserves on either one of the following proposals:
+Proposal 1: Providing a subsidy to low-income elderly people
+Proposal 2: Building a railway that connects with its trading partner
+Evaluate the two proposals in terms of their effects on income inequality and long run aggregate output.	(8 marks)
+
+Answers:
+Proposal 1:
+•	The subsidy for low-income elderly people raises their income while the income of the high-income group remains unchanged. This can narrow the income gap between the rich and the poor.	(2 marks)
+•	The subsidy does not affect long run aggregate supply. Therefore, long run aggregate output is unaffected.	(2 marks)
+Proposal 2:
+•	The railway construction can create more employment opportunities for the unemployed. This can narrow the income gap.	(2 marks)
+•	The completion of the railway raises the economy's production capacity, leading to an increase in the long run aggregate supply and aggregate output.	(2 marks)
+
+Question code: B5C06Q337 (new)
+Country A is facing enormous national debts. A legislator in Country A suggests that the government should decrease government expenditure on education in order to reduce the fiscal deficit in the long run. Evaluate his proposal.	(4 marks)
+
+Answers:
+Decreasing government expenditure (G) on education will decrease national income (Y) in the long run.	(2 marks)
+(	If the decrease in tax revenue (due to the decrease in Y) is smaller than the decrease in G, the fiscal deficit will decrease. The policy will be effective.
+	(2 marks)
+OR
+(	If the decrease in tax revenue (due to the decrease in Y) is larger than the decrease in G, the fiscal deficit will increase. The policy will be ineffective.	(2 marks)
+
+
+Question code: B5C06Q338 (new)
+A government devalues its currency against foreign currencies to stimulate the economy. This results in criticism from foreign economies.
+(a)	Explain ONE possible undesirable effect of the currency devaluation on foreign economies.	(2 marks)
+(b)	A politician stated, 'Using an expansionary fiscal policy instead of currency devaluation will worsen the fiscal balance.' Explain why the statement is NOT necessarily correct.	(3 marks)
+
+Answers:
+(a)	This will lower the volume of exports of foreign economies, resulting in a drop in aggregate demand and national income.	(2 marks)
+	(Accept other reasonable answers.)
+(b)	Increasing government consumption expenditure and tax revenue by the same amount will not worsen the fiscal balance. However, the effect is expansionary because households seldom spend all of their disposable income.	(3 marks)
+
+
+Structured Questions
+
+Question code: B5C06Q501
+In August 2011, the US Congress passed the Budget Control Act of 2011 in order to cut the budget deficit. According to the Act, the US government needed to cut its defense and domestic spending greatly in 2013. In addition, some direct tax relief expired at the same time so that the government needed to increase taxes. This situation is known as a 'fiscal cliff' (財政懸崖).
+(a)	What is a direct tax? Give ONE example of a direct tax in Hong Kong.	(2 marks)
+(b)	Explain how the following events under the 'fiscal cliff' would affect income inequality in the US.
+(i)	The cut in unemployment benefits	(2 marks)
+(ii)	The expiration of the Child Tax Credit which reduces the tax liability for families making less than US$130,000	(2 marks)
+(c)	Suppose the US failed to jump over the 'fiscal cliff'. With the aid of a diagram, explain how this would affect the US's real national income and price level in the short run and long run.	(9 marks)
+
+
+Answers:
+(a)	A direct tax is a tax where the taxpayer cannot shift the tax burden to another party.	(1 mark)
+Examples of a direct tax in Hong Kong: Profits tax, salaries tax and property tax
+(Either one)	(1 mark)
+
+(b)	(i)	Unemployment benefits are a transfer payment for the poor. A cut in unemployment benefits would worsen income inequality in the US.	(2 marks)
+(ii)	As the tax liability of the poor increases, income inequality would worsen.
+	(2 marks)
+
+(c)	Indicate on the diagram:
+	•	Aggregate demand curve shifts leftwards.	(1 mark)
+	•	Short run situation: Both the real national income and price level decrease.
+	(1 mark)
+	•	Short run aggregate supply curve shifts downwards.	(1 mark)
+	•	Long run situation: The real national income returns to Yf and the price level decreases further to P3.	(1 mark)
+
+Verbal elaboration:
+	•	The increase in taxes and decrease in government spending would decrease the US's aggregate demand.	(1 mark)
+	•	In the short run, both real national income and the price level would decrease.	(1 mark)
+	•	As the short run equilibrium real national income was smaller than its full employment level, there was a deflationary gap / an excess supply of resources.	(1 mark)
+•	This would lead to a decrease in short run aggregate supply.	(1 mark)
+•	As a result, real national income returns to Yf and the price level decreases further to P3.	(1 mark)
+
+Question code: B5C06Q502
+Country X has experienced a serious problem of unemployment. Its government plans to build the tallest hotel in the world to stimulate the economy. However, the hotel was abandoned before the construction work was completed. The hotel is neither usable nor being demolished.
+(a)	The president said, 'Although the hotel has been abandoned, its construction helped us solve the problem of unemployment.' With the aid of a diagram, explain why this statement is correct.	(7 marks)
+(b)	Suppose the government can choose to complete the hotel or build offices on the land where the hotel is located. Explain whether the following would affect the cost of completing the hotel.
+	(i)	Office rental values increase.	(3 marks)
+	(ii)	The unfinished building has started to deteriorate, doubling the expected time to complete the hotel.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Original short run equilibrium real GDP which is smaller than full employment real GDP / Deflationary gap	(1 mark)
+•	Aggregate demand curve shifts rightwards.	(1 mark)
+•	Real GDP increases to its full employment level.	(1 mark)
+
+
+Verbal elaboration:
+•	As the economy faced a serious problem of unemployment, its real GDP was smaller than the full employment level / there was a deflationary gap.	(1 mark)
+	•	The construction of the hotel has increased gross investment expenditure.
+	(1 mark)
+•	Therefore, Country X's aggregate demand has increased.	(1 mark)
+•	Country X's real national income has increased and the problem of unemployment has been solved.	(1 mark)
+
+(b)	(i)	•	If the government chooses to complete the hotel, it cannot build offices on the site. Thus, the value of building offices is the cost of completing the hotel.	(2 marks)
+•	The increase in office rental values increases the value of building offices and the cost of completing the hotel.	(1 mark)
+(ii)	•	As the expected length of time to complete the hotel increases, the money cost (e.g., wage payments) and time cost (e.g., the rental income from the land) involved increase.	(2 marks)
+•	As a result, the cost of completing the hotel rises.	(1 mark)
+
+Question code: B5C06Q503
+With the aid of diagrams, explain whether the overall effect of each set of the following fiscal policies is expansionary in the short run.
+(a)	The government raises the monthly old age allowance by $500 and waives the hotel accommodation tax.	(10 marks)
+(b)	The government raises the salaries tax and uses the additional tax revenue to finance its expenditure on new production subsidies.	(10 marks)
+
+Answers:
+(a)	The increase in the old age allowance will increase the disposable income of old people. Thus, private consumption expenditure will increase and so will aggregate demand.	(2 marks)
+The aggregate demand curve will shift rightwards from AD1 to AD2.	(1 mark)
+Waiving the hotel accommodation tax will lower the costs of providing hotel services. Firms will provide more hotel services.	(2 marks)
+The short run aggregate supply curve will shift downwards from SRAS1 to SRAS2.	(1 mark)
+As a result, real national income will increase from Y1 to Y2. This implies that the overall effect is expansionary in the short run.	(2 marks)
+	(2 marks)
+
+(b)	When the government raises the salaries tax, people will have less disposable income. Private consumption expenditure will decrease and so will aggregate demand.	(2 marks)
+The aggregate demand curve will shift leftwards from AD1 to AD2.	(1 mark)
+When the government provides more production subsidies, firms' production costs will decrease. Firms will increase their outputs and so the short run aggregate supply will rise.	(2 marks)
+The short run aggregate supply curve will shift downwards from SRAS1 to SRAS2.	(1 mark)
+The change in real national income is uncertain. Therefore, we cannot conclude whether the overall effect is expansionary in the short run.	(2 marks)
+
+
+(Diagram showing either ONE of the possible cases. 2 marks)
+
+Question code: B5C06Q504
+Refer to the following diagram about the economic situation in Material Country.
+
+Suppose the initial long run equilibrium is at Point F. In order to win the next presidential election, President Herbert raises transfer payments substantially.
+(a)	Explain how the measure will affect real national income in the short run and how the economy achieves long run equilibrium. Show the changes in the AD curve and/or SRAS curve in the diagram above and label the new long run equilibrium point as 'G'.	(10 marks)
+(b)	Suppose the country is at Point G now. Herbert loses his position. New president Old Bema also raises transfer payments.
+(i)	Show the new long run equilibrium in the diagram drawn in (a) and label the new long run equilibrium point as 'H'. [Remark: No need to repeat your explanations in (a).]	(2 marks)
+(ii)	What economic phenomenon can we observe from the change in the price level? Define the phenomenon.	(2 marks)
+
+Answers:
+(a)	When the government raises transfer payments, people's disposable income will increase. Private consumption expenditure will increase. Thus, aggregate demand will increase.	(2 marks)
+The aggregate demand curve will shift rightwards from AD1 to AD2.	(1 mark)
+In the short run, real national income will increase from Y1 to Y2.	(1 mark)
+In the long run, as there is an inflationary gap, there is excess demand for inputs. Excess demand for inputs will raise input prices. Thus, the short run aggregate supply curve will shift upwards until the inflationary gap is closed.	(2 marks)
+Real national income will be restored to its full employment level (Y1).	(1 mark)
+	(3 marks)
+
+(b)	(i)
+
+(1 mark for label 'H', 0.5 marks for AD3 and 0.5 marks for SRAS3.)
+(ii)	Inflation as the price level increases continuously.	(1 mark)
+Inflation is the phenomenon of a persistent increase in the general price level.	(1 mark)
+
+Question code: B5C06Q505 (new)
+Donald, a candidate for president of Country U, suggests cutting corporate profits tax by 20% and personal income tax by 6%. He thinks this can improve the country's economy and attract other corporations to invest in the country.
+(a)	Discuss the effects of cutting taxes on Country U's output level
+	(i)	in the short run, and	(3 marks)
+	(ii)	in the long run, respectively.	(3 marks)
+(b)	Explain why the cut in the income tax rate may NOT necessarily reduce government tax revenue.	(4 marks)
+(c)	Explain how Country U's Gini coefficient may be affected by the cut in personal income tax.	(3 marks)
+
+Answers:
+(a)	(i)	Cutting taxes leads to an increase in consumption and investment expenditures.
+	(1 mark)
+		Aggregate demand increases.	(1 mark)
+		As a result, Country U's output level increases in the short run.	(1 mark)
+	(ii)	Cutting corporate profits tax raises firms' incentive to invest and increase capital stock.	(1 mark)
+		Long run aggregate supply will increase.	(1 mark)
+		Hence, Country U's output level will increase in the long run.	(1 mark)
+
+(b)	The cut in the tax rate leads to an increase in the output level. Hence, total taxable income will increase.	(2 marks)
+	Tax revenue may increase if the effect of the increase in total taxable income outweighs the effect of the decrease in the tax rate.	(2 marks)
+
+(c)	The high income group pays more income taxes. Therefore, the high income group benefits more from the cut in personal income tax. The income of the high income group will increase more than that of the low income group.	(2 marks)
+	The income gap will become larger and the Gini coefficient will increase.
+	(1 mark)
+
+Question code: B5C06Q506 (new)
+Canada imposes a new property transfer tax on foreigners who buy properties in Vancouver.
+(a)	Explain how the new property transfer tax would affect Canada's output and price levels in the short run.	(6 marks)
+(b)	'When a mainland investor sells his property in Vancouver to a Canadian, Canada's balance of payments will improve.' Do you agree? Explain.	(3 marks)
+(c)	Suppose the Canadian government uses the extra tax revenue to provide rental assistance to low-income working families.
+	(i)	Discuss the effect of the rental assistance on income inequality.	(2 marks)
+	(ii)	Explain ONE possible undesirable effect of the rental assistance on Canada's economy.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift of aggregate demand curve	(1 mark)
+	(	Decrease output and price levels	(1 mark)
+	
+	Verbal elaboration:
+	The property transfer tax will lower the income of property agencies and other related workers due to a decrease in the quantity transacted of properties.	(1 mark)
+	Private consumption expenditure decreases	(1 mark)
+	and thus aggregate demand decreases.	(1 mark)
+	Both output and price levels decrease in the short run.	(1 mark)
+
+(b)	No.	(1 mark)
+	The sale of a property owned by a mainland investor to a Canadian implies a capital outflow for Canada, which worsens Canada's capital and financial account balance, and thus Canada's market balance of payments.	(2 marks)
+
+(c)	(i)	The rental assistance helps reduce income inequality because it increases the income of low-income working families while the income of high-income families remains unchanged.	(2 marks)
+
+	(ii)	The rental assistance may discourage people from working longer hours, causing a disincentive effect on labour supply. This may lead to a loss of output.	(2 marks)
+		(Accept other reasonable answers.)
+
+Question code: B5C06Q507 (new)
+The Shenzhen-Hong Kong stock connect is expected to be launched soon. This raises the prices of Hong Kong's stocks in general.
+(a)	Discuss the effect of the above policy on government tax revenue.	(2 marks)
+(b)	With the aid of a diagram, explain how the increase in stock prices would affect Hong Kong's price and output levels in the short run.	(5 marks)
+(c)	(i)	What is the cost of holding money instead of these stocks?	(2 marks)
+	(ii)	Suppose people expect the risk of investing in the stock market to increase. How will the demand for money change? Explain.	(3 marks)
+
+Answers:
+(a)	As transactions in the stock market increases, government revenue from stamp duty will increase.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift of aggregate demand curve	(1 mark)
+	(	Increase in price and output levels	(1 mark)
+	
+	Verbal elaboration:
+	As stock prices increase, people's wealth increases.	(1 mark)
+	This raises private consumption expenditure, and thus the aggregate demand.
+	(1 mark)
+	Both the price and output levels increase in the short run.	(1 mark)
+
+(c)	(i)	The cost of holding money is the nominal rate of return of holding these stocks.	(2 marks)
+	(ii)	The asset demand for money increases.	(1 mark)
+		The higher risk of investing in the stock market means less desirable to hold stocks. People can avoid a loss by holding a larger amount of money as a store of wealth.	(2 marks)

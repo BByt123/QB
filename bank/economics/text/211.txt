@@ -1,0 +1,2149 @@
+Chapter 11 	Production in the short run and long run
+
+Multiple Choice Questions
+
+Question code: B2C11Q001 (new)
+__________ are factors whose employment changes as output changes.
+A.	Variable factors
+B.	Capital and land
+C.	Capital and an entrepreneur
+D.	Fixed factors
+
+Answers: A
+
+Question code: B2C11Q002
+Which of the following descriptions about fixed factors is correct?
+A.	They are occupationally immobile.
+B.	They are geographically immobile.
+C.	Their quantity cannot be changed.
+D.	When output expands, their amount remains unchanged.
+
+Answer: D
+
+Question code: B2C11Q003 (new)
+Factors whose employment does not change as output changes
+A.	will increase marginal product.
+B.	need to practise division of labour in order to increase output.
+C.	are fixed factors.
+D.	lead to diseconomies of scale.
+
+Answer: C
+
+Question code: B2C11Q004 (new)
+Which of the following descriptions about variable factors is correct?
+A.	Their occupational mobility is higher than fixed factors.
+B.	Their geographical mobility is higher than fixed factors.
+C.	Diminishing marginal returns occur when more of them are employed.
+D.	In the short run, when output expands, their amount will change.
+
+Answer: D
+
+Question code: B2C11Q005
+Short run is a production period in which
+	(1)	there are fixed factors of production.
+	(2)	there are only variable factors of production.
+	(3)	the time to expand production capacity only takes a year.
+A.	(1) only
+B.	(2) only
+C.	(1) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B2C11Q006
+More students are admitted to a school. The school does not have enough classrooms for the additional class. As a result, each class contains more students than before. This indicates that 
+A.	the law of diminishing marginal returns applies to the school.
+B.	the school is in the short run.
+C.	the school enjoys economies of scale.
+D.	diseconomies of scale exist for the school.
+
+Answer: B
+
+Question code: B2C11Q007 (new)
+The following table shows the cost-output relationship of a police station.
+
+Number of criminals caught	0	1	2	3	4	5		Total cost ($)	1,000	1,200	1,500	1,900	2,300	2,500		
+Based on the above table, we can conclude that
+A.	the police station is in the short run.
+B.	the average cost is increasing.
+C.	the police station enjoys the benefits of economies of scale.
+D.	the law of diminishing marginal returns applies to the police station.
+
+Answer: A
+
+
+Question code: B2C11Q008 (new)
+Which of the following statements is correct?
+A.	The short run of a sole proprietorship can be longer than the short run of a private limited company.
+B.	A firm that has fixed costs may be in the long run.
+C.	If a firm does not expand the production scale, its average cost will not increase.
+D.	The average fixed cost of a firm never changes.
+
+Answer: A
+
+Question code: B2C11Q009 (new)
+Long run is a production period in which
+	(1)	there are fixed factors of production.
+(2)	the law of diminishing marginal returns does not apply.
+(3)	the time needed to expand production capacity must take more than a day.
+A.	(2) only
+B.	(3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B2C11Q010 (new)
+Short run means _________ when output changes.
+A.	average fixed cost remains unchanged
+B.	employment of capital and land remains unchanged 
+C.	the level of technology remains unchanged 
+D.	employment of some factors of production remains unchanged 
+
+Answer: D
+
+
+Question code: B2C11Q011
+Mr Chan runs a café in Sha Tin. Before the Lunar New Year, the number of customers increased by 25% and he could only employ more labour to meet the increase in demand. This implies that the café was operating in 
+A.	a high elasticity of demand period.
+B.	the long run.
+C.	the short run.
+D.	an increasing supply period.
+
+Answer: C
+
+Question code: B2C11Q012 (new)
+The following table shows the production plan of a restaurant which employs two factors only, namely cooks and kitchens.
+
+Cooks (units)	Kitchen (square feet)	Total product (units)	
+1	200	100	
+2	200	130	
+3	200	170	
+4	200	200	
+5	200	220	
+
+The marginal product of the cooks will start to diminish when the ________ unit of cooks is put to work.
+A.	2nd
+B.	3rd
+C.	4th
+D.	5th
+
+Answer: C
+
+
+Question code: B2C11Q013 (new)
+Study the following table and answer the question.
+
+No. of workers	Total product (units)	
+1
+2
+3
+4
+5	15
+24
+35
+50
+62	
+
+According to the above table, the marginal product of the third worker is _____ units.
+A.	11
+B.	17
+C.	24
+D.	31
+
+Answer: A
+
+Question code: B2C11Q014
+Which of the following statements about the relationship between marginal product and total product is correct?
+A.	When marginal product equals zero, total product decreases.
+B.	When marginal product decreases, total product decreases.
+C.	As long as marginal product is positive, total product will increase.
+D.	All of the above
+
+Answer: C
+
+Question code: B2C11Q015
+* Which of the following statements about the relationship between marginal product, average product and total product is correct? 
+A.	When marginal product increases, total product increases. 
+B.	When marginal product decreases, total product decreases. 
+C.	Average product is total product divided by the quantity of fixed factors. 
+D.	None of the above 
+
+
+
+Answer: D
+Explanation
+For Option A, suppose the marginal product of the nth unit of a variable factor (e.g., labour) is -5 units of output, while the total product using n units of labour is 100 units of output. If the marginal product of the (n＋1) th unit of labour is -3, the marginal product increases (from -5 to -3), while the total product using (n＋1) units of labour decreases to 97 (100 - 3) units of output. Therefore, Option A is incorrect. 
+For Option B, suppose the marginal product of the nth unit of labour is 10 units of output, while the total product using n units of labour is 100 units of output. If the marginal product of the (n＋1) th unit of labour is 5 units of output, the marginal product decreases (from 10 to 5) and the total product using (n＋1) units of labour increases from 100 units of output to 105 units of output. Therefore, Option B is incorrect. 
+
+Question code: B2C11Q016
+Refer to the following table about a firm's production. The firm only employs machines and workers for production. The law of diminishing marginal returns applies to the firm when __________ workers are employed.
+
+Number of machines
+(units)	Number of workers	Total output
+(units)	
+1
+2
+3
+4
+5	1
+2
+3
+4
+5	10
+22
+36
+56
+60	
+
+A.	2
+B.	3
+C.	4
+D.	We cannot apply the law in this case.
+
+Answer: D
+
+
+Question code: B2C11Q017
+Firm A only uses labour and water to produce Good X. The daily total product of Good X is shown below.
+
+Labour (units)	Amount of water
+(litres)	Total product
+(units)	
+3
+3
+3
+3
+3	1
+2
+3
+4
+5	8
+17
+25
+32
+38	
+
+Diminishing marginal returns set in after __________ litres of water are used.
+A.	2
+B.	3
+C.	4
+D.	5
+
+Answer: A
+
+Question code: B2C11Q018
+'The carrying capacity of a lorry is fixed. When a lorry carries more goods, its oil consumption increases. Eventually, the percentage increase in oil consumption is greater than the percentage increase in the weight of goods carried.' This is an example of 
+A.	economies of scale.
+B.	diseconomies of scale.
+C.	the law of diminishing marginal returns.
+D.	the law of demand.
+
+Answer: C
+
+
+Question code: B2C11Q019
+The table below shows a firm's production of Good X. Only two inputs are required in the production process.
+
+Capital (Units)	Labour (Units)	Total Output (Units)	Total Cost ($)	
+1	1	2	10	
+2	2	4	16	
+3	3	8	24	
+4	4	16	32	
+
+From the above data,
+A.	the firm enjoys economies of scale.
+B.	the firm suffers from diseconomies of scale.
+C.	the law of diminishing marginal returns applies to the firm.
+D.	the firm has division of labour.
+
+Answer: A
+
+Question code: B2C11Q020 (new)
+Cargo aircraft (units)	Airport (square feet)	Marginal product (units)	
+30	100	70	
+35	100	120	
+40	100	160	
+45	100	190	
+50	100	210	
+
+The above table shows a _________ situation in which ____________.
+A.	short run ... the law of diminishing returns does not apply
+B.	short run ... the law of diminishing returns applies
+C.	long run ... economies of scale exist
+D.	long run ... diseconomies of scale exist
+
+Answer: B
+
+
+Question code: B2C11Q021 (new)
+The following table shows the inputs, outputs and average cost of a firm.
+
+Capital
+(units)	Labour
+(units)	Land
+(units)	Total output (units)	Average cost ($)	
+40	100	500	200	5	
+80	200	500	250	8	
+120	300	500	280	10	
+
+From the above data,
+A.	the firm enjoys the benefits of economies of scale.
+B.	the firm suffers from diseconomies of scale.
+C.	average variable cost equals average cost.
+D.	the law of diminishing marginal return applies to the firm.
+
+Answer: D
+
+Question code: B2C11Q022 (new)
+When a newspaper publisher expands production by only employing more editors,
+A.	the average variable cost will eventually decrease.
+B.	the geographical mobility of editors will eventually decrease.
+C.	the marginal product of the editors will eventually decrease.
+D.	the total fixed cost will eventually decrease.
+
+Answer: C
+
+
+Question code: B2C11Q023 (new)
+The input-output relationship of a firm is as follows:
+
+Labour (units)	Machines (units)	Total product of labour (units)	
+1	7	10	
+2	7	11	
+3	7	13	
+
+Diminishing marginal returns set in after the 3rd unit of labour is employed. The total product of 4 units of labour can be _________ units.
+	(1)	10
+	(2)	14
+	(3)	18
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B2C11Q024 (new)
+Pizza House employs labour and machines to produce pizza. The following table shows the input-output relationship.
+
+Labour (units)	Machines (units)	Marginal product (units)	
+4	2	6	
+5	2	5	
+6	2	4	
+
+When Pizza House employs more labour, 
+A.	more pizzas are produced.
+B.	it suffers from diseconomies of scale.
+C.	the average output increases.
+D.	the average fixed cost increases.
+
+Answer: A
+
+
+Question code: B2C11Q025 (new)
+The input-output relationship of Firm A is as follows: 
+
+Labour (units)	Machines (units)	Total output (units)	
+1	2	3	
+2	2	8	
+3	2	14	
+4	2	18	
+5	2	21	
+
+Diminishing marginal returns set in after _______ unit of labour is employed.
+A.	2nd
+B.	3rd
+C.	4th
+D.	5th
+
+Answer: B
+
+Question code: B2C11Q026 (new)
+The input-output relationship of Fatty Restaurant is as follows: 
+
+Cooks (units)	Cookers (units)	Average output (units)	
+1	8	8	
+2	8	8.5	
+3	8	8	
+4	8	7.5	
+5	8	7	
+
+Diminishing marginal returns set in after _______ unit of cooks is employed.
+A.	2nd
+B.	3rd
+C.	4th
+D.	5th
+
+Answer: A
+
+
+Question code: B2C11Q027 (new)
+The law of diminishing returns
+A.	states that as more machines are added to a given number of workers, the wage rate eventually drops.
+B.	can explain the relationship between inputs and costs in the long run.
+C.	states that the marginal product will eventually drop in the short run.
+D.	can explain diseconomies of scale.
+
+Answer: C
+
+Question code: B2C11Q028
+The law of diminishing returns
+A.	applies to the short run only.
+B.	states that a firm cannot increase total product by adding more inputs.
+C.	states that in the short run, the percentage increase in costs will be smaller than the percentage increase in inputs.
+D.	states that increasing marginal returns only occur in the long run.
+
+Answer: A
+
+Question code: B2C11Q029 (new)
+The following table shows how a firm's average product of workers changes when the number of workers employed changes.
+
+ No. of workers	2	3	4	5	6	
+ No. of machines	10	10	10	10	10	
+ Average product (units) of workers	11	10	9	8	7	
+
+The law of diminishing returns sets in when the ________ worker is employed.
+A.	3rd
+B.	4th
+C.	5 th
+D.	6 th
+
+Answer: B
+
+
+Question code: B2C11Q030
+The following table shows how a firm's average product of workers changes when the employment of workers and machines changes.
+
+No. of workers	1	2	3	4	5	6	
+No. of machines	3	3	3	3	3	3	
+Average product (units) of workers	15	25	35	45	50	52	
+
+The law of diminishing marginal returns sets in after the ____ worker is employed.
+A.	2nd
+B.	3rd
+C.	4th
+D.	5 th
+
+Answer: C
+
+Question code: B2C11Q031
+* The following table shows the input and output information of Wai Wai toy factory. Suppose the factory employs five workers.
+
+Amount of machines (units)	No. of absentees	Drop in total product (units)	
+10	1	400	
+10	2	775	
+10	3	1,115	
+10	4	1,405	
+10	5	1,655	
+
+Which of the following statements best describes the above table?
+A.	Wai Wai toy factory faces diminishing marginal returns.
+B.	The marginal product of the 3rd absentee is 290 units.
+C.	The total product of three workers is 1,115 units.
+D.	Average product is always lower than marginal product.
+
+
+Answer: D
+Explanation
+Recall that the factory employs five workers. 
+When there is one absentee, the drop in total product is 400 units. Hence, the marginal product of the first absentee is 400 units, which is the MP of the 5th worker.
+When there are two absentees, the drop in total product is 775 units. Hence, the marginal product of the second absentee is 375 units (775 units - 400 units), which is the MP of the 4th worker. You can find the marginal product of the rest of the workers using the same method. 
+
+The following table shows the number of workers, total product, average product and marginal product of the factory. 
+
+No. of workers	Total product (units)	Average product
+(units)	Marginal product
+(units)	
+1	250	250	250	
+2	540	270	290	
+3	880	293.33	340	
+4	1,255	313.75	375	
+5	1,655	331	400	
+
+By referring to the table, we can see that Option D is the answer. 
+
+Question code: B2C11Q032
+* The following table shows the input and output information for Firm X. Assume that Firm X only employs the following two factors of production.
+
+Amount of machines (units)	No. of workers	Total product (units)	
+1	11	320	
+1	12	410	
+1	13	510	
+1	14	615	
+
+If the law of diminishing marginal returns applies to Firm X after the 14th worker is employed, the average product of the 15th worker could be
+A.	47.
+B.	50.
+C.	51.
+D.	indeterminate as information is insufficient.
+
+Answer: A
+Explanation
+The following table shows the number of workers, total product, average product and marginal product of Firm X. 
+
+No. of workers	Total product (units)	Average product (units)	Marginal product (units)	
+11	320	29.09	-	
+12	410	34.17	90	
+13	510	39.23	100	
+14	615	43.93	105	
+
+If the law of diminishing marginal returns applies to Firm X, the marginal product of the 15th worker must not be larger than 105 units. In other words, the total product of 15 workers will not exceed 720 (= 615 ＋ 105) units. The average product of the 15th worker will be below 48 units (720 units ÷ 15 ). Therefore, Option A is the answer. 
+
+Question code: B2C11Q033
+The following table shows the daily production of Firm A. 
+
+Labour (units)	Machine (units)	Marginal product (units)	
+1	10	18	
+2	10	24	
+3	10	X	
+4	10	19	
+5	10	5	
+
+Suppose diminishing marginal returns set in after the 3rd unit of labour is employed. X 
+A.	must be equal to or greater than 24.
+B.	must be smaller than 24 but greater than 19.
+C.	must be greater than 24.
+D.	is indeterminate as information is insufficient.
+
+Answer: A
+
+
+Question code: B2C11Q034
+Which of the following statements about the law of diminishing marginal returns is correct?
+A.	Average product of variable factors must be decreasing at all output levels.
+B.	Total product must be decreasing at all output levels.
+C.	Marginal product cannot increase at any output levels.
+D.	Marginal product may be zero.
+
+Answer: D
+
+Question code: B2C11Q035
+Which of the following descriptions about the law of diminishing returns is correct?
+A.	It states that the marginal product decreases at all output levels in the short run.
+B.	It implies that total product must eventually decrease when more variable factors are employed.
+C.	It applies when output is fixed.
+D.	It applies when there is at least one fixed factor.
+
+Answer: D
+Explanation
+The law states that marginal product will eventually decrease. Yet, this does not necessarily mean that total product will decrease as well. Only when marginal product drops to a negative figure will the total product decrease. 
+
+Question code: B2C11Q036
+Which of the following descriptions about the law of diminishing returns is correct?
+A.	It does not rule out the possibility of an increase in marginal product in case of an increase in inputs. 
+B.	It implies that firms cannot earn profits in the short run. 
+C.	It does not apply to service industries.
+D.	It applies to firms with greater scale of production. 
+
+Answer: A
+
+
+Question code: B2C11Q037
+Suppose the bus company expands its service hours on Christmas. Which of the following are the bus company's variable costs?
+	(1)	Fuel costs
+	(2)	Interest payment for loans from banks
+	(3)	Overtime payment to the bus drivers
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B2C11Q038 (new)
+Costs which do not change as output changes 
+	(1)	are fixed costs.
+	(2)	are long run costs.
+	(3)	will lead to a decrease in the long-run average cost.
+A.	(1) only
+B.	(3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B2C11Q039
+Which of the following is most likely to be a variable cost of a boutique?
+A.	Rent
+B.	Electricity fee
+C.	Wage payment for full-time salespeople
+D.	Business registration fee
+
+Answer: B
+
+
+Question code: B2C11Q040
+Which of the following is most likely to be a variable cost of a hair salon?
+A.	Rent
+B.	Owner's profits
+C.	Expenditure on shampoo
+D.	Wages for full-time hair stylists
+
+Answer: C
+
+Question code: B2C11Q041
+Which of the following statements about marginal cost is correct?
+	(1)	Marginal cost is not the same as marginal variable cost because marginal cost accounts for the difference between total costs in producing an extra unit of output.
+	(2)	Marginal cost must be smaller than total cost as the sum of the former is equal to the latter.
+	(3)	Marginal cost is equal to marginal variable cost because fixed cost is the same for every extra unit of output and hence marginal fixed cost is zero.
+A.	(1) only
+B.	(3) only
+C.	(1) and (2) only
+D.	(2) and (3) only
+
+Answer: B
+
+Question code: B2C11Q042
+When a cake shop produces 10 cakes, the average cost is $80. When it produces 11 cakes, the average cost is $81. The marginal cost of producing the 11th cake is 
+A.	$1.
+B.	$7.4.
+C.	$81.
+D.	$91.
+
+Answer: D
+
+
+Question code: B2C11Q043
+When a textile factory produces 50 units of cotton yarns, the average cost is $120. When it produces 51 units of cotton yarns, the average cost is $125. The marginal cost of producing the 51st unit is
+A.	$5.
+B.	$250.
+C.	$255.
+D.	$375.
+
+Answer: D
+
+Question code: B2C11Q044
+Study the following table.
+
+Output (units)	1	2	3	4	5	
+Average cost ($)	10	11	12	13	14	
+
+What is the marginal cost of the third unit of output?
+A.	$11
+B.	$12
+C.	$13
+D.	$14
+
+Answer: D
+
+Question code: B2C11Q045
+Study the following table.
+
+Output (units)	1	2	3	4	5	
+Average cost ($)	20	21	22	23.5	25	
+
+What is the marginal cost of the fourth unit of output?
+A.	$1.5
+B.	$6
+C.	$28
+D.	$31
+
+Answer: C
+
+
+Question code: B2C11Q046
+Suppose the demand for Good X has drastically increased. If the factory only employs more labour to meet the increase in demand, 
+A.	the total wage payment will fall.
+B.	the marginal product of workers will fall eventually.
+C.	the average cost must be increasing at all output levels.
+D.	the marginal cost must fall eventually.
+
+Answer: B
+
+Question code: B2C11Q047
+Which of the following statements about the law of diminishing returns is correct?
+A.	Total product may decrease when more variable factors are employed. 
+B.	At the initial stage, total product must increase more than proportionately when more variable factors are employed. 
+C.	Marginal cost must decrease eventually when more variable factors are employed. 
+D.	Employment of variable factors is kept constant at all output levels. 
+
+Answer: A
+
+Question code: B2C11Q048
+In the short run, 
+	(1)	diminishing marginal returns will set in.
+	(2)	a firm will eventually suffer diseconomies of scale. 
+	(3)	only variable costs exist.
+	(4)	only fixed costs exist.
+A.	(1) only
+B.	(2) only
+C.	(1) and (4) only
+D.	(3) and (4) only
+
+Answer: A
+
+
+Question code: B2C11Q049
+* If labour is the only variable input, which of the following represents marginal cost?
+A.	Total cost ÷ Total output
+B.	Change in total output ÷ Change in total cost
+C.	Change in total variable cost ÷ Change in total output
+D.	Wage rate ÷ Average product of labour
+
+Answer: C
+
+Question code: B2C11Q050
+The following table shows production information for Firm X, where labour is the only variable input of the firm.
+
+Labour (units)	Total product (units)	
+4	20	
+5	30	
+6	45	
+
+When 5 units of labour are employed, the average product and marginal product of labour respectively?
+A.	5 ... 15
+B.	6 ... 10
+C.	6 ... 30
+D.	5 ... 10
+
+Answer: B
+
+
+Question code: B2C11Q051
+* The following table shows production information for Firm X, where labour is the only variable input of the firm.
+
+Labour (units)	Total product (units)	Total fixed cost ($)	Total variable cost ($)	
+4	20	1,500	800	
+5	30	1,500	1,000	
+6	45	1,500	1,200	
+
+What is the marginal cost when there are 6 units of labour?
+A.	$200
+B.	$20
+C.	$13.3
+D.	Indeterminate as information is insufficient 
+
+Answer: C
+
+Question code: B2C11Q052
+The following table shows production information for Firm X, where labour is the only variable input of the firm.
+
+Labour (units)	Total product (units)	Total fixed cost ($)	Total variable cost ($)	
+4	20	1,500	800	
+5	30	1,500	1,000	
+6	45	1,500	1,200	
+
+What is the average cost when there are 4 units of labour?
+A.	$1,540
+B.	$1,700
+C.	$200
+D.	$115
+
+Answer: D
+
+
+Question code: B2C11Q053
+Study the following table and answer the question.
+
+No. of workers	Total product (units)	
+8
+9
+10
+11
+12	45
+56
+68
+78
+87	
+
+According to the above table, 
+A.	the law of diminishing marginal returns applies to the factory.
+B.	the average product is increasing.
+C.	the marginal product of the 10th worker is 10 units.
+D.	the factory experiences economies of scale.
+
+Answer: B
+Explanation
+Option A is incorrect. As we do not know whether a fixed factor exists or not, we are not sure whether the law of diminishing marginal returns applies to the factory. 
+
+Question code: B2C11Q054
+A garment factory owner only employs more workers to meet a sudden increase in demand. Which of the following statements is correct?
+A.	The factory enjoys economies of scale.
+B.	The factory suffers from diseconomies of scale.
+C.	The total cost of production will increase.
+D.	The factory is operating in the long run.
+
+Answer: C
+
+Question code: B2C11Q055
+The law of diminishing marginal returns 
+A.	states that as a firm keeps increasing its output, its return eventually drops.
+B.	states that input and output are negatively related in the short run.
+C.	cannot explain the existence of diseconomies of scale.
+D.	states that as a firm keeps increasing the quantity of inputs, total product eventually drops.
+
+Answer: C
+Explanation
+Option D is incorrect. The law of diminishing marginal returns states that the marginal products will eventually decrease. However, total product will not decrease unless the marginal product is negative. 
+
+Question code: B2C11Q056 (new)
+Which of the following statements about long run is correct?
+A.	There are very few fixed factors.
+B.	The law of diminishing marginal returns may apply to firms in long run.
+C.	The period of long run is at least one year. 
+D.	All costs are variable costs.
+
+Answer: D
+
+Question code: B2C11Q057
+Which of the following statements about the long run is correct?
+A.	All firms produce at their optimal scales.
+B.	Total product increases. 
+C.	The firm size is smaller than that in the short run.
+D.	Firm can change their combinations of factors of production.
+
+Answer: D
+
+Question code: B2C11Q058
+The differences between the short run and the long run include:
+	(1)	There are both fixed and variable factors in the short run whilst there are only variable factors in the long run.
+	(2)	The short run involves shorter time (usually within one year) whilst the long run involves longer time (usually over a year).
+	(3)	Law of diminishing marginal returns applies in the short run but not in the long run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+
+Question code: B2C11Q059
+* Eddie runs a fish ball shop. During the 'National Day Golden Week', the sales of Eddie's shop increase sharply. To meet the increase in demand, Eddie employs more labour. Suppose the shop's objective is to maximise profits, which of the following descriptions is correct?
+A.	The shop will eventually face economies of scale.
+B.	The shop will eventually face diseconomies of scale.
+C.	The shop is in the long run production period.
+D.	The shop's total cost will increase.
+
+Answer: D
+
+Question code: B2C11Q060
+Suppose the demand for watches has drastically increased. If the factory expands its production scale to meet the increase in demand, 
+A.	its average cost will drop.
+B.	the marginal product of labour will eventually decrease.
+C.	its total revenue must increase.
+D.	it will suffer from market diseconomies of scale.
+
+Answer: C
+
+Question code: B2C11Q061
+Mr Lau owns a fishing firm. The following shows its inputs, outputs and costs.
+Number of 
+workers	Number of 
+boats (units)	Total amount of 
+fish (tons)	Total cost
+($000)	
+1
+2
+3
+4	1
+2
+3
+4	9
+19
+30
+42	4
+7
+9
+10	
+
+According to the above table, we can conclude that:
+A.	the fishing firm enjoys economies of scale.
+B.	the fishing firm suffers from diseconomies of scale.
+C.	the above case is not consistent with the law of diminishing marginal returns.
+D.	None of the above
+
+Answer: A
+
+Question code: B2C11Q062 (new)
+In order to increase sales, banks provide more training to their officers. However, some officers leave the banks after they have been trained to become insurance agents. In this case, the insurance companies will
+A.	enjoy internal economies of scale.
+B.	suffer internal diseconomies of scale.
+C.	enjoy external economies of scale.
+D.	suffer external diseconomies of scale.
+
+Answer: C
+
+Question code: B2C11Q063 (new)
+A farmer increases the amount of fertiliser to increase his crop yield, with the same area of farmland.
+This can be shown in the following table:
+
+Fertiliser (units)	Average output (units)	
+15	10	
+16	14	
+17	17	
+18	19	
+
+The change of output can be explained by _____________.
+A.	the law of demand
+B.	the law of diminishing marginal returns
+C.	economies of scale
+D.	Indeterminate as information is insufficient.
+
+Answer: B
+
+
+Question code: B2C11Q064 (new)
+The table below shows a firm's production of Good Y.
+
+Computers (Units)	Labour (Units)	Total Output (Units)	Total Cost ($)	
+1	1	2	16	
+1	2	4	22	
+2	2	8	32	
+2	3	12	38	
+
+We can conclude that ______
+A.	the law of diminishing marginal returns applies to the firm.
+B.	the firm enjoys economies of scale.
+C.	the firm suffers from diseconomies of scale.
+D.	the firm employs division of labour.
+
+Answer: B
+
+Question code: B2C11Q065 (new)
+Fast Delivery employs drivers and trucks to provide delivery services. The following table shows the input-output relationship.
+
+Drivers (units)	Trucks (units)	Total output (units)	Total cost ($)	
+2	2	20	40	
+3	3	30	90	
+4	4	40	160	
+
+Based on the above information, we can conclude that 
+A.	the law of diminishing marginal returns applies to the firm.
+B.	the firm produces at the optimal scale of production.
+C.	the firm enjoys economies of scale.
+D.	the firm suffers from diseconomies of scale.
+
+Answer: D
+
+
+Question code: B2C11Q066 (new)
+When a firm suffers from diseconomies of scale, it is in the _________ and its total cost is _________. 
+A.	short run ... increasing
+B.	short run ... decreasing
+C.	long run ... increasing
+D.	long run ... decreasing
+
+Answer: C
+
+Question code: B2C11Q067 (new)
+A firm doubles all inputs to increase output. As a result, the average cost increases. In this case, the firm ______.
+A.	enjoys external economies of scale
+B.	enjoys internal economies of scale
+C.	suffers from external diseconomies of scale
+D.	suffers from internal diseconomies of scale
+
+Answer: D
+
+Question code: B2C11Q068 (new)
+Workers (units)	Average working hour (hours)	Capital (units)	Average cost ($)	
+10	1	10	10	
+10	2	20	20	
+10	3	30	30	
+10	4	40	40	
+10	5	50	50	
+
+The above table shows a _________ situation in which _________.
+A.	short run ... the law of diminishing returns does not apply
+B.	short run ... the law of diminishing returns applies
+C.	long run ... economies of scale exist
+D.	long run ... diseconomies of scale exist
+
+Answer: D
+
+
+Question code: B2C11Q069
+Economies of scale 
+A.	usually exists in labour-intensive industries.
+B.	means the scale of a firm is too large.
+C.	only exists in the long run.
+D.	will reduce total cost.
+
+Answer: C
+
+Question code: B2C11Q070
+Diseconomies of scale 
+A.	increases the profits of a firm.
+B.	means average cost increases when the scale of a firm becomes too large. 
+C.	does not exist in public enterprises.
+D.	decreases the marginal product of a firm.
+
+Answer: B
+
+Question code: B2C11Q071
+The output at Mrs Chow's garment factory decreased by 50% after a fire. Average costs have also decreased. This is probably because her factory
+	(1)	benefits from increasing marginal returns.
+	(2)	suffered from diseconomics of scale in the past.
+	(3)	was producing beyond its optimal scale.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+
+Question code: B2C11Q072
+One of Lee's Printing Ltd's printing factories ceased production after being destroyed in a flood. Since then, the average cost of the company has increased. This is probably because the company 
+	(1)	enjoys increasing marginal returns.
+	(2)	faces diseconomies of scale.
+	(3)	benefited from economies of scale in the past.
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B2C11Q073
+* When a firm expands its production scale and enjoys economies of scale, 
+	(1)	total cost of production decreases.
+	(2)	total output increases.
+	(3)	total revenue must increase.
+	(4)	average cost of production decreases.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: D
+Explanation
+For (3), as we have no information on the price, we cannot conclude that TR will increase. 
+
+
+Question code: B2C11Q074
+Suppose a firm is producing at an output level where it enjoys economies of scale. If it expands its production,
+	(1)	average cost may decrease.
+	(2)	total revenue must increase.
+	(3)	total cost will decrease.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	(1) and (3) only
+
+Answer: A
+
+Question code: B2C11Q075
+Which of the following statements regarding long run is correct?
+A.	Scale of production will increase if a firm employs more resources which are fixed in the short run.
+B.	Diminishing marginal returns sets in when marginal product starts decreasing due to excessive variable factors or inadequate fixed factors.
+C.	When a firm enjoys economies of scale, its average cost will continue to fall with an increase in output.
+D.	Diseconomies of scale mean that an increase in the amount of inputs will lead to a decrease in output.
+
+Answer: C
+
+Question code: B2C11Q076
+Suppose a plant expands its production scale in order to enjoy economies of scale. Which of the following statements is correct?
+A.	The average cost of production rises.
+B.	The total cost of production falls.
+C.	The firm operates in the long run.
+D.	The firm operates beyond the optimal scale.
+
+Answer: C
+
+
+Question code: B2C11Q077
+In the long run, diseconomies of scale occur when _______ as a firm increases its scale of production.
+A.	total cost increases
+B.	the plant becomes more crowded
+C.	total fixed cost increases
+D.	total cost increases at a higher rate than total product
+
+Answer: D
+
+Question code: B2C11Q078 (new)
+In the long run, as a firm increases its scale of production, 
+	(1)	total product eventually drops.
+	(2)	average cost may increase.
+	(3)	internal diseconomies of scale may occur.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B2C11Q079
+Mr Luk runs a compact disc factory. The following table shows the input and output information of his factory. Assume that the factory employs two factors of production only: CD writers and workers.
+
+Amount of CD writers (units)	No. of workers	Total output of CDs (units)	
+5	16	10,000	
+6	17	12,000	
+7	18	14,500	
+8	19	16,000	
+9	20	17,000	
+
+Which of the following statements about the above table is correct?
+A.	The compact disc factory faces diminishing marginal returns.
+B.	The compact disc factory is in the short run production period.
+C.	The compact disc factory must face diseconomies of scale.
+D.	None of the above is correct.
+
+Answer: D
+
+Question code: B2C11Q080
+Suki runs a tea factory in Sri Lanka. Similar to other tea factories, she expanded the production scale of the factory last year. However, she found that her average costs increased after the expansion. Which of the following are the possible reasons for the increase in average cost?
+	(1)	The law of diminishing marginal returns applies.
+	(2)	The factory faces internal diseconomies of scale.
+	(3)	The factory faces external diseconomies of scale.
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B2C11Q081 (new)
+Which of the following statements about the long run is INCORRECT?
+A.	Total cost equals total variable cost.
+B.	At zero output, the total cost is not equal to zero.
+C.	At the optimal scale, the average cost of production is the lowest.
+D.	There are no fixed costs.
+
+Answer: B
+
+Question code: B2C11Q082
+* Which of the following statements about the long run is correct?
+A.	The flexibility of production is higher than that in the short run.
+B.	A firm will expand until its average cost drops to the lowest level. 
+C.	The level of technology advances. 
+D.	Average fixed cost will decrease as output increases. 
+
+Answer: A
+
+Question code: B2C11Q083 (new)
+A software company employs programmers and computers to produce software. The following table shows the input-output relationship.
+
+Programmers (units)	Computers (units)	Output (units)	Total cost ($)	
+1	2	1	12	
+2	4	2	22	
+3	6	3	30	
+4	8	4	36	
+5	10	5	55	
+
+The firm is at its optimal scale of production when its output is ______ units.
+A.	2
+B.	3
+C.	4
+D.	5
+
+Answer: C
+
+
+Question code: B2C11Q084
+*Which of the following statements about the optimal scale of output is correct?
+A.	The firm minimises the total cost of production at this output level.
+B.	The long-run average cost of production is at a minimum.
+C.	The firm maximises the amount of revenue at this output level.
+D.	This is the maximum output a firm can produce at a given level of technology.
+
+Answer: B
+
+Question code: B2C11Q085 (new)
+Which of the following statements about the optimal scale of production is correct? 
+A.	A firm earns the highest possible profit when it produces at its optimal scale. 
+B.	If the total output is less than the optimal scale, the average cost will increase. 
+C.	A firm always produces at its optimal scale in the long run.
+D.	Optimal scale is the scale at which total product is the highest.
+
+Answer: B
+
+Question code: B2C11Q086 (new)
+Suppose a firm produces at its optimal scale. Which of the following statements is correct?
+A.	The firm cannot further lower its average cost if the level of technology remains unchanged.
+B.	The firm cannot further expand its production scale if the level of technology remains unchanged.
+C.	The current total revenue of the firm is lower than that at other output levels.
+D.	The current total cost of the firm is lower than that at other output levels.
+
+Answer: A
+
+Question code: B2C11Q087
+When a firm produces at the optimal scale,
+A.	its long-run average cost is the lowest among all producers.
+B.	it cannot lower its average cost by changing its scale of production.
+C.	it produces at the lowest possible total cost.
+D.	it earns the highest possible revenue.
+
+Answer: B
+
+
+Short Questions
+Question code: B2C11Q301 (new)
+The table below shows the input-output relationship of a firm.
+
+Labour
+(units)	Machines
+(units)	Total output
+(units)	
+2	1	5	
+2	2	10	
+2	3	14	
+2	4	17	
+
+State the law of diminishing marginal returns and explain whether the above data illustrate the law.	(6 marks)
+
+Answers: 
+The law states that when a variable factor is continuously added to a given quantity of fixed factors, the marginal product of the variable factor will eventually decrease, ceteris paribus.	(3 marks)
+Yes, the marginal product of machines falls from 5 units to 4 units when machines increase from 2 units to 3 units.	(3 marks)
+
+Question code: B2C11Q302 (new)
+The table below shows the input-output relationship of a firm.
+
+Labour
+(units)	Average working hour
+(hours)	Machines
+(units)	Marginal output
+(units)	
+10	5	1	16	
+10	6	2	17	
+10	7	3	15	
+10	8	4	13	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Explain whether the above data illustrate the law of diminishing marginal returns.			(2 marks)
+
+
+Answers:
+(a)	The law states that when a variable factor is continuously added to a given quantity of fixed factors, the marginal product of the variable factor will eventually decrease, ceteris paribus.	(3 marks)
+(b)	No	(1 mark)
+	This is because all factors are variable.	(1 mark)
+
+Question code: B2C11Q303 (new)
+The table below shows the input-output relationship of a firm.
+
+Machines (units) 	Labour (units)	Average output (units)	
+5	1	1	
+5	2	2	
+5	3	4	
+5	4	7	
+5	5	10	
+
+(a)	Explain whether the firm operates in the short run or long run.	(2 marks)
+(b)	Explain whether diminishing marginal returns can be illustrated by the above case.
+		(4 marks)
+
+Answers:
+(a)	Machines are fixed factors because their number does not vary with output. The firm operates in the short run as there are fixed factors.	(2 marks)
+(b)	
+Machine
+(units)	Labour
+(units)	Average output (units)	Total output (units)	Marginal output (units)	
+5	1	1	1		
+5	2	2	4	3	
+5	3	4	12	8	
+5	4	7	28	16	
+5	5	10	50	22	
+		(2 marks for marginal output)
+	No. The marginal output keeps increasing.	(2 marks)
+
+
+Question code: B2C11Q304
+Study the following table.
+
+Number of machines
+(units) 	Labour
+(units)	Total output
+(units)	
+2	1	4	
+2	2	10	
+2	3	18	
+2	4	24	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Are the above data consistent with the law? Explain.	(4 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+(b)
+Number of machines
+(units)	Labour
+(units)	Total output
+(units)	Marginal
+product (units)	
+2	1	4	4	
+2	2	10	6	
+2	3	18	8	
+2	4	24	6	
+			(2 marks)
+	Since the number of machines does not change, the firm contains fixed factors of production. The marginal product decreases when the fourth unit of labour is employed. This is consistent with the law.	(2 marks)
+
+Question code: B2C11Q305
+Miss Chan owns a restaurant. On Sunday, she employs an additional part-time worker.
+(a)	What factors of production do Miss Chan and the part-time worker provide?
+		(2 marks)
+(b)	When the restaurant is full, it cannot serve additional customers even though more part-time workers have been employed. Explain why this can be used to illustrate the law of diminishing marginal returns.	(3 marks)
+
+
+Answers: 
+(a)	Miss Chan provides entrepreneurship and the worker provides labour.	(2 marks)
+(b)	The restaurant has only fixed space (a fixed factor) to serve customers. The increase in part-time workers (a variable factor) cannot help serve more customers. This implies that the marginal product must decrease eventually and illustrates the law of diminishing marginal returns.	(3 marks)
+
+Question code: B2C11Q306
+Study the following table.
+
+Number of machines 	Labour (units)	Marginal product (units)	
+5	2	4	
+5	3	6	
+5	4	9	
+5	5	13	
+5	6	15	
+
+(a)	Explain whether the firm operates in the short run or long run.	(3 marks)
+(b)	Explain whether diminishing marginal returns can be illustrated by the above case.
+		(2 marks)
+
+Answers:
+(a)	Machines are a fixed factor because their number does not vary with output. The firm operates in the short run as there are fixed factors.	(3 marks)
+(b)	As the marginal product of labour keeps on increasing, diminishing marginal returns cannot be illustrated by the above case.	(2 marks)
+
+Question code: B2C11Q307
+Study the following table.
+
+Number of machine 	Number of workers	Total output (units)	
+10	2	135	
+10	3	240	
+10	4	375	
+10	5	540	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Are the above data consistent with the law? Explain.	(3 marks)
+
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+(b)
+Number of machine	10	10	10	10	
+Number of workers	2	3	4	5	
+Marginal product (units)	-	105	135	165	
+			(2 marks)
+	Since the marginal product of labour is increasing, it is uncertain that whether the data agree with the law.	(1 mark)
+
+Question code: B2C11Q308
+Study the following table.
+
+No. of machine 	No. of workers	Total output (units)	
+10	1	25	
+10	2	55	
+10	3	95	
+10	4	130	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Are the above data consistent with the law? Explain.	(3 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of a fixed factor, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+(b)
+No. of machine	10	10	10	10	
+No. of workers	1	2	3	4	
+Marginal product (units)	25	30	40	35	
+		(2 marks)
+	The marginal product diminishes after the third worker is employed. This is consistent with the law.	(1 mark)
+
+
+Question code: B2C11Q309
+The following table shows the inputs and output of a printing factory.
+
+No. of absentees	Machines (units)	Total product (units)	
+1
+2
+3
+4
+5	15
+15
+15
+15
+15	240
+200
+150
+120
+100	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+* (b)	Suppose the printing factory employs N workers. Explain if diminishing marginal returns exist in the factory.	(4 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+(b)	Since the printing factory has employed N workers, the absence of one worker implies N - 1 workers are present, the absence of two workers implies N - 2 workers are present…
+
+No. of workers who are present	Total product
+(units)	Marginal product
+(units)	
+N - 5
+N - 4
+N - 3
+N - 2
+N - 1	100
+120
+150
+200
+240	-
+20
+30
+50
+40	
+		(2 marks)
+	When the number of workers increases, the marginal product increases with the total product initially. But when the number of workers is increased to N - 1, the marginal product drops and the law of diminishing returns sets in.	(2 marks)
+
+
+Question code: B2C11Q310
+The following table shows the inputs and output of a soya bean products factory.
+
+No. of absentees	Machines (units)	Decrease in total output (units)	
+1
+2
+3
+4
+5	15
+15
+15
+15
+15	70
+136
+198
+255
+310	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+*(b)Suppose the soya bean products factory employs six workers. Explain if diminishing marginal returns occurs in the factory.	(4 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+(b)	Since the soya bean products factory has employed six workers, when one worker is absent, the drop in total output reflects the marginal product of the sixth worker. When two workers are absent, the additional drop in total product (136 - 70 = 66) reflects the marginal product of the fifth worker…
+
+No. of workers who are present	Marginal product (units)	
+1
+2
+3
+4
+5
+6	-
+55
+57
+62
+66
+70	
+		(2 marks)
+	Since the marginal product increases when more workers are present, diminishing marginal returns does not occur in the factory.	(2 marks)
+
+
+Question code: B2C11Q311
+Student Y: 'The law of diminishing marginal returns states that the marginal product of a variable factor eventually decreases. Therefore, it also implies that both the marginal product and the average product are negative.'
+Is he correct? Explain.	(5 marks)
+
+Answers: 
+The first half is correct:
+•	Marginal product eventually decreases if the firm continuously adds variable factors to a given amount of fixed factors, ceteris paribus.	(2 marks)
+The second half is incorrect:
+•	The marginal product may decrease continuously but it can still be positive.			(1 mark)
+•	Average product ＝ Total product ÷ Units of output . It will not be negative unless the total product is negative. However, total product cannot be negative.
+			(2 marks)
+
+Question code: B2C11Q312
+Study the following cost-output table.
+
+Output (units)	0	1	2	3	4	5	6	7	8		Total cost ($)	30	57	78	93	105	123	147	177	225		
+(a)	Find the total fixed cost of production.	(1 mark)
+(b)	Calculate the average cost when the output level is 3 units and the marginal cost when the output level is 5 units.	(2 marks)
+
+Answers: 
+(a)	$30	(1 mark)
+(b)	•	Average cost when the output level is three units = $93 ÷ 3 = $31	(1 mark)
+	•	Marginal cost when the output level is five units = $123 - $105 = $18				(1 mark)
+
+Question code: B2C11Q313
+Mr Lee owns a garment factory in Cheung Sha Wan. Suppose the government lowers the business registration fee.
+(a)	Is the business registration fee a fixed cost? Explain.	(2 marks)
+(b)	Give TWO examples of the factory's variable costs.	(2 marks)
+(c)	What is the effect of this measure on average cost and marginal cost of production?	(4 marks)
+
+Answers: 
+(a)	Yes, because it does not vary with the level of output.	(2 marks)
+(b)	Any two reasonable examples	(2 marks)
+	Examples: electricity fee, costs of raw materials
+(c)	•	Average cost = Total cost ÷ Units of output	(1 mark)
+	•	Since total cost of production decreases and the level of output remains unchanged, average cost must decrease.	(1 mark)
+	•	Marginal cost of the nth unit = TC of n units - TC of (n - 1) units	(1 mark)
+	•	Since the total cost of n units and that of (n - 1) units decrease by the same amount, marginal cost of production remains unchanged.	(1 mark)
+	OR
+	•	The change in the fixed cost will not affect the marginal cost.	(2 marks)
+
+Question code: B2C11Q314
+Ms Chan runs a cake shop in Causeway Bay. Suppose the power company raises the electricity charge by 5%.
+(a)	Do electricity charges belong to fixed cost or variable cost? Explain.	(2 marks)
+(b)	Give ONE example of the shop's fixed cost and variable cost, respectively.		(2 marks)
+(c)	What is the effect of an increase in electricity charges on total cost and marginal cost?	(5 marks)
+
+Answers: 
+(a)	Electricity charges belong to variable cost because it varies with the level of output.	(2 marks)
+(b)	Any one reasonable example for each type of cost
+	Example of fixed cost: rent	(1 mark)
+	Example of variable cost: costs of raw materials	(1 mark)
+(c)	•	Total cost = Total fixed cost + Total variable cost	(1 mark)
+	•	Since total variable cost increases and total fixed cost remains unchanged, total cost must increase.	(1 mark)
+	•	MC of the nth unit of output = TC of n units - TC of (n-1) units	(1 mark)
+	•	In raising electricity charges by 5%, the higher the consumption of electricity, the greater the increase in electricity charges.	(1 mark)
+	•	Therefore, the increase in TVC of n units will be greater than that of (n-1) units, marginal cost will increase.	(1 mark)
+
+
+Question code: B2C11Q315 (new)
+Tom opens supermarkets. He finds that if he increases all the inputs to increase outputs, the average cost will increase. Give THREE possible reasons for this.	
+				(6 marks)
+
+Answers:
+This is because the scale of the supermarket is too large and it suffers from diseconomies of scale. 
+•	It needs to pay a higher marketing cost to maintain its market share as the markets approach saturation.
+•	The complex organisational structure of a large supermarket may delay decisions, block communication and weaken coordination. This increases its average cost of production.
+•	A bank may charge a higher interest rate to compensate for the higher risk of lending too much money to a large supermarket.
+•	As a large supermarket increases its employment of resources, the firm may have to buy them from more expensive sources or use more expensive substitutes.
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+Question code: B2C11Q316 (new)
+Suggest TWO reasons why a large logistics company usually has a cost advantage.	
+				(4 marks)
+
+Answers:
+The possible reasons are as follows:
+•	A large logistics company can afford to have better machines (e.g., trucks) since the cost can be spread over a larger output.
+•	A large logistics company can have specialisation among managers and attract more productive professionals to work for it. Thus, productivity can be increased and the average cost of production can be reduced.
+•	A large logistics company can raise funds at a lower average cost.	
+•	A large logistics company can enjoy a larger discount when buying inputs in bulk, and this can lower its average purchasing cost.
+•	A large logistics company can spread its advertising costs over a larger output. Hence, it can cut its average cost of marketing.
+•	A large logistics company can diversify its input sources, products and markets to reduce the risks of a rise in costs or a fall in sales.
+(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+
+Question code: B2C11Q317
+Suggest TWO possible reasons why a large supermarket chain usually has a cost advantage over a small store.	(4 marks)
+
+Answers:
+The possible reasons are as follows:
+•	A large supermarket chain can afford to have better machines (e.g., cash registers) since the cost can be spread over a larger output.
+•	A large supermarket chain can have specialisation among managers and attract more productive professionals to work for it. Thus, productivity can be increased and the average cost of production can be lowered.
+•	A large supermarket chain can raise funds at a lower average cost.	
+•	A large supermarket chain can enjoy a larger discount when buying inputs in bulk, and this can lower its average purchasing cost.
+•	A large supermarket chain can spread its advertising costs over a larger output. Hence, it can cut its average cost of marketing.
+•	A large supermarket chain can diversify its input sources, products and markets to reduce the risks of a rise in cost, production disruption and a fall in sales.
+	(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+Question code: B2C11Q318
+State the differences between diminishing marginal returns and diseconomies of scale.	(6 marks)
+
+Answers: 
+Diminishing marginal returns: 
+•	Relate to the input-output relationship in the short run.	(1 mark)
+•	As more variable factors are added to a given quantity of fixed factors, the marginal product eventually drops, ceteris paribus.	(2 marks)
+Diseconomies of scale:
+•	Relate to the cost-output relationship in the long run. 	(1 mark)
+•	Disadvantages associated with too large a scale of production which results in higher average costs.	(2 marks)
+
+
+Question code: B2C11Q319
+Study the following table about the cost and output of a factory.
+
+Output (units)	0	1	2	3	4	5	6	7	8		Total cost ($)	20	30	41	53	66	85	105	130	160		
+(a)	Calculate the total variable costs and average variable costs at different output levels.	(4 marks)
+*(b)	Explain if the factory experiences economies of scale.	(3 marks)
+
+Answers: 
+(a)	
+Output (units)	0	1	2	3	4	5	6	7	8		Total variable cost (= TC － TFC)($)	0	10	21	33	46	65	85	110	140		Average variable cost (= TVC ÷ Q)($)	―	10	10.5	11	11.5	13	14.2	15.7	17.5				(4 marks)
+(b)	•	No.	(1 mark)
+	•	Economies of scale only exist in the long run. Since the factory has fixed costs (i.e. it employs fixed factors), economies of scale cannot occur.	(2 marks)
+
+Question code: B2C11Q320
+* A teacher says, 'In the short run, it is impossible for the total product of a firm to keep increasing. However, it is possible in the long run.'
+Is the teacher correct? Explain.	(5 marks)
+
+Answers: 
+•	For the first half, it depends.	(1 mark)
+•	According to the law of diminishing marginal returns, marginal product decreases eventually. However, whether the total product can keep increasing depends on whether the marginal product decreases to a negative figure; if it decreases to a negative figure, the total product cannot keep increasing. 	(2 marks)
+•	On the other hand, a firm eventually suffers diseconomies of scale in the long run. Although average cost increases with output, total product can still increase continuously. 	(2 marks)
+
+
+Question code: B2C11Q321
+List THREE reasons that explain why the average costs of big supermarkets are lower than those of small supermarkets.	(6 marks)
+
+Answers: 
+This is because big supermarkets can benefit from economies of scale:
+•	A big supermarket can afford to buy better equipment to raise productivity and can fully utilise it. Hence, the average cost of production drops.
+•	A big supermarket can have specialisation among managers and attract more productive professionals to increase productivity. Thus its average cost of production drops.
+•	A big supermarket can bargain for a lower borrowing rate and can issue shares to avoid paying interest. Hence, its average cost of capital drops.
+•	A big supermarket can enjoy a larger discount when buying its inputs in bulk, so that its average cost of purchases drops.
+•	A big supermarket can spread its advertising costs over a larger output. Hence, its average cost of marketing drops.
+•	A big supermarket can afford research and development to develop new technology to lower its average cost of production. 
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+Question code: B2C11Q322
+List THREE reasons to explain why the average cost at a food factory increases when it expands its scale of production.	(6 marks)
+
+Answers: 
+This is because the scale of the factory is too large and it suffers from diseconomies of scale. Reasons for diseconomies of scale:
+•	The complex organisational structure of a large factory may delay decisions, block communication and weaken coordination. This increases its average cost of production.
+•	A bank may charge a higher interest rate to compensate for the higher risk of lending too much money to a large factory. This raises its average cost of production.
+•	As a large factory increases its employment of resources, the firm may have to buy them from more expensive sources or use more expensive substitutes. This raises its average cost of purchasing resources.
+•	A large factory may suffer from saturation of the local market. Exploring overseas markets increases its average cost of marketing.
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+Question code: B2C11Q323
+* Student X: When a firm expands its output level and enjoys economies of scale, the average cost of production and total cost of production will decrease.
+Is he correct? Explain.	(4 marks)
+
+Answers: 
+•	Economies of scale: When a firm increases its output by expanding its scale of production (i.e. increasing the employment of all factors by the same proportion), the average cost of production will decrease.	(2 marks)
+•	However, the total cost of production may increase or decrease, depending on whether the marginal cost is positive or not. Therefore, the statement is incorrect.	(2 marks)
+	
+Question code: B2C11Q324
+'When a firm reduces its scale of production, the average cost increases. This means the firm suffers from diseconomies of scale.'
+Is this statement correct? Explain.	(6 marks)
+
+Answers: 
+•	Economies of scale: When a firm increases its output by expanding its scale of production (i.e., increasing the employment of all factors by the same proportion), the average cost of production will decrease.	(2 marks)
+•	Diseconomies of scale: When a firm increases its output by expanding its scale of production (i.e., increasing the employment of all factors by the same proportion), the average cost of production will increase.	(2 marks)
+•	When the firm reduces its scale, the average cost increases. In other words, when the firm expands its scale, the average cost decreases. Hence, the firm enjoys economies of scale, instead of suffering from diseconomies of scale. Therefore, the statement is incorrect.	(2 marks)
+
+
+
+Question code: B2C11Q325
+Mr Law runs a candy factory. The following table shows the factory's costs and output.
+
+Total product 
+(units/day)	Cost of sugar
+($)	Cost of artificial colouring 
+($)	
+100
+220
+360
+400	5
+10
+15
+20	50
+100
+150
+200	
+
+(a)	Calculate the average cost of his candy factory at various output levels.	(2 marks)
+(b)	(i)	What is optimal scale?	(2 marks)
+	(ii)	Explain the optimal scale of Mr Law's candy factory.	(2 marks)
+
+Answers: 
+(a)	Total cost = Cost of sugar + Cost of artificial colouring
+
+
+Total product (units/day)	Total cost ($)	Average cost ($)	
+100
+220
+360
+400	55
+110
+165
+220	0.55
+0.50
+0.46
+0.55	
+			(2 marks)
+(b)	(i)	Optimal scale is the scale at which output is produced at the lowest long-run average cost.	(2 marks)
+	(ii)	The optimal scale of production is attained when the firm produces 360 units/day since the average cost is the lowest.	(2 marks)
+
+
+Question code: B2C11Q326
+Mr Kwok runs a factory producing needles. The following table shows the factory's costs and output.
+
+Total product
+(units/day)	Cost of iron
+($)	Wage cost
+($)	
+1,000
+1,600
+2,550
+3,000	100
+150
+200
+250	500
+750
+1,000
+1,250	
+
+(a)	Calculate the average cost of Mr Kwok's factory at various output levels.	(2 marks)
+(b)	(i)	What is optimal scale?	(2 marks)
+	(ii)	Explain the optimal scale of Mr Kwok's factory.	(2 marks)
+
+Answers: 
+(a)	Total cost = Cost of iron + Wage cost
+
+Total product (units/day)	Total cost ($)	Average cost ($)	
+1,000
+1,600
+2,550
+3,000	600
+900
+1,200
+1,500	0.60
+0.56
+0.47
+0.50	
+		(2 marks)
+(b)	(i)	Optimal scale is the scale at which output is produced at the lowest long-run average cost.	(2 marks)
+	(ii)	The optimal scale of production is attained when the factory produces 2,550 units/day since the average cost is the lowest.	(2 marks)
+
+
+Structured Questions
+Question code: B2C11Q501 (new)
+Recently, bicycling has become popular and the demand for bicycles has increased.
+(a)	With the aid of a diagram, explain how the price of bicycles will change.
+					(4 marks)
+A bicycle factory issues bonds to buy new machines and increases all other inputs to increase the output.
+(b)	Is the factory in the short run or long run? Explain your answer.	(2 marks)
+(c)	Give ONE example of the variable costs incurred at the bicycle factory. Explain your answer.	(2 marks)
+(d)	Explain TWO economies of scale that a bicycle factory may enjoy when it expands its scale of production.	(4 marks)
+(e)	Name this type of expansion and explain your answer.	(2 marks)
+(f)	Give TWO reasons why issuing bonds could be a better choice for the owners of the company than issuing shares.	(4 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	The demand curve shifts rightwards.	(1 mark)
+	(	Price increases.	(1 mark)
+	
+	Verbal elaboration:
+	More people buy bicycles. The demand increases and thus the price increases.	
+			(2 marks)
+
+(b)	Since all factors are variable,	(1 mark)
+	the firm is in the long run.	(1 mark)
+
+(c)	The material to make bicycles increases with the amount of output. (Accept other reasonable answer)	(2 marks)
+
+(d)	(	The firm can utilise machines more fully.
+	(	The firm can have a wider scope of specialisation among managers.
+	(	The firm can bargain for a lower borrowing rate.
+	(	The firm can get a larger discount when buying in bulk.
+	(	The firm can spread its advertising costs over a larger output.
+	(	The firm can diversify its input sources, products and markets to spread the risk.
+	(	The firm can spread its R&D costs over a larger output.
+	(Any TWO of the above. 2 marks × 2 = 4 marks)
+
+(e)	The firm expands its business at the same production stage of the same product on its own.	(1 mark)
+	Therefore, this is internal horizontal expansion.	(1 mark)
+
+(f)	(	The bondholders have no influence over company decisions.	(2 marks)
+	(	Issuing bonds does not raise the risk of being taken over.	(2 marks)
+
+Question code: B2C11Q502 (new)
+'What is a city? A city is a place where many people with different skills cluster (聚集). This clustering not only changes production methods, but also increases the demand for different goods so that the average cost of production can be reduced.'
+
+(a)	Explain THREE economies of scale that a firm may enjoy when it expands its production scale.	(6 marks)
+(b)	What is labour productivity? Give TWO reasons to explain how division of labour can increase labour productivity.	(6 marks)
+(c)	A road is constructed to connect a village and a city. People can use the road freely.	
+(i)	Is the road a free good? Explain your answer.	(2 marks)
+(ii)	To which type of factor of production does the road belong? Explain your answer.	(2 marks)
+
+
+Answers: 
+(a)	(	The firm can utilise machines more fully.
+	(	The firm can have a wider scope of specialisation among managers.
+	(	The firm can bargain for a lower borrowing rate.
+	(	The firm can get a larger discount when buying in bulk.
+	(	The firm can spread its advertising costs over a larger output.
+	(	The firm can diversify its input sources, products and markets to spread the risk.
+	(	The firm can spread its R&D costs over a larger output.
+	(Any THREE of the above. 2 marks × 3 = 6 marks)
+
+(b)	Labour productivity is equal to total output divided by the total number of working hours.	(2 marks)
+	Reasons:
+	•	It assigns the right person to do the right job.
+	•	Practice makes perfect. With specialisation, workers do the same job repeatedly. Hence, they become more skilful and productive at it.
+	•	More workers have capital goods to use since the workers concentrate on one job only.
+	(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+(c)	(i)	No	(1 mark)
+		This is because people prefer to have more of it.	(1 mark)
+	(ii)	Capital	(1 mark)
+		It is a man-made resource that can be used to help production.	(1 mark)
+
+Question code: B2C11Q503
+Mr Tang and his wife own a toy factory. The following table shows the product items and cost items of the toy firm. Suppose the unit cost of capital and labour are $18 and $10, respectively.
+Capital
+(units)	Labour
+(units)	Total product
+(units)	Marginal product
+(units)	Total
+variable
+cost ($)	Total cost
+($)	Average
+cost ($)		5	1	4						5	2	10						5	3	18						5	4	24						5	5	36						
+(a)	Fill in the table.	(10 marks)
+(b)	Does the law of diminishing marginal returns apply to the toy factory? Explain your answer.	(3 marks)
+(c)	Recently, the factory has suffered a great loss. Mr Tang and his wife decide to close the factory. They need to use part of their personal property to settle the debts.
+	(i)	To which form of business ownership does the toy factory belong?	(1 mark)
+	(ii)	Explain the feature of the form of business ownership involved in the above case.	(3 marks)
+
+Answers: 
+(a)	
+Capital
+(units)	Labour
+(units)	Total product
+(units)	Marginal product
+(units)	Total
+variable
+cost ($)	Total cost
+($)	Average
+cost ($)		5	1	4	4	10	100	25		5	2	10	6	20	110	11		5	3	18	8	30	120	6.67		5	4	28	10	40	130	4.64		5	5	36	8	50	140	3.89						(0.5 marks × 20 = 10 marks)
+(b)	The firm is in the short run since the number of machines does not change. The marginal product of the fifth unit of labour is 8 units, which is less than the marginal product of the fourth unit. Therefore, the law of diminishing marginal returns applies to the toy factory.	(3 marks)
+
+(c)	(i)	Partnership	(1 mark)
+	(ii)	Unlimited liability: Mr Tang and his wife are fully responsible for the debts and obligations of their factory. Their liability is not confined to their capital contribution and they need to use their personal property to settle the debts incurred by their factory.	(3 marks)
+
+
+Question code: B2C11Q504
+The following table outlines the inputs and outputs of a computer factory with only two factors of production.
+
+Machines (units)	Labour (units)	Total products (units)	
+1	1	1	
+2	2	3	
+3	3	6	
+4	4	10	
+5	5	13	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Does the law apply to the factory? Explain your answer.	(2 marks)
+(c)	The factory tries to expand its scale of production. Give TWO possible benefits of doing so.	(4 marks)
+(d)	The factory has assembly line workers, managers, engineers, designers and merchandisers.
+(i)	What economic principle is illustrated by this practice?	(1 mark)
+(ii)	State TWO disadvantages of this practice to the workers.	(2 marks)
+
+Answers: 
+(a)	The law of diminishing marginal returns states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal product will eventually decrease, ceteris paribus.	(3 marks)
+(b)	The firm is in the long run as all the factors of production are variable factors, so the law does not apply.	(2 marks)
+(c)	The benefits are:
+	•	The factory can buy better machines as the average cost is lower. The machines can be fully utilised.	
+	•	A larger factory can have specialisation among managers and raise productivity.
+	•	A large factory can raise funds at a lower average cost.
+	•	A large factory can enjoy a larger discount when buying its input in bulk.
+•	A large factory can spread its advertising costs over a larger output.
+	•	A large factory can diversify its input sources, products and markets to reduce the risks of a rise in cost, production disruption and a fall in sales.
+•	A large factory can afford to conduct research and development. With this, the factory can develop new technology to cut costs and new products to raise sales.
+	(Any TWO of the above, 2 marks × 2 = 4 marks)
+(d)	(i)	(Complex) Division of labour / Specialisation	(1 mark)
+	(ii)	•	Work becomes boring
+•	Loss of job satisfaction
+•	Limited skills of workers
+•	Greater risk of unemployment
+		(Any TWO of the above. 1 mark ( 2 = 2 marks)
+
+Question code: B2C11Q505
+The following table outlines the inputs and output of a hospital.
+
+Total area of the hospital (sq. ft.)	No. of
+employees	Total product (measured by maximum no. of patients which can be treated)	
+6,500
+6,500
+6,500
+6,500
+6,500	1
+2
+3
+4
+5	100
+250
+450
+600
+700	
+
+(a)	In which production period is the hospital operating? Why?	(3 marks)
+(b)	What economic law can explain the change in the maximum number of patients which can be treated? Explain.	(7 marks)
+(c)	The following are some of the hospital's expenses:
+
+	•	Electricity
+	•	Equipment in operating wards
+	•	Equipment in wards
+	•	Computers
+	•	Rates and rental
+	•	Medicine	
+	
+	Define variable costs. Identify TWO variable costs from the above list.				(4 marks)
+(d)	Since the number of patients has increased, the hospital doubles its size, number of employees and equipment. After the expansion, the hospital's average cost decreases. Explain THREE reasons why the hospital's average cost decreases.				(6 marks)
+
+
+Answers: 
+(a)	•	Short run	(1 mark)
+	•	This is because there is a fixed factor (the hospital building).	(2 marks)
+
+(b)	•	The law of diminishing marginal returns 	(1 mark)
+	•	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(2 marks)
+	•	The marginal product of the hospital:
+
+No. of employees	1	2	3	4	5	
+Marginal product	100	(250 - 100) = 150	(450 - 250) = 200	(600 - 450) = 150	(700 - 600) = 100	
+		(2 marks)
+	•	When the total area of the hospital remains unchanged and the number of employees increases, the marginal product (i.e., the marginal increase in the maximum number of patients which can be treated) will eventually drop (after the third employee is employed).	(2 marks)
+
+(c)	•	Variable costs are costs that increase (decrease) as output increases (decreases).	(2 marks)
+	•	Expenses on electricity and medicine	(2 marks)
+
+(d)	Reasons:
+	•	A larger hospital can afford to buy better equipment to raise productivity and can fully utilise it. 
+		Hence, the average cost of production drops.
+	•	A larger hospital can have specialisation among managers and attract more productive professionals to increase productivity. Thus, its average cost of production drops.
+	•	A larger hospital can bargain for a lower borrowing rate. Hence, its average cost of capital drops.
+	•	A larger hospital can enjoy a larger discount when buying its inputs in bulk, so that its average cost of purchases drops.
+	•	A larger hospital can afford research and development to develop new technology to lower its average cost of production. 
+	(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+
+Question code: B2C11Q506
+The following table outlines the inputs and output of a bus company.
+
+No. of buses
+(units)	No. of drivers	Total product (measured by maximum daily no. of bus trips)	
+20
+20
+20
+20
+20	1
+2
+3
+4
+5	30
+70
+100
+120
+133	
+
+(a)	In which production period is the bus company operating? Why?	(3 marks)
+(b)	What economic law can explain the change in the number of bus trips? Explain.		(7 marks)
+(c)	The following are some of the bus company's expenses:
+•	Management fee of the bus depot
+•	Fuel
+•	Bus maintenance costs 
+• 	Business registration fee
+•	Rates and rental
+•	Water and electricity costs	
+	Define fixed costs. Identify THREE fixed costs in the above list.	(5 marks)
+(d)	Explain the effects of a drastic increase in oil prices on the marginal cost and average cost of the bus company.	(4 marks)
+
+Answers: 
+(a)	•	Short run	(2 marks)
+	•	This is because there is a fixed factor (buses).	(1 mark)
+
+(b)	•	The law of diminishing marginal returns	(1 mark)
+	•	The law states that when a variable factor is added continuously to a given quantity of a fixed factor, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(2 marks)
+	•	The marginal product of the bus company:
+No. of drivers	1	2	3	4	5	
+Marginal product	30	(70 - 30)
+= 40	(100 - 70)
+= 30	(120 - 100) = 20	(133 - 120) = 13	
+		(2 marks)
+
+	•	When the number of buses remains unchanged and the number of drivers increases, the marginal product (i.e., the marginal increase in the maximum daily number of bus trips) will eventually drop (after the second driver is employed).	(2 marks)
+
+(c)	•	Fixed costs are costs that remain unchanged as output changes.	(2 marks)
+	•	Management fee of the bus depot; business registration fee; rates and rental			(3 marks)
+
+(d)	•	Average cost = Total cost ÷ Total output	(1 mark)
+	•	Since the total cost of producing the same level of output increases, the average cost must increase.	(1 mark)
+	•	Although the consumption of gasoline for each additional bus trip remains unchanged, the unit price of gasoline has increased.	(1 mark)
+	•	Hence, the marginal cost must increase.	(1 mark)
+
+Question code: B2C11Q507
+The following table shows the production information for Factory A. Capital and workers are the only inputs.
+ Capital (units)	Number of worker	Total product (units)	Total cost ($)	
+5	1	50	350	
+5	2	120	400	
+5	3	200	450	
+5	4	220	500	
+5	5	200	550	
+
+(a)	Suppose each worker works 8 hours a day. What is the average productivity of labour, when the factory employs 4 workers?	(3 marks)
+(b)	According to the above table, when do diminishing marginal returns set in? Explain.	(2 marks)
+(c)	(i)	What is average cost?	(1 mark)
+	(ii)	Complete the following table.	(2 marks)
+			
+Total product (units)	Total cost ($)	Average cost ($)	
+50	350		
+120	400		
+200	450		
+220	500		
+200	550		
+	
+	(iii)	Ming says, 'The optimal scale of production is attained when the quantity produced by Factory A has the lowest average cost.' Do you agree? Explain. 	(4 marks)
+
+Answers: 
+(a)	•	Average productivity of labour = Total product ÷ Number of working hours		(1 mark)
+	•	Number of working hours = Number of workers × Working hours per worker
+		= 4 × 8 hours = 32 working hours	(1 mark)
+	•	Therefore, average productivity of labour
+		= 220 units ÷ 32 hours = 6.875 units/hour	(1 mark)
+
+(b)	
+Number of worker	Total product (units)	Marginal product (units)	
+2	120	70	
+3	200	80	
+4	220	20	
+
+	•	It sets in after the 3rd unit of worker is employed since marginal product is beginning to decrease. 	(2 marks)
+
+(c)	(i)	Average cost is the cost per unit of output produced.	(1 mark)
+	(ii)		
+Total product (units)	Total cost ($)	Average cost ($)	
+50	350	7	
+120	400	3.33	
+200	450	2.25	
+220	500	2.27	
+200	550	2.75	
+				(2 marks)
+	(iii)	•	No. 	(1 mark)
+		•	The amount of capital has not been adjusted, that scale of production may not be the optimal scale. 	(1 mark)
+		•	As there is a fixed factor in Factory A, therefore, it does not operate in the long run. 	(2 marks)
+
+Question code: B2C11Q508
+Suppose Medic Ltd makes a pill that is the only medicine in the market which can cure most cancers and the company is the only firm that can produce such medicine. 
+(a)	To encourage its production, the government provides a per-unit production subsidy to Medic Ltd. What are the effects on the average cost and the marginal cost of producing the pills? Explain.	(4 marks)
+(b)	Facing a huge demand for the pill, the company has increased its scale of production. After the expansion, the company's average cost decreases. Explain THREE reasons why the average cost decreases.	(6 marks)
+(c)	To increase the scale of production, Medic Ltd decides to build more plants and increase the amount of machines. Instead of issuing stock, Medic Ltd issues bonds to raise the required amount of capital. Explain ONE advantage and ONE disadvantage of issuing bonds over stocks to the existing owners of the firm.				(4 marks)
+Answers: 
+(a)	•	Average cost = Total cost ÷ Total output. Total cost decreases by per-unit subsidy times total output.	(1 mark)
+	•	The subsidy will lower the average cost.	(1 mark)
+	•	Every unit of output will be provided with a per-unit subsidy.	(1 mark)
+	•	So the subsidy will lower marginal cost by the amount of the per-unit subsidy.			(1 mark)
+
+(b)	Reasons:
+	•	A larger firm can afford to buy better equipment to raise productivity and can fully utilise it. 
+		Hence, the average cost of production drops.
+	•	A larger firm can have specialisation among managers and attract more productive professionals to increase productivity. Thus, its average cost of production drops.
+	•	A larger firm can bargain for a lower borrowing rate. Hence, its average cost of capital drops.
+	•	A larger firm can enjoy a larger discount when buying its inputs in bulk, so that its average cost of purchases drops.
+	•	A larger firm can afford research and development to develop new technology to lower its average cost of production. 
+	(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+
+(c)	Advantage:
+	•	Holders of debentures are creditors, not owners of the company. They therefore have no voting rights and the existing shareholders' power of controlling the company is not diluted.	(2 marks)
+	Disadvantage:
+	•	The company must pay interest to the bond holders regardless of its financial condition.	(2 marks)
+	(Accept other reasonable answers)
+
+Question code: B2C11Q509
+Suppose the government imposes a per-unit sales tax on tissue manufacturers in order to reduce waste.
+(a)	What are the effects of the tax on the average cost and the marginal cost of producing tissues? Explain.	(4 marks)
+(b)	Facing enduring promotion from environmental groups, some people replace tissues by handkerchiefs. With the aid of a demand-supply diagram, explain under what situation the equilibrium price of tissues will increase when the imposition of a sales tax and the above event take place simultaneously.	(6 marks)
+(c)	Mr Lee is a sole proprietor of a tissue manufacturing firm. To produce handkerchiefs, he needs to purchase new machines. Instead of borrowing from banks, he raises funds by forming a partnership with Miss Ma. Explain ONE advantage and ONE disadvantage of forming a partnership over borrowing from banks.	(4 marks)
+
+Answers: 
+(a)	•	Average cost = Total cost ÷ Total output. Total cost increases by per-unit tax times total output.	(1 mark)
+	•	The tax will increase the average cost.	(1 mark)
+	•	Every unit of output is taxable.	(1 mark)
+	•	So the tax will increase marginal cost by the amount of the per-unit tax.		(1 mark)
+
+(b)	Verbal elaboration:
+	•	The sales tax will decrease the supply of tissues (S0 → S1).	(1 mark)
+	•	The demand for tissues will decrease when people replace tissues by handkerchiefs (D0 → D1).	(1 mark)
+	•	If the supply decreases more than the demand, the equilibrium price will increase (P0 → P1).	(2 marks)
+	Indicate on the diagram:
+	(2 marks)
+
+(c)	Advantages:
+	•	Mr Lee need not bear interest.
+	•	There are more sources of capital.
+	•	There is a wider scope of specialisation.
+	•	Cost and risk sharing is possible.
+	(Any ONE of the above with explanation or other reasonable answers, 2 marks) 
+	Disadvantages:
+	•	Mr Lee has to bear the consequences of mistakes committed by other partners.
+	•	Longer decision-making time is required and decision making is less flexible.
+	•	Transfer of ownership is more difficult.
+	(Any ONE of the above with explanation or other reasonable answers, 2 marks) 
+
+Question code: B2C11Q510
+Mr Yeung is a sole proprietor of a printing factory which prints textbooks for publishers in Hong Kong. The following information is extracted from a report on Mr Yeung's factory:
+
+No. of workers absent from work	Reduction of books printed	
+1	200	
+2	500	
+3	900	
+4	1,400	
+5	2,000	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+*(b)	Are the data consistent with the law? Explain your answer.	(4 marks)
+
+(c)	Suppose Mr Yeung wants to increase the productivity of workers by increasing the number of printing machines. He therefore asks his best friend, Mr Wong, to join him and together they form a private limited company.
+	(i) What are the features of a private limited company in comparison with a sole proprietorship?	(2 marks)
+	(ii)	With the capital from Mr Wong, Mr Yeung doubled the number of machines and the number of workers in their factory. However, the total output has less than doubled. Suggest TWO reasons to account for this.	(4 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of a fixed factor, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+
+(b)	Suppose there are N workers in total. When one worker is absent, the drop in total output is 200, which is the marginal product of the Nth worker. When two workers are absent, the additional drop in total output is 300 (= 500 － 200), which is the marginal product of the (N - 1)th worker. …
+
+Number of workers	Marginal product	
+N - 5	-	
+N - 4	600	
+N - 3	500	
+N - 2	400	
+N - 1	300	
+N	200	
+		(3 marks)
+	Since the marginal product of workers decreases with the number of workers, the data are consistent with the law of diminishing returns.	(1 mark)
+
+(c)	(i)	•	The firm is an independent legal entity.
+		•	The firm has lasting continuity.
+		•	Owners bear limited liability, instead of unlimited liability
+		•	Separation of ownership and management
+		•	Wider source of capital
+		•	Larger extent of specialisation
+		•	Distant relations with employees and customers
+		•	Higher profits tax rate
+	
+		(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+	(ii)	The printing factory is suffering from diseconomies of scale:
+		•	The complex organisational structure of a large factory may delay decisions, block communication and weaken coordination. This raises its average cost of production.
+		•	A bank may charge a higher interest rate to compensate for the higher risk of lending too much money to a large factory. This raises its average cost of production.
+		•	As a large factory increases its employment of resources, the firm may have to buy them from more expensive sources or use more expensive substitutes. This raises its average cost of purchasing resources.
+		•	A large firm may suffer from saturation of the local market. Exploring overseas markets raises its average cost of marketing.
+		(Any TWO of the above with a brief explanation or other reasonable answers. 2 marks × 2 = 4 marks)
+
+Question code: B2C11Q511
+Miss Chan is a sole proprietor of a farm. The following is from a report on her farm:
+
+No. of workers absent	Total output (units)	
+1	1,890	
+2	1,690	
+3	1,510	
+4	1,350	
+5	1,200	
+
+(a)	State the law of diminishing marginal returns.	(3 marks)
+(b)	Can the data illustrate the law? Explain your answer	(4 marks)
+(c)	Miss Chan wants to expand the scale of her farm. She invites Mr Lam to invest in the farm. Suppose Mr Lam wants to confine his maximum loss to his investment in the farm.
+	(i)	Which form of business ownership should they set up? List TWO features of this new form of ownership in comparison with the old form of ownership.		(3 marks)
+	(ii)	To which type of factors of production does the farmland in the farm belong? Explain.	(2 marks)
+
+Answers: 
+(a)	The law states that when a variable factor is added continuously to a given quantity of fixed factors, the marginal return or marginal product (of the variable factor) will eventually decrease, ceteris paribus.	(3 marks)
+
+(b)	Suppose there are N workers. When one worker is absent, the drop in total output is uncertain, which is the marginal product of the Nth worker. When two workers are absent, the drop in total output is 200 (=1,890 - 1,690) units, which is the marginal product of the (N - 1) th worker. …
+
+No. of workers	Marginal product (units)	
+N - 5	-	
+N - 4	150	
+N - 3	160	
+N - 2	180	
+N - 1	200	
+N	-	
+		(3 marks)
+Since the marginal product of workers increases with the number of workers, the data cannot illustrate the law.	(1 mark)
+
+(c)	(i)	Private or public limited company / Limited company	(1 mark)
+		•	The firm is an independent legal entity.
+		•	The firm has lasting continuity.
+		•	Owners bear limited liability, instead of unlimited liability
+		•	Separation of ownership and management
+		•	Wider source of capital
+		•	Larger extent of specialisation
+		•	Distant relations with employees and customers
+		•	Higher profits tax rate
+		(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+	(ii)	Capital		(1 mark)
+		It is a man-made resource that can be used to help production. It has been processed by human effort.	(1 mark)

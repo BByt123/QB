@@ -1,0 +1,915 @@
+Chapter 4	Determination of national income and price level (I) - aggregate demand and aggregate supply
+
+Multiple Choice Questions
+
+Question code: B5C04Q001 (new)
+Which of the following effects can account for the slope of the aggregate demand curve?
+A.	The wealth effect
+B.	The interest rate effect
+C.	The net exports effect
+D.	All of the above
+
+Answer: D
+
+Question code: B5C04Q002 (new)
+Which of the following can be an example to illustrate the relationship between the price level and the aggregate output demanded?
+A.	When the central bank increases the interest rate, firms' investment expenditure decreases and the price level decreases.
+B.	When the price level in a country decreases, foreign buyers import more from the country.
+C.	When the price of a good increases, consumers buy less of the good.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C04Q003 (new)
+Which of the following statements CANNOT explain the shape of an aggregate demand curve?
+A.	When the price level increases, domestic products become less competitive than foreign products.
+B.	When the price level increases, the purchasing power of people's wealth falls.
+C.	When the price level decreases, output prices are more flexible than input prices.
+D.	When the price level decreases, real interest rates decrease and this encourages people to increase present consumption.
+
+Answer: C
+
+Question code: B5C04Q004 (new)
+Which of the following CANNOT explain the downward slope of an aggregate demand curve?
+(1)	When the domestic price level increases, other things being equal, the real value of net exports decreases.
+(2)	When nominal interest rates increase due to an increase in money supply, other things being equal, people will consume less and save more.
+(3)	When people's real wealth increases due to an economic boom, people will consume more and their real private consumption expenditure increases.
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: C
+Explanation
+Option (1) describes the net exports effect.
+Options (2) and (3) are not the effects caused by changes in the price level. Thus, they cannot be used to explain the downward slope of an aggregate demand curve.
+
+Question code: B5C04Q005 (new)
+When we explain the shape of an aggregate demand curve, which of the following correctly describes the net exports effect that occurs in the domestic economy?
+A.	When the domestic price level increases, foreign economies import less from the domestic economy, holding price levels of foreign economies constant.
+B.	When the price levels of foreign economies increase, the domestic economy exports more to foreign economies.
+C.	When the domestic currency depreciates, the net exports of the domestic economy increase.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B5C04Q006 (new)
+The aggregate demand curve is __________ sloping because __________ when the price level increases.
+A.	upward … people's total expenditure increases
+B.	upward … the increase in interest rates attracts firms and households to invest
+C.	downward … the domestic economy imports less due to the decrease in real wealth
+D.	downward … fewer goods are bought due to the drop in purchasing power of cash
+
+Answer: D
+
+Question code: B5C04Q007 (new)
+Which of the following items is NOT included in the aggregate output demanded?
+A.	Real expenditure of a household on food
+B.	Real value of an ancient statue (古代雕像) found underground 
+C.	Real value of a machine bought by a company
+D.	Real wages paid to firemen by the government
+
+Answer: B
+
+Question code: B5C04Q008
+Aggregate output is measured by
+A.	real national savings.
+B.	real rate of returns.
+C.	real profits.
+D.	real national income.
+
+Answer: D
+
+Question code: B5C04Q009
+Which of the following statements is INCORRECT?
+A.	The GDP deflator can be used to measure the price level.
+B.	Aggregate output is measured by its total market value at current prices.
+C.	Aggregate output demanded is negatively related to the price level.
+D.	Aggregate output demanded is equal to the sum of real private consumption expenditure, real gross investment expenditure, real government consumption expenditure and the real value of net exports.
+
+Answer: B
+
+Question code: B5C04Q010
+Which of the following statements are INCORRECT?
+(1)	When the general price level decreases, aggregate demand will increase.
+(2)	Aggregate demand is a value indicating the real expenditure on an economy's production at a particular price level.
+(3)	When real consumption expenditure increases, aggregate output demanded will increase, other things being constant.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C04Q011
+Which of the following statements about the differences between aggregate output demanded and aggregate demand are correct?
+(1)	Aggregate output demanded is a value while aggregate demand is a relation.
+(2)	Aggregate output demanded is shown by a point while aggregate demand is represented by a curve or a table.
+(3)	Aggregate output demanded is determined by the general price level alone while aggregate demand is determined by wealth alone.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B5C04Q012
+* Which of the following statements can explain why the aggregate demand curve is downward sloping?
+(1)	When the price level rises, fewer quantities of goods and services can be bought with the same amount of cash and deposits.
+(2)	When the price level falls and with the same nominal amount of money in the economy, the real interest rate will decrease.
+(3)	When the price level rises and with the same quantities of exports, the real value of net exports will decrease.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+Options (1) and (2) are the wealth effect and interest rate effect, respectively.
+Option (3) is not correct. When the price level rises and with international prices remaining at the same level, the volume of exports falls while the volume of imports rises. As a result, the real value of net exports falls and so does the aggregate output demanded.
+
+Question code: B5C04Q013 (new)
+Which of the following can explain why the aggregate demand curve is downward sloping?
+A.	The substitution effect on demand 
+B.	The law of demand
+C.	The interest rate effect
+D.	The wealth redistributive effect
+
+Answer: C
+
+
+Question code: B5C04Q014
+When the general price level rises, ________ remains unchanged. This is why the aggregate demand curve is downward sloping.
+A.	the nominal value of exports
+B.	the purchasing power of money
+C.	the nominal value of goods and services
+D.	the nominal value of cash
+
+Answer: D
+
+Question code: B5C04Q015
+Which of the following statements can explain why the aggregate demand curve is downward sloping?
+A.	According to the law of demand, aggregate output demanded and the general price level are inversely related.
+B.	When the general price level rises, income distribution will become more uneven. This will lower labour productivity and the aggregate output demanded.
+C.	When the general price level rises, there are substitution effects on consumption. The relative prices of final products to financial assets will increase. As a result, people will buy fewer final products and more financial assets.
+D.	When the prices of domestic products rise relative to the prices of their foreign substitutes, the volume of our exports fall while the volume of our imports rise. Thus, the real value of net exports will increase.
+
+Answer: D
+
+Question code: B5C04Q016
+Which of the following statements is INCORRECT?
+A.	The wealth effect on consumption exists only if the total nominal value of wealth remains unchanged when the price level changes.
+B.	The aggregate output demanded is also called real aggregate expenditure.
+C.	Aggregate demand describes the aggregate outputs demanded at different price levels, holding other factors constant.
+D.	There are three effects to explain why the aggregate demand curve is downward sloping, namely the wealth effect, the interest effect and the net exports effect.
+
+
+Answer: A
+Explanation
+Option A is incorrect. When the price level rises, the real value of people's wealth declines as the nominal value of monetary assets (e.g., cash and deposits) remains unchanged. However, the nominal value of non-monetary assets (e.g., gold and properties) may increase.
+
+Question code: B5C04Q017
+* Which of the following can be an example to illustrate the downward sloping shape of the aggregate demand curve?
+A.	Alex buys less ice cream when its price increases.
+B.	Boyle saves less money when the general price level increases.
+C.	Cathy buys fewer imported goods when the domestic general price level increases.
+D.	None of the above
+
+Answer: B
+Explanation
+Option B can be an example to illustrate the interest rate effect. When many people save less money as Boyle does when faced with an increase in the general price level, real interest rates will increase. As a result, real private consumption expenditure and gross investment expenditure drop, and the aggregate output demanded also falls.
+
+Question code: B5C04Q018
+Which of the following statements about the wealth effect on consumption is correct?
+A.	It exists as consumption is only determined by wealth.
+B.	People will consume fewer goods when the purchasing power of their wealth declines due to the decline in income.
+C.	It cannot explain the downward sloping shape of the aggregate demand curve if the purchasing power of people's wealth increases when the general price level rises.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B5C04Q019 (new)
+Which of the following statements about the interest rate effect on consumption and investment is INCORRECT?
+A.	When the general price level rises and the nominal money supply remains the same, households and firms need more money to finance transactions. This leads to an increase in real interest rates.
+B.	When the general price level rises and the same nominal interest rates are in 
+effect, real interest rates will decrease. Thus, consumption and investment decrease with real interest rates.
+C.	It can explain the slope of the aggregate demand curve.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C04Q020
+Which of the following diagrams can best illustrate the interest rate effect on investment due to an increase in the general price level?
+
+
+
+Answer: B
+
+Question code: B5C04Q021 (new)
+The aggregate demand curve is downward sloping when
+A.	the aggregate demand curve is consistent with the law of demand.
+B.	input prices adjust more slowly than output prices.
+C.	the real interest rate is inversely related to the price level.
+D.	the net exports effect occurs.
+
+Answer: D
+
+Question code: B5C04Q022
+When the price level ________, ________ declines. People have less ability to consume and so their real private consumption expenditure decreases. Consequently, the aggregate output demanded decreases. Thus, the aggregate demand curve is downward sloping.
+A.	rises; the purchasing power of people's monetary assets
+B.	rises; the nominal money supply
+C.	declines; the real value of imports
+D.	declines; the real GDP
+
+Answer: A
+
+Question code: B5C04Q023 (new)
+Which of the following can explain why the short run aggregate supply curve is upward sloping?
+(1)	Bound by contracts, employers cannot lower their employees' salaries immediately when output prices fall.
+(2)	When the price level increases, firms expect the price level to rise further. Thus, they produce more now and sell their products later at higher prices.
+(3)	When the price level increases, firms find it profitable to increase their output.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+
+Answer: B
+Explanation
+Option (2): The change in price expectations will lead to a rightward shift in the short run aggregate supply curve and so cannot explain why the short run aggregate supply curve is upward sloping.
+
+Question code: B5C04Q024 (new)
+Which of the following about an upward sloping aggregate supply curve is correct?
+A.	It exists in both the short run and the long run.
+B.	It only exists under imperfect information.
+C.	It exists when input prices cannot be adjusted immediately with the price level due to the contracts signed.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C04Q025 (new)
+Which of the following events can lead to an upward sloping short run aggregate supply curve?
+A.	A firm borrows at a fixed interest rate to increase production while the economy is experiencing inflation.
+B.	The adjustment of wages is based on the inflation rate in the previous year.
+C.	A restaurant raises its prices by 6% while the prices of raw materials increase by 2%.
+D.	All of the above
+
+Answer: D
+Explanation
+Option B is correct because this will result in a lower increase in wages than output prices if the inflation rate is increasing.
+
+
+Question code: B5C04Q026 (new)
+The short run aggregate supply curve is __________ because __________ in the short run.
+A.	upward sloping … factor costs increase more than the price level
+B.	upward sloping … input prices are less flexible than output prices
+C.	vertical … input prices are fixed
+D.	vertical … it is not profitable for firms to increase their output level
+
+Answer: B
+
+Question code: B5C04Q027
+Which of the following statements is INCORRECT?
+A.	Aggregate output supplied is the total real value of all goods and services supplied in an economy at a particular price level over a specified period.
+B.	Aggregate output demanded is the total real value of all goods and services demanded in an economy at a particular price level over a specified period.
+C.	Aggregate output supplied is positively related to the general price level.
+D.	Aggregate output demanded is negatively related to the general price level.
+
+Answer: C
+Explanation
+Option C: Aggregate output supplied is positively related to the general price level in the short run but it is independent of the general price level in the long run.
+
+Question code: B5C04Q028
+Which of the following statements are INCORRECT?
+(1)	When the general price level increases, aggregate output supplied must increase.
+(2)	Aggregate supply is a value indicating the total real value of all goods and services supplied at a particular price level.
+(3)	According to the law of supply, an aggregate supply curve is upward sloping.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+
+Answer: D
+Explanation
+Option (1): When the general price level increases, aggregate output supplied increases in the short run but remains unchanged in the long run.
+
+Question code: B5C04Q029
+Which of the following statements about aggregate output supplied and aggregate supply are correct?
+(1)	Aggregate output supplied is a value while aggregate supply is a relation.
+(2)	Aggregate output supplied is the same as aggregate supply when they are measured by real national income.
+(3)	Aggregate supply can be represented by a curve or a table.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B5C04Q030
+Which of the following statements are INCORRECT?
+A.	There are two kinds of aggregate supply curves, the short run aggregate supply curve and the long run aggregate supply curve.
+B.	There are two kinds of aggregate demand curves, the short run aggregate demand curve and the long run aggregate demand curve.
+C.	In the short run, some prices are sticky and do not adjust to the change in economic conditions.
+D.	In the long run, all prices are flexible.
+
+Answer: B
+
+
+Question code: B5C04Q031 (new)
+Which of the following statements can explain why the short run aggregate supply curve is upward sloping?
+(1)	According to the law of supply, when the general price level increases, the aggregate output supplied will increase.
+(2)	When output prices increase, factor costs do not increase immediately. This leads to profits for producers. Hence, they increase their output.
+(3)	When the general price level increases, input prices increase at the same time. To cover the increase in cost, aggregate output supplied increases.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C04Q032 (new)
+Which of the following can explain why the short run aggregate supply curve is upward sloping?
+A.	The wealth effect
+B.	The law of supply
+C.	The interest rate effect
+D.	The imperfect adjustment of input and output prices
+
+Answer: D
+
+Question code: B5C04Q033 (new)
+Which of the following CANNOT explain why the short run aggregate supply curve is upward sloping?
+A.	When the general price level increases, the real interest rate increases, which in turn raises firms' cost of production.
+B.	Wages adjust more slowly than output prices.
+C.	After observing the increase in the general price level, landlords raise rents when they sign new contracts with tenants.
+D.	None of the above
+
+Answer: A
+
+Question code: B5C04Q034
+Which of the following diagrams can best illustrate the effect of the imperfect adjustment of input and output prices?
+
+
+Answer: B
+
+
+Question code: B5C04Q035
+* Refer to the figure below. If an economy moves from Point X to Point Y, which of the following variables must change?
+
+(1)	Money supply
+(2)	Real income
+(3)	Quantities demanded of inputs by firms
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: A
+Explanation
+If firms plan to change their output levels due to the change in the general price level, they must at the same time adjust their quantities demanded of inputs accordingly.
+
+Question code: B5C04Q036
+When the general price level rises, ________ must remain unchanged. Otherwise, the short run aggregate supply curve will not slope upwards.
+A.	nominal wages
+B.	production costs
+C.	rents
+D.	None of the above
+
+Answer: D
+
+
+Question code: B5C04Q037
+Which of the following statements can help explain why the short run aggregate supply curve is upward sloping?
+A.	According to the law of supply, the aggregate output supplied and the general price level are positively related.
+B.	When the general price level rises, firms will increase their output level as the prices of all goods are sticky in the short run.
+C.	In the short run, input prices are less flexible than output prices.
+D.	When there is inflation, people expect that the percentage rise in prices of capital goods will be greater than that of consumer goods. They will invest in capital goods. Thus, aggregate output supplied will increase.
+
+Answer: C
+
+Question code: B5C04Q038
+Which of the following statements is INCORRECT?
+A.	Aggregate output supplied is a value indicating an economy's total value of production supplied at a particular price level.
+B.	Aggregate output supplied is measured by real national income.
+C.	Aggregate supply describes the aggregate outputs supplied at different price levels, holding other factors constant.
+D.	The short run aggregate supply curve is upward sloping because input prices adjust immediately with output prices.
+
+Answer: D
+Explanation
+Option D is the answer. The adjustment of input prices is slower than that of output prices. This imperfect adjustment makes it profitable for firms to employ more inputs to raise their outputs when the price level increases. This explains the upward slope of the short run aggregate supply curve.
+
+
+Question code: B5C04Q039
+Which of the following can be an example to illustrate the upward sloping shape of the short run aggregate supply curve?
+A.	When the general price level falls, Alice sells more bubble tea by lowering her prices.
+B.	When the general price level rises, Bobby is willing to sell more sushi as input prices (e.g., fish and rice prices) increase by a smaller percentage than output prices (i.e., sushi prices).
+C.	When the general price level rises, Candy needs to work harder to maintain her living standard as the cost of living increases.
+D.	When the general price level falls, David cuts the fee for his magic show by a greater percentage than the fall in the general price level. As a result, he receives more jobs than before.
+
+Answer: B
+
+Question code: B5C04Q040
+Which of the following can be an example to illustrate the upward sloping shape of the short run aggregate supply curve?
+A.	When the general price level rises, Alan notices the increase and keeps his supply of Shanghai noodles unchanged.
+B.	When the general price level rises, Bank of China issues new shares to raise more capital.
+C.	When the general price level rises, Cindy finds that it is not profitable for her coffee shop to increase its supplies of coffee.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C04Q041
+Which of the following statements about the imperfect adjustment of input and output prices is correct?
+A.	It exists only in the short run.
+B.	It exists because there are fixed costs in the short run.
+C.	It exists when output prices are sticky.
+D.	It exists only if all prices are sticky.
+
+Answer: A
+
+Question code: B5C04Q042 (new)
+Which of the following can be an example of the imperfect adjustment of input and output prices?
+A.	Venus is a self-employed private tutor. She adjusts her charges every lesson based on her cost of living.
+B.	Snowy, a juice seller, increases the price of her apple juice because the price of apples increases.
+C.	Karen decides to lay off some workers at her restaurant after the increase in the minimum wage.
+D.	Katherine decides to produce less bread as the percentage decrease in prices of bread is greater than the percentage decrease in flour during deflation.
+
+Answer: D
+
+Question code: B5C04Q043
+When the price level rises, it is profitable for producers to ________ their outputs, provided that input prices are ________ than output prices. This explains the upward sloping shape of the short run aggregate supply curve.
+A.	raise … less flexible
+B.	lower … more flexible
+C.	raise … more flexible
+D.	lower… less flexible 
+
+Answer: A
+
+
+Question code: B5C04Q044
+Read the following news report on Country X's economy.
+
+According to the news, which of the following conclusions can be drawn?
+A.	The short run aggregate supply curve of Country X is not upward sloping as both the input and output prices adjust quickly.
+B.	The purchasing power of money is decreasing in Country X.
+C.	Country X is at the peak of a business cycle as the price level is increasing rapidly.
+D.	The aggregate demand curve of Country X is not downward sloping as people want to buy more food and clothing when the general price level increases.
+
+Answer: B
+
+Question code: B5C04Q045 (new)
+Refer to the table below for the data of an economy.
+
+Year	Composite consumer price index	Nominal wage index	
+1	100	150	
+2	110	160	
+3	120	170	
+4	130	180	
+
+Which of the following statements is INCORRECT?
+(1)	There is no imperfect adjustment of input and output prices.
+(2)	Real wages remains unchanged.
+(3)	The economy is in the long run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C04Q046 (new)
+Refer to the table below.
+
+Year	GDP deflator	Nominal wage index	
+1	200	80	
+2	190	75	
+3	180	70	
+4	170	65	
+
+Which of the following statements is correct?
+A.	The figures cannot explain the shape of the short run aggregate supply curve.
+B.	The figures show that nominal wages are less flexible than output prices.
+C.	Real wages have increased.
+D.	The economy is in the long run.
+
+Answer: A
+
+Question code: B5C04Q047 (new)
+Which of the following is NOT a characteristic of the long run in macroeconomics?
+A.	Output is always at the full employment level.
+B.	The change in the price level has no effect on aggregate output supplied.
+C.	Nominal income is fixed.
+D.	All factor prices are flexible.
+
+Answer: C
+Explanation
+Although real income is fixed, nominal income may change with the price level in the long run.
+
+
+Question code: B5C04Q048 (new)
+Which of the following statements are INCORRECT?
+(1)	The law of demand is needed to explain a downward sloping aggregate demand curve.
+(2)	An upward sloping short run aggregate supply curve can be explained by the law of supply.
+(3)	As the long run aggregate supply curve is vertical, the law of supply does not hold in the long run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C04Q049
+Which of the following situations must occur when an aggregate supply curve is a vertical line?
+A.	All input and output prices are fully flexible.
+B.	All markets are free markets.
+C.	All firms enjoy economies of scale.
+D.	All people make adjustments to the change in economic conditions.
+
+Answer: A
+Explanation
+Option D is incorrect. Most people will make their adjustments according to the change in economic conditions. The key is whether the adjustments are partial or full.
+
+Question code: B5C04Q050
+The long run aggregate supply curve is
+A.	a vertical line positioned at the real GDP where the aggregate demand curve intersects the short run aggregate supply curve.
+B.	an upward-sloping line as the law of supply is still valid in the long run.
+C.	a vertical line positioned at the potential real GDP.
+D.	a horizontal line as the price level has no effect on outputs in the long run.
+
+Answer: C
+
+Question code: B5C04Q051
+In the long run, changes in the price level have no effects on the aggregate output supplied because
+A.	both input and output prices are fully flexible.
+B.	everyone expects changes in the general price level.
+C.	market forces do not work.
+D.	nominal wages are always equal to real wages in the long run.
+
+Answer: A
+
+Question code: B5C04Q052 (new)
+The long run aggregate supply curve is vertical. Which of the following can account for this?
+(1)	The changes in input prices catch up with the changes in output prices.
+(2)	The potential output level is constrained by factor endowments and the technology level.
+(3)	The general price level must keep increasing in the long run.
+(4)	People's nominal wages do not change in the long run.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+
+Question code: B5C04Q053 (new)
+When both input and output prices are fully flexible,
+A.	the aggregate output supplied will change in the same direction as the price level.
+B.	the price level will no longer change.
+C.	the wealth effect, interest rate effect and net exports effect will disappear.
+D.	the aggregate output supplied will remain at the full employment level.
+
+Answer: D
+
+
+Question code: B5C04Q054
+In the long run, full employment real national income
+A.	may not be achieved as people may not have perfect information.
+B.	may not be achieved if there is government intervention.
+C.	is always achieved as all factor markets attain full employment.
+D.	is achieved when all output prices are flexible.
+
+Answer: C
+
+Question code: B5C04Q055 (new)
+Which of the following statements is correct?
+A.	In the short run, the aggregate output is determined solely by the short run aggregate supply curve.
+B.	In the long run, the aggregate output is determined solely by the long run aggregate supply curve.
+C.	In the short run, the price level is determined solely by the short run aggregate supply curve.
+D.	In the long run, the price level is determined solely by the long run aggregate supply curve.
+
+Answer: B
+Explanation
+In the long run, the equilibrium aggregate output is at the full employment level, and is determined solely by the vertical long run aggregate supply curve.
+
+
+Question code: B5C04Q056 (new)
+Which of the following points represents the long run equilibrium?
+
+
+
+A.	Point A
+B.	Point B
+C.	Point C
+D.	Point D
+
+Answer: C
+
+Question code: B5C04Q057 (new)
+In the short run, _________ is determined by the intersection of __________.
+A.	real GDP … the aggregate demand curve and the long run aggregate supply curve
+B.	potential real GDP … the aggregate demand curve and the short run aggregate supply curve
+C.	the price level … the aggregate demand curve and the short run aggregate supply curve
+D.	full employment real national income … the aggregate demand curve and the short run aggregate supply curve
+
+Answer: C
+
+
+Question code: B5C04Q058
+Which of the following statements is correct?
+A.	The market adjustment mechanism only works in the long run.
+B.	The long run equilibrium is determined by the short run aggregate supply curve and the long run aggregate supply curve.
+C.	The equilibrium real national income is always equal to the potential GDP.
+D.	In a state of equilibrium, the aggregate output demanded must be equal to the aggregate output supplied.
+
+Answer: D
+
+
+Short Questions
+Question code: B5C04Q301 (new)
+(a)	What is the effect of an increase in the price level on the real values of households' and firms' monetary assets? Why?	(2 marks)
+(b)	Explain how the effect in (a) is related to the slope of an aggregate demand curve.
+	(3 marks)
+
+Answers:
+(a)	When the price level increases, the real values of households' and firms' monetary assets decrease.	(1 mark)
+	This is because the nominal values of monetary assets are constant.	(1 mark)
+(b)	When the price level increases, as households' and firms' real wealth decreases, real private consumption expenditure and real investment expenditure decrease. Hence, aggregate output demanded drops.	(2 marks)
+	The inverse relationship between the price level and the aggregate output demanded implies a downward sloping aggregate demand curve.	(1 mark)
+
+
+Question code: B5C04Q302 (new)
+(a)	In what sense is interest a cost of present consumption?	(2 marks)
+(b)	Assume the nominal amount of the money supply remains unchanged. How does the price level affect real interest rates? Then, explain how the relationship between the price level and real interest rates is related to the downward slope of an aggregate demand curve.	(4 marks)
+
+Answers:
+(a)	People have to pay interest when they borrow money for present consumption. / People have to forgo interest income if they spend money on present consumption.	(2 marks)
+(b)	When the price level increases, more money is needed to finance transactions. Thus, saving decreases and borrowing increases. Both push up real interest rates.
+	(2 marks)
+The increase in real interest rates discourages consumption and investment. As a result, aggregate output demanded falls. This implies a downward sloping aggregate demand curve.	(2 marks)
+
+Question code: B5C04Q303 (new)
+(a)	When the price level of a country increases while foreign price levels remain constant, how do the country's net exports change? Briefly explain.	(2 marks)
+(b)	What is the shape of an AD curve? How does the relationship between the price level and net exports explain the shape?	(3 marks)
+
+Answers:
+(a)	When the domestic price level increases, domestic goods and services become less competitive than foreign goods and services.	(1 mark)
+	Exports decrease while imports increase. As a result, net exports decrease.
+	(1 mark)
+(b)	Downward sloping.	(1 mark)
+When the price level increases, net exports decrease, driving down aggregate output demanded. The negative relationship implies a downward sloping aggregate demand curve.	(2 marks)
+
+
+Question code: B5C04Q304
+(a)	Define aggregate output demanded and aggregate demand.	(4 marks)
+(b)	State ONE difference between them.	(1 mark)
+
+Answers:
+(a)	Aggregate output demanded is the total value of an economy's production demanded (measured by real gross domestic product or real national income) at a particular price level over a specified period.	(2 marks)
+Aggregate demand is the relation between the price level and the aggregate output demanded in an economy. It describes the aggregate outputs demanded at different price levels, holding other factors constant.	(2 marks)
+(b)	Aggregate output demanded is a value while aggregate demand is a relation between two variables.
+(Accept any other reasonable answer. 1 mark)
+
+Question code: B5C04Q305
+Suggest TWO reasons why the aggregate demand curve is downward sloping.
+	(6 marks)
+
+Answers:
+The aggregate demand curve is downward sloping because the following effects occur simultaneously as the price level changes.
+(	The wealth effect - When the price level rises (falls), the purchasing power of people's monetary assets decreases (increases). Other things remaining constant, the real wealth of households and firms drops (rises). Hence, real private consumption and investment expenditure drop (rise) and so does the aggregate output demanded.
+(	The interest rate effect - When the price level rises (falls), as more (less) money is needed to finance transactions, saving decreases (increases) while borrowing increases (decreases). This raises (lowers) the real interest rate. Thus, real private consumption and investment expenditure decrease (increase) and so does the aggregate output demanded.
+(	The net exports effect - When the domestic price level rises (falls), prices of domestic products rise (fall) relative to the prices of their foreign substitutes. The volume of our exports falls (rises) while the volume of our imports rises (falls). As a result, the aggregate output demanded falls (rises).
+(Briefly describe any TWO effects of the above, 3 marks × 2 = 6 marks)
+
+Question code: B5C04Q306
+The wealth effect can be used to explain why the aggregate demand curve is downward sloping. Explain how this effect works if there is a decrease in the general price level.	(3 marks)
+
+Answers:
+When the price level falls, people can buy more quantities of goods and services with the same amount of cash and deposits. Hence, the purchasing power or the real value of people's monetary assets increases due to the fall in the price level. Since people's real wealth has increased, they have a greater ability to consume. Their real private consumption expenditure increases. Consequently, aggregate output demanded increases.	(3 marks)
+
+Question code: B5C04Q307
+The interest rate effect is one of the effects that account for the downward sloping shape of the aggregate demand curve. Explain how this effect works if there is a decrease in the general price level.	(3 marks)
+
+Answers:
+When the price level decreases and with nominal money supply remaining unchanged, households and firms need less money to finance their transactions. Thus, saving increases and borrowing decreases. Both will push down real interest rates. The fall in the real interest rate increases both real private consumption expenditure and real gross investment expenditure. As a result, aggregate output demanded increases.	(3 marks)
+
+Question code: B5C04Q308
+(a)	What is aggregate demand?	(2 marks)
+(b)	Given that foreign price levels remain unchanged, explain how the aggregate output demanded changes when there is a fall in the general price level.	(3 marks)
+(c)	Based on the result in (b), what is the shape of an aggregate demand curve?
+	(1 mark)
+
+
+Answers:
+(a)	Aggregate demand is the relation between the price level and the aggregate output demanded in an economy. It describes the aggregate outputs demanded at different price levels, holding other factors constant.	(2 marks)
+(b)	When the general price level falls but foreign price levels remain unchanged, the prices of domestic products fall relative to the prices of their foreign substitutes. The quantities of our exports rise while the quantities of our imports fall. As a result, aggregate output demanded rises.	(3 marks)
+(c)	The shape is downward sloping as the aggregate output demanded increases when the general price level falls.	(1 mark)
+
+Question code: B5C04Q309 (new)
+(a)	Give ONE example to explain why wages may be less flexible than output prices in the short run.	(1 mark)
+(b)	Use 'sticky wages' to explain the upward sloping shape of a short run aggregate supply curve.	(4 marks)
+
+Answers:
+(a)	Wages may be fixed by contracts. (Accept other reasonable examples.)	(1 mark)
+(b)	When output prices increase while wages remain sticky in the short run, it is profitable for firms to employ more labour to raise their outputs.	(2 marks)
+	As a result, the aggregate output supplied increases with the price level in the short run. This implies that the short run aggregate supply curve is upward sloping.	(2 marks)
+
+
+Question code: B5C04Q310 (new)
+(a)	Define full employment GDP.	(2 marks)
+(b)	Suggest ONE reason to explain why the long run aggregate supply curve is vertical at the full employment real GDP.	(3 marks)
+
+Answers:
+(a)	Full employment GDP is the GDP when all of an economy's resources are used efficiently.	(2 marks)
+(b)	(	Flexible prices: In the long run, both input and output prices are flexible. It is not profitable for firms to produce at an output level higher than the original output level. Therefore, in the long run, any change in the price level would have no effect on the aggregate output supplied. Moreover, as all input prices are fully flexible, all factor markets attain full employment. Thus, the economy produces at the full employment output level in the long run.
+	(	Capacity constraint: The full employment output level of an economy is determined by its quantity and quality of resources, as well as the level of technology available. With resources and production technology remaining unchanged, full employment real GDP is a constant at any price level.
+	(Either ONE of the above, 3 marks)
+
+Question code: B5C04Q311
+(a)	Define aggregate output supplied and aggregate supply.	(4 marks)
+(b)	State ONE difference between them.	(1 mark)
+
+Answers:
+(a)	Aggregate output supplied is the total value of an economy's production supplied at a particular price level over a specified period.	(2 marks)
+Aggregate supply is the relation between the price level and the aggregate output supplied in an economy. It describes the aggregate outputs supplied at different price levels, holding other factors constant.	(2 marks)
+(b)	Aggregate output supplied is a value while aggregate supply is a relation between two variables.
+(Accept any other reasonable answer. 1 mark)
+
+
+Question code: B5C04Q312 (new)
+Discuss ONE difference between short run and long run in macroeconomics in terms of prices.	(4 marks)
+
+Answers:
+In macroeconomics, short run is a period within which some prices do not fully adjust to the change in economic conditions.	(2 marks)
+In macroeconomics, long run is a period within which all prices are fully flexible.
+	(2 marks)
+
+Question code: B5C04Q313
+Why is the short run aggregate supply curve upward sloping?	(3 marks)
+
+Answers:
+When the price level increases, input prices increase at a slower pace than output prices in the short run. It becomes profitable for firms to employ more inputs to raise their outputs. Hence, the aggregate output supplied increases with the price level in the short run. This implies that the short run aggregate supply curve is upward 
+sloping.	(3 marks)
+
+Question code: B5C04Q314
+Explain why the aggregate supply curve can be upward sloping or vertical.	(8 marks)
+
+Answers:
+The aggregate supply curve is upward sloping in the short run but vertical in the long run.	(1 mark)
+In the short run, when the price level increases, input prices increase at a slower pace than output prices. It becomes profitable for firms to employ more inputs to raise their outputs. Hence, the aggregate output supplied increases with the price level in the short run. This implies that the short run aggregate supply curve is upward sloping.
+	(3 marks)
+In the long run, all prices are fully flexible. All input prices would rise by the same proportion as output prices. It is not profitable for firms to produce at an output level that is higher than the original output level. Firms would restore their original production plans. Full employment real national income is always achieved at any price level. Thus, the long run aggregate supply curve is represented by a vertical line.
+	(4 marks)
+
+Question code: B5C04Q315
+The imperfect adjustment of input and output prices can account for the shape of the short run aggregate supply curve. Explain how this effect works when the price level falls.	(3 marks)
+
+Answers:
+In the short run, input prices are less flexible than output prices.	(1 mark)
+When output prices decrease while input prices remain sticky, firms suffer decreases in profits. Firms will lower their outputs to minimise losses. Hence, the short run aggregate output supplied decreases when the price level falls.	(2 marks)
+
+Question code: B5C04Q316
+* 'As input prices adjust more slowly than output prices, firms increase their output when there is an increase in the general price level in order to maximise profits. Thus, other factors being constant, the equilibrium real national income will increase in the short run. This implies that inflation is good for an economy.'
+Explain whether this statement is correct.	(10 marks)
+
+Answers:
+Incorrect.	(1 mark)
+The imperfect adjustment of input and output prices cannot be used to explain the relationship between the equilibrium real national income and the general price level.	(2 marks)
+The short run equilibrium real national income is determined by the intersection of the short run aggregate supply curve and the aggregate demand curve.	(1 mark)
+Other factors being constant, if there is an increase in the general price level, there will be an excess supply of aggregate output. The short run equilibrium real national income will not change.	(1 mark)
+Inflation is the phenomenon of a persistent increase in the general price level.
+	(1 mark)
+There is no exact relationship between a persistent increase in the equilibrium price level (i.e., inflation) and an increase in the equilibrium real national income.	(1 mark)
+However, there are adverse effects of inflation. The following are some of the adverse effects:
+(	The cost of living rises and the purchasing power of money drops;
+(	The standard of living may fall;
+(	Resources are reallocated;
+(	The volume of exports drops while the volume of imports rises.
+(One of the above or any reasonable adverse effect, 2 marks)
+Thus, inflation may be bad for an economy.	(1 mark)
+
+Question code: B5C04Q317
+Refer to the following figures.
+
+Year	GDP deflator	Nominal wage index	
+1	100	150	
+2	110	160	
+3	120	170	
+
+(a)	Calculate the percentage changes in the GDP deflator in Year 2 and Year 3, respectively.	(2 marks)
+(b)	Calculate the percentage changes in the nominal wage index in Year 2 and Year 3, respectively.	(2 marks)
+(c)	With the results of (a) and (b), what was the shape of the short run aggregate supply curve between Year 2 and Year 3? Explain and draw the short run aggregate supply curve.	(5 marks)
+
+Answers:
+(a)	The percentage change in the GDP deflator in Year 2
+= (110 - 100) ÷ 100 = 10%	(1 mark)
+The percentage change in the GDP deflator in Year 3
+= (120 - 110) ÷ 110 = 9.09%	(1 mark)
+(b)	The percentage change in the nominal wage index in Year 2
+= (160 - 150) ÷ 150 = 6.67%	(1 mark)
+The percentage change in the nominal wage index in Year 3
+= (170 - 160) ÷ 160 = 6.25%	(1 mark)
+(c)	From the results of (a) and (b), the percentage increase in the nominal wage index was smaller than the percentage increase in the GDP deflator.	(2 marks)
+It became profitable for firms to employ more labour to raise their outputs. Hence, the aggregate output supplied increased with the price level between Year 2 and Year 3. The short run aggregate supply curve within the period was upward sloping.	(2 marks)
+	(1 mark)
+
+Question code: B5C04Q318
+Suppose there is a rise in the price level. What would happen to the aggregate output supplied in the short run and long run? State ONE underlying reason for each of the cases.	(6 marks)
+
+Answers:
+In the short run, when the price level rises, the aggregate output supplied will 
+increase.	(1 mark)
+Underlying reason:
+Imperfect adjustment of input and output prices: The adjustment of input prices is slower than the adjustment of output prices in the short run. This makes it profitable for firms to employ more inputs to increase output in the short run.	(2 marks)
+In the long run, when the price level rises, the aggregate output supplied will remain unchanged.	(1 mark)
+Underlying reason:
+In the long run, the increase in input prices catches up with the increase in output prices. It is not profitable for firms to increase output beyond the original level.
+	(2 marks)
+
+
+Question code: B5C04Q319
+Draw a short run aggregate supply curve and a long run aggregate supply curve. Explain with ONE reason why they have different shapes.	(4 marks)
+
+Answers:
+	(2 marks)
+They have different shapes because some input prices are less flexible than output prices in the short run while all prices are fully flexible in the long run.	(2 marks)
+
+Question code: B5C04Q320
+Explain why the long run aggregate supply curve is vertical.	(4 marks)
+
+Answers:
+Two underlying reasons explain why it is vertical.
+(	Flexible prices: All input prices are fully flexible, and so all input markets attain full employment.	(2 marks)
+(	Capacity constraint: The full employment output level of an economy is determined by its quantity and quality of resources, as well as the level of technology available. With resources and production technology remaining unchanged, full employment real national income is a constant at any price level.	(2 marks)
+(Marks will be given only when explanations are provided.)
+
+
+Question code: B5C04Q321 (new)
+Refer to the following diagram.
+
+(a)	Indicate the equilibrium price level and output level in the short run as PS and YS, respectively.	(2 marks)
+(b)	Indicate the long run equilibrium price level and the full employment output level as PL and Yf, respectively.	(2 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Short run equilibrium price level (PS)	(1 mark)
+	•	Short run equilibrium output level (YS)	(1 mark)
+
+(b)	Indicate on the diagram:
+	•	Long run equilibrium price level (PL)	(1 mark)
+	•	Full employment output level (Yf)	(1 mark)
+
+
+Structured Questions
+Question code: B5C04Q501 (new)
+In City T, the minimum wage is reviewed every two years. Most employers follow this practice when reviewing employees' wages. Suppose there is 10% inflation this year and wages were reviewed last year.
+(a)	Suggestion ONE effect of inflation on real private consumption expenditure and real investment expenditure.	(3 marks)
+(b)	(i)	In City T, does the adjustment of wages and output prices during this year belong to a short run or long run phenomenon? Why?	(2 marks)
+	(ii)	Use the phenomenon in (b)(i) to explain the shape of the corresponding aggregate supply curve.	(3 marks)
+(c)	Explain how the change in wage rates differs in the long run. Then, explain the shape of the long run aggregate supply curve.	(5 marks)
+
+Answers:
+(a)	(	Wealth effect: When the price level increases, the real values of households' and firms' monetary assets decrease. As a result, they are less able to spend and the real values of private consumption expenditure and investment expenditure decrease.
+	(	Interest rate effect: When the price level increases, more money is needed to finance transactions. Thus, saving decreases and borrowing increases. Both push up real interest rates. The increase in real interest rates decreases real private consumption expenditure and real investment expenditure.
+	(Either ONE of the above. 3 marks)
+
+(b)	(i)	Short run.	(1 mark)
+In the short run, wage rates are less flexible than output prices.	(1 mark)
+	(ii)	Since wages remain unchanged this year, it is profitable for firms to employ more labour to raise their output.	(1 mark)
+Hence, the short run aggregate output supplied increases with the price level.
+	(1 mark)
+The short run aggregate supply curve is upward sloping.	(1 mark)
+
+(c)	In the long run, workers ask for a wage rise equal to the increase in the price level.	(1 mark)
+It is not profitable for firms to produce at an output level that is higher than the original output level. Firms would restore their original production plans. Therefore, in the long run, any change in the price level would have no effect on the aggregate output supplied. 	(3 marks)
+This implies that the long run aggregate supply curve is vertical.	(1 mark)
+
+Question code: B5C04Q502
+Refer to the following figures.
+Year	Percentage change in real wage index	Percentage change in nominal wage index	
+1	0%	2%	
+2	0%	3%	
+3	-1%	4%	
+(a)	Suppose the real wage index in each year was deflated by its current GDP deflator. Find the approximate value of the percentage change in the GDP deflator in each year.	(3 marks)
+(b)	Define inflation and disinflation. Was there disinflation during the period? Explain.	(6 marks)
+(c)	It was found that firms employed more workers in Year 3 than in Year 2.
+(i)	Why did firms have an incentive to employ more workers?	(2 marks)
+(ii)	Between Year 2 and Year 3, what was the shape of the short run aggregate supply curve? Explain.	(3 marks)
+
+Answers:
+(a)	The approximate value of the percentage change in GDP deflator in Year 1
+= 2% - 0% = 2%	(1 mark)
+The approximate value of the percentage change in GDP deflator in Year 2
+= 3% - 0% = 3%	(1 mark)
+The approximate value of the percentage change in GDP deflator in Year 3
+= 4% - (-1%) = 5%	(1 mark)
+(b)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+Disinflation is the phenomenon of a persistent increase in the general price level but at a declining rate.	(2 marks)
+No, there was no disinflation during the period.	(1 mark)
+This is because the general price level increased at an increasing rate.	(1 mark)
+(c)	(i)	The increase in nominal wages was smaller than the increase in the price level. If firms employ more workers to increase output, they could enjoy greater profit.	(2 marks)
+(ii)	Upward sloping	(1 mark)
+Firms increased output as the price level increased. This implied a positive relationship between the price level and the aggregate output supplied.
+	(2 marks)

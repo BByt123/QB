@@ -1,0 +1,450 @@
+Chapter 14		Extension of trade theory
+
+Short Questions
+
+Question code: B7C14Q301 (new)
+(a)	What does a production possibilities frontier (PPF) show?	(2 marks)
+(b)	What are the assumptions of constructing a PPF?	(4 marks)
+
+Answers:
+(a)	A PPF shows all combinations of two goods that a country can produce with all of its resources and the best technology available.	(2 marks)
+(b)	The country produces only two goods.	(1 mark)
+	Resources available are given.	(1 mark)
+	Technology is given.	(1 mark)
+	The country uses all of its resources and the best technology available.	(1 mark)
+
+Question code: B7C14Q302 (new)
+Country X produces only medicine and rice with its only input, labour. It is self-sufficient. The following shows the PPF of the country. Suppose Country X wants to consume at Point A.
+
+(a)	Explain why the country cannot consume at Point A.	(3 marks)
+(b)	Explain which economic concept is illustrated by (a).	(2 marks)
+(c)	Suggest TWO possible changes that allow Country X to consume at Point A.
+	(2 marks)
+
+
+Answers:
+(a)	Country X is self-sufficient, so its consumption point is the same as its production point.	(1 mark)
+	Point A is beyond the PPF, which means the current resources and technology level are not enough to attain this output.	(2 marks)
+(b)	Scarcity	(1 mark)
+	The amount of output that Country X can produce and consume (shown by the PPF) is less than the output the country wants (shown by Point A).	(1 mark)
+(c)	•	Country X's production technology improves.
+	•	Country X's labour force increases.
+	•	Country X engages in trade with other countries.
+	(Any TWO of the above, 1 mark × 2 = 2 marks)
+
+Question code: B7C14Q303
+Define the production possibilities frontier (PPF). Draw a PPF and show the area of attainable production combinations.	(4 marks)
+
+Answers:
+The production possibilities frontier shows all combinations of two goods that a country can produce with all of its resources and the best technology available.
+	(2 marks)
+	(2 marks)
+
+
+Question code: B7C14Q304 (new)
+The following diagrams show the PPFs of Country A and Country B. Suppose the two countries use different resources in production.
+
+Describe the shape of each country's PPF. What does the shape imply about each country's cost of production?	(4 marks)
+
+Answers:
+Shapes:
+Country A's PPF is concave to the origin.	(1 mark)
+Country B's PPF is linear.	(1 mark)
+Implications:
+Country A has an increasing marginal cost of production.	(1 mark)
+Country B has a constant marginal cost of production.	(1 mark)
+
+Question code: B7C14Q305 (new)
+(a)	Under what situation will the production possibilities frontier (PPF) become linear?	(2 marks)
+(b)	Under what situation will the PPF become concave to the origin?	(2 marks)
+
+Answers:
+(a)	The PPF is linear if the marginal cost of production of goods (in terms of another good) is constant.	(2 marks)
+(b)	The PPF is concave to the origin if the marginal cost of production of goods (in terms of another good) is increasing.	(2 marks)
+
+
+Question code: B7C14Q306
+Explain the differences between absolute advantage and comparative advantage by using PPFs. 	(5 marks)
+
+Answers:
+If countries have the same amount of resources, a country has an absolute advantage in producing the good on the x-axis (y-axis) when its PPF has an x-intercept (y-intercept) further from the origin.	(1 mark)
+A country has a comparative advantage in producing the good on the x-axis (y-axis) when its PPF has a smaller (greater) slope than the other country's PPF.	(1 mark)
+Any correct diagram and elaboration which illustrate absolute advantage and comparative advantage:	(3 marks)
+In the following diagram, suppose both countries possess the same amount of resources. We can see that Country B has an absolute advantage in producing both goods, while Country A enjoys a comparative advantage in producing Good X.
+
+
+
+Question code: B7C14Q307
+Refer to the following diagram:
+
+Country A has 10 units of resources while Country B has 30 units of resources. 
+Which country has an absolute advantage in producing Good X? Which country has an absolute advantage in producing Good Y? 	(4 marks)
+
+Answers:
+The following table shows the amounts of Good X and Good Y produced by the two countries with one unit of resources:
+
+	Good X (units)		Good Y (units)	
+Country A	15	or	6	
+Country B	3	or	4	
+	(2 marks)
+Since Country A can produce more of both goods than Country B with the same amount of resources, Country A has absolute advantages in producing both goods.
+	(2 marks)
+
+
+Question code: B7C14Q308
+Refer to the following diagrams:
+
+Suppose that both Country A and Country B fully utilise their resources. Explain which country has an absolute advantage in producing Good X and Good Y, respectively. 	(3 marks)
+
+Answers:
+A country has an absolute advantage over another country in the production of a good if it can produce a larger amount of the good than the other country with the same amount of resources. Since we do not know the factor endowment of both countries, we cannot determine the patterns of absolute advantage.	(3 marks)
+
+Question code: B7C14Q309
+(a)	What does the slope of a terms of trade line show?	(2 marks)
+(b)	Explain the meaning of an increase in the slope of a terms of trade line.	(2 marks)
+
+Answers: 
+(a)	The slope shows the terms of trade or exchange ratio of two goods. 	(2 marks)
+(b)	An increase in the slope means the good on the x-axis can be exchanged for more of the good on the y-axis.	(2 marks)
+
+
+Question code: B7C14Q310
+'A country engages in international trade as this allows its output to increase beyond its PPF.' Do you agree? Explain with the aid of a PPF and a TOT line. (Assume a constant marginal cost of production.) 	(5 marks)
+
+Answers: 
+No.	(1 mark)
+The country can only consume beyond its PPF, but not produce beyond its PPF.
+	(1 mark)
+Any correct diagram with elaboration:	(3 marks)
+
+Point B is still on the country's PPF.
+
+Question code: B7C14Q311
+Suppose there are only two countries producing two goods. The slopes of their PPFs are the same, yet one of the countries possesses an absolute advantage in producing both goods. Can they benefit from international trade? Explain. 	(3 marks)
+
+Answers: 
+No.	(1 mark)
+This is because the slopes of their PPFs are the same, which means their costs of production are the same. There is no comparative advantage for both countries.
+	(2 marks)
+
+
+Question code: B7C14Q312 (new)
+Country A and Country B produce only gold and timber. The following diagram shows the PPFs of the two countries. Suppose labour is the only input and both countries have the same amount of labour.
+
+(a)	'Country A would produce at Point L because this point is not beyond its PPF.' Explain whether the statement is true.	(2 marks)
+(b)	Which country can produce timber at a lower opportunity cost? Explain your answer.	(2 marks)
+(c)	Draw the changes in the PPFs under the following events.
+	(i)	The amount of labour has increased in Country A.	(1 mark)
+	(ii)	Country B has developed new logging (伐木) technology.	(1 mark)
+
+Answers:
+(a)	No.	(1 mark)
+	Country A would not produce at Point L because this production combination is not efficient.	(1 mark)
+(b)	Country A.	(1 mark)
+	The slope of Country A's PPF is smaller than that of Country B's.	(1 mark)
+(c)	
+	(i)	Indicate on the diagram:
+		Parallel outward shift of Country A's PPF	(1 mark)
+	(ii)	Indicate on the diagram:
+		Country B's new PPF with the same y-intercept but a greater x-intercept
+	(1 mark)
+
+Question code: B7C14Q313
+Refer to the following diagrams which show the PPFs of Countries A and B:
+
+(a)	Which country has a comparative advantage in producing apples? Which country has a comparative advantage in producing oranges? 	(4 marks)
+(b)	Suppose the terms of trade is 5 apples to 4 oranges. Show graphically that both countries are better off after specialisation and trade and briefly explain your answer. (Calculation of gains from trade is NOT required.)	(6 marks)
+
+
+Answers:
+(a)	The slope of Country A's PPF = 30 ÷ 40 = 0.75
+The slope of Country B's PPF = 80 ÷ 60 = 1.33
+The slope of the PPF shows the marginal cost of producing the good on the x-axis; the smaller the slope, the smaller the marginal cost of producing oranges. As a result, Country A has a comparative advantage in producing oranges.	(2 marks)
+Hence, Country B has a comparative advantage in producing apples.	(2 marks)
+(b)	Given that the terms of trade is 5 apples to 4 oranges. The slope of the TOT line is 1.25. Suppose Point I and Point J are production points of Countries A and B under autarky, respectively. If they specialise according to their comparative advantages (as shown by Point E and Point H) and trade with each other, both countries can consume more of both goods after trade (as shown by Point C and Point D).	(2 marks)
+	Indicate on the diagram:
+Correct position of the consumption possibilities frontiers (CPF)	(2 marks)
+Consumption points after trade lie beyond production points under autarky.
+		(2 marks)
+
+
+
+Question code: B7C14Q314
+The following table shows the amount of inputs (I) required per unit of outputs in Country E and Country F.
+
+	Lorry (L)	Boat (B)	
+Country E	6I	4I	
+Country F	3I	9I	
+
+(a)	Which country has a comparative advantage in producing lorries? Which country has a comparative advantage in producing boats? Explain. 	(4 marks)
+(b)	Suppose Country E has 36I while Country F has 45I. Plot the production possibilities frontiers of both countries. Put boats on the x-axis.	(4 marks)
+(c)	Explain whether the two countries may gain from trade. 	(2 marks)
+
+Answers:
+(a)	The following table shows the costs of producing the two goods:
+
+	Cost of 1L	Cost of 1B	
+Country E	1.5B (= 6I ( 4I ( 1B)	0.67L (= 4I ( 6I ( 1L)	
+Country F	0.33B (= 3I ( 9I ( 1B)	3L (= 9I ( 3I ( 1L)	
+		(2 marks)
+	Country F has a comparative advantage in producing lorries as its cost of producing a lorry (= 0.33B) is lower than that of Country E (= 1.5B).	(1 mark)
+	Country E has a comparative advantage in producing boats as its cost of producing a boat (= 0.67L) is lower than that of Country F (= 3L).	(1 mark)
+(b)	
+
+		(4 marks)
+(c)	Yes. From (a), we can see that the two countries have different opportunity costs in producing the two goods. Hence, they will gain from trade when the terms of trade lies between their costs of producing a good.	(2 marks)
+	Alternative answer:
+	Yes. From (b), we can find that the slope of Country E's PPF is 0.67 (= 6 ÷ 9) and the slope of Country F's PPF is 3 (= 15 ÷ 5). Since the slopes of their PPFs are different, they will gain from trade when the slope of the terms of trade line lies between the slopes of their PPFs.	(2 marks)
+
+Question code: B7C14Q315
+* Refer to the following diagrams:
+
+Explain whether it is possible for the two countries to gain from trade.	(4 marks)
+
+Answers:	
+To find the slopes of the two countries' PPFs, we need to invert the axes of one of them, so that the same axis shows the same good for both countries. For example, we invert the axes of Country B's PPF:
+	(1 mark)
+After inverting the axes, we can find the slope of Country B's PPF 
+= 6 ÷ 5 = 1.2 	(1 mark)
+The slope of Country A's PPF
+= 5 ÷ 6 = 0.83 	(1 mark)
+As the slopes of their PPFs are different, they will gain from trade when the slope of the TOT line lies between the slopes of their PPFs.	(1 mark)
+(Students may also calculate the opportunity costs of producing the goods to show that both countries can gain from trade.)
+
+Question code: B7C14Q316 (new)
+The following diagram shows the production possibilities frontier (AA') of a small open economy, Country Q. Point K and Point J are the production points of Country Q under autarky and after specialisation, respectively. Point L is the consumption point after trade.
+
+
+(a)	What is meant by a 'small open economy'?	(2 marks)
+(b)	How will the marginal production cost of Good Y change when Country Q produces more Good Y? Explain.	(2 marks)
+(c)	Suppose CC' is the terms of trade line. Explain how Country Q gains from trade.	(2 marks)
+
+Answers:
+(a)	A small open economy refers to an economy which engages in international trade but cannot affect the world price no matter how much it imports or exports.
+	(2 marks)
+(b)	The marginal production cost will increase as the economy's PPF is concave to the origin.	(2 marks)
+(c)	Country Q gains as Point L has more of both goods than Point K.	(2 marks)
+
+Question code: B7C14Q317
+Explain, with the aid of a diagram, why a small open economy with increasing marginal cost will produce at a point where the terms of trade line is tangent to its PPF.	(5 marks)
+
+Answers:
+For the segment (Segment A) where the slope of the PPF is greater than the slope of the TOT line, the economy will decrease the production of Good X. 	(1 mark)
+For the segment (Segment C) where the slope of the PPF is smaller than the slope of the TOT line, the economy will increase the production of Good X. 	(1 mark)
+Therefore, the economy will produce at the point where the TOT line is tangent to its PPF (Point B). At this point, the economy has no tendency to change its output of Good X.	(1 mark)
+	(2 marks)
+Question code: B7C14Q318
+The following diagram shows the situation of a small open economy with increasing marginal cost. Point A is its production point after specialisation.
+
+Suppose there is technological advancement that only increases the economy's productivity of Good X. Show the new production point on the diagram above and briefly explain your answer.	(5 marks)
+
+Answers:
+Technological advancement will increase the maximum amount of Good X produced with existing resources. This can be represented by a shift from PPF to PPF2.
+	(1 mark)
+As there is no change in the terms of trade, the slope of the TOT line remains unchanged. To find the new production point, we shift the TOT line parallel to the right. The new production point, A', is where the TOT line is tangent to PPF2.
+	(2 marks)
+	(2 marks)
+Question code: B7C14Q319 (new)
+(a)	What is globalisation from economic perspectives?	(2 marks)
+(b)	Explain how the concept of comparative advantage helps promote globalisation.
+	(3 marks)
+(c)	Suggest TWO costs of globalisation.	(2 marks)
+
+Answers:
+(a)	From economic perspectives, globalisation refers to increasing international trade and capital flows between countries.	(2 marks)
+(b)	If countries engage in international trade based on comparative advantage, they can gain from trade and enjoy a higher standard of living. This encourages countries to adopt a free trade policy. As the volume of world trade and investment expands, the degree of globalisation increases.	(3 marks)
+(c)	•	Increasing income inequality
+	•	Labour exploitation
+	•	Exhaustion of natural resources
+	•	Pollution and environmental damages
+	•	Loss of autonomy
+	(Any TWO of the above or other reasonable answers, 1 mark × 2 = 2 marks)
+
+Question code: B7C14Q320
+(a)	Define globalisation in terms of economic aspects.	(2 marks)
+(b)	Explain any TWO driving forces of globalisation in terms of economic aspects.
+	(4 marks)
+
+Answers:
+(a)	In terms of economic aspects, globalisation refers to increasing international trade and capital flows between countries.	(2 marks)
+(b)	Major driving forces:
+Expansion of international trade based on comparative advantage
+Outsourcing of multinational corporations' production processes to other countries
+	(Accept other reasonable answers. 2 marks each.)
+
+
+Question code: B7C14Q321
+Explain the relationship between globalisation and comparative advantage.	(3 marks)
+
+Answers:
+Specialisation and trade based on the principle of comparative advantage can allow countries to enjoy a higher standard of living. This encourages countries to adopt a free trade policy. The increased adoption of a free policy among countries leads to a higher degree of globalisation.	(3 marks)
+
+
+Structured Questions
+
+Question code: B7C14Q501 (new)
+The diagram below shows the production possibilities frontiers of Country X and Country Y. Both countries produce only bicycle (B) and tea (T). The amount of resources Country X possesses is twice that of Country Y.
+
+(a)	(i)	Explain whether Country Y has an absolute advantage in producing bicycles.
+	(2 marks)
+	(ii)	Explain which country has a comparative advantage in producing tea.
+	(3 marks)
+	(iii)	Explain which country has a comparative advantage in producing bicycles.
+	(2 marks)
+
+(b)	Suppose the terms of trade is 1B = 1T. Both countries undergo complete specialisation and trade with each other according to the principle of comparative advantage.
+	(i)	Indicate the production points of both countries.	(2 marks)
+	(ii)	Draw the consumption possibilities frontiers of both countries. Explain how both countries gain from trade with the aid of the consumption possibilities frontiers.	(4 marks)
+(c)	Explain how multinational corporations promote globalisation.	(3 marks)
+
+Answers:
+(a)	(i)	Yes. If the two countries use the same amount of resources to produce bicycles, the amount of bicycles Country Y can produce will be more than that of Country X.	(2 marks)
+	(ii)	The cost of producing 1 unit of tea in Country X = (40 ÷ 50) units of bicycles 
+= 0.8 units of bicycles	(1 mark)
+		The cost of producing 1 unit of tea in Country Y = (40 ÷ 20) units of bicycles 
+= 2 units of bicycles	(1 mark)
+		Since Country X can produce tea at a lower cost, it has a comparative advantage in producing tea.	(1 mark)
+	(iii)	Country Y.	(1 mark)
+		Since Country X has a comparative advantage in producing tea, it must have a comparative disadvantage in producing bicycles.	(1 mark)
+(b)	
+
+	(i)	Indicate on the diagram:
+		Production points of the countries	(2 marks)
+	(ii)	Indicate on the diagram:
+		Consumption possibilities frontiers of both countries	(2 marks)
+		Verbal elaboration:
+		Both countries gain from trade because they can consume beyond their PPFs.	(2 marks)
+(c)	Multinational corporations outsource production processes to different countries and invest heavily in different countries. This has led to increasing international trade and capital flows between countries, and thus promotes globalisation.
+	(3 marks)
+
+Question code: B7C14Q502
+The following diagrams show the PPFs of Country A and Country B, as well as their production points under autarky.
+
+(a)	Identify which country has an absolute advantage in producing these goods.
+		(2 marks)
+(b)	Identify which country has a comparative advantage in producing these goods. 
+		(4 marks)
+(c)	Label the production points of both countries on their PPFs by assuming they engage in complete specialisation according to their comparative advantages.
+		(4 marks)
+*(d)	Suppose the terms of trade is 1X to 1.5Y and Country A exports 24 units of goods. Show that both countries are better off after trade.	(6 marks)
+
+
+Answers:
+(a)	Since we do not have any information about the resources owned by both countries, we do not know which country has an absolute advantage in producing these goods. 	(2 marks)
+(b)	The slope of Country A's PPF = 50 ÷ 60 = 0.83
+	The slope of Country B's PPF = 80 ÷ 40 = 2
+	Since the slope of a country's PPF shows the marginal cost of producing the good on the x-axis, and the slope of Country A's PPF is smaller, Country A has a comparative advantage in producing Good X.	(2 marks)
+	By taking the reciprocal of the slopes of the countries' PPFs, we can find their opportunity costs of producing Good Y.
+	For Country A, the opportunity cost of producing Good Y = 1 ( 0.83 = 1.2X
+	For Country B, the opportunity cost of producing Good Y = 1 ( 2 = 0.5X
+	Country B has a comparative advantage in producing Good Y as its production cost is lower.	(2 marks)
+(c)	According to their comparative advantages, Country A will specialise in producing Good X while Country B will specialise in producing Good Y.	(2 marks)
+
+		(2 marks)
+
+(d)	Given that the terms of trade is 1X to 1.5Y, the slope of the TOT line is 1.5. When Country A exports 24 units of Good X to Country B, it can import 36 units of Good Y. Point C and Point F are the consumption points after trade for Country A and Country B, respectively. They are better off as the consumption levels for both goods after trade are higher than the autarkic situation. 	(2 marks)
+
+	(4 marks)
+
+Question code: B7C14Q503
+The following table shows the labour requirements (measured in units of labour, L) for the production of each unit of Good X and Good Y in Country A and Country B. Suppose Country A owns 80 units of labour while Country B owns 160 units of labour. 
+
+	Good X	Good Y	
+Country A	2L	5L	
+Country B	5L	8L	
+
+(a)	Explain which country has an absolute advantage in producing Good X and 
+Good Y, respectively.	(2 marks)
+(b)	Explain which country has a comparative advantage in producing Good X and Good Y, respectively. 	(4 marks)
+
+(c)	Suppose both countries allocated 50% of their resources for each good under autarky. Plot their PPFs and production points under autarky with separate diagrams. 	(4 marks)
+(d)	If the two countries specialise and trade with each other, what is the range of slopes of the terms of trade line? Choose any mutually beneficial terms of trade and show graphically the consumption possibilities frontiers (CPF) of both countries in the same diagram for (c).	(6 marks)
+
+Answers:
+(a)	Country A has absolute advantages in producing both goods because it can produce one unit of Good X and Good Y, respectively, with fewer resources than Country B. 	(2 marks)
+(b)	The following table shows the costs of producing the two goods:
+
+	Cost of 1X	Cost of 1Y	
+Country A	0.4Y (= 2L ( 5L ( 1Y)	2.5X (= 5L ( 2L ( 1X)	
+Country B	0.625Y (= 5L ( 8L ( 1Y)	1.6X (= 8L ( 5L ( 1X)	
+		(2 marks)
+	Country A has a comparative advantage in producing Good X while Country B has a comparative advantage in producing Good Y.	(2 marks)
+(c)	Given that Country A owns 80L while Country B owns 160L, we calculate the maximum amounts of Good X and Good Y produced by Country A and Country B with all of their available resources as follows:
+
+	Good X (units)		Good Y (units)	
+Country A	40 (= 80L ( 2L)	OR	16 (= 80L ( 5L)	
+Country B	32 (=160L ( 5L)	OR	20 (= 160L ( 8L)	
+
+
+The following diagrams show the PPFs and production points under autarky of Country A and Country B, respectively.
+
+	(4 marks)
+(d)	Referring to part (b), the cost of producing 1X in Country A is 0.4Y while the cost of producing 1X in Country B is 0.625Y. For the countries to engage in trade, the terms of trade for 1X must lie between 0.4Y and 0.625Y. In other words, the slope of the TOT line must satisfy this condition:
+	0.4 < Slope of TOT line < 0.625	(2 marks)
+	Any correct diagrams that illustrate a mutually beneficial terms of trade	(4 marks)
+Suppose the TOT is 1X = 0.5Y. We can draw the following CPFs.
+
+
+Question code: B7C14Q504 (new)
+Faland is a small open economy which produces only ham and cheese. The following diagram shows Faland's production possibilities frontier (PP').
+
+
+Suppose Faland engages in international trade and UU' is the terms of trade line. Points A and B are the production point and consumption point after trade, respectively.
+(a)	What does the shape of Faland's PPF imply about the production cost?	(1 mark)
+(b)	Suppose Point Q is the production point under autarky. Explain
+	(i)	in which good Faland has a comparative advantage at Point Q.	(3 marks)
+	(ii)	how Faland changes its production when engaging in international trade.
+	(2 marks)
+(c)	Indicate Faland's imports and exports on the above diagram.	(2 marks)
+(d)	Faland has developed a new technology which makes it more productive in producing cheese. Suppose the amount of resources and the productivity in producing ham remain unchanged.
+	(i)	Explain how Faland's PPF will change. Illustrate the change on the above diagram.	(4 marks)
+	(ii)	'Faland can only increase its consumption of cheese because its productivity in producing ham does not increase.'
+		Do you agree? Explain your answer with the aid of the above diagram.
+	(4 marks)
+
+
+Answers:
+(a)	The marginal cost of producing each good is increasing.	(1 mark)
+(b)	(i)	The slope of the TOT line is larger than the slope of the PPF at Point Q.
+	(1 mark)
+		This implies the cost of producing cheese in Faland is less than that of obtaining it from the international market.	(1 mark)
+		Therefore, Faland has a comparative advantage in producing cheese.	(1 mark)
+	(ii)	Faland produces more cheese and less ham until the costs of producing the goods equal the costs of obtaining them from the international market.
+	(2 marks)
+
+(c)	Indicate on the diagram:
+	•	Imports	(1 mark)
+	•	Exports	(1 mark)
+(d)	(i)	Indicate on the diagram:
+		A new PPF with the same y-intercept but larger x-intercept	(2 marks)
+		Verbal elaboration:
+		After the technological advance, Faland can produce more cheese. Hence, the x-intercept increases.	(1 mark)
+		The y-intercept remains the same because the productivity in producing ham remains unchanged.	(1 mark)
+	(ii)	Indicate on the diagram:
+		A new consumption possibilities frontier, SS' (parallel to UU')	(1 mark)
+		Verbal elaboration:
+		No.	(1 mark)
+		With international trade, Faland can exchange the extra amount of cheese for more ham. The consumption of ham may increase.	(2 marks)
+
+Question code: B7C14Q505
+The following diagram shows the PPF of a small open economy.
+
+(a)	What does the shape of the above PPF imply about the economy's marginal cost of producing Good X? Why?	(2 marks)
+(b)	Explain in which good the economy specialises. Why does the economy not engage in complete specialisation?	(4 marks)
+(c)	Explain, with the aid of the above diagram, why the economy can gain from trade.
+	(2 marks)
+(d)	Suppose there is a change in the terms of trade so that more units of Good X are required in exchange for one unit of Good Y. Explain, with the aid of a diagram, how this affects the production point of the economy. 	(4 marks)
+
+Answers:
+(a)	The marginal cost of producing Good X is increasing. 	(1 mark)
+	This is because as the output of Good X increases, the slope of the PPF increases.	(1 mark)
+(b)	It specialises in the production of Good X because it produces more Good X after specialisation.	(2 marks)
+	If the economy completely specialises in the production of Good X, its cost of producing Good X will be higher than the price of obtaining it from the world market.	(2 marks)
+(c)	Point C has more of both Good X and Good Y than Point I. That means the economy can enjoy more of both goods after trade.	(2 marks)
+
+(d)	Indicate on the diagram:
+Output of Good X decreases	(1 mark)
+Flatter TOT line	(1 mark)
+	
+	Verbal elaboration:
+	The world price of Good X decreases. At Point B, the cost of producing Good X becomes higher than Good X's terms of trade. Hence, the economy will produce fewer of Good X and more of Good Y.	(2 marks)

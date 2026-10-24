@@ -1,0 +1,2189 @@
+Chapter 10	Monetary policy and quantity theory of money
+
+Multiple Choice Questions
+
+Question code: B6C10Q001
+Expansionary monetary policies raise ____________.
+(1)	aggregate demand
+(2)	aggregate supply
+(3)	money demand
+(4)	money supply
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B6C10Q002
+Which of the following measures can cool down an overheated economy?
+	(1)	Reducing the monetary base
+	(2)	Lowering the required reserve ratio
+	(3)	Increasing the profits tax rate
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C10Q003
+If the problem of unemployment exists, an increase in the discount rate will
+A.	help restore long run equilibrium.
+B.	cause inflation.
+C.	worsen the problem.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C10Q004
+Open market sales of government bonds by the central bank will
+A.	reduce inflationary pressure.
+B.	lower the nominal interest rate.
+C.	increase the asset demand for money.
+D.	increase aggregate output.
+
+Answer: A
+
+Question code: B6C10Q005
+A decrease in the required reserve ratio may cause
+	(1)	an increase in the monetary base.
+	(2)	a decrease in the real interest rate.
+	(3)	an increase in both real national income and the price level.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C10Q006
+Which of the following measures can offset the effect of an increase in government consumption expenditure on the price level?
+A.	An increase in indirect taxes
+B.	An increase in the maximum banking multiplier
+C.	Open market purchase of government bonds
+D.	An increase in the required reserve ratio
+
+Answer: D
+
+Question code: B6C10Q007
+Suppose there is a stock market crash in Country H. Which of the following measures should the central bank take to offset the effect of the above event on the nominal interest rate?
+A.	Open market sales of government bonds
+B.	Lowering the profits tax rate
+C.	Offering a lower discount rate to commercial banks
+D.	Raising the required reserve ratio
+
+Answer: C
+
+Question code: B6C10Q008
+When the demand for money increases, what can the government do to stabilise both national income and the price level?
+A.	Increase government consumption expenditure
+B.	Increase the required reserve ratio
+C.	Decrease indirect taxes
+D.	Increase the discount rate
+
+Answer: A
+
+Question code: B6C10Q009
+Which of the following is an example of a contractionary monetary policy by the central bank?
+A.	Increasing the stamp duty on transactions of housing properties
+B.	Increasing the loan-to-value ratio limits of mortgage loans
+C.	Imposing a capital gains tax
+D.	Offering a higher discount rate to commercial banks
+
+Answer: D
+
+Question code: B6C10Q010
+The following is the balance sheet of a banking system. Suppose banks never hold excess reserves and the public never hold cash.
+
+Assets ($)	Liabilities ($)	
+Reserves	400	Deposits	2,000	
+Loans	1,600			
+
+If the central bank changes the required reserve ratio to 25%, which of the following statements is correct?
+A.	The amount of reserves will increase by $100.
+B.	The amount of loans will decrease by $200.
+C.	Aggregate demand will decrease.
+D.	The general price level will increase.
+
+Answer: C
+
+Question code: B6C10Q011
+If the required reserve ratio decreases, the unemployment rate will _________ while the price level will __________ in the short run.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: C
+
+Question code: B6C10Q012
+Suppose the central bank increases the discount rate. Which of the following AS-AD diagrams can illustrate the effect of the above event?
+
+
+Answer: B
+
+
+Question code: B6C10Q013
+Suppose an economy is initially facing unemployment and the central bank carries out open market purchases of government bonds. Which of the following AS-AD diagrams can illustrate the effects of the above events?
+
+
+Answer: A
+
+Question code: B6C10Q014
+The following shows the AS-AD diagram of an economy. The output level is now at Y0.
+
+According to the diagram, the economy faces __________, and __________ helps solve the problem.
+A.	unemployment … lowering the discount rate
+B.	an inflationary gap … reducing government expenditure
+C.	overheating … increasing the required reserve ratio
+D.	a deflationary gap … raising the profits tax rate
+
+Answer: A
+
+Question code: B6C10Q015
+The following shows the AS-AD diagram of an economy. The output level is now at Y0.
+
+According to the diagram, the economy faces __________, and __________ can help solve the problem.
+A.	a deflationary gap … reducing the required reserve ratio
+B.	an inflationary gap … open market sales of government bonds
+C.	overheating … a tax rebate (退稅)
+D.	a deflationary gap … increasing the discount rate
+
+Answer: B
+
+Question code: B6C10Q016
+A contractionary monetary policy __________ the real interest rate. Hence, __________ decreases.
+A.	lowers … the discount rate
+B.	lowers … consumption expenditure
+C.	raises … the money supply
+D.	raises … aggregate demand
+
+Answer: D
+
+Question code: B6C10Q017
+A decrease in the discount rate __________ the cost of borrowing from the central bank. As a result, __________ increases.
+A.	lowers … the money supply
+B.	lowers … the nominal interest rate
+C.	raises … aggregate demand
+D.	raises … the price level
+
+Answer: A
+
+Question code: B6C10Q018
+The following shows the AS-AD diagram of a country. The equilibrium is initially at E0.
+
+If economic production is interrupted by volcano eruptions in the country, the short run equilibrium will be ________. If the central bank carries out open market purchases of government bonds, the new equilibrium will be ________.
+A.	E1 … E3
+B.	E1 … E0
+C.	E2 … E0
+D.	E2 … E4
+
+Answer: A
+
+Question code: B6C10Q019
+Which of the following events will NOT increase money supply?
+A.	A commercial bank buys bonds from another commercial bank.
+B.	The central bank lowers the required reserve ratio.
+C.	Banks can borrow from the central bank at a lower interest rate than before.
+D.	All of the above events will increase money supply.
+
+Answer: A
+
+Question code: B6C10Q020
+Which of the following tools can be used by a central bank to stimulate economic growth?
+(1)	Expansionary fiscal policy
+(2)	Raising interest rates
+(3)	Printing money to repay the external debt
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q021
+Which of the following is NOT a tool of monetary policy?
+A.	Open market operations
+B.	Adjusting the discount rate
+C.	Adjusting the actual reserve ratio
+D.	Printing money and using it to buy government bonds
+
+Answer: C
+
+Question code: B6C10Q022
+When the central bank sells government bonds on the market, the monetary base _______ and so the money supply _______.
+A.	increases … increases
+B.	increases … decreases
+C.	decreases … increases
+D.	decreases … decreases
+
+Answer: D
+
+
+Question code: B6C10Q023
+Which of the following statements about open market operations are correct?
+(1)	When the central bank buys bonds from the market, the money supply increases.
+(2)	When the central bank sells bonds in the market, the credit creation ability of the banking system decreases.
+(3)	Open market operation changes the monetary base.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C10Q024
+When the central bank raises the discount rate, the cost of borrowing from the central bank _______. Banks may borrow _______ from the central bank and call back loans. As a result, the money supply _______.
+A.	increases … more … increases
+B.	increases … less … decreases
+C.	decreases … more … increases
+D.	decreases … less … decreases
+
+Answer: B
+
+Question code: B6C10Q025
+* Which of the following are possible effects of raising the discount rate?
+(1)	The cost of holding money increases.
+(2)	Private banks' cost of borrowing from the central bank increases.
+(3)	The real return on money decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+The discount rate is the interest rate that the central bank charges when it lends money to private banks. Option (2) is correct.
+When there is an increase in the discount rate, money supply will decrease and so the nominal interest rate (i.e., the cost of holding money) will increase. Hence, Option (1) is correct.
+The decrease in aggregate demand will lead to a decrease in the price level. As the real return on money (in percentage) = - inflation rate, the real return on money will increase. Therefore, Option (3) is incorrect.
+
+Question code: B6C10Q026
+* Under a fractional reserve system, banks are required to keep a minimum fraction of their deposits as reserves. If the central bank requests that banks keep more required reserves, which of the following statements is correct?
+A.	The money supply must decrease.
+B.	The nominal interest rate must decrease.
+C.	The money creation ability of the banking system must decrease.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C10Q027
+* When the central bank lowers the discount rate, the money supply curve will
+A.	shift rightwards because the cost of holding money decreases.
+B.	shift rightwards only if there is no cash leakage.
+C.	shift leftwards because banks will borrow less from other banks.
+D.	remain unchanged if people do not borrow money from banks.
+
+Answer: D
+Explanation
+Option B is incorrect. The assumption of 'no cash leakage' is needed only in the case of maximum creation of money. Even if there is cash leakage, money creation may still take place if some loans are redeposited into the banking system.
+Option D is correct. If people do not borrow money from banks, banks cannot create new loans. Thus, the money supply curve will not change.
+
+Question code: B6C10Q028
+Which of the following measures will affect the maximum banking multiplier?
+A.	Open market operations
+B.	Adjusting the discount rate
+C.	Adjusting the required reserve ratio
+D.	Printing money
+
+Answer: C
+
+Question code: B6C10Q029
+Suppose all banks have loaned all their excess reserves. After the monetary authority adopts a new monetary policy, the monetary base remains unchanged but the money supply increases. Which of the following tools of monetary policy has most likely been used by the monetary authority?
+A.	Open market purchase of government bonds
+B.	Open market sale of government bonds
+C.	Raising the required reserve ratio
+D.	Lowering the required reserve ratio
+
+Answer: D
+
+Question code: B6C10Q030
+* After a central bank employs a tool of monetary policy, the monetary base increases while the actual banking multiplier decreases. Which of the following tools must NOT be used by the central bank?
+A.	Open market purchase of government bonds
+B.	Reduction of the discount rate
+C.	Printing more money
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q031
+* Which of the following events may lead to a decrease in the money supply?
+(1)	Banks call back loans.
+(2)	There is an increase in the discount rate.
+(3)	The government cancels the deposit protection scheme (存款保障計劃).
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+Option (3) is correct. As the risk of depositing money into banks increases, people tend to hold fewer deposits and more cash. The increase in cash leakage will lower the ability of banks to create money. As a result, the money supply may decrease.
+
+Question code: B6C10Q032
+* In Country A, the monetary base is $10,000 and the required reserve ratio is 10%. Suppose all banks always loan all of their excess reserves. Which of the following policies can lead to the greatest possible increase in money supply?
+A.	The central bank buys government bonds which are worth $100 in total.
+B.	The central bank sells government bonds which are worth $100 in total.
+C.	The central bank decreases the required reserve ratio by 0.1%.
+D.	Insufficient information to determine the answer.
+
+Answer: C
+
+Question code: B6C10Q033
+* The following is the balance sheet of the banking system in Country B.
+
+Assets ($)	Liabilities ($)	
+Reserves	10	Deposits	40	
+Loans	30			
+
+Suppose all banks always loan all of their excess reserves and the public does not hold cash. Which of the following events will cause the smallest increase in money supply?
+A.	The central bank decreases the required reserve ratio by 1%.
+B.	The central bank increases the monetary base by $1.
+C.	The central bank purchases two units of $0.6 bonds from the public.
+D.	The central bank loans $3 to a commercial bank.
+
+Answer: A
+
+Question code: B6C10Q034
+The government of an African country prints money to pay for the construction cost of a sports complex. This policy ______________ because ________________.
+A.	is expansionary … the overall effect of a balanced budget is expansionary
+B.	is expansionary … output increases in the short run with the increase in money supply
+C.	has no effect on national income … the effect of an increase in money supply offsets the effect of an increase in government expenditure
+D.	has no effect on national income … sports do not contribute to the economy
+
+Answer: B
+
+Question code: B6C10Q035
+The price level has been rising rapidly. To stabilise the price level, what should the central bank do?
+A.	Lower the discount rate
+B.	Lower the income tax rate
+C.	Increase the required reserve ratio
+D.	Buy government bonds from the market
+
+Answer: C
+
+Question code: B6C10Q036
+What can the government do to offset the effect of an increase in people's wealth on the price level?
+A.	Sell inflation-linked government bonds (通脹掛鈎政府債券)
+B.	Lower the discount rate
+C.	Lower the required reserve ratio
+D.	Issue more money
+
+Answer: A
+
+Question code: B6C10Q037
+Which of the following can have the same effect on real GDP as an increase in the foreign price level?
+A.	Increase in the discount rate
+B.	Increase in cash leakage in the money creation process
+C.	Increase in excess reserves in the money creation process
+D.	Increase in the monetary base
+
+Answer: D
+
+
+Question code: B6C10Q038
+Which of the following are possible effects when the government buys government bonds from the public?
+(1)	Increase in the nominal interest rate
+(2)	Increase in national income
+(3)	Increase in the general price level
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C10Q039
+Suppose a central bank wants to help the economy out of a recession. Which of the following policies can the central bank choose?
+A.	Raise savings interest rates
+B.	Charge banks a higher lending rate
+C.	Lower the discount rate
+D.	Sell its assets to banks
+
+Answer: C
+
+Question code: B6C10Q040
+* Economy R currently has a shortage of inputs. Which of the following measures can help solve the problem?
+A.	Printing money
+B.	Raising the required reserve ratio
+C.	Launching more infrastructure projects
+D.	Reducing the profits tax rate
+
+Answer: B
+
+Question code: B6C10Q041
+Which of the following statements about an expansionary monetary policy is correct?
+A.	It will raise both the real national income and interest rates in the short run.
+B.	It cannot affect the general price level in the long run.
+C.	Compared with an expansionary fiscal policy, it is a better policy for stimulating economic growth.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q042
+Which of the following are expansionary monetary policies?
+(1)	Raising money supply
+(2)	Lowering income taxes
+(3)	Lowering the discount rate
+(4)	Raising government expenditure
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: B
+
+Question code: B6C10Q043
+If the central bank wants to use a contractionary monetary policy to cool down the economy, it may
+A.	sell government bonds to commercial banks.
+B.	raise the income tax rate.
+C.	reduce the required reserve ratio.
+D.	All of the above
+
+Answer: A
+
+Question code: B6C10Q044
+Suppose the central bank raises the discount rate. This may lead to
+(1)	a rise in the nominal interest rate.
+(2)	a rise in the price level.
+(3)	an increase in real GDP.
+(4)	an increase in government revenue.
+A.	(1) only
+B.	(1) and (2) only
+C.	(3) and (4) only
+D.	(1), (3) and (4) only
+
+Answer: A
+
+Question code: B6C10Q045
+If the central bank lowers the _______, the monetary base will _______. The nominal interest rate will _______.
+A.	required reserve ratio … decrease … increase
+B.	discount rate … increase … decrease
+C.	discount rate … decrease … increase
+D.	required reserve ratio … increase … decrease
+
+Answer: B
+
+Question code: B6C10Q046
+Which of the following statements is correct?
+A.	An expansionary monetary policy is a measure which is aimed at stimulating money growth by printing money.
+B.	A decrease in the discount rate is a contractionary monetary policy tool.
+C.	A government can use an expansionary monetary policy to stimulate long run economic growth.
+D.	An open market purchase of government bonds by the central bank is an expansionary monetary policy tool.
+
+Answer: D
+
+Question code: B6C10Q047
+If the central bank sells government bonds to the market, 
+A.	the discount rate will rise as the central bank has less money to loan.
+B.	the real GDP will increase in the short run as the money supply increases.
+C.	the nominal GDP will decrease as both real output and the price level decrease.
+D.	more money circulates in the economy as the central bank collects money from the transaction.
+
+Answer: C
+
+
+Question code: B6C10Q048
+* Suppose an economy faces the problem of unemployment. If the central bank purchases government bonds from the market, what are the possible effects of this measure?
+(1)	The asset demand for money will decrease.
+(2)	The money supply will increase.
+(3)	The nominal GDP will increase.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C10Q049
+Suppose an economy faces the problem of unemployment and deflation. Which of the following policies can achieve long run equilibrium and stabilise the general price level at the same time?
+(1)	Lowering direct tax rates
+(2)	Lowering the discount rate
+(3)	Lowering the banks' minimum liquidity ratio
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C10Q050
+Suppose an economy faces the problem of unemployment and inflation. Which of the following policies can achieve long run equilibrium and stabilise the price level at the same time?
+(1)	Doing nothing
+(2)	Printing money to finance the increase in government expenditure
+(3)	Increasing the required reserve ratio
+(4)	Providing production subsidies
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	None of the above
+
+Answer: A
+
+Question code: B6C10Q051
+Which of the following measures will NOT help avoid the problem of overheating?
+A.	Doing nothing
+B.	Increasing the required reserve ratio
+C.	Selling government bonds to the market
+D.	Reducing the discount rate
+
+Answer: D
+
+Question code: B6C10Q052
+Suppose an economy has already achieved full employment. It is best for the government to __________ in order to avoid the problem of overheating.
+A.	do nothing
+B.	lower the discount rate
+C.	rebate (退還) income taxes
+D.	give each resident $6,000 cash
+
+Answer: A
+
+Question code: B6C10Q053
+Suppose the central bank buys government bonds from the market and raises the required reserve ratio. After that, there is no change in the actual banking multiplier. Which of the following statements is correct?
+A.	The real income level will not increase.
+B.	The overall effect of the central bank's actions is uncertain.
+C.	Other things being equal, the general price level may not increase in the long run.
+D.	The money supply will increase.
+
+Answer: D
+
+
+Question code: B6C10Q054
+Which of the following is most likely the short run effect of a rise in the discount rate?
+A.	The cost of holding money decreases.
+B.	The real return from holding money decreases.
+C.	Commercial banks must borrow more money from other commercial banks.
+D.	The output level decreases.
+
+Answer: D
+
+Question code: B6C10Q055
+If an economy faces the problem of _______, the government should _______. The output level will be restored to its full employment level and the general price level will _______.
+A.	overheating… adopt an expansionary fiscal policy … increase
+B.	unemployment … sell bonds to the market … increase
+C.	overheating … cut the government expenditure … decrease
+D.	unemployment … do nothing … increase
+
+Answer: C
+
+Question code: B6C10Q056
+Suppose an economy has already achieved full employment. The increase in the aggregate demand from an expansionary monetary policy can raise the output level in the short run. In the long run, the output level will _______ while the general price level will _______.
+A.	increase … be restored to the long run equilibrium level
+B.	decrease … increase
+C.	remain unchanged … increase
+D.	remain unchanged … remain unchanged
+
+Answer: C
+
+Question code: B6C10Q057
+Suppose there is a deflationary gap. Which of the following policies may help solve the problem?
+A.	Raising the discount rate
+B.	Raising sales taxes
+C.	Reducing the monetary base
+D.	Lowering the required reserve ratio
+
+Answer: D
+
+Question code: B6C10Q058
+Suppose there is an inflationary gap. Which of the following policies may help close the gap?
+(1)	Printing more money
+(2)	Raising transfer payments
+(3)	Raising the required reserve ratio
+(4)	Raising the general sales taxes
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	None of the above
+
+Answer: C
+
+Question code: B6C10Q059
+Suppose there is an inflationary gap and the government wants to stabilise the general price level. Which of the following policies can help achieve the macroeconomic goal in the long run?
+A.	Doing nothing
+B.	Raising the discount rate
+C.	Purchasing government bonds from the market
+D.	Raising the stamp duty
+
+Answer: B
+
+Question code: B6C10Q060
+If the government wants to relieve the problem of income inequality, which of the following policies is the most effective?
+A.	Printing money and distributing the money to residents equally
+B.	Lowering income tax rates
+C.	Lowering the discount rate
+D.	Lowering indirect taxes on luxuries
+
+Answer: A
+
+Question code: B6C10Q061
+* If the money demand curve is horizontal, which of the following statements are correct?
+(1)	An expansionary monetary policy cannot increase real output.
+(2)	An expansionary fiscal policy cannot increase real output.
+(3)	An expansionary monetary policy cannot increase the money supply.
+(4)	An expansionary fiscal policy may still increase real output.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: B
+
+Question code: B6C10Q062
+Refer to the following diagram.
+
+After Country C's government adopts a set of policies, the economy moves from Point A to Point B in the short run. Which of the following policies may the government adopt?
+A.	The government gives each resident $6,000 by printing money.
+B.	The government raises profits taxes and cuts the discount rate.
+C.	The government raises the required reserve ratio and the tax allowance.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B6C10Q063
+Refer to the following diagram. The original money market equilibrium is at Point A.
+
+To stimulate economic growth, Country H's government prints $1 billion worth of money and randomly distributes the money to residents by throwing it from a helicopter that flies around the country. In addition, the government encourages consumption by lowering the salaries tax. The new money market equilibrium will most likely be at
+A.	Point A.
+B.	Point B.
+C.	Point C.
+D.	Point D.
+
+Answer: C
+
+Question code: B6C10Q064
+Refer to the following diagram.
+
+Suppose the original long run equilibrium is at Point W. If the central bank purchases government bonds from the market, the new long run equilibrium will most likely be at
+A.	Point W.
+B.	Point X.
+C.	Point Y.
+D.	Point Z.
+
+Answer: C
+
+Question code: B6C10Q065
+Suppose the government raises the discount rate. Which of the following diagrams shows the possible short run effect of this action?
+
+
+Answer: D
+
+Question code: B6C10Q066
+Which of the following statements about monetary policy in Hong Kong is correct?
+A.	The Hong Kong Association of Banks is responsible for carrying out monetary policies.
+B.	The major objective of monetary policy in Hong Kong is to maintain the exchange rate of the Hong Kong dollar.
+C.	Open market operations cannot be used in Hong Kong because Hong Kong does not have a bond market.
+D.	No monetary policy can be carried out in Hong Kong due to the absence of a central bank.
+
+Answer: B
+
+Question code: B6C10Q067
+Which of the following statements about monetary policy in Hong Kong is INCORRECT?
+A.	Hong Kong does not have a minimum reserve requirement.
+B.	Licensed banks in Hong Kong can obtain overnight loans from the Hong Kong Monetary Authority at the discount rate.
+C.	The Hong Kong Monetary Authority can carry out open market operations by buying and selling Exchange Fund Bills and Notes.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q068
+Which of the following are predictions of the quantity theory of money?
+	(1)	Real GDP is constant in the long run.
+	(2)	When nominal money supply increases, nominal national income increases.
+	(3)	When nominal money supply increases, both real national income and the price level may increase in the short run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C10Q069
+Which of the following statements is correct about the quantity theory of money?
+A.	It predicts that real national income will never change.
+B.	It implies that an increase in money supply is the only cause of inflation in the long run.
+C.	It implies that changes in nominal national income must result from changes in the money supply.
+D.	It is built on the fact that the total expenditure on final products must be equal to the total value of production in an economy.
+
+Answer: B
+
+Question code: B6C10Q070
+Which of the following statements is INCORRECT?
+A.	According to the quantity theory of money, the velocity of circulation of money is assumed to be constant in both the short run and the long run.
+B.	According to the quantity theory of money, an increase in the money supply may cause real national income to increase in the short run.
+C.	According to the quantity theory of money, deflation does not exist in the long run.
+D.	The equation of exchange holds in all situations.
+
+Answer: C
+
+Question code: B6C10Q071
+The velocity of circulation of money
+	(1)	increases with nominal money supply.
+	(2)	is equal to (Nominal GDP ( Nominal money supply).
+	(3)	is the average number of times that money has to change hands in order to complete transactions of final products in a year.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C10Q072
+Suppose the central bank increases the money supply by 7% to boost the economy. Which of the following must be true according to the quantity theory of money?
+A.	The nominal GDP increases by 7% in the short run.
+B.	The real GDP increases by less than 7% in the short run.
+C.	The price level increases by less than 7% in the long run.
+D.	All of the above
+
+Answer: A
+
+Question code: B6C10Q073
+Which of the following violates the prediction of the quantity theory of money?
+A.	A contractionary monetary policy can restore an overheated economy back to long run equilibrium.
+B.	An expansionary monetary policy is effective in raising employment when there is a deflationary gap.
+C.	If the central bank keeps increasing the monetary base, the general price level remains unchanged in the long run.
+D.	The real output level grows in the long run due to an increase in factor endowment.
+
+Answer: C
+
+Question code: B6C10Q074
+Suppose an economy is originally in long run equilibrium. When the central bank keeps carrying out expansionary monetary policies,
+A.	there will be real GDP growth in the long run.
+B.	the general price level will remain constant in the short run.
+C.	the neutrality of money will not hold in the long run.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q075
+The following shows the AS-AD diagram of an economy. The equilibrium point is initially at E0.
+
+If the central bank carries out a contractionary monetary policy, the short run equilibrium and long run equilibrium will be _____ and _____, respectively.
+A.	E1 … E3
+B.	E1 … E0
+C.	E2 … E0
+D.	E2 … E4
+
+Answer: D
+
+Question code: B6C10Q076
+The equation of exchange tells us
+A.	money is neutral in the short run.
+B.	the velocity of circulation of money is constant.
+C.	the price level changes with the nominal money supply by the same proportion.
+D.	None of the above
+
+Answer: D
+Explanation
+Without further assumptions, we cannot draw the conclusions in Options A, B, and C from the equation of exchange.
+
+Question code: B6C10Q077
+Which of the following statements about the quantity theory of money is correct?
+(1)	The price level may change in the long run.
+(2)	Nominal GDP may change in the long run.
+(3)	Real GDP remains unchanged in the short run.
+(4)	The price level remains unchanged in the short run.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+
+
+Question code: B6C10Q078
+* Refer to the following information about Country A.
+
+Year	Money supply ($)	GDP at constant market prices ($)	GDP at current market prices ($)	
+1	50	100	100	
+2	55	105	110	
+
+Which of the following statements is correct?
+A.	The data are inconsistent with the equation of exchange.
+B.	The velocity of circulation of money has increased.
+C.	According to the quantity theory of money, the price level increases by about 5% in Year 2.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C10Q079
+The quantity theory of money predicts that ________ changes at the same percentage as __________.
+A.	nominal GDP … real money supply
+B.	real GDP … nominal money supply
+C.	nominal GDP … nominal money supply
+D.	real GDP … the price level
+
+Answer: C
+
+Question code: B6C10Q080
+According to the classical quantity theory of money, __________ in the long run.
+(1)	money is neutral
+(2)	real GDP does not change
+(3)	nominal GDP changes by the same percentage as the price level
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C10Q081
+Which of the following statements about the quantity theory of money is correct?
+A.	When nominal GDP increases, nominal money supply increases by the same percentage in the long run.
+B.	When nominal GDP increases, the price level increases by the same percentage in the short run.
+C.	When nominal money supply increases, nominal GDP increases by the same percentage in the long run.
+D.	When nominal money supply increases, the price level increases by the same percentage in the short run.
+
+Answer: C
+
+Question code: B6C10Q082
+* The central bank of Country A issues banknotes. This leads to a great increase in the country's nominal GDP. Which of the following statements is correct?
+A.	According to the quantity theory of money, Country A is operating in the long run.
+B.	There is an inflationary gap.
+C.	The velocity of circulation of money is not constant.
+D.	None of the above
+
+Answer: D
+Explanation
+Option B is incorrect. If Country A experiences unemployment, the policy does not necessarily result in an inflationary gap.
+
+Question code: B6C10Q083
+Which of the following statements about monetary policy is correct?
+A.	Monetary policy refers to the measure that is used to stabilise the general price level by adjusting the monetary base.
+B.	Monetary policy affects aggregate demand as well as short run aggregate supply.
+C.	Monetary policy cannot change real GDP in the long run.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C10Q084
+Which of the following statements about inflation are correct?
+(1)	According to the equation of exchange, inflation must be the result of a persistent increase in money supply.
+(2)	When all people can fully anticipate inflation, inflation will not affect the purchasing power of money.
+(3)	Price ceilings can eliminate inflation.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q085
+Milton Friedman, a famous economist, said, 'Inflation is always and everywhere a monetary phenomenon.' Which of the following can best interpret this statement?
+A.	Inflation is caused by a persistent increase in money demand.
+B.	Inflation is most likely caused by the continuous use of an expansionary monetary policy.
+C.	Inflation will not affect people's living standards as it is only related to nominal values.
+D.	It is predicted by the quantity theory of money that a change in nominal money supply must always bring a proportional change in the general price level.
+
+Answer: B
+
+Question code: B6C10Q086
+The velocity of circulation of money is defined as the ratio of
+A.	the nominal GDP to real GDP.
+B.	the nominal GDP to the number of times that money has changed hands.
+C.	the nominal GDP to the general price level.
+D.	the total value of final products exchanged to the nominal money supply.
+
+Answer: D
+
+Question code: B6C10Q087
+The equation of exchange
+A.	suggests that the velocity of circulation of money is constant.
+B.	focuses on the function of money as a medium of exchange.
+C.	predicts that the change in money supply will only affect the general price level.
+D.	describes money market equilibrium.
+
+Answer: B
+
+Question code: B6C10Q088
+The equation of exchange
+A.	states that total expenditure on final products is always the same as the total value of final products exchanged.
+B.	predicts that changes in nominal money supply cannot affect the long run equilibrium output level.
+C.	explains the total number of times that money has to change hands in order to complete transactions of final products in a year.
+D.	assumes that the velocity of money circulation is constant.
+
+Answer: A
+
+Question code: B6C10Q089
+The equation of exchange assumes that
+A.	the economy will achieve equilibrium when the velocity of circulation of money is constant.
+B.	real national income always remains constant at the full employment level.
+C.	a change in nominal money supply must bring a proportional change in nominal national income.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q090
+In the short run, if there is no change in the price level after an increase in the nominal money supply, then
+A.	the velocity of circulation of money must increase.
+B.	the aggregate demand curve will remain unchanged.
+C.	according to the quantity theory of money, real national income and nominal money supply will increase by the same proportion.
+D.	this will violate the prediction of the quantity theory of money.
+
+Answer: C
+
+Question code: B6C10Q091
+Refer to the following data about Country A.
+
+Year	Real GDP	The ratio of the corresponding price level relative to the base year	
+1	$10,000	1	
+2	$20,000	2	
+
+According to the quantity theory of money, which of the following conclusions can be drawn?
+A.	In Year 1, the value of the money supply was equal to $10,000.
+B.	In Year 2, the percentage change in the money supply was 400%.
+C.	In Year 2, the value of the money supply was equal to $10,000.
+D.	As we do not have information about the velocity of circulation of money, no conclusion can be drawn.
+
+Answer: B
+
+Question code: B6C10Q092
+Refer to the following data about Country B.
+
+Year	Money supply	The ratio of the corresponding price level relative to the base year	
+1	$20,000	5	
+2	$20,000	2.5	
+
+According to the equation of exchange, which of the following conclusions can be drawn?
+A.	In Year 2, the percentage change in real GDP was 200%.
+B.	In Year 2, there is no change in the velocity of circulation of money.
+C.	The nominal GDP remains unchanged.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C10Q093
+According to the quantity theory of money, if the money supply is fixed,
+A.	the general price level will remain unchanged in the long run.
+B.	an expansionary fiscal policy cannot stimulate economic growth.
+C.	the nominal GDP may increase when there is an increase in the velocity of circulation of money.
+D.	None of the above
+
+Answer: A
+
+Question code: B6C10Q094
+The quantity theory of money
+(1)	implies that an increase in the money supply is the only cause of inflation in the long run.
+(2)	predicts that an expansionary monetary policy cannot maintain economic growth in the long run.
+(3)	predicts that the full employment output level does not change.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+Explanation
+Option (3) is incorrect because this is an assumption of the quantity theory of money, rather than a prediction.
+
+Question code: B6C10Q095
+* According to the quantity theory of money, if the money supply consistently increases by the same percentage, which of the following diagrams can best describe the growth of the nominal GDP in the long run (assuming other factors remain constant)?
+
+
+Answer: C
+
+Question code: B6C10Q096 (new)
+An expansionary monetary policy is pursued in the United States when
+A.	the Congress (國會) authorises an increase in national security expenses.
+B.	the Federal Reserve purchases long term government bonds from the market.
+C.	the Bank of America reduces its lending interest rate.
+D.	the Federal Reserve increases the discount rate.
+
+Answer: B
+
+Question code: B6C10Q097 (new)
+Suppose there is an inflow of investment from foreign countries. Which of the following can counteract the effects of the above event on national income?
+A.	Banks keep less in excess reserves.
+B.	The central bank increases its lending rate to commercial banks.
+C.	The central bank buys government bonds from the market.
+D.	The government lowers the profits tax rate.
+
+Answer: B
+
+Question code: B6C10Q098 (new)
+Suppose an economy is initially at long run equilibrium. Which of the following would lead to overheating?
+(1)	Increasing the minimum wage
+(2)	Increasing the central bank's holding of government bonds
+(3)	Increasing the tax allowances for foreign workers
+(4)	Reducing the budget for anti-poverty measures
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: C
+
+Question code: B6C10Q099 (new)
+The following shows an AS-AD diagram of an economy. The economy is now at short run equilibrium ES.
+
+At ES, the economy faces __________, and __________ helps restore long run equilibrium EL.
+A.	an inflationary gap … reducing the quota of imported workers
+B.	an inflationary gap … raising the discount rate offered by the central bank
+C.	a deflationary gap … reducing transfer payments
+D.	a deflationary gap … raising the required reserve ratio
+
+Answer: B
+
+
+Question code: B6C10Q100 (new)
+The following diagram shows an economy's aggregate demand curve, short run aggregate supply curve, and long run aggregate supply curve. Point X is the original equilibrium.
+
+There is __________ at Point X. The central bank can close the gap by __________.
+A.	an inflationary gap … reducing the required reserve ratio
+B.	an inflationary gap … selling government bonds on the market
+C.	a deflationary gap … reducing the required reserve ratio
+D.	a deflationary gap … selling government bonds on the market
+
+Answer: C
+
+Question code: B6C10Q101 (new)
+According to the quantity theory of money,
+A.	an increase in money supply will lower real output if the inflation rate is constant.
+B.	an increase in money supply will lead to the same percentage increase in nominal GDP.
+C.	the real GDP is always constant.
+D.	an increase in real output will lead to a decrease in the price level.
+
+Answer: B
+
+Question code: B6C10Q102 (new)
+Suppose the money supply increases by 7% and the velocity of circulation of money remains constant. According to the classical quantity theory of money,
+A.	real output may increase.
+B.	nominal output may increase by less than 7%.
+C.	the inflation rate increases by 7%.
+D.	the price level increases by 7%.
+
+Answer: D
+
+Question code: B6C10Q103 (new)
+Suppose the money supply increases by 5% and real output increases by 3%. Which of the following is correct according to the quantity theory of money?
+A.	The economy is in the long run.
+B.	The nominal GDP increases by 8%.
+C.	The inflation rate increases by 2%.
+D.	The price level increases by 2%.
+
+Answer: D
+
+Question code: B6C10Q104 (new)
+The real output of an economy drops by a lower percentage than the money supply. According to the quantity theory of money,
+(1)	nominal output decreases.
+(2)	the price level decreases.
+(3)	potential output decreases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B6C10Q105 (new)
+Which of the following are implied by the quantity theory of money?
+(1)	A decrease in money supply will cause the same percentage decrease in nominal GDP.
+(2)	An increase in money supply only causes inflation in the long run.
+(3)	In the short run, when money supply increases, the percentage increase in real output will be smaller than the percentage increase in the GDP deflator.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Short Questions
+
+Question code: B6C10Q301
+Suppose Country D is facing the risk of recession. To avoid serious unemployment, the central bank lowers the required reserve ratio to change the money supply.
+(a)	Briefly describe how the decrease in the required reserve ratio affects the money supply. Does the monetary base change at the same time? Explain.	(5 marks)
+(b)	Explain briefly how a change in the money supply can avoid serious unemployment in the country.	(4 marks)
+
+Answers:
+(a)	When the central bank lowers the required reserve ratio, banks need to keep less in required reserves.	(1 mark)
+	Thus, they have more excess reserves to lend for profit.	(1 mark)
+	Through the process of money creation, the money supply increases further.
+	(1 mark)
+	The monetary base does not change because the total amount of cash held by the public and bank reserves are not affected.	(2 marks)
+(b)	Due to an increase in the money supply, nominal interest rates and hence real interest rates fall.	(1 mark)
+	The fall in real interest rates raises both private consumption expenditure and gross investment expenditure.	(1 mark)
+	Hence, aggregate demand increases.	(1 mark)
+	The increase in aggregate demand raises aggregate output and the employment level. Hence, serious unemployment can be avoided.	(1 mark)
+
+Question code: B6C10Q302
+Suppose the central bank of Country Z keeps printing more money to pay for government expenditure.
+(a)	With the aid of a diagram, explain how the above policy affects nominal interest rates.	(4 marks)
+(b)	With the aid of an AS-AD diagram, explain how the price level and output level are affected by the policy in the short run.	(7 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Rightward shift in the money supply curve	(1 mark)
+	(	Decrease in the nominal interest rate	(1 mark)
+	
+	Verbal elaboration:
+	When the central bank prints more money, the money supply increases from MS1 to MS2.	(1 mark)
+	As a result, nominal interest rates decrease from n1 to n2.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Rightward shift in the aggregate demand curve	(1 mark)
+	(	Increase in the price level	(1 mark)
+	(	Increase in the output level	(1 mark)
+	
+	Verbal elaboration:
+	When nominal interest rates decrease, real interest rates decrease too.	(1 mark)
+	The fall in real interest rates raises both private consumption expenditure and gross investment expenditure.	(1 mark)
+	Hence, aggregate demand increases.	(1 mark)
+	The increase in aggregate demand raises both the output level and the price level.
+	(1 mark)
+
+Question code: B6C10Q303
+Suppose an economy is facing unemployment. Suggest a tool of monetary policy that the central bank can use to help solve the problem. Explain your answer with the aid of an AS-AD diagram.	(9 marks)
+
+Answers:
+Indicate on the diagram:
+(	Unemployment exists	(1 mark)
+(	Rightward shift in the aggregate demand curve	(1 mark)
+(	Increase in output level	(1 mark)
+
+Verbal elaboration:
+The central bank can
+(	buy government bonds from the market.
+(	lower the discount rate.
+(	lower the required reserve ratio.
+(	print more money.
+(Any ONE of the above, 1 mark)
+This will increase the money supply.	(1 mark)
+Nominal interest rates and hence real interest rates decrease.	(1 mark)
+As a result, private consumption expenditure and gross investment expenditure increase.	(1 mark)
+Aggregate demand increases from AD1 to AD2.	(1 mark)
+Hence, the output level increases from Y1 to the full employment level Yf. Unemployment can be reduced..	(1 mark) 
+
+Question code: B6C10Q304
+In March, 2015, the European Central Bank carried out quantitative easing (量化寬
+鬆) by buying €3.2 billion in bonds.
+(a)	Explain the effect of the purchase of bonds on nominal interest rates.	(3 marks)
+(b)	Some European countries have experienced very low inflation rates for years. Explain how the quantitative easing affects their inflation rates.	(4 marks)
+
+Answers:
+(a)	When the central bank buys bonds from the market, more money circulates.
+	(1 mark)
+	The money supply increases as cash held by public increases and banks have more reserves to create money.	(1 mark)
+	As a result, nominal interest rates decrease.	(1 mark)
+(b)	As nominal interest rates decrease, real interest rates also decrease.	(1 mark)
+	Hence, both private consumption expenditure and gross investment expenditure increase.	(1 mark)
+	Aggregate demand increases.	(1 mark)
+	As a result, their price levels increase. Their inflation rates will be higher.
+	(1 mark)
+
+Question code: B6C10Q305
+(a)	What is monetary policy?	(2 marks)
+(b)	List TWO common tools of monetary policy.	(2 marks)
+
+Answers:
+(a)	Monetary policy is a measure taken by the central bank to achieve certain economic goals by adjusting the money supply or the interest rate.	(2 marks)
+(b)	(	Open market operations
+(	Adjusting the discount rate
+(	Adjusting the required reserve ratio
+(	Printing money
+(Any TWO of the above, 1 mark × 2 = 2 marks)
+
+Question code: B6C10Q306
+There are four common tools of monetary policy: open market operations, adjusting the discount rate, adjusting the required reserve ratio and printing money. 
+Briefly explain which of the tools will affect the monetary base and which will affect the maximum banking multiplier.	(6 marks)
+
+Answers:
+(	Open market operations
+As there are transactions of bonds between the central bank and the public or private banks, currency held by the public or private banks will change and so will the monetary base.	(2 marks)
+(	Adjusting the discount rate
+As the cost of borrowing from the central bank changes, private banks will borrow more / less from the central bank. The reserves of private banks will change and so will the monetary base.	(2 marks)
+(	Adjusting the required reserve ratio
+When the central bank changes the required reserve ratio, the maximum banking multiplier will change.	(1 mark)
+(	Printing money
+Printing money will increase the amount of currency issued. Thus, the monetary base will increase.	(1 mark)
+
+Question code: B6C10Q307
+Explain how open market sales of government bonds affect the market nominal interest rate and draw ONE diagram to show your answer.	(7 marks)
+
+Answers:
+When the central bank sells government bonds to the market, less money circulates. The cash held by non-bank public decreases, and some people withdraw money from banks.	(2 marks)
+Some banks may lack reserves and need to call back loans. Multiple contraction of money results.	(1 mark)
+Thus, the money supply decreases and the money supply curve shifts leftwards.
+	(1 mark)
+As a result, the nominal interest rate will increase from n1 to n2.	(1 mark)
+	(2 marks)
+
+Question code: B6C10Q308
+Explain how an increase in the discount rate affects the equilibrium nominal interest rate and draw ONE diagram to show your answer.	(7 marks)
+
+Answers:
+When the central bank raises the discount rate, the cost of borrowing from the central bank increases.	(1 mark)
+Banks will reduce their loans from the central bank. Some banks may call back loans to repay loans from the central bank. The monetary base will decrease. This results in multiple contraction of money.	(2 marks)
+Hence, the money supply decreases and the money supply curve shifts leftwards.
+ 	(1 mark)
+As a result, the nominal interest rate will increase from n1 to n2.	(1 mark)
+	(2 marks)
+
+Question code: B6C10Q309
+What is a contractionary monetary policy? Give TWO examples.	(4 marks)
+
+Answers:
+A contractionary monetary policy is a measure that reduces aggregate output by cutting the money supply or directly raising interest rates.	(2 marks)
+Examples of a contractionary monetary policy include:
+(	Selling government bonds on the market
+(	Raising the discount rate
+(	Raising the required reserve ratio
+(Any TWO of the above. 1 mark × 2 = 2 marks)
+
+Question code: B6C10Q310
+Explain how each of the following affects the market nominal interest rate.
+(a)	Open market purchase of government bonds	(4 marks)
+(b)	Lowering the stamp duty on sales of government bonds (For simplicity, you are only required to discuss its effects related to the money market.)	(3 marks)
+
+Answers:
+(a)	When the central bank buys government bonds from the market, more money circulates. Some money is held by the non-bank public as cash, while some is held by private banks as reserves. If private banks lend their excess reserves, the money supply increases further through the money creation process.	(3 marks)
+As the money supply increases, the market nominal interest rate will decrease.
+	(1 mark)
+(b)	When the stamp duty on sales of government bonds decreases, the cost of selling government bonds for money decreases. The demand for government bonds increases. Hence, the asset demand for money will decrease.	(2 marks)
+As the money demand decreases, the market nominal interest rate will decrease.
+	(1 mark)
+
+Question code: B6C10Q311
+After the earthquake in Country J, people expect that stock prices in Country J will fall.
+(a)	With the aid of a diagram, explain how the expectations mentioned above affect the money market in Country J.	(4 marks)
+(b)	The government of Country J tries to help the economy recover by printing a huge amount of money. Using the diagram in (a), explain why this can stabilise the nominal interest rate.	(2 marks)
+
+
+Answers:
+(a)	To avoid the expected losses from holding stocks, some people will convert their stocks into money and hold the money as an asset. Thus, the demand for money will increase.	(1 mark)
+As a result, the market interest rate will increase from n1 to n2.	(1 mark)
+	(2 marks)
+(b)	As the money supply increases, the nominal interest rate will decrease from n2 to n1. This can stabilise the nominal interest rate.	(1 mark)
+	(1 mark)
+
+Question code: B6C10Q312
+Suppose an economy faces the problem of unemployment. The government decides to solve the problem by lowering the required reserve ratio.
+(a)	Besides lowering the required reserve ratio, suggest ONE tool of monetary policy that can solve the problem.	(1 mark)
+(b)	Determine whether the tool suggested in (a) will affect the monetary base.
+	(1 mark)
+(c)	Briefly explain how the tool suggested in (a) works.	(4 marks)
+
+
+Answers:
+(a)	(	Open market purchase of government bonds
+(	Lowering the discount rate
+(	Printing money
+(Any ONE of the above, 1 mark)
+(b)	It will increase the monetary base.	(1 mark)
+(c)	The increase in the monetary base leads to multiple creation of money. The money supply increases.	(1 mark)
+The increase in the money supply lowers the real interest rate.	(1 mark)
+Private consumption expenditure and gross investment expenditure increase and so does aggregate demand. This can increase output to the full employment level. 	(2 marks)
+
+Question code: B6C10Q313
+The following is the balance sheet of Banking System H.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	150	Deposits	500	
+Loans	350			
+
+(a)	Suppose banks do not keep excess reserves. What is the value of the required reserve ratio?	(1 mark)
+(b)	Suppose the central bank lowers the required reserve ratio by 5%. Calculate the maximum change in the money supply.	(3 marks)
+(c)	Suggest ONE example to explain why lowering the required reserve ratio may NOT be an effective monetary policy.	(2 marks)
+
+Answers:
+(a)	Required reserve ratio = $150 billion / $500 billion = 30% or 0.3	(1 mark)
+(b)	New required reserve ratio = 30% - 5% = 25%	(1 mark)
+	New maximum amount of money supply = $150 billion / 25% = $600 billion
+	(1 mark)
+	Maximum change in money supply = $(600 - 500) billion = $100 billion	(1 mark)
+(c)	Even if the central bank lowers the required reserve ratio, the amount of deposits will not increase if banks do not loan out their excess reserves. Hence, the money supply may not increase.	(2 marks)
+
+
+Question code: B6C10Q314
+Country A is an agricultural economy. The harvest has been poor this year because of a serious drought.
+(a)	With the aid of a diagram, briefly explain the effect of the serious drought on Country A's real GDP and the price level in the short run.	(5 marks)
+(b)	How can an expansionary monetary policy help stabilise real GDP? Explain with the aid of the diagram drawn in (a). Also explain how the policy will affect the price level.	(9 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Short run aggregate supply curve shifts leftwards.	(1 mark)
+	(	Real GDP decreases and the price level increases.	(1 mark)
+	
+Verbal elaboration:
+(	The serious drought lowers the short run aggregate supply in Country A.
+	(1 mark)
+(	Therefore, real GDP decreases and the price level increases in the short run.
+	(2 marks)
+(b)	Indicate on the diagram:
+	(	The aggregate demand curve shifts rightwards.	(1 mark)
+	(	Real GDP is restored to the original level.	(1 mark)
+	(	The price level increases further.	(1 mark)
+	
+Verbal elaboration:
+(	An expansionary monetary policy will lower the nominal interest rate and also the real interest rate.	(1 mark)
+(	A fall in the real interest rate increases both private consumption expenditure and gross investment expenditure.	(2 marks)
+(	Hence, the aggregate demand curve shifts rightwards.	(1 mark)
+(	As a result, real GDP can be restored to its original level Y1, but the price level increases further to P3.	(2 marks)
+
+Question code: B6C10Q315
+How can the discount rate be adjusted to solve the problem of unemployment in the short run? Explain your answer with the aid of an AS-AD diagram.	(10 marks)
+
+Answers:
+Indicate on the diagram:
+(	The original short run equilibrium real GDP is smaller than the full employment real GDP.	(1 mark)
+(	The aggregate demand curve shifts rightwards.	(1 mark)
+(	Real GDP is restored to its full employment level.	(1 mark)
+
+Verbal elaboration:
+(	Lowering the discount rate can reduce banks' cost of borrowing from the central bank.	(1 mark)
+(	Therefore, it is profitable for banks to borrow more from the central bank and issue more loans.	(1 mark)
+(	Money supply will increase. So, the real interest rate decreases.	(2 marks)
+(	Both private consumption expenditure and gross investment expenditure will increase. Hence, the aggregate demand curve shifts rightwards.	(2 marks)
+(	As a result, real GDP is restored to its full employment level.	(1 mark)
+
+Question code: B6C10Q316
+(a)	Explain with the aid of a diagram how a decrease in the required reserve ratio affects the nominal interest rate.	(6 marks)
+(b)	Use the result in (a) to explain how a decrease in the required reserve ratio affects real GDP.	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	The money supply curve shifts rightwards.	(1 mark)
+(	The nominal interest rate decreases.	(1 mark)
+
+Verbal elaboration:
+(	When the required reserve ratio decreases, banks can keep less required reserves. So they have more excess reserves to loan out and create money. The money supply increases.	(3 marks)
+(	As a result, the nominal interest rate decreases from n1 to n2.	(1 mark)
+(b)	(	Other things being equal, when the nominal interest rate decreases, the real interest rate decreases too.	(1 mark)
+(	This increases both private consumption expenditure and gross investment expenditure. Hence, aggregate demand increases.	(2 marks)
+(	As a result, real GDP increases.	(1 mark)
+
+Question code: B6C10Q317
+With the aid of an AS-AD diagram, explain how an expansionary monetary policy can solve the problem of unemployment.	(7 marks)
+
+Answers:
+Unemployment exists when the aggregate output (Y1) is below the full employment level (Yf).	(1 mark)
+When the central bank adopts an expansionary monetary policy, the real interest rate will decrease.	(1 mark)
+The fall in the real interest rate increases both private consumption expenditure and gross investment expenditure. Hence, the aggregate demand curve shifts rightwards.
+	(2 marks)
+The increase in aggregate demand from the expansionary monetary policy can increase output to the full employment level.	(1 mark)
+	(2 marks)
+
+Question code: B6C10Q318
+* The government in Country H has a huge fiscal surplus this year. To 'give wealth to people' (藏富於民), the government decides to offer an income tax rebate (退回).
+(a)	Suppose the economy is originally at long run equilibrium. With the aid of a diagram, briefly explain how the tax rebate will affect output and the price level in the short run.	(6 marks)
+(b)	Based on the answer in (a), what will the change in output be in the long run?
+	(1 mark)
+(c)	Based on the answer in (a), can the central bank stabilise the price level with a monetary policy? Can the central bank also stimulate short run economic growth with this type of monetary policy? Briefly explain.	(2 marks)
+
+Answers:
+(a)	Suppose the economy is originally at Point A. The tax rebate will stimulate consumption. Aggregate demand increases and the aggregate demand curve shifts rightwards from AD1 to AD2.	(2 marks)
+Output increases from Yf to Y2.	(1 mark)
+The price level increases from P1 to P2.	(1 mark)
+	(2 marks)
+(b)	Output will remain at its original full employment level (Yf).	(1 mark)
+(c)	The central bank can stabilise the price level with a contractionary monetary policy, which will lead to a decrease in aggregate demand and offset the increase in aggregate demand in (a).	(1 mark)
+However, the central bank cannot stimulate economic growth at the same time because the monetary policy to stabilise the price level is contractionary.	(1 mark)
+
+Question code: B6C10Q319
+(a)	What is overheating? Is there a deflationary gap or inflationary gap when overheating occurs?	(3 marks)
+(b)	With the aid of an AS-AD diagram, briefly explain how a contractionary monetary policy can solve the problem of overheating.	(6 marks)
+
+Answers:
+(a)	Overheating of an economy occurs when the production capacity of the economy cannot keep pace with the growing aggregate demand.	(2 marks)
+When overheating occurs, the short run equilibrium output level will be greater than the full employment output level. Thus, there is an inflationary gap.	(1 mark)
+(b)	A contractionary monetary policy will lower the money supply or directly raise interest rates.	(1 mark)
+This will reduce both private consumption expenditure and gross investment expenditure.	(1 mark)
+Hence, aggregate demand decreases from AD1 to AD2.	(1 mark)
+The decrease in aggregate demand from the contractionary monetary policy can reduce output to the full employment level (Yf).	(1 mark)
+	(2 marks)
+
+Question code: B6C10Q320
+In Country A, the aggregate demand curve is downward sloping due to the interest rate effect.
+(a)	Briefly explain how the interest rate effect mentioned above works when there is an increase in the price level.	(4 marks)
+*(b)	Can we use the interest rate effect mentioned above to explain the effects of an expansionary monetary policy in the short run? Explain.	(5 marks)
+
+Answers:
+(a)	The nominal amount of money supply does not change with the price level. When the price level rises, households and firms need more money to finance their transactions.	(1 mark)
+	Thus, some save less and some borrow more from banks. Both will push up real interest rates.	(1 mark)
+	The rise in real interest rates discourages consumption and investment. Consequently, aggregate output demanded falls.	(1 mark)
+	Thus, the price level and aggregate output demanded are negatively related. This explains why the aggregate demand curve is downward sloping.	(1 mark)
+(b)	No, because	(1 mark)
+the interest rate effect mentioned in the question assumes that the nominal money supply remains unchanged. In this case, the real interest rate changes due to the change in the price level. There is movement along the aggregate demand curve.
+	(2 marks)
+In the case of using an expansionary monetary policy, the real interest rate changes due to factors other than a change in the price level. Thus, there is a shift of the aggregate demand curve.	(2 marks)
+
+Question code: B6C10Q321
+* Suppose Country Q was initially at the long run equilibrium. A large oilfield has been recently discovered in Country Q. Compare the effects on the price level of doing nothing or carrying out an expansionary monetary policy. Explain your answer with the aid of a diagram. (Assume that the discovery of the oilfield does not affect the economy in the short run.)	(10 marks)
+
+Answers:
+Indicate on the diagram:
+(	Deflationary gap due to rightward shift in the long run aggregate supply curve
+	(1 mark)
+Effects of doing nothing:
+(	Rightward shift in the short run aggregate supply curve	(1 mark)
+(	Decrease in the price level	(1 mark)
+Effects of an expansionary monetary policy:
+(	Rightward shift in the aggregate demand curve	(1 mark)
+(	Increase in the price level	(1 mark)
+
+Verbal elaboration:
+When a new oilfield is discovered, the long run aggregate supply increases from LRAS1 to LRAS2, and thus a deflationary gap exists.	(1 mark)
+If nothing is done, the excess supply of inputs will cause the short run aggregate supply to increase from SRAS1 to SRAS2.	(1 mark)
+Hence, the price level will decrease from P0 to P1.	(1 mark)
+If an expansionary monetary policy is carried out, the aggregate demand will increase from AD1 to AD2.	(1 mark)
+The price level will increase from P0 to P2.	(1 mark)
+
+Question code: B6C10Q322
+(a)	State the equation of exchange.	(2 marks)
+(b)	Suppose the central bank carries out an expansionary monetary policy. In the short run, the real national income and price level increase by 3% and 4%, respectively.
+	(i)	What is the percentage change in money supply? Show your calculations.
+	(2 marks)
+	(ii)	What is the percentage change in the price level in the long run? Briefly explain your answer.	(3 marks)
+
+Answers:
+(a)	MV ≡ PY, where M = money stock / nominal money supply, 
+V = velocity of circulation of money, 
+P = general price level and 
+Y = real output / real national income.	(2 marks)
+(b)	(i)	%Δ in money supply
+		= %Δ in real national income + %Δ in price level	(1 mark)
+		= 3% + 4% = 7%	(1 mark)
+	(ii)	In the long run, the real national income is constant at the full employment level.	(1 mark)
+		Hence, the change in money supply only causes the same percentage change in the price level.	(1 mark)
+		As a result, the price level will increase by 7% in the long run.	(1 mark)
+
+Question code: B6C10Q323
+(a)	State the equation of exchange.	(2 marks)
+(b)	What are the assumptions of the quantity theory of money?	(2 marks)
+(c)	How do the assumptions lead to predictions of the quantity theory of money?
+	(4 marks)
+
+Answers:
+(a)	MV ≡ PY, where M = money stock / nominal money supply, 
+V = velocity of circulation of money, 
+P = general price level and 
+Y = real output / real national income.	(2 marks)
+(b)	The velocity of circulation of money is assumed to be constant.	(1 mark)
+	Real national income is assumed to be constant at the full employment level in the long run.	(1 mark)
+(c)	As V is assumed to be constant, the quantity theory of money predicts that a change in nominal money supply (M) will cause a proportional change in nominal national income (PY).	(2 marks)
+	Since Y is assumed to be constant in the long run, the quantity theory of money predicts that a change in money supply will only lead to a proportional change in the price level in the long run.	(2 marks)
+
+Question code: B6C10Q324
+In Country X, the public never hold cash and banks never hold excess reserves. The required reserve ratio of the banking system is 10% and the total amount of reserves is $1,000.
+(a)	Calculate the money supply.	(2 marks)
+(b)	Suppose the central bank lowers the required reserve ratio by 2%. Calculate the change in the money supply.	(2 marks)
+(c)	According to the quantity theory of money, predict the change in the price level in the long run.	(4 marks)
+
+Answers:
+(a)	Total amount of deposits 
+	= $1,000 ÷ 10% = $10,000	(1 mark)
+	Money supply
+	= Deposits + Cash held by the public = $10,000 + 0 = $10,000	(1 mark)
+(b)	Change in deposits
+	= $1,000 ÷ (10% − 2%) − $10,000 = $2,500	(1 mark)
+	Change in money supply
+	= Change in deposits + Change in cash held by the public
+	= +$2,500 + 0 = +$2,500	(1 mark)
+(c)	According to the quantity theory of money, a change in money supply will lead to the same proportional change in the price level in the long run.	(2 marks)
+	Percentage change in money supply = Percentage change in the price level
+	= +$2,500 / $10,000 × 100% = +25%	(2 marks)
+
+
+Question code: B6C10Q325
+Refer to the following balance sheet of a banking system which accepts only demand deposits. Suppose the public does not hold any cash and there is no excess reserve.
+
+Assets ($)	Liabilities ($)	
+Reserves	150	Deposits	750	
+Loans	600			
+
+(a)	Calculate the required reserve ratio.	(1 mark)
+(b)	Suppose $100 in money is issued and banks are fully loaned up.
+(i)	What is the maximum change in money supply? Show your calculations.
+	(2 marks)
+(ii)	According to the quantity theory of money, what is the percentage change in the price level in the long run?	(5 marks)
+
+Answers:
+(a)	Required reserve ratio = $150 / $750 = 20% or 0.2	(1 mark)
+(b)	(i)	The maximum change in money supply = +$100 × (1 / 0.2) = +$500	(2 marks)
+(ii)	(	The equation of exchange is MV ( PY.	(1 mark)
+(	The quantity theory of money assumes that the velocity of circulation of money (V) is constant.	(1 mark)
+(	The theory also assumes that, in the long run, the output level (Y) remains constant at the full employment level.	(1 mark)
+	(	So, 
+		Percentage change in price level = Percentage change in money supply 
+= (+$500 / $750) × 100% = +66.7%	(2 marks)
+
+Question code: B6C10Q326
+'Money is neutral in the long run.' Illustrate this statement with
+(a)	the quantity theory of money;	(4 marks)
+(b)	the AS-AD model (you may only discuss the case of an expansionary monetary policy).	(7 marks)
+
+Answers:
+(a)	(	The equation of exchange is MV ( PY.	(1 mark)
+	(	The quantity theory of money assumes that the velocity of circulation of money (V) is constant.	(1 mark)
+	(	The theory also assumes that real GDP (Y) is constant in the long run.
+	(1 mark)
+	(	Therefore, changes in nominal money supply (M) can only affect nominal values (e.g., P - the general price level), but not real values (e.g., real GDP).
+	(1 mark)
+(b)	Indicate on the diagram:
+	(	Vertical long run aggregate supply curve	(1 mark)
+	(	Aggregate demand curve shifts rightwards.	(1 mark)
+	(	Real GDP stays at the full employment level in the long run.	(1 mark)
+
+Verbal elaboration:
+(	Suppose an expansionary monetary policy is imposed by increasing the money supply. In this case, the nominal interest rate falls and aggregate demand increases.	(2 marks)
+(	However, in the long run, real GDP remains unchanged at its full employment level.	(1 mark)
+(	So, money is neutral, in the sense that changes in money supply do not affect real values (e.g., real GDP).	(1 mark)
+
+Question code: B6C10Q327
+Issuing money without controls is regarded as one of the causes of the collapse of several ancient dynasties. With the aid of an AS-AD diagram, explain how excessive issuance of money will increase people's cost of living in the short run and long run.	(12 marks)
+
+Answers:
+Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Short run situation: Price level increases.	(1 mark)
+(	Short run aggregate supply curve shifts upwards.	(1 mark)
+(	Long run situation: Price level increases further.	(1 mark)
+
+Verbal elaboration:
+(	Excessive issuance of money will greatly increase the money supply and so lower the nominal interest rate and real interest rate.	(1 mark)
+(	This increases both private consumption expenditure and gross investment expenditure. Hence, aggregate demand increases.	(2 marks)
+(	The price level increases to PS2 in the short run.	(1 mark)
+(	There is an inflationary gap. The excess demand for resources will raise input prices. The short run aggregate supply curve shifts upwards until the inflationary gap is closed.	(2 marks)
+(	As a result, the price level increases further to PL2 in the long run.	(1 mark)
+(	Therefore, people's cost of living, as reflected by the price level, increases in both the short run and long run.	(1 mark)
+
+Question code: B6C10Q328
+(a)	What is the equation of exchange? Briefly describe the components of the equation.	(2 marks)
+(b)	What is the assumption of the quantity theory of money on the velocity of circulation of money?	(1 mark)
+(c)	According to the quantity theory of money, explain the effect of a 10% increase in the money supply on the general price level
+(i)	in the short run;	(2 marks)
+(ii)	in the long run.	(2 marks)
+
+Answers:
+(a)	The equation of exchange is MV ( PY. M is the nominal money supply, V is the velocity of circulation of money, P is the general price level, and Y is the real 
+GDP.	(2 marks)
+(b)	The velocity of circulation of money is assumed to be constant.	(1 mark)
+(c)	(i)	The general price level may increase by less than 10% as the real GDP may also increase at the same time..	(2 marks)
+(ii)	The general price level will increase by 10% as the real GDP is assumed to remain unchanged in the long run.	(2 marks)
+
+Question code: B6C10Q329
+(a)	State the assumptions of the quantity theory of money.	(2 marks)
+(b)	Briefly explain the predicted outcomes of the quantity theory of money in the long run.	(2 marks)
+(c)	Use the answer in (b) to describe the neutrality of money.	(3 marks)
+
+Answers:
+(a)	(	The velocity of circulation of money is stable and is assumed to be constant.
+	(1 mark)
+(	The real national income may vary in the short run but remains constant at the full employment level in the long run.	(1 mark)
+(b)	In the long run, a change in the nominal money supply will cause a proportional change in the price level.	(2 marks)
+(c)	As predicted by the quantity theory of money, a change in M will lead to a proportional change in P and the nominal national income (PY) in the long run but not the real national income (Y). Thus, changes in the nominal money supply can affect nominal values only. They cannot affect real values. This phenomenon is the neutrality of money.	(3 marks)
+
+Question code: B6C10Q330
+(a)	List TWO common tools of expansionary monetary policy.	(2 marks)
+(b)	'In the long run, it is better for the government to do nothing rather than intervene in the economy with an expansionary monetary policy.' Based on the following items, explain why this statement can be true.
+(i)	The quantity theory of money	(2 marks)
+(ii)	AS-AD model	(2 marks)
+
+Answers:
+(a)	(	Open market purchase of government bonds
+(	Lowering the discount rate
+(	Lowering the required reserve ratio
+(	Printing money
+(Any TWO of the above, 1 mark × 2 = 2 marks)
+(b)	(i)	According to the quantity theory of money, an expansionary monetary policy will only lead to an increase in the general price level in the long run, but will not raise the real GDP. Thus, it is better for the government to do nothing.
+	(2 marks)
+(ii)	Suppose an economy is originally at long run equilibrium. If an expansionary monetary policy only affects aggregate demand, although real GDP will increase in the short run, it will return to its original long run equilibrium in the long run. However, the policy will raise the price level in the long run. Thus, it is better for the government to do nothing.	(2 marks)
+
+Question code: B6C10Q331
+Refer to the following data about Country B.
+
+Year	Nominal money supply ($ billion)	Nominal GDP 
+($ billion)	
+1	100	110	
+2	150	140	
+
+(a)	Define the velocity of circulation of money (V) and show the definition by an equation.	(3 marks)
+(b)	Explain whether the above data are consistent with the assumption of the quantity theory of money on V.	(4 marks)
+
+Answers:
+(a)	Velocity of circulation of money is the average number of times that money has to change hands in order to complete transactions of final products in a year.
+	(2 marks)
+It is the ratio of the nominal GDP (PY) to the nominal money supply (M) as shown below:
+	(1 mark)
+(b)	V in Year 1 = 110 / 100 = 1.1	(1 mark)
+V in Year 2 = 140 / 150 = 0.93 (corr. to 2 decimal places)	(1 mark)
+The quantity theory of money assumes that V is a constant.	(1 mark)
+As there is a decrease in V during the period, the data are not consistent with the assumption.	(1 mark)
+
+Question code: B6C10Q332 (new)
+To finance its expenditure in building Olympic Games facilities, the Brazilian government had to reduce its expenditures on public hospitals, schools and the police force.
+(a)	Explain ONE possible undesirable consequence on the economy of cutting the above expenditures.	(2 marks)
+(b)	Construction of the facilities might have been financed by printing money instead. Briefly explain ONE advantage and ONE disadvantage of printing money, compared with reducing the above expenditures.	(4 marks)
+
+Answers:
+(a)	(	Cutting expenditure on public services will reduce social transfers to low income groups. This tends to widen the income gap and cause social problems.
+	(	Cutting expenditure on schools may reduce labour productivity in the future. Long run aggregate supply and thus aggregate output decrease.
+	(Any ONE of the above or other reasonable answers. 2 marks)
+(b)	Advantage:
+	Printing money can lower interest rates and stimulate investment. Aggregate demand will increase, resulting in an increase in the output level and employment level (in the short run).	(2 marks)
+	Disadvantage:
+	Printing money will raise the price level, which may cause/worsen the problem of inflation.	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B6C10Q333 (new)
+The government has considered stimulating the economy by one of the following measures:
+Measure 1: Lowering the required reserve ratio
+Measure 2: Providing production subsidies to firms
+(a)	Explain how the above measures can stimulate the economy.	(4 marks)
+(b)	Discuss ONE possible undesirable effect of EACH measure.	(4 marks)
+
+Answers:
+(a)	Lowering the required reserve ratio increases money supply, resulting in a decrease in interest rates and an increase in investment expenditure. Aggregate demand will increase and so will aggregate output.	(2 marks)
+	Providing production subsidies to firms reduces production costs. Short run aggregate supply will increase and so will aggregate output.	(2 marks)
+(b)	Measure 1 will increase the price level, which may worsen the problem of inflation.	(2 marks)
+	Measure 2 will impose a financial burden on the government, which may increase the fiscal deficit or reduce the fiscal surplus.	(2 marks)
+	(Accept other reasonable answers.)
+
+Question code: B6C10Q334 (new)
+Country J is facing an enormous fiscal deficit. As a result, the central bank decides to reduce the discount rate.
+(a)	Explain the effect that reducing the discount rate would have on the fiscal deficit.	(4 marks)
+(b)	Increasing tax rates may also help relieve the fiscal deficit. State ONE advantage and ONE disadvantage of reducing the discount rate over increasing tax rates.
+	(4 marks)
+
+Answers:
+(a)	When the discount rate decreases, banks borrow more from the central bank to make more loans. Therefore, money supply increases and the market interest rate falls.	(2 marks)
+	Aggregate demand increases, leading to an increase in real output. Therefore, tax revenue increases and the fiscal deficit decreases.	(2 marks)
+(b)	Advantage:
+	Reducing the discount rate leads to an increase in real output while increasing tax rates leads to a decrease in real output.	(2 marks)
+	(Accept other reasonable answer.)
+	Disadvantage:
+	Reducing the discount rate causes the price level to increase while increasing tax rates suppresses the price level.	(2 marks)
+	(Accept other reasonable answer.)
+
+Question code: B6C10Q335 (new)
+In 2015, Taiwan faced the problems of unemployment and deflation. To increase the employment level and the price level, the Central Bank of Taiwan lowered the discount rate by 0.125%. With the aid of a diagram, explain whether the unemployment and deflation problems could be solved by lowering the discount rate.	(6 marks)
+
+Answers:
+Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Output and price levels increase.	(1 mark)
+
+Verbal elaboration:
+Yes.
+Lowering the discount rate will increase money supply, resulting in a decrease in the interest rate.	(1 mark)
+Consumption and investment expenditures will increase and so will aggregate demand.	(1 mark)
+Therefore, output increases, leading to an increase in the employment level.	(1 mark)
+Also, the price level will increase from P1 to P2.	(1 mark)
+
+Question code: B6C10Q336 (new)
+The People's Bank of China has lowered the required reserve ratio several times.
+(a)	With the aid of an AS-AD diagram, explain the short run effect of the above policy on price and output levels in China.	(7 marks)
+(b)	An economist commented that the effect on the output level is limited due to the revaluation of the renminbi against its trading partners' currencies. Explain his statement.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Price and output levels increase.	(1 mark)
+
+Verbal elaboration:
+Lowering the required reserve ratio will increase money supply.	(1 mark)
+This will lower the interest rate.	(1 mark)
+Gross investment expenditure and consumption expenditure increase.	(1 mark)
+Aggregate demand increases.	(1 mark)
+Both output and price levels increase in the short run.	(1 mark)
+(b)	When the renminbi is revaluated against foreign currencies, China's volume of exports will decrease and its volume of imports will increase.	(2 marks)
+	As a result, aggregate demand decreases, which offsets the effect on the output level of lowering the required reserve ratio.	(1 mark)
+
+Question code: B6C10Q337 (new)
+On March 1, 2016, the People's Bank of China cut the required reserve ratio by 0.5%.
+(a)	Explain the effect of lowering the required reserve ratio on the real interest rate in China.	(4 marks)
+(b)	With the aid of an AS-AD diagram, explain the effects of the above event on China's price and output levels in the short run.	(5 marks)
+
+Answers:
+(a)	When the central bank lowers the required reserve ratio, banks need to keep less in required reserves.	(1 mark)
+	Thus, they have more excess reserves to lend for profit.	(1 mark)
+	Through the process of money creation, the money supply increases further.
+	(1 mark)
+	Due to the increase in money supply, the nominal interest rate and the real interest rate fall.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Rightward shift in the aggregate demand curve	(1 mark)
+	(	Increase in price level and output level	(1 mark)
+	
+	Verbal elaboration:
+	The fall in the real interest rate raises both private consumption expenditure and gross investment expenditure.	(1 mark)
+	Hence, aggregate demand increases.	(1 mark)
+	The increase in aggregate demand raises both output level and the price level.
+	(1 mark)
+
+Question code: B6C10Q338 (new)
+Country H plans to expand its airport.
+(a)	With the aid of a diagram, explain the effect of the airport expansion on Country H's output and price levels in the short run.	(4 marks)
+(b)	Explain, giving ONE example, how monetary policy could reduce the effect of the airport expansion on the price level in the short run.	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Output level and price level increase.	(1 mark)
+
+Verbal elaboration:
+Expanding the airport increases investment expenditure, leading to growth in aggregate demand.	(1 mark)
+Price and output levels will increase to P2 and Y2, respectively.	(1 mark)
+(b)	Contractionary monetary policies:
+(	The central bank's sale of government bonds on the open market
+(	Raising the discount rate
+(	Raising the required reserve ratio
+	(Any ONE of the above. 1 mark)
+	The contractionary monetary policy reduces money supply, resulting in an increase in interest rates.	(1 mark)
+	This will lower private consumption expenditure and gross investment expenditure, and thus aggregate demand.	(1 mark)
+	The price level will decrease in the short run, reducing the effect of the airport expansion.	(1 mark)
+
+Question code: B6C10Q339 (new)
+An earthquake in Country E has led to severe unemployment. As a result, the central bank decides to buy government bonds from the market. With the aid of an AS-AD diagram, explain how the above policy can help relieve the unemployment problem.
+	(8 marks)
+
+Answers:
+Indicate on the diagram:
+(	Unemployment exists (Y1 < Yf).	(1 mark)
+(	Rightward shift in aggregate demand curve	(1 mark)
+(	Increase in output level	(1 mark)
+
+
+Verbal elaboration:
+When the central bank buys government bonds, money supply increases.	(1 mark)
+This causes a decrease in the interest rate.	(1 mark)
+As a result, private consumption expenditure and gross investment expenditure increase.	(1 mark)
+Aggregate demand increases from AD1 to AD2.	(1 mark)
+Output level increases from Y1 to full employment output level Yf. Unemployment can be relieved.	(1 mark) 
+
+Question code: B6C10Q340 (new)
+An economy faces the problem of unemployment. To tackle the problem, the central bank purchases government bonds from the market.
+(a)	With the aid of a diagram, explain how the above measure can help the economy solve the problem.	(6 marks)
+(b)	Even without the help of the central bank, discuss how market forces can also solve the problem.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Unemployment exists (Y1 < Yf).	(1 mark)
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Output level increases.	(1 mark)
+
+Verbal elaboration:
+When the central bank purchases government bonds, money supply increases. This will lower the interest rate.	(1 mark)
+As a result, gross investment expenditure increases, and so does the aggregate demand.	(1 mark)
+Aggregate output increases to the full employment output level. The unemployment problem is solved.	(1 mark)
+(b)	The economy faces a deflationary gap.	(1 mark)
+	The excess supply of inputs will lower input prices. The short run aggregate supply will increase until the aggregate output reaches the full employment output level in the long run.	(2 marks)
+
+Question code: B6C10Q341 (new)
+Country X is initially at long run equilibrium. Suppose imports of oil are interrupted by heavy snowstorm.
+(a)	With the aid of an AS-AD diagram, explain the short run effects of the snowstorm on Country X's price and output levels.	(4 marks)
+(b)	To relieve the economic shock, Country X's central bank decides to lower the discount rate. With the aid of the same diagram, explain the effects of this monetary measure on Country X's price and output levels.	(6 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	(	Leftward shift in short run aggregate supply curve	(1 mark)
+	(	Increase in price level and decrease in output level in the short run	(1 mark)
+	Verbal elaboration:
+	As the supply of a factor input (i.e., oil) is interrupted, the short run aggregate supply decreases from SRAS1 to SRAS2.	(1 mark)
+	In the short run, the price level increases from P1 to PS2 and the output level decreases from Yf to Y2.	(1 mark)
+(b)	Indicate on the diagram:
+	(	Rightward shift in aggregate demand curve	(1 mark)
+	(	Further increase in price level and increase in output level	(1 mark)
+	Verbal elaboration:
+	As the central bank reduces the discount rate, money supply increases and interest rates decrease.	(1 mark)
+	Therefore, consumption and investment expenditures increase.	(1 mark)
+	Aggregate demand increases from AD1 to AD2.	(1 mark)
+	As a result, the price level further increases to PL2 while the output level is restored to Yf.	(1 mark)
+
+Question code: B6C10Q342 (new)
+Country C is originally at long run equilibrium. Suppose the government excessively invests in infrastructure throughout the country.
+(a)	With the aid of an AS-AD diagram, explain the economic phenomenon caused by excessive government investment in the short run.	(5 marks)
+(b)	Explain ONE possible measure that the central bank can take to solve the problem in (a).	(5 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	(	Rightward shift in aggregate demand curve	(1 mark)
+	(	Increases in output level and price level	(1 mark)
+	Verbal elaboration:
+	Excessive government investment increases aggregate demand from AD1 to AD2.	(1 mark)
+	Both output level and the price level increase.	(1 mark)
+	As the output level is higher than the full employment level (Yf), the economy has overheated.	(1 mark)
+(b)	The central bank may
+	(	sell government bonds on the market.
+	(	increase the required reserve ratio.
+	(	increase the discount rate.
+	(Any ONE of the above, 1 mark)
+	Money supply decreases, resulting in an increase in interest rates.	(1 mark)
+	Therefore, consumption and investment expenditures decrease.	(1 mark)
+	Aggregate demand decreases.	(1 mark)
+	The output level and price level are restored to the original level. The economy stops overheating.	(1 mark)
+
+Question code: B6C10Q343 (new)
+Country U has been accused of excessively printing money.
+(a)	With the aid of an AS-AD diagram, explain the effect of printing money on the price level in the long run.	(6 marks)
+(b)	'An increase in money supply will have no effect on nominal national income.' Using the quantity theory of money, explain whether you agree with this statement.
+	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Vertical LRAS	(1 mark)
+(	Price level increases.	(1 mark)
+
+Verbal elaboration:
+Printing money increases the money supply, resulting in a decrease in the interest rate.	(1 mark)
+Gross investment expenditure and consumption expenditure increase and so does aggregate demand.	(1 mark)
+The price level increases in the long run.	(1 mark)
+(b)	Disagree.	(1 mark)
+	According to the quantity theory of money, MV = PY, where M, V, P, and Y are money stock, velocity of circulation of money, general price level, and real output, respectively. V is assumed to be constant.	(2 marks)
+	An increase in money supply will lead to an increase in nominal national income by the same percentage.	(1 mark)
+
+Question code: B6C10Q344 (new)
+The following table shows a banking system's balance sheet.
+
+Assets ($ million)	Liabilities ($ million)	
+Reserves	200	Deposits	1,000	
+Loans	800			
+
+Suppose the public does not hold cash, and the banking system has no excess reserves.
+(a)	Find the required reserve ratio. Show your calculations.	(2 marks)
+(b)	Suppose $200 million newly printed banknotes are injected into the banking system.
+	(i)	If the banking system lends all of its excess reserves, what is the new money supply? Show your calculations.	(2 marks)
+	(ii)	With the aid of a diagram, explain the long run effect of the change in money supply on output and price levels.	(7 marks)
+
+Answers:
+(a)	Required reserve ratio = $200 million ÷ $1,000 million = 0.2	(2 marks)
+(b)	(i)	New money supply = $(200 + 200) million × (1/0.2) = $2,000 million
+	(2 marks)
+	(ii)	Indicate on the diagram:
+(	Rightward shift in aggregate demand curve	(1 mark)
+(	Vertical LRAS	(1 mark)
+(	Increase in price level	(1 mark)
+
+	Verbal elaboration:
+As money supply increases, interest rates decrease.	(1 mark)
+Therefore, gross investment expenditure increases,	(1 mark)
+and thus aggregate demand increases.	(1 mark)
+In the long run, the change in money supply does not have an impact on the output level. Only the price level increases in the long run.	(1 mark)
+
+Question code: B6C10Q345 (new)
+The following shows a banking system's balance sheet.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	100	Deposits	500	
+Loans	400			
+
+Suppose the public never holds cash and banks never hold excess reserves. The central bank conducts open market sales of bonds worth $20 billion.
+(a)	Calculate the change in monetary base and money supply.	(4 marks)
+(b)	Suppose the economy initially overheats. With the aid of an AS-AD diagram, explain how the above change in money supply can solve the problem.	(7 marks)
+
+Answers:
+(a)	As $20 billion in bonds are sold on the market, the bank's reserves decrease by $20 billion. Hence, the monetary base decreases by $20 billion.	(2 marks)
+	Required reserve ratio = $100 billion ÷ $500 billion = 0.2	(1 mark)
+	Change in money supply = 0 + (-$20 billion ÷ 0.2) = -$100 billion	(1 mark)
+(b)	Indicate on the diagram:
+	(	Initial output level > Long run output level	(1 mark)
+	(	Leftward shift in aggregate demand curve	(1 mark)
+	(	Decrease in output level	(1 mark)
+	
+	Verbal elaboration:
+	The decrease in money supply causes an increase in the interest rate.	(1 mark)
+	As a result, private consumption expenditure and gross investment expenditure decrease.	(1 mark)
+	Aggregate demand decreases from AD1 to AD2.	(1 mark)
+	Hence, output level decreases from Y1 to the full employment output level Yf. The problem of overheating can be solved.	(1 mark)
+
+Question code: B6C10Q346 (new)
+The balance sheet of Country C's banking system is shown as follows:
+
+Assets ($)	Liabilities ($)	
+Reserves	300	Deposits	3,000	
+Loans	2,700			
+
+Suppose the public holds $100 cash, and the banking system has no excess reserves.
+(a)	Calculate the money supply. Show your calculations.	(2 marks)
+(b)	Suppose the public deposits the $100 cash into the banking system, and the banking system lends all of its excess reserves.
+	(i)	Calculate the change in money supply. Show your calculations.	(3 marks)
+	(ii)	Based on the quantity theory of money, predict the effect of the change in money supply in (b)(i) on the price level. State the assumptions needed to reach your conclusion.	(4 marks)
+
+Answer:
+(a)	Money supply = $100 + $3,000 = $3,100	(2 marks)
+(b)	(i)	Money supply = Cash in circulation + Deposits
+		= $0 + ($400 × 1/0.1)
+		= $4,000	(2 marks)
+		Change in money supply = $4,000 - $3,100 = $900	(1 mark)
+	(ii)	According to the quantity theory of money, MV = PY, where M, V, P, and Y are money stock, velocity of circulation of money, general price level, and real output, respectively. V is assumed to be constant.	(2 marks)
+		The increase in M leads to an increase in P in the short run if Y increases by a smaller percentage than M.	(2 marks)
+		OR
+		The increase in M leads to an increase in P by the same percentage when Y remains unchanged.	(2 marks)
+
+Question code: B6C10Q347 (new)
+The following table shows a banking system's balance sheet.
+
+Assets ($)	Liabilities ($)	
+Reserves	1,000	Deposits	20,000	
+Loans	19,000			
+
+Suppose the public does not hold cash and the banking system has no excess reserves.
+(a)	Find the money supply. Show your calculations.	(2 marks)
+(b)	Suppose the central bank lowers the required reserve ratio by 1%.
+	(i)	Find the change in money supply. Show your calculations.	(3 marks)
+	(ii)	Based on the quantity theory of money, predict the long run effect of the change in money supply in (b)(i) on the price level. State the assumptions needed to reach your conclusion.	(4 marks)
+
+Answer:
+(a)	Money supply = $0 + $20,000 = $20,000	(2 marks)
+(b)	(i)	The new required reserve ratio is 4%.	(1 mark)
+		Change in money supply = ($1,000 × 1/0.04) - $20,000 = $5,000	(2 marks)
+	(ii)	According to the quantity theory of money, MV = PY, where M, V, P, and Y are money stock, velocity of circulation of money, general price level, and real output, respectively.	(1 mark)
+		In the long run, both V and Y are assumed to be constant.	(1 mark)
+		The increase in M leads to an increase in P by the same percentage (25%) in the long run.	(2 marks)
+
+Question code: B6C10Q348 (new)
+The following is a banking system's balance sheet.
+
+Assets ($ billion)	Liabilities ($ billion)	
+Reserves	300	Deposits	1,200	
+Loans	900			
+
+Suppose the public never holds cash and banks never hold excess reserves. The central bank lowers the required reserve ratio by 5%.
+(a)	Calculate the percentage change in money supply.	(4 marks)
+(b)	(i)	State the equation of exchange.	(2 marks)
+	(ii)	With reference to your answer in (a), compare the percentage change in the price level in the short run and long run, respectively.	(4 marks)
+
+Answers:
+(a)	Original required reserve ratio 
+= ($300 billion ÷ $1,200 billion) × 100% = 25%	(1 mark)
+	New required reserve ratio = 25% − 5% = 20%	(1 mark)
+	New amount of deposits = $300 billion ÷ 20% = $1,500 billion	(1 mark)
+	Percentage change in money supply 
+	= $(1,500 - 1,200) billion ÷ $1,200 billion × 100% = 25%	(1 mark)
+(b)	(i)	MV ≡ PY, where M = money stock / nominal money supply, 
+V = velocity of circulation of money, 
+P = general price level and 
+Y = real output / real national income.	(2 marks)
+	(ii)	In the short run, only V is a constant. Both P and Y are variables. Therefore, a 25% increase in the money supply may lead to an increase of less than 25% in the price level.	(2 marks)
+		In the long run, both V and Y are constants. Therefore, a 25% increase in the money supply will cause a 25% increase in the price level.	(2 marks)
+
+Question code: B6C10Q349 (new)
+Explain whether a persistent increase in money supply can create long run real output growth, according to the classical quantity theory of money. State the assumption(s) of the theory in order to reach your conclusion.	(5 marks)
+
+Answers:
+No.	(1 mark)
+According to the classical quantity theory of money, an increase in money supply only causes the same proportional increase in the price level without affecting real output in the long run.	(2 marks)
+Assumptions:
+Velocity of circulation of money is constant.	(1 mark)
+Real output is constant in the long run.	(1 mark)
+
+Question code: B6C10Q350 (new)
+In Country Z, the money supply has recently increased by 100%. The president thinks that this can boost production in the economy.
+(a)	State the equation of exchange.	(2 marks)
+(b)	Explain whether the president's goal can be achieved in the short run and the long run, respectively.	(4 marks)
+
+Answers:
+(a)	MV ≡ PY, where M = money stock / nominal money supply, 
+V = velocity of circulation of money, 
+P = general price level and 
+Y = real output / real national income.	(2 marks)
+(b)	In the short run, only V is a constant. Both P and Y are variables. Therefore, an increase in money supply may lead to an increase in production.	(2 marks)
+	In the long run, both V and Y are constants. Therefore, a 100% increase in money supply will only cause a 100% increase in the price level, without affecting production.	(2 marks)
+
+Question code: B6C10Q351 (new)
+The Zimbabwean government issued money without restraint to finance its military expenses from a war in the 2000s. With reference to the quantity theory of money, explain the economic phenomenon that would likely occur in the long run.	(5 marks)
+
+Answers:
+According to the quantity theory of money, the velocity of circulation of money and real output are constant in the long run. Hence, the price level changes positively with money supply in the long run.	(2 marks)
+As money supply was increased without restraint, the price level would increase at an extremely high rate.	(2 marks)
+Hence, hyperinflation (or extreme inflation) occurred.	(1 mark)
+
+
+Structured Questions
+
+Question code: B6C10Q501
+City A was originally in long run equilibrium. Suppose the government begins construction of the new airport.
+(a)	With the aid of an AS-AD diagram, explain the short run and long run effects of the above policy on the price level.	(10 marks)
+(b)	Suggest ONE monetary tool that the central bank can use to offset the change in the price level in the long run. Briefly explain how it works.	(4 marks)
+(c)	After the completion of the project, some economists predict that the economy will slow down. Due to this prediction, some politicians suggest that the central bank should increase the money supply to raise real national income. Explain the effectiveness of this suggestion in both the short run and the long run, according to the predictions of the quantity theory of money.	(5 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Rightward shift in the aggregate demand curve	(1 mark)
+	(	Increase in the price level in the short run	(1 mark)
+	(	Leftward shift in the short run aggregate supply curve	(1 mark)
+	(	Further increase in the price level in the long run	(1 mark)
+	
+	Verbal elaboration:
+	Government investment expenditure increases due to the construction of the new airport.	(1 mark)
+	Hence, aggregate demand increases from AD1 to AD2.	(1 mark)
+	In the short run, the price level increases from P1 to PS2.	(1 mark)
+	As there is an inflationary gap, the excess demand for inputs raises input prices.
+	(1 mark)
+	The short run aggregate supply decreases from SRAS1 to SRAS2.	(1 mark)
+	In the long run, the price level further increases to PL2.	(1 mark)
+
+(b)	The central bank can
+	(	sell government bonds to the market.
+	(	raise the discount rate.
+	(	raise the required reserve ratio.
+	(Any ONE of the above, 1 mark)
+	The money supply will decrease.	(1 mark)
+	Aggregate demand will then decrease.	(1 mark)
+	Hence, the price level can be brought down.	(1 mark)
+
+(c)	The quantity theory of money predicts that a change in nominal money supply will cause the same percentage change in nominal national income.	(1 mark)
+	In the short run, the expansionary monetary policy may be effective. Both the price level and real national income may increase.	(2 marks)
+	In the long run, the policy will not be effective as real national income is fixed at the full employment level. The increase in money supply will only cause the same percentage increase in the price level.	(2 marks)
+
+Question code: B6C10Q502
+To reduce the impact of inflation, the government of Region H has issued inflation-linked bonds (iBonds). Many of the iBonds are sold from the central bank to the public.
+(a)	What are the effects of inflation? State TWO of them.	(2 marks)
+(b)	Suppose there is unexpected inflation after people buy iBonds. Explain whether these bondholders would gain or lose from the unexpected inflation.	(3 marks)
+(c)	With the aid of a diagram, explain the effect of issuing iBonds on the cost of holding money.	(5 marks)
+(d)	What is the effect of issuing iBonds on the price level in the short run? Briefly explain with the aid of a diagram.	(5 marks)
+
+Answers:
+(a)	Effects include:
+	(	Income redistribution
+	(	Increase in the cost of living
+	(	Possible decrease in the standard of living
+	(	Resource reallocation
+	(	Decrease in net exports
+(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+(b)	(	Those bondholders would neither gain nor lose from the unexpected inflation.	(1 mark)
+(	Their interest income from iBonds is indexed to the inflation rate.	(1 mark)
+(	Therefore, the purchasing power of their interest income does not change.
+	(1 mark)
+
+(c)	Indicate on the diagram:
+	(	Leftward shift of money supply curve	(1 mark)
+	(	Increase in nominal interest rate	(1 mark)
+	
+Verbal elaboration:
+(	As the central bank sells iBonds to the public, the money supply decreases.
+	(1 mark)
+(	The nominal interest rate, which is the cost of holding money, increases.
+	(2 marks)
+
+(d)	Indicate on the diagram:
+	(	Aggregate demand curve shifts leftwards.	(1 mark)
+	(	The price level decreases in the short run.	(1 mark)
+
+Verbal elaboration:
+(	Other things being equal, the increase in the nominal interest rate implies an increase in the real interest rate. As a result, aggregate demand decreases.
+	(2 marks)
+(	The price level decreases in the short run.	(1 mark)
+
+
+Question code: B6C10Q503
+Country A's government has distributed $10,000 to each citizen. The policy is financed by printing money.
+(a)	John is a citizen in Country A and has received the $10,000 grant. Given constant market prices, how will this affect John's consumption of luxury goods? Explain with a well-labelled diagram.	(4 marks)
+(b)	Briefly explain how the above policy will affect Country A's output level and price level in the long run with
+(i)	the AS-AD model;	(7 marks)
+(ii)	the quantity theory of money.	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	John's demand for luxury goods increases.	(1 mark)
+	(	John's consumption of luxury goods increases.	(1 mark)
+
+Verbal elaboration:
+(	The increase in John's wealth will lead to an increase in his demand for luxury goods.	(1 mark)
+(	As a result, his consumption increases from Q1 to Q2.	(1 mark)
+
+(b)	(i)	Indicate on the diagram:
+(	Aggregate demand curve shifts rightwards.	(1 mark)
+(	Vertical long run aggregate supply curve	(1 mark)
+(	Output stays at its full employment level and the price level increases.
+	(1 mark)
+
+Verbal elaboration:
+(	When everyone in Country A has more wealth, their private consumption expenditure will increase. Thus, aggregate demand will increase.	(2 marks)
+(	In the long run, the output level will remain unchanged.	(1 mark)
+(	The price level will increase.	(1 mark)
+(ii)	(	The equation of exchange is MV ( PY.	(1 mark)
+(	The quantity theory of money assumes that the velocity of circulation of money (V) is constant.	(1 mark)
+(	The theory also assumes that, in the long run, the output level (Y) remains constant at the full employment level.	(1 mark)
+(	Hence, in the long run, the increase in money supply (M) will bring a proportional change in the price level (P) only.	(1 mark)
+
+Question code: B6C10Q504
+Suppose an economy faces the problem of unemployment caused by a decrease in the short run aggregate supply. The government decides to solve the problem by printing more money. Some free-market economists claim that it is better for the government to do nothing than printing more money.
+(a)	Use an AS-AD diagram to explain how the market achieves long run equilibrium without government intervention. Show the change in the general price level.
+	(5 marks)
+(b)	Use an AS-AD diagram to explain the effect of the above policy on the general price level in the long run.	(7 marks)
+*(c)	Evaluate the claim of free-market economists, based on the stability of the general price level.	(3 marks)
+
+
+Answers:
+(a)	When there is a problem of unemployment, the real GDP will be smaller than the full employment level (or long run equilibrium level) in the short run. A deflationary gap exists.	(1 mark)
+In the long run, excess supply of resources would lower input prices. The short run aggregate supply curve shifts downwards from SRAS1 to SRAS2.	(1 mark)
+The deflationary gap is closed and the general price level decreases from P1 to P2.	(1 mark)
+	(2 marks)
+(b)	The policy will increase the money supply.	(1 mark)
+As the money supply increases, the real interest rate will fall.	(1 mark)
+A fall in the real interest rate increases both private consumption expenditure and gross investment expenditure.	(1 mark)
+The aggregate demand increases and the aggregate demand curve shifts rightwards from AD1 to AD2.	(1 mark)
+The general price level will increase from P1 to P2.	(1 mark)
+	(2 marks)
+(c)	The problem of unemployment is caused by a decrease in short run aggregate supply. Thus, initially, there is an increase in the general price level. If the government increases the money supply, the general price level will increase further.	(1 mark)
+However, if the government does nothing, the economy can adjust itself and achieve long run equilibrium without an increase in the general price level.
+	(1 mark)
+Thus, if the government wants to stabilise the general price level at the same time, it may be better for the government to do nothing rather than printing money.
+	(1 mark)
+
+Question code: B6C10Q505
+Suppose Country A is now facing the problem of unemployment. To deal with the problem, the central bank lowers the discount rate.
+(a)	Explain the effect of the decrease in the discount rate on the money supply.
+	(3 marks)
+(b)	With the aid of a diagram, explain how the policy can solve the unemployment problem.	(6 marks)
+(c)	Some people claim that the policy can be used to boost economic growth in the long run. Explain whether this claim is true in light of the quantity theory of money.	(3 marks)
+(d)	Suggest TWO policies that can stimulate long run economic growth.	(2 marks)
+
+Answers:
+(a)	When the central bank lowers the discount rate, banks' cost of borrowing from the central bank drops.	(1 mark)
+	It is profitable for banks to borrow more from the central bank to make more 
+loans.	(1 mark)
+	Through the money creation process, the money supply increase further.	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Unemployment	(1 mark)
+	(	Rightward shift in the aggregate demand curve	(1 mark)
+	(	Increase in aggregate output	(1 mark)
+	
+	Verbal elaboration:
+	When the money supply increases, both nominal and real interest rates decrease.
+	(1 mark)
+	Both consumption expenditure and gross investment expenditure increase. 
+Hence, aggregate demand increases from AD1 to AD2.	(1 mark)
+	The increase in aggregate demand raises aggregate output back to the full employment level.	(1 mark)
+
+(c)	According to the quantity theory of money, an increase in the money supply cannot raise real national income in the long run. This will only cause inflation in the long run.	(2 marks)
+	Hence, the claim is not true.	(1 mark)
+
+(d)	(	Increasing government expenditure on education
+	(	Increasing government expenditure on medical care
+	(	Increasing government expenditure on infrastructure
+	(Any TWO of the above or other reasonable answers. 1 mark × 2 = 2 marks)
+
+
+Question code: B6C10Q506 (new)
+Venezuela has suffered from severe inflation in recent years.
+(a)	To relieve people's burden, the Venezuelan government imposed price ceilings on daily necessities.
+	Briefly explain whether the price ceilings necessarily benefit consumers in terms of consumer surplus.	(4 marks)
+(b)	Recently, the Venezuelan government opened its border with Colombia. As a result, Venezuelan citizens have rushed to Colombia for daily necessities.
+	(i)	With the aid of a diagram, explain the short run effect of opening the border on Colombia's output and price levels.	(5 marks)
+	(ii)	Explain, with ONE example, what measure the central bank of Colombia can take to reduce the effects that you stated in (b)(i).	(3 marks)
+(c)	Venezuela's money supply has increased by several times in recent years. Based on the quantity theory of money, explain the effect of the increase in money supply on the price level. State the assumptions needed to reach your conclusion.
+	(4 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	Under price ceilings, both the price and quantity transacted decrease.	(1 mark)
+	If the gain in consumer surplus that results from a falling price is smaller than the loss in consumer surplus from a drop in quantity transacted, consumers will enjoy less of a consumer surplus.	(2 marks)
+(b)	(i)	Indicate on the diagram:
+		(	Increase in aggregate demand	(1 mark)
+		(	Increase in output level and price level	(1 mark)
+		
+	Verbal elaboration:
+	As Venezuelans can now buy daily necessities from Colombia, Colombia's net exports increase.	(1 mark)
+	Aggregate demand increases,	(1 mark)
+	leading to an increase in Colombia's output and price levels in the short run.		(1 mark)
+	(ii)	Selling government bonds on the market / Raising the discount rate / Raising the required reserve ratio	(1 mark)
+		The measure can reduce money supply, leading to an increase in the interest rate and a decrease in gross investment expenditure.	(1 mark)
+		Aggregate demand will decrease, resulting in a decrease in output and price levels.	(1 mark)
+(c)	According to the quantity theory of money, MV = PY, where M, V, P, and Y are money stock, velocity of circulation of money, general price level, and real output, respectively. V is assumed to be constant.	(2 marks)
+	The increase in M leads to an increase in P in the short run, if Y increases by a smaller percentage than M.	(2 marks)
+	OR
+	The increase in M leads to an increase in P by the same percentage when Y remains unchanged. 	(2 marks)

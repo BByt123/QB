@@ -1,0 +1,1972 @@
+Chapter 16 	Competition and efficiency
+
+Multiple Choice Questions
+
+Question code: B3C16Q001
+When the marginal benefit of a good is __________ the marginal cost of producing it, the total social surplus will be maximised.
+A.	greater than
+B.	equal to
+C.	smaller than
+D.	None of the above
+
+Answer: B
+
+Question code: B3C16Q002
+* If the marginal benefit of a good is not equal to the marginal cost of producing it, then
+A.	we cannot increase the total social surplus.
+B.	the consumer surplus must not be maximised.
+C.	we can reallocate resources to increase the total social surplus.
+D.	we can increase the consumer surplus by cutting production.
+
+Answer: C
+
+Question code: B3C16Q003
+Which of the following are features of a perfectly competitive market?
+(1)	The marginal cost schedule of a seller is the same as its supply schedule.
+(2)	It achieves efficiency in resource allocation.
+(3)	An individual seller searches for the price that maximises its profit.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Question code: B3C16Q004
+A perfectly competitive market is efficient when
+A.	the marginal cost of producing a good is greater than the marginal benefit from the good.
+B.	the marginal cost of producing a good is equal to the marginal revenue from selling the good.
+C.	the price of a good is equal to the marginal cost of the good to a producer.
+D.	the marginal benefit of a good is equal to the marginal cost of the good.
+
+Answer: D
+
+Question code: B3C16Q005
+In a perfectly competitive market, if the quantity transacted is below the efficient output level,
+A.	the marginal cost is greater than the marginal benefit.
+B.	there are potential gains from increasing the output level.
+C.	the deadweight loss will decrease when the output level decreases.
+D.	an increase in price will improve efficiency.
+
+Answer: B
+Explanation
+Option D is incorrect. If the price is above the equilibrium level, the quantity transacted is also below the efficient output level. In this case, an increase in price will NOT improve efficiency.
+
+Question code: B3C16Q006
+Which of the following statements are correct?
+(1)	When the marginal cost is greater than the marginal benefit, there is overproduction.
+(2)	Potential gains are not being captured when underproduction exists.
+(3)	Total social surplus is maximised when the consumer surplus is equal to the producer surplus.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C16Q007
+* Refer to the following diagram.
+
+Which of the following statements is correct?
+A.	If a quota is set at Q2, the deadweight loss is Area W.
+B.	If the price is set at P1, there is overproduction.
+C.	If the price is set at P2, the marginal cost is smaller than the marginal benefit.
+D.	None of the above
+
+Answer: C
+Explanation
+Option A is incorrect. In this case, a deadweight loss does not exist because the quota is ineffective.
+
+Question code: B3C16Q008
+If the marginal benefit of a good is greater than the marginal cost of producing the good, which of the following are correct?
+(1)	An increase in the output level will not increase the total social surplus.
+(2)	A decrease in the output level will increase the total social surplus.
+(3)	There is underproduction.
+(4)	There is a deadweight loss.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: D
+
+
+Question code: B3C16Q009
+In a perfectly competitive market, when the quantity transacted is higher than the equilibrium output level, which of the following are correct?
+(1)	There is overproduction.
+(2)	Total social surplus cannot be increased by producing more.
+(3)	The marginal benefit of the good is smaller than the marginal cost of the good.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+Answer: D
+
+Question code: B3C16Q010
+* The existence of inefficiency implies that
+A.	there must be underproduction.
+B.	there must be overproduction.
+C.	the sum of the producer surplus and the consumer surplus is maximised.
+D.	there must be a deadweight loss.
+
+Answer: D
+
+Question code: B3C16Q011
+A decrease in output must increase the total social surplus if
+A.	there is a deadweight loss.
+B.	the marginal cost is not equal to the market price.
+C.	the marginal benefit is equal to the market price.
+D.	the marginal cost is greater than the market price.
+
+Answer: D
+
+Question code: B3C16Q012
+* Which of the following imply that resource allocation is efficient?
+(1)	The total social surplus is maximised.
+(2)	Producers produce up to a point where MB = P = MC.
+(3)	Both consumers and producers try to maximise their own interests.
+(4)	The consumer surplus is maximised.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: A
+Explanation
+Option (3) is not the answer. It is the basic assumption of the behaviour of consumers and producers. Even if both consumers and producers try to maximise their own interests, this does not guarantee that the market is efficient. For example, in a monopoly, both consumers and producers will also maximise their gains. However, the market is still inefficient.
+
+Question code: B3C16Q013
+If there is __________, the total social surplus will __________ when the output level __________.
+A.	overproduction … increase … increases
+B.	overproduction … decrease … decreases
+C.	underproduction … decrease … decreases
+D.	None of the above
+
+Answer: C
+
+Question code: B3C16Q014
+The deadweight loss will __________ if the output level __________ in the case of __________.
+A.	increase … increases … underproduction
+B.	decrease … increases … overproduction
+C.	exist … is at its efficient level … a perfectly competitive market
+D.	not exist … is at its efficient level … a perfectly competitive market
+
+Answer: D
+
+Question code: B3C16Q015
+* It is __________ to __________ total social surplus by cutting production when there is overproduction.
+A.	impossible … decrease
+B.	possible … increase
+C.	impossible … increase
+D.	None of the above
+
+Answer: B
+Explanation
+Option A is incorrect. If the decrease in output is large enough so that there is underproduction (instead of overproduction), it is possible that the total social surplus will decrease.
+
+Question code: B3C16Q016
+* It is __________ to __________ total social surplus by __________ production when there is an underproduction.
+A.	possible … decrease … expanding
+B.	impossible … decrease … cutting
+C.	possible … increase … cutting
+D.	impossible … decrease … expanding
+
+Answer: A
+Explanation
+Option D is incorrect. If the increase in output is large enough so that there is an overproduction (instead of an underproduction), it is possible that the total social surplus will decrease.
+
+Question code: B3C16Q017
+Which of the following does NOT result in a deadweight loss?
+A.	An effective lower limit on foreign domestic helpers' wages in Hong Kong
+B.	An effective quota on imported garments which aims at protecting local producers
+C.	A significant increase in the price of tomatoes due to a serious drought (旱災)
+D.	A unit subsidy for influenza vaccines to promote the health of the general public
+
+Answer: C
+
+
+
+Question code: B3C16Q018
+Refer to the following diagram.
+
+Suppose a price ceiling is set at P2. Which of the following statements is correct?
+A.	The shortage is equal to Q2 - Q1.
+B.	There is underproduction.
+C.	If the price ceiling increases to P1, the deadweight loss will be eliminated.
+D.	All of the above
+
+Answer: D
+
+Question code: B3C16Q019
+Which of the following are the effects of imposing an effective price ceiling?
+(1)	A decrease in price
+(2)	An increase in the consumer surplus
+(3)	A decrease in the producer surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B3C16Q020
+If the government lowers the effective price ceiling on a good,
+A.	the deadweight loss will increase.
+B.	the consumer surplus will increase.
+C.	the price ceiling may become ineffective.
+D.	None of the above
+
+Answer: A
+
+Question code: B3C16Q021
+Refer to the following diagram.
+
+Suppose a price ceiling is set at P2. Which of the following statements is correct?
+A.	The consumer surplus is Area VP1W.
+B.	The producer surplus is Area P1ZYW.
+C.	The total social surplus is Area VZYW.
+D.	All of the above
+
+Answer: C
+
+
+Question code: B3C16Q022
+The following diagram shows the demand and supply curves of Good Y in a perfectly competitive market.
+
+Suppose a price ceiling is set at P2. As a result, 
+A.	the deadweight loss is equal to Area CFB.
+B.	the price is G.
+C.	the consumer surplus increases.
+D.	total social surplus remains unchanged.
+
+Answer: A
+
+Question code: B3C16Q023
+Housing is very expensive in Hong Kong. Some people have asked the government to impose a maximum rent. If the rent control is effective,
+A.	more people will be able to rent a flat.
+B.	the consumer surplus may decrease.
+C.	the shortage of rental units will decrease.
+D.	society as a whole gains.
+
+Answer: B
+
+Question code: B3C16Q024
+When the government lowers an effective price ceiling, which of the following is an effect?
+A.	The consumer surplus must increase.
+B.	Consumers' total expenditure may increase.
+C.	Both the consumer surplus and the producer surplus must decrease.
+D.	The deadweight loss must increase.
+
+Answer: D
+
+Question code: B3C16Q025
+The price of rubbers in a perfectly competitive market is $3. What will happen if the government does not allow people to sell rubbers at prices higher than $2?
+(1)	Overproduction results.
+(2)	The producer surplus decreases.
+(3)	Consumers' marginal benefit of consuming the last unit increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B3C16Q026
+* After the imposition of a price ceiling,
+A.	the new quantity transacted must be lower than before.
+B.	the new quantity transacted must be higher than before.
+C.	the new market price must be lower than before.
+D.	the total social surplus may still be maximised.
+
+Answer: D
+Explanation
+Option D is correct. If the price ceiling is ineffective, the total social surplus will still be maximised.
+
+Question code: B3C16Q027
+After the imposition of an effective price ceiling,
+A.	a deadweight loss will exist.
+B.	the consumer surplus must increase.
+C.	the producer surplus may not decrease.
+D.	the sum of the producer surplus and the consumer surplus may not decrease.
+
+Answer: A
+
+
+Question code: B3C16Q028
+Society will benefit from the removal of the price ceiling on a good if
+A.	the quantity transacted is lower after the removal.
+B.	the market price remains unchanged.
+C.	there is no excess supply after the removal.
+D.	the price ceiling is effective before the removal.
+
+Answer: D
+
+Question code: B3C16Q029
+Refer to the diagram below.
+
+Which of the following are correct?
+(1)	The price ceiling is effective.
+(2)	The shaded area is the deadweight loss.
+(3)	X represents excess demand.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B3C16Q030
+Refer to the diagram below.
+
+Which area will be the consumer surplus after the imposition of a price ceiling?
+A.	Area APcEC
+B.	Area CEF
+C.	Area PcBE
+D.	Area ABEC
+
+Answer: A
+
+Question code: B3C16Q031
+Refer to the diagram below.
+
+Which area will be the producer surplus after the imposition of a price ceiling?
+A.	Area APcEC
+B.	Area CEF
+C.	Area PcBE
+D.	Area ABEC
+
+Answer: C
+
+Question code: B3C16Q032
+Refer to the diagram below.
+
+Which area will be the deadweight loss caused by the imposition of a price ceiling?
+A.	Area APcEC
+B.	Area CEF
+C.	Area PcBE
+D.	Area ABEC
+
+Answer: B
+
+Question code: B3C16Q033
+* Refer to the diagram below.
+
+Which area represents the potential gain from the removal of the price ceiling?
+A.	Area APcEC
+B.	Area CEF
+C.	Area PcBE
+D.	Area ABEC
+
+Answer: B
+
+Question code: B3C16Q034
+Which of the following are the effects of lowering the effective price floor on a good?
+(1)	An increase in the consumer surplus
+(2)	An increase in total revenue if the demand is elastic
+(3)	A decrease in the deadweight loss
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C16Q035
+When the government imposes an effective price floor on a good,
+A.	the price of its complement increases.
+B.	the sum of the consumer surplus and the producer surplus decreases.
+C.	the producer surplus must increase.
+D.	None of the above
+
+Answer: B
+
+Question code: B3C16Q036
+Refer to the following diagram.
+
+The market was initially not subject to any intervention. If a price floor is set at P1, which of the following statements is correct?
+A.	The consumer surplus decreases by Area WXE.
+B.	The producer surplus decreases by Area YXE.
+C.	The total social surplus decreases by Area WYE.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C16Q037
+Refer to the following diagram.
+
+Suppose a price floor is set at P0. When demand decreases from D1 to D2,
+A.	the price floor will become ineffective.
+B.	a deadweight loss will emerge.
+C.	the consumer surplus will increase.
+D.	a shortage will emerge.
+
+Answer: B
+
+Question code: B3C16Q038
+Suppose the government imposes an effective price floor on a good. Which of the following is correct?
+A.	The producer surplus increases while the consumer surplus decreases, so the effect on efficiency is uncertain.
+B.	The producer surplus decreases while the consumer surplus increases, so the effect on efficiency is uncertain.
+C.	Efficiency decreases because both sellers and buyers lose.
+D.	A deadweight loss exists because at the new output, marginal cost is lower than marginal benefit.
+
+Answer: D
+
+
+Question code: B3C16Q039
+Study the following diagram about a perfectly competitive market.
+
+Suppose the government imposes a price floor at P0. Which of the following statements is correct?
+A.	The price decreases.
+B.	There is overproduction.
+C.	Total social surplus is maximised.
+D.	The quantity transacted decreases.
+
+Answer: C
+Explanation
+Since the price floor is ineffective, the market achieves efficiency at equilibrium.
+
+Question code: B3C16Q040
+* When there is an excess supply of Good X, this implies that
+A.	the price is lower than the equilibrium level.
+B.	a unit subsidy is provided to producers of Good X.
+C.	the producer surplus is greater than the consumer surplus.
+D.	the marginal benefit is greater than the marginal cost.
+
+Answer: D
+
+Question code: B3C16Q041
+After an imposition of an effective price floor,
+A.	the total social surplus must not be maximised.
+B.	the consumer surplus must increase.
+C.	a deadweight loss may not exist.
+D.	the producer surplus must increase.
+
+Answer: A
+
+Question code: B3C16Q042
+Society will benefit from the removal of a price floor if
+A.	the market price remains unchanged after the removal.
+B.	the quantity transacted is lower after the removal.
+C.	excess supply disappears after the removal.
+D.	the price floor is not effective before the removal.
+
+Answer: C
+
+Question code: B3C16Q043
+Refer to the diagram below.
+
+Which of the following statements are INCORRECT?
+(1)	The price floor is ineffective.
+(2)	Y represents excess supply.
+(3)	The shaded area represents the deadweight loss.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B3C16Q044
+Refer to the diagram below.
+
+Which of the following statements are correct if a price floor is imposed at Pf?
+(1)	The new price is Pf.
+(2)	The shaded area represents the loss in total social surplus due to the price floor.
+(3)	After the introduction of a price floor, the supply of the good decreases by the amount (Q0 - Qf).
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: A
+
+Question code: B3C16Q045
+* If the government abolishes an effective price floor for a good,
+A.	the consumer surplus may increase, decrease or remain unchanged.
+B.	the producer surplus may increase, decrease or remain unchanged.
+C.	the price of the good's substitute will increase.
+D.	None of the above
+
+Answer: B
+
+
+Question code: B3C16Q046
+* Refer to the diagram below.
+
+Which area represents the potential gain from the removal of the price floor?
+A.	Area W
+B.	Area X
+C.	Area Y
+D.	Area Z
+
+Answer: D
+
+Question code: B3C16Q047
+Refer to the diagram below.
+
+Which area represents the consumer surplus after the imposition of a price floor?
+A.	Area W
+B.	Area (X + Y)
+C.	Area (X + Z)
+D.	None of the above
+
+Answer: A
+
+Question code: B3C16Q048
+Refer to the diagram below.
+
+Which of the following is correct?
+A.	Y represents a shortage.
+B.	At the price floor, there is overproduction.
+C.	The deadweight loss can be eliminated by lowering the price floor to Px.
+D.	The deadweight loss will decrease if supply increases.
+
+Answer: C
+
+Question code: B3C16Q049
+* Refer to the diagram below.
+
+When the output level is at Qf, there is a deadweight loss because
+A.	the market price is at Px, which is lower than the equilibrium price.
+B.	Pf > Px, which implies that there is a potential loss from an increase in the output level.
+C.	Pf > Px, which implies that total social surplus can be increased by producing more.
+D.	the market price is at Pf, which implies that producers do not maximise their producer surplus.
+Answer: C
+Explanation
+Pf is the price after the imposition of a price floor, which is also equal to the marginal benefit at Qf. Px is the marginal cost at Qf. Thus, Pf > Px implies that the marginal benefit is greater than the marginal cost at Qf. In other words, the marginal social surplus (= MB - MC) is greater than zero. There is a potential gain from an increase in the output level.
+
+Question code: B3C16Q050
+The government has set an effective quota on a good. Which of the following are the effects of increasing the quota?
+(1)	A decrease in quantity transacted
+(2)	A decrease in price
+(3)	A decrease in deadweight loss
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B3C16Q051
+Refer to the following diagram.
+
+Suppose a quota is set at Q1. Which of the following statements is correct?
+A.	The market price is P2.
+B.	The deadweight loss is Area WXE.
+C.	The total expenditure is Area P0XQ10.
+D.	The producer surplus is Area P1WYZ.
+
+Answer: D
+
+Question code: B3C16Q052
+Refer to the following diagram.
+
+If the government reduces the quota from Q1 to Q2,
+A.	the total expenditure will increase.
+B.	the price will decrease.
+C.	the total social surplus will decrease.
+D.	the quantity transacted will decrease from Q1 to Q2.
+
+Answer: C
+
+Question code: B3C16Q053
+The following diagram shows the demand and supply curves of a good in a perfectly competitive market.
+
+Suppose a quota is set at QC. As a result,
+A.	the price is PC.
+B.	marginal benefit is equal to marginal cost.
+C.	the producer surplus is equal to Area PXCEPC.
+D.	the consumer surplus is equal to Area APXC.
+
+Answer: D
+
+Question code: B3C16Q054
+Which of the following government interventions will lead to underproduction if it is effective?
+(1)	Price ceiling
+(2)	Quota
+(3)	Price floor
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C16Q055
+Refer to the diagram below.
+
+When the output level is at Qq, there is a deadweight loss because
+A.	P0 > Px, which implies that there is a potential gain from a decrease in the output level.
+B.	Pq > Px, which implies that there is a potential loss from an increase in the output level.
+C.	Pq > P0, which implies that there is a potential gain from an increase in the market price.
+D.	Pq > Px, which implies that there is a potential gain from an increase in the quantity transacted.
+
+Answer: D
+
+Question code: B3C16Q056
+If the government imposes an effective quota on imported beef,
+A.	local beef producers will gain.
+B.	beef importers may gain.
+C.	the quality of imported beef will improve.
+D.	All of the above
+
+Answer: D
+
+Question code: B3C16Q057
+* After the government increases an effective quota,
+A.	underproduction becomes more severe.
+B.	total social surplus may decrease.
+C.	the consumer surplus increases.
+D.	the quantity transacted decreases.
+
+Answer: C
+
+Question code: B3C16Q058
+Society will gain from an increase in the quota of a good because
+A.	the marginal benefit will increase.
+B.	the price of the good will increase.
+C.	the deadweight loss will decrease.
+D.	the consumer surplus will increase.
+
+Answer: C
+
+
+Question code: B3C16Q059
+Refer to the following diagram about a market with a quota.
+
+Which of the following statements about the quota are correct?
+(1)	The market price will be either Pq or Px, depending on whether producers need to pay for the quota.
+(2)	The shaded area represents the deadweight loss.
+(3)	The government has imposed an effective quota to increase the output level from Q0 to Qq.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B3C16Q060
+Suppose the government imposes a unit tax on sugary drinks. Which of the following statements is true?
+A.	Consumers' tax burden must be larger than the producers' tax burden.
+B.	The government's tax revenue from sugary drinks is smaller than the decreases in the consumer surplus and the producer surplus.
+C.	The deadweight loss is equal to the government's tax revenue.
+D.	All of the above
+
+Answer: B
+
+
+Question code: B3C16Q061
+Which of the following are the effects of abolishing a unit tax on a good?
+(1)	Increase in quantity transacted
+(2)	Increase in producers' total revenue (excluding tax)
+(3)	Increase in total social surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C16Q062
+Refer to the following diagram about a market with a unit tax.
+
+Which of the following statements is correct?
+A.	The price received by producers net of tax is P0.
+B.	The consumer surplus decreases by Area P1VXP0 after tax.
+C.	Area P1VWP0 is producers' tax burden.
+D.	Area WXY is the deadweight loss after tax.
+
+Answer: B
+
+
+Question code: B3C16Q063
+* Refer to the following diagram about a market with a unit tax.
+
+Which of the following statements is correct?
+(1)	The ratio of the consumers' tax burden to the producers' tax burden is equal to 
+(P1 - P0) : (P0 - P2).
+(2)	The decrease in producer surplus is Area P0XYP2.
+(3)	The government's tax revenue is equal to (P1 - P2) × Q1.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C16Q064
+When the government imposes a unit tax on a good,
+A.	consumers' total expenditure increases.
+B.	consumer surplus decreases while producer surplus increases.
+C.	total social surplus decreases.
+D.	producer surplus may increase or decrease, depending on the elasticity of demand.
+
+Answer: C
+
+
+Question code: B3C16Q065
+Study the following diagram about a perfectly competitive market.
+
+Which of the following is correct if a unit tax is imposed?
+A.	Producers' total revenue (excluding tax) may increase.
+B.	The producer surplus increases.
+C.	The deadweight loss is equal to Area PxCEH.
+D.	There is underproduction.
+
+Answer: D
+
+Question code: B3C16Q066
+An increase in the unit tax on private cars will result in an increase in
+A.	government tax revenue.
+B.	the producer surplus.
+C.	consumers' total expenditure on private cars.
+D.	total revenue of public transport service providers.
+
+Answer: D
+
+
+Question code: B3C16Q067
+* Refer to the following table about a perfectly competitive market. Suppose there is no fixed cost.
+
+Quantity (units)	Total benefit ($)	Total cost ($)	
+1	5	1	
+2	9	3	
+3	12	6	
+4	14	10	
+5	15	15	
+
+Which of the following government interventions can make the price $4?
+(1)	A unit tax
+(2)	A price ceiling
+(3)	A quota
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+Explanation
+The following table shows the marginal benefits and marginal costs:
+Quantity (units)	Marginal benefit ($)	Marginal cost ($)	
+1	5	1	
+2	4	2	
+3	3	3	
+4	2	4	
+5	1	5	
+The equilibrium price is $3. Option (2) is incorrect because a price ceiling cannot make the price higher than the equilibrium level.
+
+Question code: B3C16Q068
+Total social surplus under a unit tax includes
+A.	the consumer surplus only.
+B.	the consumer surplus and producer surplus only.
+C.	the tax revenue and producer surplus only.
+D.	the tax revenue, consumer surplus and producer surplus.
+
+Answer: D
+
+Question code: B3C16Q069
+An imposition of a unit tax on a good will
+A.	shift the marginal cost curve downwards.
+B.	shift the marginal benefit curve upwards.
+C.	increase the price paid by consumers.
+D.	increase the quantity transacted.
+
+Answer: C
+
+Question code: B3C16Q070
+Refer to the following diagram about a market with a unit tax.
+
+Which of the following statements about the unit tax are INCORRECT?
+(1)	The shaded area represents the deadweight loss.
+(2)	Area PtECB represents the new producer surplus after the imposition of the tax.
+(3)	The new total social surplus includes Area APtB and Area PxEC only.
+A.	(2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: C
+
+
+Question code: B3C16Q071
+Refer to the following diagram about a market with a unit tax.
+
+Which of the following statements about the unit tax are INCORRECT?
+(1)	Area AP0GB represents the new consumer surplus after the imposition of the tax.
+(2)	Px is the new price paid by consumers.
+(3)	Area PtPxFB represents the government's tax revenue.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All the statements are correct.
+
+Answer: A
+
+Question code: B3C16Q072
+* After the imposition of a unit tax, the total social surplus includes the government's tax revenue because
+A.	the tax revenue is used to help the poor.
+B.	the tax revenue is a public fund.
+C.	the tax revenue is a part of the consumer surplus and/or producer surplus transferred to the government.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B3C16Q073
+Suppose the government provides a unit subsidy for the production of a good. Which of the following statements is correct?
+A.	Consumers must spend less after the subsidy is provided.
+B.	The subsidy granted by the government is more than the sum of the consumers' share and the producers' share of the subsidy.
+C.	The subsidy granted by the government is more than the sum of the increases in the producer surplus and the consumer surplus.
+D.	None of the above
+
+Answer: C
+
+Question code: B3C16Q074
+Which of the following are NOT the common effects of a unit subsidy and an effective price ceiling?
+(1)	Overproduction
+(2)	Deadweight loss
+(3)	Decreases in the sum of the consumer surplus and the producer surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+Explanation
+Option (1): An effective price ceiling causes underproduction while a unit subsidy causes overproduction.
+Option (3): A unit subsidy increases both the consumer surplus and the producer surplus. However, the sum of the increases is less than the amount of the subsidy granted by the government.
+
+
+Question code: B3C16Q075
+Refer to the following diagram about a market with a unit subsidy.
+
+Which of the following statements is correct?
+(1)	P1 is the price that producers actually receive after the subsidy.
+(2)	Area P0WYP2 is the consumers' share of the subsidy.
+(3)	Area VEY is society's loss due to the subsidy.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B3C16Q076
+A reduction in the unit subsidy for a good will result in 
+A.	an increase in the consumer surplus.
+B.	a decrease in the deadweight loss.
+C.	an increase in the producer surplus.
+D.	a decrease in the total social surplus.
+
+Answer: B
+
+Question code: B3C16Q077
+Suppose the Japanese government provides a unit subsidy to local electronic products. Which of the following statements about Japan is true?
+A.	Consumers' total expenditure on local electronic products increases.
+B.	The total social surplus of local electronic products increases.
+C.	The producer surplus of electronic product importers decreases.
+D.	All of the above
+
+Answer: C
+
+Question code: B3C16Q078
+Suppose the market for milk is perfectly competitive. When the government gives $100 to milk producers for every litre of milk produced, ___________ will increase.
+(1)	the consumer surplus
+(2)	the producers surplus
+(3)	the total social surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C16Q079
+In a perfectly competitive market, which of the following will lead to a decrease in the producer surplus?
+(1)	A unit tax
+(2)	An effective price ceiling
+(3)	A unit subsidy
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C16Q080
+Which of the following government interventions will lead to overproduction if it is effective?
+A.	Price floor
+B.	Unit subsidy
+C.	Price ceiling
+D.	Quota
+
+Answer: B
+
+Question code: B3C16Q081
+Refer to the following diagram about a market with a unit subsidy.
+
+Which of the following statements about the unit subsidy are INCORRECT?
+(1)	The quantity transacted should be Q1 when the market is efficient.
+(2)	The shaded area represents the deadweight loss caused by the subsidy.
+(3)	P1 represents the price paid by consumers.
+A	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C16Q082
+* Refer to the following diagram about a market with a unit subsidy.
+
+Which of the following statements about the unit subsidy are correct?
+(1)	Area BCIE represents the net increase in the total social surplus.
+(2)	P1 is the new price (including subsidy) received by producers after the provision of the subsidy.
+(3)	The total social surplus after the provision of the subsidy is equal to Triangle AEB minus Triangle EHI.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: C
+Explanation
+Option (3) is correct. From the viewpoint of producers, the subsidy can reduce their cost of production by Area BCIH. However, from the viewpoint of society, the subsidy is just a transfer as Area BCIH (which is equal to the government's subsidy) is the production cost borne by the government. Thus, the new TSS is equal to 
+Area AIC - Area BHIC = Area AEB - Area EHI.
+
+Question code: B3C16Q083 (new)
+Refer to the following supply and demand schedules of Good X.
+Price ($)	Quantity demanded (units)	Quantity supplied (units)	
+5	26	5	
+6	24	10	
+7	22	15	
+8	20	20	
+9	18	25	
+10	16	30	
+Suppose the government lowers the price ceiling of Good X from $9 to $6. Which of the following is true?
+A.	The price ceiling becomes ineffective.
+B.	The original excess supply is eliminated.
+C.	The quality of Good X improves.
+D.	Total social surplus decreases.
+
+Answer: D
+
+Question code: B3C16Q084 (new)
+Study the following diagram of the market for a good. The government has imposed a price floor at P1.
+
+Suppose the government changes the price floor to a price ceiling at P2. Which of the following is correct?
+A.	The price will remain unchanged.
+B.	The producer surplus will increase.
+C.	The market will be efficient.
+D.	Total social surplus will remain unchanged.
+
+Answer: D
+
+Question code: B3C16Q085 (new)
+Suppose the Venezuelan government increases the effective price ceiling on milk. Which of the following will increase?
+(1)	Producer surplus
+(2)	Consumer surplus
+(3)	Total social surplus
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B3C16Q086 (new)
+Refer to the following diagram for accident & emergency (A&E) services in Hong Kong's public hospitals.
+
+The Hospital Authority is considering raising its A & E charges to reduce the abuse of services. As a result,
+A.	the cost of obtaining A & E services in public hospitals will increase.
+B.	total social surplus will increase.
+C.	consumer surplus will decrease.
+D.	there will be an excess supply of A & E services.
+
+Answer: C
+
+Question code: B3C16Q087 (new)
+Study the following diagram.
+
+Suppose the government lowers the price floor from P1 to P2. Which of the following is INCORRECT?
+A.	Excess supply will decrease.
+B.	Quantity transacted will increase.
+C.	Consumer surplus will decrease.
+D.	Efficiency will improve.
+
+Answer: C
+
+Question code: B3C16Q088 (new)
+Suppose the government imposes an effective price floor on petrol-powered cars. Which of the following illustrates the effect of the above policy?
+A.	The price of petrol increases.
+B.	The consumer surplus in the petrol market increases.
+C.	The total social surplus in the electric car market increases.
+D.	The deadweight loss in the electric car market decreases.
+
+Answer: C
+
+Question code: B3C16Q089 (new)
+Suppose the government lowers an effective price floor. Which of the following is true?
+A.	Total social surplus will decrease.
+B.	Sellers' total revenue will increase if the demand is elastic.
+C.	There will be excess demand.
+D.	Consumer surplus will decrease.
+
+Answer: B
+
+Question code: B3C16Q090 (new)
+Suppose the government reduces the effective quota on a good. Which of the following must be correct?
+(1)	Producer surplus decreases.
+(2)	Consumer surplus decreases.
+(3)	Deadweight loss increases.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B3C16Q091 (new)
+Study the following diagram.
+
+If the government changes the quota from Q1 to Q2,
+A.	the price will increase.
+B.	there will be overproduction.
+C.	the deadweight loss will decrease.
+D.	the problem of a shortage will be lessened.
+
+Answer: C
+
+Question code: B3C16Q092 (new)
+Which of the following market interventions MUST decrease the producer surplus?
+(1)	Effective price ceiling
+(2)	Effective price floor
+(3)	Effective quota
+(4)	Unit tax
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B3C16Q093 (new)
+Nicotine gum (戒煙香口膠) is commonly used to help people quit smoking. Suppose the government raises the per-unit sales tax on cigarettes. This will raise
+A.	the consumer surplus in the cigarette market.
+B.	the producer surplus in the cigarette market.
+C.	the deadweight loss in the nicotine gum market.
+D.	the producer surplus in the nicotine gum market.
+
+Answer: D
+
+Question code: B3C16Q094 (new)
+Suppose the government provides a per-unit subsidy on every tourist transport pass sold in the market. This will raise
+(1)	the sum of the consumer surplus and the producer surplus.
+(2)	the deadweight loss.
+(3)	total sales revenue (excluding subsidy).
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B3C16Q095 (new)
+* The following diagram shows the imposition of a per-unit tax on Good X. ST is the supply curve after tax.
+
+Suppose the government changes the tax to $2/unit. Which of the following is correct?
+A.	Total social surplus may increase or decrease.
+B.	Tax revenue decreases.
+C.	Consumer surplus increases.
+D.	A deadweight loss from overproduction exists.
+
+Answer: C
+Explanation
+As the per-unit tax (t) decreases,
+(	S (
+(	P ( and Q (
+(	Tax revenue (= t ( × Q () may ( or (
+(	Consumer surplus (
+(	Deadweight loss ( / Total social surplus (
+
+Question code: B3C16Q096 (new)
+* Study the following diagram. S0 and S1 are the supply curves of a good before and after the government provides a unit subsidy on the good, respectively.
+
+Which of the following is correct?
+(1)	Area X is equal to the increase in consumer surplus.
+(2)	Area (Y + Z) is equal to the increase in producer surplus.
+(3)	Total social surplus must decrease.
+(4)	Area (V + W +Y) is equal to the total subsidy provided by the government.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+
+Short Questions
+
+Question code: B3C16Q301
+(a)	What is the condition for efficiency in resource allocation?	(2 marks)
+(b)	Explain how consumers and producers interact in a perfectly competitive market to achieve efficiency in resource allocation	(4 marks)
+
+Answers:
+(a)	Efficiency in resource allocation is attained when the total social surplus is maximised.	(1 mark)
+	The total social surplus is maximised when MB = MC.	(1 mark)
+(b)	In a perfectly competitive market, the total social surplus is equal to the sum of the consumer surplus and the producer surplus.	(1 mark)
+	To maximise their gains, consumers keep buying until P = MB and producers keep selling until P = MC.	(2 marks)
+	In equilibrium, the condition MB = MC is satisfied and efficiency in resource allocation is attained.	(1 mark)
+
+
+Question code: B3C16Q302
+The following diagram shows the market of Good Q. The government has set a price floor at P1.
+
+Suppose the government changes the price floor to a price ceiling (while the level remains at P1). Explain the effect on economic efficiency, with the aid of the above diagram.		(6 marks)
+
+Answers:
+Indicate on the diagram:
+(	Initial price and quantity transacted	(1 mark)
+(	Price and quantity transacted under the price ceiling	(1 mark)
+(	Deadweight loss	(1 mark)
+
+Verbal elaboration:
+The ineffective price floor becomes an effective price ceiling.	(1 mark)
+At the new quantity transacted (Q1), the marginal benefit is larger than the marginal cost.		(1 mark)
+Hence, a deadweight loss emerges.	(1 mark)
+
+Question code: B3C16Q303
+*'The imposition of an effective price ceiling lowers the price. It benefits consumers but hurts producers. On the whole, we are uncertain whether it is beneficial or detrimental to an economy.' 
+Is the statement true or false? Explain with the aid of a diagram.	(8 marks)
+
+Answers: 
+Indicate on the diagram:
+(	A price ceiling which is below the equilibrium price	(1 mark)
+(	A decrease in quantity transacted	(1 mark)
+
+Verbal elaboration:
+(	The statement is false.	(1 mark)
+(	The producer surplus decreases from Area P1C0 to Area P2F0. It is true that a price ceiling hurts producers.	(1 mark)
+(	However, the consumer surplus changes from Area ACP1 to Area ABFP2. Whether the area increases or decreases depends on the size of Area BEC and Area P1EFP2.	(2 marks)
+(	Moreover, the price ceiling results in a deadweight loss (Area BCF). Hence, it is detrimental to the economy.	(2 marks)
+
+Question code: B3C16Q304
+With the aid of a diagram, explain the effects of abolishing an effective minimum wage on the employment level and economic efficiency.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+(	Increase in number of employed workers	(1 mark)
+(	Increase in total social surplus	(1 mark)
+
+Verbal elaboration:
+When the effective minimum wage is abolished, the number of workers employed increases from Q0 to Q1.	(1 mark)
+As the labour market is now efficient, the deadweight loss is eliminated. / Total social surplus increases by the shaded area.	(1 mark)
+
+Question code: B3C16Q305
+The government imposes an effective price floor on Good X in a perfectly competitive market. Is this policy beneficial to society as a whole? Explain with the help of a diagram.	(5 marks)
+
+
+Answers:
+Indicate on the diagram:
+(	Quantity transacted decreases (to Q2)	(1 mark)
+(	Deadweight loss (Area BCF)	(1 mark)
+
+Verbal elaboration:
+(	No.	(1 mark)
+(	When the price is set above the equilibrium level, the quantity transacted will decrease.	(1 mark)
+(	There is a deadweight loss (Area BCF) (i.e., the total social surplus decreases).
+			(1 mark)
+
+Question code: B3C16Q306
+(a)	Define excess supply.	(2 marks)
+(b)	What is underproduction?	(2 marks)
+*(c)	'Since an effective price floor will result in excess supply, it is impossible for underproduction to occur at the same time.' With the aid of a diagram, explain why this statement is INCORRECT.	(5 marks)
+
+Answers: 
+(a)	Excess supply is a situation in which the quantity supplied is greater than the quantity demanded when the price is set above the equilibrium price.	(2 marks)
+(b)	Underproduction means the current output is smaller than the efficient level or that the marginal benefit is greater than the marginal cost at the current output.	
+		(2 marks)
+(c)	Indicate on the diagram:
+(	Output decreases (to Q2) under the price floor.	(1 mark)
+(	Excess supply and underproduction occur at the same time.	(1 mark)
+
+	Verbal elaboration:
+(	An effective price floor will lead to a decrease in output (from Q1 to Q2).
+	(1 mark)
+(	There is underproduction as the quantity transacted (Q2) is lower than the efficient level (Q1).	(1 mark)
+(	Since the price is higher than the equilibrium level, excess supply occurs.
+	(1 mark)
+
+Question code: B3C16Q307
+Island Alpha's government announces that the minimum wage of foreign domestic helpers will increase from $3,500 to $3,600 per month. Suppose all the helpers had the same marginal cost at $3,200. Will the helpers gain from the increase in the minimum wage in terms of the following? Explain your answers with ONE diagram only.
+(a)	The surplus earned by all the helpers (Hint: you can apply the concept of producer surplus.)	(3 marks)
+(b)	The number of helpers employed 	(2 marks)
+(c)	The surplus that each of the employed helpers earned 	(2 marks)
+	
+
+Answers:
+		(3 marks)
+(a)	Uncertain. The surplus will change from Area HIFB to Area GIEA. The change in the surplus is uncertain. It depends on the relative size of Area GHCA and 
+Area CEFB.	(2 marks)
+(b)	Loss. The number of foreign domestic helpers employed will decrease from Q1 to Q2 as the minimum wage increases.	(1 mark)
+(c)	Gain. The surplus that each of the employed helpers earned will increase from $300 ($3,500 - $3,200) to $400 ($3,600 - $3,200).	(1 mark)
+
+Question code: B3C16Q308
+With the aid of a diagram, explain the effect of reducing an effective quota on economic efficiency.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+(	Decrease in quantity transacted	(1 mark)
+(	Increase in deadweight loss	(1 mark)
+
+Verbal elaboration:
+When the effective quota decreases, quantity transacted decreases.	(1 mark)
+Hence, the deadweight loss increases by the shaded area.	(1 mark)
+
+Question code: B3C16Q309
+Suppose the government increases the unit tax on cigarettes.
+(a)	Explain the effect on economic efficiency, with the aid of a diagram.	(4 marks)
+(b)	Tom said, 'As the unit tax increases, the cigarette tax revenue must increase.' 
+Do you agree with him? Explain briefly.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Upward shift in supply curve	(1 mark)
+	(	Increase in deadweight loss	(1 mark)
+	
+	Verbal elaboration:
+	When the government increases the unit tax, the quantity transacted will decrease.
+				(1 mark)
+	The deadweight loss will increase by the shaded area.	(1 mark)
+(b)	No.			(1 mark)
+	Although the unit tax increases, the quantity of cigarettes sold decreases. Therefore, the change in the cigarette tax revenue is uncertain.	(2 marks)
+
+
+Question code: B3C16Q310
+Refer to the following table about a perfectly competitive market.
+
+Quantity (units)	Marginal benefit ($)	Marginal cost ($)	
+1	8	2	
+2	7	3	
+3	6	4	
+4	5	5	
+5	4	6	
+
+Suppose a unit tax of $2 is imposed.
+(a)	What will the quantity transacted and the price be after the tax is imposed?	
+		(4 marks)
+(b)	How will the tax affect the consumer surplus?	(4 marks)
+
+Answers:
+(a)	The following table shows the marginal costs after tax:
+Quantity (units)	Marginal cost after tax ($)	
+1	4	
+2	5	
+3	6	
+4	7	
+5	8	
+		(2 marks)
+	The quantity transacted will be 3 units (where MB = MC = $6).	(1 mark)
+	The price will be $6.	(1 mark)
+(b)	The original quantity transacted and price are 4 units and $5, respectively.
+		(1 mark)
+	The original consumer surplus = $(8 + 7 + 6 + 5) - ($5 × 4) = $6	(1 mark)
+	The new consumer surplus = $(8 + 7 + 6) - ($6 × 3) = $3	(1 mark)
+	The consumer surplus decreases by $3 (= $6 - $3).	(1 mark)
+
+Question code: B3C16Q311
+In Country A, the government decides to remove the environmental levy of $500 per unit of cars imported. Country A does not produce cars.
+Suppose the supply of imported cars is perfectly elastic. What will the effects of the removal of the environmental levy be on the following items? 
+(a)	The price of imported cars	(2 marks)
+(b)	The number of cars imported	(1 mark)
+*(c)	The consumer surplus and the producer surplus	(2 marks)
+
+Answers:
+(a)	As the supply of imported cars is perfectly elastic, the entire levy will be borne by consumers. Thus, the removal of the levy will decrease the price of imported cars by the amount of the levy (i.e., $500).	(2 marks)
+(b)	The number of cars imported will increase as the price has decreased.	(1 mark)
+(c)	The consumer surplus will increase as consumers can buy more cars at a lower price. The producer surplus will remain at zero as the marginal cost curve is horizontal.	(2 marks)
+
+Question code: B3C16Q312
+* A government initially provided a unit subsidy to Good Y. Now, the government decides to set a price ceiling for Good Y at the market price under the subsidy and to abolish the subsidy. With the aid of a diagram, explain the changes in the consumer surplus and the producer surplus.	(7 marks)
+
+Answers:
+Indicate on the diagram:
+(	Upward shift in supply curve	(1 mark)
+(	Decreases in the consumer surplus and the producer surplus	(2 marks)
+
+Verbal elaboration:
+As the government abolishes the unit subsidy, the supply of Good Y decreases from S to S'.			(1 mark)
+The quantity transacted decreases from Q1 to Q2.	(1 mark)
+Both the consumer surplus and the producer surplus decrease.	(2 marks)
+
+
+Question code: B3C16Q313
+(a)	Define deadweight loss.	(2 marks)
+(b)	A government provides a unit subsidy for the provision of ferry services. Use a diagram to show the deadweight loss.	(2 marks)
+
+Answers:
+(a)	Deadweight loss is the loss in total social surplus, or the potential gain not being captured, when the marginal benefit is not equal to the marginal cost.	(2 marks)
+(b)	Indicate on the diagram:
+(	Supply curve shifts downwards	(1 mark)
+(	Deadweight loss (= Area BCE)	(1 mark)
+
+
+Question code: B3C16Q314
+Mary: 'If the government provides a unit subsidy, the sum of the consumer surplus and the producer surplus will increase.'
+Peter: 'If this is the case, then a subsidy must benefit society as a whole.'
+(a)	Do you agree with Mary? Explain with the aid of a diagram.	(4 marks)
+(b)	Do you agree with Peter? Use the diagram in (a) to explain.	(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+(	Supply curve shifts downwards.	(1 mark)
+(	Increase in the sum of the consumer surplus and the producer surplus 
+(Area P2BEG)	(1 mark)
+	
+Verbal elaboration:
+(	Yes.	(1 mark)
+(	The sum of the consumer surplus and the producer surplus will increase from ABP2 to AEG.	(1 mark)
+(b)	No.	(1 mark)
+	The total government subsidy equals Area P2CEG, which is greater than the increase in the sum of the consumer surplus and the producer surplus 
+(Area P2BEG). Therefore, there is a deadweight loss in Area BCE.	(2 marks)
+
+Question code: B3C16Q315
+Suppose you are the Chief Executive of Country A and would like to increase the total social surplus in a perfectly competitive market. Would you agree to the following suggestions? Why?
+(a)	Setting a minimum price control	(2 marks)
+(b)	Setting a quota	(2 marks)
+(c)	Providing a unit subsidy	(2 marks)
+
+Answers:
+(a)	No. An effective minimum price control will lead to underproduction and a deadweight loss. Thus, this policy will decrease the total social surplus.	(2 marks)
+(b)	No. An effective quota will lead to underproduction and a deadweight loss. Thus, this policy will decrease the total social surplus.	(2 marks)
+(c)	No. The provision of a unit subsidy will lead to overproduction and a deadweight loss. Thus, this policy will decrease the total social surplus.	(2 marks)
+(Accept any other reasonable answers)
+
+
+Question code: B3C16Q316
+Suppose you are the Chief Executive of Country A and your target is to increase the total social surplus in a perfectly competitive market. Would you agree to the following suggestions? Why?
+(a)	Lower the level of an effective maximum price control (which is still effective after the change) 	(2 marks)
+(b)	Removal of an effective quota	(2 marks)
+(c)	Increase a unit subsidy	(2 marks)
+(d)	Removal of a unit tax	(2 marks)
+
+Answers: 
+(a)	No. As the maximum price set by the government decreases, the problem of underproduction will worsen. The quantity transacted will be lower and the deadweight loss will increase. Thus, the total social surplus will decrease.
+		(2 marks)
+(b)	Yes. After the removal of the effective quota, the output level will increase to its efficient level and the market price will decrease. The total social surplus will increase. 	(2 marks)
+(c)	No. An increase in the unit subsidy will increase the deadweight loss. The total social surplus will decrease.	(2 marks)
+(d)	Yes. After the removal of the unit tax, the output level will increase to its efficient level and the market price will decrease. The total social surplus will increase.
+	(2 marks)
+(Accept any other reasonable answers.)
+
+Question code: B3C16Q317 (new)
+To promote music, governments occasionally sell music festival tickets to the public at affordable prices. This attracts many people to queue for tickets, which can then be resold for more than the official price.
+
+With the aid of the above diagram, explain how governments should adjust ticket prices to improve efficiency.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+•	Official ticket price (P0), which is below market equilibrium (P1)	(1 mark)
+•	Decrease in deadweight loss / Increase in total social surplus after price increase (shaded area)	(1 mark)
+
+Verbal elaboration:
+As governments fix the price below the market equilibrium, the marginal benefit is higher than the marginal cost at the quantity transacted.	(1 mark)
+There is a deadweight loss from underproduction.	(1 mark)
+The deadweight loss can be reduced / Total social surplus can be raised by increasing ticket prices.	(1 mark)
+
+Question code: B3C16Q318 (new)
+Wheat is the staple food in Country N. Some people have complained that the wheat price is too high. Therefore, the government has imposed an effective price ceiling on wheat.
+
+(a)	On the above diagram, indicate the price and quantity transacted of wheat under the price ceiling as Pc and Qc, respectively.	(3 marks)
+(b)	Suppose the wheat harvest is poor. With the aid of the above diagram, explain how the price, quantity transacted and consumer surplus will be affected.	(7 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Effective price ceiling	(1 mark)
+	•	Price (Pc)	(1 mark)
+	•	Quantity transacted (Qc)	(1 mark)
+(b)	Indicate on the diagram:
+	•	Leftward shift in supply curve	(1 mark)
+	•	No change in price and decrease in quantity transacted	(1 mark)
+	•	Decrease in consumer surplus	(1 mark)
+	Verbal elaboration:
+	Due to a poor harvest, the supply of wheat decreases from S to S'.	(1 mark)
+	The price remains unchanged at Pc due to the price ceiling.	(1 mark)
+	The quantity transacted deceases from Qc to Q1.	(1 mark)
+	The consumer surplus decreases by the shaded area.	(1 mark)
+
+
+Question code: B3C16Q319 (new)
+The following diagram shows the demand for and supply of Good X, which is an inferior good in Country A.
+
+Suppose Country A's consumer income has decreased recently.
+(a)	With the aid of the above diagram, explain the change in price and quantity transacted of Good X.	(4 marks)
+(b)	To maintain price stability, the government fixes the price of Good X at P0. Using the same diagram in (a), indicate the deadweight loss that results from the price control.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Increase in demand	(1 mark)
+•	Increase in price and quantity transacted	(1 mark)
+	
+Verbal elaboration:
+As Good X is an inferior good, a decrease in consumer income raises its demand. Both the price and quantity transacted increase.	(2 marks)
+
+(b)	Indicate on the diagram:
+•	Effective price ceiling at P0	(1 mark)
+•	Deadweight loss (shaded area)	(1 mark)
+	
+
+Question code: B3C16Q320 (new)
+The following diagram shows the market for etextbooks. The government initially imposed a price ceiling at P1.
+
+Suppose the government raises the price ceiling to P2. With the aid of the above diagram, explain the effect of the change on economic efficiency.	(6 marks)
+
+Answers:
+Indicate on the diagram:
+•	Increase in price	(1 mark)
+•	Increase in quantity transacted	(1 mark)
+•	Decrease in deadweight loss	(1 mark)
+
+Verbal elaboration:
+The effective price ceiling (P1) becomes ineffective (P2).	(1 mark)
+The quantity transacted increases from Q1 to the efficient level (Q2) where marginal benefit is equal to marginal cost.	(1 mark)
+Therefore, deadweight loss no longer exists and economic efficiency improves.
+	(1 mark)
+
+Question code: B3C16Q321 (new)
+The government has provided leisure facilities like basketball and badminton courts for the public at a low booking charge, but many people have complained that they were unable to book the facilities.
+Suppose the government raises the charge from P1 to P2.
+(a)	Indicate the change in consumer surplus and producer surplus on the diagram below.	(2 marks)
+	
+
+(b)	Explain whether total social surplus will increase and the problem of a shortage will lessen.	(2 marks)
+
+
+Answers:
+(a)	Indicate on the diagram:
+•	Loss in consumer surplus = Gain in producer surplus (Area P2abP1)	(2 marks)
+	
+(b)	There is no change in total social surplus because the quantity transacted remains unchanged.	(1 mark)
+	The problem of a shortage lessens because the quantity demanded decreases.
+	(1 mark)
+Question code: B3C16Q322 (new)
+The following diagram shows the market for seafood in Country C which has a price floor.
+
+(a)	Explain whether the price floor is effective.	(2 marks)
+(b)	Suppose Country C has recently invaded some islands, and the country's fishermen can now fish in the seas around the islands. With the aid of the above diagram, explain whether the market is efficient after the above change.	(5 marks)
+
+Answers:
+(a)	The price floor is ineffective as it is not set above the equilibrium price.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Rightward shift in supply curve	(1 mark)
+	•	Deadweight loss	(1 mark)
+	
+	Verbal elaboration:
+	As fishermen can fish in a larger area, the supply of seafood increases from S to 
+S'.	(1 mark)
+	Due to the price floor, the price and quantity remain unchanged at Pf and Q1, respectively.	(1 mark)
+	The market is not efficient because a deadweight loss (the shaded area) exists.
+	(1 mark)
+
+Question code: B3C16Q323 (new)
+Suppose the government imposes an effective price floor on gasoline to promote energy conservation.
+(a)	With the aid of a diagram, explain under what situation producers' total revenue will increase.	(5 marks)
+(b)	With the aid of the same diagram, explain whether consumers gain or lose after the imposition of the price floor.	(3 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Effective price floor	(1 mark)
+	•	Increase in total revenue > Decrease in total revenue	(1 mark)
+	Verbal elaboration:
+	Due to the price floor, the price increases from P1 to Pf and the quantity transacted decreases from Q1 to Q2.	(1 mark)
+	If the demand is inelastic, the percentage decrease in quantity transacted is smaller than the percentage increase in price. In this case, producers' total revenue increases.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Decrease in consumer surplus	(1 mark)
+	Verbal elaboration:
+	Consumers lose because the consumer surplus decreases (by Area PfabP1).
+	(2 marks)
+
+Question code: B3C16Q324 (new)
+The government of Country K imposes a minimum wage (W1) on foreign domestic helpers from Country G as shown in the following diagram.
+
+Recently, the income level in Country G has increased and more workers have chosen to stay in the country.
+(a)	With the aid of the above diagram, explain under what situation the minimum wage will become ineffective.	(5 marks)
+(b)	With the aid of the same diagram, explain whether Country K's employers of foreign domestic helpers will gain or lose under the situation in (a).	(2 marks)
+
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Leftward shift in supply curve	(1 mark)
+	•	Increase in wages (higher than the minimum level)	(1 mark)
+	Verbal elaboration:
+	The number of foreign domestic helpers from Country G will decrease as more workers choose to stay in Country G.	(1 mark)
+	The supply of foreign domestic helpers in Country K will decrease from S to S'.
+	(1 mark)
+	If the equilibrium wage increases to a level higher than W1 (e.g., W2), the minimum wage will become ineffective.	(1 mark)
+(b)	Indicate on the diagram:
+	•	Decrease in consumer surplus	(1 mark)
+	Verbal elaboration:
+	After the decrease in supply, employers will lose because the consumer surplus decreases by the shaded area.	(1 mark)
+
+Question code: B3C16Q325 (new)
+An effective minimum wage has been imposed in the property management industry. With the aid of a diagram, explain how an improvement in job prospects in the property management industry will affect the industry's economic efficiency.
+	(6 marks)
+
+Answers:
+Indicate on the diagram:
+•	Effective minimum wage	(1 mark)
+•	Increase in supply	(1 mark)
+•	Correct position of the increase in deadweight loss (Area abcd)	(1 mark)
+
+Verbal elaboration:
+The supply of labour for the industry will increase.	(1 mark)
+With the same minimum wage, the quantity transacted remains unchanged.	(1 mark)
+The gap between the marginal benefit and the marginal cost increases, leading to a greater deadweight loss.	(1 mark)
+
+Question code: B3C16Q326 (new)
+A government imposes an effective quota in the petroleum market.
+(a)	Explain, with the aid of a diagram, the effect of the quota on the price and quantity transacted of petroleum.	(4 marks)
+(b)	With new technology, petroleum producers can now use solar energy to replace coal in extracting crude oil (原油). Explain, with the aid of the diagram you have drawn in (a), how the new technology affects the producer surplus if the quota is still effective.	(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+•	Effective quota	(1 mark)
+•	Increase in price and decrease in quantity transacted	(1 mark)
+	
+Verbal elaboration:
+Under the effective quota, the supply curve becomes kinked. The price increases while the quantity transacted decreases.	(2 marks)
+(b)	Indicate on the diagram:
+•	Downward shift of supply curve	(1 mark)
+•	Increase in producer surplus (shaded area)	(1 mark)
+	
+Verbal elaboration:
+The new technology lowers production costs. The supply of petroleum increases.
+	(1 mark)
+With the same effective quota and demand, the price remains unchanged (at Pq). The lower marginal cost implies an increase in the producer surplus.	(1 mark)
+
+Question code: B3C16Q327 (new)
+The government has imposed an effective quota (Qq) on Good X. Using the following diagram, indicate the change in deadweight loss if demand increases.	(3 marks)
+
+
+
+Answers:
+Indicate on the diagram:
+•	Rightward shift of demand curve	(1 mark)
+•	Increase in deadweight loss (Area abcd)	(2 marks)
+
+
+Question code: B3C16Q328 (new)
+The following diagram shows the market for a good with a quota at Q1.
+
+(a)	With the aid of the above diagram, explain the effects of the quota on the price and quantity transacted of the good.	(3 marks)
+(b)	Suppose the quota is lowered to Q2. With the aid of the same diagram, explain how the efficiency of the market is affected.	(6 marks)
+
+
+Answers:
+
+(a)	Indicate on the diagram:
+•	Correct price (P0) and quantity transacted (Q0)	(1 mark)
+Verbal elaboration:
+The quota is ineffective as it is greater than the equilibrium quantity (Q0).
+	(1 mark)
+The price and quantity transacted are at the equilibrium levels (P0 and Q0, respectively).	(1 mark)
+(b)	Indicate on the diagram:
+•	Supply curve under the new quota at Q2	(1 mark)
+•	Increase in price	(1 mark)
+•	Deadweight loss	(1 mark)
+Verbal elaboration:
+The quota becomes effective when it is lowered to Q2.	(1 mark)
+At Q2, the marginal benefit is higher than the marginal cost.	(1 mark)
+Therefore, a deadweight loss from underproduction emerges and the market is inefficient.	(1 mark)
+
+Question code: B3C16Q329 (new)
+With the aid of a diagram, explain the effect of reducing the quota on imported lobsters on the total social surplus in the market.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+•	Decrease in quota	(1 mark)
+•	Decrease in total social surplus	(1 mark)
+
+Verbal elaboration:
+When the government reduces the quota from Q1 to Q2, the supply of imported lobsters decreases from S1 to S2.	(1 mark)
+The total social surplus decreases as the quantity transacted of imported lobsters decreases.	(1 mark)
+
+Question code: B3C16Q330 (new)
+The following diagram shows the market for steel with a quota.
+
+Suppose the government increases the quota (assuming the new quota is still effective).
+(a)	With the aid of the above diagram, explain how the price and quantity transacted of steel change.	(5 marks)
+(b)	With the aid of the same diagram and referring to the consumer surplus, explain whether consumers gain.	(2 marks)
+
+
+Answers:
+
+(a)	Indicate on the diagram:
+	•	Increase in effective quota	(1 mark)
+	•	Decrease in price	(1 mark)
+	•	Increase in quantity transacted	(1 mark)
+	Verbal elaboration:
+	As the quota increases, the quantity transacted increases from Q1 to Q2 and the price decreases from P1 to P2.	(2 marks)
+(b)	Indicate on the diagram:
+	•	Increase in consumer surplus	(1 mark)
+	Verbal elaboration:
+	After the increase in the quota, consumers gain because the consumer surplus increases by the shaded area.	(1 mark)
+
+Question code: B3C16Q331 (new)
+The following diagram shows the market for ginseng (人蔘) in Country H.
+
+Suppose the government imposes a unit tax on ginseng.
+(a)	With the aid of the above diagram, explain the effects of the unit tax on the price and quantity transacted of ginseng in Country H.	(4 marks)
+(b)	Mr Fong said, 'As the tax paid by producers and consumers is collected by the government, society as a whole would not lose due to the unit tax.' With the aid of the same diagram, explain whether Mr Fong is correct.	(4 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+•	Upward shift in supply curve	(1 mark)
+•	Increase in price and decrease in quantity transacted	(1 mark)
+Verbal elaboration:
+The supply of ginseng decreases from S to ST due to the imposition of the unit 
+tax.	(1 mark)
+The price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.	(1 mark)
+(b)	Indicate on the diagram:
+•	Deadweight loss	(1 mark)
+Verbal elaboration:
+He is not correct.	(1 mark)
+Due to the unit tax, the production of ginseng (Q2) is lower than the efficient level (Q1).	(1 mark)
+Society would lose as a deadweight loss emerges / total social surplus decreases.
+	(1 mark)
+
+Question code: B3C16Q332 (new)
+Country A's government has imposed a per-unit sales tax on Good X.
+(a)	Under what condition will producers bear a greater tax burden than consumers?
+	(2 marks)
+(b)	Will the removal of the tax improve efficiency? Explain your answer with the aid of a diagram.	(4 marks)
+
+Answers:
+(a)	Producers' tax burden will be greater if the elasticity of demand is greater than the elasticity of supply.	(2 marks)
+(b)	Indicate on the diagram:
+•	Increase in supply	(1 mark)
+•	Increase in total social surplus (Area abc)	(1 mark)
+
+Verbal elaboration:
+There is no underproduction for the market of Good X. Efficiency is improved as the deadweight loss is eliminated / total social surplus increases.	(2 marks)
+
+Question code: B3C16Q333 (new)
+* The following diagram shows the market supply and demand curves of alcohol. Suppose the government either imposes a per-unit tax (t) or a price floor (P1) on alcohol to reduce drunk driving.
+
+With the aid of the above diagram, explain the difference in producer surplus between these two government interventions.	(6 marks)
+
+Answers:
+Indicate on the diagram:
+•	Correct position of quantity transacted after both interventions (Q1)	(1 mark)
+•	Correct position of the price received by producers net of tax (P2)	(1 mark)
+•	Correct position of the difference in producer surplus (Area P1abP2)	(1 mark)
+
+Verbal elaboration:
+The quantity transacted will decrease to Q1 under both government interventions.
+	(1 mark)
+The price that producers receive under the per-unit tax (P2) is smaller than that under the price floor.	(1 mark)
+Compared with the price floor, the producer surplus is lower under the per-unit tax. The difference becomes government tax revenue.	(1 mark)
+
+Question code: B3C16Q334 (new)
+Suppose Country G's government provides a per-unit subsidy to electric vehicle producers. With the aid of a diagram, explain the change in consumer surplus.
+	(6 marks)
+
+Answers:
+Indicate on the diagram:
+•	Downward shift of supply curve	(1 mark)
+•	Decrease in price and increase in quantity transacted	(1 mark)
+•	Increase in consumer surplus (Area P0XYP1)	(1 mark)
+
+Verbal elaboration:
+The government subsidy lowers the cost of producing electric vehicles.	(1 mark)
+Therefore, the supply of electric vehicles increases, leading to a decrease in price and an increase in quantity transacted.	(1 mark)
+Consumer surplus will increase.	(1 mark)
+
+Question code: B3C16Q335 (new)
+* The following diagram shows the market for vitamin pills in Country J where the government provides a unit subsidy on the good. S1 is the supply under subsidy.
+
+Suppose the government abolishes the unit subsidy.
+(a)	With the aid of the above diagram, explain the changes in the price paid by consumers, the price received by producers and the quantity transacted of vitamin pills in Country J.	(5 marks)
+(b)	Naomi said, 'Both consumers and producers suffer a loss from the abolition of the subsidy. Therefore, society as whole loses.'
+	(i)	Indicate the changes in consumer surplus and producer surplus in the above diagram.	(2 marks)
+	(ii)	Explain whether Naomi is correct.	(3 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+•	Upward shift in supply curve	(1 mark)
+•	Increase in price paid by consumers, decrease in price received by producers and decrease in quantity transacted	(1 mark)
+Verbal elaboration:
+The supply of vitamin pills decreases from S1 to S2 due to the abolition of the unit subsidy.	(1 mark)
+The price paid by consumers increases from P1 to P3. The price received by producers decreases from P2 to P3. The quantity transacted decreases from Q1 to Q2.	(2 marks)
+(b)	(i)	Indicate on the diagram:
+	•	Decrease in producer surplus	(1 mark)
+	•	Decrease in consumer surplus	(1 mark)
+(ii)	She is not correct.	(1 mark)
+The reduced government expenditure on the subsidy is larger than the decreases in producer surplus and consumer surplus.	(1 mark)
+Therefore, society would gain as a whole.	(1 mark)
+
+Question code: B3C16Q336 (new)
+* To protect the interests of low-income coffee farmers, some suggest granting the farmers a per-unit subsidy (s) while some suggest setting a minimum purchase price at P1.
+
+With the aid of the above diagram, compare the per-unit subsidy and the minimum purchase price in terms of farmers' total income and the deadweight loss.	(8 marks)
+
+Answers:
+Indicate on the diagram:
+•	Correct position of total income (including subsidy) under a per-unit subsidy 
+(= P1 × Q2)	(1 mark)
+•	Correct position of total income under a minimum purchase price (= P1 × Q1)
+	(1 mark)
+•	Correct position of the deadweight loss under a per-unit subsidy (Area cde)
+	(1 mark)
+•	Correct position of the deadweight loss under a minimum purchase price (Area abc)	(1 mark)
+
+Verbal elaboration:
+Farmers' total income is higher under the per-unit subsidy. For receiving the same price (including a subsidy), farmers can enjoy a higher income as they can sell more coffee beans.	(2 marks)
+There is a deadweight loss from overproduction (Area cde) under a per-unit subsidy and a deadweight loss from underproduction (Area abc) under a minimum purchase price.	(2 marks)
+
+Structured Questions
+Question code: B3C16Q501
+Air pollution is serious in Province Jin. This is mainly caused by coal mining activities. The government decides to impose an effective price ceiling on coal to improve air quality in the province.
+
+(a)	Refer to the above diagram. Should the government set the price ceiling at PA or PB? With the aid of the above diagram, explain how the goal can be achieved.
+	(4 marks)
+(b)	A government official said, 'We can also improve air quality by imposing a unit tax on coal instead of a price ceiling.' 
+	(i)	With the aid of the above diagram, explain how a unit tax can achieve the goal. Assume that the effect of the unit tax on the price is the same as the price ceiling.	(4 marks)
+	*(ii)	Explain the effects of changing the price ceiling to a unit tax on consumers, producers and the government.	(3 marks)
+(c)	A coal mine owner said, 'Both the price ceiling and the unit tax will lead to inefficiency in the coal market.'
+	(i)	Explain why he is correct.	(2 marks)
+	*(ii)	Suggest ONE reason to explain why it is worthwhile for the government to intervene in the market.	(2 marks)
+
+Answers:
+
+(a)	Indicate on the diagram:
+	(	Decrease in quantity	(1 mark)
+	Verbal elaboration:
+	The price ceiling should be set at PB.	(1 mark)
+	Under the effective price ceiling, the quantity transacted of coal will decrease from Q0 to Q1.	(1 mark)
+	As less coal is mined, air quality will improve.	(1 mark)
+
+(b)	(i)	Indicate on the diagram:
+		(	Upward shift in supply curve	(1 mark)
+		Verbal elaboration:
+		When the government imposes a unit tax, the supply of coal decreases from S to ST.	(1 mark)
+		The quantity transacted of coal decreases from Q0 to Q1.	(1 mark)
+		As less coal is mined, air quality will improve.	(1 mark)
+(ii)	Consumers will lose since the consumer surplus decreases from Area UVYPB to Area UYPA.	(1 mark)
+	Producers will not gain or lose since the producer surplus remains unchanged at Area PBYZ.	(1 mark)
+	The government will gain since it can earn tax revenue which equals to Area PAVYPB.
+	(1 mark)
+
+(c)	(i)	With the price ceiling or the unit tax, the quantity transacted of coal (Q1) is lower than the efficient level (Q0).	(1 mark)
+		There is a deadweight loss caused by underproduction.	(1 mark)
+	(ii)	Reason: The benefit of improvement in air quality outweighs the loss due to underproduction. (Accept other reasonable answers)	(2 marks)
+
+Question code: B3C16Q502
+Suppose a government imposes an effective quota on the amount of sea fish caught in order to conserve fishery resources.
+(a)	Are the sea fish supplied by fishermen a free good? Explain.	(3 marks)
+(b)	'The quota will increase the fishermen's producer surplus.' 
+Comment on the statement with the aid of a diagram.	(6 marks)
+(c)	Under what situation will the fishermen's total revenue increase after the imposition of the quota? Explain.	(3 marks)
+(d)	(i)	Define deadweight loss.	(2 marks)
+	(ii)	Suppose sea fish are a normal good. How will the deadweight loss caused by the quota change when people's income increases? Explain with the aid of a diagram.	(4 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	The available quantity is insufficient to satisfy all human wants. / People want to have more sea fish. / Costs are involved in catching sea fish. / The quantity demanded for sea fish is greater than the quantity supplied at zero price.	(2 marks)
+
+(b)	Indicate on the diagram:
+(	A quota which is below the equilibrium quantity	(1 mark)
+(	Increase in the producer surplus	(1 mark)
+(	Decrease in the producer surplus	(1 mark)
+
+	Verbal elaboration:
+(	The statement is incorrect.	(1 mark)
+(	The producer surplus changes from Area 0P1C to Area 0P2BF. Whether the producer surplus increases or not depends on Area P1EBP2 and Area CEF.
+	(2 marks)
+
+(c)	The demand is inelastic (elasticity < 1).	(1 mark)
+	In this case, the percentage increase in price is greater than the percentage decrease in quantity demanded. / The gain in revenue due to the increase in price is greater than the loss in revenue due to the decrease in quantity demanded.
+	(2 marks)
+
+(d)	(i)	Deadweight loss is the loss in total social surplus, or the potential gains not being captured, when the marginal benefit is not equal to the marginal cost.
+	(2 marks)
+
+(ii)	Indicate on the diagram:
+(	Demand curve shifts rightwards	(1 mark)
+(	Increase in deadweight loss	(1 mark)
+
+Verbal elaboration:
+(	When people have more income, their demand for sea fish (a normal good) increases.	(1 mark)
+(	Deadweight loss increases from Area BCF to Area AEF.	(1 mark)
+
+Question code: B3C16Q503
+To ensure that rice farmers earn a respectable income, Country A imposes an effective price floor on rice.
+(a)	Tommy says, 'Rice farmers' producer surplus may decrease as a result of the price floor.' Do you agree? Explain your answer with the aid of a diagram.	(6 marks)
+(b)	Now the government provides a unit subsidy to rice farmers instead of imposing a price floor.
+	(i)	Indicate the new producer surplus on a diagram that shows the result of the subsidy. How does the producer surplus change (when compared to the situation without any government intervention)?	(3 marks)
+	(ii)	If you were a rice farmer, would you prefer a price floor or a subsidy? Explain your answer by referring to the producer surplus.	(3 marks)
+	(iii)	From the viewpoint of society, is a price floor or a subsidy better? Use your answers above to explain.	(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+(	A price floor above the equilibrium price	(1 mark)
+(	Increase in the producer surplus	(1 mark)
+(	Decrease in the producer surplus	(1 mark)
+	
+	Verbal elaboration:
+(	Agree.	(1 mark)
+(	The producer surplus decreases when Area CEF is greater than Area P1EBP2.	(2 marks)
+
+(b)	(i)	Indicate on the diagram:
+(	The supply curve shifts downwards.	(1 mark)
+(	Producer surplus after subsidy	(1 mark)
+
+Verbal elaboration:
+The producer surplus increases from Area P1BF to Area P2EG.	(1 mark)
+(ii)	A subsidy.	(1 mark)
+The producer surplus must increase if the government provides a subsidy, but the change in the producer surplus is unclear in the case of a price floor.	
+	(2 marks)
+(Accept other reasonable answers.)
+	(iii)	None of them is necessarily better than the other.	(1 mark)
+		Both will result in a deadweight loss. It is possible that either one will have a greater deadweight loss.	(2 marks)
+
+
+Question code: B3C16Q504
+The government in City X finds that the prices of school textbooks rose to a record high last year. Some textbook publishers claim that the increase in the price was caused by the increase in the cost of paper and other production costs.
+(a)	Explain why the total social surplus will decrease when paper prices increase. Illustrate your answer with a diagram.	(5 marks)
+(b)	Suppose a unit subsidy is given to textbook publishers. Who will gain and who will lose from the provision of the subsidy, parents or publishers? Does society gain from the unit subsidy? Explain your answer with a diagram.	(6 marks)
+(c)	Suppose more overseas students come to study in City X. Explain how the total amount of subsidy granted by the government and the producer surplus will change.	(4 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Leftward shift in supply curve	(1 mark)
+	(	Decrease in total social surplus	(1 mark)
+
+	Verbal elaboration:
+	The increase in the price of paper will lead to a decrease in the supply of textbooks. The supply curve will shift leftwards from S1 to S2.	(1 mark)
+As a result, the total social surplus will decrease by the dotted area as indicated on the diagram.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Downward shift in supply curve	(1 mark)
+	(	Deadweight loss	(1 mark)
+
+	Verbal elaboration:
+	Both parents and publishers will gain from the subsidy. The consumer surplus will increase from Area AP0E to Area AP2I. The producer surplus will increase from Area P0BE to Area P2CI.	(2 marks)
+Since the increase in CS and PS (Area BCIE) is smaller than the total amount of the subsidy provided by the government (Area BCIH), there is a deadweight loss and society will lose.	(2 marks)
+
+(c)	The increase in the number of students increases the demand for textbooks.
+	(1 mark)
+	The quantity transacted of textbooks will increase.	(1 mark)
+	As the unit subsidy remains unchanged, the total amount of the subsidy granted will increase.	(1 mark)
+	Since both the price and quantity transacted increase, the producer surplus will increase.	(1 mark)
+
+
+Question code: B3C16Q505 (new)
+In a study carried out by the Housing Authority in 2016, the income index of public housing tenants increased by 16.1% from 2013 to 2015. The authority decided to raise public housing rents by 10% in September 2016.
+
+(a)	Suppose the number of public housing units is fixed at Q0 and the original rent is R0. With the aid of the above diagram, explain the effect of the increase in rent on the consumer surplus.	(4 marks)
+(b)	Explain the effect of increasing public housing rents on Hong Kong's post social transfer Gini coefficient.	(3 marks)
+(c)	Suppose the government increases the number of public housing units by reducing the average size of the units to reduce the waiting time.
+	(i)	With the aid of the same diagram in (a), explain the change in total social surplus.	(4 marks)
+	(ii)	Explain the effect of increasing the number of public housing units on the rents of subdivided flats (劏房).	(3 marks)
+
+Answers:
+
+
+(a)	Indicate on the diagram:
+	(	Increase in rent	(1 mark)
+	(	Decreases in consumer surplus	(1 mark)
+	Verbal elaboration:
+	The rent increases from R0 to R1, while the number of public housing units remains at Q0.	(1 mark)
+	As a result, the consumer surplus decreases by Area A.	(1 mark)
+
+(b)	Public housing tenants mainly belong to the lower income group.	(1 mark)
+	The increase in rents lowers their post social transfer income while the income of the higher income groups is not affected.	(1 mark)
+	Income distribution will become more uneven and Hong Kong's post social transfer Gini coefficient will increase.	(1 mark)
+
+(c)	(i)	Indicate on the diagram:
+		(	Rightward shift in supply curve	(1 mark)
+		(	Increases in total social surplus	(1 mark)
+		Verbal elaboration:
+		The number of public housing units increases from Q0 to Q1.	(1 mark)
+		As a result, total social surplus increases by Area (B+C+E).	(1 mark)
+	(ii)	Public housing units are substitutes for subdivided flats.	(1 mark)
+		When the supply of public housing units increases, the demand for subdivided flats will decrease.	(1 mark)
+		Hence, the rents of subdivided flats will decrease.	(1 mark)
+
+Question code: B3C16Q506 (new)
+The following diagram shows the supply and demand curves for mooncakes around Mid-Autumn Festival.
+
+Suppose the harvest of lotus seeds (蓮子) is bad this year.
+(a)	With the aid of the above diagram, explain the changes in the price and quantity transacted of mooncakes.	(5 marks)
+(b)	(i)	Explain under what condition the total expenditure on mooncakes would increase.	(2 marks)
+	(ii)	Suggest ONE reason to explain the price elasticity of demand for mooncakes implied in part (i).	(2 marks)
+(c)	Chi Wa says, 'The government should grant a unit subsidy to mooncake producers before the Mid-Autumn Festival. Both producers and consumers would gain from the subsidy and hence economic efficiency would improve.' Explain whether he is correct.	(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Leftward shift in supply curve	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	As the harvest of lotus seeds is bad, the input cost of mooncakes increases.
+	(1 mark)
+	The supply of mooncakes decreases from S to S'.	(1 mark)
+	The price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.	(1 mark)
+
+(b)	(i)	If the demand for mooncakes is inelastic, the percentage increase in price is larger than the percentage decrease in quantity transacted. As a result, total expenditure increases.	(2 marks)
+	(ii)	It is a tradition to have mooncakes during the Mid-Autumn Festival. People would hardly reduce consumption even when the price increases.	(2 marks)
+(c)	No.	(1 mark)
+	The total subsidy paid by the government would be greater than the increase in the sum of the consumer surplus and producer surplus. Hence, there would be a deadweight loss.	(2 marks)
+
+Question code: B3C16Q507 (new)
+The Chinese government adopted a minimum purchase price scheme for corn before 2016. According to the scheme, the government maintained corn prices at a certain level (i.e., P1) and bought any excess supply on the market. China had the world's highest corn inventory in 2016.
+	
+
+(a)	(i)	With the aid of the above diagram, indicate the excess supply and the Chinese government's total expenditure on corn. Briefly explain your answer.
+	(5 marks)
+	(ii)	Label the producer surplus on the same diagram. Briefly explain whether society would gain from the scheme.	(3 marks)
+(b)	In 2016, the Chinese government cancelled the scheme and started to auction its corn inventory each week. With the aid of the above diagram, explain the effect on corn prices in China.	(4 marks)
+(c)	Corn is commonly used to feed livestock. Explain the effect of the cancellation of the scheme on the price of livestock in China.	(3 marks)
+(d)	Explain under what circumstance consumers' total expenditure on corn would increase after the cancellation of the scheme.	(2 marks)
+
+
+Answers:
+
+(a)	(i)	Indicate on the diagram:
+		(	Excess supply	(1 mark)
+		(	Government total expenditure	(1 mark)
+		Verbal elaboration:
+		At P1,the quantity demanded (Q1) was lower than the quantity supplied (Q2).
+	(1 mark)
+		Hence, there was excess supply (Q2 - Q1) of corn.	(1 mark)
+		The government bought the excess supply at P1. Therefore, its total expenditure was equal to the shaded area.	(1 mark)
+	(ii)	Indicate on the diagram:
+		(	Producer surplus (Area P1AB)	(1 mark)
+		Verbal elaboration:
+		Society would not gain because the government's total expenditure was larger than the increase in the sum of consumer surplus and producer surplus.
+	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply curve	(1 mark)
+	(	Decrease in price	(1 mark)
+	Verbal elaboration:
+	As the government auctioned its corn inventory, the supply of corn increased from S to S'.	(1 mark)
+	Due to the cancellation of the scheme, the price would decrease from P1 to the new equilibrium price, P2.	(1 mark)
+
+
+(c)	As corn is an input for raising livestock, 	(1 mark)
+	the decrease in corn prices will lead to an increase in the supply of livestock.
+	(1 mark)
+	Thus, the price of livestock will decrease.	(1 mark)
+
+(d)	If the demand for corn is elastic, the percentage decrease in price will be smaller than the percentage increase in quantity demanded, so consumers' total expenditure will increase.	(2 marks)

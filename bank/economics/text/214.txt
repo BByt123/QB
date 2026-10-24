@@ -1,0 +1,1433 @@
+Chapter 14 	Profit maximisation and output determination
+
+Multiple Choice Questions
+
+Question code: B2C14Q001
+Which of the following firms most likely aims at profit maximisation?
+A.	A charitable organisation
+B.	A government department
+C.	A public corporation
+D.	A coffee shop
+
+Answer: D
+
+Question code: B2C14Q002
+Which of the following statements regarding profit is INCORRECT?
+A.	In a perfectly competitive market, the marginal profit of every profit-maximising firm is zero.
+B.	In a perfectly competitive market, firms earn the same amount of profit.
+C.	Profit is the factor income of entrepreneurship.
+D.	None of the above
+
+Answer: B
+
+Question code: B2C14Q003
+Peter is a farmer who grows apples. He sells his apples at a fruit market every Sunday. Suppose the production cost of each apple is $1 and the price of apples is fixed by the manager of the fruit market. Last Sunday, Peter sold 2,000 apples for $2 each. According to the manager, 10,000 apples were sold last Sunday.
+What was the market share of Peter's apples in terms of sales revenue last Sunday?
+A.	10%
+B.	15%
+C.	20%
+D.	25%
+
+Answer: C
+
+
+Question code: B2C14Q004
+Peter is a farmer who grows apples. He sells his apples at a fruit market every Sunday. Suppose the production cost of each apple is $1 and the price of apples is fixed by the manager of the fruit market. Last Sunday, Peter sold 2,000 apples for $2 each. According to the manager, 10,000 apples were sold last Sunday.
+How much profit did Peter make last Sunday?
+A.	$2,000
+B.	$4,000
+C.	$10,000
+D.	$12,000
+
+Answer: A
+
+Question code: B2C14Q005
+Which of the following will most likely result if a firm increases its market share?
+A.	A higher share price
+B.	Diseconomies of scale
+C.	A higher profit
+D.	Improved ability to influence the market price
+
+Answer: D
+
+Question code: B2C14Q006
+Which of the following is an example of a firm practising corporate social responsibility?
+A.	Illegally dumping pollutants
+B.	Forbidding the employment of child labour
+C.	Hoarding (囤積) its products when the firm expects a higher product price in future
+D.	Covering up the harmful effects of consuming the firm's product
+
+Answer: B
+
+Question code: B2C14Q007
+If marginal revenue is greater than marginal cost, a firm should _________ to maximise profit.
+A.	reduce its production
+B.	employ more fixed factors
+C.	increase its production
+D.	leave the industry
+
+Answer: C
+
+Question code: B2C14Q008
+At the profit-maximising output, 
+A.	marginal revenue is the highest.
+B.	total revenue equals total cost.
+C.	the difference between total revenue and total cost is the greatest.
+D.	None of the above
+
+Answer: C
+
+Question code: B2C14Q009
+In a price-taking market, 
+A.	sellers can adjust both their prices and output.
+B.	sellers can adjust their output but not their prices.
+C.	sellers can adjust either their prices or output.
+D.	the seller with the largest market share will set the market price for other sellers to follow.
+
+Answer: B
+
+Question code: B2C14Q010
+How can the profit-maximising output be determined in a price-taking market?
+A.	The output at which the difference between total revenue and total cost is the largest
+B.	The output at which there is the largest difference between marginal revenue and marginal cost 
+C.	The output at which total revenue is the greatest
+D.	Both A and B
+
+Answer: A
+
+
+Question code: B2C14Q011
+In a price-taking market, 
+	(1)	all sellers have to sell at the market price.
+	(2)	the profit-maximising output is the output at which price is equal to marginal cost.
+	(3)	the profit-maximising output is the output at which there is the largest difference between total revenue and total cost.
+A.	(1) only 
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B2C14Q012
+The following table shows the cost-output relationship of a price taker.
+	
+Output (units)	Total cost ($)	
+1	10	
+2	22	
+3	36	
+4	52	
+5	70	
+
+Given that the profit maximising output is 5 units. If the fixed cost increases by $2, the price of the good and the output will be _______ and _______, respectively.
+A.	$12 ... 2 units
+B.	$14 ... 3 units
+C.	$16 ... 4 units
+D.	$18 ... 5 units
+
+Answer: D
+
+
+Question code: B2C14Q013
+The following table shows the cost-output relationship of a price taker.
+	
+Total output (units)	2	3	4	5	6	7		Marginal cost ($)	10	12	14	16	18	20		Average variable cost ($)	9	10	11	12	13	14		Fixed cost ($)	3	3	3	3	3	3		
+If the product price is $14,
+A.	the minimum total cost of the firm is $17.
+B.	the average variable cost is $14 when the firm maximises its profit.
+C.	the maximum profit the firm can make is $9.
+D.	the firm will produce 7 units of output to maximise its profit.
+
+Answer: C
+
+Question code: B2C14Q014
+Study the following table.
+
+Units of output	Total cost ($)	
+1	1	
+2	5	
+3	10	
+4	16	
+
+When the price increases from ______ to ________, the price-taking firm will increase its production from 2 units to 4 units.
+A.	$4 ... $6
+B.	$5 ... $6
+C.	$4 ... $16
+D.	$5 ... $16
+
+Answer: A
+
+
+Question code: B2C14Q015
+Study the following table.
+
+Units of output	Total revenue ($)	Marginal cost ($)	Fixed cost ($)	
+1	4	2	1	
+2	8	3	1	
+3	12	4	1	
+4	16	5	1	
+
+What is the total profit at the profit-maximising output?
+A.	$2
+B.	$3
+C.	$7
+D.	$8
+
+Answer: A
+
+Question code: B2C14Q016
+Peter and Tom both manufacture cars. Peter has developed a technology that lowers his fixed cost while Tom has developed a technology that lowers his marginal cost. Which of the following is correct?
+A.	Both Peter and Tom will produce the same amount of output as before.
+B.	Peter will produce more while Tom will produce the same amount of output as before.
+C.	Peter will produce the same amount of output as before while Tom will produce more.
+D.	Both Peter and Tom will produce more.
+
+Answer: C
+
+
+Question code: B2C14Q017
+The following table shows the cost-output relationship of a price taker.
+
+Total output (units)	2	3	4	5	6	
+Marginal cost ($)	4	6	8	10	12	
+Average variable cost ($)	3	4	5	6	7	
+Fixed cost ($)	1	1	1	1	1	
+
+Which of the following statements is correct?
+A.	If the price is $5, the profit-maximising output is 4 units.
+B.	If the price is $6, the profit-maximising output is 4 units.
+C.	The firm is in the short run.
+D.	The firm bears the disadvantage of diseconomies of scale.
+
+Answer: C
+
+Question code: B2C14Q018
+Study the following table.
+
+Units of output	Total revenue ($)	Total cost ($)	
+1	4	3	
+2	8	4	
+3	12	6	
+4	16	9	
+5	20	13	
+6	24	18	
+
+What is the profit-maximising output?
+A.	3 units
+B.	4 units
+C.	5 units
+D.	6 units
+
+Answer: C
+
+
+Question code: B2C14Q019
+Study the following table.
+
+Units of output	Total revenue ($)	Total cost ($)	
+1	4	3	
+2	8	4	
+3	12	6	
+4	16	9	
+5	20	13	
+6	24	18	
+
+What is the total profit at the profit-maximising output?
+A.	$6
+B.	$7
+C.	$20
+D.	$24
+
+Answer: B
+
+Question code: B2C14Q020
+The following table shows the marginal cost schedule of a price-taking firm.
+
+Units of output	Marginal cost ($)	
+1	1	
+2	2	
+3	3	
+4	4	
+
+If the product price is $4, the profit-maximising output is ________.
+A.	less than 4 units
+B.	4 units
+C.	greater than 4 units
+D.	None of the above
+
+Answer: B
+
+
+Question code: B2C14Q021
+Study the following table.
+
+Units of output	Marginal revenue ($)	Marginal cost ($)	
+1	4	1	
+2	4	2	
+3	4	3	
+4	4	4	
+
+What is the total revenue at the profit-maximising output?
+A.	$0
+B.	$8
+C.	$12
+D.	$16
+
+Answer: D
+
+Question code: B2C14Q022
+Study the following table.
+
+Units of output	Total revenue ($)	Marginal cost ($)	
+1	5	4	
+2	10	5	
+3	15	6	
+4	20	7	
+5	25	8	
+
+What is the profit-maximising output?
+A.	2 units
+B.	3 units
+C.	4 units
+D.	5 units
+
+Answer: A
+
+
+Question code: B2C14Q023
+Study the following table.
+
+Units of output	Total revenue ($)	Marginal cost ($)	
+1	5	4	
+2	10	5	
+3	15	6	
+4	20	7	
+5	25	8	
+
+What is the marginal profit at the profit-maximising output?
+A.	$0
+B.	$1
+C.	$5
+D.	$15
+
+Answer: A
+
+Question code: B2C14Q024
+The following table shows the data for a firm which operates in a price-taking market. Zero fixed cost is assumed.
+
+Output (units)	Total revenue ($)	Total cost ($)	
+1	10	3		
+2	20	7		
+3	30	13		
+4	40	23		
+5	50	35		
+6	60	55		
+
+What is the output price in this market?
+A.	$5
+B.	$8
+C.	$10
+D.	Indeterminate as there is insufficient information 
+
+Answer: C
+
+
+Question code: B2C14Q025
+The following table shows the data for a firm which operates in a price-taking market. Zero fixed cost is assumed.
+
+Output (units)	Total revenue ($)	Total cost ($)	
+1	10	3		
+2	20	7		
+3	30	13		
+4	40	23		
+5	50	35		
+6	60	55		
+
+What is the profit-maximising output?
+A.	3 units
+B.	4 units
+C.	5 units
+D.	6 units
+
+Answer: B
+
+Question code: B2C14Q026
+The following table shows the data for a firm which operates in a price-taking market. Zero fixed cost is assumed.
+
+Output (units)	Total revenue ($)	Total cost ($)	
+1	10	3		
+2	20	7		
+3	30	13		
+4	40	23		
+5	50	35		
+6	60	55		
+
+What is the total profit at the profit-maximising output?
+A.	$13
+B.	$15
+C.	$17
+D.	$18
+
+Answer: C
+
+Question code: B2C14Q027
+The following table shows the data for a firm operating in a price-taking market. Zero fixed cost is assumed.
+
+Price ($)	Output (units)	Total cost ($)	
+7	3	12	
+7	4	18	
+7	5	25	
+7	6	33	
+7	7	42	
+7	8	52	
+7	9	63	
+
+What is the profit-maximising output according to the marginal revenue and marginal cost approach?
+A.	4 units
+B.	5 units
+C.	6 units
+D.	7 units
+
+Answer: B
+
+Question code: B2C14Q028
+The following table shows the data for a firm operating in a price-taking market. Zero fixed cost is assumed.
+
+Price ($)	Output (units)	Total cost ($)	
+7	3	12	
+7	4	18	
+7	5	25	
+7	6	33	
+7	7	42	
+7	8	52	
+7	9	63	
+
+What is the marginal cost of producing the 7th unit of output?
+A.	$6
+B.	$9
+C.	$10
+D.	$14
+
+Answer: B
+
+Question code: B2C14Q029
+The following table shows the data for a firm operating in a price-taking market. Zero fixed cost is assumed.
+
+Price ($)	Output (units)	Total cost ($)	
+7	3	12	
+7	4	18	
+7	5	25	
+7	6	33	
+7	7	42	
+7	8	52	
+7	9	63	
+
+What are the marginal profits of producing the 4th and 6th units of output, respectively?
+A.	$0 ... $-1
+B.	$1 ... $0
+C.	$1 ... $-1
+D.	Indeterminate as there is insufficient information 
+
+Answer: C
+
+Question code: B2C14Q030
+Study the following table.
+
+Units of output	Total revenue ($)	Total cost ($)	
+1	4	3	
+2	8	4	
+3	12	6	
+4	16	9	
+5	20	13	
+6	24	18	
+
+What is the profit-maximising output if the government provides a $1 unit subsidy?
+A.	3 units
+B.	4 units
+C.	5 units
+D.	6 units
+
+Answer: D
+
+Question code: B2C14Q031
+Study the following table.
+
+Units of output	Total revenue ($)	Marginal cost ($)	
+1	6	4	
+2	12	5	
+3	18	6	
+4	24	7	
+5	30	8	
+
+What is the profit-maximising output if the government imposes a unit tax of $2?
+A.	1 unit
+B.	3 units
+C.	4 units
+D.	5 units
+
+Answer: A
+
+Question code: B2C14Q032
+The following table shows the data for a firm operating in a price-taking market. Zero fixed cost is assumed.
+
+Price ($)	Output (units)	Total cost ($)	
+7	3	12	
+7	4	18	
+7	5	25	
+7	6	33	
+7	7	42	
+7	8	52	
+7	9	63	
+
+Suppose the government imposes a per unit sales tax of $1. What is the new profit-maximising output?
+A.	4 units 
+B.	5 units 
+C.	6 units 
+D.	7 units
+
+Answer: A
+Explanation
+After the imposition of the per unit sales tax, the marginal cost of each unit of output increases by $1.
+
+Price ($)	Output (units)	TC after tax ($)	MC after tax ($)	
+7	3	15	―	
+7	4	22	7	
+7	5	30	8	
+7	6	39	9	
+7	7	49	10	
+7	8	60	11	
+7	9	72	12	
+
+MC = P = MR when the 4th unit of output is produced. According to the marginal revenue and marginal cost approach, the profit-maximising output is 4 units.
+
+Question code: B2C14Q033
+The following table shows the information for a price-taking firm which has zero fixed cost.
+
+Output (units)	Average revenue ($)	Average cost ($)	
+1	10	7	
+2	10	7.5	
+3	10	8	
+4	10	8.5	
+5	10	9	
+6	10	9.5	
+
+What is the output price?
+A.	$7
+B.	$9
+C.	$10
+D.	Indeterminate as there is insufficient information 
+
+Answer: C
+
+
+Question code: B2C14Q034
+* The following table shows the information for a price-taking firm which has zero fixed cost.
+
+Output (units)	Average revenue ($)	Average cost ($)	
+1	10	7	
+2	10	7.5	
+3	10	8	
+4	10	8.5	
+5	10	9	
+6	10	9.5	
+
+What is the profit-maximising output?
+A.	2 units 
+B.	3 units 
+C.	4 units 
+D.	5 units
+
+Answer: C
+Explanation
+
+Output (units)	TR ($)	TC($)	MR = AR = P
+($)	MC
+($)	
+1	10 × 1 = 10	7 × 1 = 7	10	7	
+2	10 × 2 = 20	7.5 × 2 = 15	10	8	
+3	10 × 3 = 30	8 × 3 = 24	10	9	
+4	10 × 4 = 40	8.5 × 4 = 34	10	10	
+5	10 × 5 = 50	9 × 5 = 45	10	11	
+6	10 × 6 = 60	9.5 × 6 = 57	10	12	
+
+According to the marginal revenue and marginal cost approach, the profit-maximising output is the output at which marginal revenue equals marginal cost. Refer to the table above, MR = MC at the output of 4 units.
+
+
+Question code: B2C14Q035
+* The following table shows the information for a price-taking firm which has zero fixed cost.
+
+Output (units)	Average revenue ($)	Average cost ($)	
+1	10	7	
+2	10	7.5	
+3	10	8	
+4	10	8.5	
+5	10	9	
+6	10	9.5	
+
+What is the total profit at the profit-maximising output?
+A.	$5
+B.	$6
+C.	$7
+D.	$8
+
+Answer: B
+Explanation
+
+Output (units)	TR ($)	TC($)	MR = AR = P
+($)	MC
+($)	
+1	10 × 1 = 10	7 × 1 = 7	10	7	
+2	10 × 2 = 20	7.5 × 2 = 15	10	8	
+3	10 × 3 = 30	8 × 3 = 24	10	9	
+4	10 × 4 = 40	8.5 × 4 = 34	10	10	
+5	10 × 5 = 50	9 × 5 = 45	10	11	
+6	10 × 6 = 60	9.5 × 6 = 57	10	12	
+
+At the profit-maximising output of 4 units, the total profit is equal to $6 (= $40 - $34).
+
+
+Question code: B2C14Q036
+When the marginal cost of producing a unit of output is smaller than its marginal revenue, 
+	(1)	a firm will suffer a loss.
+	(2)	profit can be increased by increasing output.
+	(3)	marginal profit must be positive.
+A.	(1) only 
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B2C14Q037
+In a price-taking market, the marginal cost schedule of a firm is the same as its supply schedule because:
+	(1)	the firm can maximise its profit when it produces at the quantity at which marginal cost equals price.
+	(2)	the quantities on the marginal cost schedule are the profit-maximising outputs when marginal costs are equal to prices.
+	(3)	there is no fixed cost.
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B2C14Q038 (new)
+The cost schedule of a price taker is shown as follows:
+
+Output (units)	2	3	4	5	6	7	
+Marginal cost ($)	5	7	9	11	13	15	
+Fixed cost ($)	2	2	2	2	2	2	
+Average variable cost ($)	4	5	6	7	8	9	
+
+Suppose the price of the product is $11. Which of the following is correct?
+A.	The profit-maximising output is 6 units.
+B.	The average variable cost at the profit-maximising output is $6.
+C.	The firm will produce 7 units because this can maximise its total revenue.
+D.	The maximum profit is $18.
+
+Answer: D
+
+Question code: B2C14Q039 (new)
+The cost schedule of a price taker is shown as follows:
+
+Output (units)	2	3	4	5	6	7	
+Marginal cost ($)	4	7	10	13	16	19	
+Fixed cost ($)	5	5	5	5	5	5	
+Average variable cost ($)	2.5	4	5.5	7	8.5	10	
+
+Which of the following is correct?
+A.	If the market price is $10, the profit-maximising output is 7 units.
+B.	If the market price is $10, the maximum profit is $18.
+C.	If the market price is $16, the maximum profit is $40.
+D.	If the market price is $16, the total cost is $51.
+
+Answer: C
+
+
+Question code: B2C14Q040 (new)
+The following shows the cost schedule of a firm in a perfectly competitive market with zero fixed cost. 
+
+Output (units)	Average variable cost ($)	
+2	5	
+3	6	
+4	7	
+5	8	
+6	9	
+7	10	
+
+Suppose the profit-maximising output is 6 units. When the product price decreases by $4, the profit-maximising output will become ________ and the profit will be ________.
+A.	2 units … $2
+B.	2 units … $8
+C.	4 units … $12
+D.	4 units … $14
+
+Answer: C
+
+Question code: B2C14Q041 (new)
+The following shows the cost schedule of a firm in a perfectly competitive market with a $3 fixed cost.
+
+Output (units)	Average variable cost ($)	
+4	3	
+5	3.5	
+6	4	
+7	4.5	
+8	5	
+9	5.5	
+
+Suppose the price decreases from $8.5 to $5.5. Which of the following is correct?
+(1)	The profit-maximising output will decrease.
+(2)	The maximum profit will decrease to $10.
+(3)	The total cost will decrease by $22.5.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B2C14Q042 (new)
+The cost schedule of a price taker is shown as follows:
+
+Output (units)	Marginal cost ($)	
+1	1	
+2	2.5	
+3	4	
+4	5.5	
+5	7	
+
+Suppose the product price remains unchanged while the marginal cost for producing each unit of output increases by $1.5. As a result, the profit-maximising output will ________ and the profit will ________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: D
+
+
+Question code: B2C14Q043 (new)
+* The cost schedule of a price taker is shown as follows:
+
+Output (units)	Marginal cost ($)	
+1	2	
+2	3	
+3	4	
+4	5	
+5	6	
+
+Suppose the product price increases by $2 while the marginal cost for producing each unit of output increases by $1. As a result, the profit-maximising output will ________ and the profit will ________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: A
+Explanation
+Since the price increases more than the marginal cost, 
+(	the profit-maximising output will increase;
+(	the marginal profit of each unit of output will increase, so total profit will increase.
+
+Question code: B2C14Q044 (new)
+The fixed cost of a price-taking factory increases. Which of the following is/are correct?
+A.	The profit-maximising output decreases.
+B.	The total revenue decreases.
+C.	The profit decreases.
+D.	All of the above
+
+Answer: C
+
+
+
+Question code: B2C14Q045 (new)
+The following table shows the cost schedule of a cookie factory, which has a fixed cost equal to $10.
+
+Output (units)	Total cost ($)	
+6	58	
+7	73	
+8	90	
+9	109	
+10	130	
+
+Suppose the market price increases from $17 to $19. Which of the following is correct?
+A.	Total revenue will increase by $50.
+B.	The profit-maximising output will increase by 3 units.
+C.	The maximum profit will increase by $16.
+D.	All of the above
+
+Answer: C
+
+Question code: B2C14Q046 (new)
+Refer to the following cost schedule of a price-taking firm.
+
+Output (units)	Average cost ($)	
+1	23	
+2	16.5	
+3	15	
+4	14.75	
+5	15	
+
+If the market price is $16, the profit-maximising output and profit are ___________ and ___________ respectively.
+A.	2 units ... $1
+B.	4 units ... $1
+C.	4 units ... $5
+D.	5 units ... $5
+
+Answer: D
+
+Question code: B2C14Q047 (new)
+The following shows the cost schedule of a firm in a perfectly competitive market. The market price of the good is $15.
+
+Output (units)	Marginal cost ($)	
+4	12	
+5	13	
+6	14	
+7	15	
+8	16	
+9	17	
+
+If the market price increases by $2, the profit-maximising output ___________ while profit ___________.
+A.	increases ... increases
+B.	increases ... may increase or decrease
+C.	decreases ... increases
+D.	decreases ... may increase or decrease
+
+Answer: A
+
+Question code: B2C14Q048 (new)
+Refer to the following price taker's cost schedule. The original profit-maximising output is 3 units.
+
+Output (units)	Marginal cost ($)	
+1	12	
+2	18	
+3	24	
+4	30	
+5	36	
+6	42	
+
+If the marginal cost for each unit of output increases by $12, the profit-maximising output ___________.
+A.	will increase by 2 units
+B.	will decrease by 2 units
+C.	will remain unchanged
+D.	may increase or decrease, depending on the market price
+
+Answer: B
+
+
+Short Questions
+
+Question code: B2C14Q301
+A computer factory provides free computers to the poor. Suggest TWO possible objectives of this firm.	(4 marks)
+
+Answers:
+(	Profit maximisation
+(	Market share maximisation
+(	Corporate social responsibility
+(	Provide goods and services to serve the needs of targeted groups
+(Any TWO of the above or other reasonable answers with explanation, 
+2 marks × 2 = 4 marks)
+
+Question code: B2C14Q302
+(a)	Name TWO possible objectives of private enterprises besides profit maximisation.	(2 marks)
+*(b)	Briefly explain why a firm's profit is maximised when its marginal revenue is equal to its marginal cost under perfect competition.	(5 marks)
+
+Answers: 
+(a)	•	Market share maximisation
+	•	Corporate social responsibility
+	•	Provision of non-profitmaking goods and services
+	(Any TWO of the above. 1 mark × 2 = 2 marks)
+(b)	In a perfectly competitive market, the marginal revenue is equal to the market price of a good, which is constant.	(1 mark)
+	Assume that the marginal cost of a firm is increasing. When the marginal revenue is equal to the marginal cost, the marginal cost of producing an additional unit will be greater than the marginal revenue. In other words, the firm cannot increase its profit by increasing output. Therefore, profit is maximised when the marginal revenue is equal to the marginal cost.	(4 marks)
+
+Question code: B2C14Q303
+(a)	List TWO possible objectives of private enterprises.	(2 marks)
+(b)	Compare the differences between private enterprises and public enterprises in terms of their objectives. 	(2 marks)
+
+Answers: 
+(a)	Possible objectives:
+	•	Profit maximisation
+	•	Market share maximisation
+	•	Corporate social responsibility
+	•	Provision of non-profitmaking goods and services
+	(Any TWO of the above, 1 mark × 2 = 2 marks)
+(b)	•	The key objective of most public enterprises is providing essential goods and services to the public free of charge or at low prices. 	(1 mark)
+	•	The key objective of most private enterprises is profit maximisation.	(1 mark)
+
+Question code: B2C14Q304
+(a)	What is profit maximisation? 	(2 marks)
+(b)	What TWO approaches are used to determine the profit-maximising output? Briefly explain the conditions for profit maximisation. 	(4 marks)
+
+Answers: 
+(a)	Profit maximisation means the pursuit of the largest net receipts, which is equal to the difference between total revenue and total cost.	(2 marks)
+(b)	The two approaches are the total revenue and total cost approach, and the marginal revenue and marginal cost approach.	(2 marks)
+	•	According to the total revenue and total cost approach, the profit-maximising output is the output at which there is the greatest difference between total revenue and total cost.	(1 mark)
+	•	According to the marginal revenue and marginal cost approach, the profit-maximising output is the output at which the marginal revenue is equal to the marginal cost.	(1 mark)
+
+
+Question code: B2C14Q305
+Study the following information about a firm which operates in a perfectly competitive market. The firm has zero fixed cost.
+
+Units of output	Total revenue ($)	Total cost ($)	
+1	9	5	
+2	18	12	
+3	27	21	
+4	36	32	
+5	45	45	
+
+(a)	What is the market price of the output? Briefly explain your answer.	(2 marks)
+(b)	How many units of output should the firm produce to maximise its profit? Show your steps.	(4 marks)
+
+Answers:
+(a)	In a perfectly competitive market, the market price is equal to the marginal revenue, which is $9.	(2 marks)
+(b)	Total revenue and total cost approach:
+Units of output	Total revenue ($)	Total cost ($)	Total profit ($)	
+1	9	5	9 - 5 = 4	
+2	18	12	18 - 12 = 6	
+3	27	21	27 - 21 = 6	
+4	36	32	36 - 32 = 4	
+5	45	45	45 - 45 = 0	
+			(2 marks)
+Total profit is the greatest when output is 3 units, so 3 units of output should be produced.	(2 marks)
+(Marginal revenue and marginal cost approach is also accepted.)
+
+
+Question code: B2C14Q306
+Study the following information about a firm which operates in a perfectly competitive market.
+
+Units of output	Total revenue ($)	Total cost ($)	
+1	5	4	
+2	10	7	
+3	15	11	
+4	20	17	
+5	25	24	
+
+(a)	What is the market price of the output? Briefly explain your answer.	(2 marks)
+(b)	How many units of output will the firm produce to maximise its profit? Show your steps.	(4 marks)
+
+Answers:
+(a)	In a perfectly competitive market, the market price is equal to the marginal revenue, which is $5.	(2 marks)
+(b)	Total revenue and total cost approach:
+Units of output	Total revenue ($)	Total cost ($)	Total profit ($)	
+1	5	4	5 - 4 = 1	
+2	10	7	10 - 7 = 3	
+3	15	11	15 - 11 = 4	
+4	20	17	20 - 17 = 3	
+5	25	24	25 - 24 = 1	
+			(2 marks)
+Total profit is the greatest when output is 3 units, so 3 units of output will be produced.	(2 marks)
+(Marginal revenue and marginal cost approach is also accepted.)
+
+Question code: B2C14Q307
+The following table shows information about a price-taking firm.
+
+Units of output	Total cost ($)	Marginal cost ($)	
+1	4	4	
+2		8	
+3		12	
+4	38		
+5		20	
+	
+(a)	Complete the table above.	(2 marks)
+(b)	What is the profit-maximising output if the market price is $12? Briefly explain how you came up with the answer.	(3 marks)
+
+Answers:
+(a)	
+Units of output	Total cost ($)	Marginal cost ($)	
+1	4	4	
+2	12	8	
+3	24	12	
+4	38	14	
+5	58	20	
+(0.5 marks × 4 = 2 marks)
+(b)	The profit-maximising output is 3 units when the marginal revenue (= market price) is equal to the marginal cost.	(3 marks)
+
+Question code: B2C14Q308
+The following table shows the supply schedule for a price-taking firm. The fixed cost is $1.
+
+Price ($)	Quantity supplied (units)	
+2	1	
+3	2	
+4	3	
+5	4	
+
+When the market price is $4, what is the firm's total profit? Show your calculations.
+				(4 marks)
+
+Answers:
+When the market price is $4, the quantity supplied is 3 units.	(1 mark)
+In a price-taking market, the marginal cost schedule is the supply schedule.	(1 mark)
+Hence:
+Total profit = ($4 - $2) + ($4 - $3) + ($4 - $4) - $1 = $2	(2 marks)
+
+
+Question code: B2C14Q309
+Firm A operates in a price-taking market. The table below shows its production information.
+
+Output (units)	Total revenue ($)	Total cost ($)	
+0	0	0	
+1	5	1	
+2	10	3	
+3	15	6	
+4	20	10	
+5	25	15	
+6	30	21	
+7	35	28	
+
+(a)	What is the market price for each unit of output?	(1 mark)
+(b)	Find the profit-maximising output using
+	(i)	the total revenue and total cost approach;	(3 marks)
+	(ii)	the marginal revenue and marginal cost approach.	(4 marks)
+
+Answers: 
+(a)	The market price is $5 per unit of output. 	(1 mark)
+(b)	(i)	
+Output (units)	TR ($)	TC ($)	Total profit ($)	
+0	0	0	0	
+1	5	1	4	
+2	10	3	7	
+3	15	6	9	
+4	20	10	10	
+5	25	15	10	
+6	30	21	9	
+7	35	28	7	
+		(2 marks for total profit)
+		By the total revenue and total cost approach, the profit-maximising output is the (largest) quantity at which there is the greatest difference between TR and TC. From the above table, it is 5 units.	(1 mark)
+
+	(ii)	
+Output (units)	TR ($)	TC ($)	MR ($)	MC ($)	
+0	0	0	―	―	
+1	5	1	5	1	
+2	10	3	5	2	
+3	15	6	5	3	
+4	20	10	5	4	
+5	25	15	5	5	
+6	30	21	5	6	
+7	35	28	5	7	
+		(1 mark for MR and 2 marks for MC)
+		By the marginal revenue and marginal cost approach, the profit-maximising output is the quantity at which MR = MC. From the above table, it is 5 units.
+				(1 mark)
+
+Question code: B2C14Q310
+Explain why in a price-taking market, the supply schedule of a firm coincides with its marginal cost schedule.	(4 marks)
+
+Answers:
+•	Facing an upwardly sloping marginal cost curve, the firm can maximise its profits by producing at the quantity at which marginal cost, marginal revenue and price are equal to each other. Then, all the units with MC ( MR are produced.	(2 marks)
+•	The profit-maximising outputs at different prices are actually the quantities on the marginal cost schedules whose marginal costs are equal to the prices. Therefore, the supply schedule of the firm coincides with its marginal cost schedule.		(2 marks)
+Question code: B2C14Q311 (new)
+The following table shows the cost schedule of a local price-taking dog food (狗糧) factory. The price of dog food is $18.
+
+Output (units)	Average cost ($)	
+1	10	
+2	12	
+3	14	
+4	16	
+5	18	
+
+(a)	Find the profit-maximising output and the corresponding profit. Show your calculations.	(4 marks)
+(b)	Suppose the price of foreign dog food decreases. Explain how the profit of the local dog food factory will change.	(4 marks)
+
+Answers:
+(a)	
+Output (units)	Total cost ($)	Marginal cost ($)	
+1	10	―	
+2	24	14	
+3	42	18	
+4	64	22	
+5	90	26	
+		(2 marks)
+	When output = 3 units, price = marginal cost = $18. Therefore, the profit-maximising output is 3 units.	(1 mark)
+	Profit = $18 × 3 − $42 = $12	(1 mark)
+(b)	As foreign dog food is a substitute for local dog food, the demand for local dog food will decrease when the price of foreign dog food decreases.	(2 marks)
+	The price of local dog food will decrease because the demand decreases.	(1 mark)
+	As a result, the profit will decrease.	(1 mark)
+
+Question code: B2C14Q312 (new)
+The following table shows the cost schedule of a price-taking firm which has a fixed cost of $4.
+
+Output (units)	Marginal cost ($)	
+1	9	
+2	10	
+3	11	
+4	12	
+5	13	
+
+Suppose the product price is $13.
+(a)	Find the profit-maximising output. Then, calculate the corresponding profit.
+	(2 marks)
+(b)	Suppose both the price and the fixed cost decrease by $1. Find the new profit-maximising output and the change in profit.	(3 marks)
+
+Answers:
+(a)	When output = 5 units, marginal cost = price = $13. Therefore, the profit-maximising output is 5 units.	(1 mark)
+	Profit = ($13 × 5) - $(4 + 9 + 10 + 11 + 12 + 13) = $65 - $59 = $6	(1 mark)
+(b)	When output = 4 units, marginal cost = price = $12. Therefore, the profit-maximising output will change to 4 units.	(1 mark)
+	New profit = ($12 × 4) - $(3 + 9 +10 + 11 + 12) = $48 - $45 = $3	(1 mark)
+	Change in profit = $3 - $6 = -$3	(1 mark)
+
+Question code: B2C14Q313 (new)
+The following table shows the cost schedule of a price taker.
+
+Output (units)	Total cost ($)	
+6	58	
+7	67	
+8	77	
+9	88	
+10	100	
+
+Suppose the profit-maximising output is 8 units.
+(a)	Find the price of the product and calculate the corresponding profit.	(2 marks)
+(b)	Explain how the profit-maximising output and the profit will change when the price and fixed cost both increase by $2.	(4 marks)
+
+Answers:
+(a)	Price of the product = Marginal cost of the 8th unit = $77 − $67 = $10	(1 mark)
+	Profit = $10 × 8 − $77 = $3	(1 mark)
+(b)	New price = $10 + $2 = $12	(1 mark)
+	The profit-maximising output will become 10 units (where MC = $102 − $90 
+= $12).	(1 mark)
+	New profit = $12 × 10 − $102 = $18	(1 mark)
+	Change in profit = $18 - $3 = $15	(1 mark)
+
+
+Question code: B2C14Q314 (new)
+The following table shows the cost schedule of a price taker with a fixed cost of $12.
+
+Output 
+(units)	Total variable cost ($)	
+3	18	
+4	28	
+5	40	
+6	54	
+7	70	
+
+Suppose the market price is $14.
+(a)	Find the profit-maximising output and the corresponding profit.	(2 marks)
+(b)	Explain whether the profit-maximising output will change under the following circumstances. (The price is assumed to be unchanged.)
+	(i)	The fixed cost decreases.	(2 marks)
+	(ii)	The total variable cost is reduced by half.	(2 marks)
+
+Answers:
+(a)	When output = 6 units, marginal cost = price = $14. Therefore, the profit-maximising output is 6 units.	(1 mark)
+	Profit = ($14 × 6) - ($54 + $12) = $18	(1 mark)
+(b)	(i)	When the fixed cost decreases, the marginal cost schedule will remain unchanged. Therefore, the profit-maximising output will not be affected.
+	(2 marks)
+	(ii)	When the total variable cost is reduced by half, the marginal cost will also be reduced by half. As a result, the profit-maximising output will increase.
+	(2 marks)
+
+
+
+
+Structured Questions
+
+Question code: B2C14Q501
+The following table shows the data for a price-taking firm with a fixed cost of $1. The price of the product is $7.
+Output (units)	Total revenue ($)	Marginal revenue ($)	Total cost ($)	Marginal cost ($)	
+1				4	
+2			10		
+3			17		
+4				8	
+(a)	Complete the above table.	(4 marks)
+(b)	What are the profit-maximising output and the corresponding total profit? Explain briefly.	(4 marks)
+(c)	Suppose the government imposes a unit tax of $2 on the product. Find the firm's new profit-maximising output and the corresponding total profit. Explain briefly.	(4 marks)
+(d)	Suppose the government introduces a licence system such that the fixed cost of the firm increases by $2. Find the firm's new profit-maximising output. Explain briefly.	(2 marks)
+
+Answers:
+(a)
+Output (units)	Total revenue ($)	Marginal revenue ($)	Total cost
+($)	Marginal cost ($)	
+1	7	7	5	4	
+2	14	7	10	5	
+3	21	7	17	7	
+4	28	7	25	8	
+	(1 mark for correct TR)	
+	(1 mark for correct MR)	
+	(1 mark for correct TC)	
+	(1 mark for correct MC)	
+
+(b)	The profit-maximising output is 3 units because the marginal revenue and the marginal cost of the 3nd unit of output are the same ($7).	(2 marks)
+	Total profit = $21 - $17 = $4	(2 marks)
+
+
+(c)	The new cost schedules of the firm:
+Output (units)	Total cost ($)	Marginal cost ($)	
+1	7	6	
+2	14	7	
+3	23	9	
+4	33	10	
+	The new profit-maximising output is 2 units because the marginal revenue and the marginal cost of the 2rd unit of output are the same ($7).	(2 marks)
+	Total profit = ($7 × 2) - $14 = $0	(2 marks)
+
+(d)	The increase in fixed cost will not affect the firm's marginal cost. Hence, the profit-maximising output remains unchanged at 3 units.	(2 marks)
+
+Question code: B2C14Q502
+The following table shows the data for a price-taking firm with a fixed cost of $1.
+Price 
+($)	Output (units)	Total revenue ($)	Marginal revenue ($)	Total cost ($)	Marginal cost ($)	
+9	1				4	
+9	2			14		
+9	3				11	
+9	4			37		
+(a)	Complete the above table.	(4 marks)
+(b)	What are the profit-maximising output and the corresponding total profit?
+	(4 marks)
+(c)	Suppose the government provides a unit subsidy of $2 to the firm. Find the firm's new profit-maximising output and the corresponding total profit.	(4 marks)
+(d)	Suppose the government provides a lump-sum subsidy of $2 to the firm (i.e., the total amount of subsidy is $2 regardless of the output level). Find the firm's new profit-maximising output.	(2 marks)
+
+
+Answers:
+(a)
+Price ($)	Output (units)	Total revenue ($)	Marginal revenue ($)	Total cost
+($)	Marginal cost ($)	
+9	1	9	9	5	4	
+9	2	18	9	14	9	
+9	3	27	9	25	11	
+9	4	36	9	37	12	
+(1 mark for total revenue; 1 mark for marginal revenue; 1 mark for total cost; 
+1 mark for marginal cost)
+
+(b)	The profit-maximising output is 2 units because the marginal revenue and the marginal cost of the 2nd unit of output are the same ($9).	(2 marks)
+	The corresponding total profit = $18 - $14 = $4	(2 marks)
+
+(c)	The new cost schedules of the firm:
+
+Output (units)	Total cost ($)	Marginal cost ($)	
+1	3	2	
+2	10	7	
+3	19	9	
+4	29	10	
+	
+	The new profit-maximising output is 3 units because the marginal revenue and the marginal cost of the 3rd unit of output are the same ($9). 	(2 marks)
+	The corresponding total profit = ($9 × 3) - $19 = $8	(2 marks)
+
+(d)	The lump-sum subsidy will not affect the marginal cost of the firm. Hence, the profit-maximising output remains unchanged at 2 units.	(2 marks)
+
+
+Question code: B2C14Q503
+Peter sells his goods in a price-taking market. The following table shows his production information.
+
+Price ($)	Output (units)	Average cost ($)	
+4	0	0	
+4	1	1	
+4	2	1.5	
+4	3	2	
+4	4	2.5	
+4	5	3	
+4	6	3.5	
+
+(a)	Calculate Peter's total revenue (TR) and total cost (TC) and complete the following table.	(4 marks)
+
+Price
+($)	Output
+(units)	AC
+($)	TR
+($)	TC
+($)	
+4	0	0			
+4	1	1			
+4	2	1.5			
+4	3	2			
+4	4	2.5			
+4	5	3			
+4	6	3.5			
+
+(b)	Given the above data, find the profit-maximising output for Peter using
+	(i)	the total revenue and total cost approach; 	(3 marks)
+	(ii)	the marginal revenue and marginal cost approach.	(4 marks)
+(c)	(i)	Find the marginal profits at different output levels.	(2 marks)
+	*(ii)	Why is total profit maximised at the output level found in (b)(ii)? Explain using the marginal revenue, marginal cost and marginal profit.	(6 marks)
+
+
+Answers: 
+(a)
+Price
+($)	Output
+(units)	AC
+($)	TR
+($)	TC
+($)	
+4	0	0	0	0	
+4	1	1	4	1	
+4	2	1.5	8	3	
+4	3	2	12	6	
+4	4	2.5	16	10	
+4	5	3	20	15	
+4	6	3.5	24	21	
+	(2 marks for TR and 2 marks for TC)
+
+(b)	(i)
+Output
+(units)	TR
+($)	TC
+($)	Total profit ($)	
+0	0	0	0	
+1	4	1	3	
+2	8	3	5	
+3	12	6	6	
+4	16	10	6	
+5	20	15	5	
+6	24	21	3	
+		(2 marks for total profit)
+		By the total revenue and total cost approach, the profit-maximising output is the (largest) quantity at which there is the greatest difference between TR and TC. From the above table, the profit-maximising output is 4 units.	(1 mark)
+	(ii)	
+Price
+($)	Output
+(units)	TC
+($)	MR
+($)	MC
+($)	
+4	0	0	―	―	
+4	1	1	4	1	
+4	2	3	4	2	
+4	3	6	4	3	
+4	4	10	4	4	
+4	5	15	4	5	
+4	6	21	4	6	
+		(1 mark for MR and 2 marks for MC)
+		By the marginal revenue and marginal cost approach, the profit-maximising output is the quantity at which MR = MC. From the above table, it is also 4 units. 	(1 mark)
+
+(c)	(i)
+Output
+(units)	MR
+($)	MC
+($)	Marginal profit ($)	
+0	―	―	―	
+1	4	1	3	
+2	4	2	2	
+3	4	3	1	
+4	4	4	0	
+5	4	5	-1	
+6	4	6	-2	
+		(2 marks for marginal profit)
+	(ii)	•	As shown in the table in (c)(i), whenever the MR from a unit of output is larger than its MC, marginal profit is positive. Production of that unit will raise profits. Thus, a firm can increase its profit by increasing its output.
+				(2 marks)
+		•	On the other hand, when the MR from a unit of output is smaller than its MC, marginal profit is negative. Production of that unit will reduce profits. Thus, a firm can increase its profit by reducing its output.	(2 marks)
+		•	Therefore, the profit-maximising output is the output at which MR is equal to MC. This ensures that all units of output for which MR is larger than MC are produced while units of output for which MR is smaller than MC are not produced. 	(2 marks)
+
+Question code: B2C14Q504
+The following table shows the data for a firm operating in a price-taking market.
+
+Price
+($)	Output
+(units)	Total cost
+($)	
+10	0	0	
+10	1	2	
+10	2	6	
+10	3	12	
+10	4	20	
+10	5	30	
+10	6	42	
+
+
+(a)	Find the profit-maximising output for the firm using
+	(i)	the total revenue and total cost approach; 	(5 marks)
+	(ii)	the marginal revenue and marginal cost approach.	(4 marks)
+(b)	Suppose the government imposes a lump-sum sales tax of $4. Find the firm's new profit-maximising output and the corresponding total profit using the total revenue and total cost approach.	(6 marks)
+(c)	Suppose the government imposes a unit sales tax of $4. Find the firm's new profit-maximising output and the corresponding total profit using the marginal revenue and marginal cost approach.	(4 marks)
+
+Answers: 
+(a)	(i)
+Price
+($)	Output
+(units)	TR
+($)	TC
+($)	Total profit ($)	
+10	0	0	0	0	
+10	1	10	2	8	
+10	2	20	6	14	
+10	3	30	12	18	
+10	4	40	20	20	
+10	5	50	30	20	
+10	6	60	42	18	
+		(2 marks for TR and 2 marks for total profit)
+		By the total revenue and total cost approach, the profit-maximising output is the (largest) quantity at which there is the greatest difference between TR and TC. From the above table, the profit-maximising output is 5 units.	(1 mark)
+	(ii)
+Price
+($)	Output
+(units)	TC
+($)	MR
+($)	MC
+($)	
+10	0	0	―	―	
+10	1	2	10	2	
+10	2	6	10	4	
+10	3	12	10	6	
+10	4	20	10	8	
+10	5	30	10	10	
+10	6	42	10	12	
+		(1 mark for MR and 2 marks for MC)
+		By the marginal revenue and marginal cost approach, the profit-maximising output is the quantity at which MR = MC. From the above table, it is also 5 units. 	(1 mark)
+
+(b)	After the imposition of the lump-sum sales tax, the total cost of all units of output increases by $4 (except for zero unit of output). The effects are shown in the table below. 
+
+Output
+(units)	TR
+($)	Old TC
+($)	New TC (= Old TC + Lump-sum sales tax) ($)	New total profit 
+(= TR - New TC) ($)	
+0	0	0	0	0	
+1	10	2	6 (= 2 + 4)	4	
+2	20	6	10 (= 6 + 4)	10	
+3	30	12	16 (= 12 + 4)	14	
+4	40	20	24 (= 20 + 4)	16	
+5	50	30	34 (= 30 + 4)	16	
+6	60	42	46 (= 42 + 4)	14	
+	(2 marks for new total cost and 2 marks for new total profit)
+	By the total revenue and total cost approach, the profit-maximising output is the (largest) output at which there is the greatest difference between TR and TC. From the above table, the profit-maximising output is 5 units and the total profit is $16. 	(2 marks)
+	(Marginal revenue and marginal cost approach is also accepted.)
+
+(c)	After the imposition of the unit sales tax, the marginal cost of each unit of output increases by $4 (except for zero unit of output). The effects are shown in the table below.
+
+Output
+(units)	MR
+($)	Old MC
+($)	New MC (= Old MC + Unit sales tax) ($)	
+0	―	―	―	
+1	10	2	6 (= 2 + 4)	
+2	10	4	8 (= 4 + 4)	
+3	10	6	10 (= 6 + 4)	
+4	10	8	12 (= 8 + 4)	
+5	10	10	14 (= 10 + 4)	
+6	10	12	16 (= 12 + 4)	
+	(2 marks for new marginal cost)
+	By the marginal revenue and marginal cost approach, the profit-maximising output is the output at which MR = MC. From the above table, the profit-maximising output is 3 units and the total profit is $6 [= ($10 - $6) + ($10 - $8)]. 	(2 marks)
+
+
+Question code: B2C14Q505
+The following table shows the data for a firm operating in a price-taking market.
+
+Output
+(units)	Marginal cost
+($)	
+0	―	
+1	7	
+2	8	
+3	9	
+4	10	
+5	11	
+6	12	
+
+Suppose the product price is $10 and the fixed cost is $2.
+(a)	Find the profit-maximising output for the firm and the corresponding total profit. Show your work.	(4 marks) 
+(b)	If the fixed cost increases by $2, will the profit-maximising output and the corresponding total profit in (a) change? Explain your answer.	(3 marks)
+(c)	Suppose the government provides a unit subsidy of $2. Find the firm's new profit-maximising output and the corresponding total profit.	(4 marks)
+
+Answers: 
+(a)	The profit-maximising output is 4 units where P = MR = MC (= $10).	(2 marks)
+	Total profit at 4 units of output 
+	= $(10 - 7) + $(10 - 8) + $(10 - 9) - $2	(1 mark)
+	= $4		(1 mark)
+
+(b)	As the fixed cost does not affect the marginal cost of the firm, the profit-maximising output remains unchanged at 4 units,	(2 marks)
+	Total profit at 4 units of output will change from $4 to $2.	(1 mark)
+
+
+(c)	After the provision of the unit subsidy, the marginal cost of each unit of output decreases by $2 (except for zero unit of output). The effects are shown in the table below.
+
+Output
+(units)	Old MC
+($)	New MC (= Old MC - Unit subsidy) ($)	
+0	―	―	
+1	7	5 (= 7 - 2)	
+2	8	6 (= 8 - 2)	
+3	9	7 (= 9 - 2)	
+4	10	8 (= 10 - 2)	
+5	11	9 (= 11 - 2)	
+6	12	10 (= 12 - 2)	
+	(2 marks for new marginal cost)
+	The profit-maximising output is 6 units where P = MR = MC (=$10) and the total profit is $13 [= ($10 - $5) + ($10 - $6) + ($10 - $7) + ($10 - $8) + ($10 - $9) - $2].	(2 marks)

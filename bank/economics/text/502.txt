@@ -1,0 +1,1368 @@
+Chapter 2	Measurement of economic performance (II) - 
+national income statistics and the general price level
+
+Multiple Choice Questions
+
+Question code: B5C02Q001 (new)
+Which of the following descriptions about real GDP is correct?
+A.	Real GDP can reflect the average output enjoyed by every individual of an economy.
+B.	A change in real GDP implies a change in the amount of total output.
+C.	Real GDP is a better measure than nominal GDP in reflecting economic growth as the former includes the effects of changes in prices but the latter does not.
+D.	Real GDP reflects the total cost of production in an economy.
+
+Answer: B
+
+Question code: B5C02Q002 (new)
+Which of the following statements about nominal GDP and real GDP is correct?
+A.	Nominal GDP is also called GDP at current market prices while real GDP is also called GDP at factor costs.
+B.	Nominal GDP covers more goods and services than real GDP.
+C.	Nominal GDP and real GDP may change in different directions.
+D.	A change in quantities of output causes changes in real GDP but not in nominal GDP.
+
+Answer: C
+
+Question code: B5C02Q003
+Which of the following descriptions about nominal GDP is correct?
+A.	It is also called GDP at current market prices.
+B.	It can accurately reflect the living standard of a country.
+C.	If there is an increase in nominal GDP, there must be an increase in the aggregate output.
+D.	Its value is negatively related to the price level.
+
+Answer: A
+
+
+Question code: B5C02Q004
+Which of the following statements about real GDP is INCORRECT?
+A.	It is also called GDP at constant market prices.
+B.	It is the only indicator which can measure the standard of living accurately.
+C.	It is measured at market prices in the base period.
+D.	Its changes reflect the change in the aggregate output of an economy in a specified period.
+
+Answer: B
+
+Question code: B5C02Q005
+Which of the following statements about real GDP is correct?
+A.	It measures the total income received by factors of production.
+B.	It is always smaller than GDP at factor cost.
+C.	It cannot be equal to nominal GDP.
+D.	Its changes reflect the change in the volume of aggregate output of an economy in a specified period.
+
+Answer: D
+
+Question code: B5C02Q006
+Which of the following descriptions about GDP is correct?
+A.	Nominal GDP can measure the real output of a country.
+B.	Measuring GDP at base-year prices can eliminate the effect of price changes on GDP.
+C.	If nominal GDP decreases at a smaller rate than price level, real GDP will drop.
+D.	Per capita nominal GDP must be higher than per capita real GDP.
+
+Answer: B
+Explanation
+Option C is not correct. Percentage change in real GDP ~ Percentage change in nominal GDP - Percentage change in price level. If the percentage decrease in nominal GDP is smaller than the percentage decrease in the price level, the percentage change in real GDP will be positive, i.e., real GDP will rise.
+
+
+Question code: B5C02Q007
+Which of the following will decrease Hong Kong's nominal GDP?
+A.	Fewer children who help their parents with household chores (家庭雜務)
+B.	Fewer households which make their own meals
+C.	Fewer people who participate in volunteer services
+D.	Fewer farmers who produce agricultural products
+
+Answer: D
+
+Question code: B5C02Q008
+Which of the following will lead to an increase in Hong Kong's nominal GDP?
+A.	More and more firms wind up
+B.	More and more visitors come to Hong Kong.
+C.	More and more leisure time is available to people
+D.	More and more pollutants are emitted
+
+Answer: B
+
+Question code: B5C02Q009
+Which of the following can boost Hong Kong's real GDP?
+A.	Ocean Park builds a new waterfront.
+B.	Some primary schools cease operation due to insufficient student intake.
+C.	More Hong Kong residents buy flats in Guangzhou.
+D.	More Hong Kong residents change their travel destinations from Japan to Korea.
+
+Answer: A
+
+
+Question code: B5C02Q010 (new)
+Country B is a closed economy which only produces fish and chips. The following table shows production information about Country B.
+
+Year	Quantity of fish	Unit price of fish	Quantity of chips	Unit price of chips		1	50 units	$10	100 units	$25	
+4	60 units	$5	200 units	$10	
+
+Suppose Year 1 is the base year and the population of Country B has changed from 1,000 persons to 2,000 persons. Which of the following statements about Country B is INCORRECT?
+A.	Its general price level has decreased from Year 1 to Year 4.
+B.	Its nominal GDP has increased from Year 1 to Year 4.
+C.	Its real GDP has increased from Year 1 to Year 4.
+D.	Its per capita real GDP has decreased from Year 1 to Year 4.
+
+Answer: B
+
+Question code: B5C02Q011
+Study the following table.
+
+Type of goods	Output in Year 2	Unit price in Year 3	Unit price in Year 1	
+Clothes	2,000 units	$10	$5	
+Food	10,000 units	$30	$40	
+
+Suppose the economy produces two goods only: clothes and food. Real GDP (base year = Year 3) in Year 2 is
+A.	$320,000.
+B.	$410,000.
+C.	$420,000.
+D.	$480,000.
+
+Answer: A
+
+
+Question code: B5C02Q012
+Answer the following question by referring to the following information about Country A in Year 8.
+
+Products	Output in Year 8	Unit price in Year 8	Unit price in base year	
+Apple	10,000 units	$1,000	$50	
+Orange	2,000 units	$1,000	$50	
+
+Suppose Country A is self-sufficient (自給自足的) and only produces apples and oranges. Which of the following statements about Country A is correct?
+A.	Its nominal GDP in the base year is $600,000.
+B.	Its nominal GDP in Year 8 is $600,000.
+C.	Its real GDP in the base year is $600,000.
+D.	Its real GDP in Year 8 is $600,000.
+
+Answer: D
+
+Question code: B5C02Q013
+Compared with nominal GDP, real GDP is a better measure of aggregate output. Which of the following can explain this?
+A.	When there are increases in quantities of particular goods, real GDP will increase but nominal GDP will not.
+B.	Nominal GDP may increase with prices, but real GDP will not.
+C.	Nominal GDP may be affected by the change in population, but real GDP will not.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C02Q014
+Which of the following statements is correct?
+A.	A drop in nominal GDP signifies an increase in real output.
+B.	A drop in per capita nominal GDP signifies an increase in population.
+C.	A drop in per capita real GDP signifies decreases in both real output and the price level.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C02Q015 (new)
+Which of the following statements about GDP at factor cost is correct?
+A.	It is equal to the sum of the value-added of goods produced by all households.
+B.	Its real value must be different from GDP at market prices.
+C.	It does not include the amount of indirect taxes.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C02Q016
+Which of the following equations about GDP at market prices are INCORRECT?
+(1)	GDP at market prices = GDP at factor cost - Taxes
+(2)	GDP at market prices = Real GDP × Prices
+(3)	GDP at market prices = Nominal GDP × Population
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B5C02Q017
+Which of the following equations about per capita GDP are INCORRECT?
+(1)	Per capita GDP = GDP ÷ Population
+(2)	Per capita nominal GDP = Per capita actual GDP × Prices
+(3)	Per capita real GDP = Nominal GDP ÷ Population
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+
+Question code: B5C02Q018
+Which of the following statements about GDP is correct?
+A.	It is unaffected by changes in prices.
+B.	It is unaffected by changes in population.
+C.	It is unaffected by indirect tax.
+D.	In theory, it is unaffected by the methods of measurement.
+
+Answer: D
+
+Question code: B5C02Q019
+A decrease in per capita real GDP must imply
+A.	a fall in the general standard of living.
+B.	a decrease in real GDP.
+C.	an increase in population.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C02Q020
+Which of following descriptions about potential GDP is INCORRECT?
+A.	It is the GDP of a country when all resources of the country are used efficiently.
+B.	It is also called full employment GDP.
+C.	It is hypothetical and so cannot be estimated.
+D.	None of the above
+
+Answer: C
+
+Question code: B5C02Q021
+Which of the following will NEVER happen?
+(1)	GDP at factor cost > GDP at market prices
+(2)	Real GDP > Nominal GDP
+(3)	Per capita GDP > GDP
+A.	(3) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	(2) and (3) only
+
+Answer: A
+
+Question code: B5C02Q022
+Which of the following about full employment GDP is correct?
+(1)	It can be equal to actual GDP.
+(2)	It can be real GDP.
+(3)	It eliminates the effect of population changes in different years.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: A
+
+Question code: B5C02Q023
+Which of the following is NOT a use of GDP statistics?
+A.	Help the government formulate economic policies
+B.	Help firms make investment plans
+C.	Help people understand the extent of income inequality
+D.	Help make international comparisons among different economies
+
+Answer: C
+
+Question code: B5C02Q024 (new)
+Which of the following is a use of GDP statistics?
+A.	Help individuals make consumption plans for durable goods
+B.	Help people understand the effects of production
+C.	Help people understand the extent of pollution
+D.	Help reflect on the economic welfare of an economy
+
+Answer: D
+
+
+Question code: B5C02Q025
+Which of the following statements is correct?
+A.	When the nominal GDP is larger than the real GDP, people's standard of living improves.
+B.	The change in real GDP can imply a change in either the volume of aggregate output or the price level.
+C.	The GDP deflator covers changes in the prices of all goods.
+D.	Per capita real GDP may overestimate the general standard of living when income distribution is highly uneven.
+
+Answer: D
+
+Question code: B5C02Q026 (new)
+Which of the following can cause per capita nominal GDP to overestimate a country's standard of living?
+(1)	An increase in population
+(2)	Uneven income distribution
+(3)	Disinflation
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B5C02Q027 (new)
+GDP may underestimate economic welfare. Which of the following are the possible reasons?
+(1)	Much illegal production remains undiscovered.
+(2)	The value of unpaid services is not counted in GDP.
+(3)	The value of pollution is not counted in GDP.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: A
+
+
+Question code: B5C02Q028 (new)
+Real GDP cannot accurately reflect a country's living standard because it cannot reflect _______.
+A.	changes in the price level
+B.	the value of leisure
+C.	the value of intermediate products
+D.	the value of final products
+
+Answer: B
+
+Question code: B5C02Q029 (new)
+Per capita real GDP CANNOT accurately reflect the economic welfare of an economy because
+A.	it does not consider fairness in the distribution of income.
+B.	it does not include unpaid household services for self-consumption.
+C.	it does not consider the working hours of workers.
+D.	All of the above
+
+Answer: D
+
+Question code: B5C02Q030
+Per capita real GDP may NOT be a good indicator of the general living standard of a country because
+(1)	there may be inflation in a country.
+(2)	there may be a change in population size.
+(3)	income distribution of a country may be very uneven.
+(4)	leisure is not considered.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+
+Question code: B5C02Q031
+Real GDP is NOT a good indicator for comparing the standard of living between different countries because different countries may have different
+(1)	pollution levels.
+(2)	uses of output
+(3)	price levels.
+(4)	values of unpaid services produced by households for self-consumption.
+A.	(1) and (4) only
+B.	(2) and (3) only
+C.	(1), (2) and (4) only
+D.	(1), (3) and (4) only
+
+Answer: C
+
+Question code: B5C02Q032
+Nominal GDP will overestimate our standard of living if
+(1)	the value of illegal production is very large.
+(2)	private consumption takes up a large proportion of GDP.
+(3)	the general price level is decreasing.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B5C02Q033
+Which of the following statements about GDP is correct?
+A.	Nominal GDP may overestimate the general standard of living if the cost of living is increasing.
+B.	Using real GDP to measure the general standard of living can avoid errors due to illegal activities.
+C.	Multiplying real GDP by the price index at the base year gives the nominal GDP.
+D.	If we use per capita real GDP to measure the general standard of living, we can eliminate the effect of uneven income distribution.
+
+Answer: A
+
+
+Question code: B5C02Q034
+Suppose the population and the real GDP of Country A and Country B are the same. Which of the following is INCORRECT?
+A.	Their nominal GDPs may be the same.
+B.	Their per capita real GDPs must be the same.
+C.	Their standard of living must be the same.
+D.	Their per capita nominal GDPs may be the same.
+
+Answer: C
+
+Question code: B5C02Q035
+Study the following real GDP data for Country A and Country B in Year 4 and Year 5.
+ 
+	Year 4	Year 5	
+Country A	$12 billion	$12 billion	
+Country B	$10 billion	$12 billion	
+
+Which of the following statements about the two countries is correct?
+A.	In Year 4, Country A's nominal GDP was higher than Country B's nominal GDP.
+B.	In Year 5, Country A's price level did not change but Country B's price level decreased.
+C.	In Year 5, Country B's people were as wealthy as Country A's people.
+D.	None of the above
+
+Answer: D
+
+Question code: B5C02Q036
+Per capita real GDP in Country A and Country B are the same. Yet, the general living standard in Country A is lower than that in Country B. Which of the following are possible reasons? 
+(1)	The population of Country A is higher.
+(2)	The crime rate in Country A is higher than that of Country B.
+(3)	Pollution in Country A is much more serious.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: C
+
+Question code: B5C02Q037
+Suppose the renminbi (人民幣) is undervalued. Which of the following is correct?
+(1)	China's GDP measured in renminbi will be undervalued.
+(2)	China's GDP measured in US dollars will be overvalued.
+(3)	We cannot make any international comparison between China and other countries.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+Question code: B5C02Q038
+Which of the following statements about a price index is correct?
+A.	Its changes affect real GDP.
+B.	The price index in the base period is set at 100.
+C.	If the price index in the current period is 150, the current-period price level is 50% higher than that of the preceding period.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C02Q039
+Household expenditures and incomes are generally positively related. Therefore,
+A.	CPI(A) reflects the price level of products generally purchased by the high income group.
+B.	CPI(B) reflects the price level of products generally purchased by the medium income group.
+C.	CPI(C) reflects the price level of products generally purchased by the low income group.
+D.	The composite CPI reflects the price level of products generally purchased by all households.
+
+Answer: B
+
+
+Question code: B5C02Q040
+Which of the following statements about different consumer price indices is correct?
+A.	There are only three consumer price indices in Hong Kong.
+B.	Different price indices are compiled according to different expenditure ranges.
+C.	CPI(B) measures the effect of price increases on the low-income group.
+D.	None of the above
+
+Answer: B
+
+Question code: B5C02Q041
+Which of the following statements about consumer price indices is INCORRECT? 
+A.	They cover changes in import prices.
+B.	They measure changes in the price level of a basket of consumer goods and services.
+C.	The percentage changes in price levels measured by different consumer price indices may not be the same.
+D.	The composite CPI reflects the price level of products generally purchased by all households.
+
+Answer: D
+
+Question code: B5C02Q042
+Which of the following statements about the GDP deflator is correct?
+A.	The GDP deflator of the preceding period is equal to the GDP at the preceding market price divided by the GDP at current market prices.
+B.	The GDP deflator of the base year is equal to 100.
+C.	The GDP deflator is a figure showing the price level of consumer goods and services.
+D.	The value of the GDP deflator is the same as the consumer price index in the base year.
+
+Answer: B
+
+
+Question code: B5C02Q043
+Which of the following statements about the implicit price deflator of GDP is INCORRECT?
+(1)	It is the weighted average of the prices of all consumer goods.
+(2)	It is commonly used in Hong Kong.
+(3)	The GDP deflator of the current period is equal to real GDP divided by nominal GDP times 100.
+A.	(1) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B5C02Q044 (new)
+The following table shows an economy's statistics:
+
+	Year 8	Year 9	
+Nominal GDP	$10,000,000	X	
+GDP deflator	100	102	
+Population	2,000	2,060	
+
+If per capita real GDP remains unchanged in Year 9, X equals to ________.
+A.	$9,200,000
+B.	$9,900,000
+C.	$10,100,000
+D.	$10,506,000
+
+Answer: D
+
+
+Question code: B5C02Q045
+Study the following data of a country.
+
+Nominal GDP in Year 5	$600 billion	
+Population in Year 5	2 billion	
+Price index in Year 5	50	
+Price index in the base year	100	
+
+The real GDP in Year 5 is
+A.	$12 billion.
+B.	$300 billion.
+C.	$1,200 billion.
+D.	$3,000 billion.
+
+Answer: C
+
+Question code: B5C02Q046
+Study the following data of a country.
+
+Real GDP in Year 5	$100 billion	
+Population in Year 5	2 billion	
+Price index in Year 5	50	
+Price index in the base year	100	
+
+The nominal GDP in Year 5 is
+A.	$25 billion.
+B.	$50 billion.
+C.	$200 billion.
+D.	$400 billion.
+
+Answer: B
+
+
+Question code: B5C02Q047
+Study the following data of a country.
+Nominal GDP in Year 2	$1,200 billion	
+Population in Year 2	1 billion	
+Price index in Year 2	150	
+Price index in the base year	100	
+The per capita real GDP in Year 2 is
+A.	$800.
+B.	$1,800.
+C.	$18,000.
+D.	$80,000.
+
+Answer: A
+
+Question code: B5C02Q048
+Study the following information.
+Year	Year 1	Year 2	
+Real GDP (Base year = Year 3)	$2,000 billion	$2,400 billion	
+Population 	1 billion	1.2 billion	
+Price index (Base year = Year 3)	200	100	
+
+The per capita nominal GDPs in Year 1 and Year 2 are ________ and ________, respectively.
+A.	$2,000; $2,000
+B.	$4,000; $2,000
+C.	$2,000; $4,000
+D.	They cannot be determined as no information about the price index of the base year is provided.
+
+Answer: B
+
+
+Question code: B5C02Q049
+Study the following information about Country A for Year 4 and Year 5.
+	Year 4	Year 5	
+Nominal GDP ($ million)	300	250	
+Real GDP ($ million)	X	250	
+Price index	150	Y	
+
+The values of X and Y are ________ and ________, respectively.
+A.	450; 375
+B.	300; 125
+C.	200; 125
+D.	200; 100
+
+Answer: D
+
+Question code: B5C02Q050
+Study the following information about Country A.
+
+	Base Year	Year 2	
+Nominal GDP ($)	1,000,000	10,000,000	
+Per capita nominal GDP ($)	2,000	X	
+GDP deflator	100	1,000	
+
+Suppose Country A's population remains unchanged. The value of X is
+A.	2,000.
+B.	20,000.
+C.	200,000.
+D.	2,000,000.
+
+Answer: B
+
+
+Question code: B5C02Q051
+Answer the following question by referring to the following information about Country A in Year 5.
+
+Products	Output in Year 5	Unit price in Year 5	Unit Price in Year 1	
+Lychees	1,000 units	$100	$50	
+Lychee ice cream	500 units	$200	$100	
+
+Which of the following statements is correct?
+A.	Country A's general price level has increased by 100% between Year 1 and Year 5.
+B.	The output of lychees in Year 1 is greater than the output of lychees in Year 5 as the price of lychees in Year 1 is lower.
+C.	In Year 5, the value of lychees produced equals the value of lychee ice cream produced.
+D.	Since the price of lychee ice cream is higher than the price of lychees, Country A should produce more lychees.
+
+Answer: C
+
+Question code: B5C02Q052
+Which of the following statements about an increase in the real GDP of a country is correct?
+A.	There has been an increase in the output of the country.
+B.	There must be a decrease in the general price level.
+C.	The nominal GDP must increase at a faster rate than the price level.
+D.	Every person in the country has more goods to consume.
+
+Answer: A
+
+
+Question code: B5C02Q053
+* If the GDP deflator has increased, which of the following statements is correct?
+A.	The nominal GDP must be rising.
+B.	The real GDP must be rising.
+C.	Nominal GDP must not be equal to real GDP.
+D.	None of the above
+
+Answer: D
+Explanation
+Option C is incorrect. If the GDP deflator in the preceding period is lower than 100 and the GDP deflator in the current period increases to 100, nominal GDP will be equal to real GDP.
+
+Question code: B5C02Q054 (new)
+Which of the following best reflects the cost of living?
+A.	Consumer price index
+B.	Real GDP
+C.	Per capita real GDP
+D.	Implicit price deflator of GDP
+
+Answer: A
+
+Question code: B5C02Q055 (new)
+Which of the following are correct descriptions about the consumer price index (CPI) and the GDP deflator?
+(1)	The coverage of the GDP deflator is larger than that of the CPI.
+(2)	The weights of the CPI components are different, while the weights of the GDP deflator components are the same.
+(3)	The CPI can better reflect the cost of living while the GDP deflator can better reflect the purchasing power of money.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B5C02Q056
+In Country A, the GDP deflator falls but CPI (A) merely increases. Which of the following can help explain this phenomenon?
+A.	The prices of daily food increase but export prices decrease.
+B.	The prices of non-consumer goods have increased.
+C.	The economy is growing rapidly.
+D.	None of the above
+
+Answer: A
+
+Question code: B5C02Q057
+* If Country A's implicit price deflator of GDP has decreased, which of the following is INCORRECT?
+A.	Country A's nominal GDP may not fall. 
+B.	Country A's consumer price indices may not fall.
+C.	Country A's GDP deflator may not be less than 100. 
+D.	The prices for all the goods and services included in Country A's GDP have decreased.
+
+Answer: D
+Explanation
+Option A is correct and so not the answer. If the percentage increase in the real GDP is greater than the percentage decrease in the implicit price deflator of GDP, the nominal GDP will increase.
+Option B is correct and so not the answer. As the coverage of the implicit price deflator of GDP is different from the coverage of consumer price indices, it is possible that they have different directions of change.
+
+
+Question code: B5C02Q058 (new)
+Which of the following statements are correct?
+(1)	If both real GDP and the price level increase, nominal GDP must increase.
+(2)	If nominal GDP increases while the population decreases, per capita nominal GDP must increase.
+(3)	If real GDP remains unchanged but nominal GDP decreases, the price level must increase.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C02Q059
+Which of the following statements about the relationship between nominal GDP and real GDP is correct?
+A.	Real GDP increases when the percentage increase of nominal GDP is greater than the percentage increase in the price level.
+B.	Real GDP increases when the percentage decrease of nominal GDP is greater than the percentage decrease in the price level.
+C.	Real GDP remains unchanged when there is no change in nominal GDP.
+D.	The price index of the current period has a value of 100.
+
+Answer: A
+
+Question code: B5C02Q060 (new)
+In a certain year, the GDP at current market prices of City Y increases by 5%, and the price level and population increase by 6% and 3%, respectively.
+City Y's real GDP _______ and its per capita nominal GDP _______.
+A.	increases … increases
+B.	increases … decreases
+C.	decreases … increases
+D.	decreases … decreases
+
+Answer: C
+
+
+Question code: B5C02Q061 (new)
+A country's nominal GDP increases by 3% while its GDP deflator increases by 2%. Its real GDP _______.
+A.	increases by 2%
+B.	increases by 1%
+C.	decreases by 1%
+D.	decreases by 2%
+
+Answer: B
+
+Question code: B5C02Q062 (new)
+Refer to the following information about Country B.
+
+	Change (%)	
+Nominal GDP	8	
+GDP deflator	4	
+Population	9	
+
+Country B's real GDP _______ and its per capita nominal GDP _______.
+A.	increases ... increases
+B.	increases ... decreases
+C.	decreases ... increases
+D.	decreases ... decreases
+
+Answer: B
+
+Question code: B5C02Q063 (new)
+Country X's nominal GDP increases by 4%. Which of the following can be correct?
+(1)	Country X's real GDP decreases by 1% while its GDP deflator increases by 5%.
+(2)	Country X's per capita nominal GDP increases by 2% while its population increases by 2%.
+(3)	Country X's real GDP increases by 2% while its GDP deflator increases by 2%.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C02Q064 (new)
+Refer to the following information about Country B.
+
+Year	Change in nominal GDP (%)	Change in nominal public expenditure (%)	
+1	5	2	
+2	4	10	
+
+Which of the following are correct?
+(1)	The size of the public sector has decreased in Year 1.
+(2)	Nominal GDP has increased in Year 2.
+(3)	Real GDP has increased in Year 2.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B5C02Q065
+Study the information about Country X for Year 1 and Year 2.
+
+	Year 1	Year 2	
+Nominal GDP ($ billion)	100	120	
+Population (billion)	2	2.4	
+
+The growth rate of per capita nominal GDP between Year 1 and Year 2 was
+A.	-20%.
+B.	0%.
+C.	14.4%.
+D.	20%.
+
+Answer: B
+
+
+Question code: B5C02Q066
+Study the following information about Country A in Year 6 and Year 7.
+
+	Year 6	Year 7	
+Per capita nominal GDP ($ billion)	10,000	10,900	
+Population (billion)	10	10.9	
+
+The growth rate of nominal GDP between Year 6 and Year 7 was about
+A.	0%.
+B.	9%.
+C.	17%.
+D.	19%.
+
+Answer: D
+
+Question code: B5C02Q067
+If the GDP deflator increased from 111 to 118 in a certain year, this implies that
+A.	the general price level increased by 7%.
+B.	the prices of all goods increased by 7%.
+C.	the general income of the people increased by 7%.
+D.	the nominal GDP was smaller than the real GDP.
+
+Answer: D
+Explanation
+Option A is incorrect.
+Percentage increase in the general price level = (118 - 111) ÷ 111 = 6.3%
+
+
+Question code: B5C02Q068 (new)
+Study the following information about the consumer price index in Year 4 and Year 5.
+
+	Year 4	Year 5	
+Consumer price index	110	105	
+
+Which of the following statements is correct according to the above table?
+A.	The cost of living in Year 5 was lower than that in Year 4.
+B.	The standard of living in Year 4 was lower than that in Year 5.
+C.	The purchasing power of money in Year 4 was higher than that in Year 5.
+D.	The growth rate of the consumer price index in Year 5 was 5%.
+
+Answer: A
+
+Short Questions
+
+Question code: B5C02Q301 (new)
+(a)	What is the difference between nominal GDP and real GDP?	(2 marks)
+(b)	Explain why real GDP is a better measure of aggregate output than nominal GDP.	(2 marks)
+(c)	China's real GDP has surpassed Japan's real GDP. Does this imply that the general living standard of people in China is better than that in Japan? Explain your answer.	(3 marks)
+
+Answers:
+(a)	Nominal GDP is GDP measured at market prices in the current period while real GDP is measured at market prices in the base period.	(2 marks)
+(b)	In the compilation of real GDP, the effect of price changes in different years is eliminated. A change in real GDP must imply a change in the volume of aggregate output.	(2 marks)
+(c)	No.	(1 mark)
+	As the population of China is larger than that of Japan, the average output shared by each citizen in China is less than that in Japan. (Accept other reasonable answers.)	(2 marks)
+
+
+Question code: B5C02Q302
+(a)	Define gross domestic product (GDP), nominal GDP and real GDP.	(4 marks)
+(b)	'Nominal GDP is always greater than real GDP.' Explain whether this statement is correct.	(2 marks)
+
+Answers:
+(a)	GDP is the total value of production of all resident producing units of an economy in a specified period.	(2 marks)
+Nominal GDP is GDP measured at market prices in the current period.	(1 mark)
+Real GDP is GDP measured at market prices in the base period.	(1 mark)
+(b)	The statement is incorrect.	(1 mark)
+When the price level (or GDP deflator) of the current period is smaller than or equal to 100, nominal GDP will be smaller than or equal to real GDP.	(1 mark)
+
+Question code: B5C02Q303
+Study the following table about an economy:
+Type of goods	Output in Year 2	Unit price in Year 2	Unit price in Year 1	
+Good X	500 units	$20	$10	
+Good Y	100 units	$100	$50	
+Suppose the economy only produces Good X and Good Y.
+(a)	Use Year 1 as the base year to calculate nominal GDP and real GDP in Year 2.
+	(2 marks)
+(b)	Use Year 2 as the base year to calculate nominal GDP and real GDP in Year 2.
+	(2 marks)
+(c)	Are the results in (a) and (b) the same? Explain.	(4 marks)
+
+Answers:
+(a)	Nominal GDP in Year 2 = (500 × $20) + (100 × $100) = $20,000	(1 mark)
+Real GDP (at market prices in Year 1) in Year 2 = (500 × $10) + (100 × $50)
+= $10,000	(1 mark)
+(b)	Nominal GDP in Year 2 = $20,000	(1 mark)
+Real GDP (at market prices in Year 2) in Year 2 = Nominal GDP in Year 2
+= $20,000	(1 mark)
+(c)	The results of nominal GDPs in (a) and (b) are the same as the same prices are used to value the same quantities.	(2 marks)
+The results of real GDPs in (a) and (b) are different as different prices are used to value the same quantities.	(2 marks)
+
+Question code: B5C02Q304
+Explain why real GDP is a better measure of aggregate output than nominal GDP.
+	(4 marks)
+
+Answers:
+A change in nominal GDP in different periods can be caused by a change in quantities and/or a change in prices.	(1 mark)
+Therefore, we do not know whether an increase in nominal GDP implies an increase in quantities, in prices or in both.	(1 mark)
+However, in the measurement of real GDP, quantities of outputs in different periods are all valued at the same base-period prices. The effect of price changes in different years is eliminated.	(1 mark)
+A change in real GDP must imply a change in the volume of aggregate output.
+	(1 mark)
+Hence, real GDP is a better measure of aggregate output.
+
+Question code: B5C02Q305
+(a)	Define GDP.	(2 marks)
+(b)	Show the relationship between GDP at factor cost and GDP at market prices.
+		(2 marks)
+(c)	Explain under what situation GDP at market prices and GDP at factor cost are the same.	(1 mark)
+
+Answers:
+(a)	GDP is the total value of production of all resident producing units of an economy in a specified period.	(2 marks)
+(b)	GDP at factor cost = GDP at market prices - Indirect taxes + Subsidies	(2 marks)
+(c)	If indirect taxes are equal to subsidies (or both indirect taxes and subsidies are equal to zero), GDP at factor cost will be equal to GDP at market prices.	(1 mark)
+
+
+Question code: B5C02Q306
+(a)	Define GDP.	(2 marks)
+(b)	Show the relationship between per capita GDP and GDP.	(1 mark)
+(c)	Explain why per capita GDP is a better measure of economic welfare than GDP.
+	(2 marks)
+
+Answers:
+(a)	GDP is the total value of production of all resident producing units of an economy in a specified period.	(2 marks)
+(b)	Per capita GDP = GDP ÷ Population	(1 mark)
+(c)	When there is an increase in population, the average output enjoyed by each person will be lower. Per capita GDP eliminates the effect of population size. Thus, per capita GDP is a better measure of economic welfare than GDP.	(2 marks)
+
+Question code: B5C02Q307
+(a)	Define GDP.	(2 marks)
+(b)	Explain under what situation GDP will be equal to full employment GDP.	(1 mark)
+
+Answers:
+(a)	GDP is the total value of production of all resident producing units of an economy in a specified period.	(2 marks)
+(b)	When all resources of an economy are used efficiently, its GDP will be equal to its full employment GDP.	(1 mark)
+
+Question code: B5C02Q308
+Identify THREE major uses of national income statistics.	(3 marks)
+
+Answers:
+•	To assess the economic performance of an economy
+•	To reflect the economic welfare of an economy
+•	To facilitate international comparison
+•	To provide information to the government in formulating economic policies
+•	To help firms make production and investment plans
+(Any THREE of the above or other reasonable answers. 1 mark × 3 = 3 marks)
+
+
+Question code: B5C02Q309 (new)
+State THREE limitations of per capita real GDP as an indicator of economic welfare.
+	(6 marks)
+
+Answers:
+•	Values of some unpaid services are excluded;
+•	The estimates of the value of illegal production, unreported production and non-marketed production may be inaccurate;
+•	The value of leisure is not counted;
+•	Undesirable effects of production are not considered;
+•	The uses of output may not be considered;
+•	Distribution of income is not considered; and
+•	Market value of the currency of a country may affect the use of its national income statistics for international comparison of economic welfare.
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+Question code: B5C02Q310
+Suggest THREE situations when national income statistics may underestimate the economic welfare of a country.	(6 marks)
+
+Answers:
+•	Values of some unpaid services are excluded;
+•	The estimates of the value of illegal production, unreported production and non-marketed production may be too low;
+•	The value of leisure is not counted;
+•	Some positive effects of production, such as some external benefits, are not considered;
+•	The effect of decreases in the price level may not be removed;
+•	The effect of a decrease in population size may not be eliminated;
+•	The reduction in income inequality is not considered; and
+•	Market value of the country's currency may be underestimated. This will underestimate its national income statistics compared with other countries.
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+
+Question code: B5C02Q311
+State THREE situations when real GDP may overestimate the economic welfare of a country.	(6 marks)
+
+Answers:
+•	The estimates of the value of illegal production, unreported production and non-marketed production may be overestimated;
+•	Undesirable effects of production are not considered;
+•	The effect of an increase in population size is not eliminated;
+•	The increase in income inequality is not considered; and
+•	Market value of the country's currency may be overestimated. This will overstate its national income statistics compared with other countries.
+(Any THREE of the above or other reasonable answers. 2 marks × 3 = 6 marks)
+
+Question code: B5C02Q312 (new)
+Does per capita real GDP underestimate or overestimate the economic welfare of a country under the following cases? Explain your answers.
+(a)	Many retired people work for charitable organisations as volunteers.	(3 marks)
+(b)	The country's GDP is higher than the global average level due to the country's industrious workers whose working hours are much longer than the global average.	(3 marks)
+(c)	Hundreds of thousands of new immigrants have recently flooded into the country.
+	(3 marks)
+
+Answers:
+(a)	Underestimate	(1 mark)
+	Volunteer services are unpaid so they are not included in GDP. However, these kinds of unpaid services actually increase a country's economic welfare.	(2 marks)
+(b)	Overestimate	(1 mark)
+	Longer working hours reduce workers' leisure time and hence affect their living standards. This is not reflected by the GDP.	(2 marks)
+(c)	Neither underestimate nor overestimate	(1 mark)
+	The inflow of new immigrants increases the population of the country. However, the effect of changes in the population is eliminated in the calculation of per capita real GDP.	(2 marks)
+
+
+Question code: B5C02Q313 (new)
+If the per capita real GDP of Country X increases, can we conclude that the general living standard of the country has improved during the period? Explain, giving TWO reasons.	(5 marks)
+
+Answers:
+No.	(1 mark)
+As a measure of the general living standard, per capita real GDP has the following limitations.
+•	It cannot reflect the problem of uneven income distribution;
+•	It cannot reflect the uses of output;
+•	It does not include the value of unpaid services produced by households for self-consumption;
+•	It does not consider the undesirable effects of production which lower living standards;
+•	It does not count the value of leisure.
+(Any TWO of the above or other reasonable explanations. 2 marks × 2 = 4 marks)
+
+Question code: B5C02Q314
+Explain why high per capita real GDP does not mean a high standard of living. Give THREE reasons.	(6 marks)
+
+Answers: 
+This is because per capita real GDP does not reflect the following:
+•	The extent of income inequality
+•	Uses of output
+•	The value of unpaid services produced by households for self-consumption
+•	Undesirable effects of production
+•	The value of leisure
+(Any THREE of the above or other reasonable explanations. 2 marks ( 3 = 6 marks)
+
+
+Question code: B5C02Q315
+The following table shows the GDP components of a country in Year 7 and Year 8.
+
+	Year 7	Year 8	
+Private consumption expenditure ($ billion)	50	8	
+Gross domestic capital formation ($ billion)	15	52	
+Government consumption expenditure ($ billion)	10	10	
+Net exports ($ billion)	5	20	
+Population (billion)	0.3	0.5	
+
+(a)	Calculate the nominal GDP in Year 7 and Year 8.	(4 marks)
+(b)	Based on your answers in (a), can you conclude that the general living standard has improved? Suggest TWO reasons to support your answer by using the information in the table.	(5 marks)
+
+Answers:
+(a)	Nominal GDP in Year 7 = $(50 + 15 + 10 + 5) billion	(1 mark)
+= $80 billion	(1 mark)
+Nominal GDP in Year 8 = $(8 + 52 + 10 + 20) billion	(1 mark)
+= $90 billion	(1 mark)
+(b)	No, we cannot.	(1 mark)
+This is because:	
+•	the population in Year 8 is higher and per capita GDP in Year 8 is lower:
+	(1 mark)
+Year 7 is $266.7; Year 8 is $180.	(1 mark)
+•	the composition of GDP is different. Private consumption takes up a smaller proportion in Year 8:	(1 mark)
+Year 7: 100% = 62.5%
+Year 8: 100% = 8.9%	(1 mark)
+
+
+Question code: B5C02Q316 (new)
+The following gives information about Country S in 2014.
+
+GDP at factor cost	$3,975,000	
+GDP deflator	125	
+Population	8,400	
+
+(a)	The amounts of indirect taxes and subsidies in 2014 are $150,000 and $70,000, respectively. Calculate Country S's GDP at market prices in 2014.	(2 marks)
+(b)	Suppose the GDP deflator in 2010 was 105. Calculate Country S's real GDP in 2014, using 2010 as the base year.	(2 marks)
+(c)	(i)	Calculate per capita real GDP in 2014. What does this figure reflect?	(3 marks)
+	(ii)	Jacky said, 'Since the per capita real GDP in 2014 is higher than that in 2010, the economic welfare of everyone in Country S has improved.' Explain why he may NOT be correct.	(2 marks)
+
+Answers:
+(a)	GDP at market prices
+	=	GDP at factor cost + Indirect taxes - Subsidies
+	=	$3,975,000 + $150,000 - $70,000
+	=	$4,055,000	(2 marks)
+(b)	Real GDP in 2014
+	=	GDP at market prices in 2014 ÷ GDP deflator in 2014 × GDP deflator in base year
+	=	$4,055,000 ÷ 125 × 105
+	=	$3,406,200	(2 marks)
+(c)	(i)	Per capita real GDP in 2014
+		= Real GDP in 2014 ÷ Population
+		= $3,406,200 ÷ 8,400
+		= $405.5	(2 marks)
+		This figure reflects the average output enjoyed by each person in Country S.
+	(1 mark)
+	(ii)	Although the average output to each person has increased, the output may not be evenly distributed among the population.	(2 marks)
+		(Accept other reasonable answers.)
+
+
+Question code: B5C02Q317
+(a)	Define the general price level and price index.	(4 marks)
+(b)	List TWO types of price indices which are most commonly used in Hong Kong.
+	(2 marks)
+
+Answers:
+(a)	The general price level is the weighted average of prices of all goods and services of a country or territory.	(2 marks)
+A price index is a figure showing the price level of a basket of goods and services in a specified period relative to its price level in the base period.	(2 marks)
+(b)	The consumer price index and	(1 mark)
+the implicit price deflator of GDP (or GDP deflator)	(1 mark)
+
+Question code: B5C02Q318
+What are the consumer price index (CPI) and the GDP deflator? Give TWO differences between them.	(8 marks)
+
+Answers:
+The consumer price index is a figure that shows the price level of consumer goods and services generally purchased by (domestic) households in a specified period relative to the price level in the base period.	(2 marks)
+The GDP deflator is a figure that shows the price level of goods and services related to GDP in a specified period relative to the price level in the base period.	(2 marks)
+Differences between them:
+•	The CPI covers products generally purchased by domestic households but the GDP deflator covers products related to GDP. Thus, some goods not purchased by domestic households but that are related to GDP will be only covered by the GDP deflator.
+•	Fixed weights are used in the CPI but variable weights are used in the GDP deflator.
+(Accept any other reasonable answers. 2 marks × 2 = 4 marks)
+
+
+Question code: B5C02Q319 (new)
+Refer to the following information about Country A.
+
+Year	Consumer price index	GDP deflator	
+2013 (base year)	100	100	
+2014	105	104	
+
+(a)	Calculate the growth rates of the general price level by using the consumer price index and GDP deflator, respectively.	(2 marks)
+(b)	Based on your answer in (a), what is the change in the cost of living in 2014?
+	(1 mark)
+(c)	Explain whether the consumer price index or the GDP deflator can better reflect the cost of living.	(3 marks)
+
+Answers:
+(a)	Growth rate of consumer price index
+	= (105 - 100) ÷ 100 × 100%
+	= 5%	(1 mark)
+	Growth rate of GDP deflator
+	= (104 - 100) ÷ 100 × 100%
+	= 4%	(1 mark)
+(b)	The cost of living increases by 5%.	(1 mark)
+(c)	Consumer price index	(1 mark)
+	The consumer price index shows the price level of products generally purchased by domestic households. Hence, it better reflects households' cost of living.
+	(2 marks)
+
+Question code: B5C02Q320
+The following are data of Economy X for Year 4 and Year 5.
+
+	Year 4	Year 5	
+Nominal GDP ($ billion)	10	12	
+Real GDP ($ billion)	11	13	
+
+Find the price index for Year 4 and Year 5, respectively. Also find the growth rate of the price index between Year 4 and Year 5.	(6 marks)
+
+
+Answers:
+Price index for Year 4 = (10 ÷ 11) × 100	(1 mark)
+= 90.9	(1 mark)
+Price index for Year 5 = (12 ÷ 13) × 100	(1 mark)
+= 92.3	(1 mark)
+The growth rate of the price index between Year 4 and Year 5
+= [(92.3 - 90.9) ÷ 90.9] × 100%	(1 mark)
+= 1.5%	(1 mark)
+
+Question code: B5C02Q321 (new)
+The following data refer to Economy A.
+
+	Base Year	Year 5	
+Nominal GDP	$1,000,000,000	$1,500,000,000	
+Per capita real GDP	$10,000	$12,000	
+
+Suppose the growth rate of the population is 10%. Find
+(a)	the population in the base year.	(1 mark)
+(b)	the per capita nominal GDP in the base year and Year 5.	(3 marks)
+(c)	the growth rate of per capita nominal GDP between the base year and Year 5.
+	(2 marks)
+
+Answers: 
+(a)	In the base year, nominal GDP and real GDP are the same; dividing nominal GDP by per capita real GDP gives the population in the base year, which is 100,000.		(1 mark)
+(b)	•	Per capita nominal GDP in Year 5
+	= Nominal GDP ( Population
+	= $[1,500,000,000 ( (100,000 ( 110%)]	(1 mark)
+	= $13,636.4	(1 mark)
+•	The per capita nominal GDP is equal to the per capita real GDP in the base year, that is, $10,000.	(1 mark)
+(c)	The growth rate of per capita nominal GDP between the base year and Year 5
+	= [(13,636.4 - 10,000) ( 10,000] ( 100%	(1 mark)
+	= 36.4%	(1 mark)
+
+
+Question code: B5C02Q322 (new)
+Refer to the following table.
+
+	Output (Year 1)	Price (Year 1)	Output (Year 2)	Price (Year 2)		Good X	100 units	$50	150 units	$50	
+Good Y	100 units	$100	120 units	$120	
+
+Suppose the economy only produces Good X and Good Y.
+(a)	Calculate the nominal GDP in Year 1 and Year 2, respectively.	(4 marks)
+(b)	Calculate the growth rate of nominal GDP.	(2 marks)
+
+Answers:
+(a)	Nominal GDP in Year 1 = (100 × $50) + (100 × $100) = $15,000	(2 marks)
+	Nominal GDP in Year 2 = (150 × $50) + (120 × $120) = $21,900	(2 marks)
+(b)	growth rate of nominal GDP = ($21,900 - $15,000) ÷ $15,000 × 100%
+	= 46%	(2 marks)
+
+Question code: B5C02Q323
+The following table shows the GDP data (in $ billion) of a country in Year 7 and 
+Year 8.
+	Year 7	Year 8	
+Private consumption expenditure	10	20	
+Gross domestic capital formation	5	6	
+Government consumption expenditure	3	4	
+Net exports	2	7	
+Indirect taxes	1	0.5	
+Subsidies	8	10	
+
+(a)	Calculate GDPs at factor cost (in $ billion) in Year 7 and Year 8.	(4 marks)
+(b)	Find the growth rate of GDP at factor cost in Year 8.	(2 marks)
+
+Answers:
+(a)	GDP at factor cost in Year 7
+= $(10 + 5 + 3 + 2 - 1 + 8) billion	(1 mark)
+= $27 billion	(1 mark)
+GDP at factor cost in Year 8
+= $(20 + 6 + 4 + 7 - 0.5 + 10) billion	(1 mark)
+= $46.5 billion	(1 mark)
+(b)	Growth rate of GDP at factor cost in Year 8
+= (46.5 - 27) ÷ 27 × 100%	(1 mark)
+= 72.2%	(1 mark)
+
+Question code: B5C02Q324
+The following table shows GDPs and the populations of a country in Year 7 and 
+Year 8.
+
+	Year 7	Year 8	
+GDP	$100	$200	
+Population	8	10	
+
+(a)	Find the exact value of the growth rate of per capita GDP in Year 8.	(3 marks)
+(b)	Find the approximate value of the growth rate of per capita GDP in Year 8.
+	(2 marks)
+
+Answers:
+(a)	Per capita GDP in Year 8 = $200 ÷ 10 = $20	(1 mark)
+Per capita GDP in Year 7 = $100 ÷ 8 = $12.5	(1 mark)
+Growth rate of per capita GDP in Year 8 = (20 - 12.5) ÷ 12.5 × 100%
+= 60%	(1 mark)
+(b)	Growth rate of per capita GDP	~ Growth rate of GDP - Growth rate of population
+	(1 mark)
+~ 100% - 25% = 75%	(1 mark)
+
+Question code: B5C02Q325 (new)
+Country A's nominal GDP, GDP deflator and population increases by 5%, 3% and 6%, respectively.
+(a)	Find the percentage change in real GDP.	(2 marks)
+(b)	Find the percentage change in per capita nominal GDP.	(2 marks)
+
+Answers:
+(a)	percentage change in real GDP ~ 5% - 3% = 2%	(2 marks)
+(b)	percentage change in per capita nominal GDP ~ 5% - 6% = -1%	(2 marks)
+
+
+Question code: B5C02Q326 (new)
+* The following shows Country B's ratio of real consumption expenditure to real GDP (i.e.,)
+
+	Ratio	
+Year 1	10%	
+Year 2	11%	
+
+Suppose Country B's real GDP increases by 4% in the same period.
+(a)	Find the percentage change in Country B's real consumption expenditure. Show your work.	(2 marks)
+(b)	With your answer in part (a), comment on Country B's economic welfare.
+	(2 marks)
+
+Answers:
+(a)	Percentage change in Country B's
+	= (11% - 10%) ÷ 10%
+	= 10%	
+	Percentage change in Country B's real consumption expenditure
+	~ 10% - 4% = 6%	(2 marks)
+(b)	As Country B's real consumption expenditure increases, its economic welfare improves.	(2 marks)
+	(Accept other reasonable answers.)
+
+
+Structured Questions
+
+Question code: B5C02Q501 (new)
+In a certain year, Silla's nominal GDP, price level and population decreased by 2%, 3% and 5%, respectively. Many people migrated to a neighbouring country. Kwangsu migrated to Baekje, while Jihyo stayed in Silla.
+(a)	Kwangsu said, 'It is a difficult year for Silla. Silla produced less output than last year.' Do you agree with him? Explain your answer with calculations.	(4 marks)
+(b)	Jihyo said, 'Thanks to those who left, the remaining compatriot (同胞) can enjoy more output on average than they did before.' Explain her statement with calculations.	(3 marks)
+(c)	Suppose both the real GDP and the population of Silla and Baekje are the same. Explain which country's living standard is higher in each case.
+	(i)	The average working hours in Silla are fewer than those in Baekje.	(3 marks)
+	(ii)	The contribution of Silla's investment to GDP is much higher than that of Baekje.	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	Changes in real GDP reflect changes in output.	(1 mark)
+	Percentage change in real GDP
+	= Percentage change in nominal GDP - Percentage change in price level
+	= -2% - (-3%) = 1%	
+	Silla produced 1% more output than the year before.	(2 marks)
+
+(b)	Per capita real GDP reflects the amount of output shared by each person.	(1 mark)
+	Percentage change in per capita real GDP
+	= Percentage change in real GDP - Percentage change in population
+	= 1% - (-5%) = 6%	
+	The average amount of output shared by each person in Silla increased by 6%.
+	(2 marks)
+
+(c)	(i)	Longer working hours imply less leisure time and a lower living standard. The value of leisure is not counted in GDP.	(2 marks)
+		Therefore, Silla's living standard is higher than that of Baekje.	(1 mark)
+	(ii)	More investment means less retained for consumption. People in Silla enjoy fewer goods and services than those in Baekje in the current period.	(2 marks)
+		Therefore, Baekje's living standard is higher than that of Silla.	(1 mark)
+
+Question code: B5C02Q502 (new)
+The following table gives information about Amestris.
+
+Year	Nominal GDP
+($ million)	Price index	
+1550	340,000	110	
+1551	346,800	121	
+
+(a)	Edward said, 'The output of Amestris increased in 1551 because its nominal GDP increased.' Alphonse said, 'changes in nominal GDP cannot accurately reflect changes in aggregate output. We should look at real GDP instead.'
+	(i)	Explain why nominal GDP CANNOT accurately reflect changes in aggregate output.	(2 marks)
+	(ii)	Calculate the real GDP of Amestris in 1550 and 1551 (assume the price index in the base year is 100). What do the results imply?	(4 marks)
+(b)	Winry is a merchant who sells mechanical equipment. Recently, she decided to expand her business. Her grandmother has retired and takes care of their home.
+	(i)	Suggest TWO indices measuring the general price level.	(2 marks)
+	(ii)	Explain which index is more important to Winry and her grandmother while considering their expenditure.	(6 marks)
+
+Answers:
+(a)	(i)	A change in nominal GDP in different periods can be caused by a change in quantities of output and/or a change in prices. Thus, we do not know whether an increase in nominal GDP implies an increase in quantities.	(2 marks)
+	(ii)	Real GDP of Amestris in 1550
+		= $340,000 million × 100 ÷ 110
+		= $309,091 million	(1 mark)
+		Real GDP of Amestris in 1551
+		= $346,800 million × 100 ÷ 121
+		= $286,612 million	(1 mark)
+		The real GDP of Amestris in 1551 is smaller than that in 1550. This implies a decrease in the aggregate output.	(2 marks)
+
+(b)	(i)	Consumer price index (CPI)	(1 mark)
+		GDP deflator	(1 mark)
+	(ii)	The GDP deflator is more important to Winry.	(1 mark)
+		The GDP deflator covers the price level of capital goods, which is related to Winry's investment expenditure.	(2 marks)
+		CPI is more important to Winry's grandmother.	(1 mark)
+		CPI shows the price level of products generally purchased by (domestic) households. It better reflects households' basic living expenses.	(2 marks)
+
+Question code: B5C02Q503
+The following table gives information about Country A in Year 4 and Year 5.
+	Year 4	Year 5	
+Real GDP ($ billion)	100	200	
+Population (billion)	0.1	0.1	
+Price index	100	105	
+(a)	Calculate nominal GDPs in Year 4 and Year 5.	(2 marks)
+(b)	Based on the above data, explain the most probable change in the general standard of living between Year 4 and Year 5.	(2 marks)
+(c)	Suggest THREE possible situations to explain why the change in the general standard of living is NOT necessarily the same as what is stated in (b).	(6 marks)
+
+Answers: 
+(a)	Nominal GDP in Year 4 = $100 billion	(1 mark)
+Nominal GDP in Year 5 = $(200 × 105 ÷ 100) billion = $210 billion	(1 mark)
+
+(b)	Since Country A's real GDP has increased by 100% between Year 4 and Year 5 and there is no change in its population, Country A's per capita real GDP must increase. All other things being equal, Country A's general standard of living will most likely improve.	(2 marks)
+
+(c)	•	Income distribution becomes much more uneven.
+•	There are many more unpaid services produced by households for self-consumption.
+•	There is a large reduction in the proportion of private consumption expenditure in GDP.
+•	There are more undesirable effects of production.
+(Any THREE of the above or other reasonable explanations. 2 marks × 3 = 6 marks)
+
+
+Question code: B5C02Q504
+The following table gives information about Monkey Island in Year 1 and Year 2.
+(in $ million)	Year 1	Year 2	
+Private consumption expenditure	100	10	
+Government consumption expenditure	50	120	
+Gross domestic fixed capital formation	30	30	
+Changes in inventories	20	20	
+Depreciation	1	1	
+Net exports	10	100	
+Imports	2	2	
+Indirect taxes	3	3	
+Subsidies	4	4	
+(a)	Define gross domestic product (GDP).	(2 marks)
+(b)	Calculate the GDPs at market prices in Year 1 and Year 2.	(4 marks)
+(c)	Suppose the total populations on Monkey Island in Year 1 and Year 2 are 1 million and 1.4 million, respectively.
+(i)	Show the relationship between per capita nominal GDP and nominal GDP by an equation.	(1 mark)
+(ii)	Calculate the per capita GDP at market prices for each year.	(2 marks)
+(iii)	Explain why per capita nominal GDP is a better indicator of economic welfare, compared with nominal GDP.	(1 mark)
+(d)	Suppose there are no changes in the general price level and populations on Monkey Island in Year 2.
+(i)	What would be the most probable change in the economic welfare of Monkey Island in Year 2?	(3 marks)
+(ii) Use the data in the above table to explain why the interpretation of national income statistics in (d)(i) may NOT be correct.	(2 marks)
+(e)	Explain how the following events affect Monkey Island's GDP and economic welfare in Year 2, respectively.
+*(i)	Some bananas produced in Year 1 are sold to domestic households in Year 2.
+		(4 marks)
+(ii)	More people participate in volunteer work in Year 2.	(4 marks)
+
+
+Answers:
+(a)	GDP is the total value of production of all resident producing units of an economy in a specified period.	(2 marks)
+
+(b)	GDP at market prices in Year 1 
+	= $[100 + (30 + 20) + 50 + 10] million	(1 mark)
+= $210 million	(1 mark)
+GDP at market prices in Year 2 
+= $[10 + (30 + 20) + 120 + 100] million	(1 mark)
+= $280 million	(1 mark)
+
+(c)	(i)	Per capita nominal GDP = Nominal GDP ÷ Population	(1 mark)
+(ii)	Per capita GDP at market prices in Year 1 = $(210 ÷ 1) = $210	(1 mark)
+Per capita GDP at market prices in Year 2 = $(280 ÷ 1.4) = $200	(1 mark)
+(iii)	Per capita nominal GDP eliminates the effect of population size while nominal GDP does not.	(1 mark)
+
+(d)	(i)	As there is no change in the general price level, the increase in nominal GDP implies that there is an increase in real GDP in Year 2.	(1 mark)
+As there is no change in population, the increase in real GDP implies that there is an increase in per capita real GDP in Year 2.	(1 mark)
+Thus, economic welfare in Year 2 will probably increase.	(1 mark)
+(ii)	An increase in private consumption expenditure can improve current economic welfare. Economic welfare in Year 2 may be lower as there is a decrease in private consumption expenditure.	(1 mark)
+The increase in nominal GDP is due to the increase in net exports. The exported goods are consumed by non-local households. Thus, economic welfare in Year 2 may be overestimated.	(1 mark)
+
+(e)	(i)	GDP is unaffected as the bananas are not produced in Year 2.	(2 marks)
+As there is an increase in private consumption expenditure, economic welfare in Year 2 will improve.	(2 marks)
+(ii)	GDP is unaffected as the value of volunteer services is not counted in the GDP.	(2 marks)
+There is an improvement in economic welfare as volunteer work improves economic welfare.	(2 marks)

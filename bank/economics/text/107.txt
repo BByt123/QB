@@ -1,0 +1,1233 @@
+Chapter 7	Market intervention (II)
+
+Multiple Choice Questions
+
+Question code: B1C07Q001 (new)
+Suppose the demand elasticity of a good is equal to zero and a unit tax is imposed on the good. Which of the following statements is correct?
+A.	The percentage decrease in quantity transacted equals the percentage increase in price.
+B.	The equilibrium price remains unchanged.
+C.	The government cannot receive tax revenue from the good.
+D.	Producers' total revenue (excluding tax) is not affected by the unit tax.
+
+Answer: D
+
+Question code: B1C07Q002 (new)
+Study the following supply and demand schedules of a good.
+
+Price ($)	Quantity demanded (units)	Quantity supplied (units)	
+2	100	60	
+4	80	80	
+6	60	100	
+8	40	120	
+10	20	140	
+
+If a $4 per-unit tax on the good is imposed, which of the following is correct?
+A.	The price will increase by $4.
+B.	Consumers' total expenditure will increase by $40.
+C.	Consumers' tax burden will be $100.
+D.	Producers' total revenue (excluding tax) will increase by $20.
+
+Answer: B
+
+Question code: B1C07Q003 (new)
+A reduction in the unit tax on gasoline (汽油) will cause
+A.	an improvement in air quality.
+B.	a decrease in the price of private cars.
+C.	an increase in sellers' total income after paying the tax.
+D.	a decrease in drivers' total expenditure on gasoline.
+
+Answer: C
+
+Question code: B1C07Q004 (new)
+Country K imposes a unit tax on imported seafood from Country J. In response, Country J imposes a unit tax on imported fruit from Country K. As a result,
+A.	Country K's total expenditure on Country J's seafood increases.
+B.	the price of domestic seafood in Country J increases.
+C.	the quality of fruit sold in Country K improves.
+D.	the total income of Country J fruit growers increases.
+
+Answer: D
+
+Question code: B1C07Q005 (new)
+Refer to the following supply-demand diagram of a good. The equilibrium price is $26.
+
+If the government imposes a $12 unit tax on the good, what will be the total expenditure on the good?
+A.	$6,800
+B.	$7,040
+C.	$7,800
+D.	$11,400
+
+Answer: A
+
+
+Question code: B1C07Q006 (new)
+Refer to the following supply-demand diagram of a good. The equilibrium price is $26.
+
+If the government imposes a $12 unit tax on the good, what will be the ratio of the consumers' tax burden to the producers' tax burden?
+A.	1:2
+B.	2:3
+C.	1:1
+D.	2:1
+
+Answer: D
+Explanation:
+After the imposition of the $12 unit tax, the supply curve shifts upward by $12. The market price will increase from $26 to $34. Hence, the amount of unit tax borne by consumers is $8. The amount of unit tax borne by producers is $4. As a result the ratio of the consumers' tax burden to the producers' tax burden = $8 : $4 = 2:1.
+
+
+Question code: B1C07Q007 (new)
+Refer to the following table about the supply-demand schedule of a good.
+
+Price ($)	6	7	8	9	10	11		Quantity supplied (units)	16	20	24	28	32	36		Quantity demanded (units)	28	26	24	22	20	18		
+If the government imposes a $3 unit tax on the good,
+A.	the market price will increase by $3.
+B.	the total expenditure will increase by $8.
+C.	the tax revenue will be $24.
+D.	the price actually received by sellers will be $6.
+
+Answer: B
+
+Question code: B1C07Q008 (new)
+Refer to the following table about the supply-demand schedule of a good.
+
+Price ($)	6	7	8	9	10	11		Quantity supplied (units)	16	20	24	28	32	36		Quantity demanded (units)	28	26	24	22	20	18		
+If the government imposes a $3 unit tax on the good, the ratio of the consumers' tax burden to the producers' tax burden will be
+A.	1 : 2
+B.	1 : 1
+C.	2 : 1
+D.	3 : 1
+
+Answer: C
+
+Question code: B1C07Q009 (new)
+Refer to the following table about the supply-demand schedule of a good.
+
+Price ($)	10	11	12	13	14	15		Quantity supplied (units)	27	29	31	33	35	37		Quantity demanded (units)	42	39	36	33	30	27		
+If the government imposes a $5 unit tax on the good, the producers' tax burden will be 
+A.	$54.
+B.	$81.
+C.	$99.
+D.	$135.
+
+Answer: B
+
+Question code: B1C07Q010
+Metal is used to make scissors. Which of the following would happen if the government imposes a unit tax on metal?
+A.	The demand for scissors will decrease.
+B.	The demand for metal will decrease.
+C.	The quantity transacted of scissors will increase if the elasticity of demand for metal is smaller than 1.
+D.	The price of scissors will increase.
+
+Answer: D
+
+Question code: B1C07Q011
+Refer to the diagram below.
+
+If the government imposes a unit tax on the good, what will producers' tax burden be?
+A.	$80
+B.	$90
+C.	$100
+D.	$240
+
+Answer: A
+
+
+Question code: B1C07Q012
+Suppose a per-unit tax is imposed on bread. The tax burden of consumers is greater than that of producers if the price elasticity demand for bread is __________ the price elasticity of supply.
+A.	smaller than
+B.	equal to
+C.	greater than
+D.	Tax incidence is independent of the elasticities of supply and demand.
+
+Answer: A
+
+Question code: B1C07Q013
+The elasticity of demand for a camera model is smaller than 1 and the elasticity of supply is greater than 1. If the government imposes a per unit tax on the camera model, which of the following statements is true?
+A.	Consumers' total expenditure will increase.
+B.	Producers' total revenue (excluding tax) will increase.
+C.	Producers' tax burden will be greater than consumers' tax burden.
+D.	The quantity transacted of the camera model will increase.
+
+Answer: A
+
+Question code: B1C07Q014
+Suppose the demand curve for wine is downward sloping and the supply curve is upward sloping. If the government imposes a per-unit sales tax on wine, which of the following items must decrease?
+	(1)	Quantity demanded
+	(2)	The consumers' total expenditure
+	(3)	The producers' total revenue net of the tax
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C07Q015 (new)
+Suppose the government imposes a per-unit tax on luxury handbags. Which of the following is correct?
+A.	Consumers bear the entire tax burden.
+B.	The actual price that producers receive decreases.
+C.	The price of fake luxury handbags decreases.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C07Q016
+A government has decided to impose a unit sales tax on alcoholic beverages to discourage their consumption. This policy will become more effective if
+A.	the demand is elastic.
+B.	the demand is inelastic.
+C.	the supply is elastic.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C07Q017
+In order to build a healthier living environment, the Hong Kong Government has decided to increase cigarette tax. This measure will be ineffective if
+A.	the demand for cigarettes is perfectly inelastic. 
+B.	the demand for cigarettes is unitarily elastic. 
+C.	the supply of cigarettes is perfectly elastic.
+D.	the supply of cigarettes is unitarily elastic.
+
+Answer: A
+
+Question code: B1C07Q018
+Suppose the government reduces the unit sales tax on cosmetics. Which of the following is correct?
+A.	The total revenue of their complements will decrease.
+B.	The government's tax revenue will increase since the quantity transacted increases.
+C.	The price of their complements will increase.
+D.	The reduction in the consumers' tax burden is larger than the reduction in the producers' tax burden.
+
+Answer: C
+
+
+Question code: B1C07Q019
+The higher the price elasticity of demand for a good,
+A.	the less the effect of a per-unit sales tax on the market price.
+B.	the greater the effect of a per-unit sales tax on the market price.
+C.	the smaller the reduction in quantity transacted from a per-unit sales tax.
+D.	the greater the tax revenue from a per-unit sales tax.
+
+Answer: A
+
+Question code: B1C07Q020
+* If the demand for bananas is perfectly elastic,
+A.	a per-unit sales tax will cause the price of bananas to increase.
+B.	a per-unit sales tax will cause the price of bananas to decrease.
+C.	producers bear the entire tax burden.
+D.	consumers bear the entire tax burden.
+
+Answer: C
+
+Question code: B1C07Q021
+In which of the following situations will a $3 per-unit sales tax lead to a $3 increase in price?
+A.	The price elasticity of demand is equal to one.
+B.	The price elasticity of demand is equal to infinity.
+C.	The price elasticity of supply is equal to zero.
+D.	The price elasticity of supply is equal to infinity.
+
+Answer: D
+
+Question code: B1C07Q022
+After the government imposed a per-unit tax of $100 on a good, the price of the good increased by $1 only. Which of the following statements is correct?
+A.	The demand for the good is elastic.
+B.	The demand for the good is inelastic. 
+C.	The supply of the good is more elastic than the demand for the good.
+D.	The demand for the good is more elastic than the supply of the good. 
+
+Answer: D
+
+
+Question code: B1C07Q023
+Study the following supply and demand diagram of a good. The initial equilibrium price is $50.
+
+
+Suppose the government imposes a per-unit tax of $25 on the good and the new equilibrium price is $60. The tax burden on suppliers is
+A.	$100.
+B.	$120.
+C.	$150.
+D.	$180.
+
+Answer: C
+
+Question code: B1C07Q024
+If the tax burden of a good is entirely borne by the buyers, which of the following is a possible conclusion?
+A.	The price elasticity of demand is equal to one.
+B.	The price elasticity of demand is equal to infinity.
+C.	The price elasticity of supply is zero.
+D.	The price elasticity of supply is equal to infinity.
+
+Answer: D
+
+Question code: B1C07Q025 (new)
+Suppose that if a unit tax is imposed on a good, the tax burden is largely borne by producers. Which of the following leads to the above phenomenon?
+A.	Both supply and demand are elastic.
+B.	Both supply and demand are inelastic.
+C.	Supply is elastic while demand is inelastic.
+D.	Supply is inelastic while demand is elastic.
+
+Answer: D
+
+Question code: B1C07Q026
+After the imposition of a per-unit sales tax of $10 on Good X, its price has increased by only $3. Which of the following conclusions about Good X is correct?
+A.	The demand is more elastic than the supply.
+B.	The supply is more elastic than the demand.
+C.	The demand is as elastic as the supply.
+D.	The price elasticity of demand is -0.3.
+
+Answer: A
+
+Question code: B1C07Q027
+When the government removes the per-unit sales tax of $8 on Good X, the market price decreases by $6. Which of the following is correct?
+A.	The demand for good X is inelastic.
+B.	The demand for good X is elastic.
+C.	The price elasticity of demand is lower than the price elasticity of supply.
+D.	The price elasticity of demand is higher than the price elasticity of supply.
+
+Answer: C
+
+Question code: B1C07Q028
+Which of the following CANNOT be an effect of removing a per-unit tax?
+A.	A decrease in the government's tax revenue
+B.	A drastic decrease in price
+C.	A decrease in quantity transacted 
+D.	An increase in producers' total revenue (net of tax)
+
+Answer: C
+
+Question code: B1C07Q029
+The following table shows the market demand for and market supply of red wine:
+
+Price ($/bottle)	40	45	50	55	60	65	70	
+Quantity demanded (bottles)	200	190	180	170	160	150	140	
+Quantity supplied (bottles)	150	160	180	195	210	225	240	
+
+Suppose the government imposes a $15 per-unit tax on red wine, producers' revenue (net of tax) will 
+A.	increase by $600.
+B.	decrease by $600.
+C.	increase by $1,800.
+D.	decrease by $1,800.
+
+Answer: D
+
+Question code: B1C07Q030
+The following table shows the market demand for and market supply of red wine:
+
+Price ($/bottle)	40	45	50	55	60	65	70	
+Quantity demanded (bottles)	200	190	180	170	160	150	140	
+Quantity supplied (bottles)	150	160	180	195	210	225	240	
+
+If the government imposes a $15 per-unit tax on red wine, the producers' tax burden and the consumers' tax burden will be ________ and ________, respectively.
+A.	$800 … $1,600
+B.	$1,600 … $800
+C.	$900 … $1,800
+D.	$1,800 … $900
+
+Answer: A
+
+Question code: B1C07Q031
+Suppose the government imposes taxes on a good. The lower the price elasticity of demand,
+A.	the smaller the consumers' tax burden.
+B.	the smaller the share of its expenditure on the good to consumers' total income.
+C.	the smaller the effect on market prices.
+D.	the higher the government's tax revenue.
+
+Answer: D
+
+Question code: B1C07Q032
+* Suppose the government imposes a unit sales tax on cigarettes to discourage smoking. Over time,
+A.	more tax revenue can be collected from the sales tax.
+B.	the policy will become more effective in discouraging smoking.
+C.	the effect on market price will be greater.
+D.	the effect on the quantity transacted will be smaller.
+
+Answer: B
+Explanation:
+When there is more time to adjust consumption, the elasticity of demand for smoking will increase.
+When the demand becomes more elastic, the decrease in quantity transacted will be larger. In other words, the effect on discouraging smoking is greater.
+
+Question code: B1C07Q033
+Suppose the demand for a TV magazine is elastic. If the government cancels the per-unit tax on it,
+A.	the market price for the magazine will increase.
+B.	the quantity transacted of the magazine will decrease.
+C.	total revenue will increase.
+D.	consumers can enjoy a price reduction equal to the former unit tax.
+
+Answer: C
+Explanation:
+If the government cancels the per-unit tax in the above case, the market price will decrease while the quantity transacted will increase. Since the quantity transacted increases, total revenue will increase too.
+
+Question code: B1C07Q034
+After the government imposes a $1,000 per-unit tax on luxury watches, the market price of these watches increases by $999. Which of the following statements is correct?
+A.	The demand for these watches is perfectly inelastic.
+B.	The demand for these watches is inelastic.
+C.	The demand for these watches is more elastic than the supply.
+D.	The demand for these watches is more inelastic than the supply.
+
+Answer: D
+Explanation:
+Since the market price increases by $999 after the imposition of a $1,000 per-unit tax, the consumers' tax burden is greater than the producers' tax burden. This implies that the elasticity of demand is smaller than the elasticity of supply. 
+
+
+Question code: B1C07Q035
+* The following diagram shows the supply and demand curves of Good Y:
+
+Both an effective quota and a sales tax on Good Y will
+	(1)	increase the market price of Good Y.
+	(2)	increase the total expenditure on Good Y.
+	(3)	reduce the quantity transacted of Good Y.
+	(4)	reduce the net revenue for producers of Good Y.
+A.	(1) and (3) only
+B.	(2) and (3) only
+C.	(1), (2) and (4) only
+D.	(1), (3) and (4) only
+
+Answer: A
+
+
+Question code: B1C07Q036
+* Study the following diagram which shows the supply and demand curves of Good A.
+
+
+
+Which of the following are common effects of a sales tax and an effective quota on Good A?
+	(1)	An increase in the market price of Good A
+	(2)	A decrease in the total expenditure on Good A
+	(3)	A decrease in the quantity transacted of Good A
+A.	(3) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C 
+Explanation:
+With perfectly elastic demand, both a sales tax and an effective quota cannot affect the price and the price will remain unchanged. However, the quantity transacted will fall in both cases. As a result, the total expenditure on Good A decreases.
+
+Question code: B1C07Q037 (new)
+If the demand for a good is unitarily elastic, when the government provides a unit subsidy on the good, 
+A.	the subsidy will be distributed evenly among consumers and producers.
+B.	producers' total revenue (including the subsidy) will remain unchanged.
+C.	consumers' total expenditure on the good will remain unchanged.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C07Q038 (new)
+If the government abolishes the unit subsidy on a good,
+A.	the market price will increase.
+B.	the quantity transacted will decrease.
+C.	the total revenue received by producers will decrease.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C07Q039 (new)
+Refer to the following supply-demand diagram of a good. The equilibrium price is $80.
+
+If the government provides a $20 unit subsidy on the good, what will be the new quantity transacted?
+A.	1,500 units
+B.	2,100 units
+C.	2,400 units
+D.	3,000 units
+
+Answer: B
+
+
+Question code: B1C07Q040 (new)
+Refer to the following supply-demand diagram of a good. The equilibrium price is $80.
+
+If the government provides a $20 unit subsidy on the good, what will be the ratio of the consumers' share of the subsidy to the producers' share of the subsidy?
+A.	1:4
+B.	2:3
+C.	3:2
+D.	4:1
+
+Answer: B
+Explanation:
+After the provision of the $20 unit subsidy, the supply curve shifts downward by $20. The market price will decrease from $80 to $72. Hence, the amount of the unit subsidy enjoyed by consumers is $8. The amount of the unit subsidy enjoyed by producers is $12. As a result, the ratio of the consumers' share of the subsidy to the producers' share of the subsidy = $8 : $12 = 2:3.
+
+
+
+Question code: B1C07Q041 (new)
+Refer to the following table about the supply-demand schedule of a good.
+
+Price ($)	22	23	24	25	26	27		Quantity supplied (units)	170	180	190	200	210	220		Quantity demanded (units)	215	210	205	200	195	190		
+If the government provides a $3 unit subsidy on the good, 
+A.	the market price will be $23.
+B.	the total amount of the subsidy granted will be $600.
+C.	the amount of the subsidy shared by producers will be $460.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C07Q042 (new)
+Refer to the following table about the supply-demand schedule of a good.
+
+Price ($)	17	18	19	20	21	22		Quantity supplied (units)	60	80	100	120	140	160		Quantity demanded (units)	140	120	100	80	60	40		
+Which of the following statements is correct?
+A.	When a quota is set at 120 units, the market price will be $19.
+B.	If a unit tax of $2 is imposed, the total expenditure will decrease by $300.
+C.	If a unit subsidy of $4 is provided, the amount of the subsidy shared by consumers will be $280.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C07Q043
+As shown in the diagram below, the government provides a unit subsidy to Good X. 
+
+What is the total subsidy provided by the government?
+A.	$48
+B.	$50
+C.	$80
+D.	$128
+
+Answer: C
+
+Question code: B1C07Q044
+If the government provides a unit subsidy of $2 to booksellers, the price of books will decrease by $2 and the quantity transacted will increase. Which of the following statements is true?
+A.	The demand for books is perfectly inelastic.
+B.	The demand for books is perfectly elastic.
+C.	The supply of books is perfectly inelastic.
+D.	The supply of books is perfectly elastic.
+
+Answer: D
+
+Question code: B1C07Q045
+A unit subsidy is given to a medicine. Producers' share of the subsidy is smaller than that of consumers if the demand elasticity of the medicine is __________ the supply elasticity.
+A.	greater than
+B.	less than
+C.	equal to
+D.	The distribution of the subsidy is independent of the elasticities of supply and demand.
+
+Answer: B
+
+Question code: B1C07Q046
+Which of the following government interventions will increase the quantity transacted?
+A.	Unit tax
+B.	Unit subsidy
+C.	Price ceiling
+D.	Price floor
+
+Answer: B
+
+Question code: B1C07Q047
+Study the following table.
+
+Price ($)	1	2	3	4	5	
+Quantity demanded (units)	10	10	10	10	10	
+
+Suppose the equilibrium price is originally $4. When the government provides a $1 per-unit subsidy to the producers, the new equilibrium price is
+A.	$1.
+B.	$2.
+C.	$3.
+D.	$4.
+
+Answer: C
+
+Question code: B1C07Q048
+If the government stops subsidising education,
+	(1)	the price of education will increase.
+	(2)	the price of education will decrease.
+	(3)	the total income of schools may increase or decrease, depending on the price elasticity of demand.
+	(4)	the number of schools may decrease.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B1C07Q049
+* Suppose the government provides a subsidy to producers of a good with perfectly elastic demand. Which of the following is correct? 
+A.	The price of the good will fall.
+B.	There will be excess demand for the good.
+C.	Producers' total revenue excluding the subsidy will increase.
+D.	The quantity sold will decrease.
+
+Answer: C
+
+Question code: B1C07Q050
+Which of the following CANNOT be an effect of ending subsidies on the production of a good?
+A.	The price of the good will increase.
+B.	The quantity transacted will decrease. 
+C.	The producers may benefit from the policy as their total revenue may increase.
+D.	The quantity demanded will decrease. 
+
+Answer: C
+
+Question code: B1C07Q051
+Suppose the government has decided to give a subsidy to private medical organisations. Which of the following is INCORRECT?
+A.	The total revenue (including the subsidy) of private medical organisations will increase. 
+B.	The total revenue of public medical organisations will decrease. 
+C.	The demand for public medical services will increase.
+D.	The quantity transacted of public medical services will decrease. 
+
+Answer: C
+
+Question code: B1C07Q052
+Suppose the price of a good decreases by $10 after the government provides a $10 per-unit subsidy to the producers. Which of the following is correct? 
+A.	The demand for the good is inelastic.
+B.	The demand for the good is elastic.
+C.	The demand for the good is less elastic than the supply of the good. 
+D.	The demand for the good is more elastic than the supply of the good. 
+
+Answer: C
+
+Question code: B1C07Q053
+Suppose the government provides a subsidy to vegetable suppliers in order to encourage the consumption of vegetables. In which of the following situations will the subsidy have no effect on consumption?
+	(1)	The demand is perfectly inelastic.
+	(2)	The demand is perfectly elastic.
+	(3)	The supply is perfectly inelastic.
+	(4)	The supply is perfectly elastic.
+A.	(1) only
+B.	(1) and (3) only
+C.	(1) and (4) only
+D.	(2) and (3) only
+
+Answer: B
+
+Question code: B1C07Q054
+If the price elasticity of demand is smaller than the price elasticity of supply,
+A.	the benefit of the buyers from a per-unit subsidy is greater than that of the seller.
+B.	the benefit of the buyers from a per-unit subsidy is smaller than that of the seller.
+C.	the benefit of the buyers from a per-unit subsidy is equal to that of the seller.
+D.	buyers cannot benefit from a per-unit subsidy.
+
+Answer: A
+
+Question code: B1C07Q055
+Study the following table.
+
+ Unit price ($)	20	21	22	23	24	25	
+ Quantity demanded (units)	160	150	140	130	120	110	
+ Quantity supplied (units)	100	110	120	130	140	150	
+
+Suppose the market is initially at equilibrium level. If the government provides a $2 per-unit subsidy to the supplier, the new equilibrium price is
+A.	$21.
+B.	$22.
+C.	$24.
+D.	$25.
+
+Answer: B
+
+Question code: B1C07Q056 (new)
+Study the following table.
+
+ Unit price ($)	20	21	22	23	24	25	
+ Quantity demanded (units)	160	150	140	130	120	110	
+ Quantity supplied (units)	100	110	120	130	140	150	
+
+Suppose the market is initially at equilibrium level. If the government provides a $2 per-unit subsidy to the supplier, the ratio of consumers' share of subsidy to producers' share of subsidy is
+A.	1:1.
+B.	1:2.
+C.	2:1.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C07Q057
+Suppose parents' demand for textbooks is perfectly inelastic. If the government gives out a per-unit subsidy on textbooks, 
+A.	the market price of textbooks will increase.
+B.	the quantity transacted will increase.
+C.	consumers get all the benefit of the subsidy.
+D.	total revenue, including the subsidy, will decrease.
+
+Answer: C
+Explanation:
+When the government gives out a per-unit subsidy to textbook producer, the market price will fall by the amount of the subsidy. However, the quantity transacted will remain unchanged. Consumers will get all the benefit as the price they pay decreases by the unit subsidy. Total revenue, including the subsidy, will remain unchanged as the fall in total revenue is fully compensated for the total amount of the subsidy. 
+
+
+Question code: B1C07Q058
+Study the following supply-demand diagram for Good Y after the government imposes a per-unit subsidy of $30 on the good. 
+
+Producers' share of subsidy is equal to 
+A.	$1,000.
+B.	$1,200.
+C.	$2,000.
+D.	$2,400.
+
+Answer: D
+Explanation:
+Producers' share of subsidy = [$30 - ($100 - $90)] ( 120 = $2,400.
+
+Question code: B1C07Q059 (new)
+Study the following supply-demand diagram for Good Y after the government imposes a per-unit subsidy of $30 on the good. 
+
+The ratio of consumers' share of the subsidy to producers' share of the subsidy is
+A.	1:1.
+B.	1:2.
+C.	2:1.
+D.	None of the above
+
+Answer: B
+Explanation:
+Consumers' unit share of the subsidy = $100 - $90 = $10 while producers' unit share of the subsidy = $30 - ($100 - $90) = $20. 
+
+
+Question code: B1C07Q060 (new)
+If the demand elasticity of a good is less than the supply elasticity of the good,
+	(1)	the consumers' tax burden will be greater than the producers' tax burden if a unit tax is imposed.
+	(2)	the consumers' tax burden will be smaller than the producers' tax burden if a unit tax is imposed.
+	(3)	the consumers' share of the subsidy will be greater than the producers' share of the subsidy if a unit subsidy is provided.
+	(4)	the consumers' share of the subsidy will be smaller than the producers' share of the subsidy if a unit subsidy is provided.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: A
+
+Question code: B1C07Q061
+Which of the following statements is INCORRECT?
+A.	Generally, the provision of a subsidy will lower the price of subsidised goods.
+B.	If the demand curve is downward sloping and the supply curve is upward sloping, the tax burden is shared among both the buyers and sellers.
+C.	The greater the price elasticity of demand, the greater the tax burden borne by the buyers.
+D.	The greater the price elasticity of demand, the greater the benefit from a per-unit subsidy enjoyed by the sellers.
+
+Answer: C
+
+Question code: B1C07Q062 (new)
+Which of the following statements is correct if the demand for a good is elastic?
+A.	An increase in the unit tax on the good cannot reduce consumption of the good.
+B.	If a unit tax is imposed on the good, consumers will spend more on the good.
+C.	An increase in the unit subsidy on the good cannot increase producers' total revenue (excluding subsidy).
+D.	A unit subsidy cannot reduce consumers' expenditure on the good.
+
+Answer: D
+
+Short Questions
+
+Question code: B1C07Q301 (new)
+Suppose the government decides to impose a unit tax on lobsters.
+(a)	Briefly explain the effects of the unit tax on the price and quantity transacted of lobsters.	(2 marks)
+(b)	With the aid of a diagram, explain under what condition the sellers of lobsters will bear a larger tax burden than buyers.	(4 marks)
+
+Answers: 
+(a)	The unit tax will cause the supply of lobsters to decrease.	(1 mark)
+	The price of lobsters will increase and the quantity transacted will decrease.
+				(1 mark)
+(b)	Indicate on the diagram:
+	(	Upward shift of the supply curve by the amount of the unit tax	(1 mark)
+	(	Buyers' tax burden < Sellers' tax burden	(2 marks)
+	
+	Verbal elaboration:
+	If the demand is more elastic than the supply, the sellers will bear a larger tax burden than buyers.	(1 mark)
+
+Question code: B1C07Q302 (new)
+Russians love drinking vodka (伏特加). Many drink it every day. Suppose the Russian government imposes a unit tax on vodka.
+(a)	Explain whether Russians' demand for vodka tends to be elastic or inelastic.
+			(2 marks)
+(b)	Based on your answer in (a), explain with the aid of a diagram the effects of the unit tax on Russians' total expenditure on vodka.	(7 marks)
+
+Answers: 
+(a)	It tends to be inelastic because many Russians have developed a habit of drinking vodka.		(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Upward shift of the supply curve by the amount of the unit tax	(1 mark)
+	(	Decrease in total expenditure < Increase in total expenditure	(2 marks)
+	
+	Verbal elaboration:
+	Due to the imposition of the unit tax, the supply of vodka decreases from S0 to S1.					(1 mark)
+	The price increases from P0 to P1 and the quantity transacted decreases from Q0 to Q1.			(1 mark)
+	As Russians' demand for vodka tends to be inelastic, the percentage increase in price will be greater than the percentage decrease in quantity transacted. Hence, their total expenditure on vodka increases.	(2 marks)
+
+Question code: B1C07Q303
+Suppose the government charges a unit tax on 'junk food' (垃圾食物) because this food has little nutritional value and is often high in fat, sugar, salt, and calories.
+(a)	How will the price and the quantity transacted of junk food change? Explain your answer with the aid of a diagram.	(4 marks)
+(b)	Under what situation will consumers' total expenditure on junk food decrease? Briefly explain.	(2 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Supply curve shifts upwards.	(1 mark)
+	(	Price increases and the quantity transacted decreases.	(1 mark)
+	
+	Verbal elaboration:
+	(	If the government charges a unit tax on junk food, the supply curve shifts upwards.	(1 mark)
+	(	The price increases from P1 to P2 and the quantity transacted decreases from Q1 to Q2.	(1 mark)
+(b)	When the demand for junk food is elastic, consumers' total expenditure will decrease.	(1 mark)
+	This is because the percentage increase in price is smaller than the percentage decrease in quantity transacted.	(1 mark)
+
+Question code: B1C07Q304
+Suppose the government imposes an effective price floor on automobiles. Explain with the aid of a diagram how the provision of a subsidy will affect the quantity transacted of automobiles.	(6 marks)
+
+Answers: 
+(	The provision of a subsidy will lead to an increase in the supply of automobiles (S1(S2).	 (1 mark)
+(	At the price floor (P1), the excess supply will increase from Q2 - Q1 to Q3 - Q1.	 			(1 mark)
+(	The quantity transacted will remain unchanged at Q1 as the quantity demanded does not change.	(1 mark)
+	(3 marks)
+
+Question code: B1C07Q305
+Study the following information regarding the market for imported cigarettes with a unit tax of $2 imposed.
+
+ Unit price ($)	30	31	32	33	34	35	36	37	
+ Quantity demanded (units)	20	18	16	14	12	10	8	6	
+ Quantity supplied (units)	1	2	4	6	8	10	12	14	
+
+If the government removes the unit tax, calculate:
+(a)	the loss in tax revenue collected by the government.	(3 marks)
+(b)	the change in importers' total revenue (excluding tax).	(3 marks)
+
+Answers: 
+
+(a)	The loss in tax revenue collected by the government
+	= Per-unit tax × Quantity transacted (with tax)
+	= $2 × 10	(1 mark)
+	= $20		 (2 marks)
+(b)	(	The original net revenue of the importers is $330 [= ($35 × 10) - ($2 × 10)].					(1 mark)
+	(	After the sales tax is removed, the net revenue is $408 (= $34 × 12).	(1 mark)
+	(	The net revenue increases by $78 (= $408 - $330).	(1 mark)
+
+Note: Demand and supply schedules with and without the tax are shown as follows:
+
+Price ($)	30	31	32	33	34	35	36	37		Quantity demanded (units)	20	18	16	14	12	10	8	6		Quantity supplied (units) - with tax 	1	2	4	6	8	10	12	14		Quantity supplied (units) - without tax	4	6	8	10	12	14	―	―		
+Question code: B1C07Q306 (new)
+* Study the following table.
+
+Unit price of bananas ($)	Quantity demanded of bananas (units)	Quantity supplied of bananas (units)	
+6	102	186	
+5	114	142	
+4	128	128	
+3	142	114	
+2	186	102	
+
+(a)	What are the market price and quantity transacted?	(2 marks)
+(b)	Suppose the government imposes a $2 per-unit sales tax on banana producers.
+	(i)	Construct the supply schedule after the imposition of the unit tax.	(2 marks)
+	(ii)	Explain how this will affect the market price and quantity transacted of bananas.	(4 marks)
+	(iii)	Calculate the consumers' tax burden and the producers' tax burden.	(2 marks)
+
+Answers: 
+(a)	Market price = $4	(1 mark)
+	Quantity transacted = 128 units	(1 mark)
+(b)	(i)	
+Unit price of bananas ($)	Quantity supplied of bananas (units)	
+8	186	
+7	142	
+6	128	
+5	114	
+4	102	
+				(2 marks)
+	(ii)	The new market price = $5	(1 mark)
+		The market price will increase by $1.	(1 mark)
+		The new quantity transacted = 114 units	(1 mark)
+		The quantity transacted will decrease by 14 units.	(1 mark)
+	(iii)	Consumers' tax burden = ($5 − $4) × 114 = $114	(1 mark)
+		Producers' tax burden = ($2 − $1) × 114 = $114	(1 mark)
+
+Question code: B1C07Q307
+(a)	What is the price elasticity of demand?	(2 marks)
+(b)	Give ONE example to illustrate that inelastic demand does NOT necessarily imply a smaller share of the tax burden for producers. Explain with the aid of a diagram.				(4 marks)
+
+Answers: 
+(a)	The price elasticity of demand (Ed) measures the responsiveness of the quantity demanded of a good to a change in its price. 	(2 marks)
+(b)	When the supply is perfectly inelastic, the tax burden is borne entirely by the producers. (Accept any example that satisfies the criteria of ES < Ed and Ed < 1).
+				(2 marks)
+
+	(Accept any diagram which represents a reasonable example)	(2 marks)
+
+Question code: B1C07Q308
+(a)	What is the price elasticity of supply?	(2 marks)
+(b)	Must the seller's tax burden be smaller than the consumer's tax burden if the price elasticity of supply is greater than one? Explain.	(3 marks)
+
+Answers: 
+(a)	The price elasticity of supply (ES) measures the responsiveness of the quantity supplied of a good to a change in price.	(2 marks)
+(b)	No. The tax incidence depends on the elasticity of demand and the elasticity of supply. 		(1 mark)
+	If the demand is more elastic than the supply, sellers' tax burden will be larger.				(2 marks)
+
+Question code: B1C07Q309 (new)
+Last year, Country Q started to import farm products. As a result, many farmers in Country Q complained that they suffered a loss of income. The government decided to grant a unit subsidy to local farm products. With the aid of a diagram, explain how the unit subsidy affects the market price, quantity transacted of local farm products and the total income of local farmers.	(7 marks)
+
+Answers:
+Indicate on the diagram:
+(	Downward shift of the supply curve	(1 mark)
+(	Decrease in price and increase in quantity transacted	(1 mark)
+(	Increase in total income of local farmers	(1 mark)
+
+Verbal elaboration:
+Due to the provision of the unit subsidy, the supply increases from S0 to S1 by the amount of the unit subsidy.	(1 mark)
+The market price decreases from P0 to P1 and the quantity transacted increases from Q0 to Q1.		(1 mark)
+The price actually received by local farmers increases from P0 to P2.	(1 mark) 
+Hence, their total income increases from P0 × Q0 to P2 × Q1.	(1 mark)
+
+Question code: B1C07Q310 (new)
+(a)	'As the unit subsidy is provided to producers, they must benefit more than consumers,' said Timmy. With the aid of a diagram, suggest ONE condition to explain why Timmy is wrong.	(5 marks)
+(b)	'As both an effective price ceiling and a unit subsidy can lower the price of a good, they have the same effect on total revenue,' said Brian. Do you agree with him? Explain briefly.	(5 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Downward shift of the supply curve by the amount of the unit subsidy				(1 mark)
+	(	Decrease in price and increase in quantity transacted	(1 mark)
+	(	Consumers' share of subsidy > Producers' share of subsidy	
+OR Consumers' share of subsidy = Producers' share of subsidy	(2 marks)
+
+	Verbal elaboration:
+	If the demand is less elastic than the supply, consumers will benefit more from the subsidy than producers.
+	OR
+	If the demand has the same elasticity as the supply, the subsidy benefit that consumers enjoy is the same as the subsidy benefit enjoyed by producers.
+	(Either ONE of the above, 2 marks)
+(b)	No.			(1 mark)
+	An effective price ceiling causes decreases in both price and quantity transacted. The total revenue must decrease.	(2 marks)
+	A unit subsidy causes a decrease in price but an increase in quantity transacted. The total revenue may increase, decrease or remain unchanged.	(2 marks)
+
+Question code: B1C07Q311
+Suppose the government grants a unit subsidy to producers of electric cars. Indicate on a supply-demand diagram the respective share of the subsidy for consumers and producers.		(3 marks)
+
+Answers:
+Indicate on the diagram:
+(		Supply curve shifts downwards	(1 mark)
+(		Consumers' and producers' shares of the subsidy	(2 marks)
+
+
+Question code: B1C07Q312
+Suppose the market demand for Good X follows the law of demand and its market supply follows the law of supply. When the government provides a unit subsidy of $2 to Good X, will the price decrease by $2? Explain your answer with the aid of a diagram.		(6 marks)
+
+Answers:
+Indicate on the diagram:
+(		Upward sloping supply curve and downward sloping demand curve	(1 mark)
+(		Supply curve shifts downwards	(1 mark)
+
+Verbal elaboration:
+No.			(1 mark)
+The supply curve will shift downward by $2.	(1 mark)
+However, the decrease in price (i.e., P1 - P2) will be less than $2. This is because the subsidy is shared between consumers and producers.	(2 marks)
+
+Question code: B1C07Q313 (new)
+The following table shows the market demand for and supply of coconuts.
+
+Unit price ($)	Market quantity demanded (units)	Market quantity supplied (units)	
+15	800	1,700	
+14	900	1,500	
+13	1,000	1,300	
+12	1,100	1,100	
+11	1,200	900	
+10	1,300	700	
+
+(a)	If the government provides a unit subsidy of $3, what will the equilibrium price and quantity be? (Hint: construct the supply schedule after the provision of the subsidy first.)	(4 marks)
+(b)	Find the change in producers' total revenue (including the subsidy).	(3 marks)
+
+Answers:
+(a)	The following is the market supply schedule after the subsidy:
+Unit Price ($)	Market quantity supplied (units)	
+12	1,700	
+11	1,500	
+10	1,300	
+9	1,100	
+8	900	
+7	700	
+				(2 marks)
+	The equilibrium price will be $10 and the equilibrium quantity will be 1,300 units.
+				(2 marks)
+(b)	Total revenue before the subsidy = $12 × 1,100 = $13,200	(1 mark)
+	Total revenue (including the subsidy) = ($10 + $3) × 1,300 = $16,900	(1 mark)
+	The total revenue (including the subsidy) will increase by $3,700.	(1 mark)
+
+Question code: B1C07Q314
+Although the government heavily subsidises the production of Good A, consumers still complain that the price remains high and that their benefits from the subsidies are very small. Explain this phenomenon with a well-labelled diagram.	(6 marks)
+
+Answers: 
+(	With the subsidy, the supply increases (S0(S1).	(1 mark)
+(	The price elasticity of demand is much larger than the price elasticity of supply.				(1 mark)
+(	The price does not fall much.	(1 mark)
+(	So the consumers' share of a subsidy is smaller than the producers' share of a subsidy.		(1 mark)
+	(2 marks)
+
+Question code: B1C07Q315
+* Ming said, 'Even though a government official claims that the government has already provided a unit subsidy to providers of a service, the quantity supplied of the service has not increased and the price of the service has not decreased.' Explain the above phenomenon with the aid of a diagram.	(6 marks)
+
+Answers: 
+(	The supply of the service will not increase even when a unit subsidy is provided if it is perfectly inelastic.	 (1 mark)
+(	Since the demand and supply remain unchanged, the price (P1) and quantity transacted (Q1) remain unchanged.	 (1 mark)
+(	The service providers can enjoy the entire subsidy ( = $Y × Q1). 	(1 mark)
+(3 marks)
+
+Structured Questions
+
+Question code: B1C07Q501 (new)
+The problem of deforestation (濫伐林木) is serious in Country B. Therefore, the government imposes a unit tax on timber (木材).
+(a)	With the aid of a diagram, explain how the unit tax can deal with the problem of deforestation.	(5 marks)
+(b)	Some people think that other measures of government intervention in the timber market can also deal with the problem of deforestation. With reference to your diagram in (a), suggest TWO measures that can achieve the goal.	(2 marks)
+(c)	Given that the demand for furniture is elastic. With the aid of another diagram, explain how the unit tax on timber affects the total expenditure on furniture.
+				(7 marks)
+(d)	Suppose there is an increase in the demand for timber. WITHOUT the aid of the diagram, explain how the tax revenue of the unit tax on timber will change.
+				(3 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Upward shift of the supply curve by the amount of the unit tax	(1 mark)
+	(	Increase in price and decrease in quantity transacted	(1 mark)
+	
+	Verbal elaboration:
+	Due to the unit tax, the supply of timber decreases from S0 to S1 by the amount of the unit tax.	(1 mark)
+	The price increases and the quantity transacted decreases.	(1 mark)
+	As the consumption of timber decreases, fewer trees will be cut down. Hence, the problem of deforestation can be alleviated.	(1 mark)
+
+(b)	(	Setting a price ceiling at P2
+	(	Setting a price floor at P1
+	(	Setting a quota at Q1
+	(Any TWO of the above. 1 mark × 2 = 2 marks)
+
+(c)	Indicate on the diagram:
+	(	Leftward shift of supply curve	(1 mark)
+	(	Increase in total expenditure < Decrease in total expenditure	(2 marks)
+	
+	Verbal elaboration:
+	Timber is an input of furniture. The tax on timber decreases the supply of furniture from S1 to S2.	(1 mark)
+	The price will increase and the quantity transacted will decrease.	(1 mark)
+	Given that the demand for furniture is elastic, the percentage increase in price will be smaller than the percentage decrease in quantity transacted. Hence, the total expenditure on furniture will decrease.	(2 marks)
+
+(d)	The increase in the demand for timber causes the quantity transacted to increase.
+				(1 mark)
+	As the unit tax is fixed, the tax revenue will increase when the quantity transacted increases.	(2 marks)
+
+Question code: B1C07Q502 (new)
+Country T exports shoes to foreign countries. Country T decides to provide a unit subsidy on its exported shoes. Shoe producers in importing countries object to this policy.
+(a)	With the aid of a diagram, explain under what condition shoe exporters in Country T will enjoy more of the subsidy than consumers in importing countries.	(6 marks)
+(b)	With the aid of another diagram, explain how the export subsidy will affect the total revenue of shoe producers in the importing country.	(6 marks)
+(c)	Suppose both high-quality shoes and low-quality shoes will be granted the same amount of the unit subsidy. Explain how the provision of the subsidy will affect the average quality of shoes exported from Country T.	(6 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Downward shift of supply curve by the amount of the unit subsidy	(1 mark)
+	(	Decrease in price and increase in quantity transacted	(1 mark)
+	(	Consumers' share of subsidy < Producers' share of subsidy	(2 marks)
+	
+	Verbal elaboration:
+	If the demand for Country T's exported shoes is more elastic than the supply, shoe exporters in Country T will enjoy more of the subsidy than consumers in importing countries.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift of demand curve	(1 mark)
+	(	Decrease in total revenue	(1 mark)
+	
+	Verbal elaboration:
+	The export subsidy will lower the price of Country T's shoes in importing countries.	(1 mark)
+	As Country T's shoes and shoes produced in importing countries are close substitutes, the export subsidy will decrease the demand for shoes produced in importing countries.	(1 mark)
+	Both the price and quantity transacted of shoes produced in importing countries will decrease.	(1 mark)
+	Hence, the total revenue of shoe producers in importing countries will decrease.					(1 mark)
+
+(c)	The price of high-quality shoes is higher than the price of low-quality shoes.					(1 mark)
+	After the provision of the export subsidy, the percentage decrease in the price of high-quality shoes will be smaller than the percentage decrease in the price of low-quality shoes.	(2 marks)
+	The relative price of high-quality shoes (in terms of low-quality shoes) will increase.	(1 mark)
+	According to the law of demand, relatively fewer high-quality shoes will be exported.	(1 mark)
+	Hence, the average quality of shoes exported from Country T will decrease.					(1 mark)
+
+Question code: B1C07Q503
+The government of Country K is considering imposing a unit tax on imported clothes.
+(a)	With the aid of a diagram, explain the effects of the unit tax on the price and the quantity transacted of imported clothes in Country K.	(4 marks)
+(b)	(i)	Show consumers' tax burden and producers' tax burden on a supply-demand diagram.	(2 marks)
+	(ii)	If the demand is elastic and the supply is inelastic, whose tax burden is larger?
+				(2 marks)
+(c)	How will the price and the quantity transacted of locally produced clothes change? Explain.		(4 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Supply curve shifts upwards.	(1 mark)
+	(	Price increases and the quantity transacted deceases.	(1 mark)
+		
+	Verbal elaboration:
+	(	If the government of Country K imposes a unit tax on imported clothes, the supply will decrease.	(1 mark)
+	(	The price will increase and the quantity transacted will decrease.	(1 mark)
+
+(b) (i)	Indicate on the diagram:
+		(	Consumers' tax burden	(1 mark)
+		(	Producers' tax burden	(1 mark)
+		
+	
+(ii)	
+		(1 mark)
+		Producers' tax burden will be larger because the elasticity of demand is greater than the elasticity of supply.	(1 mark)
+
+(c)	(	Locally produced clothes and imported clothes are close substitutes.	(1 mark)
+	(	If the price of imported clothes rises, the demand for locally produced clothes will increase.	(1 mark)
+	(	The price and the quantity transacted of locally produced clothes will increase.			(2 marks)
+
+Question code: B1C07Q504
+The following table shows the elasticity of demand and supply of cheese and milk.
+
+	Elasticity of demand	Elasticity of supply	
+Cheese	0.8	1.2	
+Milk	0.5	1.1	
+
+Suppose the government provides a unit subsidy for milk production.
+(a)	How will the unit subsidy affect the price and the consumption of milk? Explain your answer with the help of a diagram.	(4 marks)
+(b)	If the percentage change in quantity transacted is 2% after the subsidy, what will the percentage change in price be?	(2 marks)
+(c)	Which one is larger? Consumers' share of the subsidy or producers' share of the subsidy? Explain.	(2 marks)
+(d)	Cheese is made from milk. Will the total expenditure on cheese increase after the subsidy for milk production? Explain.	(5 marks)
+
+Answers:
+(a)	Indicate on the diagram:
+	(	Supply curve shifts downwards.	(1 mark)
+	(	Price decreases and the quantity transacted increases.	(1 mark)
+	
+	
+Verbal elaboration:
+	(	If the government provides a unit subsidy for milk production, the supply of milk will increase.	(1 mark)
+	(	The price of milk will decrease and the consumption of milk will increase.
+				(1 mark)
+
+(b)	 = Elasticity of demand for milk = 0.5
+	Percentage change in price = 2% / 0.5 = 4%	(2 marks)
+
+(c)		(1 mark)
+	Since the elasticity of supply for milk (1.1) is larger than the elasticity of demand (0.5), consumers' share of the subsidy is larger.	(1 mark)
+
+(d)	(	The price of milk decreases when the government provides a unit subsidy for milk production. Since cheese is made from milk, the supply of cheese will increase when the price of milk decreases.	(2 marks)
+	(	The price of cheese will decrease. 	(1 mark)
+	(	Since the elasticity of demand for cheese is less than 1, the percentage increase in the quantity transacted is less than the percentage decrease in the price.
+				(1 mark)
+	(	Therefore, the total expenditure on cheese will decrease.	(1 mark)
+
+Question code: B1C07Q505 (new)
+Suppose the government of City Q imposes a unit tax on gasoline.
+(a)	Explain with the aid of a diagram under what condition consumers bear more of a tax burden than producers.	(6 marks)
+(b)	The taxi fare in City Q is set by the government. It is observed that many taxi drivers wait for passengers all over the city. A taxi driver said, 'If the government abolishes the gasoline tax, the problem can be solved.' Do you agree with him? Explain your answer with the aid of a diagram.	(7 marks)
+(c)	Some people suggest that the government should remove the controls on taxi fares so that the total income of taxi drivers can increase. Suggest ONE condition to explain why this is NOT necessarily true.	(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Upward shift in supply curve	(1 mark)
+	(	Consumers' tax burden > Producers' tax burden	(2 marks)
+	
+	Verbal elaboration:
+	Due to the imposition of the tax, the supply of gasoline decreases from S0 to S1.			(1 mark)
+	If the demand is less elastic than the supply, the consumers' tax burden is greater than the producers' tax burden.	(2 marks)
+
+(b)	Indicate on the diagram:
+	(	Rightward shift in supply	(1 mark)
+	(	Effective price floor	(1 mark)
+	(	Increase in excess supply	(1 mark)
+	
+	Verbal elaboration:
+	No.		(1 mark)
+	As the fare is set above the equilibrium price, there is a surplus of taxi services.
+		(1 mark)
+	If the government abolishes the gasoline tax, the supply of taxi services will increase from S1 to S2.	(1 mark)
+	The surplus of taxi services will increase from Q2 - Q1 to Q3 - Q1.	(1 mark)
+
+(c)	When the government removes the controls, the market fare will decrease.		(1 mark)
+	If the demand for taxi services is inelastic, the percentage decrease in price will be greater than the percentage increase in quantity demanded. The total income of taxi drivers will decrease.	(2 marks)
+
+Question code: B1C07Q506
+The following table shows the market demand and supply schedules for imported Japanese televisions.
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units)	
+5,000	700	100	
+6,000	600	200	
+7,000	500	300	
+8,000	400	400	
+9,000	300	500	
+10,000	200	600	
+
+(a)	Find the equilibrium price and the quantity transacted.	(2 marks)
+(b)	Suppose the government imposes a per-unit sales tax of $2,000 on imported Japanese televisions. 
+	(i)	Find the new equilibrium price and the quantity transacted.	(2 marks)
+	(ii)	Show with the aid of a well-labelled diagram how the tax burden is distributed between consumers and sellers.	(4 marks)
+	(iii)	Calculate the tax burdens on consumers and sellers. Show your work. Is the price elasticity of demand larger than or smaller than the price elasticity of supply? Explain.	(6 marks)
+	(iv)	Calculate the change in the total revenue (sales tax included) after the imposition of the sales tax.	 (2 marks)
+	*(v)	Given that the demand for television is elastic, explain with the aid of a diagram how total revenue (sales tax included) will change due to the imposition of the tax.	 (5 marks)
+
+Answers:
+(a)	The equilibrium price is $8,000 and the quantity transacted is 400 units.	(2 marks)
+
+(b)	(i)	The new equilibrium price is $9,000 and the quantity transacted is 300 units.			(2 marks)
+	(ii)
+	(4 marks)
+	(iii)	Consumers' tax burden = $(9,000 - 8,000) ×300	(1 mark)
+			= $300,000	(1 mark)
+		Producers' tax burden = $(8,000 - 7,000) ×300	(1 mark)
+			= $300,000	(1 mark)
+		In this case, the consumers' tax burden is the same as the producers' tax burden.	(1 mark)
+		This implies that the price elasticity of demand is the same as the price elasticity of supply.	 (1 mark)
+	(iv)	Change in total revenue = $9,000 × 300 - $8,000 × 400	(1 mark)
+			= - $500,000	(1 mark)
+	(v)	(	The imposition of the sales tax increases the selling price of televisions.		(1 mark)
+		(	Since the demand is elastic, the percentage increase in price is smaller than the percentage decrease in quantity transacted. Hence, total revenue will decrease. 	(2 marks)
+				(2 marks)
+
+Question code: B1C07Q507 (new)
+Country A would like to lower the volume of imports from Country B. After the imposition of a $10 per-unit tariff (關稅) on Country B's imports, the volume of imports did not fall although the price of imports has increased.
+(a)		Explain the above phenomenon with the aid of a diagram. Indicate the consumers' tax burden after the per-unit tariff is imposed.	(7 marks)
+(b)	An economics teacher said, 'Under the situation mentioned in (a), the government can increase its tax revenue by increasing the tariff rate.'
+	Do you agree? Explain.	(3 marks)
+(c)	Under the situation mentioned in (a), suggest ONE measure that the government can use to reduce the volume of imports. Explain your answer.	(3 marks)
+(d)	Suppose Country A can import similar goods from Country C instead of Country B. Explain how the situation mentioned in (a) can be improved.	(3 marks)
+
+Answers: 
+(a)	Indicate on the diagram:
+	(	Consumers' tax burden	(1 mark)
+	(	Vertical demand curve	(1 mark)
+	(	Supply curve shifts upwards	(1 mark)
+	(	Price increases but quantity transacted remains unchanged	(1 mark)
+	
+	Verbal elaboration:
+	(	The imposition of tariffs will cause the supply of goods in Country A that are imported from Country B to decrease.	(1 mark)
+	(	If the demand is perfectly inelastic, the price of goods imported from Country B will increase by $10 and the volume of imports will not fall.	(2 marks)
+
+(b)	Agree. When demand is perfectly inelastic, the rise in the tariff rate will not affect the quantity transacted. Thus, the government can raise the tariff rate to increase tax revenue.	(3 marks)
+
+(c)	Effective price ceiling	(1 mark)
+	The import price is set below the equilibrium price. The quantity supplied will decrease and thus the volume of imports will be reduced.	(2 marks)
+
+(d)	With more close substitutes available, the demand elasticity for Country B's imports tends to increase. With a greater-than-zero demand elasticity, the volume of imports will decrease after the per-unit tariff is imposed.	(3 marks)
+
+Question code: B1C07Q508
+An economist says, 'If the government removes the subsidies for education, the total education expenditure of parents on their children will increase.'
+(a)	Based on this, draw a diagram to explain the price elasticity of demand for children's education.	 (7 marks)
+(b)	Draw another diagram to explain how the removal of the education subsidy will affect the price of textbooks.	 (6 marks)
+
+Answers: 
+(a)	(	The removal of the education subsidy results in a decrease in the supply of education (S1(S2).	 (1 mark)
+	(	The price of education is increased (P1(P2).	(1 mark)
+	(	If the total expenditure on education is increased, the demand should be inelastic (Ed < 1). With the inelastic demand, the percentage increase in price is greater than the percentage decrease in quantity transacted. Hence, the total expenditure will increase.	 (3 marks)
+		(2 marks)
+
+(b)	(	When the education subsidy is removed, the price of education will increase.					(1 mark)
+	(	The demand for textbooks is derived from the demand for education.	(1 mark)
+	(	So the demand for textbooks will also decrease.	(1 mark)
+	(	The price of textbooks will decrease.	(1 mark)
+
+	(2 marks)
+
+Question code: B1C07Q509
+* A Chinese fruit grower says, 'The removal of tariffs (關稅) imposed by the Chinese government on fruit imported from Taiwan will cause the total revenue of fruit growers in China to fall.'
+Explain the statement made by the fruit grower with the aid of a diagram. How can the Chinese government compensate the fruit growers for the loss in revenue by providing a per-unit subsidy? Explain with the same diagram.	 (15 marks)
+
+Answers: 
+(	The removal of tariffs will cause the supply of Taiwanese fruit in China to increase (the quantity imported will increase).	(2 marks)
+(	The price of Taiwanese fruit will decrease and the quantity transacted will increase.	(2 marks)
+(	Since Chinese fruit and Taiwanese fruit are close substitutes, the decrease in price of Taiwanese fruit will cause the demand for Chinese fruit to fall (D0 (D1). Therefore, the total revenue of fruit growers in China will fall (P0×Q0 (P1×Q1).				(2 marks)
+			(6 marks)
+
+(	If Chinese government provides a per-unit subsidy of $X to fruit growers, the quantity transacted and the price (actually received by producers) will increase to the level before the removal of tariffs. This can fully compensate the fruit growers for the loss in total revenue.	(3 marks)
+
+Question code: B1C07Q510
+* The following table shows the market demand and supply schedules for Ganoderma Spore (靈芝孢子).
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units) 	
+10,000	100,000	60,000	
+20,000	90,000	70,000	
+30,000	80,000	80,000	
+40,000	70,000	90,000	
+50,000	60,000	100,000	
+
+(a)	Find the market clearing price and quantity transacted.	(2 marks)
+(b)	Suppose the government provides a $20,000 per-unit subsidy to producers of Ganoderma Spore.
+	(i)	Find the new market clearing price and quantity transacted.	(2 marks)
+	(ii)	Using the well-labelled diagram to indicate how the subsidy is shared between consumers and producers.	(4 marks)
+	(iii)	Based on the diagram in (b)(ii), can we know whether the price elasticity of demand or the price elasticity of supply is higher? Explain your answer with calculation.	(4 marks)
+	(iv)	Calculate the total revenue of producers (including the subsidy) after the provision of the subsidy.	(3 marks)
+
+Answers: 
+(a)	The market clearing price, i.e. the equilibrium price is $30,000. The quantity transacted is 80,000 units.	 (2 marks)
+
+(b)	(i)	The new market clearing price is $20,000. The new quantity transacted is 90,000 units.	 (2 marks)
+	(ii)
+	(4 marks)
+
+	(iii)	Consumers' share of the subsidy is $900,000,000 [= 90,000 × ($30,000 - $20,000)]	(1 mark)
+		Producers' share of the subsidy is $900,000,000 [ = 90,000 ×($40,000 - $30,000)]	(1 mark)
+		Since the consumers' share is the same as the producers' share, we can conclude that the price elasticity of demand and the price elasticity of supply are the same.	(2 marks)
+
+	(iv)	Producers' total revenue (including the subsidy):
+		= Consumers' total expenditure + Total subsidy	(1 mark)
+		= ($20,00090,000) + ($20,00090,000)	(1 mark)
+		= $3,600,000,000	(1 mark)
+		Or
+		=	Price received by producers (including the subsidy) × New quantity transacted	(1 mark)
+		=	$40,000 × 90,000	(1 mark)
+		=	$3,600,000,000	(1 mark)

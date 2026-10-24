@@ -1,0 +1,1522 @@
+Chapter 1	Measurement of economic performance (I)
+- GDP and GNP
+
+Multiple Choice Questions
+
+Question code: B5C01Q001 (new)
+Which of the following are resident producing units of Hong Kong?
+(1)	A foreign domestic helper who intends to work in Hong Kong for three years
+(2)	A Hong Kong branch of a French fashion store
+(3)	A mainland factory established by a Hong Kong firm
+(4)	A Hong Kong company established by an American
+A.	(2) and (3) only
+B.	(2) and (4) only
+C.	(1), (2) and (4) only
+D.	(1), (2), (3) and (4)
+
+Answer: C
+
+Question code: B5C01Q002 (new)
+Which of the following firms is NOT a resident producing unit of Hong Kong?
+A.	A fashion shop set up by Prada, the famous Italian brand, in Central, Hong Kong
+B.	A restaurant set up in the mainland by Maxim's Group (美心集團), a Hong Kong company
+C.	A professional line-sitting (排隊) company in Hong Kong which is operated by a South Asian
+D.	All of the above are resident producing units of Hong Kong
+
+Answer: B
+
+Question code: B5C01Q003
+Which of the following about gross domestic product (GDP) is correct?
+A.	GDP includes the value of all unpaid household services.
+B.	GDP represents the total amount of all transactions in an economy.
+C.	The GDP of an economy represents the total value of final products produced by all resident producing units of the economy in a specified period.
+D.	The total market value of Hang Seng Bank is included in Hong Kong's GDP.
+
+Answer: C
+
+Question code: B5C01Q004 (new)
+Which of the following items is NOT included in Hong Kong's GDP?
+A.	Government spending on civil servants' pay
+B.	Government spending on old age allowances
+C.	Commissions received by a property agent in a transaction
+D.	Trading fees charged by HKEx for transactions through its stock exchange
+
+Answer: B
+Explanation
+Option A is included in the GDP as government consumption expenditure. Option B is a transfer payment and so is not included in the GDP.
+Option D is the expenditure on services provided by the stock exchange and should be included in the GDP.
+
+Question code: B5C01Q005 (new)
+Which of the following items is included in the GDP?
+A.	A businessman's donation to a political party for an election campaign
+B.	A student's expense for a new dictionary
+C.	The profits made from buying and selling bonds in Hong Kong
+D.	The income gained from selling a used computer on the internet
+
+Answer: B
+
+Question code: B5C01Q006 (new)
+Which of the following should be included in Hong Kong's GDP in the current year?
+A.	The money received by a school-leaver who sold his old textbooks this year
+B.	The value of banknotes issued by HSBC this year
+C.	The value of unsold textbooks printed in Hong Kong this year
+D.	The wages of the ground crew (地勤人員) employed by Cathay Pacific at the Beijing airport
+
+Answer: C
+
+
+Question code: B5C01Q007 (new)
+Sharon is a Hong Kong resident. Which of the following items should be included in Hong Kong's GDP?
+A.	Her revenue from reselling an unused iPhone to a mainlander
+B.	The old age allowance she receives from the Government
+C.	The gift money received from her daughter's bridegroom
+D.	Her expenditure on her daughter's wedding jewellery
+
+Answer: D
+
+Question code: B5C01Q008 (new)
+Amy is a Hong Kong resident and works in the mainland. Which of the following items should be included in Hong Kong's GDP?
+A.	The commission she earns from a transaction involving a mainland property
+B.	The money she receives from selling her second-hand handbag on a Hong Kong auction site
+C.	Her expenditure from eating Cantonese dishes in the mainland
+D.	Her expenditure on a flight from Hong Kong to Shanghai on a Hong Kong airline
+
+Answer: D
+
+Question code: B5C01Q009 (new)
+Mark is a Hong Kong investor. At the beginning of this year, he bought stocks through a mainland company that were worth $10 million on the Shanghai stock market. At the end of this year, he sold the stocks for $18 million. Which of the following statements is correct?
+A.	The commission he paid to the mainland company should be included in Hong Kong's GDP.
+B.	The $8 million capital gain should be included in Hong Kong's GDP.
+C.	The above event may make no contribution to Hong Kong's GDP.
+D.	The $10 million spent should be included in Hong Kong's GDP as Mark provided factor services to the company.
+
+Answer: C
+
+
+Question code: B5C01Q010
+In measuring current GDP, past inventories produced by resident producing units are
+A.	included as they are produced by resident producing units.
+B.	excluded as they may not be consumed by domestic households.
+C.	included if they are traded in the current period.
+D.	excluded as they are not produced within the current period.
+
+Answer: D
+
+Question code: B5C01Q011 (new)
+Which of the following is/are NOT counted in Hong Kong's GDP this year?
+	(1)	The value of new books printed in Hong Kong this year but which will be sold in the mainland next year
+	(2)	The value of a second-hand book sold this year in Mong Kok
+	(3)	Capital gains from buying La Chapelle shares issued in Hong Kong this year
+	(4)	The unpaid salary of a salesperson last year that was collected this year
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(2), (3) and (4) only
+
+Answer: D
+Explanation
+Option (4) is not counted in GDP this year because the labour service was provided last year.
+
+Question code: B5C01Q012
+Which of the following is/are included in GDP?
+	(1)	The production value of preparing meals for family members
+	(2)	The commission earned by an insurance agent
+	(3)	Income earned by a part-time tutor
+	(4)	The amount of a grant to a needy student
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: C
+Question code: B5C01Q013
+Which of the following items is included in GDP?
+A.	The price of an antique (古董) guitar
+B.	The value of a birthday cake baked by a mother for her daughter
+C.	The amount of Comprehensive Social Security Assistance (綜合社會保障援助)
+D.	The estimated rental value of owner-occupied premises
+
+Answer: D
+
+Question code: B5C01Q014
+Which of the following items is NOT included in gross domestic product?
+A.	The salary of a horse racing commentator
+B.	A jockey's income
+C.	Maintenance expenses for a stable (馬廄)
+D.	Dividends (彩金) won betting on horse racing
+
+Answer: D
+
+Question code: B5C01Q015
+Which of the following will NOT be counted in Hong Kong's GDP for the current year?
+A.	Pens bought by a local school last year but used this year
+B.	Salaries paid by a domestic logistics company to its cross-boundary drivers this year
+C.	Rental payments paid this year by a domestic family under the Comprehensive Social Security Assistance Scheme (綜合社會保障援助計劃)
+D.	The value of net exports
+
+Answer: A
+
+Question code: B5C01Q016
+Which of the following items will be counted in GDP this year?
+A.	The value of surgical masks (外科口罩) stored at a hospital for several years
+B.	Pocket money given to a daughter by her mother this year
+C.	Medical insurance coverage paid to clients this year
+D.	Expenditure by the University of Hong Kong on developing new anti-flu drugs this year
+
+Answer: D
+
+Question code: B5C01Q017
+Which of the following will be included in the gross domestic product?
+A.	Funds raised by a local company from issuing new shares
+B.	Money made by a local teenager from reselling his used smartphone
+C.	The commission received by a local financial advisor who helps a company issue new shares
+D.	Old age allowances received by elderly people in Hong Kong
+
+Answer: C
+
+Question code: B5C01Q018 (new)
+Which of the following is NOT counted in GDP?
+A.	Students' expenses on snacks supplied by the school tuck shop
+B.	The compensation paid by an insurance company to a government secondary school for the loss of money due to a theft
+C.	The cost of repairs on a government secondary school
+D.	The wages of a native English teacher at a government secondary school
+
+Answer: B
+
+Question code: B5C01Q019 (new)
+Tom is an economics tutor who works at a tutorial centre in Hong Kong. Which of the following situations will LEAST likely affect Hong Kong's GDP?
+A.	He prepares a new set of study notes and sells them to his students.
+B.	He makes illegal copies of textbooks and sells them to his students.
+C.	He constructs an advanced economic model for his own enjoyment.
+D.	He pays for his girlfriend's dinner.
+
+Answer: C
+Explanation
+Option C is excluded from GDP because it is regarded as unpaid services for self-consumption.
+
+
+Question code: B5C01Q020
+A Hong Kong resident won a large amount of money betting on the World Cup Final. Which of the following statements is correct?
+A.	The money should be included in Hong Kong's GDP as it represents an increase in the disposable income of the Hong Kong resident.
+B.	The money should be included in Hong Kong's GDP as the Hong Kong resident has earned a profit by taking a risk.
+C.	The money should not be included in Hong Kong's GDP as it only represents an income transfer.
+D.	The money should not be included in Hong Kong's GDP as gambling is socially undesirable.
+
+Answer: C
+
+Question code: B5C01Q021
+The amount of the subsidy received by students under the travel subsidy scheme is EXCLUDED from GDP. This is mainly because
+A.	students are not resident producing units.
+B.	the government is not a resident producing unit.
+C.	there is no corresponding amount of production.
+D.	the amount may not be spent in the current year.
+
+Answer: C
+
+Question code: B5C01Q022
+A local film company used $1 million to advertise its new film, which was subsidised by the Film Development Fund (電影發展基金). The money ________ be counted in GDP because ________.
+A.	should … it is a final service
+B.	should … it represents a corresponding service provided by resident producing units in Hong Kong
+C.	should not … it does not involve production
+D.	should not … it involves government subvention
+
+Answer: B
+
+
+Question code: B5C01Q023
+In measuring GDP, the scholarship received by a secondary student from a tutoring school is
+A.	included as it involves a market transaction.
+B.	excluded as it only represents an income transfer.
+C.	excluded as it leads to the problem of double counting.
+D.	excluded as it benefits only one individual.
+
+Answer: B
+
+Question code: B5C01Q024
+* Which of the following about government financial assistance for university students is INCORRECT?
+A.	Interest charged on government loans is included in GDP.
+B.	A student's expenditure on a European tour financed by government loans is included in GDP.
+C.	The government financial assistance should be included in GDP.
+D.	When a student uses part of his government grant to buy shares, the money invested should not be included in GDP.
+
+Answer: C
+Explanation
+Option A is a correct statement. Interest on government loans represents the value of financial services provided by the government and is included in GDP.
+Option B is a correct statement. Although transfer payments themselves are not counted in GDP, expenditure on final products supported by transfer payments is counted.
+Option D is a correct statement. Purchases of financial assets are excluded from GDP.
+
+Question code: B5C01Q025 (new)
+Repayment by a university graduate of the interest on government loans ________ counted in Hong Kong's GDP because ________.
+A.	should be … it is government revenue
+B.	should be … the interest refers to the value of financial services provided by the government
+C.	should not be … the student is not a resident producing unit of Hong Kong
+D.	should not be … this is simply a transfer of money from the student to the government
+
+Answer: D
+
+Question code: B5C01Q026
+Manchester United, a British football team, was invited by the Hong Kong Football Association (HKFA) to play a friendly game with the Hong Kong Team in Hong Kong. Hong Kong people's expenditure on the tickets was ________ in Hong Kong's GDP because ________.
+A.	not included … HKFA is a nonprofit organisation
+B.	included … this is expenditure on a final service of Hong Kong
+C.	not included … HKFA has to pay Manchester United
+D.	not included … Manchester United is not a resident producing unit of Hong Kong
+
+Answer: B
+
+Question code: B5C01Q027 (new)
+The construction of a housing estate was completed in January 2014. In March 2014, Mr Kwan bought one of the flats for $20 million and sold it in December 2014 for $15 million. As a result, GDP in 2014 would
+A.	decrease by $5 million to reflect Mr Kwan's capital loss.
+B.	increase by $20 million to reflect the value of the first transaction on the flat.
+C.	increase by $35 million to reflect the value of all transactions involved.
+D.	All of the above are incorrect.
+
+Answer: D
+
+Question code: B5C01Q028
+In 2014, Romeo gave his $50,000 used watch to Juliet as her birthday gift. Unfortunately, she was robbed of the watch on the same day. When she told Romeo, he gave her $10,000 as compensation. As a result of the above events, GDP this year
+A.	increased by $50,000.
+B.	increased by $60,000.
+C.	remained unchanged as no production was involved.
+D.	decreased by $50,000.
+
+Answer: C
+
+Explanation
+The value of the second-hand watch from Romeo was not counted in GDP as it was not the value of current production; when the watch was robbed, its contribution to GDP was not lost as it was already zero. The compensation was not counted in GDP as it was only a transfer of money.
+
+Question code: B5C01Q029
+In 2014, May injured her legs. The related medical expense was $10,000, but she received $8,000 in compensation from her insurance company. As a result of the above events, the 2014 GDP
+A.	increased by $18,000.
+B.	increased by $10,000.
+C.	increased by $2,000.
+D.	remained unchanged.
+
+Answer: B
+Explanation
+The $10,000 medical expense was counted in the 2014 GDP, but the $8,000 compensation from the insurance company represented only an income transfer, which was not counted in GDP.
+
+Question code: B5C01Q030
+A financial company in Hong Kong temporarily employs an Indonesian, a Hong Kong resident, to provide financial services for an Indonesian company. The service fee received by the Indonesian is ________ in Hong Kong's GDP, because he is ________.
+A.	not included … employed temporarily
+B.	not included … not a resident producing unit of Hong Kong
+C.	included … employed by a resident producing unit in Hong Kong
+D.	included … a Hong Kong resident
+
+Answer: C
+
+
+Question code: B5C01Q031 (new)
+Refer to the following circular flows of an economy:
+
+
+Flow G represents
+A.	total factor income distributed to factors of production.
+B.	factor services provided by households.
+C.	total expenditure on final products.
+D.	total value of production.
+
+Answer: A
+
+Question code: B5C01Q032
+Refer to the circular flows below.
+
+Which of the following statements is correct?
+A.	Flow A is a flow of goods and services.
+B.	Flow B is a flow of expenditure on goods and services.
+C.	The expenditure approach measures GDP by focusing on Flow C.
+D.	The production approach measures GDP by focusing on Flow D.
+
+Answer: C
+
+
+Question code: B5C01Q033 (new)
+Refer to the circular flows below.
+
+Which of the following statements are correct?
+(1)	Flow A is a flow of final products.
+(2)	Flow B represents the expenditure on factor services paid by resident producing units.
+(3)	Flow C reflects the GDP measured by the expenditure approach.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B5C01Q034
+Refer to the circular flows below.
+
+
+Which of the following statements are correct?
+(1)	The total income received by all factors contributing to production in Flow B is GDP by income component.
+(2)	The total expenditure on final products in Flow C is GDP by expenditure component.
+(3)	The total market value in Aggregate E is GDP by economic activity.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B5C01Q035 (new)
+Which of the following events would most likely increase Hong Kong's private consumption expenditure and GDP?
+A.	An American tourist gives money to a beggar in Hong Kong.
+B.	A Hong Kong resident subscribes to an online magazine in the US.
+C.	A Frenchman buys an old house in Sai Kung (西貢).
+D.	A Hong Kong resident buys an Italian dessert in Mongkok.
+
+Answer: D
+
+Question code: B5C01Q036
+Which of the following is NOT included in private consumption expenditure?
+A.	Mrs Leung's expenditure in hiring a foreign domestic helper
+B.	Mr Luk's expenditure on blankets for beggars
+C.	Miss Yip's expenditure on legal services when she purchased a factory
+D.	Miss Yu's expenditure on property management services for the property where she lives
+
+Answer: C
+Explanation
+The expenditure on legal services is a cost of transfer of ownership of buildings and should be included in gross investment expenditure.
+
+
+Question code: B5C01Q037
+Which of the following should be included in gross domestic capital formation?
+A.	Expenditure of a firm on the purchase of second-hand equipment
+B.	Expenditure on the purchase of government bonds
+C.	Repayment of bank loans
+D.	Expenditure on the purchase of semi-finished products
+
+Answer: D
+
+Question code: B5C01Q038
+Which of the following should be included in gross investment expenditure of gross domestic product?
+A.	Louis's expenditure on the toys he purchases for his sons
+B.	Alex's repayment of his business loans
+C.	Karine's wage payments for the workers she hires
+D.	Eddie's expenditure on a new spy camera for his detective (偵探) company
+
+Answer: D
+
+Question code: B5C01Q039
+Which of the following items of a garment factory should be counted as gross investment expenditure in GDP this year?
+A.	The factory owner's expenditure on home services this year
+B.	The value of 10,000 T-shirts which have been in stock since last year
+C.	The loan from a bank this year
+D.	The cost of constructing a new factory building this year
+
+Answer: D
+Explanation
+Option B is incorrect as the value of T-shirts in stock since last year should be counted as gross investment expenditure last year, not this year.
+
+
+Question code: B5C01Q040 (new)
+Which of the following would increase both Hong Kong's government consumption expenditure and GDP?
+(1)	The Government donated money to the Republic of Sierra Leone.
+(2)	The Government increased unemployment benefits.
+(3)	The Hong Kong Police Force (香港警務處) increased its expenditure for maintaining public order.
+(4)	The Government provides public hospitals with more funding to employ more doctors.
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(3) and (4) only
+D.	(1), (3) and (4) only
+
+Answer: C
+
+Question code: B5C01Q041 (new)
+Which of the following items is included in government consumption expenditure?
+A.	Work Incentive Transport Subsidy (鼓勵就業交通津貼) granted by the Government
+B.	Tax rebates (退稅) paid by the Government
+C.	Salary paid to a public librarian
+D.	Government expenditure for building a high speed railway
+
+Answer: C
+
+Question code: B5C01Q042 (new)
+Which of the following items can have a negative value?
+A.	Exports
+B.	Changes in inventories
+C.	Gross investment expenditure
+D.	Depreciation
+
+Answer: B
+
+
+Question code: B5C01Q043 (new)
+Which of the following items can only have a positive value?
+(1)	Depreciation
+(2)	Net investment expenditure
+(3)	Private consumption expenditure
+(4)	Changes in inventories
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(3) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+Question code: B5C01Q044
+Which of the following items are counted in the calculation of Hong Kong's GDP?
+(1)	A local trading company's expenditure on importing German sausage
+(2)	A local trading company's total revenue from selling German sausage to a local retailer
+(3)	A German visitor's expenditure on German sausage in Hong Kong
+(4)	A local student's expenditure on German sausage in Hong Kong
+A.	(2) and (3) only
+B.	(3) and (4) only
+C.	(1), (2) and (4) only
+D.	(2), (3) and (4) only
+
+Answer: B
+
+Question code: B5C01Q045 (new)
+* In 2014, a bicycle manufacturer produced bicycles whose value amounts to $100,000. However, it only sold 80% of the bicycles for $80,000 in 2014. Which of the following statements about the effect of this event is correct?
+A.	GDP increased by $80,000 in 2014.
+B.	The manufacturer's contribution to GDP in 2014 was $100,000.
+C.	The stock of the manufacturer increased by $20,000 in 2014.
+D.	Private consumption expenditure increased by $80,000 in 2014.
+
+Answer: C
+
+Explanation
+Option B is not correct because the value of the bicycles may include the value of intermediate products.
+Option D is not correct because the bicycles may be sold to bicycle retailers (intermediate products) or exported to other countries (exports).
+
+Question code: B5C01Q046 (new)
+Suppose a building worth $5 million collapsed at the beginning of 2014. The government spent $0.1 million to employ a local company to clear the site. The job was completed at the end of 2014. The insurance company paid the victims $4 million as compensation. The GDP in 2014 would ________ by ________ million.
+A.	increase … $0.1
+B.	increase … $4.1
+C.	decrease … $0.9
+D.	decrease … $4.9
+
+Answer: A
+
+Question code: B5C01Q047
+Which of the following will raise GDP?
+(1)	An increase in inventories
+(2)	An increase in private consumption expenditure
+(3)	A decrease in imports
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+
+Question code: B5C01Q048 (new)
+The following table gives statistical data about Country P.
+
+Components of Gross Domestic Product (GDP)	$ billion	
+Private consumption expenditure	30	
+Government consumption expenditure	20	
+Gross investment expenditure	10	
+Changes in inventories	-5	
+Depreciation	3	
+Exports	12	
+Imports	13	
+Indirect taxes	2	
+Subsidies	1	
+
+What is the GDP at market price for Country P?
+A.	$54 billion
+B.	$59 billion
+C.	$60 billion
+D.	$62 billion
+
+Answer: B
+Explanation
+GDP = $(30 + 10 + 20 + 12 - 13) billion = $59 billion
+
+Question code: B5C01Q049 (new)
+* The following table gives statistical data about Country G.
+
+Components of gross domestic product (GDP)	$ billion	
+Private consumption expenditure		20	
+Government consumption expenditure		7	
+Net fixed investment expenditure		18	
+Changes in inventories		-4	
+Total exports		16	
+Total imports		10	
+Indirect taxes		4	
+Subsidies		3	
+Depreciation		2	
+
+
+What is the GDP at market prices for Country G?
+A.	$47 billion
+B.	$49 billion
+C.	$53 billion
+D.	$55 billion
+
+Answer: B
+Explanation
+GDP = $[20 + (18 + 2 - 4) + 7 + (16 - 10)] billion = $53 billion
+
+Question code: B5C01Q050 (new)
+Study the following information about the GDP of Country A.
+
+Items	$ million	
+Gross domestic fixed capital formation	10	
+Depreciation	30	
+Change in inventories	8	
+Private consumption expenditure	6	
+Government consumption expenditure	50	
+Exports	20	
+Imports	40	
+
+What is the GDP at market prices (in $ million)?
+A.	24
+B.	54
+C.	76
+D.	84
+
+Answer: B
+
+
+Question code: B5C01Q051
+The following is information about the GDP of Country A.
+
+Items	$	
+Gross domestic fixed capital formation	70	
+Depreciation	40	
+Change in inventories	120	
+Private consumption expenditure	600	
+Salary taxes	20	
+Government consumption expenditure	60	
+Net exports	10	
+
+Gross domestic product at market prices in this country is
+A.	$900.
+B.	$860.
+C.	$850.
+D.	$840.
+
+Answer: B
+
+Question code: B5C01Q052
+The following is information about the GDP of Country A.
+
+Items	$ million	
+Gross fixed investment expenditure	10	
+Net investment expenditure	35	
+Change in inventories	40	
+Private consumption expenditure	180	
+Indirect taxes less subsidies	-90	
+Government consumption expenditure	30	
+Exports	90	
+Imports	100	
+
+The GDP at market prices in this country is
+A.	$160 million.
+B.	$235 million.
+C.	$250 million.
+D.	$270 million.
+
+Answer: C
+
+Question code: B5C01Q053
+Referring to the following data of a country:
+
+Items	$ million	
+Private consumption expenditure	3,000	
+Government consumption expenditure	500	
+Gross domestic fixed capital formation	1,350	
+Change in inventories	150	
+Exports of goods and services	6,000	
+Imports of goods and services	5,400	
+Net factor income from abroad	400	
+
+The GDP at market prices is
+A.	$5,600 million.
+B.	$5,900 million.
+C.	$6,000 million.
+D.	$6,400 million.
+
+Answer: A
+
+Question code: B5C01Q054
+Refer to the following gross domestic product information about Country A.
+
+	$ billion	
+Private consumption expenditure	50	
+Gross domestic capital formation	45	
+Decrease in inventories	3	
+Government consumption expenditure	28	
+Domestic exports of goods	8	
+Re-exports of goods	2	
+Imports of goods	17	
+Exports of services	14	
+Imports of services	20	
+Indirect taxes	2	
+Subsidies	6	
+
+
+GDP at factor cost is
+A.	$106 billion.
+B.	$111 billion.
+C.	$114 billion.
+D.	$121 billion.
+
+Answer: C
+
+Question code: B5C01Q055 (new)
+Which of the following items must be an intermediate product?
+A.	Pencils
+B.	Fossil fuels (化石燃料)
+C.	Clothing
+D.	None of the above
+
+Answer: D
+Explanation
+Whether a good is classified as an intermediate product depends on its use. For example, when fossil fuels are exported to other countries, they are regarded as a final product from the viewpoint of the exporting country.
+
+Question code: B5C01Q056
+Which of the following statements about value-added is correct?
+(1)	Value-added is the value created by a resident producing unit.
+(2)	Total value-added is equal to GDP at factor cost.
+(3)	Value-added includes indirect taxes and subsidies.
+A.	(1) only
+B.	(2) only
+C.	(1) and (2) only
+D.	All of the above
+
+Answer: C
+
+
+Question code: B5C01Q057 (new)
+Which of the following descriptions about GDP is INCORRECT?
+A.	The production approach can be used to find the total market value of all final products.
+B.	GDP at market prices can be obtained by adding up all final expenditures of households, firms, the government and the foreign sector on domestic products.
+C.	GDP at market prices can be obtained by adding up the value-added of all resident producing units.
+D.	If the government does not provide any subsidy, GDP at market prices cannot be smaller than GDP at factor cost.
+
+Answer: C
+
+Question code: B5C01Q058 (new)
+* Which of the following about the GDP computed under the production approach is correct?
+A.	It does not include the value of exported goods and services.
+B.	It is equal to the sum of the revenues of all resident producing units.
+C.	It can be greater than the GDP computed under the expenditure approach.
+D.	It does not include the value of semi-finished products.
+
+Answer: C
+Explanation
+Option B is incorrect. The revenue of a resident producing unit includes the value of intermediate consumption. Thus, the sum of the revenues of all resident producing units will lead to the problem of double counting.
+Option D is incorrect. If semi-finished products are the current production of resident producing units, they are counted in GDP.
+
+Question code: B5C01Q059
+Study the following toy car production chain.
+
+
+
+The contribution of the trading company to GDP at factor cost is
+A.	$2,000.
+B.	$3,000.
+C.	$4,000.
+D.	$5,000.
+
+Answer: C
+
+Question code: B5C01Q060
+A production chain is shown below:
+
+
+
+Suppose the above calculator distributor in Hong Kong buys calculators from the above manufacturer in the mainland for $10,000, then sells 25% to secondary schools in Hong Kong for $300,000 and the rest to stationery shops in the US for $700,000. The value-added of the distributor is
+A.	$700,000.
+B.	$990,000.
+C.	$1,000,000.
+D.	$1,190,000.
+
+Answer: B
+
+
+Question code: B5C01Q061
+The following diagram shows the production chain of beer.
+
+
+The contribution of the above production chain to Australia's GDP is
+A.	$8,900.
+B.	$9,000.
+C.	$11,500.
+D.	$20,500.
+
+Answer: B
+Explanation
+To calculate the contribution of the above production chain, we can simply deduct imports from the total expenditure on final products.
+The contribution of the above production chain to Australia's GDP
+= ($5,500 + $6,000) - ($500 + $2,000)
+= $9,000
+
+Question code: B5C01Q062 (new)
+The following shows a production chain in Hong Kong.
+
+
+
+
+What is the above production chain's contribution to Hong Kong's GDP?
+A.	$5,600
+B.	$6,800
+C.	$8,800
+D.	$10,000
+
+Answer: A
+Explanation
+Expenditure approach:
+$4,800 + $4,000 - $1,200 - $2,000 = $5,600
+Value-added approach:
+Value-added of the Hong Kong beverage manufacturer + Value-added of the Hong Kong fast food chain
+= [($4,000 + $3,500) - ($1,200 + $2,000)] + ($4,800 - $3,500)
+= $4,300 + $1,300
+= $5,600
+
+Question code: B5C01Q063
+Study the following table showing the production stages of wagyu beef (和牛牛肉).
+
+Production stage	Value of output ($ million)	
+Wagyu beef from Japan	20	
+Hong Kong wholesalers which operate in Japan	30	
+Restaurants in Hong Kong	35	
+
+The contribution of the above production stages to Hong Kong's GDP is
+A.	$5 million.
+B.	$10 million.
+C.	$15 million.
+D.	$35 million.
+
+Answer: A
+Explanation
+As only restaurants in Hong Kong are resident producing units of Hong Kong, the contribution of the above production stages to Hong Kong's GDP will only include the value-added of the restaurants.
+
+
+Question code: B5C01Q064
+Study the following table which shows the production stages of a bicycle.
+
+Production stage	Value of output ($)	
+A bicycle manufacturer in the mainland of China	200	
+A cycling products wholesaler in Hong Kong	300	
+A bike shop in Hong Kong	450	
+
+In the above production stages, the value-added of all resident producing units of Hong Kong is
+A.	$150.
+B.	$200.
+C.	$250.
+D.	$300.
+
+Answer: C
+
+Question code: B5C01Q065 (new)
+The following table shows the financial statement of an electrical shop in City T in a particular year.
+	$	$	
+Sales revenue of electric appliances		480,000	
+Less:	Rent	50,000		
+	Wages	40,000		
+	Electricity and water charges	10,000		
+	Imported electric appliances	120,000		
+	Profits tax	39,000	259,000	
+Net profit			221,000	
+What is the electrical shop's contribution to the GDP of City T?
+A.	$221,000
+B.	$260,000
+C.	$300,000
+D.	$360,000
+
+Answer: C
+
+Explanation
+The items 'rent', 'electricity and water charges' and 'imported electric appliances' are values of intermediate consumption and should be deducted from the sales revenue of the electrical shop when calculating its contribution to the GDP.
+The electrical shop's contribution to the GDP
+= Net profit + Wages + Profits tax
+(= Sales revenue - Rent - Electricity and water charges - Imported electric appliances)
+= $221,000 + $40,000 + $39,000
+= $300,000
+
+Question code: B5C01Q066
+Louis is a second-hand book dealer. The following is information about his business operation:
+
+Total income from books sold	$150,000	
+Total cost of acquiring books	$40,000	
+Electricity and water charges	$20,000	
+Profits tax	$10,000	
+
+What is Louis's contribution to GDP?
+A.	$150,000
+B.	$110,000
+C.	$90,000
+D.	$80,000
+
+Answer: C
+Explanation
+The profits tax should not be deducted as it was originally a part of Louis's profit which has been transferred to the government.
+
+Question code: B5C01Q067 (new)
+Mary and her husband are mainlanders. In 2011, Mary's husband came to Hong Kong and bought her an engagement ring worth $700,000. In 2014, Mary lost the engagement ring. In the same year, her husband bought a new customised (特別訂製的) diamond ring worth $3,000,000 from a jewellery shop in Hong Kong as compensation. The jewellery shop imported materials worth $300,000 from the mainland to make the ring. As a result of this, Hong Kong's GDP in 2014
+
+A.	increased by $2,000,000.
+B.	increased by $2,700,000.
+C.	increased by $3,000,000.
+D.	did not change as the new diamond ring was just compensation.
+
+Answer: B
+Explanation
+The loss of the old ring would not affect GDP in 2014. The value of the new ring would be counted as current production for the year but the materials imported should be deducted from the value of the ring to reflect the value-added of the jewellery shop.
+
+Question code: B5C01Q068
+The following shows information about Country A's GDP.
+
+Items	$ billion	
+Gross domestic product at market price	50	
+Indirect taxes	5	
+Subsidies	4	
+
+The gross domestic product at factor cost is
+A.	$59 billion.
+B.	$55 billion.
+C.	$51 billion.
+D.	$49 billion.
+
+Answer: D
+
+Question code: B5C01Q069
+The following shows Alice's income in 2014.
+
+Annual wages	$120,000	
+Bonus	$20,000	
+Pocket money from her son	$8,000	
+Commission from selling second-hand books	$5,000	
+
+
+Given the above types of income, Alice's contribution to the 2014 GDP was
+A.	$153,000.
+B.	$148,000.
+C.	$145,000.
+D.	$140,000.
+
+Answer: C
+Explanation
+The pocket money was a transfer of money and no production was involved. The revenue from selling second-hand books was not counted in the GDP because their values had been counted in the GDP when they were sold for the first time. However, the commission from selling second-hand books reflects the value of factor service and so should be counted in the GDP.
+
+Question code: B5C01Q070 (new)
+Miss Leung is a Hong Kong resident. She works for an accounting firm in Hong Kong but she has to meet clients occasionally in Shanghai. The value of her service is ________ in Hong Kong's GDP. Her shopping expenses in Shanghai are ________ in Hong Kong's GDP.
+A.	included … included
+B.	included … not included
+C.	not included … included
+D.	not included … not included
+
+Answer: B
+
+Question code: B5C01Q071 (new)
+Which of the following items is included in Hong Kong's GDP but NOT in its GNP?
+A.	The salary of an Australian English teacher who has been working for the British Council in Hong Kong for two years
+B.	The rent earned by a US resident from renting out an apartment in Hong Kong
+C.	The dividend distributed to a Hong Kong investor by a US company
+D.	The remittance (匯款) to Indonesia by a foreign domestic helper who has been working in Hong Kong for one year
+
+Answer: B
+
+
+Question code: B5C01Q072 (new)
+Which of the following items is included in Hong Kong's GDP but excluded from Hong Kong's GNP?
+A.	The spending by foreign tourists in Hong Kong
+B.	The rent received by a Hong Kong resident from his property in Canada
+C.	The salary paid to a manager who works at a Hong Kong firm's subsidiary (子公司) in Guangzhou
+D.	The remuneration paid by a Hong Kong company to a foreign consultant who worked in Hong Kong for two months
+
+Answer: D
+
+Question code: B5C01Q073 (new)
+The GNP of an economy is greater than its GDP. This implies that
+A.	the total income of all residents is greater than the total value-added of all resident producing units.
+B.	the value of total exports is more than the value of total imports.
+C.	there is a net external factor income outflow.
+D.	the amount of foreign investment in the economy is greater than the amount of the economy's investment in other economies.
+
+Answer: A
+
+Question code: B5C01Q074
+Which of the following items should be included in Country A's net factor income from abroad?
+(1)	Imported goods and services from Country B
+(2)	Interest from bonds issued by a local corporation to a local resident
+(3)	Expenditure on the purchase of foreign financial assets by a local resident producing unit
+A.	(1) and (2) only
+B. 	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: D
+
+
+Question code: B5C01Q075
+The income of an US economist working for a university in Hong Kong on a six-month contract is
+(1)	not included in Hong Kong's GDP.
+(2)	not included in Hong Kong's GNP.
+(3)	an inflow of factor income of Hong Kong.
+(4)	an outflow of factor income of Hong Kong.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (4) only
+D.	(1), (2) and (4) only
+
+Answer: C
+Explanation
+Option (1) is incorrect. The payment is made by a university in Hong Kong, which is a resident producing unit of Hong Kong.
+
+Question code: B5C01Q076
+* Miss Takahashi, a famous scholar in Japan, has been invited by a Hong Kong university to be a visiting professor on a three-month contract. Her income is
+A.	not included in Hong Kong's GDP because she is not a resident of Hong Kong.
+B.	included in Hong Kong's GDP because the university is a resident producing unit of Hong Kong.
+C.	not included in Hong Kong's GNP because it does not reflect the value-added of a resident producing unit.
+D.	included in Hong Kong's GNP because she becomes a resident of Hong Kong once she is employed by a resident producing unit of Hong Kong.
+
+Answer: B
+
+Question code: B5C01Q077
+Which of the following items should be included in Hong Kong's GNP?
+(1)	Salary of an American who has been working for a Japanese company in Hong Kong for one year
+(2)	Income of a Hong Kong resident working for a web-based company which maintains its centre of economic interest in the US
+(3)	Income of an American working in Hong Kong on a six-month contract
+
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: B
+
+Question code: B5C01Q078
+To find Hong Kong's GNP, which of the following items has to be added to Hong Kong's GDP?
+A.	The salary of a foreign Korean teacher who works at a school in Hong Kong for two years
+B.	The income earned by a Hong Kong resident from a Korean company in Hong Kong
+C.	The rent received by a Hong Kong resident who lets out an apartment in Korea
+D.	A Korean tourist's shopping expenses in Hong Kong
+
+Answer: C
+
+Question code: B5C01Q079
+Refer to the following national income data:
+
+Items	$ billion	
+Government consumption expenditure	50	
+Net exports of goods	-500	
+Imports of goods	400	
+Exports of services	700	
+Imports of services	300	
+Gross domestic fixed capital formation	600	
+Change in stocks	200	
+Depreciation	10	
+Private consumption expenditure	800	
+Net factor income from abroad	40	
+
+GNP is
+A.	$1,150 billion.
+B.	$1,550 billion.
+C.	$1,590 billion.
+D.	$1,600 billion.
+
+Answer: C
+Explanation
+GNP
+= $[800 + (600 + 200) + 50 + (-500) + (700 - 300) + 40] billion
+= $1,590 billion
+
+Question code: B5C01Q080
+Referring to the following data of a country:
+
+Items	$ million	
+Private consumption expenditure	3,000	
+Government consumption expenditure	500	
+Gross domestic fixed capital formation	1,350	
+Change in inventories	150	
+Exports of goods and services	6,000	
+Imports of goods and services	5,400	
+Net factor income from abroad	400	
+External factor income inflow	300	
+
+The GNP is
+A.	$5,200.
+B.	$6,000.
+C.	$6,300.
+D.	$6,400.
+
+Answer: B
+
+Question code: B5C01Q081
+Which of the following statements about national income accounting is correct?
+A.	Transfer payment is included in government expenditure and so it is counted in GDP.
+B.	All output counted in GDP is valued at factor cost.
+C.	When net exports are negative, GNP will be smaller than GDP.
+D.	GNP only includes the income of residents.
+
+Answer: D
+
+
+Short Questions
+
+Question code: B5C01Q301 (new)
+Mr Lee wins a Mark Six Prize of $500,000. He uses the prize money to buy stocks. At the end of the year, Mr Chan sells his stocks through a local investment company and his capital gain is $1,000,000.
+a.	Explain whether the following items should be included in Hong Kong's GDP:
+i.	The prize money of $500,000	(2 marks)
+ii.	The capital gain of $1,000,000	(2 marks)
+b.	Explain why the above stock transaction will increase Hong Kong's GDP.
+	(2 marks)
+
+Answer:
+a.	i.	No, because it does not involve production.	(2 marks)
+	ii.	No, because it does not involve production.	(2 marks)
+b.	The value of services provided by the local investment company will be counted in Hong Kong's GDP.	(2 marks)
+
+Question code: B5C01Q302 (new)
+Explain which expenditure components of GDP may be affected by the following activities.
+(a)	Sandy buys bottled water for her own consumption.	(3 marks)
+(b)	The Hong Kong Police Force buys bottled water for the police.	(3 marks)
+(c)	A foreign politician donates money to a domestic political party.	(3 marks)
+
+Answers:
+(a)	Private consumption expenditure will increase because it is a domestic household's expenditure on the consumption of a final product.	(3 marks)
+(b)	The Hong Kong Police Force is a government department which is not engaged in market activities. Thus, its expenditure on final products should be included in government consumption expenditure. As a result, government consumption expenditure will increase.	(3 marks)
+(c)	The donation is a transfer payment and should not be included in any expenditure components of GDP. However, as the political party has more money to spend, it may consume more goods. As a result, private consumption expenditure may increase.	(3 marks)
+
+
+Question code: B5C01Q303 (new)
+The government of Country A introduces unemployment benefits this year.
+(a)	Explain whether unemployment benefits should be included in the current GDP.
+	(3 marks)
+(b)	Ka Ming is unemployed. He has received $5,000 in unemployment benefits and spent all the money on his basic needs. Explain whether Country A's GDP will necessarily increase by $5,000.	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+	Unemployment benefits are transfer payments, which are not payments for current production.	(2 marks)
+(b)	No.	(1 mark)
+	The goods and services that Ka Ming purchased may be imported / produced by non-resident producing units / not currently produced.	(2 marks)
+
+Question code: B5C01Q304
+What are intermediate products? Explain why their values should NOT be counted in the calculation of GDP.	(4 marks)
+
+Answers:
+•	Intermediate products are inputs used up to produce goods and services for sale.
+	(2 marks)
+•	To cover costs, producers of final products would include the values of intermediate products in the values of their final products. Thus, their values should not be counted to avoid double counting.	(2 marks)
+
+Question code: B5C01Q305
+Explain why the value of imported goods and services should be deducted from the total expenditure to find GDP.	(4 marks)
+
+Answers:
+•	Imported goods and services are not produced by local resident producing units.
+	(2 marks)
+•	However, they have already been included in private consumption expenditure, gross domestic capital formation and government consumption expenditure. So their value has to be deducted when we calculate GDP.	(2 marks)
+
+Question code: B5C01Q306
+Explain whether the value of the following activities is included in current GDP:
+(a)	The sale of second-hand textbooks produced this year	(3 marks)
+(b)	The sale of books unsold last year	(3 marks)
+
+Answers:
+(a)	No.	(1 mark)
+The values of second-hand textbooks had been counted when they were sold for the first time. Thus, if their values were counted in the current GDP, there would be double counting.	(2 marks)
+(b)	No.	(1 mark)
+Decreases in inventories are not included in current GDP because they represent sales of goods that are not currently produced.	(2 marks)
+
+Question code: B5C01Q307
+Explain why the following items should NOT be counted in the current GDP.
+(a)	The values of second-hand computers	(2 marks)
+(b)	Expenditure on purchasing newly issued shares	(2 marks)
+
+Answers:
+(a)	The values of second-hand computers had been counted when they were sold for the first time. Thus, if their values were counted in the current GDP, there would be double counting.	(2 marks)
+(b)	The expenditure on purchasing financial assets (i.e., newly issued shares) is actually a provision of capital for firms in return for future incomes. The payment is not an expenditure on current production of goods and services.	(2 marks)
+
+Question code: B5C01Q308
+Explain whether the following items should be included in GDP.
+(a)	The commission paid to an insurance agent	(3 marks)
+(b)	Expenditure on the purchase of government bonds	(3 marks)
+(c)	The subsidy for child education provided to a civil servant by the government
+	(3 marks)
+
+Answers:
+(a)	Yes.	(1 mark)
+This is because the commission represents the value of the services provided by an insurance agent.	(2 marks)
+(b)	No.	(1 mark)
+This is because the transaction only represents a transfer of wealth without any corresponding production activity being involved.	(2 marks)
+(c)	Yes.	(1 mark)
+This is because the subsidy is a part of the reward to a civil servant for his services.	(2 marks)
+
+Question code: B5C01Q309
+Explain whether the following items should be included in GDP.
+(a)	The interest received by a depositor	(3 marks)
+(b)	Expenditure on the purchase of shares in the Tracker Fund (盈富基金) of Hong Kong	(3 marks)
+(c)	The repayment of principal on a home mortgage	(3 marks)
+
+Answers: 
+(a)	Yes.	(1 mark)
+This is because the interest represents the reward to a depositor for his factor services (providing capital goods for production).	(2 marks)
+(b)	No.	(1 mark)
+This is because the transaction only represents a transfer of wealth without any corresponding production activity being involved.	(2 marks)
+(c)	No.	(1 mark)
+The principal repayment is a transfer of money and so should not be included in GDP.	(2 marks)
+
+Question code: B5C01Q310
+Suppose there is an outbreak of bird flu (禽流感). The government destroys all chickens in Hong Kong. It provides compensation to the chicken farmers for their losses.
+Is the value of the destroyed chickens included in Hong Kong's GDP? Explain with TWO reasons.	(5 marks)
+
+Answers:
+Not included.	(1 mark)
+Reasons:
+•	The destroyed chickens do not contribute to any increase in the amount of goods or services for people's consumption, nor are they counted as a change in stocks held by the chicken farmers.	(2 marks)
+•	Even though the government compensates the chicken farmers for their losses, the amount of compensation is not counted in GDP as it does not have any corresponding production of equal value.	(2 marks)
+
+Question code: B5C01Q311
+Suppose after reports of cases of hand, foot and mouth disease (手足口病) in Hong Kong, the government tells all kindergartens to close temporarily for cleaning. The cleaning expenditures are financed by the government and the cleaning services are provided by a local cleaning company.
+Explain if the cleaning expenditures should be included in Hong Kong's GDP.
+	(4 marks)
+
+Answers:
+Included.	(1 mark)
+The expenditures are used to buy final services.	(1 mark)
+As they involve current production of a resident producing unit, they should be counted in GDP, regardless of who pays for them.	(2 marks)
+
+Question code: B5C01Q312
+At the beginning of last year, Mr Chan employed an interior designer to design the interior of his new home. The designer finished the design work in the first half of last year. Then, Mr Chan employed a local home furnishing company to furnish his new home. The furnishings were completed at the end of last year but the payment was made in the current year.
+Explain whether the following statements are true or not:
+(a)	The payment for the designer's services was included in last year's GDP.
+	(3 marks)
+(b)	The expenditure on furnishings should be counted in the current GDP.	(3 marks)
+
+Answers:
+(a)	True.	(1 mark)
+The payment for the designer's services involves a corresponding production of equal value within the year.	(2 marks)
+(b)	False.	(1 mark)
+The expenditure on furnishings reflects the value of production of a resident producing unit in the last year. Thus, it should be counted in last year's GDP, regardless of when the payment was settled.	(2 marks)
+
+Question code: B5C01Q313 (new)
+At the beginning of this year, Mr Chan employed a local interior designer to design the interior of his new home. The designer finished the design work during the first half of this year. Then, Mr Chan employed a local home furnishing company to furnish his new home. The furnishings will be completed next year.
+'The expenditure on the design work will be included in this year's GDP while the expenditure on furnishings will only be included in next year's GDP.' 
+Explain whether this statement is correct.	(5 marks)
+
+Answers:
+The first part of the statement is correct. 	(1 mark)
+The designer is a resident producing unit and the value of its production this year should be included in this year's GDP.	(1 mark)
+The second part of the statement is not correct.	(1 mark)
+The wages for workers and other factor payments involved this year were counted in this year's GDP even though the furnishings had not yet been completed. / The value of production involved this year was counted in this year's GDP when the furnishing was carried out.	(2 marks)
+
+Question code: B5C01Q314 (new)
+Publishing Company A employed an experienced editor to edit a new book in 2014. The editor finished the editorial work in two years. The book was then printed locally and published overseas in 2016. Explain whether the following statements are true or not:
+(a)	No part of the payment for the editor's services was included in the 2014 GDP.		(3 marks)
+(b)	Suppose the book is 100% locally produced and involves no imports. Both the printing cost and total sales revenue of the book would be counted in the 2016 GDP.	(3 marks)
+
+Answers:
+(a)	False.	(1 mark)
+Although the editorial work had not yet been completed by the end of 2014, the value of the contribution made by the editor during the year was counted in that year.	(2 marks)
+(b)	False.	(1 mark)
+The printing service is an intermediate product and its value should not be counted to avoid the problem of double counting.	(2 marks)
+
+Question code: B5C01Q315
+Recently, during the Bun Scrambling Competition (搶包山), many local people and foreign tourists travelled to Cheung Chau. The demand for Ping An Buns (平安包) was so great that sales reached $1,000,000. To make Ping An Buns, Cheung Chau bakers imported flour in bulk from the mainland which cost $100,000. Explain which expenditure component(s) of GDP is/are involved and how this event affected Hong Kong's current GDP.	(5 marks)
+
+Answers:
+•	The expenditures of domestic households on Ping An Buns are included in private consumption expenditures while the expenditures of foreign tourists on Ping An Buns are included in exports of services.	(2 marks)
+•	The value of imported flour is included in imports of goods.	(1 mark)
+•	Hong Kong's current GDP increased by $900,000 (= $1,000,000 - $100,000).
+	(2 marks)
+
+Question code: B5C01Q316
+Meya Company is a shop in Hong Kong selling Japanese cosmetics and local skincare products. Its revenue was $10 million last year.
+(a)	Explain why Meya Company's contribution to Hong Kong's GDP was less than $10 million last year.	(4 marks)
+(b)	Tammy is a Meya Company employee who needs to visit Japan frequently to search for new products. Explain if her income is included in Hong Kong's GDP.	(3 marks)
+
+Answers:
+(a)	•	To find Meya Company's contribution, the value of Japanese cosmetic products should be deducted from the sales revenue as it is not the value of production of Hong Kong's resident producing units.	(2 marks)
+•	To find Meya Company's contribution, the value of skincare products purchased from other companies should be deducted from the sales revenue as it belongs to the value of intermediate consumption.	(2 marks)
+(b)	•	Yes.	(1 mark)
+•	This is because Tammy is employed by a resident producing unit (Meya Company) of Hong Kong.	(2 marks)
+
+
+Question code: B5C01Q317
+Florence is a famous artist in Hong Kong. She sold her earlier paintings to her friend Freda for a low price five years ago when she was not famous. Recently, Freda sold her paintings and received $5,000,000.
+Florence said, 'Why did you sell my paintings?'
+Freda replied, 'You know, this can contribute to Hong Kong's economy! Due to this transaction, Hong Kong's current GDP increased by $5,000,000.'
+Explain with THREE reasons why Freda is INCORRECT.	(6 marks)
+
+Answers:
+•	The value of the transaction should not be included in GDP as the value of the paintings was counted when they were sold for the first time.	(2 marks)
+•	As the paintings were not produced in the current period, the value of the paintings should not be included in Hong Kong's current GDP. 	(2 marks)
+•	Capital gains are not included in GDP as no current production is involved.		(2 marks)
+
+Question code: B5C01Q318 (new)
+Chia Yi is a Taiwanese who is the sole owner of a restaurant in Hong Kong. She normally stays in Taiwan. Ronald is also a Taiwanese. He has been the chef at the restaurant for more than 10 years. Explain whether each of the following statements is correct.
+(a)	As Chia Yi is not a resident of Hong Kong, the output of her restaurant should not be counted in Hong Kong's GDP.	(3 marks)
+(b)	Ronald's salary should be included in Hong Kong's GNP.	(3 marks)
+
+Answers:
+(a)	Incorrect.	(1 mark)
+	It is true that Chia Yi is not a resident of Hong Kong. However, Chia Yi's restaurant is a resident producing unit of Hong Kong (this does not depend on the residence status of the owner). Therefore, the output of her restaurant should be included in Hong Kong's GDP.	(2 marks)
+(b)	Correct.	(1 mark)
+	Ronald is a resident of Hong Kong as his major economic activities take place in Hong Kong. Therefore, his salary should be included in Hong Kong's GNP.
+	(2 marks)
+
+
+Question code: B5C01Q319 (new)
+Refer to the following gross domestic product information about Country K.
+
+	$ billion	
+Private consumption expenditure	80	
+Gross domestic fixed capital formation	70	
+Increase in inventories	10	
+Depreciation	6	
+Government consumption expenditure	14	
+Domestic exports of goods	26	
+Re-exports of goods	30	
+Imports of goods	40	
+Net exports of services	20	
+Indirect taxes	5	
+Subsidies	3	
+
+(a)	Calculate Country K's GDP at market prices and GDP at factor cost.	(4 marks)
+(b)	Recently, Ka Ming bought a second-hand textbook from a bookstore in Mong Kok. Explain how this would affect Hong Kong's GDP.	(3 marks)
+
+Answers:
+(a)	GDP at market prices = $(80 + 70 + 10 + 14 + 26 + 30 - 40 + 20) billion	(1 mark)
+             = $210 billion	(1 mark)
+GDP at factor cost = $(210 - 5 + 3) billion 	(1 mark)
+               = $208 billion	(1 mark)
+(b)	Hong Kong's GDP would increase as the value of retailing services provided by the bookstore is included in Hong Kong's GDP.	(3 marks)
+
+Question code: B5C01Q320 (new)
+In 2014, the government of Country Q gave $9,000 to every household.
+(a)	Explain the effect on Country Q's GDP.	(2 marks)
+(b)	Keung remitted the $9,000 to his mother in Canada. Explain whether this would cause a difference between Hong Kong's GDP and GNP.	(4 marks)
+
+Answers:
+(a)	Every household has more money to spend and so private consumption expenditure would increase.	(1 mark)
+	Therefore, Country Q's GDP would increase.	(1 mark)
+
+(b)	No.	(1 mark)
+	The remittance was a transfer payment instead of income distributed to a factor of production. Hence, it was not factor income paid abroad.	(3 marks)
+
+Question code: B5C01Q321 (new)
+Dr Banner is a famous medical expert in America. He was invited to be the guest lecturer at a medical conference at the University of Hong Kong. The conference lasted for a week. Explain whether Dr Banner's remuneration from the conference should be counted in Hong Kong's
+(a)	GDP, and	(3 marks)
+(b)	GNP.	(3 marks)
+
+Answers:
+(a)	Counted in Hong Kong's GDP.	(1 mark)
+The remuneration was derived from the production of a resident producing unit in Hong Kong (the University of Hong Kong).	(2 marks)
+(b)	Not counted in Hong Kong's GNP.	(1 mark)
+Dr Banner is not a resident of Hong Kong. His remuneration should be counted as Hong Kong's factor income paid abroad.	(2 marks)
+
+Question code: B5C01Q322
+Explain in what situation the GDP of a country would be greater than its GNP.
+	(2 marks)
+
+Answers: 
+When the 'net factor income from abroad' of the country is negative (i.e. factor income paid abroad is larger than the factor income from abroad), its GDP will be greater than its GNP.	(2 marks)
+
+Question code: B5C01Q323
+* 'Since GNP is the sum of GDP and net factor income from abroad, the GNP and GDP of an economic territory will be the same if all the resident producing units only employ residents of the territory.' Do you agree? Explain.	(4 marks)
+
+Answers: 
+•	When resident producing units of an economic territory only employ residents of the territory, factor income paid abroad will be equal to zero (i.e., non-residents earn no factor income within the economic territory.)	(2 marks)
+•	However, residents may still provide factor services outside the economic territory so that factor income from abroad will be positive. As a result, GDP is not the same as GNP.	(2 marks)
+
+Question code: B5C01Q324
+Refer to the following gross domestic product information about Country A.
+
+	$ billion	
+Private consumption expenditure	100	
+Gross domestic fixed capital formation	90	
+Decrease in inventories	10	
+Government consumption expenditure	20	
+Domestic exports of goods	30	
+Re-exports of goods	80	
+Imports of goods	40	
+Exports of services	70	
+Imports of services	110	
+Indirect taxes	5	
+Subsidies	3	
+Net factor income from abroad	-1	
+
+(a)	Calculate the GDP and GNP of Country A.	(3 marks)
+(b)	Which approach have you used in (a) to measure GDP?	(1 mark)
+
+Answers:
+(a)	GDP = $(100 + 90 - 10 + 20 + 30 + 80 - 40 + 70 - 110) billion	(1 mark)
+= $230 billion	(1 mark)
+GNP = $(230 - 1) billion = $229 billion	(1 mark)
+(b)	Expenditure approach	(1 mark)
+
+
+
+Structured Questions
+
+Question code: B5C01Q501 (new)
+Duland is a country with well-developed heavy industries. The following shows a production chain of vehicles in Duland.
+
+*(a)	Calculate the contribution of the above production chain to Duland's GDP at factor cost by the production approach.	(3 marks)
+*(b)	Calculate the contribution of the above production chain to Duland's GDP at market prices by the expenditure approach.	(3 marks)
+(c)	To which of the components in the expenditure approach do the following items in the above production chain belong?
+	(i)	The value of the vehicles for the disabled	(1 mark)
+	(ii)	The value of the buses	(1 mark)
+	(iii)	The value of the private cars bought by Duland consumers	(1 mark)
+	(iv)	The value of the private cars sold to foreign car wholesalers	(1 mark)
+	(v)	The value of raw materials	(1 mark)
+(d)	Explain whether the following items are included in Duland's gross national product (GNP).
+	(i)	The dividend distributed by the local car manufacturer to a foreign investor
+	(2 marks)
+	(ii)	The salary of Mr Simpson, a foreign engineer working for the local car manufacturer under a three-year contract	(3 marks)
+
+
+Answers:
+(a)	Duland's GDP at factor cost (by the production approach)
+= $[(3,000 + 2,500 + 4,500 + 5,500 - 500) - 1,900] + $(6,500 - 4,500)	(1 mark)
+= $15,100	(2 marks)
+
+(b)	Duland's GDP at market prices (by the expenditure approach)
+= $(3,000 + 2,500 + 6,500 + $5,500 - 1,900)	(1 mark)
+= $15,600	(2 marks)
+
+(c)	(i)	Private consumption expenditure	(1 mark)
+	(ii)	Gross investment expenditure	(1 mark)
+	(iii)	Private consumption expenditure	(1 mark)
+	(iv)	Exports (of goods)	(1 mark)
+	(v)	Imports (of goods)	(1 mark)
+
+(d)	(i)	No.	(1 mark)
+		It is factor income paid to a non-resident.	(1 mark)
+	(ii)	Yes.	(1 mark)
+		Mr Simpson is a resident of Duland as he intends to stay in Duland for more than a year. Thus, his income should be included in Duland's GNP.	(2 marks)
+
+Question code: B5C01Q502 (new)
+City M's economy relies heavily on the gambling industry.
+(a)	Explain whether the following items will contribute to City M's GDP. 
+	(i)	The money won by a gambler in a casino 	(2 marks)
+	(ii)	The BBQ pork rice (叉燒飯) lunch boxes made by a casino and distributed to the public free of charge	(2 marks)
+(b)	Explain whether each of the following items is included in City M's GNP.
+	(i)	The expenditure on dinner spent by a tourist	(2 marks)
+	(ii)	The remuneration paid to a foreign consulting company	(2 marks)
+	(iii)	The wages paid to a foreign violist (中提琴手) who performs at a hotel in City M for three weeks	(2 marks)
+(c)	A boutique in City M has bought clothes from a wholesaler in City H. Some of the clothes are sold to domestic consumers. The boutique stores the remaining clothing. Under the expenditure approach, how are these items recorded in City M's GDP?	(3 marks)
+
+
+Answers:
+(a)	(i)	No.	(1 mark)
+		The money is not paid for production.	(1 mark)
+	(ii)	Yes.	(1 mark)
+		The lunch boxes are produced by the casino, which is a resident producing unit of City M.	(1 mark)
+
+(b)	(i)	Tourists' consumption should be included in the GNP because it belongs to exports of services.	(2 marks)
+	(ii)	The value of the consulting service belongs to imports of services and should not be included in the GNP.	(2 marks)
+	(iii)	As the violist is not a resident of City M, his/her wage income should not be included in the GNP.	(2 marks)
+
+(c)	The total value of clothes bought from City H is recorded as imports.	(1 mark)
+	The total market value of the clothes sold to consumers is recorded as private consumption expenditure.	(1 mark)
+	The total market value of unsold clothes is recorded as gross investment expenditure (an increase in inventories).	(1 mark)
+
+Question code: B5C01Q503 (new)
+Because of political instability in Country H, some foreign investors have withdrawn their funds from Country H's stock market.
+(a)	With the aid of a diagram, explain how the above event affects stock prices and the stock trading volume (成交量) in Country H.	(6 marks)
+*(b)	Explain how the above change in the stock market will affect Country H's GDP.
+		(3 marks)
+(c)	To stabilise the political environment, Country H's government introduces the following policies. Explain how each of the following policies may affect Country H's GDP.
+	(i)	The government gives $10,000 to each resident.	(3 marks)
+	(ii)	The education department increases its expenditure on civil education.
+	(2 marks)
+
+Answers:
+(a)	When foreign investors withdraw their funds, demand for stocks decreases.
+	(1 mark)
+Both stock prices and the stock trading volume decrease.	(2 marks)
+	Indicate on the diagram:
+•	Decrease in demand	(1 mark)
+•	Decrease in stock prices	(1 mark)
+•	Decrease in the stock trading volume	(1 mark)
+
+
+(b)	When the trading volume decreases, the demand for financial services derived from stock transactions will decrease. Thus, Country H's GDP will decrease.
+	(3 marks)
+
+(c)	(i)	This will increase people's disposable income. As people have more money to spend, they will consume more. Thus, private consumption expenditure will increase and so will Country H's GDP.	(3 marks)
+	(ii)	This will increase government consumption expenditure and Country H's GDP.	(2 marks)
+
+Question code: B5C01Q504 (new)
+In Country A, many people can download MP3 songs from the internet through peer-to-peer sharing (點對點分享). Most do not pay for the copyrights and no related laws protect the copyrights.
+(a)	(i)	Explain with TWO reasons whether the 'free' songs downloaded through peer-to-peer sharing are free goods.	(3 marks)
+(ii)	Because the songs are free, the sales revenue of the original CDs producers decreases greatly. To compensate for the decreased sales revenue, some of the producers plan to lower the prices of their CDs. With the aid of a diagram, explain whether their attempt to increase their total revenue will be successful if demand for the original CDs is inelastic.	(4 marks)
+(b)	Suppose the government implements a new measure to punish people who download songs from the internet without paying for the copyrights.
+	Without the aid of a diagram, explain the effects of this new measure on the equilibrium price, the quantity transacted and the total revenue of the original CDs.	(6 marks)
+(c)	Suppose some online Hong Kong businesses sell original CDs which are produced in the mainland. Explain whether the above activity would increase Hong Kong's GDP.	(3 marks)
+
+Answers:
+(a)	(i)	No.	(1 mark)
+Reasons:
+•	People want more free songs.	(1 mark)
+•	The resources involved in the production of free songs have alternative uses.	(1 mark)
+(ii)	•	As the demand is inelastic, the total revenue decreases as the gain in revenue (due to an increase in quantity demanded) is smaller than the loss in revenue (due to a decrease in price).	(1 mark)
+•	Thus, their attempt to increase their total revenue will not be successful.
+	(1 mark)
+	(2 marks)
+
+(b)	•	If the users of the free songs are punished, the demand for the free songs will decrease.	(1 mark)
+•	Since the free songs from the websites and the songs from the original CDs are substitutes for each other, the demand for the original CDs will increase.
+	(2 marks)
+•	Both the equilibrium price and quantity transacted will increase.	(2 marks)
+•	Since both the equilibrium price and the quantity transacted increase, the total revenue will increase.	(1 mark)
+
+(c)	•	Yes.	(1 mark)
+•	Although the CDs are not produced in Hong Kong, the related retailing services are currently provided by online Hong Kong businesses. The value of the retailing services should be included in Hong Kong's GDP.	(2 marks)
+
+Question code: B5C01Q505
+Suppose Country A's government constructed a new highway connecting Area F and an urban area so as to develop Area F. The construction started in Year 2. It was estimated that the construction would cost $5 billion and the work would be completed in Year 4.
+(a)	(i)	Explain the effects of the construction of the highway on Country A's GDP for Year 2.	(2 marks)
+(ii)	With the aid of a diagram, explain the effect of this construction on the price of flats in Area F.	(4 marks)
+*(iii)	Explain whether the change in the price of the flats in Area F is reflected in the GDP of Year 2.	(4 marks)
+(b)	Suppose Country A's government imported construction workers from Country H on a two-year contract basis in Year 2. Explain whether the wage payment of the imported construction workers should be included in the GDP and GNP between Year 2 and Year 4.	(4 marks)
+
+Answers:
+(a)	(i)	Although the construction of the highway will not be completed in Year 2, the wages of the workers and other factor payments involved in Year 2 will be counted in the GDP for that year.	(2 marks)
+(ii)	•	Since travelling to and from Area F will be more convenient in the near future, the demand for flats in the area will increase.	(1 mark)
+•	Therefore, the equilibrium price of flats in Area F will increase.	(1 mark)
+
+Indicate on the diagram:
+•	Increase in demand	(1 mark)
+•	Increase in price	(1 mark)
+
+(iii)	•	For flats built before Year 2, the increase in market prices when they are sold in that year is classified as a capital gain and will not be counted in the GDP for Year 2.	(2 marks)
+•	For flats built in Year 2, the increase in price will increase the profit margin of real estate developers, which is counted as gross fixed investment.	(2 marks)
+
+(b)	•	The workers work for resident producing units in Country A.	(1 mark)
+•	Since GDP measures the value of output produced by all resident producing units, their wage payments are included in Country A's GDP.	(1 mark)
+•	Since imported workers are employed on a two-year contract basis, they are treated as residents of Country A.	(1 mark)
+•	Since GNP measures the total income of all residents, their wage payments are included in Country A's GNP.	(1 mark)
+
+
+Question code: B5C01Q506
+Study the following cat food production chain.
+
+(a)	What is a market?	(2 marks)
+(b)	Explain whether the following statement is correct.
+'As online shops do not have physical locations, no market is involved in their transactions.'	(2 marks)
+(c)	What is the contribution of the above production chain to Country B's GDP? Find your answer by the expenditure approach.	(2 marks)
+(d)	A new movie about Garfield the Cat (加菲貓) has been shown in Country C and received an enthusiastic response from fans. The demand for cats has increased greatly in Country C. Suppose all of its cat food is imported from Country B.
+(i)	With the aid of a diagram, explain how the above event affects the equilibrium price and quantity transacted of cat food in Country C.	(6 marks)
+(ii)	Explain how the above event affects Country B's GDP and which expenditure components will be directly affected. 	(6 marks)
+
+Answers:
+(a)	A market is any arrangement which enables transactions of a good or service to take place.	(2 marks)
+
+(b)	Incorrect.	(1 mark)
+A market may not involve a physical location.	(1 mark)
+
+(c)	The contribution of the above production chain to Country B's GDP
+	= $9,000 + $4,000- $3,000	(1 mark)
+= $10,000	(1 mark)
+
+(d)	(i)	The demand for cat food is in derived demand with cats.	(1 mark)
+The increase in the demand for cats will lead to the increase in demand for cat food.	(1 mark)
+Both the equilibrium price and quantity transacted of cat food will increase.
+	(2 marks)
+	(2 marks)
+(ii)	As both the price and quantity transacted of cat food in Country C increase, the total revenue of cat food exporters (online shops) in Country B increases.
+	(1 mark)
+The exports of Country B increase.	(1 mark)
+To sell more cat food, cat food wholesalers import more cat food from Country A.	(1 mark)
+The imports of Country B increase.	(1 mark)
+The increase in exports is greater than the increase in imports (Otherwise, wholesalers and online shops will not increase their output level).	(1 mark)
+Country B's GDP increases as net exports increase.	(1 mark)

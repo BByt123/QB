@@ -1,0 +1,1310 @@
+Chapter 9	Money demand and money market equilibrium
+
+Multiple Choice Questions
+
+Question code: B6C09Q001
+Suppose online shopping becomes more popular and people use credit cards to make their online payments. Which of the following is the possible effect of this?
+A.	A leftward shift in the money demand curve
+B.	A decrease in asset demand for money
+C.	An increase in the liquidity of money
+D.	None of the above
+
+Answer: A
+Explanation
+The transaction demand for money will decrease and so the money demand curve shifts leftwards.
+
+Question code: B6C09Q002
+Which of the following events will increase the transaction demand for money in Hong Kong?
+A.	More mainland investors purchase property in Hong Kong.
+B.	Hong Kong imports more goods from the US.
+C.	More mainlanders come to Hong Kong to buy daily necessities.
+D.	All of the above
+
+Answer: C
+
+Question code: B6C09Q003
+The transaction demand for money curve is ____________; this implies that ____________.
+A.	vertical … the amount of money needed for transaction purposes is independent of the nominal interest rate
+B.	vertical … the transaction demand for money does not change over time
+C.	downward sloping … the transaction demand for money is positively related to income
+D.	downward sloping … the money demand curve is also downward sloping
+
+Answer: A
+
+Question code: B6C09Q004
+Which of the following would lower the transaction demand for money?
+(1)	Increase in private savings
+(2)	Increase in the time interval between successive income receipts
+(3)	Increase in the number of shops accepting Octopus cards
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C09Q005
+Which of the following increases the transaction demand for money?
+A.	Widespread use of credit cards
+B.	Wages are paid monthly instead of weekly
+C.	Increase in nominal interest rates
+D.	Decrease in private consumption expenditure
+
+Answer: B
+
+Question code: B6C09Q006
+Which of the following statements about money demand is INCORRECT?
+A.	Money demand is the total amount of money that an economy desires to hold.
+B.	Money demand can be classified into transaction demand and asset demand.
+C.	When people want to save more money for future use, money demand increases.
+D.	None of the above
+
+Answer: C
+
+
+Question code: B6C09Q007
+Which of the following statements about the transaction demand for money is correct?
+A.	Transaction demand for money is the total amount of money that an economy desires to hold.
+B.	When real national income increases, the transaction demand for money will decrease.
+C.	When salaries are paid weekly instead of monthly, the transaction demand for money will decrease.
+D.	People hold money to conduct transactions because there is synchronisation between money receipts and expenditures.
+
+Answer: C
+
+Question code: B6C09Q008
+Suppose there is transaction demand for money. Which of the following statements are INCORRECT?
+(1)	There may be non-synchronisation between money receipts and expenditures.
+(2)	The change in interest rate must not affect the demand for money.
+(3)	The cost of holding money must be zero.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C09Q009
+Which of the following events will increase Ming's transaction demand for money?
+A.	Ming receives pocket money from his mother on a daily basis now, instead of on his previous monthly basis. The total amount of pocket money per month does not change.
+B.	To buy a birthday gift for his mother, Ming saves more money than before.
+C.	Ming's father gives Ming a supplementary (附屬) credit card.
+D.	As Ming gets a full score in the examination, his mother raises the amount of his pocket money.
+
+Answer: D
+
+Question code: B6C09Q010
+Which of the following events will decrease Hong Kong's transaction demand for money?
+A.	People expect stock prices in Hong Kong to drop significantly soon.
+B.	Hong Kong's unemployment rate increases.
+C.	Hong Kong people want to consume more due to the promotion of consumerism.
+D.	After the case involving Octopus (八達通) selling users' personal information to other companies, people reduced their use of Octopus cards.
+
+Answer: B
+
+Question code: B6C09Q011
+Which of the following events can increase Hong Kong's transaction demand for money?
+A.	Because of the widespread use of smartphones and Wi-Fi, people settle payments by credit cards through online banking services.
+B.	Some economists predict that a global financial crisis will come soon.
+C.	The number of tourists to Hong Kong increases.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C09Q012
+Which of the following can best explain why there is a transaction demand for money?
+A.	Money is the least risky asset.
+B.	Money does not bear interest.
+C.	The cost of holding money is very low.
+D.	Money is a medium of exchange.
+
+Answer: D
+
+Question code: B6C09Q013
+People hold money to conduct transactions because
+(1)	money is a medium of exchange.
+(2)	there is non-synchronisation between savings and investment.
+(3)	the real value of money is relatively stable.
+(4)	they often receive income at certain points of time but pay for expenditures at various times.
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+Question code: B6C09Q014
+If the time interval between two successive receipts of income _________, the transaction demand for money will ________.
+A.	increases … increase
+B.	increases … decrease
+C.	decreases … increase
+D.	decreases … decrease
+
+Answer: A
+
+Question code: B6C09Q015
+Study the following data about Country A.
+
+Year	8	9	10	
+Real GDP growth rate (%)	5	4	3	
+GDP deflator growth rate (%)	5	4	3	
+
+Which of the following conclusions about Country A can be drawn?
+(1)	Other things being equal, the transaction demand for money was increasing during the period.
+(2)	The living standard of people in Country A was decreasing during the period.
+(3)	Country A might experience a recession during the period.
+(4)	The cost of living in Country A was decreasing during the period.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: B
+
+
+Question code: B6C09Q016
+* The general price level in Country X is falling while real output level remains unchanged. Which of the following statements is correct?
+A.	Country X is facing disinflation.
+B.	People who hold Country X's currency as an asset suffer losses.
+C.	The transaction demand for money in Country X decreases.
+D.	None of the above
+
+Answer: C
+Explanation
+Option C is correct. In this question, the nominal GDP of Country X decreases. As a result, the value of transactions decreases, and hence the transaction demand for money decreases.
+
+Question code: B6C09Q017
+Which of the following statements about the transaction demand for money curve are INCORRECT?
+(1)	It shows the quantity of money demanded for transaction purposes against the real interest rate, which is the cost of holding money.
+(2)	It is downward sloping.
+(3)	When the general price level increases, the transaction demand for money curve will shift upwards.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+
+Question code: B6C09Q018
+Study the following diagram about transaction demand for money curves.
+
+Which of the following events may lead to the change shown in the above diagram?
+A.	The unemployment rate increases.
+B.	The nominal interest rate increases.
+C.	People consume more to celebrate the Chinese New Year.
+D.	People expect stock prices to decrease.
+
+Answer: C
+
+Question code: B6C09Q019
+* Study the following diagram about transaction demand for money in 
+Country A.
+
+Which of the following statements can explain the change illustrated in the diagram?
+A.	People desire to save more which causes the nominal interest rate to decrease.
+B.	The price of bonds increases.
+C.	The nominal interest rate decreases due to the increase in money supply.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C09Q020
+Which of the following diagrams can best represent a decrease in the transaction demand for money?
+
+
+Answer: C
+
+
+Question code: B6C09Q021
+Suppose the economy of Country A is at a peak. Which of the following diagrams can best show the change in the transaction demand for money in Country A?
+
+Answer: D
+
+Question code: B6C09Q022
+In Country A, the government raises the effective minimum wage to $32.5 per hour. Which of the following will be the possible effects of this measure?
+(1)	Living standards for all low-income workers increase.
+(2)	Overall transaction demand for money will increase for all low-income workers.
+(3)	Inflation occurs in Country A.
+A.	(2) only
+B.	(1) and (2) only
+C.	(1) and (3) only
+D.	None of the above
+
+Answer: D
+Explanation
+Option (3) is incorrect. A one-time-only increase in the minimum wage will not lead to a persistent increase in the general price level.
+
+Question code: B6C09Q023
+Recently, the government of Country H has subsidised the electricity fee. As a result, the general price level experiences a one-time-only decrease. Which of the following statements is correct?
+A.	There is deflation in Country H.
+B.	The transaction demand for money curve in Country H will shift rightwards.
+C.	The purchasing power of money increases.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C09Q024
+Under inflation, the nominal rate of return of holding money is _________, while the real rate of return of holding money is _________.
+A.	greater than zero … greater than zero
+B.	equal to zero … smaller than zero
+C.	equal to zero … equal to zero
+D.	smaller than zero … greater than zero
+
+Answer: B
+
+Question code: B6C09Q025
+Which of the following are the possible reasons for holding money instead of bonds?
+(1)	Holding money can have a higher expected nominal rate of return.
+(2)	The risk of holding money is lower.
+(3)	The liquidity of money is higher.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+
+Question code: B6C09Q026
+The higher the ___________, the more money that people hold.
+A.	nominal interest rate
+B.	desire to save
+C.	risk of shares
+D.	liquidity of shares
+
+Answer: C
+
+Question code: B6C09Q027
+Money is the least risky asset because
+A.	its expected and actual nominal rates of return are always the same.
+B.	its real rate of return is always zero.
+C.	its nominal rate of return always equals its real rate of return.
+D.	All of the above
+
+Answer: A
+
+Question code: B6C09Q028
+Suppose the inflation rate is 4%, while the nominal interest rate is 5%. What is the real rate of return on holding money?
+A.	-4%
+B.	-1%
+C.	0%
+D.	1%
+
+Answer: A
+
+Question code: B6C09Q029
+The cost of holding money increases if
+A.	there is unexpected inflation.
+B.	the nominal interest rate increases.
+C.	the risk of holding money falls.
+D.	money is more liquid than before.
+
+Answer: B
+
+
+Question code: B6C09Q030
+Which of the following can best illustrate the shape of the money demand curve?
+A.	People hold more money if the risk of holding income-earning assets increases.
+B.	People hold more money for transactions if their income increases.
+C.	People hold more money if the nominal interest rate decreases.
+D.	People hold more money if the time interval between successive income receipts decreases.
+
+Answer: C
+
+Question code: B6C09Q031
+Winnie's salary increases by 20%. Her transaction demand for money will __________ while her asset demand for money will __________.
+A.	increase … increase
+B.	increase … remain unchanged
+C.	remain unchanged … increase
+D.	remain unchanged … remain unchanged
+
+Answer: A
+Explanation
+As Winnie's salary (income) increases, her transaction demand for money will increase.
+As Winnie's salary increases, her wealth will increase. Therefore, her asset demand for money will increase.
+
+Question code: B6C09Q032
+* Due to hyperinflation, some people in Country Z use food to replace banknotes in transactions. The transaction demand for banknotes will __________ and the asset demand for banknotes will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: D
+Explanation
+In the case of Country Z, banknotes cannot fulfill their functions as a medium of exchange and a store of value. Thus, both the transaction demand and asset demand for banknotes decrease.
+
+Question code: B6C09Q033
+Suppose it becomes riskier to invest in the stock market due to speculative activities. Which of the following diagrams can illustrate the effects of the above event on the money market? ('n' represents the nominal interest rate while 'Qm' represents the quantity of money.)
+
+
+Answer: B
+
+Question code: B6C09Q034
+Which of the following statements about money is correct?
+A.	Holding cash involves no risk.
+B.	The real rate of return on money cannot be positive.
+C.	The nominal return on money is zero.
+D.	All of the above
+
+Answer: C
+
+
+Question code: B6C09Q035
+Which of the following types of assets has the highest liquidity?
+A.	Savings deposits
+B.	Negotiable certificates of deposit issued by deposit-taking companies
+C.	Money in a Mandatory Provident Fund (強制性公積金) account
+D.	Government bonds
+
+Answer: A
+
+Question code: B6C09Q036
+Which of the following types of assets has the highest liquidity in Hong Kong?
+A.	HSBC shares
+B.	Banknotes issued by HSBC
+C.	Savings at HSBC
+D.	Bonds issued by HSBC
+
+Answer: B
+
+Question code: B6C09Q037
+The cost of holding money is
+A.	zero.
+B.	its face value.
+C.	the inflation rate.
+D.	the nominal interest rate.
+
+Answer: D
+
+Question code: B6C09Q038
+The expected inflation rate and the nominal interest rate are 5% and 10%, respectively. If the actual inflation rate is 6%, the actual nominal rate of return on holding cash is _______ and the cost of holding cash is _______.
+A.	0% … 5%
+B.	0% … 10%
+C.	-5% … 4%
+D.	-6% … 5%
+
+Answer: B
+
+Question code: B6C09Q039
+Miss Ho, who lives in Hong Kong, inherits a huge estate from her grandfather in Macao. Which of the following is correct?
+(1)	Miss Ho needs to pay estate duty to the Hong Kong government.
+(2)	Hong Kong's GNP will increase as the estate is income from abroad.
+(3)	Miss Ho's transaction demand for money will increase.
+(4)	Miss Ho's asset demand for money will increase.
+A.	(1) and (3) only
+B.	(2) and (3) only
+C.	(2) and (4) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B6C09Q040
+Which of the following statements about asset demand for money is correct?
+A.	Asset demand for money is the total amount of money that an economy desires to hold to buy assets.
+B.	When people buy more assets, asset demand for money will increase.
+C.	The expected nominal returns on money are zero. Thus, there is asset demand for money only if the expected nominal returns on all non-monetary assets are negative.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C09Q041
+Because money _________, people choose to hold some money as _________. This is why there is _________ demand for money.
+A.	is the least risky asset ... a medium of exchange ... transaction
+B.	is the most liquid asset ... a store of value ... asset
+C.	is not an income-earning asset ... a store of value ... transaction
+D.	can be used to settle payments immediately ... a medium of exchange ... asset
+
+Answer: B
+
+
+Question code: B6C09Q042
+Which of the following statements about the transaction demand for money and the asset demand for money is INCORRECT?
+A.	Transaction demand for money refers to the total amount of money that an economy desires to hold as a medium of exchange while the asset demand for money refers to the total amount of money that an economy desires to hold as a store of value.
+B.	When people expect a global financial crisis to occur, both transaction demand for money and asset demand for money will decrease.
+C.	The transaction demand for money curve is vertical while the asset demand for money curve is downward sloping.
+D.	When there is an increase in the nominal interest rate, both the transaction demand for money curve and the asset demand for money curve will remain unchanged.
+
+Answer: B
+Explanation
+Option B is the answer. When people expect the risk of assets to rise, they may hold more money to avoid risk as money is the least risky asset. Thus, asset demand for money will increase.
+
+Question code: B6C09Q043
+Which of the following statements about the transaction demand for money curve and the asset demand for money curve is correct?
+A.	When the nominal interest rate rises, the transaction demand for money curve will remain unchanged while the asset demand for money curve will shift leftwards.
+B.	When there is an increase in actual income earned from income-earning assets, the transaction demand for money curve will remain unchanged while the asset demand for money curve will shift leftwards.
+C.	When nominal GDP increases, the transaction demand for money curve will shift upwards while the asset demand for money curve will remain unchanged.
+D.	None of the above
+
+Answer: D
+Explanation
+When people earn more income, they will tend to consume more and so the transaction demand for money curve will shift rightwards. As actual income increases, savings may increase and so does wealth. The asset demand for money curve may shift rightwards.
+
+Question code: B6C09Q044
+The asset demand for money will decrease when
+A.	the risk of holding income-earning assets increases.
+B.	the purchase price of income-earning assets increases.
+C.	wealth increases.
+D.	people expect bond prices to rise.
+
+Answer: D
+Explanation
+When people expect bond prices to rise, it is more profitable for them to buy bonds now. Thus, they want to hold less money as a store of value.
+
+Question code: B6C09Q045
+Other things being equal, which of the following events will most likely increase both the transaction demand and asset demand for money?
+A.	There is an increase in real investment demand.
+B.	There is an increase in the nominal interest rate.
+C.	There is an increase in real consumption expenditure.
+D.	There is an increase in wealth.
+
+Answer: D
+Explanation
+When there is an increase in wealth (other things being equal), people will consume more and want to hold more money to conduct transactions. As a result, the transaction demand for money will increase. At the same time, people will also desire to hold more money to store wealth. The asset demand for money will also increase.
+
+
+Question code: B6C09Q046
+Study the following diagram about an asset demand for money curve.
+
+Which of the following events may lead to the change shown in the above diagram?
+A.	The government raises salaries tax.
+B.	The government sets a deficit budget.
+C.	People desire to spend more.
+D.	The central bank injects money into the banking system.
+
+Answer: D
+
+Question code: B6C09Q047
+Study the following diagram about asset demand for money.
+
+Suppose the Ma1 and Ma2 curves represent the asset demand for money curves in 
+Year 1 and Year2, respectively. Other things being constant, which of the following statements can explain the change illustrated in the diagram?
+A.	People accumulate more wealth in Year 2.
+B.	People desire to invest more in income-earning assets in Year 2.
+C.	Nominal GDP in Year 1 is greater than nominal GDP in Year 2.
+D.	None of the above
+
+Answer: A
+
+Question code: B6C09Q048
+Which of the following diagrams can best represent an increase in the asset demand for money?
+
+
+Answer: D
+
+
+Question code: B6C09Q049
+Recently, the stock market in Country H has fluctuated sharply due to anti-government turmoil (反政府騷亂) in Country G. Which of the following diagrams can best show the change in asset demand for money in Country H?
+
+
+Answer: A
+
+Question code: B6C09Q050
+If the central bank raises the required reserve ratio and the nominal income level decreases, the nominal interest rate will
+A.	increase.
+B.	decrease.
+C.	remain unchanged.
+D.	Insufficient information to answer
+
+Answer: D
+Explanation
+The increase in the required reserve ratio will decrease the money supply. The decrease in the nominal income level will decrease the money demand. Without knowing the extent of the changes, we cannot determine the change in the nominal interest rate.
+
+Question code: B6C09Q051
+* Other factors being constant, which of the following will cause a decrease in the nominal interest rate?
+	(1)	The central bank lowers the required reserve ratio.
+	(2)	People expect gold prices to increase.
+	(3)	More people engage in barter.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+Explanation
+Option (1) is correct. When the required reserve ratio decreases, money supply increases. Therefore, the nominal interest rate will decrease.
+Option (2) is correct. When people expect gold prices to increase, they tend to hold more gold to store wealth. The asset demand for money decreases. Hence, the nominal interest rate will decrease.
+Option (3) is correct. When more people engage in barter, less money is used as a medium of exchange. The transaction demand for money decreases. Therefore, the nominal interest rate will decrease.
+
+
+Question code: B6C09Q052
+Suppose an economy is now in recession and deflation occurs. The central bank prints more money in response. Which of the following diagrams can illustrate the effects of the above event on the money market?
+
+
+Answer: B
+Explanation
+When there are recession and deflation, nominal income decreases. Thus, the transaction demand for money decreases.
+
+
+Question code: B6C09Q053
+* Suppose the banking system of an economy is fully loaned up. Due to a financial crisis in the economy, the stock market is greatly affected. At the same time, many depositors withdraw money from banks as they believe that banks may go bankrupt soon. Which of the following diagrams can illustrate the effects of the above events on the money market?
+
+
+Answer: D
+
+Question code: B6C09Q054
+* The Automatic Add Value Service (AAVS) allows Octopus card users to add value to their Octopus cards by deducting money from their credit card accounts. Which of the following is the effect of AAVS?
+A.	Increase in money demand
+B.	Increase in money supply
+C.	Decrease in nominal interest rate
+D.	None of the above
+
+Answer: C
+Explanation
+AAVS decreases the transaction demand for money. Holding other factors constant, the nominal interest rate will decrease.
+
+Question code: B6C09Q055
+Which of the following statements about the money demand curve is INCORRECT?
+A.	When people desire to hold more money to conduct transactions, other things being equal, the money demand curve will shift rightwards.
+B.	The money demand curve is equal to the horizontal summation of the transaction and asset demand for money curves.
+C.	The money demand curve is downward sloping.
+D.	When the risk of holding income-earning assets increases, other things being equal, the money demand curve will shift leftwards.
+
+Answer: D
+
+Question code: B6C09Q056
+Which of the following factors can affect the money demand curve?
+(1)	Wealth
+(2)	Real GDP
+(3)	The general price level
+(4)	The money creation ability of the banking system
+A.	(1) and (2) only
+B.	(2) and (3) only
+C.	(1), (2) and (3) only
+D.	(1), (3) and (4) only
+
+Answer: C
+
+Question code: B6C09Q057
+Which of the following factors are positively related to money demand?
+(1)	The risk of holding money
+(2)	The liquidity of income-earning assets
+(3)	The time interval between two successive receipts of income
+(4)	Real consumption expenditure
+A.	(1) and (2) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B6C09Q058
+Study the following diagram about money demand in Country H.
+
+Which of the following can explain the shift of the money demand curve from Md1 to Md2?
+(1)	There is inflation in Country H.
+(2)	People increase their consumption to celebrate the New Year.
+(3)	The data security system of a credit card centre has been hacked. After the magazine's disclosure of this incidence, people stop using credit cards.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B6C09Q059
+Which of the following statements about the money demand curve and money supply curve is correct?
+A.	The money demand curve is downward sloping while the money supply curve is upward sloping.
+B.	When the money demand curve shifts rightwards, the purchasing power of money will remain unchanged; when the money supply curve shifts rightwards, the purchasing power of money will increase.
+C.	The equilibrium cost of holding money is determined at the intersection of the money demand curve and the money supply curve.
+D.	None of the above
+
+Answer: C
+
+Question code: B6C09Q060
+Which of the following can explain why the money supply curve is vertical?
+A.	The quantity of money supplied is always equal to the amount of legal tender issued.
+B.	The quantity of money supplied is predetermined by banks as money is created by banks.
+C.	Money supply refers to the amount of money which serves as a medium of exchange. Thus, it only includes legal tender held by the public.
+D.	None of the above
+
+Answer: D
+
+Question code: B6C09Q061
+When the nominal interest rate is below its equilibrium level, there is ________. Then, people ________ income-earning assets, causing their prices to ________. 
+As a result, the nominal interest rate will be restored to its equilibrium level.
+A.	excess demand for money … buy … increase
+B.	excess demand for money … sell … decrease
+C.	an excess supply of money … buy … decrease
+D.	an excess supply of money … sell … increase
+
+Answer: B
+
+Question code: B6C09Q062
+Other factors being constant, how will nominal interest rates change when money supply increases?
+A.	Nominal interest rates will increase.
+B.	Nominal interest rates will decrease.
+C.	Nominal interest rates will remain unchanged.
+D.	The change in nominal interest rates is uncertain.
+
+Answer: B
+
+Question code: B6C09Q063
+* Study the diagram below.
+
+Which of the following can help explain the movement from Point A to Point B when the money supply curve shifts from MS1 to MS2?
+(1)	The demand for income-earning assets increases.
+(2)	The supply of income-earning assets decreases.
+(3)	After the shift of the money supply curve, there is an excess supply of money at n1.
+A.	(3) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	None of the above
+
+Answer: B
+Explanation
+Options (1) and (3) are the answers. At Point A, with the same interest rate, the increase in money supply will lead to an excess supply of money. People will invest their excess money balance in income-earning assets. Thus, the demand for income-earning assets will increase and so their prices will rise. The nominal interest rate will continue to fall until there is no excess money supply, and the new equilibrium at Point B is achieved.
+
+
+Question code: B6C09Q064 (new)
+If people want to save more for future consumption, aggregate demand will __________ and transaction demand for money will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: D
+
+Question code: B6C09Q065 (new)
+When mobile payment services become more popular, the transaction demand for money will __________ and the nominal interest rate will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: D
+
+Question code: B6C09Q066 (new)
+* Which of the following would lead to a rightward shift in the transaction money demand curve?
+A.	The Octopus card offers a new function that enables fund transfers between users.
+B.	Buying and selling shares become easier using smartphone apps.
+C.	More and more people quit their jobs and travel for extended periods.
+D.	The property market becomes riskier.
+
+Answer: C
+Explanation
+Option A is not correct. Transaction demand for money would decrease because there will be fewer cash transactions.
+Option B is not correct. Asset demand for money would decrease when it is easier to sell shares.
+Option D is not correct. This would lead to an increase in asset demand for money, without affecting transaction demand.
+Option C is correct. As people travel for extended periods without income from regular jobs, they need a larger sum of money to finance their trips. Therefore, transaction demand for money would increase.
+
+Question code: B6C09Q067 (new)
+When people's wealth increases, consumption expenditure will __________ and asset demand for money will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: A
+
+Question code: B6C09Q068 (new)
+Refer to the following diagram.
+
+The transaction demand for money curve will change from Mt1 to Mt2 when
+A.	investments become riskier in financial markets.
+B.	the rewards offered by card issuers for using credit cards become more attractive.
+C.	monthly salary payments replace daily payments.
+D.	the nominal interest rate increases.
+
+Answer: B
+
+Question code: B6C09Q069 (new)
+Raymond bought a bond with an annual nominal interest rate of 6% and he also expected the price level to rise by 4%. Suppose the actual inflation rate turned out to be 1%. The actual real rate of return of holding cash would be __________ and the cost of holding cash would be __________.
+A.	-1% … 5%
+B.	-1% … 6%
+C.	0% … 5%
+D.	0% … 6%
+
+Answer: B
+
+Question code: B6C09Q070 (new)
+Mary has bought a bond with a nominal interest rate of 9%. If the actual inflation rate is 4%, the actual real interest rate is __________ while the cost of holding money is __________.
+A.	4% … 4%
+B.	5% … 5%
+C.	5% … 9%
+D.	9% … 4%
+
+Answer: C
+
+Question code: B6C09Q071 (new)
+Suppose the nominal interest rate is 3% and the actual real interest rate is 1%. The actual inflation rate is __________ and the actual real rate of return of holding money is __________.
+A.	2% … -2%
+B.	2% … 0%
+C.	4% … -2%
+D.	4% … 0%
+
+Answer: A
+
+Question code: B6C09Q072 (new)
+The nominal interest rate of a one-year bond is 5%. Suppose the actual inflation rate and expected inflation rate are 3% and 1%, respectively. The cost of holding money is __________, the expected real interest rate is __________, and the actual real rate of return of holding money is __________.
+A.	3% … 2% … 0%
+B.	3% … 4% … -3%
+C.	5% … 2% … 0%
+D.	5% … 4% … -3%
+
+Answer: D
+
+Question code: B6C09Q073 (new)
+Suppose the nominal interest rate is 7% and the actual real rate of return of holding money is -3%. The actual inflation rate is __________, the nominal rate of return of holding cash is __________, and the cost of holding cash is __________.
+A.	3% … 0% … 7%
+B.	3% … 10% … -3%
+C.	4% … 0% … -3%
+D.	4% … 10% … 7%
+
+Answer: A
+
+Question code: B6C09Q074 (new)
+* Harold bought a one-year bond with a fixed nominal interest rate. He expected the inflation rate to be 2%. His expected real interest rate from the bond was 5%. Suppose the actual inflation rate was 4%. The actual real interest rate would be __________ and the cost of holding cash would be __________.
+A.	2% … 0%
+B.	2% … 7%
+C.	3% … 0%
+D.	3% … 7%
+
+Answer: D
+Explanation
+The cost of holding cash is the nominal interest rate.
+The nominal interest rate of the bond
+= Expected real interest rate + Expected inflation rate = 5% + 2% = 7%
+The actual real interest rate
+= Nominal interest rate - Actual inflation rate = 7% - 4% = 3%
+
+Question code: B6C09Q075 (new)
+The nominal interest rate is 6% and the expected real interest rate is 4%. If the actual real interest rate is 7%, the actual real rate of return and nominal rate of return of holding money are __________ and __________, respectively.
+A.	-1% … -2%
+B.	-1% … 0%
+C.	1% … -2%
+D.	1% … 0%
+
+Answer: D
+
+Question code: B6C09Q076 (new)
+Suppose the real rate of return on money is 3% and the cost of holding cash is 2%. Which of the following are correct?
+	(1)	The inflation rate is 3%.
+	(2)	The nominal interest rate is 2%.
+	(3)	The real interest rate is 5%.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B6C09Q077 (new)
+Suppose the nominal interest rate is 9% and the price level is expected to fall by 1%. The expected nominal and real rates of return of holding cash are __________ and __________, respectively.
+A.	0% … 1%
+B.	0% … 10%
+C.	1% … 1%
+D.	1% … 10%
+
+Answer: A
+
+Question code: B6C09Q078 (new)
+After an economic downturn, Country X's citizens become less willing to take risks from investments. The gross investment expenditure of the country will __________ and the asset demand for money will __________.
+A.	increase … increase
+B.	increase … decrease
+C.	decrease … increase
+D.	decrease … decrease
+
+Answer: C
+
+Question code: B6C09Q079 (new)
+Computer programs have been used more widely to execute transaction instructions automatically, lowering the cost of transactions in the stock market. As a result, the __________ demand for money will __________.
+A.	transaction … increase
+B.	transaction … decrease
+C.	asset … increase
+D.	asset … decrease
+
+Answer: D
+
+Question code: B6C09Q080 (new)
+The following diagram shows an economy's asset demand for money.
+
+Which of the following would lead to the above change?
+A.	The central bank increases the required reserve ratio.
+B.	The government reduces stamp duty for property transactions.
+C.	People save more as the unemployment rate is expected to increase.
+D.	The nominal interest rate increases.
+
+Answer: B
+
+
+Question code: B6C09Q81 (new)
+Refer to the following diagram.
+
+Which of the following will cause a shift in the asset demand for money curve from Ma1 to Ma2?
+A.	A rise in the nominal interest rate
+B.	Greater numbers of cashless stores
+C.	A decrease in people's wealth
+D.	An increase in the risk of investing in financial markets
+
+Answer: C
+
+Question code: B6C09Q082 (new)
+Refer to the following diagram.
+
+Which of the following will cause the money demand curve to shift from Md1 to Md2?
+(1)	An expansionary fiscal policy
+(2)	A decrease in the interest rate
+(3)	The decreasing popularity of electronic payment services
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B6C09Q083 (new)
+Which of the following would lead to a decrease in the nominal interest rate?
+	(1)	More people send electronic red packets during Chinese New Year rather than physical red packets.
+	(2)	Banks hold less in excess reserves.
+	(3)	Share prices fluctuate more widely.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+
+Short Questions
+
+Question code: B6C09Q301
+Briefly explain how TWO of the functions of money are related to the demand for money.	(6 marks)
+
+Answers:
+As a medium of exchange:	(1 mark)
+As money is used to settle payments, people desire to hold money as a medium of exchange to conduct transactions.	(2 marks)
+As a store of value:	(1 mark)
+Since money can preserve purchasing power, people want to hold money as an asset to store wealth.	(2 marks)
+
+
+Question code: B6C09Q302
+Explain how the following events affect the transaction demand for money.
+(a)	The government grants transfer payments to recipients weekly instead of monthly.
+	(3 marks)
+(b)	Christmas is coming.	(3 marks)
+
+Answers:
+(a)	The transaction demand for money decreases.	(1 mark)
+	To the recipients, the time interval between two successive income receipts becomes shorter, so fewer transactions have to be settled within the reduced time interval. Hence, less money is needed for transactions.	(2 marks)
+(b)	The transaction demand for money increases.	(1 mark)
+	As Christmas is coming, people have to spend more to buy gifts and celebrate. Hence, the value of transactions increases and more money is needed.	(2 marks)
+
+Question code: B6C09Q303
+In Country A, some shops do not accept money with a certain face value for payments, while some shops do not accept cash at all.
+If a currency's function as a medium of exchange is restricted, how would the nominal interest rate be affected? Explain with the aid of a diagram.	(5 marks)
+
+Answers:
+Indicate on the diagram:
+(	Leftward shift of money demand curve	(1 mark)
+(	Decrease in nominal interest rate	(1 mark)
+
+Verbal elaboration:
+If the function as a medium of exchange is restricted, the transaction demand for money decreases.	(1 mark)
+Therefore, money demand decreases from Md1 to Md2.	(1 mark)
+As a result, the nominal interest rate decreases from n1 to n2.	(1 mark)
+
+Question code: B6C09Q304
+The following table shows data for Economy Q in a certain year.
+
+Real GDP growth rate	Deflation rate	
+1%	2%	
+
+Based on the data, explain how money demand changes.	(4 marks)
+
+Answers:
+The growth rate of nominal GDP 
+= Real GDP growth rate + Inflation rate = 1% + (-2%) = -1%	(1 mark)
+Since nominal national income decreases, people's consumption expenditure decreases. The value of transactions decreases.	(1 mark)
+Less money is needed to conduct transactions. The transaction demand for money and the money demand decrease.	(2 marks)
+
+Question code: B6C09Q305
+Explain how the following events affect the transaction demand for money.
+(a)	More shops offer discounts for payments with credit cards.	(2 marks)
+(b)	More employers pay their workers' salaries bi-monthly instead of monthly.
+	(2 marks)
+
+Answers:
+(a)	Due to the discounts, consumers tend to pay with credit cards more frequently. The number of cashless transactions increases.	(1 mark)
+	Therefore, the transaction demand for money will decrease.	(1 mark)
+(b)	Due to the change, the time interval between two successive income receipts increases.	(1 mark)
+	More money is needed for transactions within the extended time interval. Hence, the transaction demand for money increases.	(1 mark)
+
+Question code: B6C09Q306
+(a)	What is transaction demand for money?	(2 marks)
+(b)	Brief explain with TWO reasons why there is transaction demand for money.
+	(4 marks)
+
+Answers:
+(a)	Transaction demand for money is the total amount of money that an economy desires to hold as a medium of exchange to conduct transactions.	(2 marks)
+(b)	Reasons behind transaction demand for money:
+(	There is non-synchronisation between money receipts and expenditures. Thus, to settle payments between two successive receipts of income, people need to hold money.	(2 marks)
+(	Money is a medium of exchange. People can use money to settle payments immediately.	(2 marks)
+
+Question code: B6C09Q307
+In Country A, to stimulate economic growth, the government increases transfer payments.
+(a)	With the aid of a diagram, explain how the above event affects real GDP and the price level in the short run.	(5 marks)
+(b)	Based on the result in (a), other things being equal, explain how the above event affects the transaction demand for money.	(3 marks)
+
+Answers:
+(a)	If the government raises transfer payments, people's disposable income will increase. Hence, private consumption expenditure increases.	(1 mark)
+	The aggregate demand curve shifts rightwards from AD1 to AD2.	(1 mark)
+Both the real GDP and the price level rise.	(1 mark)
+	(2 marks)
+(b)	When both real GDP and the price level increase, nominal GDP increases.
+	(1 mark)
+	The value of transactions increases. Thus, more money is needed to conduct transactions.	(1 mark)
+As a result, other things being equal, the transaction demand for money will increase.	(1 mark)
+
+Question code: B6C09Q308
+State TWO determinants of transaction demand for money and briefly explain how they are related to transaction demand for money.	(4 marks)
+
+Answers:
+(	Nominal national income: This is positively related to transaction demand for money.
+(	Desire to save: This is negatively related to transaction demand for money.
+(	Time interval between two successive receipts of income: This is positively related to transaction demand for money.
+(	The advancement of payment technology: This can be negatively related to transaction demand for money.
+(Any TWO of the above or other reasonable answers, 2 marks × 2 = 4 marks)
+
+Question code: B6C09Q309
+(a)	Define transaction demand for money.	(2 marks)
+(b)	With the aid of a diagram, explain how each of the following events affects the transaction demand for money:
+(i)	Most companies have changed their wage payment schedule from a monthly to a semi-monthly.	(3 marks)
+(ii)	During the Chinese New Year, people desire to consume more.	(3 marks)
+*(iii)	After the central bank increases the required reserve ratio, the nominal interest rate increases.	(3 marks)
+
+Answers:
+(a)	Transaction demand for money is the total amount of money that an economy desires to hold as a medium of exchange to conduct transactions.	(2 marks)
+(b)	(i)	As the time interval between two successive receipts of income decreases, the volume of transactions to be settled within the time interval will decrease and so will the transaction demand for money. The transaction demand for money curve will shift leftwards from Mt to Mt'.	(2 marks)
+	(1 mark)
+(ii)	As people desire to consume more, their volume of transactions will increase and so will the transaction demand for money. The transaction demand for money curve will shift rightwards from Mt to Mt'.	(2 marks)
+	(1 mark)
+(iii)	As the transaction demand for money curve shows the quantity of money demanded for transaction purposes at every nominal interest rate, the increase in the nominal interest rate results in no change to the transaction demand for money curve but an upward movement along the curve from Point A to 
+Point B.	(2 marks)
+	(1 mark)
+
+Question code: B6C09Q310
+Complete the following table. Suppose the price index changes from 100 to 104 for the relevant period	(3 marks)
+
+Nominal interest rate	Real 
+interest 
+rate	Cost of holding money	Nominal GDP 
+($ million)	Real GDP 
+($ million)	
+10%	
+
+	
+	
+	30	
+
+Answers:
+Inflation rate = 4% [= (104 - 100) ÷ 100]
+Nominal interest rate	Real 
+interest 
+rate	Cost of holding money	Nominal GDP 
+($ million)	Real GDP 
+($ million)	
+10%	6% 
+(= 10% - 4%)	10%	31.2 
+(= 30 × 104 ÷ 100)	30	
+	(3 marks)
+
+Question code: B6C09Q311
+Cherie, who lives in Hong Kong, bought some euros and sold them later for a profit.
+(a)	To Cherie, are the euros money or are they an income-earning asset? Explain.
+	(3 marks)
+(b)	Briefly explain TWO factors affecting asset demand for money.	(4 marks)
+
+Answers:
+(a)	Income-earning asset	(1 mark)
+Cherie could not use the euros as a medium of exchange in Hong Kong and she bought the euros for capital gains only.	(2 marks)
+(Accept other reasonable answers.)
+(b)	The factors affecting asset demand for money are as follows:
+(	Nominal interest rate - The higher the nominal interest rate, the higher the cost of holding money and the smaller the asset demand for money.
+(	Risk of holding income-earning assets - Since most people dislike risk, the higher the risk of holding income-earning assets, the greater the asset demand for money.
+(	The purchase price of income-earning assets - The higher the purchase price of income-earning assets, the lower the nominal rates of returns of holding those assets and the larger the asset demand for money.
+(	Wealth - The larger the amount of wealth one possesses, the larger the asset demand for money.
+(	Cost of transacting assets - The higher the cost involved in transacting income-earning assets, the lower the net returns on the assets and the larger the asset demand for money.
+(Any TWO of the above or other reasonable answers. 2 marks × 2 = 4 marks)
+
+Question code: B6C09Q312
+Plot the asset demand for money curve. Explain its shape.	(4 marks)
+
+Answers:
+Indicate on the diagram:
+(	A downward sloping asset demand for money curve	(1 mark)
+
+Verbal elaboration:
+The nominal interest rate is the cost of holding money.	(1 mark)
+When the nominal interest rate increases, people tend to hold less money.	(1 mark)
+Hence, the nominal interest rate is negatively related to the asset demand for money.
+	(1 mark)
+
+Question code: B6C09Q313
+(a)	Define asset demand for money.	(2 marks)
+(b)	Brief explain with TWO reasons why there is asset demand for money.	(4 marks)
+
+Answers:
+(a)	Asset demand for money is the total amount of money that an economy desires to hold as an asset to store wealth.	(2 marks)
+(b)	Reasons behind asset demand for money:
+(	Money is the least risky asset. The nominal return on money is certain to be zero while the nominal returns on income-earning assets may be negative.
+	(2 marks)
+(	Liquidating assets can be costly and time-consuming. Hence, people keep money (the most liquid asset) to take advantage of timely investment opportunities.	(2 marks)
+(Accept any other reasonable answers.)
+
+Question code: B6C09Q314
+(a)	What is the cost of holding money?	(1 mark)
+(b)	Suppose the inflation rate is 10%. What are the actual nominal rate of return and actual real rate of return on money?	(2 marks)
+
+Answers:
+(a)	The cost of holding money is the nominal interest rate.	(1 mark)
+(b)	The actual nominal rate of return on money = 0%	(1 mark)
+	The actual real rate of return on money = 0% - 10% = -10%	(1 mark)
+
+Question code: B6C09Q315
+Suppose Ming can only choose to hold cash or fixed deposits (with a 10% nominal interest rate) and the inflation rate is 3%.
+(a)	Calculate the real rate of return on cash and fixed deposits, respectively.	(2 marks)
+(b)	What is the cost of holding cash (in percentage)?	(1 mark)
+*(c)	Use the result in (a) to find the difference between the real rate of return on fixed deposits and the real rate of return on cash. In this case, must it be the same as the cost of holding cash? Explain.	(4 marks)
+
+
+Answers:
+(a)	The real rate of return on cash = 0 - 3% = -3%	(1 mark)
+The real rate of return on fixed deposits = 10% - 3% = 7%	(1 mark)
+(b)	The cost of holding cash (in percentage) = Nominal interest rate of fixed deposits = 10%	(1 mark)
+(c)	Real rate of return on fixed deposits - Real rate of return on cash 
+= 7% - (-3%) = 10%	(1 mark)
+Real rate of return on fixed deposits - Real rate of return on cash 
+= (Nominal rate of return on fixed deposits - Inflation rate) 
+	- (Nominal rate of return on cash - Inflation rate) 
+= Nominal rate of return on fixed deposits - Nominal rate of return on cash
+	(1 mark)
+As the nominal rate of return on cash is zero, the difference between the real rate of return on fixed deposits and the real rate of return on cash must be equal to the nominal rate of return on fixed deposits, which, in this case, is the cost of holding cash.	(2 marks)
+
+Question code: B6C09Q316
+Use TWO characteristics of cash to explain why people may prefer to hold some of their wealth in cash, instead of holding wealth only in the form of income-earning assets.	(6 marks)
+
+Answers:
+(	Money is the least risky asset.	(1 mark)
+Since most people dislike uncertainty, other things being equal, the lower the risk (the uncertainty) of an asset, the more desirable it is. Thus, people may desire to hold some cash to lower the risk of their portfolio.	(2 marks)
+(	Money is the most liquid asset. It can be used to settle payments immediately without the need for conversion.	(1 mark)
+Since people prefer liquidity, other things being equal, the higher the liquidity of an asset, the more desirable it is. Thus, people may desire to hold some cash to increase the liquidity of their portfolio.	(2 marks)
+
+Question code: B6C09Q317
+State TWO determinants of asset demand for money other than the interest rate and explain how they can lead to an increase in asset demand for money.	(4 marks)
+
+
+Answers:
+(	Risk of holding income-earning assets: Since most people dislike risk, the higher the risk of holding income-earning assets, the greater the amount of money they would desire to hold as a store of wealth.
+(	Cost of transacting assets: The higher the cost involved in transacting income-earning assets, the lower the net returns on the assets and the greater the asset demand for money.
+(	Wealth: The greater one's wealth, the greater the amount of various assets held. Since money is also an asset for storing wealth, the asset demand for money will increase too.
+(Any TWO of the above or other reasonable answers, 2 marks × 2 = 4 marks)
+
+Question code: B6C09Q318
+(a)	Explain the relationship between the asset demand for money and the nominal interest rate.	(2 marks)
+(b)	What is the shape of a money demand curve? Use the answer in (a) to explain.
+	(4 marks)
+
+Answers:
+(a)	By holding money, a person gives up the nominal return generated by holding income-earning assets. Therefore, the nominal interest rate is the cost of holding money.	(1 mark)
+The nominal interest rate and asset demand for money are negatively related.
+	(1 mark)
+(b)	The money demand curve is equal to the horizontal summation of the transaction and asset demand for money curves.	(1 mark)
+The transaction demand for money curve is vertical.	(1 mark)
+Based on the answer in (a), the asset demand for money curve is downward sloping.	(1 mark)
+As a result, the money demand curve is downward sloping.	(1 mark)
+
+Question code: B6C09Q319
+Recently, some low-risk income-earning assets have been introduced in the market. At the same time, banks loan larger portions of their excess reserves. With the aid of a diagram, explain the effects of the above events on the nominal interest rate.
+	(6 marks)
+
+
+Answers:
+Indicate on the diagram:
+(	Leftward shift in money demand curve	(1 mark)
+(	Rightward shift in money supply curve	(1 mark)
+(	Decrease in nominal interest rate	(1 mark)
+
+Verbal elaboration:
+As there are more low-risk income-earning assets, money demand decreases from Md1 to Md2.	(1 mark)
+When banks loan more of their excess reserves, money supply increases from MS1 to MS2.	(1 mark)
+As a result, the nominal interest rate decreases from n1 to n2.	(1 mark)
+
+Question code: B6C09Q320
+With the aid of a diagram, explain how the equilibrium nominal interest rate changes when people desire to save more.	(6 marks)
+
+Answers:
+(	When people desire to save more, they will consume less. This reduces the value of transactions and the transaction demand for money.	(2 marks)
+(	Money demand will decrease and the money demand curve will shift leftwards from Md1 to Md2.	(1 mark)
+(	As a result, the nominal interest rate will decrease.	(1 mark)
+	(2 marks)
+
+Question code: B6C09Q321 (new)
+An economist believes the price of US government bonds would increase after the United Kingdom voted to leave the European Union.
+(a)	What is the opportunity cost of holding US dollars instead of holding US government bonds?	(2 marks)
+(b)	Explain how an increase in the price of US government bonds would affect the demand for US dollars.	(3 marks)
+
+Answers:
+(a)	The opportunity cost is the nominal interest rates of US government bonds.
+	(2 marks)
+(b)	The increase in the price of US government bonds lowers the (expected) nominal rate of return of investing in US government bonds.	(1 mark)
+	This raises the asset demand for money,	(1 mark)
+	and thus the demand for money.	(1 mark)
+
+Question code: B6C09Q322 (new)
+(a)	What is the opportunity cost of holding cash instead of holding bonds?	(2 marks)
+(b)	Suppose the costs of bond transaction decrease due to financial innovation. With the aid of a diagram, explain the effect on the interest rate in the money market.
+	(5 marks)
+
+Answers:
+(a)	The opportunity cost is the nominal interest rates of the bonds.	(2 marks)
+(b)	Indicate on the diagram:
+•	Leftward shift in money demand curve	(1 mark)
+•	Decrease in interest rate	(1 mark)
+
+Verbal elaboration:
+Lower transaction costs imply a higher net return from investing in bonds.
+	(1 mark)
+Asset demand for money decreases.	(1 mark)
+This will lower the money demand, and thus the interest rate.	(1 mark)
+
+Question code: B6C09Q323 (new)
+Refer to the following information in Country H.
+Year	Consumer price index	
+2015	103	
+2016	107	
+(a)	Explain how the above change in the consumer price index would affect the transaction demand for money.	(2 marks)
+(b)	Suppose the nominal interest rate of the bonds in Country H is linked with the inflation rate or a minimum rate of 2%.
+	Explain the effect on the asset demand for money as a result of the above change in the consumer price index. 	(3 marks)
+
+Answers:
+(a)	As the general price level increases, more money is needed to conduct transactions.	(1 mark)
+	The transaction demand for money increases.	(1 mark)
+(b)	With an increase in the consumer price index, the nominal interest rate of the bonds increases accordingly.	(1 mark)
+	The cost of holding money is the nominal interest rate of the bonds.	(1 mark)
+	As the cost of holding money increases, asset demand for money will decrease.
+	(1 mark)
+
+Question code: B6C09Q324 (new)
+Study the following information.
+	Nominal interest rate	
+Year 1	5%	
+Year 2	3%	
+Suppose people expect a 1% inflation rate in Year 2, but it turns out to be 2%.
+(a)	Calculate the expected real interest rate in Year 2.	(2 marks)
+(b)	Explain how the cost of holding money would change in Year 2.	(3 marks)
+
+Answers:
+(a)	Expected real interest rate 
+	= Nominal interest rate - Expected inflation rate	(1 mark)
+	= 3% − 1% = 2%	(1 mark)
+(b)	The cost of holding money decreases from 5% to 3%	(1 mark)
+	The cost of holding money is equal to the nominal interest rate because when people hold money, they forgo the opportunity of earning interest from holding an interest-earning asset.	(2 marks)
+
+Question code: B6C09Q325 (new)
+Mr Chan can choose to buy a one-year bond or hold money.
+(a)	Explain under what condition the expected real rate of return is greater than the nominal rate of return of holding a bond.	(2 marks)
+(b)	How is the real rate of return on money calculated? Explain.	(3 marks)
+
+Answers:
+(a)	Real rate of return = Nominal rate of return - Expected inflation rate	(1 mark)
+	When the expected inflation rate is negative (i.e., deflation), the expected real rate of return is greater than the nominal rate of return.	(1 mark)
+(b)	The real rate of return on money is the negative of the inflation rate.	(1 mark)
+	The nominal rate of return on money is 0% because holding money earns zero nominal income. Therefore, the real rate of return = 0% − inflation rate.	(2 marks)
+
+
+Question code: B6C09Q326 (new)
+'The economic situation is getting worse. The nominal values of most of my assets keep decreasing. I have decided to hold more cash,' Wayne said.
+'However, you cannot gain by holding cash,' Kent said.
+(a)	What is the nominal rate of return of holding cash? Explain your answer briefly.
+	(2 marks)
+(b)	Explain under what circumstance Kent would be incorrect with reference to the real rate of return of holding cash.	(4 marks)
+
+Answers:
+(a)	The nominal rate of return of holding cash is 0% because holding cash earns zero nominal income.	(2 marks)
+(b)	The real rate of return of holding cash is equal to the negative of the inflation rate (= 0% − inflation rate).	(2 marks)
+	If the inflation rate is negative (i.e., deflation), the real rate of return of holding cash will be positive. In this case, cash holders would gain.	(2 marks)
+
+Structured Questions
+
+Question code: B6C09Q501
+(a)	The higher the nominal income, the higher the money demand. Do you agree? Explain.	(5 marks)
+(b)	The higher the actual reserve ratio, the higher the nominal interest rate. Do you agree? Explain your answer with the aid of a diagram.	(5 marks)
+
+Answers:
+(a)	Yes.	(1 mark)
+	When nominal income increases, people's consumption expenditure increases.
+	(1 mark)
+	The value of transactions increases.	(1 mark)
+More money is needed for transaction purposes.	(1 mark)
+Therefore, transaction demand for money and thus money demand increases.
+	(1 mark)
+
+(b)	Indicate on the diagram:
+	(	Leftward shift in money supply curve	(1 mark)
+	(	Increase in nominal interest rate	(1 mark)
+	
+	Verbal elaboration:
+	As the actual reserve ratio increases, fewer reserves are loaned.	(1 mark)
+	Money supply decreases from MS1 to MS2 due to deposit contraction.	(1 mark)
+	As a result, the nominal interest rate increases from n1 to n2.	(1 mark)
+
+Question code: B6C09Q502
+Jason is a secondary school student who does not have any savings. Every day, his mother gives him $50 for his daily transport and meal expenses. Study the following conversation and answer the questions.
+Jason's mother: Due to inflation, the prices of all goods are increasing. But your father has not received a pay rise. Thus, I am so sorry to have to reduce your pocket money.
+Jason: No! As there is inflation, you should raise my pocket money instead.
+(a)	What is inflation? Explain whether Jason's mother's comment about inflation is correct.	(5 marks)
+(b)	Give ONE reason to support Jason. Explain your answer.	(2 marks)
+(c)	Define the type of Jason's demand for money.	(2 marks)
+(d)	Use ONE diagram to explain the change in Jason's demand for money in (c) if Jason's mother changes Jason's pocket money payment to a monthly payment and the monthly amount of Jason's pocket money is the same as before.	(3 marks)
+
+Answers:
+(a)	Inflation is the phenomenon of a persistent increase in the general price level.
+	(2 marks)
+She is not correct.	(1 mark)
+The general price level is the weighted average of prices of all goods and services in an economy at a certain moment. Its increase does not imply that the prices of all goods have increased. The prices of some goods may decrease during inflation.	(2 marks)
+
+(b)	(	During inflation, the cost of living rises and the purchasing power of money drops. Jason may not have enough money to cover his daily expenses. To maintain the purchasing power of Jason's pocket money, Jason's mother should increase his pocket money.
+(	During inflation, with the same amount of pocket money, the standard of living will fall. Thus, to maintain Jason's standard of living, Jason's mother should increase his pocket money.
+(Any ONE of the above or other reasonable answer, 2 marks)
+
+(c)	Transaction demand for money: This is the total amount of money Jason desires to hold as a medium of exchange to conduct transactions.	(2 marks)
+
+(d)	As the time interval between two successive receipts of income increases, the value of transactions to be settled within the time interval will increase. More money is needed to settle transactions within the time interval. Therefore, Jason's transaction demand for money will increase.	(2 marks)
+	(1 mark)
+
+Question code: B6C09Q503
+During the Chinese New Year holiday, Eddie receives a $400,000 red packet from his uncle. He decides to deposit the money into a deposit-taking institution in Hong Kong.
+(a)	Briefly explain with ONE reason whether the red packet is a free good.	(3 marks)
+(b)	Which types of deposit-taking institutions can accept Eddie's deposit?	(2 marks)
+(c)	Suppose Eddie can only choose to store the money in either a current account (with a zero nominal interest rate) or a fixed deposit account (with a 10% nominal interest rate).
+(i)	What is opportunity cost?	(2 marks)
+(ii)	What is the opportunity cost of depositing the money into a current account?
+	(2 marks)
+(d)	Eddie invests half of the money in the stock market and keeps the other half as cash.
+(i)	State TWO possible purposes of keeping cash.	(2 marks)
+(ii)	Give TWO characteristics of cash which can possibly induce Eddie to keep half of the money as cash.	(2 marks)
+(iii)	If the stock exchange increases trading fees by 30%, would Eddie hold more of the money in cash or less? Explain.	(2 marks)
+
+Answers:
+(a)	The red packet is not a free good.	(1 mark)
+Reasons:
+(	People prefer more red packets to fewer.
+(	A cost is involved in providing red packets.
+(	The use of red packet money involves cost.
+(Any ONE of the above or other reasonable answer with brief explanation, 
+2 marks)
+
+(b)	Licensed bank and	(1 mark)
+deposit-taking company	(1 mark)
+
+(c)	(i)	Opportunity cost is the highest-valued option forgone when making a choice.
+	(2 marks)
+(ii)	The opportunity cost of depositing the money into a current account is the interest income from depositing the money into a fixed deposit account.
+	(2 marks)
+
+(d)	(i)	(	As a medium of exchange to make transactions	(1 mark)
+(	As an asset to store wealth	(1 mark)
+(ii)	(	Money is the least risky asset.	(1 mark)
+(	Money is the most liquid asset.	(1 mark)
+(iii)	He would hold more cash because the net returns on stocks decrease and thus holding stocks becomes less attractive.	(2 marks)

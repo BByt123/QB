@@ -1,0 +1,1822 @@
+Chapter 3	Demand and supply
+
+Multiple Choice Questions
+
+Question code: B1C03Q001
+Which of the following are kept constant along a demand curve?
+(1)	Quantity demanded
+(2)	Price
+(3)	Consumers' income
+(4)	Weather
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(3) and (4) only
+
+Answer: D
+
+Question code: B1C03Q002
+While deriving the demand for a good, which of the following factors have to be kept constant?
+(1)	Price of the good
+(2)	Prices of related goods
+(3)	Buyer's preference for the good
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+
+Question code: B1C03Q003
+Which of the following persons has a demand for a tablet computer?
+A.	Sara wants to buy a tablet computer to watch dramas, but she has used up her pocket money.
+B.	Felicity wants to buy a tablet computer to help her with her work and her boss will pay for it.
+C.	Laurel can buy 100 tablet computers but she does not want to buy it.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C03Q004
+Which of the following is/are held constant along the same demand curve for the iPhone??
+	(1)	The price of the iPhone
+	(2)	Buyer's income
+	(3)	The prices of Android phones
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: C
+Explanation
+The prices of related goods (i.e., Android phones in this case) would affect the demand for the iPhone. Therefore, the prices of Android phones should be held constant along the same demand curve for the iPhone.
+
+Question code: B1C03Q005
+Which of the following statements about demand is correct?
+A.	Demand can be expressed in the form of a demand schedule.
+B.	The time period needs to be specified when we describe the demand for a good.
+C.	Demand shows the relationship between the price and the quantity demanded.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C03Q006
+Mr Lee has a demand for an apartment on the Peak if
+A.	his family thinks the Peak is an ideal place to live.
+B.	he wants to have his own apartment there.
+C.	he has won the Mark Six lottery recently and is able to pay for it.
+D.	he is willing and able to buy one.
+
+Answer: D
+
+
+Question code: B1C03Q007
+Which of the following statements about want and demand is correct?
+A.	Since wants are unlimited, demand is unlimited too.
+B.	The rich have more wants than the poor.
+C.	Wants must be supported by purchasing power.
+D.	Wants exist even if we cannot satisfy them.
+
+Answer: D
+Explanation
+•	Wants are unlimited, while demand is limited by purchasing power. Therefore, Option A is incorrect.
+•	Both the rich and the poor have unlimited wants, so we cannot say the rich have more wants than the poor. Therefore, Option B is incorrect.
+
+Question code: B1C03Q008
+Which of the following statements about demand is INCORRECT?
+A.	Demand reflects the purchase plan of a consumer at different prices.
+B.	Demand is the quantities a person is willing and able to buy at various prices.
+C.	Demand is the quantity a person will buy at the market price.
+D.	Demand is desire supported by purchasing power.
+
+Answer: C
+Explanation
+Demand refers to the purchase plan or the quantities a person is willing and able to buy at various prices. It does not tell us the quantity a person will actually buy at a particular price. Therefore, option C is incorrect.
+
+Question code: B1C03Q009
+Which of the following persons has demand for a Gucci handbag priced at $15,000?
+A.	A bankrupt (破產者) who wants the handbag very much
+B.	An economics professor with a monthly income over $60,000 who hates branded products
+C.	The wife of a rich businessman who is fond of the bag and can afford it
+D.	All of the above
+
+
+Answer: C
+Explanation
+•	The bankrupt wants the Gucci handbag very much but cannot spend money on luxuries. Therefore, he or she does not have a demand for it.
+•	Although the professor has the money to buy the handbag, he or she is not willing to buy it. Therefore, he or she has no demand for it. 
+•	Only when the person has the ability and willingness to buy the handbag will the demand for it exist. Therefore, only the wife of a rich businessman has the demand for it. 
+
+Question code: B1C03Q010
+Tommy is a student who is fond of smartphone games. This month, after spending 95% of his pocket money on in-game items, he used the remaining 5% for lunches.
+A.	Tommy has demand for in-game discs only.
+B.	Tommy has demand for both in-game items and lunches.
+C.	Tommy does not have demand for either in-game items or lunches.
+D.	None of the above
+
+Answer: B
+Explanation
+•	The fact that Tommy has actually spent money on both in-game items and lunches implies that he has demand for both. 
+•	Although Tommy spends only 5% of his money on lunches, he still has a demand for lunches.
+
+Question code: B1C03Q011
+Under which of the following conditions will Mrs Cheung have demand for brand name handbags?
+A.	She wants a brand name handbag. 
+B.	She wants to buy a brand name handbag and she can afford it.
+C.	Her husband thinks that the quality of brand name handbags is very high. 
+D.	She has just been promoted and received a pay rise. Her monthly salary is sufficient for her to buy several brand name handbags.
+
+Answer: B
+
+
+Question code: B1C03Q012
+Which of the following is INCORRECT?
+A.	Demand for high-end flats cannot exist when there is no purchasing power.
+B.	Demand for high-end flats must exist when there is purchasing power.
+C.	Desire for high-end flats can exist even when there is no purchasing power.
+D.	Desire for high-end flats may not exist even when there is purchasing power.
+
+Answer: B
+
+Question code: B1C03Q013
+Peter once said, 'At a price of $10, my quantity demanded is 100 books.' This implies that
+A.	the market price of books is $10.
+B.	Peter's demand for books is 200 when the price is $20.
+C.	Peter actually buys 100 books.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C03Q014
+Keung, 'At prices lower than $50, my quantity demanded for movies in a year is 120.' 
+Ming, 'At prices lower than $50, my quantity demanded for movies in a month is 10.' 
+This implies that 
+A.	the market price of movies is $50.
+B.	they watch the same amount of movies in a year.
+C.	their demands for movies are equal.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C03Q015
+Which of the following statements about demand is correct?
+A.	Demand refers to the relationship between the price and the quantity a person is willing and able to buy.
+B.	Demand is the same as need.
+C.	Demand refers to the quantity a person plans to purchase at a particular price.
+D.	Demand may exist without the support of purchasing power.
+
+Answer: A
+Explanation 
+Need refers to something that is necessary. However, it may not be supported by purchasing power and thus it is not the same as demand. Option B is incorrect.
+
+Question code: B1C03Q016
+Shawn has a demand for meals at Pizza Hut. This means 
+A.	he goes to Pizza Hut for dinner every day.
+B.	he likes meals at Pizza Hut very much.
+C.	he is willing and able to purchase meals at Pizza Hut over a period of time.
+D.	he spends a fixed amount of money on meals at Pizza Hut.
+
+Answer: C
+Explanation
+The fact that Shawn has a demand for meals at Pizza Hut simply means he is willing and able to purchase meals at Pizza Hut over a period of time. This does not imply anything about how frequently he purchases them (Option A), how much he likes them (Option B) and the amount he spends (Option D). 
+
+Question code: B1C03Q017
+The following table shows Isabella's demand schedule for sunglasses. 
+
+Price ($ / pair)	Quantity demanded (pairs / year)	
+1	10	
+2	8	
+3	6	
+4	4	
+5	2	
+
+Which of the following statements about her demand for sunglasses is correct?
+A.	Her demand for sunglasses is 30 pairs per year.
+B.	At a price of $3, her demand for sunglasses is 6 pairs per year.
+C.	At a price of $5, her quantity demanded of sunglasses is 2 pairs per year.
+D.	Her demand for sunglasses violates the law of demand. 
+
+Answer: C
+Explanation
+•	Demand refers to the quantities a person is willing and able to buy at various prices. It is not equal to the sum of all the quantities demanded at various prices (30 = 10 + 8 + 6 + 4 + 2). Therefore, Option A is incorrect.
+•	Demand is not simply the quantity a person is willing and able to buy at a particular price. Therefore, Option B is incorrect.
+•	Her demand schedule shows a negative relationship between the price and the quantity demanded of sunglasses. Therefore, Option D is incorrect. 
+
+Question code: B1C03Q018
+Which of the following statements about a demand curve is correct?
+A.	It tells us the quantities the consumer actually buys at different prices.
+B.	It must be consistent with the law of demand.
+C.	It tells us the relationship between quantity demanded and price.
+D.	It alone can determine the market price.
+
+Answer: C
+
+Question code: B1C03Q019
+Which of the following descriptions about a demand curve is INCORRECT? 
+A.	It is not related to the determination of market prices. 
+B.	It may be inconsistent with the law of demand. 
+C.	It shows the relationship between quantity demanded and price.
+D.	It shows the quantities the consumer is willing and able to buy at different prices.
+
+Answer: A
+
+Question code: B1C03Q020
+Which of the following is INCONSISTENT with the law of demand?
+A.	When a buyer's income increases, his quantity demanded for a good decreases.
+B.	When the price of a good increases, buyers buy more of it.
+C.	The price and quantity demanded of a good increase at the same time.
+D.	All of the above
+
+Answer: B
+
+Question code: B1C03Q021
+Which of the following statements is correct about the law of demand?
+A.	Application of the law of demand must be true for every good.
+B.	According to the law of demand, other factors must be kept constant when we study the relationship between the quantity demanded and the price of a good.
+C.	When the quantity demanded of a good increases, its price must have increased.
+D.	The law of demand implies an upward sloping demand curve.
+
+Answer: B
+
+Question code: B1C03Q022
+According to the law of demand,
+A.	sellers can earn more in total if they cut the prices of their goods.
+B.	a decrease in the quantity demanded of a good leads to an increase in the price.
+C.	the demand for a good is inversely related to its price.
+D.	the demand curve of a good is downward sloping.
+
+Answer: D
+
+Question code: B1C03Q023
+Which of the following is an implication of the law of demand?
+A.	When the littering fine increases, the streets will be cleaner.
+B.	When the punishment for drink driving (酒後駕駛) increases, there will be fewer traffic accidents.
+C.	When the air departure tax increases, fewer tourists will visit Hong Kong.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C03Q024
+Which of the following diagrams can best illustrate the law of demand?
+
+Answer: A
+
+Question code: B1C03Q025
+The law of demand tells us that
+A.	the number of cyberbullying (網上欺凌) cases would fall if bullies have to face legal punishment.
+B.	present consumption would rise if the interest rate falls.
+C.	donations to charitable organisations would rise if donators enjoyed a tax deduction.
+D.	All of the above
+
+Answer: D
+
+Question code: B1C03Q026
+According to the law of demand, ____________, other factors being constant.
+A.	when the cost of doing something increases, people will do more of this thing
+B.	when the cost of doing something increases, people will do less of this thing
+C.	an increase in quantity demanded will lead to an increase in price
+D.	an increase in quantity demanded will lead to a decrease in price
+
+Answer: B
+Explanation
+Options C and D are incorrect. According to the law of demand, the change in price (or cost) is the cause while the change in quantity demanded is the result.
+
+Question code: B1C03Q027
+Natalie said, 'My quantity demanded for Good X per week is 100 units at a price of $10.' If the price is $8, which of the following would happen according to the law of demand?
+A.	Natalie's quantity demanded of Good X would be smaller than 100 units per week.
+B.	Natalie's quantity demanded of Good X would be equal to 100 units per week.
+C.	Natalie's quantity demanded of Good X would be larger than 100 units per week.
+D.	Natalie's quantity demanded of Good X would be smaller than 100 units per year.
+
+Answer: C
+
+
+Question code: B1C03Q028
+Which of the following situations violates the law of demand?
+A.	Both the number of real estates transactions and their prices increase when Hong Kong's economy is booming.
+B.	People take taxis even though they can go to the same place by bus.
+C.	More people go to the cinema on weekends than on weekdays despite the former's higher ticket prices.
+D.	None of the above
+
+Answer: D
+
+Question code: B1C03Q029
+The law of demand shows a _________ relationship between the price and the _________ a good.
+A.	positive; demand for
+B.	negative; demand for
+C.	negative; quantity demanded of
+D.	positive; quantity demanded of
+
+Answer: C
+
+Question code: B1C03Q030
+According to the law of demand, when there is an increase in the price of Haagen Dazs ice cream,
+A.	the demand for Haagen Dazs ice cream decreases.
+B.	the consumption of Haagen Dazs ice cream decreases.
+C.	the quantity transacted of Haagen Dazs ice cream increases.
+D.	the quantity of Haagen Dazs ice cream sold increases.
+
+Answer: B
+
+Question code: B1C03Q031
+Study the following advertisement carefully:
+
+Sparta Sportswear
+
+Up to 30% off #
+# for football boots only	
+
+According to the law of demand, the above promotion method can ___________ in the above sportswear shop.
+A.	raise the quantity demanded of football boots
+B.	raise the quantity demanded of football shirts
+C.	raise the demand for football boots
+D.	raise the demand for football shirts
+
+Answer: A
+
+Question code: B1C03Q032
+Study the following table.
+
+Price	Fun's quantity demanded for shoes in a month	Yee's quantity demanded for shoes in a year	
+$100	5 pairs	20 pairs	
+$200	10 pairs	15 pairs	
+$300	15 pairs	10 pairs	
+$400	20 pairs	5 pairs	
+
+Which of the following statements about the information in the table is correct?
+A.	Fun's demand for shoes is smaller than Yee's.
+B.	Fun's demand for shoes is the same as Yee's.
+C.	Both Fun's and Yee's demands are inconsistent with the law of demand.
+D.	Fun's demand is inconsistent with the law of demand.
+
+Answer: D
+
+Question code: B1C03Q033
+Which of the following situations is INCONSISTENT with the law of demand?
+A.	When the price of fish increases, Mrs. Chan buys less of it.
+B.	When the price of sandwiches decreases, Alan buys more of them.
+C.	No matter what the prices are, Mary still buys the same number of blu-ray discs.
+D.	When the price of good X increases by 10%, the quantity demanded decreases by 20%.
+
+Answer: C
+
+
+Question code: B1C03Q034
+Which of the following situations are INCONSISTENT with the law of demand? 
+	(1)	Mrs Luk buys flats in large quantities when property prices increase at a tremendous rate.
+	(2)	Ming buys a new computer when the price of an old model increases.
+	(3)	Fun never buys Michael Jackson's records.
+	(4)	Keung no longer buys food from unlicensed street hawkers after he becomes the president of a listed company.
+A.	(1) and (2) only
+B.	(3) and (4) only
+C.	All of the above
+D.	None of the above
+
+Answer: D
+
+Question code: B1C03Q035
+Which of the following diagrams is consistent with the law of demand?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer: B
+
+Question code: B1C03Q036
+Market demand can be derived by
+A.	adding up the quantities demanded at each price.
+B.	adding up the prices at each quantity demanded.
+C.	combining the demand schedules of different buyers.
+D.	All of the above
+
+Answer: A
+
+Question code: B1C03Q037
+Which of the following statements about a market demand curve is correct?
+A.	A market demand curve shows the total quantity demanded of all consumers at a given price.
+B.	A market demand curve can be derived from individual demand curves via horizontal summation.
+C.	The market demand curve cannot violate the law of demand.
+D.	A market demand curve alone can determine the equilibrium price.
+
+Answer: B
+Explanation:
+•	All kinds of demand, whether they are market demands or individual demands, do not refer to the quantity at a particular price only. They refer to quantities at all prices. 
+•	All kinds of demand, whether they are market demands or not, may violate the law of demand, i.e. their demand curves may not be downward sloping. 
+•	A market demand curve and a market supply curve are needed to determine the equilibrium price.
+
+Question code: B1C03Q038
+Which of the following has a supply of smartphones?
+A.	Tony decides to let his daughter use his old smartphone, rather than selling it.
+B.	Steve has purchased his first smartphone and he decides to keep using it until it is no longer usable.
+C.	Clint has bought a new smartphone. He wants to sell it at $15,000 but he cannot find buyers.
+D.	Natasha has bought three new smartphones. She has given two of them to her friends and decides to keep the last one for herself.
+
+Answer: C
+
+Question code: B1C03Q039
+Quantity supplied refers to 
+A.	the quantity a seller is willing to sell at all prices.
+B.	the quantity a seller is willing and able to sell at all prices.
+C.	the quantity a seller is able to sell at a particular price.
+D. 	the quantity a seller is willing and able to sell at a particular price.
+
+Answer: D
+
+Question code: B1C03Q040
+Supply refers to
+A.	the quantities a seller is willing to sell at different prices.
+B.	the quantities a seller is able to sell at a particular price.
+C.	the quantities a seller is willing and able to sell at different prices. 
+D.	the quantities a seller is willing and able to sell at a particular price.
+
+Answer: C
+
+Question code: B1C03Q041
+Study the following table.
+
+Price	Joe's quantity supplied of pencils in a day	Ida's quantity supplied of pencils in a week	
+$2.0	5 pieces	5 pieces	
+$2.2	7 pieces	7 pieces	
+$2.4	10 pieces	10 pieces	
+$2.6	13 pieces	13 pieces	
+
+Which of the following statements about the above table is correct?
+A.	Joe's supply of pencils is the same as Ida's.
+B.	Joe's supply of pencils is less than Ida's.
+C.	Joe's supply of pencils is more than Ida's.
+D.	None of the above
+
+Answer: C
+
+Question code: B1C03Q042
+Which of the following statements about a supply curve is correct?
+A.	It shows the quantity of a good a seller actually sells at a given price.
+B.	It shows the quantities transacted at various prices.
+C.	It shows the quantities of a good actually sold by a seller at different prices.
+D.	It shows the quantities of a good a seller plans to sell at various prices.
+
+Answer: D
+
+
+Question code: B1C03Q043
+Which of the following is consistent with the law of supply?
+A.	When the hourly wages of workers increase, they choose to have less leisure time.
+B.	When the quantity supplied of workers increases, their wages increase.
+C.	When the wages of workers increase, a restaurant employs fewer workers.
+D.	All of the above
+
+Answer: A
+
+Question code: B1C03Q044
+Which of the following is INCONSISTENT with the law of supply?
+A.	The supply curve is upward sloping.
+B.	When the price of a good increases, its quantity supplied remains unchanged.
+C.	When the price of a good decreases, its quantity transacted decreases.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C03Q045
+Which of the following about the law of supply is true?
+A.	According to the law of supply, the supply curve is vertical.
+B.	The law of supply implies that the price and the quantity transacted of a good must change in the same direction.
+C.	The law of supply describes the relationship between price and quantity supplied of a good when other factors are held constant.
+D.	The law of supply must hold for all goods and services.
+
+Answer: C
+
+
+Question code: B1C03Q0046
+Which one of the following situations violates the law of supply?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer: B
+
+Question code: B1C03Q047
+If the price of Nike sneakers (運動鞋) increases,
+A.	the demand for Nike sneakers decreases.
+B.	the quantity demanded of Nike sneakers increases.
+C.	the supply of Nike sneakers increases.
+D.	the quantity supplied of Nike sneakers increases.
+
+Answer: D
+Explanation
+•	The price of a good will affect its quantity demanded or quantity supplied, not its demand or supply.
+•	When the price of Nike sneakers increases, their quantity demanded decreases while their quantity supplied increases.
+
+
+Question code: B1C03Q048
+Which of the following have to be constant while deriving the market supply curve of a good?
+(1)	Prices of inputs
+(2)	Technological level
+(3)	Number of producers in the market
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C03Q049
+Suppose there are only two producers in the market:
+
+Price ($/unit)	3	3.5	4	4.5	5	5.5		Quantity supplied of Mr Wong (units/month)	10	20	30	40	50	60		Quantity supplied of Miss Chan (units/week)	5	10	15	20	25	30		
+Which of the following descriptions is correct?
+A.	Mr Wong's supply is greater than that of Miss Chan.
+B.	When the market price is $4, the quantity supplied by Miss Chan is 15 units per month.
+C.	When the market price is $4.5, the quantity supplied by Mr Wong is 30 units.
+D.	When the market price is $5, the market quantity supplied is 150 units per month.
+
+Answer: D
+
+
+Question code: B1C03Q050
+Which of the following diagrams can illustrate the situation regarding the shortage of a good?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Answer: B
+
+Question code: B1C03Q051
+Study the following supply-demand schedules of a good.
+
+Price ($)	1	2	3	4	5	
+Quantity demanded (units)	120	100	80	60	40	
+Quantity supplied (units)	90	100	110	120	130	
+
+Which of the following is correct?
+A.	At $3, there is downward pressure on the price.
+B.	At $3, the amount buyers plan to buy is more than the amount sellers plan to sell.
+C.	At $3, there is a shortage of 30 units.
+D.	None of the above
+
+Answer: A
+
+Question code: B1C03Q052
+Study the following supply-demand diagram of the good.
+
+
+
+
+
+
+
+
+
+
+
+Which of the following is correct about the market of the good?
+A.	At P1, the amount of the unsold goods is (Q2 - Q0).
+B.	At P2, there is excess supply of (Q2 - Q0).
+C.	At P0, there is scarcity of the good.
+D.	At P0, the equilibrium price and quantity transacted will never change.
+
+Answer: C
+
+Question code: B1C03Q053
+Which of the following is correct about scarce goods and goods in shortage?
+A.	Both scarce goods and goods in shortages must not be in excess supply.
+B.	The prices of scarce goods and goods in shortages must not be zero.
+C.	Goods in shortages must be scarce goods.
+D.	All of the above
+
+Answer: C
+
+
+Question code: B1C03Q054
+Refer to the following supply and demand schedules of Good Z.
+
+Price ($)	Quantity demanded (units/week)	Quantity supplied (units/week)	
+5	26	5	
+6	24	10	
+7	22	15	
+8	20	20	
+9	18	25	
+10	16	30	
+
+Suppose Good Z currently sells for $7. Which of the following is correct?
+A.	There is a surplus of Good Z.
+B.	The price tends to increase.
+C.	The quantity transacted is 22 units.
+D.	There is a shortage of Good Z because Good Z is scarce.
+
+Answer: B
+
+Question code: B1C03Q055
+Equilibrium price
+A.	is determined by supply and demand.
+B.	is the only way to guide resource allocation.
+C.	must be the same as the market price.
+D.	must be expressed in terms of money.
+
+Answer: A
+
+Question code: B1C03Q056
+With the supply schedule and demand schedule of a good, we can determine the
+A.	market-clearing price.
+B.	equilibrium price.
+C.	quantity transacted.
+D.	All of the above
+
+Answer: D
+
+
+Question code: B1C03Q057
+At the equilibrium price, the following are true EXCEPT 
+A.	quantity demanded is equal to quantity supplied.
+B.	quantity purchased is equal to quantity sold.
+C.	quantity purchased is greater than quantity demanded.
+D.	there is no further tendency for the price to change.
+
+Answer: C
+
+Question code: B1C03Q058
+Which of the following statements about market equilibrium is correct?
+A.	In equilibrium, quantity demanded is equal to quantity supplied.
+B.	In equilibrium, quantity demanded is greater than quantity supplied.
+C.	In equilibrium, quantity demanded is smaller than quantity supplied.
+D.	In equilibrium, demand is equal to supply.
+
+Answer: A
+
+Question code: B1C03Q059
+Which of the following statements about market equilibrium is correct?
+A.	A market is in equilibrium when the individual demand is equal to the individual supply.
+B.	A market is in equilibrium when the market demand is equal to the market supply.
+C.	A market is in equilibrium when there is no tendency for the price to change.
+D.	The equilibrium price never changes.
+
+Answer: C
+Explanation
+•	When at the current price the quantity demanded is equal to the quantity supplied, the market is in equilibrium. There is no tendency for this price to change. Therefore, Option C is correct. 
+•	The equilibrium price is determined by the intersection of market demand and supply. Whenever market demand and supply change, equilibrium price changes too. Therefore, Option D is incorrect. 
+
+
+Question code: B1C03Q060
+*Which of the following pairs is always equal?
+A.	quantity demanded and quantity supplied
+B.	quantity transacted and quantity demanded
+C.	quantity transacted and quantity supplied
+D.	quantity sold and quantity bought
+
+Answer: D
+Explanation
+•	Quantity demanded = Quantity supplied = Quantity transacted only when the market is in equilibrium. Therefore, the three pairs in Options A, B and C are not always equal. 
+•	In every transaction, the quantity actually sold must be equal to the quantity actually bought, though they may not be the quantity desired to sell or the quantity desired to buy. They are just the same quantity viewed from the perspectives of sellers and buyers, respectively.
+
+Question code: B1C03Q061
+Which of the following is INCORRECT?
+A.	Quantity transacted must be equal to quantity sold. 
+B.	Quantity transacted must be equal to equilibrium quantity.
+C.	Quantity transacted must be equal to quantity bought. 
+D.	Quantity transacted must be equal to either quantity supplied or quantity demanded or both. 
+
+Answer: B
+
+Question code: B1C03Q062
+Which of the following about the quantity transacted is correct?
+A.	It is the quantity a seller actually sells.
+B.	It is the quantity a buyer plans to buy.
+C.	It is the quantity actually sold at the equilibrium price. 
+D.	It is the quantity actually bought at the equilibrium price.
+
+Answer: A
+
+
+Question code: B1C03Q063
+Study the following table.
+
+Unit price ($)	Quantity demanded
+(units / period)	Quantity supplied
+(units / period)	
+2	1,000	800	
+3	950	840	
+4	900	900	
+5	850	960	
+6	800	1,020	
+7	750	1,080	
+
+The equilibrium price is _________ because there is _________.
+A.	$4 … a shortage
+B.	$4 … no tendency for the price to change
+C.	$5 … a surplus
+D.	$5 … no tendency for the price to change
+
+Answer: B
+
+Question code: B1C03Q064
+Study the following table.
+
+Unit price ($)	Quantity demanded (units)	Quantity supplied (units)	
+8	1,200	700	
+9	1,000	1,000	
+10	800	1,300	
+
+Which of the following is correct?
+A.	The equilibrium price is $9.
+B.	The equilibrium quantity is 1,000 units. 
+C.	The shortage is 500 units when the price is $8.
+D.	All of the above
+
+Answer: D
+
+
+Question code: B1C03Q065
+Study the following table.
+
+Unit price ($)	Quantity demanded 
+(units / period)	Quantity supplied 
+(units / period)	
+2	375	195	
+3	345	255	
+4	315	315	
+5	285	375	
+6	255	435	
+7	225	495	
+
+At a price of $2, there is a ___________ of ____________ units and the quantity transacted is ___________.
+A.	shortage ... 180 ... 195
+B.	shortage ... 375 ... 195
+C.	surplus ... 180 ... 375
+D.	surplus ... 195 ... 375
+
+Answer: A
+
+Question code: B1C03Q066
+*Study the following table.
+
+Unit price ($)	Quantity transacted (units)	
+2	200	
+3	300	
+4	400	
+5	200	
+6	100	
+
+Suppose the equilibrium price is $4. Which of the following is INCORRECT? 
+A.	At $2, the quantity demanded is 200 units.
+B.	At $3, the quantity supplied is smaller than the quantity demanded.
+C.	At $5, the quantity demanded is 200 units.
+D.	At $6, the quantity supplied is greater than the quantity demanded.
+
+
+Answer: A
+Explanation
+According to the law of demand, the quantity demanded of a good is inversely related to the price. Therefore, at $2, the quantity demanded must be larger than 400 units. Therefore, Option A is incorrect.
+
+Question code: B1C03Q067
+Which of the following phenomena will NOT be observed when the market price is the same as the equilibrium price?
+	(1)	Unsold goods
+	(2)	Buyers' willingness to offer higher prices
+	(3)	Shortage
+A.	(1) only
+B.	(1) and (2) only
+C.	(2) and (3) only
+D.	All of the above
+
+Answer: D
+
+Question code: B1C03Q068
+Which of the following may happen when the market price does NOT equal the equilibrium price?
+	(1)	Producers donate unsold products to charities.
+	(2)	Many people cannot buy the amount of goods they want.
+	(3)	Producers destroy unsold products.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C03Q069
+Which of the following situations will lead to a greater shortage of local university places in the market?
+A.	More people cannot afford the university's tuition fees.
+B.	More students cannot meet the university's minimum admission scores.
+C.	The university's tuition fees decrease.
+D.	More students choose to study abroad.
+
+Answer: C
+
+Question code: B1C03Q070
+Which of the following situations will lead to a surplus of primary school teachers?
+A.	Fewer and fewer Hong Kong people send their children abroad to study. 
+B.	The number of school-age new arrivals keeps on increasing.
+C.	The wage rates of primary school teachers are higher than the equilibrium level.
+D.	Tertiary institutes reduce the number of diploma places in educational programmes.
+
+Answer: C
+
+Question code: B1C03Q071
+Which of the following statements about scarcity and shortage is correct?
+A.	Shortage exists when there is scarcity.
+B.	Shortage will not exist when there is scarcity.
+C.	There is no scarcity when shortage exists.
+D.	Shortage will not exist when there is no scarcity.
+
+Answer: D
+
+Question code: B1C03Q072
+What of the following statements about a surplus is correct? 
+A.	A surplus implies there are unsold goods. 
+B.	A good in surplus is a free good. 
+C.	A surplus means supply is greater than demand.
+D.	None of the above
+
+Answer: A
+
+
+Question code: B1C03Q073
+The table below shows the market demand and supply schedules of Coca-Cola Zero. Study carefully and answer the following question.
+
+Price 
+($ / can)	Quantity demanded
+(cans / period)	Quantity supplied
+(cans / period)	
+10	220	340	
+8	240	300	
+6	260	260	
+4	280	220	
+2	300	180	
+
+What is the price at which there is excess supply of 120 cans?
+A.	$2
+B.	$4
+C.	$8
+D.	$10
+
+Answer: D
+Explanation
+Price 
+($ / can)	Amount of excess supply /
+excess demand 	
+10	Excess supply of 120 (= 340 - 220) cans	
+8	Excess supply of 60 (= 300 - 240) cans	
+6	No excess demand or excess supply	
+4	Excess demand of 60 (= 280 - 220) cans	
+2	Excess demand of 120 (= 300 - 180) cans	
+
+
+Question code: B1C03Q074
+The table below shows the market demand and supply schedules of Coca-Cola Zero. Study carefully and answer the following question.
+
+Price 
+($ / can)	Quantity demanded
+(cans / period)	Quantity supplied
+(cans / period)	
+10	220	340	
+8	240	300	
+6	260	260	
+4	280	220	
+2	300	180	
+
+What change in price is required when there is excess supply of 120 cans?
+A.	Decrease by $4
+B.	Decrease by $2
+C.	Increase by $2
+D.	Increase by $4
+	
+Answer: A
+
+Question code: B1C03Q075
+
+Suppose the market price of Good X is initially set at P1. What will happen if the market price decreases?
+A.	The excess supply will increase.
+B.	The excess supply will disappear.
+C.	The excess supply will decrease.
+D.	An excess demand will appear.
+
+Answer: C
+Explanation
+•	At P1, there is an excess supply of Good X. When the price decreases, the excess supply will decrease. Therefore, Option A is incorrect while Option C is correct.
+•	However, the extent of the price decrease may not be sufficient to eliminate the excess supply. Therefore, Option B may not be correct.
+•	Moreover, only when the price decreases to a level below the equilibrium level will an excess demand appear. Therefore, Option D may not be correct. 
+
+Question code: B1C03Q076
+Ultra-low sulphur diesel (超低硫柴油) is more expensive, but combusting it releases smaller amount of air pollutants. Suppose the government reduces the tax per unit on both ultra-low sulphur diesel and regular diesel by the same amount. Which of the following is consistent with the prediction of the law of demand?
+A.	Air quality will improve.
+B.	The portion of regular diesel sold at filling stations will increase.
+C.	More people will travel on public transport.
+D.	None of the above
+
+Answer: B
+
+Question code: B1C03Q077
+In 2012, the government launched the Public Transport Fare Concession Scheme (公共交通票價優惠計劃) for the elderly. They can travel on the MTR or a bus at a fixed fare of $2 per trip. Which of the following statements are consistent with the prediction of the law of demand?
+(1)	The elderly will travel more frequently on public transport.
+(2)	More students and workers will travel on public transport.
+(3)	The average distance the elderly travel will increase.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+
+Question code: B1C03Q078
+Suppose Hong Kong imports both high-quality and low-quality red wine from France. If the transportation costs of importing each unit of high-quality red wine and low-quality red wine are the same, which of the following is true according to the law of demand?
+A.	The demand for French red wine in Hong Kong is larger than the demand in France.
+B.	The average quality of French red wine sold in Hong Kong is higher than that in France.
+C.	The amount of high-quality French red wine consumed by Hong Kong people is greater than the amount consumed by people in France.
+D.	All of the above
+
+Answer: B
+
+Question code: B1C03Q079
+Which of the following is INCONSISTENT with the law of demand?
+A.	Foreign customers tend to spend more than local customers in restaurants.
+B.	Relatively more low-quality sushis sold when a sushi shop reduces the prices of all sushi after 9 pm by the same amount.
+C.	The ratio of Japanese cars (with lower prices) to European cars (with higher prices) sold in the market will increase when a fixed amount of the First Registration Tax is imposed on all new cars.
+D.	None of the above
+
+Answer: C
+
+Question code: B1C03Q080
+Which of the following violates the law of demand?
+A.	When air passengers need to pay a fixed fuel surcharge amount, airline companies will increase the number of seats in business class in each aircraft.
+B.	When the punishment for mild criminals is the same as for serious criminals, more people will commit serious crimes.
+C.	When ticket prices increase by the same amount, both 3D and 2D movies will have smaller audiences.
+D.	People buy more gold when they expect gold prices to increase.
+
+Answer: B
+
+
+Question code: B1C03Q081
+Which of the following is the prediction of the law of demand?
+A.	In general, the average quality of rice consumed in rice-exporting countries is lower than that in rice-importing countries.
+B.	The average length of a cigar will increase when the tax on each cigar is lowered.
+C.	More soft drinks are sold when the temperature is high.
+D.	Fewer residential units are sold when the economy is in a downturn.
+
+Answer: A
+
+Question code: B1C03Q082
+According to the law of demand,
+A.	people spend more on medical services when the price decreases.
+B.	people consume more live chicken when the price of chilled chicken increases.
+C.	foreign fans buy seats closer to the stage than local fans do at concerts.
+D.	the imposition of a fixed fuel surcharge decreases the average distance that taxi passengers travel.
+
+Answer: C
+
+Question code: B1C03Q083
+Suppose an airline reduces the ticket prices of flights between two cities as follows:
+
+	Old price ($)	New price ($)	
+Economy class	3,000	2,800	
+Business class	10,000	9,800	
+
+Which of the following statements is correct?
+A.	The total number of passengers choosing economy class will decrease.
+B.	The relative price of economy class will increase.
+C.	A proportion of passengers who choose business class will decrease.
+D.	The airline company will deploy aircrafts with smaller capacity for this route.
+
+Answer: C
+
+
+Question code: B1C03Q084
+Which of the following statements is correct?
+A.	An increase in relative price is the same as an increase in nominal price.
+B.	If the nominal price of Good X increases by a greater percentage than that of Good Y, the relative price of Good X in terms of Good Y falls.
+C.	Relative price is the price of a good expressed in terms of another good.
+D.	If the relative price remains unchanged, the nominal prices of all goods must increase by the same amount.
+
+Answer: C
+
+Question code: B1C03Q085
+Which of the following is correct?
+A.	Relative price will not exist when there is only one good in the world. 
+B.	If the nominal price of Good A increases by $5, the relative price of Good B (in terms of Good A) will decrease by $5.
+C.	Nominal price can still exist when money does not exist.
+D.	If the nominal prices of all goods increase by 100%, the relative prices of all goods will also increase by 100%.
+
+Answer: A
+
+Question code: B1C03Q086
+Suppose a convenience store sells two brands of cigarettes: Cigarette X, which is higher quality but has a higher price and Cigarette Y, which is lower quality but has a lower price. To discourage smoking, the government has recently imposed a fixed amount of tax on each pack of cigarettes. Which of the following is/are correct after the tax is imposed?
+(1)	Smokers tend to buy relatively more of Cigarette X. 
+(2)	Smokers tend to buy relatively more of Cigarette Y. 
+(3)	Smokers tend to buy more cigarettes.
+(4)	More people tend to quit smoking. 
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only 
+D.	(2) and (4) only
+
+Answer: B
+
+
+Question code: B1C03Q087
+*To increase tourism, Country A decides to lower the Air Passenger Departure Tax (飛機乘客離境稅): the tax charged on passengers who depart Country A by plane will decrease from $1,000 to $100. Which of the following statements is correct?
+A.	The average length of air journeys will tend to fall.
+B.	More senior citizens and children will travel.
+C.	More foreigners will go to Country A.
+D.	All of the above
+
+Answer: D
+Explanation
+•	After the tax cut, the relative price of short-distance journeys (in terms of long-distance journey) will decrease. According to the law of demand, there will be relatively more short-distance journeys. Hence, Option A is correct.
+•	As the total cost of travelling will decreases after the tax cut, the law of demand implies that more people (all kinds of people) will travel. Therefore, both Options B and C are correct.
+
+Question code: B1C03Q088
+Suppose Country A increases the fixed tax on all imported cars (including private cars and limousines (豪華轎車)) from $10,000 to $30,000. After the increase in the import tax, the ______ imported cars decreases while relatively ______ limousines are imported. 
+A.	demand for … more
+B.	demand for … fewer
+C.	quantity demanded of … more
+D.	quantity demanded of … fewer
+
+Answer: C
+
+
+Question code: B1C03Q089
+*Suppose the money prices of an apple and a pineapple are $3 and $20, respectively. If the money price of apple increases by 20% while that of pineapple increases by 10%,
+(1)	relatively more pineapples will be sold.
+(2)	relatively more apples will be sold.
+(3)	more pineapples will be sold.
+(4)	fewer apples will be sold.
+A.	(1) and (3) only
+B.	(1) and (4) only
+C.	(2) and (3) only
+D.	(2) and (4) only
+
+Answer: B
+
+Question code: B1C03Q090 (new)
+Which of the following is INCONSISTENT with the law of demand?
+A.	In summer, the price and quantity sold of cold drinks increase simultaneously.
+B.	When a theme park's entrance fee increases, the average amount of time that visitors spend in the park increases.
+C.	The average quality of red wine consumed increases when the unit tax on red wine is abolished.
+D.	When a 5% sales tax is imposed on diesel fuels, the quantity of diesel fuels sold decreases.
+
+Answer: C
+
+Question code: B1C03Q091 (new)
+Which of the following is INCONSISTENT with the law of demand?
+A.	The unemployment rate decreases when the minimum wage is lowered.
+B.	The average distance that the elderly travel on the MTR decreases if they can ride to any station for $2.
+C.	The price of smartphones decreases when the production technology improves.
+D.	When the fine for speeding increases, the average speed of vehicles on roads decreases.
+
+Answer: B
+
+
+Question code: B1C03Q092 (new)
+Which of the following is INCONSISTENT with the law of demand?
+A.	The average quality of French champagne sold in Paris is lower than that sold in Hong Kong.
+B.	When the government imposes a 5% tax on the price of cigars, the market share of high-quality cigars will remain unchanged.
+C.	When a $5 discount applies to all items from a smartphone game, sales of regular items will show a relatively larger increase than rare items.
+D.	A cinema lowers ticket prices for all movies by $10 on Monday. Relatively more people will go to the cinema to watch 3D movies on Monday.
+
+Answer: D
+
+Question code: B1C03Q093 (new)
+Which of the following is INCONSISTENT with the law of demand?
+A.	Total expenditure on vegetables remains unchanged even though the prices of vegetables increase after heavy rain.
+B.	The number of orders for a tea set is smaller than that for a lunch set, which is more expensive.
+C.	People tend to visit expensive Chinese restaurants relatively more often when all Chinese restaurants lower their per-head cover charge (茶芥) by the same amount.
+D.	All of the above
+
+Answer: C
+
+Question code: B1C03Q094 (new)
+Which of the following events are INCONSISTENT with the law of demand?
+(1)	An increase in the lump-sum fee for each foreign exchange transaction will decrease the average amount of foreign currencies exchanged from the exchange store each time.
+(2)	An increase in the ticket price of a football match will decrease the number of spectators (觀眾).
+(3)	A decrease in the cost of travelling to a theme park will result in people staying a longer time on average when they visit the theme park.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: B
+
+Question code: B1C03Q095 (new)
+Which of the following are predicted by the law of demand?
+(1)	An increase in driving licence fees will relieve traffic congestion.
+(2)	When the import quota on wheat is abolished, the average quality of imported wheat will deteriorate.
+(3)	When the price of housing increases, more construction workers will be employed.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B1C03Q096 (new)
+Suppose the government provides a uniform unit subsidy on new cars. Which of the following is consistent with the law of demand?
+(1)	Fewer people will travel by public transport.
+(2)	The proportion of premium sports cars sold will decrease.
+(3)	More luxury cars will be sold.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: D
+
+Question code: B1C03Q097 (new)
+Better quality cupcakes are more likely to be sold in high-end coffee shops than in low-end coffee shops. Which of the following can explain this phenomenon?
+A.	High-end coffee shops can provide better quality cupcakes at lower costs.
+B.	With a higher price per cup of coffee in high-end coffee shops, the relative price of better quality cupcakes will become lower than in low-end coffee shops.
+C.	According to the law of supply, the higher the price of a cupcake, the greater its quantity sold.
+D.	All of the above
+
+Answer: B
+
+Question code: B1C03Q098 (new)
+It takes Carmela more time to reach Mong Kok after bus route rationalisation (巴士路線重組). Which of the following is consistent with the law of demand?
+(1)	Her average spending will increase per visit to Mong Kok.
+(2)	She will take the MTR to Mong Kok more frequently.
+(3)	She will take buses to Mong Kok no matter how long she has to wait.
+A.	(1) and (2) only
+B.	(1) and (3) only
+C.	(2) and (3) only
+D.	(1), (2) and (3)
+
+Answer: A
+
+Question code: B1C03Q099 (new)
+Suppose a supermarket lowers the price of all its snacks by $2 to celebrate its 20th anniversary. According to the law of demand,
+A.	customers tend to buy more imported snacks relative to local snacks.
+B.	customers' total expenditure on snacks will increase.
+C.	customers tend to buy more items if the promotion results in a long queue for payment.
+D.	All of the above
+
+Answer: C
+
+
+Short Questions
+
+Question code: B1C03Q301
+Explain whether the law of demand can illustrate the following phenomenon.
+(a)	During an economic boom, both the price and quantity transacted of new cars increase.	(4 marks)
+(b)	Although the price remains unchanged, more people have lunch at Restaurant X now because it serves meals faster than before.	(4 marks)
+
+Answers: 
+(a)	No.			(1 mark)
+	The law of demand states that the price and quantity demanded of a good are inversely related, holding other factors constant.	(2 marks)
+	The change described is caused by a change in a factor other than the price.
+				(1 mark)
+(b)	Yes.		(1 mark)
+	In addition to the money price, the full price consists of the non-money price. In this case, the non-money price (i.e., time cost) decreases. Hence, the full price decreases.	(2 marks)
+	This shows an inverse relationship between the quantity demanded and the full price.		(1 mark)
+
+Question code: B1C03Q302
+(a)	State the law of demand.	(2 marks)
+(b)	In the past, there were no fitness centres near Victoria's home. She had to travel to a fitness centre in another district to exercise. After a new fitness centre opens near her home, Victoria exercises more than before. Use the law of demand to explain this.	(3 marks)
+
+Answers: 
+(a)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	(2 marks)
+(b)	To Victoria, the full price of exercising involves the money price and time cost.
+	(1 mark)
+	After a new fitness centre opens near her home, her time cost and the full price of exercising decreases. According to the law of demand, the lower full price will lead to her higher quantity demanded of exercising.	(2 marks)
+
+Question code: B1C03Q303
+(a)	State the law of demand.	(2 marks)
+(b)	A drug addict said, 'I will buy the same amount of heroin (海洛英) regardless of the price.' Is his behaviour consistent with the law of demand? Explain.	 (4 marks)
+
+Answers: 
+(a)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	 (2 marks)
+(b)	•	No.	 (1 mark)
+•	Since the quantity demanded for heroin remains unchanged when the price changes, it violates the law of demand.	 (3 marks)
+
+Question code: B1C03Q304
+*A girl said, 'I spend $1,000 buying Bird of Paradise's records every year regardless of the price.' Is her behaviour consistent with the law of demand? Explain. 
+(Hint: Total spending = Price × Quantity demanded)	(4 marks)
+
+Answers: 
+•	Consistent	(1 mark)
+•	To keep the total spending constant, her quantity demanded for Bird of Paradise's records must be inversely related to the price.	(3 marks)
+
+Question code: B1C03Q305
+In recent years, more and more mainlanders have come to Hong Kong to buy Apple products. It has been reported that the prices of Apple products are much lower here.
+(a)	State the law of demand.	(2 marks)
+(b)	Explain whether the above phenomenon can be explained by the law.	(3 marks)
+
+Answers: 
+(a)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	 (2 marks)
+(b)	•	Yes.	(1 mark)
+	•	Mainland buyers buy the products in Hong Kong at lower prices instead of in the mainland at higher prices.	(2 marks)
+
+Question code: B1C03Q306
+In recent years, more and more people from the mainland have come to Hong Kong to buy baby formula (嬰幼兒配方奶粉). This is because they believe that the quality of the baby formula sold in Hong Kong is far better than that in the mainland. This has led to the increase in the prices of baby formula in Hong Kong.
+(a)	State the law of demand.	(2 marks)
+(b)	Explain whether the above phenomenon can be explained by the law.	 (3 marks)
+
+Answers: 
+(a)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	(2 marks)
+(b)	No.	(1 mark)
+	We cannot use the law of demand to explain the above phenomenon in which the number of visitors increase with the quality of baby formula sold, which is a factor other than price. This is because the law of demand tells only the relationship between the price and the quantity demanded of a good.	(2 marks)
+
+Question code: B1C03Q307
+(a)	What is the difference between quantity demanded and demand?	(4 marks)
+(b)	Mr. Chan and Miss Wong have the same quantity demanded for Good X at every price. Is it correct to conclude that they have the same demand for Good X? Explain.	(3 marks)
+
+Answers: 
+(a)	•	Quantity demanded refers to the quantity a buyer is willing and able to buy at a particular price over a period of time.	(2 marks)
+	•	Demand refers to the quantities a buyer is willing and able to buy at different prices over a period of time. 	(2 marks)
+(b)	No, it depends on the length of the period.	 (1 mark)
+•	If the period of Mr. Chan's demand is longer, his demand is actually smaller than that of Miss Wong.
+•	If the period of Mr. Chan's demand is shorter, his demand is actually greater than that of Miss Wong.
+(Any ONE of above, 2 marks)
+
+Question code: B1C03Q308
+(a)	What is the difference between quantity supplied and supply?	 (4 marks)
+(b)	Firm A and Firm B have the same quantity supplied of Good Y at every price. Explain whether we can conclude that they have the same supply of Good Y.	 	(3 marks)
+
+Answers: 
+(a)	•	Quantity supplied refers to the quantity a seller is willing and able to sell at a particular price over a period of time.	 (2 marks)
+	•	Supply refers to the quantities a seller is willing and able to sell at different prices over a period of time.	 (2 marks)
+(b)	No, we need to consider the length of the period:	 (1 mark)
+•	If the period of Firm A's supply is longer, its supply is actually smaller than that of Firm B.
+•	If the period of Firm A's supply is shorter, its supply is actually greater than that of Firm B.
+(Any ONE of the above, 2 marks) 
+
+Question code: B1C03Q309
+(a)	State the law of supply.	(2 marks)
+(b)	In recent years, the price of portable hard disks has kept decreasing while the quantity sold has increased. Explain whether this phenomenon can be illustrated by the law of supply.	(3 marks)
+
+Answers: 
+(a)	The law of supply states that the higher (lower) the price of a good, the greater (smaller) its quantity supplied, other factors being constant.	(2 marks)
+(b)	No.			(1 mark)
+	The changes in the quantity supplied and the price go in different directions. This is caused by factors other than the price.	(2 marks)
+
+Question code: B1C03Q310
+(a)	What is the difference between scarcity and shortage?	(4 marks)
+(b)	What is the similarity between scarce goods and goods in shortages?	(2 marks)
+
+Answers: 
+(a)	Scarcity means human wants can never be fully satisfied by limited resources.					(2 marks)
+	A shortage means that the quantity demanded is larger than the quantity supplied at a price below the equilibrium.	(2 marks)
+(b)	People prefer to have more scarce goods and goods in shortages.	(2 marks)
+
+Question code: B1C03Q311
+(a)	What is excess supply?	(2 marks)
+(b)	What is implied by the phenomenon that some workers are unemployed at the minimum wage? Draw a supply-demand diagram to describe this phenomenon.			(4 marks)
+
+Answers:
+(a)	Excess supply refers to a situation where the quantity supplied is greater than the quantity demanded when the price is set above the equilibrium price.	(2 marks)
+(b)	The phenomenon implies that the minimum wage (W) is higher than the equilibrium wage (We), leading to an excess supply of workers.	(2 marks)
+	Indicate on the diagram:
+	(	Minimum wage > Equilibrium wage	(1 mark)
+	(	Excess supply	(1 mark)
+	
+
+Question code: B1C03Q312
+The illegal sale of permits for sports facilities provided by the Leisure and Cultural Department (LCSD) is a serious problem. The permits are sold on the internet for a higher price than the original fees charged by the LCSD. What economic concept is illustrated in this example? Explain with the aid of a supply-demand diagram.
+		(6 marks)
+
+Answers: 
+Verbal elaboration:
+(	The example shows that an excess demand (or shortage) exists in the market for LCSD sports facilities.	(2 marks)
+(	Excess demand (or a shortage) refers to a situation where the quantity demanded is greater than the quantity supplied when the price (P) is set below the equilibrium price (Pe).	(2 marks)
+Indicate on the diagram:
+(	Price < Equilibrium price	(1 mark)
+(	Excess demand	(1 mark)
+
+
+Question code: B1C03Q313
+The following are the demand and supply schedules for Good X.
+
+Unit price ($)	2	3	4	5	6	7	
+Quantity demanded (units)	90	76	65	52	43	35	
+Quantity supplied (units)	43	54	65	74	83	96	
+
+(a)	Find the equilibrium price and equilibrium quantity of Good X.	 (2 marks)
+(b)	Calculate the amount of excess supply at a price of $7.	 (2 marks)
+(c)	What is the quantity transacted at a price of $7? Explain.	 (2 marks)
+
+
+Answers: 
+(a)	The equilibrium price is $4 and the equilibrium quantity is 65 units.	 (2 marks)
+(b)	At a price of $7, Excess supply = Quantity supplied - Quantity demanded
+	= (96 - 35) units	 (1 mark)
+	= 61 units	 (1 mark)
+(c)	•	At a price of $7, the quantity supplied is greater than the quantity demanded.	 			(1 mark)
+•	In this case, the quantity transacted is equal to quantity demanded, i.e., 35 units.	 (1 mark)
+
+Question code: B1C03Q314
+The following are the demand and supply schedules for dictionaries.
+
+Unit price ($)	100	150	200	250	300	350	
+Quantity demanded (units)	10	8	6	4	2	0	
+Quantity supplied (units)	2	4	6	8	10	12	
+
+(a)	What are the equilibrium price and quantity transacted of dictionaries?	(2 marks)
+(b)	Calculate the amount of excess demand at a price of $150.	(2 marks)
+(c)	What is the quantity transacted at a price of $300? Explain.	(2 marks)
+
+Answers: 
+(a)	The equilibrium price is $200 and the quantity transacted is 6 units.	(2 marks)
+(b)	At a price of $150, Excess demand = Quantity demanded - Quantity supplied 
+= (8 - 4) units	(1 mark)
+	= 4 units	(1 mark)
+(c)	•	At a price of $300, the quantity supplied (10 units) is greater than the quantity demanded (2 units).	(1 mark)
+	•	In this case, the quantity transacted is equal to the quantity demanded, i.e. 2 units.	(1 mark)
+
+Question code: B1C03Q315
+To celebrate its 3rd anniversary, a restaurant sells 300 lunch boxes at a discounted price every day. A long queue is found outside the restaurant.
+(a)	Show the phenomenon mentioned on a supply-demand diagram.	(3 marks)
+(b)	Does the above case illustrate scarcity? Explain.	(3 marks)
+
+
+Answers:
+(a)	•	Suppose the price of a lunch box is P.
+	(2 marks)
+	•	Since P is lower than the equilibrium price (Pe), a shortage exists.	(1 mark)
+(b)	•	Yes.	(1 mark)
+	•	Scarcity means we want more than we have.	(1 mark)
+	•	In the above case, the discounted lunch boxes available are insufficient to satisfy everyone's wants, so scarcity exists.	(1 mark)
+
+Question code: B1C03Q316
+Suppose the government imposes a fixed tax amount on each cigar. Explain the effect of the tax on the average length of cigars.	(6 marks)
+
+Answers:
+•	The price of a long cigar is higher than the price of a short cigar.	(1 mark)
+•	When the tax is imposed, the percentage increase in the price of a long cigar is smaller than the percentage increase in the price of a short cigar.	(2 marks)
+•	The relative price of a long cigar (in terms of short cigars) decreases.	(1 mark)
+•	According to the law of demand, relatively more long cigars are sold in the market.
+				(1 mark)
+•	Hence, the average length of cigars increases.	(1 mark)
+
+Question code: B1C03Q317
+Country N is famous for its tuna. Suppose the transportation costs of each unit of high-quality tuna and low-quality tuna are the same. Compare the average qualities of exported tunas and tunas consumed by local consumers in Country N.	(6 marks)
+
+Answers:
+•	The price of high-quality tuna is higher than the price of low-quality tuna.	(1 mark)
+•	When the transportation cost is added during export, the percentage increase in the price of high-quality tuna is smaller than the percentage increase in the price of low-quality tuna.	(2 marks)
+•	The relative price of exported high-quality tuna (in terms of low-quality tuna) is lower than that of high-quality tuna consumed by local consumers.	(1 mark)
+•	According to the law of demand, relatively more high-quality tunas are exported.
+				(1 mark)
+•	Hence, the average quality of exported tunas is higher than that of tunas consumed by local consumers.	(1 mark)
+
+Question code: B1C03Q318
+There are many flower sellers at the Lunar New Year Fair. Suppose the sellers cut the prices of all flowers by the same amount at the last night of the fair. What is the effect on the average quality of flowers sold?	(6 marks)
+
+Answers:
+•	The price of high-quality flowers is higher than the price of low-quality flowers.
+		(1 mark)
+•	After the uniform price cut, the percentage decrease in the price of high-quality flowers is smaller than the percentage decrease in the price of low-quality flowers.	
+			(2 marks)
+•	The relative price of high-quality flowers (in terms of short cigars) increases.
+				(1 mark)
+•	According to the law of demand, relatively fewer high-quality flowers are sold.	
+			(1 mark)
+•	Hence, the average quality of flowers sold decreases.	(1 mark)
+
+Question code: B1C03Q319
+The prices below show the cost of a DVD and a Blu-ray Disc in two countries.
+
+	Country X	Country Y	
+Blu-ray Disc	$180	$200	
+DVD	$60	$100	
+
+(a)	What are the relative prices of a Blu-ray Disc in terms of DVDs in the two countries, respectively?	(4 marks)
+(b)	In which country will people consume relatively more Blu-ray Discs? Explain.
+	(2 marks)
+
+Answers: 
+(a)	The relative price of a Blu-ray Disc in terms of DVDs in Country X 
+	=  = 3 DVDs	(2 marks)
+	The relative price of a Blu-ray Disc in terms of DVDs in Country Y
+	=  = 2 DVDs 	(2 marks)
+(b)	The relative price of a Blu-ray Disc in terms of DVDs in Country Y is lower than that in Country X. By the law of demand, people in Country Y will buy relatively more Blu-ray Discs.	(2 marks)
+
+Question code: B1C03Q320
+Study the following table and answer the following questions.
+
+Year	2009	2014	
+Price of an apartment	$4,500,000	$9,000,000	
+Price of a car	$600,000	$900,000	
+
+(a)	Calculate the percentage changes of the nominal price of an apartment and a car between 2009 and 2014.	 (4 marks)
+(b)	Explain the change of the relative price of an apartment in terms of cars. Show your steps. 	(3 marks)
+
+Answers: 
+(a)	Percentage change of the nominal price of an apartment
+		 (1 mark)
+	= 100 %	 (1 mark)
+	Percentage change of the nominal price of a car
+	 	(1 mark)
+	= 50 %	(1 mark)
+(b)	Relative price of an apartment in 2009
+	= (4,500,000 ÷ 600,000) cars 
+	= 7.5 cars	(1 mark)
+	Relative price of an apartment in 2014
+	= (9,000,000 ÷ 900,000) cars 
+	= 10 cars		(1 mark)
+	Therefore, the relative price of an apartment in terms of cars has increased.	 		(1 mark)
+
+
+Question code: B1C03Q321
+Study the following table and answer the following questions.
+
+Year	2009	2014	
+Price of a can of pork luncheon meat (午餐肉)	$10	$15	
+Price of a can of spiced pork cube (肉丁)	$12	$20	
+
+(a)	Calculate the percentage changes in the nominal price of a can of pork luncheon meat and a can of spiced pork cube between 2009 and 2014.	 (4 marks)
+(b)	Explain the change in the relative price of a can of spiced pork cube (in terms of cans of pork luncheon meat) between 2009 and 2014. Show your steps.
+		(3 marks)
+
+Answers: 
+(a)	Percentage change in the nominal price of a can of pork luncheon meat
+		(1 mark)
+	= 50%	 (1 mark)
+	Percentage change in the nominal price of a can of spiced pork cube
+		(1 mark)
+	= 66.67%	 (1 mark)
+(b)	Relative price of a can of spiced pork cube in 2009
+	= (12 ÷ 10) cans of pork luncheon meat = 1.2 cans of pork luncheon meat	 (1 mark)
+	Relative price of a can of spiced pork cube in 2014
+	= (20 ÷ 15) cans of pork luncheon meat = 1.33 cans of pork luncheon meat	 (1 mark)
+Therefore, the relative price of a can of spiced pork cube (in terms of cans of pork luncheon meat) has increased.	 (1 mark)
+
+Question code: B1C03Q322
+*'Suppose the taxi fare for the first two kilometres increases from $18 to $30, holding other things constant, the average length of trips per ride will increase.' Do you agree with this statement? Explain.	 (6 marks)
+(Hint: 1.	Average length equals the total length of all trips divided by the number of trips.
+2.	Assume there are only 2 types of passengers: passengers taking long distance trips and passengers taking short distance trips.)
+
+Answers: 
+•	If the taxi fare for the first two kilometres increases, the relative price of long distance trips (in terms of the number of short distance trips) falls. 	(1 mark)
+•	According to the law of demand, the quantity demanded of long distance trips will increase relative to that of short distance trips. 	(1 mark)
+•	On the other hand, the increase in the taxi fare for the first two kilometres will increase the money prices (fares) for both long distance trips and short distance trips, therefore, the quantity demanded of both long distance trips and short distance trips (i.e., the number of trips) decreases. 	(2 marks)
+•	The average length of trips per ride increases as the quantity demanded of long distance trips increases relative to that of short distance trips.	 (2 marks)
+
+Question code: B1C03Q323
+A cake shop sells two types of freshly baked cakes each day: premium Cheese Cake and standard Cheese Cake. The former is $200 per cake while the latter is $150 per cake. The owner of the shop has recently decided to charge $20 per cake for packing. Explain how this affects the ratio of premium Cheese Cake to standard cheese Cake sold by applying the concept of the law of demand. 	(4 marks)
+
+Answers: 
+The relative price of premium Cheese Cake in terms of standard Cheese Cake before the packing charge
+= $200 ÷ $150
+= 1.33	(1 mark)
+The relative price of premium Cheese Cake in terms of standard Cheese Cake after the packing charge
+= $220 ÷ $170
+= 1.29	(1 mark)
+The relative price of premium Cheese Cake in terms of standard Cheese Cake decreases from 1.33 to 1.29, thus according to the law of demand, relatively more premium Cheese Cake will be purchased. 	(1 mark)
+Therefore, the ratio of premium Cheese Cake to standard Cheese Cake sold increases.
+	(1 mark)
+
+Question code: B1C03Q324 (new)
+Suppose the government provides a $15 unit subsidy on every can of baby formula. Using the law of demand, explain the change in the average size of cans of baby formula sold.	(5 marks)
+
+
+Answers:
+After providing the unit subsidy, the prices of both large-sized and small-sized baby formula cans would decrease by an equal amount. The percentage decrease in the price of large-sized baby formula cans would be smaller than the percentage decrease in the price of small-sized baby formula.	(2 marks)
+The relative price of large-sized baby formula cans (in terms of small-sized baby formula cans) increases.	(1 mark)
+According to the law of demand, relatively fewer large-sized cans of baby formula would be sold.	(1 mark)
+Hence, the average size of baby formula cans sold would decrease.	(1 mark)
+
+Question code: B1C03Q325 (new)
+Suppose a Japanese buffet restaurant offers the following sets to customers.
+
+Standard set
+$250
+Choose from 90 dishes		Premium set
+$330
+Choose from 130 dishes	
+(+ $50 for both sets on Saturdays and Sundays.)
+
+Using the law of demand, explain whether a large portion of customers would choose the premium set on Saturdays and Sundays (than on weekdays).	(4 marks)
+
+Answers:
+On Saturdays and Sundays, the prices of both standard and premium sets would increase by $50. The percentage increase in the price of the premium set is smaller than the percentage increase in the price of the standard set.	(2 marks)
+The relative price of the premium set (in terms of the standard set) on Saturdays and Sundays is less than it is on weekdays.	(1 mark)
+According to the law of demand, relatively more customers would choose the premium set on Saturdays and Sundays.	(1 mark)
+
+
+Question code: B1C03Q326 (new)
+A telecommunication service provider provides the following monthly data plans to local residents and foreign domestic helpers.
+
+	For local residents	For foreign domestic helpers	
+	3G plan	4G plan	3G plan	4G plan	
+Monthly charge	$150	$300	$80	$120	
+Maximum usage	5 GB	
+
+(a)	Calculate the relative price of a monthly 4G plan (in terms of monthly 3G plans) for local residents and foreign domestic helpers, respectively.	(2 marks)
+(b)	Compared with local residents, would there be a larger proportion of foreign domestic helpers who would choose a 4G plan? Explain your answer using the law of demand.	(3 marks)
+
+Answers:
+(a)	Relative price of 4G plan for local residents
+	= $300 ÷ $150 = 2 months of 3G plan	(1 mark)
+	Relative price of 4G plan for foreign domestic helpers
+	= $120 ÷ $80 = 1.5 months of 3G plan	(1 mark)
+(b)	Yes.	(1 mark)
+	The relative price of a 4G plan for foreign domestic helpers is lower than that for local residents. According to the law of demand, a larger proportion of foreign domestic helpers would choose a 4G plan.	(2 marks)
+
+Question code: B5C03Q327 (new)
+A Hong Kong superstar holds a concert in Central Harbourfront. The tickets sell out quickly. It is reported that overseas fans account for nearly 60% of the seats close to the stage while they only take up 20% of the seats far from the stage. Explain this phenomenon with the law of demand.	(5 marks)
+
+Answers:
+Besides the ticket prices, overseas fans need to pay travel-related fees to come to Hong Kong and watch the concert.	(1 mark)
+After adding up the travelling fees, the relative price the overseas concertgoers pay for seats close to the stage (in terms of a seat far from the stage) is lower than the relative price paid by local fans.	(2 marks)
+The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant. Therefore, relatively more overseas fans would book seats closer to the stage.	(2 marks)
+
+Question code: B1C03Q328 (new)
+Suppose the government charges every air passenger a uniform airport construction surcharge of $100. The surcharge is included in the ticket price. Using the law of demand, explain whether the proportion of passengers choosing business class instead of economy class will increase or decrease.	(5 marks)
+
+Answers:
+After adding $100, the percentage increase in the ticket price for business class is smaller than the percentage increase in the ticket price for economy class.	(2 marks)
+The relative price of business class (in terms of economy class) decreases.	(1 mark)
+According to the law of demand, the lower the price of a good, the greater the quantity demanded of the good, other factors being constant. Therefore, relatively more passengers would choose business class. The proportion of passengers choosing business class would increase.	(2 marks)
+
+Question code: B1C03Q329 (new)
+Some online stores charge customers a shipping fee for each order, regardless of the quantity of goods purchased.
+'An increase in the shipping fee will raise the average quantity of goods purchased per order from these online stores.' Explain the above phenomenon using the law of demand.	(5 marks)
+
+Answers:
+The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(2 marks)
+When the shipping fee increases, large-quantity orders become relatively cheaper than small-quantity orders. The relative price of large-quantity orders in terms of small-quantity orders decreases. People will place more large-quantity orders relative to small-quantity orders, resulting in an increase in the average quantity of goods per order.	(3 marks)
+
+Question code: B1C03Q330 (new)
+A restaurant has long queues for lunch. However, the waiting time decreases after the restaurant sets up a counter for takeaway customers.
+Explain, with the law of demand, how the introduction of a takeaway counter affects the average order amount at the restaurant.	(5 marks)
+
+
+Answers:
+The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(2 marks)
+The introduction of a takeaway counter lowers the time cost of queueing at the restaurant. This lowers the relative price of small orders in terms of large orders. People will place more small orders relative to large orders, lowering the average order amount.	(3 marks)
+
+Question code: B1C03Q331 (new)
+Suppose the same unit surcharge is imposed on every imported mobile phone. Explain the following with the law of demand.
+(a)	The change in the number of mobile phones imported	(2 marks)
+(b)	The change in the average quality of mobile phones imported	(3 marks)
+
+Answers:
+(a)	As the surcharge will increase the price of imported mobile phones, the quantity demanded of imported mobile phones decreases. Thus, the number of mobile phones that are imported decreases.	(2 marks)
+(b)	After the surcharge is imposed, the relative price of high-quality imported mobile phones in terms of low-quality imported mobile phones decreases. Consumers tend to buy relatively more high-quality imported mobile phones, improving the quality of mobile phones imported.	(3 marks)
+
+Question code: B5C03Q332 (new)
+To attract customers, shops usually offer discounts on selected goods. Evaluate the following two discounts in terms of the effect on the total number of customers and the average quality of goods sold.
+(a)	A 20% discount	(4 marks)
+(b)	A lump-sum discount of $100 for items priced over $500	(4 marks)
+
+Answers:
+(a)	Total number of customers increases when the price is lowered.	(2 marks)
+	Average quality of goods sold remains unchanged as the relative price between high-quality goods and low-quality goods remains unchanged.	(2 marks)
+(b)	Total number of customers increases as the price for items priced over $500 is lowered.	(2 marks)
+	Average quality of goods sold decreases as the relative price of low-quality goods in terms of high-quality goods decreases.	(2 marks)
+
+
+Question code: B1C03Q333 (new)
+Compared with local residents, tourists tend to consume higher priced wonton noodles (雲吞麵). Explain this phenomenon using the law of demand.	(5 marks)
+
+Answers:
+The law of demand states that the lower the price of a good, the greater its quantity demanded, other factors being constant.	(2 marks)
+The travelling cost of tourists is higher than those for local residents. Therefore, the relative price of higher priced wonton noodles (in terms of lower priced wonton noodles) is lower for tourists. Tourists tend to consume higher priced wonton noodles.	(3 marks)
+
+
+Structured Questions
+
+Question code: B1C03Q501
+The problem of obesity (癡肥) in Country U is serious. Many people suffer from illnesses due to their weight. As fast food is very popular in the country, many international fast food chains want to open branches there. Seeing fast food as the major cause of obesity, the government has imposed a fixed surcharge on each set of meals sold in fast food restaurants.
+(a)	What method does Country U use to tackle the basic economic problems? Explain.	(2 marks)
+(b)	Suppose a fast food restaurant sells a standard pizza and a large pizza (which is more expensive). How does the average size of pizzas sold at the restaurant change after the imposition of the fixed surcharge?	(6 marks)
+(c)	By the law of demand, explain how the surcharge helps alleviate the problem of obesity.	(4 marks)
+(d)	After a few years, people in Country U become more cautious about their diets and less interested in fast food. How does Country U's fast food market change?
+				(3 marks)
+
+Answers:
+(a)		The market mechanism has been used in the country since international fast food chains opened branches there to pursuit higher profit.	(2 marks)
+
+(b)	The price of a large pizza is higher than the price of a standard pizza.	(1 mark)
+	After the imposition of the fixed surcharge, the percentage increase in the price of the large pizza is smaller than the percentage increase in the price of a standard pizza.		(2 marks)
+	The relative price of a large pizza (in terms of standard pizzas) decreases.
+				(1 mark)
+	According to the law of demand, relatively more large pizzas are sold.	(1 mark)
+	Hence, the average size of pizzas sold in the restaurant increases.	(1 mark)
+
+(c)	The surcharge increases the price of fast food.	(1 mark)
+	According to the law of demand, the quantity demanded of fast food decreases when the price increases.	(2 marks)
+	Hence, since less fast food is consumed, the obesity problem will improve.
+				(1 mark)
+
+(d)	The event will decrease the demand for fast food. Both the market price and quantity transacted of fast food will decrease.	(3 marks)
+
+Question code: B1C03Q502
+Suppose there are two buyers and sellers in the market for Good Y. Their demand and supply schedules are shown below:
+
+Price
+($/unit)	Quantity demanded (units/period)	Quantity supplied (units/period)	
+	Mary	John	Tom	Kelly	
+1	50	70	50	30	
+2	45	65	55	35	
+3	40	60	58	42	
+4	35	55	65	45	
+
+(a)	Based on the above information, fill in the table below.	(4 marks)
+Price ($/unit)	Market quantity demanded
+(units/period)	Market quantity supplied
+(units/period)	
+1			
+2			
+3			
+4			
+(b)	Find the equilibrium price and quantity for Good Y. 	(2 marks)
+(c)	Will there be a shortage or a surplus when the market price is $4?	(2 marks)
+(d)	What is the law of demand? Are the data above consistent with the law?	(4 marks) 
+
+
+Answers: 
+(a)	
+Price ($/unit)	Market quantity demanded
+(units/period)	Market quantity supplied
+(units/period)	
+1	50 + 70 = 120	50 + 30 = 80	
+2	45 + 65 = 110	55 + 35 = 90	
+3	40 + 60 = 100	58 + 42 = 100	
+4	35 + 55 = 90	65 + 45 = 110	
+	(0.5 marks × 8 = 4 marks)
+
+(b)	The equilibrium price is $3 and the equilibrium quantity is 100 units.	(2 marks)
+
+(c)	When the market price is $4, it is higher than the equilibrium level. The quantity supplied will be greater than the quantity demanded, so there will be a surplus.
+					(2 marks)
+(d)	The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant. 	(2 marks)
+	The demand from both Mary and John as well as the market demand are consistent with the law.	(2 marks)
+
+Question code: B1C03Q503
+The following shows Ming's demand schedule for Good X.
+
+ Unit price ($)	50	100	150	200	250	
+ Quantity demanded (units)	300	300	300	300	300	
+
+(a)	Is Ming's demand schedule consistent with the law of demand? Explain.	 (4 marks)
+(b)	The following shows the demand schedules of the other three people.
+
+Unit price
+($)	Joan's quantity demanded (units)	Joe's quantity demanded (units)	Jane's quantity demanded (units)	
+50	375	330	450	
+100	300	195	270	
+150	270	135	240	
+200	180	45	195	
+250	90	15	135	
+	
+	(i)	Suppose the market consists of only four buyers: Ming, Joan, Joe and Jane. Draw a table showing the market demand schedule.	(4 marks)
+* (ii)	Based on your answers in parts (a) and (b)(i), must every person's individual demand satisfy the law of demand for the law of demand to hold for the market demand?	(4 marks)
+(c)	The following is an importing firm's supply schedule for Good X.
+
+ Unit price ($)	50	100	150	200	250	
+ Quantity supplied (units)	900	1,065	1,230	1,395	1,560	
+	
+	(i)	Explain if the importing firm's behaviour is consistent with the law of supply.		(4 marks)
+	(ii)	Suppose the firm is the only supplier of Good X. Find the equilibrium price and equilibrium quantity of Good X.	(2 marks)
+	(iii)	Suppose the firm sets the selling price at $150. Is there any excess demand or excess supply? Calculate the amount of excess demand or excess supply. What will be the direction of future price adjustments in order to clear the market?		(4 marks)
+
+Answers: 
+(a)	•	No. The law of demand states that the lower (higher) the price of a good, the greater (smaller) its quantity demanded, other factors being constant.	 	(2 marks)
+	•	But the data show that quantity demanded remains the same when the price increases (decreases).	 (2 marks)
+
+(b)	(i)
+ Unit price ($)	50	100	150	200	250	
+ Market quantity demanded (units)	1,455	1,065	945	720	540	
+	 (4 marks)
+(ii)	•	Although Ming's individual behaviour is not consistent with the law of demand, the market demand still follows the law of demand.	 (2 marks)
+	•	Therefore, all individual demands satisfying the law of demand are not necessary for the whole market demand to satisfy the law of demand.		 (2 marks)
+
+(c)	(i)	•	Yes. The law of supply states that the higher (lower) the price of a good, the greater (smaller) its quantity supplied, other factors being constant.		(2 marks)
+	•	The data show that when the price of the good increases, the quantity supplied increases.	(2 marks)
+
+	(ii)
+ Unit price ($)	50	100	150	200	250	
+ Quantity demanded (units)	1,455	1,065	945	720	540	
+ Quantity supplied (units)	900	1,065	1,230	1,395	1,560	
+	•	The equilibrium price is $100. 	(1 mark)
+	•	The equilibrium quantity is 1,065 units.	(1 mark)
+(iii)	•	At a price of $150, the quantity supplied (1,230 units) is greater than the quantity demanded (945 units); so there is excess supply.	(1 mark)
+	•	The amount of excess supply = Quantity supplied - Quantity demanded
+	= (1,230 - 945) units	(1 mark)
+	= 285 units	 (1 mark)
+•	To eliminate the excess supply, the market price must fall to reduce the quantity supplied and to increase the quantity demanded.	(1 mark)
+
+Question code: B1C03Q504
+The following shows Keung's monthly supply schedule of sneakers (運動鞋).
+
+ Unit price ($)   	500	600	700	800	900	
+ Quantity supplied (units) 	1,000	2,000	3,000	4,000	5,000	
+
+(a)	Is Keung's supply of sneakers consistent with the law of supply? Explain.			(4 marks)
+(b)	The following (table) shows the yearly supply schedules of sneakers for two other suppliers.
+
+Unit price 
+($)	Ling's quantity supplied
+(units)	Chin's quantity supplied
+(units)	
+500	500	1,000	
+600	1,000	2,000	
+700	1,500	3,000	
+800	2,000	4,000	
+900	3,000	5,000	
+
+	(i)	Among Keung, Ling and Chin, whose supply is the greatest?	(1 mark)
+	(ii)	Suppose there are only three producers: Keung, Ling and Chin in the market. Draw a table showing the market supply schedule in a year.	(4 marks)
+
+(c)	The following shows the market demand schedule for sneakers in a year. 
+
+Unit price ($)	500	600	700	800	900	
+Market quantity demanded (units)	68,000	54,000	40,500	27,000	13,500	
+	
+	(i)	Find the equilibrium price and quantity transacted of sneakers.	(2 marks)
+(ii)	Suppose the government sets the selling price of sneakers at $800. Is there any excess demand or excess supply? Calculate the amount of excess demand or excess supply.	(3 marks)
+(iii)	Suppose the government changes the selling price of sport shoes to $600. Is there any excess demand or excess supply? Calculate the amount of excess demand or excess supply.	(3 marks)
+
+Answers: 
+(a)	•	Yes. The law of supply states that the higher (lower) the price of a good, the greater (smaller) its quantity supplied, other factors being constant.	 (2 marks)
+	•	The data show that when the price of the good increases (decrease), the quantity supplied increases (decreases).	(2 marks)
+
+(b)	(i)	Keung's supply is the greatest. (Note: Keung's supply schedule is monthly; the supply schedules of Chin and Ling are yearly.)	(1 mark)
+	(ii)
+Unit price ($)	500	600	700	800	900	
+Market quantity supplied (units)	13,500	27,000	40,500	54,000	68,000	
+	(4 marks)
+
+(c)	(i)	•	The equilibrium price is $700.	(1 mark)
+	•	The quantity transacted is 40,500 units.	 (1 mark)
+(ii)
+Unit price ($)	500	600	700	800	900	
+Market quantity demanded (units)	68,000	54,000	40,500	27,000	13,500	
+Market quantity supplied (units)	13,500	27,000	40,500	54,000	68,000	
+	
+	•	At a price of $800, the quantity supplied (54,000 units) is greater than the quantity demanded (27,000 units); so there is excess supply.	 (1 mark)
+	•	The amount of excess supply = Quantity supplied - Quantity demanded
+= (54,000 - 27,000) units	(1 mark)
+	= 27,000 units	(1 mark)
+(iii)	•	At a price of $600, the quantity supplied (27,000 units) is smaller than the quantity demanded (54,000 units); so there is excess demand.	(1 mark)
+	•	The amount of excess demand = Quantity demanded - Quantity supplied
+	= (54,000 - 27,000) units	 (1 mark)
+	= 27,000 units	(1 mark)
+
+Question code: B1C03Q505
+It is popular for families in Country A to hire domestic helpers to do the housework. In general, there are two types of domestic helpers: foreign domestic helpers (外籍家庭傭工) and local domestic helpers (本地家務助理).  
+(a)	Define opportunity cost.	 (2 marks)
+(b)	Use the concept of opportunity cost to explain why some families hire domestic helpers to do the housework.	(4 marks)
+(c)	The following table shows the average prices (wages) of foreign domestic helpers and local domestic helpers in Country A: 
+
+Year	Average wages (per month)	
+	Local domestic helpers	Foreign domestic helpers	
+1999	$5,500	$5,000	
+2014	$3,000	$2,500	
+ 
+(i)	What were the changes in the nominal wage of local and foreign domestic helpers between 1999 and 2014?	(4 marks)
+(ii)	What was the change in the relative wages of local domestic helpers (in terms of foreign domestic helpers) between 1999 and 2014?	(3 marks)
+(d)	Suppose the government of Country A provided a fixed $100 cash subsidy (津貼) to families who hire domestic helpers, regardless of their nationality. The average wages of local and foreign domestic helpers become $2,900 and $2,400, respectively. Assuming that each family only employs one domestic helper, apply the law of demand to explain
+	(i)	the change in the quantity demanded of domestic helpers;	(2 marks)
+	(ii)	the ratio of local domestic helpers to foreign domestic helpers employed.		(3 marks)
+
+Answers: 
+(a)	Opportunity cost is the highest-valued option forgone.	(2 marks)
+(b)	•	The cost of family members doing the housework themselves includes the income forgone from being employed, while the cost of hiring domestic helpers to do the housework is the amount paid for domestic helpers.
+	 (2 marks)
+	•	If the cost of doing housework themselves (the amount of income forgone) is greater than the cost of hiring domestic helpers (the amount paid for the domestic helpers), these families may hire domestic helpers to do the housework.	(2 marks)
+
+(c)	(i)	•	Nominal wages are wages measured in terms of money. The nominal average wage of local domestic helpers decreased by $2,500 (= $5,500 － $3,000) between 1999 and 2014.	(2 marks)
+		•	The nominal wages of foreign domestic helpers decreased by $2,500 (= $5,000 － $2,500) between 1999 and 2014.	(2 marks)
+	(ii)	•	Relative wage is the wage of a worker expressed in terms of another worker.	(1 mark)
+		•	The relative wage of local domestic helpers (in terms of foreign domestic helpers) increased from 1.1 (= $5,500 / $5,000) in 1999 to 1.2 (= $3,000 / $2,500) in 2014.	(2 marks)
+
+(d)	(i)	From the viewpoint of the households, the cash subsidy lowers the wage of domestic helpers, thus according to the law of demand, the quantity demanded of domestic helpers increases, holding other factors constant.	(2 marks)
+	(ii)	•	After providing a cash subsidy, the relative wage of local domestic helpers in terms of foreign domestic helpers increases from 1.2 to 1.21.	(1 mark)
+		•	Since the relative price of local domestic helpers increases, households will hire relatively less local domestic helpers.	(1 mark)
+		•	Therefore, the ratio of local domestic helpers to foreign domestic helpers employed decreases.	(1 mark)
+		OR
+		•	After providing a cash subsidy, the relative wage of foreign domestic helpers in terms of local domestic helpers decreases from 0.833 to 0.828.
+				 (1 mark)
+		•	Since the relative price of foreign domestic helpers decreases, households will hire relatively more foreign domestic helpers.	(1 mark)
+		•	Therefore, the ratio of local domestic helpers to foreign domestic helpers employed decreases.	(1 mark)
