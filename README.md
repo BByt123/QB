@@ -12,7 +12,7 @@ Install Node.js 20 or later, then run:
 npm run dev
 ```
 
-Open the URL printed by the development server. `npm run check` checks JavaScript syntax and `npm test` runs the question-bank and feature tests. No package installation or build is needed to use the app.
+The development server builds the static site into `dist/` first, then serves that same folder used by GitHub Pages. The root URL opens the Biology/Economics navigation hub; the workspaces are at `/biology/` and `/economics/`. `npm run check` checks JavaScript syntax and `npm test` runs the question-bank and feature tests.
 
 ## Publish on GitHub Pages
 
