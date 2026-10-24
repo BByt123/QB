@@ -16,7 +16,7 @@
     "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
     "test:browser": "node tests/browser.mjs && node tests/workspace-browser.mjs && node tests/publisher-browser.mjs && node tests/economics-browser.mjs",
-    "check": "node --check app.mjs && node --check economics-app.mjs && node --check hub.mjs && node --check lib.mjs && node --check rendering.mjs && node --check word-preview.mjs && node --check exports.mjs && node --check preferences.mjs && node --check taxonomy.mjs && node --check scripts/dev.mjs && node --check scripts/index-bank.mjs && node --check scripts/import-oxford.mjs && node --check scripts/index-oxford.mjs && node --check scripts/oxford-questions.mjs && node --check scripts/prepare-oxford-word.mjs && node --check scripts/convert-legacy-docs.mjs && node --check scripts/import-economics.mjs"
+    "check": "node --check app.mjs && node --check economics-app.mjs && node --check hub.mjs && node --check lib.mjs && node --check rendering.mjs && node --check word-preview.mjs && node --check exports.mjs && node --check preferences.mjs && node --check taxonomy.mjs && node --check scripts/dev.mjs && node --check scripts/build.mjs && node --check scripts/index-bank.mjs && node --check scripts/import-oxford.mjs && node --check scripts/index-oxford.mjs && node --check scripts/oxford-questions.mjs && node --check scripts/prepare-oxford-word.mjs && node --check scripts/convert-legacy-docs.mjs && node --check scripts/import-economics.mjs"
   },
   "engines": { "node": ">=20" }
 }

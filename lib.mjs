@@ -1,5 +1,84 @@
 export const TYPES = {MC:'Multiple choice',SQ:'Short question',LQ:'Long question',Essay:'Essay'};
 export const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+const COOKIE_CHUNK_SIZE=1000,COOKIE_MAX_CHUNKS=32,COOKIE_MAX_AGE=60*60*24*365;
+function cookiePath(){
+ if(typeof location==='undefined')return '/';
+ if(location.hostname.endsWith('github.io')){
+  const segment=location.pathname.split('/').filter(Boolean)[0];
+  return segment?`/${segment}/`:'/';
+ }
+ return '/';
+}
+function cookieName(key){return `dse-${String(key).replace(/[^a-zA-Z0-9_-]/g,'_')}`;}
+function readCookie(name){
+ if(typeof document==='undefined')return null;
+ const prefix=`${name}=`;
+ for(const part of document.cookie.split(';')){
+  const value=part.trim();
+  if(value.startsWith(prefix)){
+   try{return decodeURIComponent(value.slice(prefix.length));}catch{return null;}
+  }
+ }
+ return null;
+}
+function writeCookie(name,value){
+ if(typeof document==='undefined')return false;
+ try{
+  document.cookie=`${name}=${encodeURIComponent(value)}; Max-Age=${COOKIE_MAX_AGE}; Path=${cookiePath()}; SameSite=Lax${location.protocol==='https:'?'; Secure':''}`;
+  return readCookie(name)!==null;
+ }catch{return false;}
+}
+function removeCookie(name){
+ if(typeof document==='undefined')return;
+ try{document.cookie=`${name}=; Max-Age=0; Path=${cookiePath()}; SameSite=Lax${location.protocol==='https:'?'; Secure':''}`;}catch{}
+}
+function readCookieValue(key){
+ const base=cookieName(key),count=Number(readCookie(`${base}.count`));
+ if(!Number.isInteger(count)||count<1||count>COOKIE_MAX_CHUNKS)return null;
+ let value='';
+ for(let index=0;index<count;index++){
+  const chunk=readCookie(`${base}.${index}`);
+  if(chunk===null)return null;
+  value+=chunk;
+ }
+ return value;
+}
+function writeCookieValue(key,value){
+ const base=cookieName(key),chunks=[];
+ for(let offset=0;offset<value.length;offset+=COOKIE_CHUNK_SIZE)chunks.push(value.slice(offset,offset+COOKIE_CHUNK_SIZE));
+ if(!chunks.length||chunks.length>COOKIE_MAX_CHUNKS)return false;
+ const previous=Number(readCookie(`${base}.count`));
+ let written=true;
+ chunks.forEach((chunk,index)=>{written=writeCookie(`${base}.${index}`,chunk)&&written;});
+ for(let index=chunks.length;index<(Number.isInteger(previous)?previous:0);index++)removeCookie(`${base}.${index}`);
+ written=writeCookie(`${base}.count`,String(chunks.length))&&written;
+ return written;
+}
+function removeCookieValue(key){
+ const base=cookieName(key),count=Number(readCookie(`${base}.count`));
+ if(Number.isInteger(count))for(let index=0;index<count;index++)removeCookie(`${base}.${index}`);
+ removeCookie(`${base}.count`);
+}
+export function readStored(key){
+ let local=null;
+ try{local=window.localStorage.getItem(key);}catch{}
+ if(local!==null)return local;
+ const cookie=readCookieValue(key);
+ if(cookie!==null){try{window.localStorage.setItem(key,cookie);}catch{}return cookie;}
+ return null;
+}
+export function writeStored(key,value){
+ const serialized=String(value);
+ let stored=false;
+ try{window.localStorage.setItem(key,serialized);stored=true;}catch{}
+ if(writeCookieValue(key,serialized))stored=true;
+ return stored;
+}
+export function removeStored(key){
+ try{window.localStorage.removeItem(key);}catch{}
+ removeCookieValue(key);
+}
 export function filterQuestions(questions, {search='',topic='',type='',publisher='',savedOnly=false,bookmarks=[],collectionIds=null,overrides={}}={}) {
  const terms=search.toLocaleLowerCase().trim().split(/\s+/).filter(Boolean);
  const saved=new Set(bookmarks);

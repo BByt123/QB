@@ -75,6 +75,21 @@ try {
   await page.setViewportSize({width: 375, height: 844});
   assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
   assert.ok(await page.locator('#document-content').evaluate(element => element.scrollWidth <= element.clientWidth + 1));
+  const privateContext = await browser.newContext({viewport: {width: 1440, height: 1000}});
+  await privateContext.addInitScript(() => {
+    Object.defineProperty(window, 'localStorage', {get() { throw new DOMException('Unavailable', 'SecurityError'); }});
+    Object.defineProperty(window, 'sessionStorage', {get() { throw new DOMException('Unavailable', 'SecurityError'); }});
+  });
+  const privatePage = await privateContext.newPage();
+  await privatePage.goto(origin + 'economics/#library');
+  await privatePage.locator('.question-card').first().waitFor();
+  await privatePage.locator('.bookmark').first().click();
+  assert.equal(await privatePage.locator('#saved-metric').textContent(), '1');
+  assert.ok(await privatePage.evaluate(() => document.cookie.includes('dse-economics-bank-v1.')));
+  await privatePage.reload();
+  await privatePage.locator('.question-card').first().waitFor();
+  assert.equal(await privatePage.locator('#saved-metric').textContent(), '1', 'Economics cookie data survives reload');
+  await privateContext.close();
   assert.deepEqual(errors, []);
   console.log('Economics browser checks passed: hub, topic/type filters, quizzes, saved questions, DOCX/DOC/PDF downloads and mobile layout.');
 } finally {

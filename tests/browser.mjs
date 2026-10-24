@@ -184,6 +184,9 @@ try {
  await privatePage.goto(origin+'#library');await privatePage.locator('.question-card').first().waitFor();
  await privatePage.locator('.bookmark').first().click();
  assert.equal(await privatePage.locator('#saved-metric').textContent(),'1','Library works when storage is unavailable');
+ assert.ok(await privatePage.evaluate(()=>document.cookie.includes('dse-biology-bank-v1.')),'Personal data is mirrored to cookies');
+ await privatePage.reload();await privatePage.locator('.question-card').first().waitFor();
+ assert.equal(await privatePage.locator('#saved-metric').textContent(),'1','Cookie data survives reload when storage is unavailable');
  await privateContext.close();
  assert.deepEqual(errors,[],'No runtime errors or missing assets');
  console.log('Browser workflows passed: filters, context images, bookmarks, categories, collections, persistence, quiz, backups, PDF/DOCX exports and responsive layouts.');

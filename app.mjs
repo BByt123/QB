@@ -1,4 +1,4 @@
-import {TYPES,escapeHtml as e,filterQuestions,sampleQuestions,scoreQuiz,validateBackup,restoreQuiz} from './lib.mjs';
+import {TYPES,escapeHtml as e,filterQuestions,sampleQuestions,scoreQuiz,validateBackup,restoreQuiz,readStored,writeStored,removeStored} from './lib.mjs';
 import {renderQuestion,sourcePage,sourcePageCount} from './rendering.mjs';
 import {exportPaper,exportSourcePdf,downloadBlob,chooseSaveLocation} from './exports.mjs';
 import {CHAPTERS,canonicalTopic,topicLabel,topicOrder} from './taxonomy.mjs';
@@ -21,13 +21,16 @@ let sourceFilters={search:'',topic:'',publisher:''};
 let toastTimer,searchTimer;
 let paperTitle='Biology practice paper',paperAnswers=false;
 let askSaveLocation=false;
-try{paperTitle=sessionStorage.getItem('biology-paper-title') || paperTitle;}catch{}
-try{askSaveLocation=typeof window.showSaveFilePicker==='function' && localStorage.getItem('biology-ask-save-location')==='true';}catch{}
+try{paperTitle=readStored('biology-paper-title') || paperTitle;}catch{}
+try{askSaveLocation=typeof window.showSaveFilePicker==='function' && readStored('biology-ask-save-location')==='true';}catch{}
 const effective=q=>{const result={...q,...Object.fromEntries(Object.entries(personal.overrides[q.id] || {}).filter(([,v])=>v))};result.topic=canonicalTopic(result.topic);return result;};
 const icons=()=>{window.lucide?.createIcons();localize();};
 function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').classList.remove('visible'),4500);}
-function save(){try{localStorage.setItem(STORAGE,JSON.stringify({...personal,selected:[...selected]}));}catch{toast('Browser storage is full or unavailable. Export a backup to keep your changes.');}}
-function saveQuiz(){try{if(quiz)localStorage.setItem(QUIZ_STORAGE,JSON.stringify(quiz));else localStorage.removeItem(QUIZ_STORAGE);}catch{toast('Quiz progress could not be saved in this browser.');}}
+function save(){if(!writeStored(STORAGE,JSON.stringify({...personal,selected:[...selected]})))toast('Browser storage is full or unavailable. Export a backup to keep your changes.');}
+function saveQuiz(){
+ if(quiz){if(!writeStored(QUIZ_STORAGE,JSON.stringify(quiz)))toast('Quiz progress could not be saved in this browser.');}
+ else removeStored(QUIZ_STORAGE);
+}
 function getFiltered(){
  const collection=personal.collections.find(c=>c.id===collectionId);
  const items=filterQuestions(bank.questions,{...filters,topic:'',savedOnly:view==='saved',bookmarks:personal.bookmarks,collectionIds:view==='collection'?(collection?.ids || []):null,overrides:personal.overrides}).filter(q=>!filters.topic || effective(q).topic===filters.topic);
@@ -51,7 +54,7 @@ function navButton(id,label,name,count,extra=''){return `<button class="nav-item
 function shell(){
  $('#app').innerHTML=`<div class="sidebar-backdrop" data-action="close-nav"></div><aside class="sidebar" aria-label="Main navigation">
   <a class="brand" href="#home"><span class="brand-symbol">${icon('sprout')}</span><span>Biology Bank<small>DSE Study Library</small></span></a>
-  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology</div>
+  <div class="subject-label"><span class="status-dot"></span> HKDSE Biology</div><a class="subject-switch" href="../" title="${e(translate('Switch subject'))}">${icon('arrow-left-right')}<span>${e(translate('Switch subject'))}</span></a>
   <div class="nav-label">WORKSPACE</div><nav>${navButton('home','Home','house')}${navButton('library','Question library','library',bank.questions.length)}${navButton('quiz','Practice quizzes','notebook-pen')}${navButton('saved','Saved questions','bookmark',personal.bookmarks.length)}${navButton('sources','Source documents','files',bank.sources.length)}</nav>
   <div class="nav-label collection-label">COLLECTIONS ${iconButton('new-collection','plus','New collection')}</div><div id="collection-nav">${personal.collections.length?personal.collections.map(c=>`<button class="nav-item ${view==='collection' && collectionId===c.id?'active':''}" data-action="open-collection" data-id="${e(c.id)}">${icon('folder')}<span>${e(c.name)}</span><span class="nav-count">${c.ids.length}</span></button>`).join(''):'<p class="sidebar-empty">No collections yet</p>'}</div>
   <div class="sidebar-bottom"><div class="library-status">${icon('hard-drive')}<span>Saved on this device</span></div>${navButton('settings','Settings & backup','settings-2')}</div>
@@ -387,7 +390,7 @@ document.addEventListener('input',event=>{
  const target=event.target;
  if(target.id==='search'){filters.search=target.value;page=1;clearTimeout(searchTimer);searchTimer=setTimeout(renderResults,120);}
  else if(target.id==='source-search'){sourceFilters.search=target.value;renderSourceResults(target.value);}
- else if(target.id==='paper-title'){paperTitle=target.value;try{sessionStorage.setItem('biology-paper-title',target.value);}catch{}}
+ else if(target.id==='paper-title'){paperTitle=target.value;writeStored('biology-paper-title',target.value);}
   else if(target.id==='written-answer' && quiz && !quiz.finished){quiz.responses[quizQuestions()[quiz.current].id]=target.value;saveQuiz();updateAnswered();if(quiz.mode==='exercise')showQuizFeedback();}
   else if(target.id==='written-mark' && quiz){const id=quizQuestions()[quiz.current]?.id;if(id){quiz.marks=quiz.marks||{};if(target.value==='')delete quiz.marks[id];else quiz.marks[id]=Number(target.value);saveQuiz();}}
 });
@@ -398,7 +401,7 @@ document.addEventListener('change',async event=>{
  else if(target.id==='document-page'){const value=Number(target.value);if(Number.isFinite(value)){documentState.page=Math.trunc(value);renderDocumentPage();}}
  else if(['source-topic','source-publisher'].includes(target.id)){sourceFilters[target.id==='source-topic'?'topic':'publisher']=target.value;renderSourceResults(sourceFilters.search);}
  else if(target.id==='include-answers')paperAnswers=target.checked;
- else if(target.id==='ask-save-location'){askSaveLocation=target.checked;try{localStorage.setItem('biology-ask-save-location',String(askSaveLocation));}catch{}}
+ else if(target.id==='ask-save-location'){askSaveLocation=target.checked;writeStored('biology-ask-save-location',String(askSaveLocation));}
  else if(['topic-filter','publisher-filter','sort'].includes(target.id)){filters[{'topic-filter':'topic','publisher-filter':'publisher',sort:'sort'}[target.id]]=target.value;page=1;renderResults();}
  else if(target.dataset.select){target.checked?selected.add(target.dataset.select):selected.delete(target.dataset.select);save();renderPaper();renderResults();}
  else if(target.id==='select-page'){getFiltered().slice((page-1)*12,page*12).forEach(q=>target.checked?selected.add(q.id):selected.delete(q.id));save();renderPaper();renderResults();}
@@ -445,8 +448,8 @@ async function start(){
   bank.questions.forEach(q=>{q.sourceTopic=q.topic;q.topic=canonicalTopic(q.topic);});bank.sources.forEach(s=>{if(s.publisher!=='Oxford')s.topic=canonicalTopic(s.topic);});
   bank.topics=CHAPTERS.map(c=>c.topic);
   questionsById=new Map(bank.questions.map(q=>[q.id,q]));sourcesById=new Map(bank.sources.map(s=>[s.id,s]));
-  try{const raw=JSON.parse(localStorage.getItem(STORAGE));if(raw){personal=validateBackup(raw,questionsById.keys());selected=new Set((Array.isArray(raw.selected)?raw.selected:[]).filter(id=>questionsById.has(id)));}}catch(error){console.warn('Personal library could not be restored',error);}
-  try{quiz=restoreQuiz(JSON.parse(localStorage.getItem(QUIZ_STORAGE)),questionsById.keys());}catch{}
+  try{const raw=JSON.parse(readStored(STORAGE));if(raw){personal=validateBackup(raw,questionsById.keys());selected=new Set((Array.isArray(raw.selected)?raw.selected:[]).filter(id=>questionsById.has(id)));}}catch(error){console.warn('Personal library could not be restored',error);}
+  try{quiz=restoreQuiz(JSON.parse(readStored(QUIZ_STORAGE)),questionsById.keys());}catch{}
   route();updateTimer();
  }catch(error){console.error(error);$('#app').innerHTML=`<main class="startup"><span class="brand-symbol">${icon('sprout')}</span><h1>The library could not be loaded</h1><p>Check your connection and reload the page.</p><button class="button primary" onclick="location.reload()">Reload library</button></main>`;icons();}
 }

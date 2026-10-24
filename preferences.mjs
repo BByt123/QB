@@ -1,7 +1,9 @@
+import {readStored,writeStored} from './lib.mjs';
+
 const dictionary={
  'Read complete book':'閱讀完整題庫','Download full DOCX with images':'下載含圖片的完整 DOCX','View complete illustrated book':'查看含圖片的完整題庫','Illustrated full book':'含圖片的完整題庫',
  'Home':'首頁','Workspace':'工作區','Biology Bank':'生物題庫','DSE Study Library':'DSE 學習題庫','HKDSE Biology':'香港中學文憑試生物科',
- 'Question library':'題目庫','Your biology question bank':'題目庫','Saved questions':'已儲存題目','Practice quizzes':'練習測驗','Source documents':'原始文件','Settings':'設定','Settings & backup':'設定與備份','Collections':'收藏集','Collection':'收藏集','New collection':'新增收藏集','No collections yet':'尚未有收藏集','Library ready':'題庫已就緒','Saved on this device':'已儲存於此裝置','Open navigation':'開啟導覽','Close dialog':'關閉視窗','Main navigation':'主要導覽','Skip to content':'跳至主要內容',
+ 'Question library':'題目庫','Your biology question bank':'題目庫','Saved questions':'已儲存題目','Practice quizzes':'練習測驗','Source documents':'原始文件','Settings':'設定','Settings & backup':'設定與備份','Collections':'收藏集','Collection':'收藏集','New collection':'新增收藏集','No collections yet':'尚未有收藏集','Library ready':'題庫已就緒','Saved on this device':'已儲存於此裝置','Switch subject':'切換科目','Open navigation':'開啟導覽','Close dialog':'關閉視窗','Main navigation':'主要導覽','Skip to content':'跳至主要內容',
  'Language':'語言','Appearance':'外觀','Light':'淺色','Dark':'深色','System':'跟隨系統','Display preferences':'顯示偏好','English':'English','Traditional Chinese':'繁體中文','Question text stays in its original language.':'題目內容保留原有語言。',
  'Your study workspace':'學習工作區','Home hub':'首頁導覽','Study tools':'學習工具','Browse questions':'瀏覽題目','Create a quiz':'建立測驗','Open saved questions':'開啟已儲存題目','Open documents':'開啟文件','Questions':'題目','Files':'文件','Oxford chapters':'牛津章節','Core':'必修部分','Electives':'選修部分','All topics':'所有主題','All chapters':'所有章節','Choose chapters':'選擇章節','Apply chapters':'套用章節','Clear selection':'清除選擇','Selected chapters':'已選章節','Topic':'主題','Publisher':'出版社','All publishers':'所有出版社','Oxford chapter order':'牛津章節次序','Your question paper':'自訂試卷','Recent documents':'文件','View all':'檢視全部','Continue quiz':'繼續測驗','Open library':'開啟題目庫','Browse Oxford':'瀏覽牛津題庫','Oxford question banks':'牛津題庫','Question Library':'題目庫','Saved Questions':'已儲存題目','Quiz':'測驗','Documents':'文件','Question papers':'自訂試卷','PDF & Word':'PDF 與 Word',
  'THE STUDY LIBRARY':'題目庫','WORKSPACE':'工作區','COLLECTIONS':'收藏集','YOUR WORKSPACE':'個人工作區','FROM YOUR BOOKSHELF':'原始文件','MAKE TIME FOR PRACTICE':'練習測驗','One library. A more focused way to practise.':'','Questions worth coming back to.':'','Your questions, brought together.':'','A little progress, every day.':'','Your study, your order':'',
@@ -36,7 +38,7 @@ Object.assign(dictionary,{
 });
 export let language='en';
 export let theme='system';
-try{language=localStorage.getItem('biology-language')==='zh'?'zh':'en';const saved=localStorage.getItem('biology-theme');if(['light','dark','system'].includes(saved))theme=saved;}catch{}
+try{language=readStored('biology-language')==='zh'?'zh':'en';const saved=readStored('biology-theme');if(['light','dark','system'].includes(saved))theme=saved;}catch{}
 export function translate(text){
  if(language!=='zh')return text;
  const trimmed=text.trim();
@@ -77,12 +79,12 @@ export function localize(root=document.body){
   }attributes.set(element,record);
  }
 }
-export function setLanguage(value){language=value==='zh'?'zh':'en';try{localStorage.setItem('biology-language',language);}catch{}}
+export function setLanguage(value){language=value==='zh'?'zh':'en';writeStored('biology-language',language);}
 export function applyTheme(value=theme){
  theme=['light','dark','system'].includes(value)?value:'system';
  document.documentElement.dataset.theme=theme==='system'?(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'):theme;
  document.documentElement.style.colorScheme=document.documentElement.dataset.theme;
- try{localStorage.setItem('biology-theme',theme);}catch{}
+ writeStored('biology-theme',theme);
 }
 applyTheme();
 matchMedia('(prefers-color-scheme:dark)').addEventListener('change',()=>{if(theme==='system')applyTheme();});
