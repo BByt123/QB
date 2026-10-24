@@ -24,7 +24,8 @@ export function restoreQuiz(raw, validIds) {
  const known=new Set(validIds);
  if(!raw || !Array.isArray(raw.ids) || !raw.ids.length || raw.ids.length>50 || !raw.ids.every(id=>known.has(id)) || !raw.responses || typeof raw.responses!=='object') return null;
  const ids=[...new Set(raw.ids)];
- return {ids,responses:Object.fromEntries(ids.filter(id=>typeof raw.responses[id]==='string').map(id=>[id,raw.responses[id].slice(0,50000)])),current:Math.max(0,Math.min(Number.isInteger(raw.current)?raw.current:0,ids.length-1)),started:typeof raw.started==='string'?raw.started:new Date().toISOString(),deadline:Number.isFinite(raw.deadline)?raw.deadline:null,finished:raw.finished===true,finishedAt:typeof raw.finishedAt==='string'?raw.finishedAt:null};
+ const marks=Object.fromEntries(ids.filter(id=>Number.isFinite(Number(raw.marks?.[id]))).map(id=>[id,Math.max(0,Number(raw.marks[id]))]));
+ return {ids,responses:Object.fromEntries(ids.filter(id=>typeof raw.responses[id]==='string').map(id=>[id,raw.responses[id].slice(0,50000)])),marks,current:Math.max(0,Math.min(Number.isInteger(raw.current)?raw.current:0,ids.length-1)),mode:raw.mode==='exercise'?'exercise':'exam',started:typeof raw.started==='string'?raw.started:new Date().toISOString(),deadline:Number.isFinite(raw.deadline)?raw.deadline:null,finished:raw.finished===true,finishedAt:typeof raw.finishedAt==='string'?raw.finishedAt:null};
 }
 export function validateBackup(data,validIds) {
  if(data?.version!==1 || !Array.isArray(data.bookmarks) || !Array.isArray(data.collections) || typeof data.overrides!=='object' || !data.overrides) throw new Error('This is not a valid Biology Bank backup.');

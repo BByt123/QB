@@ -29,19 +29,22 @@ const questionType=section=>/multiple choice/i.test(section)?'MC':/short questio
 const clean=value=>String(value || '').replace(/\r/g,'').replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f]/g,'').trim();
 function parseQuestions(text,sourceId){
  const matches=[...text.matchAll(/Question code:\s*(B\d+C\d+Q\d+[^\r\n]*)/gi)];
+ const headings=[...text.matchAll(/Multiple Choice Questions|Short Questions|Structured Questions/gi)];
+ const codeUses=new Map();
  const questions=[];
  for(let index=0;index<matches.length;index++){
   const match=matches[index],rawCode=match[1].trim(),code=rawCode.replace(/\s+\(.+?\)$/,'');
   const start=match.index+match[0].length,end=matches[index+1]?.index ?? text.length;
   const block=clean(text.slice(start,end));
-  const heading=text.slice(Math.max(0,(match.index || 0)-500),match.index).match(/(Multiple Choice Questions|Short Questions|Structured Questions)/gi)?.at(-1) || 'Structured Questions';
+  const heading=headings.filter(item=>item.index < match.index).at(-1)?.[0] || 'Structured Questions';
   const type=questionType(heading);
   const answerMatch=type==='MC'?block.match(/(?:^|\n)Answer:\s*([A-D])\b/i):block.match(/(?:^|\n)Answers?:\s*([\s\S]*)/i);
   const answer=type==='MC'?(answerMatch?.[1] || ''):'';
   const questionText=clean((type==='MC'?block.split(/(?:^|\n)Answer:\s*[A-D]\b/i)[0]:block.split(/(?:^|\n)Answers?:/i)[0]).replace(/\n{3,}/g,'\n\n'));
   const answerText=type==='MC'?'':clean(answerMatch?.[1] || '');
   if(!questionText)continue;
-  questions.push({id:`${sourceId}-${code}`,code,sourceId,publisher:'Pearson',topic:sourceTopic(sourceMetaById.get(sourceId)),type,text:questionText,answer,answerText,marks:[...questionText.matchAll(/\((\d+)\s*marks?/gi)].reduce((sum,item)=>sum+Number(item[1]),0) || null,segments:[],answerSegments:[]});
+  const occurrence=(codeUses.get(code) || 0)+1;codeUses.set(code,occurrence);
+  questions.push({id:`${sourceId}-${code}${occurrence>1?`-${occurrence}`:''}`,code,sourceId,publisher:'Pearson',topic:sourceTopic(sourceMetaById.get(sourceId)),type,text:questionText,answer,answerText,marks:[...questionText.matchAll(/\((\d+)\s*marks?/gi)].reduce((sum,item)=>sum+Number(item[1]),0) || null,segments:[],answerSegments:[]});
  }
  return questions;
 }
