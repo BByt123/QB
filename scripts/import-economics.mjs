@@ -41,7 +41,7 @@ function parseQuestions(text,sourceId){
   const answerMatch=type==='MC'?block.match(/(?:^|\n)Answer:\s*([A-D])\b/i):block.match(/(?:^|\n)Answers?:\s*([\s\S]*)/i);
   const answer=type==='MC'?(answerMatch?.[1] || ''):'';
   const questionText=clean((type==='MC'?block.split(/(?:^|\n)Answer:\s*[A-D]\b/i)[0]:block.split(/(?:^|\n)Answers?:/i)[0]).replace(/\n{3,}/g,'\n\n'));
-  const answerText=type==='MC'?'':clean(answerMatch?.[1] || '');
+  const answerText=type==='MC'?clean(block.match(/(?:^|\n)Explanation\s*([\s\S]*)/i)?.[1] || ''):clean(answerMatch?.[1] || '');
   if(!questionText)continue;
   const occurrence=(codeUses.get(code) || 0)+1;codeUses.set(code,occurrence);
   questions.push({id:`${sourceId}-${code}${occurrence>1?`-${occurrence}`:''}`,code,sourceId,publisher:'Pearson',topic:sourceTopic(sourceMetaById.get(sourceId)),type,text:questionText,answer,answerText,marks:[...questionText.matchAll(/\((\d+)\s*marks?/gi)].reduce((sum,item)=>sum+Number(item[1]),0) || null,segments:[],answerSegments:[]});
