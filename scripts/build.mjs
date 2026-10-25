@@ -8,9 +8,9 @@ const common=['styles.css','lib.mjs','rendering.mjs','word-preview.mjs','exports
 await cp('hub.html',path.join(destination,'index.html'));
 await cp('hub.mjs',path.join(destination,'hub.mjs'));
 for(const entry of ['styles.css','lib.mjs','preferences.mjs','assets','vendor'])await cp(entry,path.join(destination,entry),{recursive:true});
-const subjectRedirect=(target,title)=>`<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0; url=${target}"><title>${title}</title></head><body><p>Opening ${title}...</p><script>location.replace('${target}'+location.search+location.hash);</script></body></html>`;
-await writeFile(path.join(destination,'biology-index.html'),subjectRedirect('biology/','Biology Bank'));
-await writeFile(path.join(destination,'economics.html'),subjectRedirect('economics/','Economics Bank'));
+const subjectPage=(bundle,title,description)=>`<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="${description}"><title>${title}</title><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><script defer src="vendor/lucide.js"></script><script defer src="vendor/pdf-lib.js"></script><script defer src="vendor/docx.js"></script><script type="module" src="${bundle}"></script></head><body><a href="#main" class="skip-link">Skip to content</a><div id="app"><div class="startup"><span class="brand-symbol">${title[0]}</span><h1>${title}</h1><p>Loading your question library...</p></div></div><dialog id="dialog" aria-labelledby="dialog-title"></dialog><div id="toast" role="status" aria-live="polite"></div></body></html>`;
+await writeFile(path.join(destination,'biology-index.html'),subjectPage('biology/app.mjs','Biology Bank','HKDSE Biology question library, practice quizzes and custom exam papers.'));
+await writeFile(path.join(destination,'economics.html'),subjectPage('economics/app.mjs','Economics Bank','HKDSE Economics question library, practice quizzes and source documents.'));
 const biology=path.join(destination,'biology'),economics=path.join(destination,'economics');
 await mkdir(biology,{recursive:true});await mkdir(economics,{recursive:true});
 await cp('biology-index.html',path.join(biology,'index.html'));
