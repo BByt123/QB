@@ -277,7 +277,8 @@ function recordQuizHistory(status='completed'){
 }
 function addQuizLeaveButtons(){
  if(!quiz || quiz.finished)return;
- $('.page-heading')?.insertAdjacentHTML('beforeend',`<button class="button secondary" data-action="leave-quiz">${icon('log-out')}Leave & save</button>`);
+ const actions=$('.heading-actions') || $('.page-heading');
+ actions?.insertAdjacentHTML('beforeend',`<button class="button secondary" data-action="leave-quiz">${icon('log-out')}Leave & save</button>`);
  $('.quiz-navigation')?.insertAdjacentHTML('beforeend',`<button class="text-button" data-action="leave-quiz">${icon('log-out')}Leave & save</button>`);
  icons();
 }
