@@ -90,6 +90,7 @@ try {
  }
  await action('clear-filters').click();
  await action('quiz-config').click();
+ assert.equal(await page.locator('[data-form="quiz"] [name="type"]').inputValue(),'MC');
  await page.locator('#quiz-publisher').selectOption('Aristo');
  await page.locator('[data-form="quiz"] [name="type"]').selectOption('MC');
  await page.locator('[data-form="quiz"] [name="count"]').fill('3');

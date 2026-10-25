@@ -113,7 +113,18 @@ export function validateBackup(data,validIds) {
  const names=new Set();
  const collections=data.collections.filter(c=>c && typeof c.id==='string' && typeof c.name==='string' && c.name.trim()).map(c=>({id:c.id.slice(0,100),name:c.name.trim().slice(0,80),ids:ids(c.ids)})).filter(c=>!names.has(c.id) && names.add(c.id));
  const overrides=Object.fromEntries(Object.entries(data.overrides).filter(([id,o])=>known.has(id) && o && typeof o==='object').map(([id,o])=>[id,{topic:typeof o.topic==='string'?o.topic.slice(0,120):'',type:Object.hasOwn(TYPES,o.type)?o.type:'',tags:typeof o.tags==='string'?o.tags.slice(0,300):''}]));
- return {version:1,bookmarks:ids(data.bookmarks),collections,overrides,history:Array.isArray(data.history)?data.history.filter(h=>h && typeof h.date==='string' && Number.isFinite(h.count) && Number.isFinite(h.correct) && Number.isFinite(h.total)).slice(0,50):[]};
+ const history=Array.isArray(data.history)?data.history.filter(h=>h && typeof h.date==='string' && Number.isFinite(h.count) && Number.isFinite(h.correct) && Number.isFinite(h.total)).slice(0,50).map((h,index)=>({
+  id:typeof h.id==='string' && h.id.trim()?h.id.slice(0,120):`history-${h.date}-${index}`,
+  date:h.date,
+  started:typeof h.started==='string'?h.started:h.date,
+  count:Math.max(0,Math.floor(h.count)),
+  answered:Number.isFinite(h.answered)?Math.max(0,Math.floor(h.answered)):Math.max(0,Math.floor(h.correct)),
+  correct:Math.max(0,Math.floor(h.correct)),
+  total:Math.max(0,Math.floor(h.total)),
+  mode:h.mode==='exercise'?'exercise':'exam',
+  status:h.status==='left'?'left':'completed'
+ })):[];
+ return {version:1,bookmarks:ids(data.bookmarks),collections,overrides,history};
 }
 export function safeFilename(value) { return String(value).replace(/[<>:"/\\|?*\x00-\x1f]/g,'').trim().replace(/[. ]+$/,'').slice(0,100) || 'biology-question-bank'; }
 export function pageSlices(start,end,pages) {

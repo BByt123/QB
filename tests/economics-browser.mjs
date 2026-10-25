@@ -42,6 +42,7 @@ try {
   await page.locator('#topic-filter').selectOption('');
 
   await action('quiz-config').click();
+  assert.equal(await page.locator('[data-form="quiz"] [name="type"]').inputValue(), 'MC');
   assert.match(await page.locator('.quiz-topic-list label').first().textContent(), /^B1 · Ch101 ·/);
   await page.locator('[data-form="quiz"] [name="type"]').selectOption('MC');
   await page.locator('[data-form="quiz"] [name="count"]').fill('2');
