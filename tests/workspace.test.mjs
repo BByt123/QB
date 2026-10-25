@@ -9,6 +9,9 @@ test('root-published subject paths have GitHub Pages fallback entrypoints',()=>{
   assert.match(entry,/http-equiv="refresh"/);
   assert.match(entry,new RegExp(`\\.\\./${target}`),folder);
  }
+ const economics=fs.readFileSync(new URL('../economics.html',import.meta.url),'utf8');
+ assert.match(economics,/src="economics-app\.mjs"/);
+ assert.doesNotMatch(economics,/src="app\.mjs"/);
 });
 test('Oxford chapter order matches source headings and keeps custom topics',()=>{
  assert.equal(CHAPTERS.length,34);

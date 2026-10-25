@@ -16,6 +16,7 @@ for(const entry of common)await cp(entry,path.join(biology,entry),{recursive:tru
 await cp('bank',path.join(biology,'bank'),{recursive:true});
 await cp('economics.html',path.join(economics,'index.html'));
 await cp('economics-app.mjs',path.join(economics,'app.mjs'));
+await cp('economics-app.mjs',path.join(economics,'economics-app.mjs'));
 for(const entry of common)await cp(entry,path.join(economics,entry),{recursive:true});
 await mkdir(path.join(economics,'bank','economics'),{recursive:true});
 await cp('bank/economics',path.join(economics,'bank','economics'),{recursive:true});
