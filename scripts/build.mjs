@@ -8,6 +8,9 @@ const common=['styles.css','lib.mjs','rendering.mjs','word-preview.mjs','exports
 await cp('hub.html',path.join(destination,'index.html'));
 await cp('hub.mjs',path.join(destination,'hub.mjs'));
 for(const entry of ['styles.css','lib.mjs','preferences.mjs','assets','vendor'])await cp(entry,path.join(destination,entry),{recursive:true});
+const subjectRedirect=(target,title)=>`<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0; url=${target}"><title>${title}</title></head><body><p>Opening ${title}...</p><script>location.replace('${target}'+location.search+location.hash);</script></body></html>`;
+await writeFile(path.join(destination,'biology-index.html'),subjectRedirect('biology/','Biology Bank'));
+await writeFile(path.join(destination,'economics.html'),subjectRedirect('economics/','Economics Bank'));
 const biology=path.join(destination,'biology'),economics=path.join(destination,'economics');
 await mkdir(biology,{recursive:true});await mkdir(economics,{recursive:true});
 await cp('biology-index.html',path.join(biology,'index.html'));
