@@ -50,10 +50,13 @@ try {
   assert.equal(await page.locator('.quiz-numbers button').count(), 2);
   const quizBookmark = action('bookmark');
   assert.equal(await quizBookmark.evaluate(button => getComputedStyle(button).backgroundColor), 'rgb(255, 255, 255)');
+  assert.notEqual(await quizBookmark.evaluate(button => getComputedStyle(button.querySelector('svg')).stroke), 'rgb(244, 197, 66)');
   await quizBookmark.click();
-  assert.equal(await action('bookmark').evaluate(button => getComputedStyle(button).backgroundColor), 'rgb(244, 197, 66)');
+  assert.equal(await action('bookmark').evaluate(button => getComputedStyle(button).backgroundColor), 'rgb(255, 255, 255)');
+  assert.equal(await action('bookmark').evaluate(button => getComputedStyle(button.querySelector('svg')).stroke), 'rgb(244, 197, 66)');
   await action('bookmark').click();
   assert.equal(await action('bookmark').evaluate(button => getComputedStyle(button).backgroundColor), 'rgb(255, 255, 255)');
+  assert.notEqual(await action('bookmark').evaluate(button => getComputedStyle(button.querySelector('svg')).stroke), 'rgb(244, 197, 66)');
   await action('bookmark').click();
   await page.goto(origin + 'economics/#saved');
   await page.locator('.question-card').first().waitFor();
